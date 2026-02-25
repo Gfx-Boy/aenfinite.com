@@ -1,0 +1,2962 @@
+﻿// Language: Chinese (Simplified) (zh)
+// Auto-generated from English source - do not edit directly
+import type { Metadata } from 'next';
+import HtmlPage from '@/components/HtmlPage';
+
+export const metadata: Metadata = {
+  title: "AenfiniteÂ® | ä¸“ä¸šæ•°å­—åˆ›æ–°æœºæž„ | ç½‘é¡µè®¾è®¡ã€å“ç‰Œç­–åˆ’ä¸Žæ•°å­—è¥é”€",
+  description: "AenfiniteÂ® is a professional ä¸“æ³¨äºŽä»¥ä¸‹é¢†åŸŸçš„æ•°å­—åˆ›æ–°æœºæž„ï¼š å®šåˆ¶ç½‘é¡µè®¾è®¡ã€å“ç‰Œå½¢è±¡ã€UI/UXè®¾è®¡ã€æ•°å­—è¥é”€ã€ç”µå­å•†åŠ¡å¼€å‘åŠå…¨é¢çš„æ•°å­—åŒ–è½¬åž‹è§£å†³æ–¹æ¡ˆ. æœåŠ¡äºŽç¾Žå›½å’ŒåŠ æ‹¿å¤§çš„ä¼ä¸š.",
+  keywords: "æ•°å­—æœºæž„, ç½‘é¡µè®¾è®¡æœºæž„, å“ç‰Œæœºæž„, ä¸¹ä½›æ•°å­—è¥é”€æœºæž„, UI UXè®¾è®¡, å®šåˆ¶ç½‘ç«™å¼€å‘, SEOæœåŠ¡, åº”ç”¨å¼€å‘, ç”µå­å•†åŠ¡å¼€å‘, æ•°å­—åŒ–è½¬åž‹, Aenfinite",
+  alternates: { canonical: "https://aenfinite.com/zh/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
+  openGraph: {"title":"AenfiniteÂ® | ä¸“ä¸šæ•°å­—åˆ›æ–°æœºæž„ | ç½‘é¡µè®¾è®¡ã€å“ç‰Œç­–åˆ’ä¸Žæ•°å­—è¥é”€","description":"AenfiniteÂ® is a professional ä¸“æ³¨äºŽä»¥ä¸‹é¢†åŸŸçš„æ•°å­—åˆ›æ–°æœºæž„ï¼š å®šåˆ¶ç½‘é¡µè®¾è®¡ã€å“ç‰Œå½¢è±¡ã€UI/UXè®¾è®¡ã€æ•°å­—è¥é”€ã€ç”µå­å•†åŠ¡å¼€å‘åŠå…¨é¢çš„æ•°å­—åŒ–è½¬åž‹è§£å†³æ–¹æ¡ˆ. æœåŠ¡äºŽç¾Žå›½å’ŒåŠ æ‹¿å¤§çš„ä¼ä¸š.","url":"https://aenfinite.com/zh/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | å±¡èŽ·æ®Šè£çš„æ•°å­—åˆ›æ–°æœºæž„","description":"é€šè¿‡Aenfiniteè½¬åž‹æ‚¨çš„ä¸šåŠ¡Â®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  robots: { index: true, follow: true },
+};
+
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+
+const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+
+		#wp-admin-bar-wp-logo > .ab-item .ab-icon:before {
+			content: url('wp-content/uploads/2024/05/logo.svg') !important;
+			width: 75%;
+			height: auto;
+			left: 50%;
+			transform: translateX(-50%);
+			display: block;
+			background-size: contain;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
+		#wpadminbar #wp-admin-bar-wp-logo > .ab-item .ab-icon {
+			width: 9rem;
+			height: auto;
+		}		
+		#adminmenu, #adminmenuback, #adminmenuwrap, #wpadminbar {
+			background-color: #000 !important;
+		}
+
+		#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
+			background: #227bf3;
+		}
+		div#wpadminbar {
+			padding: 5px 0;
+		}
+		.acf-flexible-content .layout .acf-fc-layout-handle {
+			border-bottom: #383838 solid 1px !important;
+			background-color: #383838 !important;
+			color: #fff !important;
+		}
+		.acf-icon.-clear {
+			color: #fff;
+			border-color: #fff;
+		}				
+		.acf-flexible-content .layout .acf-fc-layout-controls .acf-icon.-plus, .acf-flexible-content .layout .acf-fc-layout-controls .acf-icon.-minus, .acf-flexible-content .layout .acf-fc-layout-controls .acf-icon.-duplicate {
+			visibility: visible!important;
+		}		
+		@media (min-width:1024px) {
+			#post-body.columns-2 #postbox-container-1 {
+				float: right;
+				margin-right: 20px;
+				width: 280px;
+				height: 100%;
+				position: fixed;
+				right: 0;
+			}
+			#poststuff #post-body.columns-2 #side-sortables {
+				overflow-y: scroll;
+				max-height: 80vh;
+				padding-bottom: 30px;
+			}	
+		}		
+    
+    /* Aenfinite Logo Rich åŠ¨ç”» */
+    .ae-text {
+        font-family: 'Arial', sans-serif;
+        font-size: 120px;
+        font-weight: 700;
+        color: #227bf3;
+        text-align: center;
+        animation: smoothRotate 4s infinite linear, pulse 2s infinite ease-in-out, glow 3s infinite ease-in-out;
+        transform-origin: center center;
+        transition: all 0.3s ease;
+        text-shadow: 0 0 20px rgba(34, 123, 243, 0.3);
+        letter-spacing: -5px;
+    }
+    
+    .rotating-logo {
+        display: none;
+    }
+    
+    .aenfinite-logo {
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        opacity: 0;
+        z-index: 10001;
+        transition: opacity 0.5s ease-in-out;
+        animation: delayedFadeIn 0.5s ease-in-out 3s forwards;
+    }
+    
+    .aenfinite-full {
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        opacity: 1;
+        z-index: 10000;
+        transition: opacity 0.5s ease-in-out;
+    }
+    
+    .aenfinite-full img {
+        animation: slideInFromLeft 1.2s ease-out;
+        width: 70vw !important;
+        max-width: 500px !important;
+        height: auto !important;
+        min-width: 280px !important;
+        filter: brightness(0) saturate(100%);
+    }
+    
+    .preloader-logo {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        padding: 60px;
+        box-sizing: border-box;
+        max-width: 100vw;
+        overflow: hidden;
+    }
+    
+    /* Keyframe åŠ¨ç”» */
+    @keyframes smoothRotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+    }
+    
+    @keyframes pulse {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+    }
+    
+    @keyframes glow {
+        0%, 100% { 
+            text-shadow: 0 0 20px rgba(34, 123, 243, 0.3),
+                        0 0 40px rgba(34, 123, 243, 0.1),
+                        0 0 60px rgba(34, 123, 243, 0.05);
+        }
+        50% { 
+            text-shadow: 0 0 30px rgba(34, 123, 243, 0.6),
+                        0 0 60px rgba(34, 123, 243, 0.2),
+                        0 0 90px rgba(34, 123, 243, 0.1);
+        }
+    }
+    
+    @keyframes fadeInScale {
+        0% {
+            opacity: 0;
+            transform: scale(0.8);
+        }
+        100% {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+    
+    @keyframes delayedFadeInScale {
+        0% {
+            opacity: 0;
+            transform: scale(0.8);
+        }
+        100% {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+    
+    @keyframes fadeOutAfterDelay {
+        0% {
+            opacity: 1;
+            transform: scale(1);
+        }
+        100% {
+            opacity: 0;
+            transform: scale(0.9);
+        }
+    }
+    
+    @keyframes slideInFromLeft {
+        0% {
+            opacity: 0;
+            transform: translateX(-50px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+    
+    @keyframes delayedFadeIn {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+    
+    /* Navigation Logo Styling */
+    .nav-logo {
+        height: 28px !important;
+        width: auto !important;
+        max-width: 140px !important;
+        transition: all 0.3s ease;
+        filter: none;
+        object-fit: contain;
+        object-position: left center;
+    }
+    
+    /* Ensure consistent sizing for both logo variants */
+    .nav-logo-default,
+    .nav-logo-active {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 28px !important;
+        width: auto !important;
+        max-width: 140px !important;
+        object-fit: contain;
+        object-position: left center;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        transform-origin: left center;
+    }
+    
+    /* Container for logos to maintain position */
+    .topbar-logo a {
+        position: relative;
+        display: inline-block;
+        height: 28px;
+        min-width: 140px;
+    }
+    
+    /* Default state - show white logo, hide active logo */
+    .nav-logo-default {
+        display: block;
+        opacity: 1;
+        transform: scale(1);
+        z-index: 2;
+    }
+    
+    .nav-logo-active {
+        display: block;
+        opacity: 0;
+        transform: scale(0.95);
+        z-index: 1;
+    }
+    
+    /* When navbar becomes active/dark - hide white logo, show blue logo */
+    .mainnav.active .nav-logo-default,
+    .mainnav.always-active .nav-logo-default,
+    .mainnav:hover .nav-logo-default {
+        opacity: 0;
+        transform: scale(0.95);
+        z-index: 1;
+    }
+    
+    .mainnav.active .nav-logo-active,
+    .mainnav.always-active .nav-logo-active,
+    .mainnav:hover .nav-logo-active {
+        opacity: 1;
+        transform: scale(1.05);
+        z-index: 2;
+    }
+    
+    /* Hover Effects for Extra Richness */
+    .rotating-logo:hover {
+        animation-duration: 1s;
+        filter: drop-shadow(0 0 30px rgba(34, 123, 243, 0.8));
+        transform: scale(1.1);
+    }
+    
+    /* Mobile å“åº”å¼è®¾è®¡ */
+    @media (max-width: 768px) {
+        .aenfinite-full img {
+            width: 85vw !important;
+            max-width: 350px !important;
+        }
+        .rotating-logo {
+            width: 40vw !important;
+            max-width: 120px !important;
+        }
+        .preloader-logo {
+            padding: 30px 15px !important;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .aenfinite-full img {
+            width: 90vw !important;
+            max-width: 280px !important;
+        }
+        .rotating-logo {
+            width: 50vw !important;
+            max-width: 100px !important;
+        }
+    }
+    
+    /* Animation Phase Control */
+    .loading-phase-1 .aenfinite-full {
+        opacity: 1;
+    }
+    
+    .loading-phase-1 .aenfinite-logo {
+        opacity: 0;
+    }
+    
+    .loading-phase-2 .aenfinite-full {
+        opacity: 1;
+    }
+    
+    .loading-phase-2 .aenfinite-logo {
+        opacity: 0;
+    }
+    
+    .loading-phase-3 .aenfinite-full {
+        opacity: 0;
+    }
+    
+    .loading-phase-3 .aenfinite-logo {
+        opacity: 1;
+    }
+    
+    .loading-phase-4 .aenfinite-full {
+        opacity: 0;
+    }
+    
+    .loading-phase-4 .aenfinite-logo {
+        opacity: 1;
+    }
+    
+    .loading-phase-5 .aenfinite-logo {
+        opacity: 1;
+    }
+    
+    .loading-phase-5 .aenfinite-full {
+        opacity: 0;
+    }
+
+    /* Floating Heart Element */
+    .floating-heart {
+        position: fixed;
+        bottom: 8%;
+        left: 3%;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        z-index: 9999;
+        opacity: 0.8;
+        transition: all 0.3s ease;
+        animation: heartFloat 3s ease-in-out infinite;
+        user-select: none;
+    }
+
+    .floating-heart:hover {
+        opacity: 1;
+        transform: scale(1.1);
+        animation-play-state: paused;
+    }
+
+    .floating-heart img {
+        width: 100%;
+        height: 100%;
+        filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+    }
+
+    .floating-heart .heart-tooltip {
+        position: absolute;
+        bottom: -45px;
+        left: 0;
+        background: rgba(34, 123, 243, 0.9);
+        color: white;
+        padding: 8px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 500;
+        white-space: nowrap;
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
+        pointer-events: none;
+    }
+
+    .floating-heart:hover .heart-tooltip {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    .floating-heart .heart-tooltip:after {
+        content: '';
+        position: absolute;
+        bottom: 100%;
+        left: 15px;
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid rgba(34, 123, 243, 0.9);
+    }
+
+    @keyframes heartFloat {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        25% { transform: translateY(-10px) rotate(1deg); }
+        50% { transform: translateY(-5px) rotate(-1deg); }
+        75% { transform: translateY(-8px) rotate(1deg); }
+    }
+
+    /* Mobile responsive */
+    @media (max-width: 768px) {
+        .floating-heart {
+            width: 45px;
+            height: 45px;
+            left: 5%;
+            bottom: 6%;
+        }
+        
+        .floating-heart .heart-tooltip {
+            font-size: 11px;
+            padding: 6px 10px;
+        }
+    }
+
+  
+
+    /* Header Heart Animation */
+    .header-heart {
+        position: relative;
+        z-index: -1;
+    }
+    
+    .header-heart .heart {
+        animation: heartBeat 2s ease-in-out infinite;
+        transform-origin: center;
+    }
+	.shiftbox {
+		margin-top: 0px !important;
+	}
+
+    .header-heart .heart img {
+        transition: all 0.3s ease;
+        filter: drop-shadow(0 2px 4px rgba(247, 84, 34, 0.3));
+    }
+
+    .header-heart .heart:hover img {
+        transform: scale(1.2);
+        filter: drop-shadow(0 4px 8px rgba(247, 84, 34, 0.5));
+    }
+
+    @keyframes heartBeat {
+        0%, 100% { 
+            transform: scale(1) rotate(0deg); 
+        }
+        15% { 
+            transform: scale(1.1) rotate(2deg); 
+        }
+        30% { 
+            transform: scale(1.05) rotate(-1deg); 
+        }
+        45% { 
+            transform: scale(1.15) rotate(1deg); 
+        }
+        60% { 
+            transform: scale(1.02) rotate(-0.5deg); 
+        }
+        75% { 
+            transform: scale(1.08) rotate(0.5deg); 
+        }
+    }
+    
+  
+    
+
+		/* è”ç³»æˆ‘ä»¬ Form Checkbox Styling - High Specificity */
+		.checkbox-select {
+			margin: 20px 0 !important;
+		}
+		
+		.checkbox-select strong {
+			display: block !important;
+			margin-bottom: 15px !important;
+			font-size: 16px !important;
+			font-weight: 600 !important;
+			color: #333 !important;
+		}
+		
+		.form-control-wrap .checkbox-group {
+			display: flex !important;
+			flex-wrap: wrap !important;
+			gap: 10px !important;
+		}
+		
+		.list-item {
+			display: flex !important;
+			align-items: center !important;
+			background: #f8f9fa !important;
+			border: 1px solid #e0e0e0 !important;
+			border-radius: 25px !important;
+			padding: 8px 16px !important;
+			transition: all 0.3s ease !important;
+			cursor: pointer !important;
+			min-width: fit-content !important;
+			margin: 0 !important;
+		}
+		
+		.list-item:hover {
+			background: #e3f2fd !important;
+			border-color: #227bf3 !important;
+			transform: translateY(-1px) !important;
+		}
+		
+		.list-item input[type="checkbox"] {
+			margin: 0 8px 0 0 !important;
+			accent-color: #227bf3 !important;
+			transform: scale(1.1) !important;
+		}
+		
+		.list-item-label {
+			font-size: 14px !important;
+			font-weight: 500 !important;
+			color: #555 !important;
+			cursor: pointer !important;
+			margin: 0 !important;
+			white-space: nowrap !important;
+		}
+		
+		.list-item:hover .list-item-label {
+			color: #227bf3 !important;
+		}
+			.list-item input[type="checkbox"]:checked + .list-item-label {
+			background: #227bf3 !important;
+			color: white !important;
+		}
+		
+		.list-item:has(input[type="checkbox"]:checked) {
+			background: #227bf3 !important;
+			border-color: #227bf3 !important;
+		}
+		
+		.list-item:has(input[type="checkbox"]:checked) .list-item-label {
+			color: white !important;
+		}
+		.form-control-wrap .checkbox-group {
+			display: flex !important;
+			flex-wrap: wrap !important;
+			gap: 10px !important;
+		}
+		
+		.list-item {
+			display: flex !important;
+			align-items: center !important;
+			background: #f8f9fa !important;
+			border: 1px solid #e0e0e0 !important;
+			border-radius: 25px !important;
+			padding: 8px 16px !important;
+			transition: all 0.3s ease !important;
+			cursor: pointer !important;
+			min-width: fit-content !important;
+			box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
+			margin: 0 !important;
+			position: relative !important;
+			transform-origin: center center !important;
+		}
+		
+		.list-item:hover {
+			background: #e3f2fd !important;
+			border-color: #227bf3 !important;
+			box-shadow: 0 4px 8px rgba(34, 123, 243, 0.15) !important;
+			transform: translateY(-1px) !important;
+		}
+		
+		.list-item input[type="checkbox"] {
+			margin: 0 8px 0 0 !important;
+			accent-color: #227bf3 !important;
+			transform: scale(1.1) !important;
+		}
+		
+		.list-item-label {
+			font-size: 14px !important;
+			font-weight: 500 !important;
+			color: #555 !important;
+			cursor: pointer !important;
+			margin: 0 !important;
+			white-space: nowrap !important;
+		}
+		
+		.list-item:hover .list-item-label {
+			color: #227bf3 !important;
+		}
+		
+		/* Force override any existing styles */
+		.checkbox-group span.list-item {
+			display: flex !important;
+			align-items: center !important;
+			background: #f8f9fa !important;
+			border: 1px solid #e0e0e0 !important;
+			border-radius: 25px !important;
+			padding: 8px 16px !important;
+			margin: 0 !important;
+		}
+		
+		/* Responsive design for contact form */
+		@media (max-width: 768px) {
+			.form-control-wrap .checkbox-group {
+				gap: 8px !important;
+			}
+			
+			.list-item {
+				padding: 6px 12px !important;
+			}
+			
+			.list-item-label {
+				font-size: 13px !important;
+			}
+		}
+		
+		/* Force override any existing styles */
+		.checkbox-group span.list-item {
+			display: flex !important;
+			align-items: center !important;
+			background: #f8f9fa !important;
+			border: 1px solid #e0e0e0 !important;
+			border-radius: 25px !important;
+			padding: 8px 16px !important;
+			margin: 0 !important;
+		}
+		
+		/* Responsive design for contact form */
+		@media (max-width: 768px) {
+			.form-control-wrap .checkbox-group {
+				gap: 8px !important;
+			}
+			
+			.list-item {
+				padding: 6px 12px !important;
+			}
+			
+			.list-item-label {
+				font-size: 13px !important;
+			}
+		}
+		
+		/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+		.menu-item-has-children {
+			position: relative;
+		}
+		
+		/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+		.dropdown-list {
+			position: absolute;
+			top: 100%;
+			left: 0;
+			min-width: 200px;
+			width: auto;
+			opacity: 0;
+			visibility: hidden;
+			transform: translateY(-10px);
+			transition: all 0.3s ease;
+			z-index: 1000;
+			list-style: none;
+			padding: 5px 0;
+			margin: 0;
+			margin-top: 2px;
+		}
+		
+		/* Sub-menus - adaptive styling based on navbar state */
+		.sub-menu {
+			position: absolute;
+			top: -5px;
+			left: 100%;
+			margin-left: 1px;
+			min-width: 250px;
+			width: auto;
+			opacity: 0;
+			visibility: hidden;
+			transform: translateX(-20px);
+			transition: all 0.4s ease;
+			z-index: 1001;
+			list-style: none;
+			padding: 5px 0;
+			margin: 0;
+		}
+		
+		/* Default dropdown styling - no background, dark text (for top of page) */
+		.dropdown-list a,
+		.sub-menu a {
+			display: block;
+			padding: 10px 20px;
+			font-weight: bold;
+			color: #333;
+			text-decoration: none;
+			font-size: 16px;
+			transition: all 0.2s ease;
+			white-space: nowrap;
+			border-left: 3px solid transparent;
+		}
+		
+		.dropdown-list a:hover,
+		.sub-menu a:hover {
+			color: #007cba;
+		
+			padding-left: 15px;
+		}
+		
+		/* When navbar is active/scrolled - black background, white text */
+		.mainnav.active .dropdown-list,
+		.mainnav.active .sub-menu {
+		    margin-top: 10px;
+			background: #000;
+		}
+		
+		.mainnav.active .dropdown-list a,
+		.mainnav.active .sub-menu a {
+			color: #fff;
+		}
+		
+		.mainnav.active .dropdown-list a:hover,
+		.mainnav.active .sub-menu a:hover {
+			color: #007cba;
+		}
+		
+		/* When hovering over menu item with children, expand main dropdown to match sub-menu */
+		.menu-item-has-children:hover > .sub-menu {
+			opacity: 1;
+			visibility: visible;
+			transform: translateX(0);
+		}
+		
+		/* Expand main dropdown when sub-menu is hovered */
+		.menu-item-has-children:hover {
+			min-width: 250px;
+		}
+		
+		.dropdown-list:has(.menu-item-has-children:hover) {
+			min-width: 250px;
+			width: 250px;
+		}
+		
+		/* Mobile Styles */
+		@media (max-width: 768px) {
+			.sub-menu {
+				position: static;
+				opacity: 1;
+				visibility: visible;
+				transform: none;
+				box-shadow: none;
+				border: none;
+				border-left: 3px solid #007cba;
+				margin-left: 15px;
+				background: #f9f9f9;
+				max-height: 0;
+				overflow: hidden;
+				transition: max-height 0.3s ease;
+			}
+			
+			.menu-item-has-children.active > .sub-menu {
+				max-height: 500px;
+			}
+		}
+		
+
+			/* Advanced Cursor Styles */
+			* {
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+
+			body, html {
+				cursor: none !important;
+			}
+
+			svg {
+				display: none;
+			}
+
+			.aenfinite-cursor {
+				pointer-events: none;
+				position: fixed;
+				display: block;
+				border-radius: 0;
+				transform-origin: center center;
+				top: 0;
+				left: 0;
+				z-index: 99999;
+				filter: url("#goo");
+				width: 26px;
+				height: 26px;
+			}
+			 .header {
+			background-image: radial-gradient(black 1px, transparent 0);
+			background-size: 20px 20px;
+			background-position: -9px -9px;
+		}
+
+			.aenfinite-cursor span {
+				position: absolute;
+				display: block;
+				width: 26px;
+				height: 26px;
+				border-radius: 50%;
+				background-color: #227bf3;
+				transform-origin: center center;
+				transform: translate(-50%, -50%);
+			}
+
+			/* On mobile devices, hide the cursor and restore default behavior */
+			@media (max-width: 768px) {
+				.aenfinite-cursor {
+					display: none !important;
+				}
+				
+				body, html {
+					cursor: auto !important;
+				}
+			}
+		`;
+
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+			<defs>
+			  <filter id="goo">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
+				<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 35 -15" result="goo" />
+				<feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+			  </filter>
+			</defs>
+		</svg>
+<script>
+		 window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-K9VRBCFE61');
+		</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script>
+			// Advanced Cursor Implementation
+			function initAdvancedCursor() {
+				// Check if mobile device
+				if (window.innerWidth <= 768) {
+					return; // Don't initialize cursor on mobile
+				}
+
+				// Remove any existing cursor elements
+				const existingCursors = document.querySelectorAll('.aenfinite-cursor');
+				existingCursors.forEach(cursor => cursor.remove());
+
+				const cursor = document.createElement('div');
+				cursor.className = 'aenfinite-cursor';
+				cursor.id = 'aenfinite-cursor';
+				document.body.appendChild(cursor);
+
+				const amount = 20;
+				const sineDots = Math.floor(amount * 0.3);
+				const width = 26;
+				const idleTimeout = 150;
+				let lastFrame = 0;
+				let mousePosition = {x: 0, y: 0};
+				let dots = [];
+				let timeoutID;
+				let idle = false;
+
+				class Dot {
+					constructor(index = 0) {
+						this.index = index;
+						this.anglespeed = 0.05;
+						this.x = 0;
+						this.y = 0;
+						this.scale = 1 - 0.05 * index;
+						this.range = width / 2 - width / 2 * this.scale + 2;
+						this.limit = width * 0.75 * this.scale;
+						this.element = document.createElement("span");
+						if (window.gsap && window.gsap.set) {
+							gsap.set(this.element, {scale: this.scale});
+						} else {
+							this.element.style.transform = \`scale(\${this.scale})\`;
+						}
+						cursor.appendChild(this.element);
+					}
+
+					lock() {
+						this.lockX = this.x;
+						this.lockY = this.y;
+						this.angleX = Math.PI * 2 * Math.random();
+						this.angleY = Math.PI * 2 * Math.random();
+					}
+
+					draw(delta) {
+						if (!idle || this.index <= sineDots) {
+							if (window.gsap && window.gsap.set) {
+								gsap.set(this.element, {x: this.x, y: this.y});
+							} else {
+								this.element.style.transform = \`translate(\${this.x}px, \${this.y}px) scale(\${this.scale})\`;
+							}
+						} else {
+							this.angleX += this.anglespeed;
+							this.angleY += this.anglespeed;
+							this.y = this.lockY + Math.sin(this.angleY) * this.range;
+							this.x = this.lockX + Math.sin(this.angleX) * this.range;
+							if (window.gsap && window.gsap.set) {
+								gsap.set(this.element, {x: this.x, y: this.y});
+							} else {
+								this.element.style.transform = \`translate(\${this.x}px, \${this.y}px) scale(\${this.scale})\`;
+							}
+						}
+					}
+				}
+
+				function startIdleTimer() {
+					timeoutID = setTimeout(goInactive, idleTimeout);
+					idle = false;
+				}
+
+				function resetIdleTimer() {
+					clearTimeout(timeoutID);
+					startIdleTimer();
+				}
+
+				function goInactive() {
+					idle = true;
+					for (let dot of dots) {
+						dot.lock();
+					}
+				}
+
+				function buildDots() {
+					for (let i = 0; i < amount; i++) {
+						let dot = new Dot(i);
+						dots.push(dot);
+					}
+				}
+
+				const onMouseMove = event => {
+					mousePosition.x = event.clientX - width / 2;
+					mousePosition.y = event.clientY - width / 2;
+					resetIdleTimer();
+				};
+
+				const onTouchMove = (event) => {
+					if (event.touches && event.touches.length > 0) {
+						mousePosition.x = event.touches[0].clientX - width / 2;
+						mousePosition.y = event.touches[0].clientY - width / 2;
+						resetIdleTimer();
+					}
+				};
+
+				const render = timestamp => {
+					const delta = timestamp - lastFrame;
+					positionCursor(delta);
+					lastFrame = timestamp;
+					requestAnimationFrame(render);
+				};
+
+				const positionCursor = delta => {
+					let x = mousePosition.x;
+					let y = mousePosition.y;
+					dots.forEach((dot, index, dots) => {
+						let nextDot = dots[index + 1] || dots[0];
+						dot.x = x;
+						dot.y = y;
+						dot.draw(delta);
+						if (!idle || index <= sineDots) {
+							const dx = (nextDot.x - dot.x) * 0.35;
+							const dy = (nextDot.y - dot.y) * 0.35;
+							x += dx;
+							y += dy;
+						}
+					});
+				};
+
+				// Initialize cursor system
+				window.addEventListener("mousemove", onMouseMove);
+				window.addEventListener("touchmove", onTouchMove);
+				lastFrame = performance.now();
+				buildDots();
+				render();
+				startIdleTimer();
+
+				// Handle window resize
+				window.addEventListener('resize', function() {
+					if (window.innerWidth <= 768) {
+						// Remove cursor on mobile
+						const cursorEl = document.getElementById('aenfinite-cursor');
+						if (cursorEl) {
+							cursorEl.remove();
+						}
+					} else if (!document.getElementById('aenfinite-cursor')) {
+						// Reinitialize cursor on desktop
+						initAdvancedCursor();
+					}
+				});
+			}
+
+			// Initialize cursor when DOM is ready
+			document.addEventListener('DOMContentLoaded', function() {
+				initAdvancedCursor();
+			});
+
+			// Backup initialization
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', initAdvancedCursor);
+			} else {
+				initAdvancedCursor();
+			}
+		</script>
+<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			// Desktop hover functionality
+			const menuItems = document.querySelectorAll('.menu-item-has-children');
+			
+			menuItems.forEach(function(item) {
+				let hoverTimeout;
+				
+				// Mouse enter event
+				item.addEventListener('mouseenter', function() {
+					clearTimeout(hoverTimeout);
+					this.classList.add('hover');
+				});
+				
+				// Mouse leave event
+				item.addEventListener('mouseleave', function() {
+					const self = this;
+					hoverTimeout = setTimeout(function() {
+						self.classList.remove('hover');
+					}, 100);
+				});
+				
+				// Mobile click functionality
+				const link = item.querySelector(':scope > a');
+				if (link) {
+					link.addEventListener('click', function(e) {
+						// Only prevent default on mobile
+						if (window.innerWidth <= 768) {
+							e.preventDefault();
+							item.classList.toggle('active');
+							
+							// Close other open dropdowns at the same level
+							const siblings = item.parentNode.children;
+							for (let i = 0; i < siblings.length; i++) {
+								if (siblings[i] !== item && siblings[i].classList.contains('menu-item-has-children')) {
+									siblings[i].classList.remove('active');
+								}
+							}
+						}
+					});
+				}
+			});
+			
+			// Close dropdowns when clicking outside
+			document.addEventListener('click', function(e) {
+				if (!e.target.closest('.menu-item-has-children') && !e.target.closest('.dropdown-list')) {
+					menuItems.forEach(function(item) {
+						item.classList.remove('active', 'hover');
+					});
+				}
+			});
+			
+			// Handle window resize
+			window.addEventListener('resize', function() {
+				if (window.innerWidth > 768) {
+					// Remove mobile classes on desktop
+					menuItems.forEach(function(item) {
+						item.classList.remove('active');
+					});
+				}
+			});
+		});
+		</script>
+
+		
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53L4TW5R"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->	
+
+		<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+			<symbol id="i-chevron" viewBox="0 0 18 10">
+				<path d="M1 1L9 9L17 1" stroke="currentColor" fill="none" />
+			</symbol>
+			<symbol id="i-heart2" viewBox="0 0 177 131">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M88.374 46.1963L42.7566 0.578893L0.642578 42.6929L88.3777 130.428L130.492 88.314L130.488 88.3103L176.684 42.114L134.57 0L88.374 46.1963Z" fill="currentColor" />
+			</symbol>
+			<symbol id="i-heart" viewBox="0 0 428 317">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M213.037 112.292L102.149 1.28808L0.0263672 103.517L212.776 316.488L214.104 315.159L215.873 313.451L427.115 102.009L325.211 0L213.037 112.292Z" fill="currentColor"/>
+<path d="M215.497 294.602L207.394 286.5L209.932 283.962C210.007 283.887 210.148 283.75 210.354 283.551C210.564 283.349 210.776 283.167 210.99 283.005C211.703 282.45 212.462 282.144 213.269 282.088C214.079 282.028 214.884 282.176 215.683 282.533C216.478 282.885 217.219 283.405 217.905 284.091C218.595 284.781 219.119 285.526 219.475 286.325C219.828 287.12 219.974 287.923 219.914 288.733C219.854 289.536 219.546 290.294 218.991 291.007C218.83 291.22 218.648 291.432 218.445 291.642C218.247 291.849 218.11 291.989 218.035 292.064L215.497 294.602ZM215.581 292.278L216.915 290.945C217.042 290.817 217.191 290.661 217.359 290.478C217.528 290.294 217.669 290.123 217.781 289.966C218.115 289.474 218.271 288.962 218.248 288.43C218.226 287.889 218.07 287.355 217.781 286.826C217.493 286.297 217.117 285.802 216.656 285.34C216.18 284.864 215.677 284.485 215.148 284.204C214.615 283.919 214.083 283.769 213.55 283.754C213.017 283.731 212.511 283.885 212.031 284.215C211.87 284.324 211.697 284.466 211.513 284.643C211.329 284.811 211.176 284.958 211.052 285.082L209.718 286.415L215.581 292.278ZM225.681 284.756C225.073 285.364 224.409 285.754 223.689 285.926C222.969 286.099 222.246 286.067 221.522 285.831C220.799 285.587 220.121 285.15 219.491 284.52C218.857 283.886 218.424 283.205 218.191 282.477C217.955 281.746 217.927 281.024 218.107 280.311C218.283 279.594 218.67 278.938 219.266 278.341C219.874 277.734 220.538 277.344 221.258 277.171C221.978 276.999 222.7 277.03 223.424 277.267C224.148 277.503 224.824 277.934 225.45 278.561C226.084 279.195 226.519 279.878 226.755 280.609C226.992 281.333 227.024 282.055 226.851 282.775C226.675 283.492 226.285 284.152 225.681 284.756ZM224.572 283.648C225.154 283.066 225.392 282.438 225.287 281.763C225.182 281.08 224.82 280.429 224.201 279.81C223.567 279.176 222.914 278.816 222.243 278.73C221.571 278.636 220.949 278.876 220.375 279.45C219.981 279.844 219.746 280.258 219.671 280.693C219.592 281.125 219.649 281.56 219.84 281.999C220.028 282.434 220.328 282.858 220.74 283.271C221.378 283.908 222.035 284.272 222.71 284.362C223.385 284.452 224.006 284.214 224.572 283.648ZM233.602 276.497L230.614 273.509C230.378 273.273 230.115 273.052 229.826 272.845C229.537 272.632 229.23 272.474 228.903 272.373C228.581 272.268 228.253 272.251 227.919 272.322C227.589 272.39 227.262 272.585 226.94 272.907C226.73 273.117 226.566 273.352 226.45 273.611C226.33 273.866 226.276 274.141 226.287 274.438C226.302 274.73 226.394 275.044 226.563 275.378C226.735 275.708 227.002 276.053 227.362 276.413L226.355 276.869C225.803 276.317 225.42 275.728 225.207 275.102C224.989 274.472 224.955 273.845 225.105 273.222C225.255 272.6 225.604 272.015 226.152 271.467C226.572 271.047 226.992 270.762 227.412 270.612C227.832 270.462 228.241 270.409 228.639 270.454C229.037 270.492 229.412 270.593 229.764 270.758C230.117 270.923 230.434 271.112 230.715 271.326C230.997 271.54 231.231 271.741 231.419 271.928L234.795 275.304L233.602 276.497ZM229.331 280.768L223.254 274.691L224.306 273.639L226.062 275.394L226.203 275.254L230.524 279.575L229.331 280.768ZM230.127 269.169L229.677 268.572C229.849 268.422 229.945 268.267 229.964 268.105C229.982 267.944 229.943 267.785 229.845 267.627C229.748 267.47 229.609 267.32 229.429 267.177L228.782 267.824L227.426 266.468L228.669 265.225L230.138 266.693C230.581 267.136 230.808 267.577 230.819 268.015C230.834 268.451 230.603 268.835 230.127 269.169ZM241.467 268.632C241.159 269.09 240.816 269.497 240.437 269.853C240.058 270.21 239.659 270.467 239.238 270.624C238.818 270.782 238.394 270.793 237.967 270.658C237.584 270.538 237.258 270.354 236.988 270.107C236.718 269.852 236.418 269.559 236.087 269.229L230.714 263.855L231.895 262.674L237.213 267.991C237.457 268.235 237.67 268.445 237.854 268.621C238.042 268.794 238.233 268.906 238.428 268.959C238.796 269.056 239.143 268.976 239.469 268.717C239.795 268.451 240.129 268.09 240.471 267.637L241.467 268.632ZM232.182 267.653L231.237 266.708L235.39 262.556L236.335 263.501L232.182 267.653ZM247.235 263.202C246.653 263.783 246.025 264.13 245.35 264.243C244.671 264.352 243.988 264.266 243.302 263.984C242.615 263.703 241.968 263.258 241.36 262.651C240.753 262.043 240.306 261.398 240.021 260.715C239.74 260.029 239.655 259.351 239.768 258.684C239.88 258.009 240.224 257.384 240.798 256.81C241.368 256.24 242 255.889 242.694 255.758C243.388 255.619 244.089 255.679 244.798 255.938C245.503 256.193 246.162 256.626 246.773 257.238C247.381 257.845 247.816 258.506 248.079 259.218C248.341 259.924 248.407 260.623 248.276 261.317C248.148 262.007 247.801 262.636 247.235 263.202ZM246.908 268.593L238.13 259.815L239.177 258.768L243.549 263.14L243.684 263.005L248.09 267.411L246.908 268.593ZM246.008 262.302C246.383 261.927 246.597 261.522 246.649 261.086C246.706 260.647 246.633 260.207 246.43 259.764C246.227 259.314 245.925 258.888 245.524 258.487C245.126 258.089 244.704 257.791 244.258 257.592C243.815 257.39 243.373 257.318 242.93 257.378C242.487 257.438 242.071 257.663 241.681 258.054C241.313 258.421 241.1 258.815 241.04 259.235C240.983 259.652 241.058 260.079 241.265 260.518C241.475 260.953 241.79 261.381 242.21 261.801C242.63 262.221 243.058 262.536 243.493 262.746C243.928 262.956 244.359 263.031 244.787 262.971C245.215 262.911 245.622 262.688 246.008 262.302ZM250.666 259.433L244.589 253.356L245.635 252.31L247.11 253.784L246.772 253.739C246.652 253.469 246.571 253.193 246.53 252.912C246.485 252.627 246.489 252.353 246.541 252.09C246.583 251.824 246.667 251.567 246.795 251.319C246.922 251.064 247.08 250.832 247.267 250.622C247.451 250.408 247.652 250.226 247.869 250.076L248.972 251.179C248.721 251.325 248.485 251.531 248.263 251.798C248.046 252.06 247.901 252.358 247.83 252.692C247.762 253.007 247.761 253.309 247.824 253.598C247.892 253.883 248.01 254.159 248.179 254.425C248.344 254.688 248.546 254.939 248.787 255.179L251.853 258.246L250.666 259.433ZM257.378 253.059C256.774 253.663 256.112 254.062 255.392 254.257C254.672 254.445 253.948 254.43 253.22 254.212C252.492 253.987 251.815 253.561 251.189 252.935C250.525 252.271 250.073 251.571 249.833 250.836C249.596 250.097 249.568 249.371 249.748 248.658C249.928 247.946 250.315 247.293 250.907 246.7C251.526 246.081 252.198 245.699 252.922 245.552C253.642 245.402 254.373 245.485 255.116 245.8C255.863 246.111 256.577 246.653 257.26 247.426L256.084 248.602L255.656 248.175C254.944 247.477 254.287 247.09 253.687 247.015C253.09 246.937 252.526 247.164 251.993 247.696C251.404 248.285 251.147 248.914 251.222 249.581C251.297 250.249 251.686 250.934 252.387 251.635C253.055 252.303 253.721 252.672 254.385 252.743C255.045 252.811 255.654 252.565 256.213 252.006C256.581 251.639 256.815 251.239 256.917 250.808C257.018 250.369 256.988 249.919 256.827 249.457L258.346 248.67C258.654 249.45 258.717 250.23 258.537 251.01C258.353 251.787 257.967 252.47 257.378 253.059ZM252.336 252.35L251.419 251.432L255.758 247.094L256.675 248.011L252.336 252.35ZM263.322 247.103C262.583 247.842 261.818 248.281 261.026 248.42C260.235 248.559 259.49 248.384 258.792 247.897L259.811 246.507C260.201 246.747 260.623 246.824 261.077 246.738C261.531 246.644 261.96 246.394 262.365 245.989C262.733 245.622 262.945 245.26 263.001 244.903C263.061 244.543 262.96 244.232 262.697 243.969C262.544 243.815 262.382 243.729 262.214 243.71C262.045 243.684 261.801 243.744 261.482 243.89C261.163 244.037 260.702 244.284 260.098 244.633C259.441 245.02 258.882 245.29 258.421 245.443C257.96 245.59 257.56 245.625 257.223 245.55C256.885 245.468 256.568 245.278 256.272 244.982C255.904 244.614 255.681 244.196 255.602 243.727C255.523 243.258 255.585 242.773 255.788 242.27C255.994 241.764 256.335 241.272 256.812 240.796C257.277 240.331 257.765 239.989 258.275 239.772C258.785 239.554 259.288 239.468 259.783 239.513C260.274 239.554 260.722 239.732 261.128 240.047L260.143 241.471C259.809 241.22 259.441 241.126 259.04 241.19C258.639 241.253 258.245 241.463 257.858 241.82C257.487 242.161 257.258 242.51 257.172 242.866C257.082 243.219 257.153 243.512 257.386 243.744C257.521 243.879 257.676 243.952 257.853 243.964C258.033 243.971 258.288 243.896 258.618 243.739C258.948 243.581 259.411 243.324 260.008 242.968C260.649 242.589 261.201 242.33 261.662 242.191C262.12 242.049 262.523 242.024 262.872 242.118C263.221 242.204 263.551 242.403 263.862 242.714C264.462 243.315 264.714 244.005 264.616 244.785C264.522 245.562 264.091 246.334 263.322 247.103ZM268.962 241.464C268.223 242.203 267.457 242.642 266.666 242.781C265.874 242.919 265.13 242.745 264.432 242.257L265.45 240.867C265.841 241.107 266.263 241.184 266.717 241.098C267.17 241.004 267.6 240.755 268.005 240.35C268.373 239.982 268.585 239.62 268.641 239.264C268.701 238.904 268.6 238.592 268.337 238.33C268.183 238.176 268.022 238.09 267.853 238.071C267.684 238.045 267.44 238.105 267.122 238.251C266.803 238.397 266.341 238.645 265.737 238.994C265.081 239.38 264.522 239.65 264.061 239.804C263.599 239.95 263.2 239.986 262.862 239.911C262.525 239.828 262.208 239.639 261.911 239.343C261.544 238.975 261.32 238.557 261.242 238.088C261.163 237.619 261.225 237.133 261.427 236.63C261.634 236.124 261.975 235.633 262.451 235.156C262.917 234.691 263.404 234.35 263.914 234.132C264.425 233.915 264.927 233.828 265.422 233.873C265.914 233.915 266.362 234.093 266.767 234.408L265.782 235.831C265.449 235.58 265.081 235.486 264.68 235.55C264.278 235.614 263.884 235.824 263.498 236.18C263.127 236.522 262.898 236.87 262.812 237.227C262.721 237.579 262.793 237.872 263.025 238.105C263.16 238.24 263.316 238.313 263.492 238.324C263.672 238.332 263.927 238.257 264.258 238.099C264.588 237.941 265.051 237.684 265.647 237.328C266.289 236.949 266.84 236.69 267.302 236.552C267.759 236.409 268.163 236.385 268.511 236.478C268.86 236.565 269.19 236.764 269.502 237.075C270.102 237.675 270.353 238.365 270.256 239.146C270.162 239.922 269.731 240.695 268.962 241.464ZM277.451 232.649C277.143 233.106 276.8 233.513 276.421 233.87C276.042 234.226 275.642 234.483 275.222 234.64C274.802 234.798 274.378 234.809 273.951 234.674C273.568 234.554 273.242 234.37 272.972 234.123C272.702 233.868 272.401 233.575 272.071 233.245L266.698 227.871L267.879 226.69L273.197 232.007C273.44 232.251 273.654 232.461 273.838 232.637C274.026 232.81 274.217 232.922 274.412 232.975C274.78 233.072 275.127 232.992 275.453 232.733C275.779 232.467 276.113 232.107 276.455 231.653L277.451 232.649ZM268.166 231.669L267.221 230.724L271.374 226.572L272.319 227.517L268.166 231.669ZM282.603 227.496L279.615 224.508C279.379 224.272 279.116 224.051 278.827 223.844C278.539 223.63 278.231 223.473 277.905 223.372C277.582 223.267 277.254 223.25 276.92 223.321C276.59 223.388 276.263 223.584 275.941 223.906C275.731 224.116 275.568 224.351 275.451 224.61C275.331 224.865 275.277 225.14 275.288 225.437C275.303 225.729 275.395 226.042 275.564 226.376C275.736 226.706 276.003 227.052 276.363 227.412L275.356 227.867C274.804 227.316 274.422 226.727 274.208 226.101C273.99 225.47 273.956 224.844 274.107 224.221C274.257 223.599 274.605 223.013 275.153 222.466C275.573 222.046 275.993 221.76 276.414 221.61C276.834 221.46 277.243 221.408 277.64 221.453C278.038 221.49 278.413 221.592 278.766 221.757C279.118 221.922 279.435 222.111 279.716 222.325C279.998 222.539 280.232 222.74 280.42 222.927L283.796 226.303L282.603 227.496ZM278.332 231.767L270.23 223.664L271.282 222.612L275.654 226.984L275.795 226.843L279.525 230.574L278.332 231.767ZM277.907 218.046L276.765 216.904L277.941 215.728L279.083 216.87L277.907 218.046ZM284.98 225.119L278.903 219.042L280.079 217.866L286.156 223.943L284.98 225.119ZM289.939 220.486C289.2 221.225 288.435 221.664 287.643 221.803C286.852 221.942 286.107 221.767 285.409 221.28L286.428 219.89C286.818 220.13 287.24 220.207 287.694 220.121C288.148 220.027 288.577 219.777 288.983 219.372C289.35 219.005 289.562 218.643 289.618 218.286C289.678 217.926 289.577 217.615 289.314 217.352C289.161 217.198 288.999 217.112 288.831 217.093C288.662 217.067 288.418 217.127 288.099 217.273C287.78 217.42 287.319 217.667 286.715 218.016C286.058 218.403 285.5 218.673 285.038 218.826C284.577 218.973 284.177 219.008 283.84 218.933C283.502 218.851 283.185 218.661 282.889 218.365C282.521 217.997 282.298 217.579 282.219 217.11C282.14 216.641 282.202 216.156 282.405 215.653C282.611 215.147 282.952 214.655 283.429 214.179C283.894 213.714 284.382 213.372 284.892 213.155C285.402 212.937 285.905 212.851 286.4 212.896C286.891 212.937 287.339 213.115 287.745 213.43L286.76 214.854C286.426 214.603 286.058 214.509 285.657 214.573C285.256 214.636 284.862 214.846 284.475 215.203C284.104 215.544 283.875 215.893 283.789 216.249C283.699 216.602 283.77 216.895 284.003 217.127C284.138 217.262 284.293 217.335 284.47 217.347C284.65 217.354 284.905 217.279 285.235 217.122C285.565 216.964 286.028 216.707 286.625 216.351C287.266 215.972 287.818 215.713 288.279 215.574C288.737 215.432 289.14 215.407 289.489 215.501C289.838 215.587 290.168 215.786 290.479 216.097C291.079 216.698 291.331 217.388 291.233 218.168C291.139 218.945 290.708 219.717 289.939 220.486ZM299.216 210.883L296.228 207.896C295.992 207.659 295.729 207.438 295.44 207.232C295.151 207.018 294.844 206.86 294.517 206.759C294.195 206.654 293.867 206.637 293.533 206.708C293.203 206.776 292.876 206.971 292.554 207.293C292.344 207.504 292.18 207.738 292.064 207.997C291.944 208.252 291.89 208.528 291.901 208.824C291.916 209.117 292.008 209.43 292.177 209.764C292.349 210.094 292.615 210.439 292.976 210.799L291.968 211.255C291.417 210.703 291.034 210.114 290.821 209.488C290.603 208.858 290.569 208.231 290.719 207.609C290.869 206.986 291.218 206.401 291.766 205.853C292.186 205.433 292.606 205.148 293.026 204.998C293.446 204.848 293.855 204.795 294.253 204.84C294.651 204.878 295.026 204.979 295.378 205.144C295.731 205.309 296.048 205.498 296.329 205.712C296.611 205.926 296.845 206.127 297.033 206.314L300.409 209.69L299.216 210.883ZM294.945 215.154L286.842 207.051L287.895 205.999L292.267 210.371L292.407 210.231L296.138 213.961L294.945 215.154ZM304.344 206.092C303.74 206.696 303.078 207.096 302.358 207.291C301.638 207.478 300.914 207.463 300.186 207.246C299.458 207.021 298.781 206.595 298.155 205.969C297.491 205.305 297.039 204.605 296.799 203.87C296.563 203.131 296.534 202.405 296.714 201.692C296.895 200.979 297.281 200.327 297.874 199.734C298.493 199.115 299.164 198.732 299.888 198.586C300.608 198.436 301.34 198.519 302.082 198.834C302.829 199.145 303.544 199.687 304.226 200.46L303.05 201.636L302.623 201.208C301.91 200.511 301.253 200.124 300.653 200.049C300.057 199.97 299.492 200.197 298.96 200.73C298.371 201.319 298.114 201.947 298.189 202.615C298.264 203.283 298.652 203.967 299.353 204.669C300.021 205.336 300.687 205.706 301.351 205.777C302.011 205.845 302.621 205.599 303.18 205.04C303.547 204.672 303.782 204.273 303.883 203.842C303.984 203.403 303.954 202.953 303.793 202.491L305.312 201.703C305.62 202.484 305.684 203.264 305.504 204.044C305.32 204.821 304.933 205.503 304.344 206.092ZM299.303 205.383L298.386 204.466L302.724 200.128L303.641 201.045L299.303 205.383ZM309.576 200.86C309.126 201.31 308.667 201.605 308.198 201.744C307.725 201.879 307.273 201.888 306.842 201.772C306.41 201.648 306.03 201.421 305.699 201.091C305.392 200.783 305.176 200.459 305.052 200.118C304.929 199.776 304.893 199.418 304.946 199.043C304.994 198.664 305.124 198.268 305.334 197.856C305.525 197.507 305.761 197.132 306.043 196.73C306.324 196.329 306.626 195.914 306.949 195.487C307.275 195.055 307.598 194.628 307.916 194.204L307.725 194.868C307.256 194.384 306.802 194.133 306.363 194.114C305.925 194.088 305.452 194.328 304.946 194.834C304.627 195.153 304.409 195.52 304.293 195.937C304.173 196.35 304.231 196.779 304.467 197.225L303.032 197.985C302.661 197.314 302.532 196.614 302.644 195.886C302.76 195.155 303.169 194.438 303.871 193.737C304.415 193.193 304.981 192.814 305.57 192.6C306.159 192.379 306.748 192.375 307.337 192.589C307.633 192.69 307.903 192.84 308.147 193.039C308.391 193.238 308.64 193.465 308.896 193.72L312.637 197.462L311.596 198.503L310.207 197.113L310.589 197.09C310.803 197.807 310.829 198.475 310.668 199.094C310.507 199.705 310.143 200.294 309.576 200.86ZM308.822 199.69C309.156 199.356 309.385 199.011 309.509 198.655C309.629 198.295 309.67 197.949 309.633 197.619C309.595 197.289 309.499 197.002 309.346 196.758C309.229 196.515 309.062 196.276 308.845 196.044C308.631 195.807 308.457 195.622 308.322 195.487L308.845 195.245C308.53 195.672 308.243 196.061 307.984 196.41C307.725 196.758 307.494 197.079 307.292 197.372C307.089 197.657 306.922 197.925 306.791 198.176C306.686 198.394 306.609 198.606 306.56 198.812C306.515 199.015 306.512 199.21 306.549 199.397C306.59 199.581 306.692 199.754 306.853 199.915C307.011 200.073 307.196 200.179 307.41 200.236C307.62 200.288 307.845 200.273 308.085 200.191C308.325 200.108 308.571 199.941 308.822 199.69ZM313.705 196.394L307.628 190.318L308.674 189.271L310.148 190.745L309.811 190.7C309.691 190.43 309.61 190.154 309.569 189.873C309.524 189.588 309.528 189.314 309.58 189.052C309.621 188.785 309.706 188.528 309.833 188.281C309.961 188.026 310.118 187.793 310.306 187.583C310.49 187.369 310.691 187.187 310.908 187.037L312.011 188.14C311.76 188.286 311.523 188.493 311.302 188.759C311.084 189.021 310.94 189.32 310.869 189.654C310.801 189.969 310.799 190.271 310.863 190.559C310.931 190.845 311.049 191.12 311.218 191.387C311.383 191.649 311.585 191.901 311.825 192.141L314.892 195.207L313.705 196.394ZM321.14 188.959C320.832 189.417 320.489 189.824 320.11 190.18C319.732 190.536 319.332 190.793 318.912 190.951C318.492 191.108 318.068 191.12 317.64 190.985C317.258 190.865 316.931 190.681 316.661 190.433C316.391 190.178 316.091 189.886 315.761 189.555L310.387 184.182L311.569 183L316.886 188.318C317.13 188.561 317.344 188.771 317.528 188.948C317.715 189.12 317.907 189.233 318.102 189.285C318.469 189.383 318.816 189.302 319.143 189.043C319.469 188.777 319.803 188.417 320.144 187.963L321.14 188.959ZM311.856 187.98L310.911 187.035L315.063 182.882L316.008 183.827L311.856 187.98Z" fill="black"/>
+			</symbol>
+		</svg>
+
+		<div class="mainnav js-mainnav ">
+			<div class="wrapper">
+				<div class="topbar">
+					<div class="topbar-nav js-topnav-follow">
+						<div class="topbar-logo js-topnav-follow-item active">
+							<a href="/zh/">
+								<img src="/wp-content/themes/aenfinite.com/images/aenfinite-white.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="eager" decoding="async">
+								<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="eager" decoding="async">
+							</a>
+						</div>
+						<ul class="topnav desktop">
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/zh/featured-work/">ä½œå“</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/zh/agency">æœºæž„</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/zh/services/">æœåŠ¡</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ â€º</a>
+										<ul class="sub-menu">											                                            
+											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
+<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
+											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
+											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
+											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
+											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>									</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ â€º</a>
+										<ul class="sub-menu">
+											<li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
+											<li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
+											<li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+											
+											<li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
+											<li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ â€º</a>
+										<ul class="sub-menu">
+											<li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
+											<li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
+											<li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
+											<li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+
+										</ul>
+									</li>
+
+							</li>
+							<li class="menu-item menu-item-has-children">
+										<a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ â€º</a>
+										<ul class="sub-menu">
+											<li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
+											<li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+										</ul>
+									</li>
+						</ul>
+						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
+					</div>
+					<div class="topbar-social desktop">
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+</ul>					</div>
+					<div class="topbar-contact desktop">
+						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+					</div>
+					<div class="menu-button mobile js-menu-toggle"><i></i></div>
+				</div>
+			</div>
+			<div class="mainnav-dropdown-layer js-dropdown-layer">
+				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
+					<div class="wrapper">
+						<div class="mainnav-dropdown-layer-text">
+							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+						</div>
+					</div>
+				</div>
+			</div>		</div>
+		
+		<div class="container">
+		
+			<div class="header js-active-header">
+	<div class="wrapper">
+		<div class="header-cross js-cross">
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+				<g stroke="currentColor" stroke-width="1.5">
+					<line x1="0" y1="0" x2="100%" y2="100%" vector-effect="non-scaling-stroke"></line>
+				</g>
+			</svg>
+		</div>
+		<div class="header-cross js-cross">
+			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+				<g stroke="currentColor" stroke-width="1.5">
+					<line x1="100%" y1="0" x2="0" y2="100%" vector-effect="non-scaling-stroke"></line>
+				</g>
+			</svg>
+		</div>
+		<div class="header-wrapper">
+			<div class="header-caption">
+				<div class="title title__main js-header-title">
+					<h1>
+						<span>æ•°å­—åˆ›æ–°æœºæž„ï¼Œ</span>
+													<span>ä½äºŽMile-High City</span>	
+											</h1>
+											<div class="header-heart">
+							<div class="heart">
+								<img src="/wp-content/themes/aenfinite.com/images/heart.svg" alt="Heart" class="icon" loading="lazy" decoding="async" />
+							</div>
+							<a href="/zh/darkmode" class="header-link"></a>
+						</div>
+									</div>
+			</div>
+		
+
+		</div>
+	</div>
+
+		                <div class="preloader">
+                    <div class="preloader-inner">
+						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
+                      
+
+                    </div>
+                </div>
+</div>		
+			<a class="fab js-fab" href="#contact">
+				<div class="fab-button js-fab-button desktop">
+					<svg width="100%" height="100%" viewBox="0 0 232 199" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<defs>
+							<path id="myHeart" fill-rule="evenodd" clip-rule="evenodd" d="M115.353 78.843L56.1288 19.6478L1.58594 74.1637L115.214 187.735L115.923 187.027L116.868 186.116L229.691 73.3598L175.265 18.9609L115.353 78.843Z" fill="#227bf3" />
+						</defs>
+						<mask id="mask0_2906_19095">
+							<rect x="116" y="0" width="116" height="140" fill="#fff" />
+						</mask>
+						<use href="#myHeart" />
+						<image href="/wp-content/themes/aenfinite.com/static/img/fab-text.svg" height="199" width="232" class="fab-text" />
+						<g mask="url(#mask0_2906_19095)">
+							<use href="#myHeart" />
+						</g>
+					</svg>
+				</div>
+			</a>
+	<div class="main">
+
+		<div class="section">
+			<div class="header-marquee runner js-runner">
+				<div class="js-runner-content">
+											<div class="marquee-line">
+															<span class="marquee-line_text">ä¸“ä¸šæ•°å­—åˆ›æ–°æœºæž„</span>
+															<span class="marquee-line_text">å®šåˆ¶ç½‘é¡µè®¾è®¡ä¸Žå“ç‰Œå¼€å‘</span>
+															<span class="marquee-line_text">æœåŠ¡ç¾Žå›½å’ŒåŠ æ‹¿å¤§å¸‚åœº</span>
+															<span class="marquee-line_text">ä¸“ä¸šUI/UXä¸Žæ•°å­—è¥é”€è§£å†³æ–¹æ¡ˆ</span>
+															<span class="marquee-line_text">äº”æ˜Ÿå®¢æˆ·è¯„ä»·ä¸ŽClutchè¯„çº§</span>
+															<span class="marquee-line_text">ä¸“å®¶å›¢é˜Ÿ - Adobeã€Figmaã€å®šåˆ¶å¼€å‘</span>
+															<span class="marquee-line_text">æ•æ·å¼€å‘ä¸Žè®¾è®¡æµç¨‹</span>
+															<span class="marquee-line_text">ä¸¹ä½›æ•°å­—æœºæž„</span>
+															<span class="marquee-line_text">ä¸“ä¸šæ•°å­—åˆ›æ–°æœåŠ¡</span>
+															<span class="marquee-line_text">ä¸ºæ¯ä¸ªä¼ä¸šå®šåˆ¶è§£å†³æ–¹æ¡ˆ</span>
+															<span class="marquee-line_text">ç”µå­å•†åŠ¡ä¸Žç§»åŠ¨åº”ç”¨å¼€å‘</span>
+															<span class="marquee-line_text">SEOä¸Žæ•°å­—è¥é”€ä¸“å®¶</span>
+													</div>
+									</div>
+			</div>
+			<div class="js-shiftbox-carousel shiftbox-carousel">
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/neocert/">
+									<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert UI/UX & åº”ç”¨å¼€å‘ Platform" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/neocert/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview"> 
+									<div class="preview-content" data-index="01">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/neocert/">NeoCert - Concert UI/UX & åº”ç”¨å¼€å‘ Platform</a></div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">å¼€å‘</div>
+																					<div class="preview-name">UI/UX</div>
+																					<div class="preview-name">å®šåˆ¶åŠ¨ç”»</div>
+																					<div class="preview-name">æ¼”å”±ä¼šç®¡ç†</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/neurolinker/">
+									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & ç¥žç»æŠ€æœ¯ Platform" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/neurolinker/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="02">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/neurolinker/">Neurolinker - Brain-Computer Interface & ç¥žç»æŠ€æœ¯ Platform</a></div>
+																					<div class="preview-name">ç§»åŠ¨UI/UX</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">ç¥žç»æŠ€æœ¯</div>
+																					<div class="preview-name">åˆ›æ–°</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/mindfit/">
+									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - å¿ƒç†å¥åº· & Fitness App UI/UX & å¼€å‘" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/mindfit/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="03">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/mindfit/">Mindfit - å¿ƒç†å¥åº· & Fitness App UI/UX & å¼€å‘</a></div>
+																					<div class="preview-name">åº”ç”¨å¼€å‘</div>
+																					<div class="preview-name">Appè®¾è®¡UI/UX</div>
+																					<div class="preview-name">å¿ƒç†å¥åº·</div>
+																					<div class="preview-name">åŒ»ç–—</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/robophil/">
+									<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil - æ ‡å¿—è®¾è®¡ & å“ç‰Œå½¢è±¡" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/robophil/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="04">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/robophil/">RoboPhil - æ ‡å¿—è®¾è®¡ & å“ç‰Œå½¢è±¡</a></div>
+																					<div class="preview-name">å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">æ ‡å¿—è®¾è®¡</div>
+																					<div class="preview-name">3Dè®¾è®¡</div>
+																					<div class="preview-name">è§†è§‰å½¢è±¡</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/lumea/">
+									<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart å¥åº· & Light Therapy ç§»åŠ¨åº”ç”¨" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/lumea/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="05">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/lumea/">Lumea - Smart å¥åº· & Light Therapy ç§»åŠ¨åº”ç”¨</a></div>
+																					<div class="preview-name">åº”ç”¨å¼€å‘</div>
+																					<div class="preview-name">App UI/UX</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">å¥åº·</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/fiscoclic/">
+									<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Mexican Electronic Invoicing CFDI App" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/fiscoclic/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="06">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/fiscoclic/">FiscoClic - Mexican Electronic Invoicing CFDI App</a></div>
+																					<div class="preview-name">åº”ç”¨å¼€å‘</div>
+																					<div class="preview-name">UI/UX</div>
+																					<div class="preview-name">CFDIåˆè§„</div>
+																					<div class="preview-name">ç§»åŠ¨åº”ç”¨</div>
+																					<div class="preview-name">é‡‘èžç§‘æŠ€</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+									<div>
+						<div class="shiftbox">
+							<div class="shiftbox-image">
+								<a href="/zh/work/blue-vine-marketing/">
+									<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - æ•°å­—è¥é”€ æœºæž„ & Growth Solutions" class="cover" loading="lazy" decoding="async" />
+									<a href="/zh/work/blue-vine-marketing/" class="shiftbox-link"> </a>
+								</a>
+							</div>
+							<div class="shiftbox-content">
+								<div class="preview">
+									<div class="preview-content" data-index="07">
+										<div class="preview-name preview-name__caption"><a href="/zh/work/blue-vine-marketing/">Blue Vine Marketing - æ•°å­—è¥é”€ æœºæž„ & Growth Solutions</a></div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">å®šåˆ¶åŠ¨ç”»</div>
+																					<div class="preview-name">ç§‘æŠ€</div>
+																					<div class="preview-name">UI/UX</div>
+																					<div class="preview-name">æ•°æ®åˆ†æž</div>
+																				
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+							</div>
+			<div class="shiftbox-nav desktop">
+				<div class="shiftbox-arrow shiftbox-arrow__left js-shiftbox-prev"></div>
+				<div class="shiftbox-pos">
+					<var class="shiftbox-current js-shiftbox-current">01</var> / 
+					<span class="shiftbox-num">07</span>
+				</div>
+				<div class="shiftbox-arrow shiftbox-arrow__right js-shiftbox-next"></div>
+			</div>
+		</div>
+		
+			<div class="section">
+		<div class="wrapper">
+			<div class="textbox appear js-aos">
+				<div class="textbox-content">AenfiniteÂ®æ˜¯ä¸€å®¶ä¸“ä¸šçš„æ•°å­—åˆ›æ–°æœºæž„ï¼Œé€šè¿‡å‰æ²¿çš„è®¾è®¡ã€å¼€å‘å’Œè¥é”€è§£å†³æ–¹æ¡ˆå¸®åŠ©ä¼ä¸šå®žçŽ°è½¬åž‹ã€‚æ€»éƒ¨ä½äºŽä¸¹ä½›ï¼ŒæœåŠ¡äºŽç¾Žå›½å’ŒåŠ æ‹¿å¤§çš„å®¢æˆ·ï¼Œæˆ‘ä»¬çš„ä¸“å®¶å›¢é˜Ÿåœ¨ç½‘é¡µè®¾è®¡ã€å“ç‰Œå½¢è±¡ã€UI/UXè®¾è®¡ã€æ•°å­—è¥é”€ã€ç”µå­å•†åŠ¡å¼€å‘å’Œå…¨é¢æ•°å­—åŒ–è½¬åž‹æœåŠ¡æ–¹é¢æä¾›å“è¶Šçš„æˆæžœã€‚æˆ‘ä»¬ä¸Žä»Žåˆåˆ›ä¼ä¸šåˆ°æˆç†Ÿä¼ä¸šçš„å„ç±»å…¬å¸åˆä½œï¼Œæ¶µç›–åŒ»ç–—ã€ç§‘æŠ€ã€æˆ¿åœ°äº§ç­‰è¡Œä¸šï¼Œåˆ›é€ æŽ¨åŠ¨å¢žé•¿å’Œå‚ä¸Žåº¦çš„æœ‰å½±å“åŠ›çš„æ•°å­—ä½“éªŒã€‚</div>
+									<div class="textbox-action">
+						<a href="/zh/work/" class="redlink">
+							<span>æŸ¥çœ‹æˆ‘ä»¬çš„ä½œå“</span>
+						</a>
+					</div>
+							</div>
+		</div>
+	</div>
+	<div class="section">
+		<div class="wrapper">
+			<div class="inner-wrapper">
+				<div class="numbers">
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>150+</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+<strong>AenfiniteæˆåŠŸé¡¹ç›® â€“</strong> é€šè¿‡æˆ˜ç•¥æ€§å“ç‰Œå½¢è±¡è®¾è®¡ã€é«˜æ€§èƒ½ç½‘ç«™å’Œæœ‰å½±å“åŠ›çš„äº§å“åŒ…è£…æ”¹é€ å“ç‰Œã€‚
+																	</div>
+							</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>8+</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+									<div>å¹´æ¥ä¸æ–­ä¸ºå®¢æˆ·æ”¹è¿›Aenfiniteäº§å“</div>
+																	</div>
+							</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>9.8</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+									<div>average NPS* <br class="desktop" />
+we receive <br class="desktop" />
+from our clients</div>
+																			<div class="numbers-note">*Net Promoter Score &mdash; willingness to <br class="desktop" />
+recommend a service from 1-10</div>
+																	</div>
+							</div>
+						</div>
+									</div>
+									<div class="section-footer js-aos appear">
+						<a href="agency/" class="redlink">
+							<span>å…³äºŽAenfinite</span>
+						</a>
+					</div>
+							</div>
+		</div>
+	</div>
+
+	<!-- SEO-Optimized Content Section -->
+	<div class="section">
+		<div class="wrapper">
+			<div class="inner-wrapper">
+				<div class="section-caption js-aos">
+					<div class="section-caption_text">
+						<h2>ä¸ºä»€ä¹ˆé€‰æ‹©AenfiniteÂ®è¿›è¡Œæ•°å­—åŒ–è½¬åž‹</h2>
+					</div>
+				</div>
+				<div class="textbox appear js-aos">
+  <div class="textbox-content">
+    <h3><b>åˆ›æ–°æ•°å­—è§£å†³æ–¹æ¡ˆ</b></h3>
+    <p>AenfiniteÂ®å°†ç­–ç•¥ã€è®¾è®¡å’ŒæŠ€æœ¯ç›¸ç»“åˆï¼Œåˆ›é€ æ— ç¼çš„æ•°å­—ä½“éªŒã€‚ä»Žå“ç‰Œå’Œç½‘é¡µè®¾è®¡åˆ°è¥é”€å’Œå’¨è¯¢ï¼Œæˆ‘ä»¬æä¾›æ•°æ®é©±åŠ¨çš„è§£å†³æ–¹æ¡ˆï¼ŒæŽ¨åŠ¨å¯è¡¡é‡çš„ä¸šåŠ¡å¢žé•¿ã€‚</p>
+  </div>
+</div>
+
+			</div>
+		</div>
+	</div>
+
+<div class="section">
+	<div class="wrapper">
+		<div class="inner-wrapper">
+			<div class="section-caption js-aos" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
+				<div class="section-caption_text">
+					<h2>Aenfiniteæ•°å­—æœåŠ¡</h2>
+				</div>
+			</div>
+			<div class="service-grid">
+				<div class="service-nav">
+					<div class="service-list js-service-container fadein js-aos" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="500">
+													<div class="service active js-service">
+								<div class="service-caption js-service-caption">ç½‘é¡µè®¾è®¡</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/web-design/" class="chip-label">å®šåˆ¶ç½‘ç«™è®¾è®¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/web-design/" class="chip-label">å“åº”å¼è®¾è®¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/web-design/" class="chip-label">ç€é™†é¡µ</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/web-design/" class="chip-label">ä¼ä¸šç½‘ç«™</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/ui-ux-design/" class="chip-label">UI/UXè®¾è®¡</a>
+												</div>
+																							
+																					</div>
+									</div>
+									<div class="service-text">
+										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
+        Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/web-design/" class="redlink">
+											<span>æŽ¢ç´¢æˆ‘ä»¬çš„ç½‘é¡µè®¾è®¡æœåŠ¡</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">å“ç‰Œä¸Žæ ‡å¿—è®¾è®¡</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/branding/" class="chip-label">å“ç‰Œå½¢è±¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/logo-design/" class="chip-label">æ ‡å¿—è®¾è®¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/branding/" class="chip-label">å“ç‰Œç­–ç•¥</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/branding/" class="chip-label">å“ç‰Œè§„èŒƒ</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/branding/" class="chip-label">ä¼ä¸šå½¢è±¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/branding/" class="chip-label">å“ç‰Œé‡å¡‘</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
+    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/branding/" class="redlink">
+											<span>æŽ¢ç´¢æˆ‘ä»¬çš„å“ç‰Œè§£å†³æ–¹æ¡ˆ</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">æ•°å­—è¥é”€</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/digital-marketing/" class="chip-label">SEOä¼˜åŒ–</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/search-engine-optimization/" class="chip-label">ç”µå­é‚®ä»¶è¥é”€</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/paid-ads/" class="chip-label">ä»˜è´¹å¹¿å‘Š</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/Pay-per-click/" class="chip-label">PPCæ´»åŠ¨</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/social-media-marketing/" class="chip-label">ç¤¾äº¤åª’ä½“è¥é”€</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/digital-marketing/" class="chip-label">å†…å®¹è¥é”€</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>Our digital marketing experts drive measurable results for  businesses. We create comprehensive strategies that increase your online visibility, attract quality leads, and convert visitors into customers. From SEO optimization to social media campaigns and paid advertising, we ensure your brand reaches the right audience at the right time with compelling messaging that drives action and growth.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/digital-marketing/" class="redlink">
+											<span>æŸ¥çœ‹æ•°å­—è¥é”€æœåŠ¡</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">ç”µå­å•†åŠ¡ç½‘ç«™</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">Shopifyå¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">WooCommerce</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">åœ¨çº¿å•†åº—</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">æ”¯ä»˜é›†æˆ</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">äº§å“ç›®å½•</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/e-commerce-websites/" class="chip-label">ç§»åŠ¨å•†åŠ¡</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>Transform your  business with powerful e-commerce solutions that drive sales and growth. We build stunning online stores with seamless user experiences, secure payment processing, and conversion-optimized designs. From product catalogs to checkout flows, we ensure every element of your e-commerce store maximizes revenue and provides exceptional customer experiences.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/e-commerce-websites/" class="redlink">
+											<span>æŽ¢ç´¢ç”µå­å•†åŠ¡è§£å†³æ–¹æ¡ˆ</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">WordPressç½‘ç«™</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">å®šåˆ¶WordPress</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">ä¸»é¢˜å¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">æ’ä»¶å¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">CMSè§£å†³æ–¹æ¡ˆ</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">ç½‘ç«™ä¼˜åŒ–</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/wordpress-websites/" class="chip-label">ç»´æŠ¤</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>Expert WordPress development services for  businesses seeking powerful, flexible websites. We create custom WordPress solutions that are easy to manage, lightning-fast, and built for growth. From simple blogs to complex enterprise sites, our WordPress experts deliver scalable solutions that put you in control of your content while maintaining professional design standards.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/wordpress-websites/" class="redlink">
+											<span>æŸ¥çœ‹æˆ‘ä»¬çš„WordPressæœåŠ¡</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">åº”ç”¨å¼€å‘</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">iOSåº”ç”¨</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">Androidåº”ç”¨</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">React Native</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">æ¸è¿›å¼Webåº”ç”¨</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">è·¨å¹³å°</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/app-development/" class="chip-label">åº”ç”¨å•†åº—ä¸Šæž¶</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile åº”ç”¨å¼€å‘ and success.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/app-development/" class="redlink">
+											<span>äº†è§£åº”ç”¨å¼€å‘</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">å¹³é¢è®¾è®¡</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/graphic-design/" class="chip-label">å°åˆ·è®¾è®¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/print-design/" class="chip-label">åç‰‡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/graphic-design/" class="chip-label">å®£ä¼ å†Œ</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/graphic-design/" class="chip-label">æ•°å­—å›¾å½¢</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/social-media-design/" class="chip-label">å†…å®¹è®¾è®¡</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/graphic-design/" class="chip-label">è¥é”€ææ–™</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+    Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
+    From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
+    We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/graphic-design/" class="redlink">
+											<span>æŸ¥çœ‹å¹³é¢è®¾è®¡ä½œå“é›†</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">åŒ…è£…è®¾è®¡</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/packaging-design/" class="chip-label">å“ç‰Œæ ‡ç­¾</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/packaging-design/" class="chip-label">äº§å“æ ‡ç­¾</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/packaging-design/" class="chip-label">é£Ÿå“ä¸Žé¥®æ–™</a>
+												</div>
+													
+																							<div class="chip">
+													<a href="/zh/services/packaging-design/" class="chip-label">3Dæ¨¡åž‹</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/packaging-design/" class="chip-label">é›¶å”®å°±ç»ª</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>we create packaging that does more than protect a product  it tells a story and grabs attention on the shelf. 
+    Our team blends creative design with production-ready solutions, ensuring your packaging not only looks stunning but is practical and cost-effective to manufacture. 
+    From innovative concepts for new startups to reimagining established product lines, we craft packaging that stands out, builds emotional connection, and turns casual shoppers into loyal customers.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/packaging-design/" class="redlink">
+											<span>æŽ¢ç´¢åŒ…è£…è®¾è®¡ä½œå“</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													<div class="service  js-service">
+								<div class="service-caption js-service-caption">å®šåˆ¶å¼€å‘</div>
+								<div class="service-content js-service-content">
+									<div class="service-tags">
+										<div class="chips">
+																							<div class="chip">
+													<a href="/zh/services/custom-web-development/" class="chip-label">å®šåˆ¶ç½‘ç«™å¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/software-&-platform-development/" class="chip-label">è½¯ä»¶å¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/workflow-&-business-automation/" class="chip-label">ä¸šåŠ¡è‡ªåŠ¨åŒ–</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/ai-chatbots-&-virtual-assistants/" class="chip-label">AIèŠå¤©æœºå™¨äºº</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/custom-web-development/" class="chip-label">å¹³å°å¼€å‘</a>
+												</div>
+																							<div class="chip">
+													<a href="/zh/services/workflow-&-business-automation/" class="chip-label">å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–</a>
+												</div>
+																					</div>
+									</div>
+									<div class="service-text">
+										<p>Advanced custom development solutions for  businesses requiring specialized functionality. We build custom web applications, software platforms, business automation systems, and AI-powered chatbots tailored to your unique requirements. Our development team creates scalable, secure solutions that streamline operations and drive innovation for your business.</p>
+									</div>
+									<div class="service-action">
+										<a href="/zh/services/custom-web-development/" class="redlink">
+											<span>æŸ¥çœ‹å®šåˆ¶å¼€å‘æœåŠ¡</span>
+										</a>
+									</div>
+								</div>
+							</div>
+													
+													
+											</div>
+				</div>
+				<div class="service-preview desktop fadein js-aos" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
+					<div class="service-content-copy js-service-copy" style="padding-bottom: 500px"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	<div class="section">
+		<div class="marquee-separator js-marquee">
+			<div class="marquee js-marquee-content">
+    <div class="marquee-item">ç«¯åˆ°ç«¯ITä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ</div>					
+    <div class="marquee-item">Webã€Appä¸ŽUI/UXè®¾è®¡ä¸“å®¶</div>					
+    <div class="marquee-item">å…¨çƒæŠ€æœ¯ä¸Žåˆ›æ„æœºæž„</div>					
+    <div class="marquee-item">èŽ·å…¨çƒä¼ä¸šä¿¡èµ–</div>					
+    <div class="marquee-item">ä»¥åˆ›æ–°å’Œæˆæžœä¸ºé©±åŠ¨</div>					
+</div>
+
+		</div>
+	</div>
+<a href="#contact" class="to-formss"></a>
+<div class="section" id="contact">
+	<div class="block formss">
+		<div class="center">
+			<div class="formss-wrap">
+				<h2>è”ç³»æ‚¨çš„ä¸‹ä¸€å®¶æœºæž„ - AenfiniteÂ®</h2>
+				<div class="toggle-formss">
+					
+<div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
+<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1252" />
+<input type="hidden" name="_wpcf7_version" value="6.0.6" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1252-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="cell">
+	<div class="inputs">
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„å§“å*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„ç”µå­é‚®ä»¶*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„é¡¹ç›®â€¦" value="" type="text" name="text-tell-project" /></span>
+		
+	</div>
+	<div class="checkbox-select">
+		<strong>æˆ‘å¯¹ä»¥ä¸‹å†…å®¹æ„Ÿå…´è¶£...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="å“ç‰Œç­–åˆ’" id="branding" /><label for="branding" class="list-item-label">å“ç‰Œç­–åˆ’</label></span><span class="list-item"><input type="checkbox" name="services" value="ç½‘é¡µè®¾è®¡" id="web-design" /><label for="web-design" class="list-item-label">ç½‘é¡µè®¾è®¡</label></span><span class="list-item"><input type="checkbox" name="services" value="æ•°å­—è¥é”€" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">æ•°å­—è¥é”€</label></span><span class="list-item"><input type="checkbox" name="services" value="ç”µå­å•†åŠ¡è§£å†³æ–¹æ¡ˆ" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">ç”µå­å•†åŠ¡è§£å†³æ–¹æ¡ˆ</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UXè®¾è®¡" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UXè®¾è®¡</label></span><span class="list-item"><input type="checkbox" name="services" value="åº”ç”¨å¼€å‘" id="app-development" /><label for="app-development" class="list-item-label">åº”ç”¨å¼€å‘</label></span><span class="list-item"><input type="checkbox" name="services" value="åŒ…è£…" id="packaging" /><label for="packaging" class="list-item-label">åŒ…è£…</label></span><span class="list-item"><input type="checkbox" name="services" value="å¹³é¢è®¾è®¡" id="graphic-design" /><label for="graphic-design" class="list-item-label">å¹³é¢è®¾è®¡</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPressç½‘ç«™" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPressç½‘ç«™</label></span><span class="list-item last"><input type="checkbox" name="services" value="å…¶ä»–" id="other" /><label for="other" class="list-item-label">å…¶ä»–</label></span></span></span>
+		
+		<div class="selectbox js-select">
+			<input class="selectbox-input js-select-holder" type="text" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„å¤§æ¦‚é¢„ç®—" value="" readonly name="budget" />
+			
+			<div class="selectbox-suffix">
+				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
+				
+			</div>
+			<div class="select js-select-list">
+				<div class="select-option js-select-option">
+					èµ·ä»·$100
+					
+				</div>
+				<div class="select-option js-select-option">
+					$500è‡³$5,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					$5,000è‡³$20,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					$20,000è‡³$50,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					è¶…è¿‡$100,000
+					
+				</div>
+			</div>		</div>
+	</div>
+</div>
+<div class="hide">
+	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
+	
+</div>
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="å‘é€" style="margin-bottom: 50px" />
+<div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+				</div>
+				<i class="formss-heart"></i>
+			</div>
+		</div>
+	</div>
+
+</div>	<div class="section">
+		<div class="wrapper">
+			<div class="citebox js-karaoke">
+				<div class="citebox-content js-karaoke-content">
+    <span>
+        AenfiniteÂ® â€“ ä»¥å‰æ²¿ITè§£å†³æ–¹æ¡ˆã€åˆ›æ„è®¾è®¡å’Œæ•°æ®é©±åŠ¨çš„æ•°å­—ç­–ç•¥èµ‹èƒ½ä¼ä¸šã€‚
+    </span>
+</div>
+
+				<div class="citebox-mask js-karaoke-mask"></div>
+			</div>
+		</div>
+	</div>
+	<div class="section">
+		<div class="wrapper">
+			<div class="inner-wrapper">
+				<div class="section-caption js-aos">
+					<div class="section-caption_text">
+						<h2>AenfiniteÂ®è®¾è®¡æœºæž„ä½œå“</h2>
+					</div>
+				</div>
+				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
+					<div class="previews-carousel js-carousel">
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros - Professional æ ‡å¿—è®¾è®¡ & å“ç‰Œå½¢è±¡ Studio " loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/algopros/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="01">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/blue-vine-marketing/">Algopros - Professional æ ‡å¿—è®¾è®¡ & å“ç‰Œå½¢è±¡ Studio</a>
+										</div>
+																					<div class="preview-name">Logo design</div>
+																					<div class="preview-name">å“ç‰Œè®¾è®¡</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="IvyWise Education Consultancy å“ç‰Œç­–åˆ’ & ç½‘ç«™è®¾è®¡ by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/afropopup/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="02">
+										<div class="preview-name preview-name__caption">
+											<a href="../../work/ivywise-education-consultancy/">AfroPopup - Merging Pop with Art and Culture</a>
+										</div>
+																					<div class="preview-name">å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">å“ç‰Œç‰©æ–™</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">Webå¼€å‘</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI æœåŠ¡ - Business Compliance & Licensing Solutions" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/amkiservice/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="03">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/amkiservice/">AM-KI æœåŠ¡ - Business Compliance & Licensing Solutions</a>
+										</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">Webå¼€å‘</div>
+																					<div class="preview-name">UI/UX</div>
+																					<div class="preview-name">å®šåˆ¶åŠ¨ç”»</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/cimeo-visionthumbnail.avif" alt="BAS Stone Luxury Architectural å“ç‰Œç­–åˆ’ & Website by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/cimeo-vision/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="04">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/cimeo-vision/">Cimeo Vision - Audiovisual Integration & AV Solutions</a>
+										</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">3Dè®¾è®¡</div>
+																					<div class="preview-name">æˆ¿åœ°äº§</div>
+																					<div class="preview-name">Web development</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/husnohaya/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="05">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/husnohaya/">HusnOhaya Women - Premium Hijab & Modest Fashion E-commerce Platform</a>
+										</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">UI/UX</div>
+																					<div class="preview-name">ç”µå­å•†åŠ¡</div>
+																					<div class="preview-name">Webå¼€å‘</div>
+																					<div class="preview-name">WordPress</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/globaldesignsolutionthumbnail.avif" alt="" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/global-design-solution/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="06">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/global-design-solution/">Global Design Solutions - 3D Laser Scanning & Digital Twin Platform</a>
+										</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">åŠ¨ç”»</div>
+																					<div class="preview-name">Webå¼€å‘</div>
+											
+									</div>
+								</div>
+							</div>
+													<div>
+								<div class="preview">									
+									<div class="preview-media">										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/khatech/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+									</div>									
+									<div class="preview-content" data-index="07">
+										<div class="preview-name preview-name__caption">
+											<a href="/zh/work/khatech/">KhaTtech - 360Â° æ•°å­—è¥é”€ Solutions & SEO æœºæž„ </a>
+										</div>
+																					<div class="preview-name">åŠ¨æ€å›¾å½¢</div>
+																					<div class="preview-name">ç½‘é¡µè®¾è®¡</div>
+																					<div class="preview-name">Webå¼€å‘</div>
+											
+									</div>
+								</div>
+							</div>
+											</div>
+				</div>
+				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
+					<a href="../../work/" class="redlink">
+						<span>æŸ¥çœ‹æ‰€æœ‰é¡¹ç›®</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+				<div class="section" itemscope itemtype="https://schema.org/FAQPage">
+					<div class="wrapper">
+						<div class="inner-wrapper">
+							<div class="section-caption js-aos">
+								<div class="section-caption_text">
+									<h2>AenfiniteÂ®è®¾è®¡æœºæž„å¸¸è§é—®é¢˜</h2>
+								</div>
+							</div>
+							<div class="faq">
+
+    <!-- FAQ 1 -->
+    <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-header">
+            <div class="faq-header-title" itemprop="name">AenfiniteÂ®æä¾›å“ªäº›è§£å†³æ–¹æ¡ˆï¼Ÿ</div>
+            <div class="faq-header-icon">
+                <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
+            </div>
+        </div>
+        <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+           
+            <div class="faq-content-text" itemprop="text">
+                <p>AenfiniteÂ®æ˜¯ä¸€å®¶å…¨çƒITå’Œåˆ›æ„æœºæž„ï¼Œè‡´åŠ›äºŽé€šè¿‡ç­–ç•¥ã€è®¾è®¡å’ŒæŠ€æœ¯å¸®åŠ©ä¼ä¸šæˆé•¿ã€‚æˆ‘ä»¬ä¸“æ³¨äºŽï¼š</p>
+                <p><b>å“ç‰Œç­–ç•¥ä¸Žè®¾è®¡ï¼š</b> å®Œæ•´çš„å“ç‰Œå½¢è±¡ç³»ç»Ÿã€æ ‡å¿—åˆ›å»ºå’Œè§„èŒƒï¼Œå»ºç«‹å¼ºå¤§è€Œä¸€è‡´çš„è§†è§‰å½¢è±¡ã€‚</p>
+                <p><b>Webä¸ŽAppå¼€å‘ï¼š</b> å®šåˆ¶ç½‘ç«™ã€å“åº”å¼è®¾è®¡ã€ç”µå­å•†åŠ¡è§£å†³æ–¹æ¡ˆå’Œå¯æ‰©å±•çš„ç§»åŠ¨åº”ç”¨ï¼Œé’ˆå¯¹é€Ÿåº¦å’Œè½¬åŒ–è¿›è¡Œä¼˜åŒ–ã€‚</p>
+                <p><b>UI/UXè®¾è®¡:</b> ç ”ç©¶é©±åŠ¨çš„ç•Œé¢è®¾è®¡ã€çº¿æ¡†å›¾å’ŒåŽŸåž‹ï¼Œç¡®ä¿ç›´è§‰å¼çš„ç”¨æˆ·æ—…ç¨‹å’Œæ›´é«˜çš„å‚ä¸Žåº¦ã€‚</p>
+                <p><b>æ•°å­—è¥é”€:</b> SEOã€ä»˜è´¹å¹¿å‘Šå’Œå†…å®¹ç­–ç•¥ï¼Œæå‡çŸ¥ååº¦ã€æµé‡å’Œå¯è¡¡é‡çš„æŠ•èµ„å›žæŠ¥çŽ‡ã€‚</p>
+                <p><b>æŠ€æœ¯ä¸Žè‡ªåŠ¨åŒ–ï¼š</b> AIé©±åŠ¨çš„è§£å†³æ–¹æ¡ˆã€ä¸šåŠ¡æµç¨‹è‡ªåŠ¨åŒ–å’Œè½¯ä»¶å¼€å‘ï¼Œä¼˜åŒ–è¿è¥å¹¶é«˜æ•ˆæ‰©å±•ã€‚</p>
+                <p>æˆ‘ä»¬çš„ä½¿å‘½å¾ˆç®€å•ï¼šæ‰“é€ å¤–è§‚ç²¾ç¾Žã€è¿è¡Œå®Œç¾Žçš„è§£å†³æ–¹æ¡ˆï¼Œå¸®åŠ©æ‚¨çš„ä¼ä¸šå®žçŽ°çœŸå®žã€å¯è¡¡é‡çš„æˆæžœã€‚</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 2 -->
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-header">
+            <div class="faq-header-title" itemprop="name">AenfiniteÂ®å¦‚ä½•å¤„ç†æ–°é¡¹ç›®ï¼Ÿ</div>
+            <div class="faq-header-icon">
+                <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
+            </div>
+        </div>
+        <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <div class="faq-content-text" itemprop="text">
+                <p>æˆ‘ä»¬éµå¾ªæ¸…æ™°çš„åä½œæµç¨‹ï¼Œè®©æ‚¨å‚ä¸Žå…¶ä¸­ï¼Œç¡®ä¿æ¯ä¸ªé˜¶æ®µçš„è´¨é‡ï¼š</p>
+                <p><b>1. å‘çŽ°ä¸Žè§„åˆ’ï¼š</b> æˆ‘ä»¬äº†è§£æ‚¨çš„ä¸šåŠ¡ã€å—ä¼—å’Œç›®æ ‡ï¼Œåˆ¶å®šæ¸…æ™°çš„ç­–ç•¥ã€‚</p>
+                <p><b>2. æ¦‚å¿µä¸Žæ–¹å‘ï¼š</b> æˆ‘ä»¬çš„åˆ›æ„å›¢é˜Ÿå‡†å¤‡æƒ…ç»ªæ¿ã€æ¦‚å¿µå’Œä¸Žæ‚¨å“ç‰Œæ„¿æ™¯ä¸€è‡´çš„è®¾è®¡æ–¹å‘ã€‚</p>
+                <p><b>3. è®¾è®¡ä¸Žå¼€å‘ï¼š</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>4. å®žæ–½ï¼š</b> æˆ‘ä»¬çš„å¼€å‘å›¢é˜Ÿå°†è®¾è®¡å˜ä¸ºçŽ°å®žï¼Œäº¤ä»˜é«˜æ€§èƒ½æ•°å­—äº§å“æˆ–å°åˆ·å°±ç»ªèµ„äº§ã€‚</p>
+                <p><b>5. ä¸Šçº¿ä¸Žä¼˜åŒ–ï¼š</b> æˆ‘ä»¬ååŠ©éƒ¨ç½²ï¼Œæ ¹æ®éœ€è¦æä¾›åŸ¹è®­ï¼Œå¹¶æŒç»­ç›‘æŽ§ç»“æžœä»¥è¿›è¡Œæ”¹è¿›ã€‚</p>
+                <p>Every project is treated as a long-term partnership  your success is our success.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 3 -->
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <div class="faq-header">
+            <div class="faq-header-title" itemprop="name">AenfiniteÂ®ä¸Žè°åˆä½œï¼Ÿ</div>
+            <div class="faq-header-icon">
+                <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
+            </div>
+        </div>
+        <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <div class="faq-content-text" itemprop="text">
+                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <ul>
+                    <li>ç§‘æŠ€ä¸ŽSaaSâ€”â€”ç½‘ç»œå¹³å°ã€SaaS UI/UXå’Œäº§å“å“ç‰Œ</li>
+                    <li>åŒ»ç–—ä¸Žå¥åº·â€”â€”åŒ»ç–—å“ç‰Œã€æ‚£è€…å‹å¥½ç•Œé¢å’Œåˆè§„è§£å†³æ–¹æ¡ˆ</li>
+                    <li>æˆ¿åœ°äº§ä¸Žå»ºç­‘â€”â€”æˆ¿äº§ç½‘ç«™ã€å“ç‰Œå’ŒèŽ·å®¢æ´»åŠ¨</li>
+                    <li>é›¶å”®ä¸Žç”µå•†â€”â€”åŒ…è£…ã€åœ¨çº¿å•†åº—è®¾è®¡å’Œè½¬åŒ–ä¼˜åŒ–</li>
+                    <li>ä¸“ä¸šæœåŠ¡â€”â€”ä¼ä¸šç½‘ç«™ã€è¥é”€è‡ªåŠ¨åŒ–å’Œå®¢æˆ·é—¨æˆ·</li>
+                </ul>
+                <p>æ— è®ºä»€ä¹ˆè¡Œä¸šï¼Œæˆ‘ä»¬çš„ç›®æ ‡æ˜¯åˆ›é€ èƒ½å¼•èµ·å—ä¼—å…±é¸£å¹¶æŽ¨åŠ¨å¯è¡¡é‡å¢žé•¿çš„ä½œå“ã€‚</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+						</div>
+					</div>
+				</div>
+		
+	</div>
+
+			<div class="footer">
+				<div class="wrapper">
+					<div>
+						<div class="footer-caption">
+							<div class="title title__default">
+								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<a href="contact/" class="redlink">
+									<span>Letâ€™s talk</span>
+								</a>
+							</div>
+							<div class="footer-email">
+								<a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							</div>
+						</div>
+						<div class="footer-grid">
+							<div class="footer-col">
+								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_list">
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">ä½œå“</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">æœºæž„</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">è”ç³»æˆ‘ä»¬</a></li>
+								</div>
+							</div>
+							<div class="footer-col">
+								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_list">
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="services/wordpress-websites/">WordPressç½‘ç«™</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="services/branding/">å“ç‰Œç­–åˆ’</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="services/graphic-design/">å¹³é¢è®¾è®¡</a></li>
+</ul>														</div>
+							</div>
+							<div class="footer-col ">
+								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_list">
+<li id="menu-item-4964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4964"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.linkedin.com/company/aenfinite">LinkedIn</a></li>
+<li id="menu-item-4964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4964"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite">Instagram</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="contact/">è”ç³»æˆ‘ä»¬</a></li>
+</ul>								</div>
+							</div>
+							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
+									<div class="footer-col_caption">åœ°å€</div>
+									<div class="footer-col_list">
+										<ul>
+											<li>
+	1500 N Grant St Ste<br class="desktop" />
+	Denver, CO 80203<br class="desktop" />
+	Denver County, USA
+</li>
+
+											<li>
+												<a style="white-space:nowrap;" href="tel:+13034199782">+1 (303) 419-9782</a>
+											</li>
+											<li>
+												<a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+											</li>
+										</ul>
+									</div>
+								</div>							</div>
+						</div>
+						
+						
+						<div class="footer-locations" style="padding: 20px 0; border-top: 1px solid rgba(255,255,255,0.1);">
+							<div class="footer-col_caption" style="margin-bottom: 10px;">Our Locations</div>
+							<ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:8px 20px; font-size:14px;">
+<li class="location-current"><span>Denver, CO (HQ)</span></li>
+<li><a href="https://aenfinite.miami" target="_blank" rel="noopener">Miami, FL</a></li>
+<li><a href="https://aenfinite.nyc" target="_blank" rel="noopener">New York, NY</a></li>
+<li><a href="https://aenfinite.boston" target="_blank" rel="noopener">Boston, MA</a></li>
+<li><a href="https://aenfinite.melbourne" target="_blank" rel="noopener">Melbourne, AU</a></li>
+<li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
+							</ul>
+						</div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="menu js-menu mobile">
+				<div class="wrapper">
+					<div class="menu-inner">
+						<div class="menu-header">
+							<div class="topbar">
+								<div class="topbar-logo">
+									<a href="/zh/">
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+									</a>
+								</div>
+								<div class="menu-close js-menu-toggle"><i></i></div>
+							</div>
+						</div>
+						<div class="menu-nav">
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">ä½œå“</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">æœºæž„</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">è”ç³»æˆ‘ä»¬</a></li>
+</ul>						</div>
+						<div class="menu-footer">
+							<a class="menu-contact" href="contact/">è”ç³»æˆ‘ä»¬</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+
+				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+
+<div id="calendly-modal" class="calendly-modal" style="display: none;">
+	<div class="calendly-modal-content">
+		<div class="calendly-modal-header">
+			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
+			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+		</div>
+		<div class="calendly-modal-body">
+			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
+		</div>
+	</div>
+</div>
+
+<!-- 3. CSS STYLES (Place this in your <head> section or CSS file) -->
+<style>
+/* ===== BUTTON STYLES ===== */
+
+/* ===== MODAL STYLES ===== */
+.calendly-modal {
+	position: fixed;
+	z-index: 10000;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0, 0, 0, 0.8);
+	animation: fadeIn 0.3s ease;
+}
+
+.calendly-modal-content {
+	background-color: #fefefe;
+	margin: 2% auto;
+	border: none;
+	border-radius: 15px;
+	width: 90%;
+	max-width: 900px;
+	box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+	animation: slideIn 0.3s ease;
+}
+
+.calendly-modal-header {
+	background: linear-gradient(135deg, #227bf3, #1e6fd9);
+	color: white;
+	padding: 20px 30px;
+	border-radius: 15px 15px 0 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.calendly-modal-header h3 {
+	margin: 0;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.calendly-close {
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	cursor: pointer;
+	line-height: 1;
+	transition: color 0.3s ease;
+}
+
+.calendly-close:hover {
+	color: #f1f1f1;
+	transform: scale(1.1);
+}
+
+.calendly-modal-body {
+	padding: 0;
+	border-radius: 0 0 15px 15px;
+	overflow: hidden;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@keyframes slideIn {
+	from { 
+		opacity: 0;
+		transform: translateY(-30px) scale(0.9);
+	}
+	to { 
+		opacity: 1;
+		transform: translateY(0) scale(1);
+	}
+}
+
+/* ===== MOBILE RESPONSIVE STYLES ===== */
+@media (max-width: 768px) {
+	.to-meeting {
+		bottom: 15px !important;
+		max-width: 200px !important;
+		padding: 10px 16px !important;
+		font-size: 13px !important;
+	}
+	
+	
+
+	.calendly-modal-content {
+		width: 95%;
+		margin: 5% auto;
+	}
+	
+	.calendly-modal-header {
+		padding: 15px 20px;
+	}
+	
+	.calendly-modal-header h3 {
+		font-size: 20px;
+	}
+	
+	.calendly-inline-widget {
+		height: 500px !important;
+		min-width: 280px !important;
+	}
+}
+
+@media (max-width: 480px) {
+	.to-meeting {
+		bottom: 15px !important;
+		max-width: 180px !important;
+		padding: 8px 14px !important;
+		font-size: 12px !important;
+	}
+
+	.calendly-modal-content {
+		width: 98%;
+		margin: 3% auto;
+	}
+	
+	.calendly-modal-header {
+		padding: 12px 15px;
+	}
+	
+	.calendly-modal-header h3 {
+		font-size: 18px;
+	}
+	
+	.calendly-inline-widget {
+		height: 450px !important;
+		min-width: 260px !important;
+	}
+}
+
+/* Extra small screens */
+@media (max-width: 360px) {
+	.to-meeting {
+		max-width: 160px !important;
+		padding: 8px 12px !important;
+		font-size: 11px !important;
+	}
+}
+
+/* FAQ Heart Icon Animation */
+.faq-header-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-heart-icon {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transform-origin: center;
+}
+
+/* Default state - closed FAQ (rotated 90 degrees) */
+.faq-item:not(.active) .faq-heart-icon {
+    transform: rotate(90deg);
+}
+
+/* Active state - open FAQ (normal position) */
+.faq-item.active .faq-heart-icon {
+    transform: rotate(0deg);
+}
+
+/* FAQ Content Animation */
+.faq-content {
+    overflow: hidden;
+    transition: all 0.4s ease-in-out;
+    width: 100%;
+    box-sizing: border-box;
+    max-height: 0px;
+    opacity: 0;
+    padding-bottom: 0px;
+}
+
+.faq-item.active .faq-content {
+    max-height: 1000px;
+    opacity: 1;
+    padding-bottom: 30px;
+}
+
+/* Center FAQ Content Text and Headings */
+.faq-content {
+    display: block !important;
+    grid-template-columns: none !important;
+    text-align: center !important;
+}
+
+.faq-content-text {
+    text-align: center !important;
+    max-width: 100% !important;
+    grid-column: unset !important;
+    margin: 0 auto !important;
+    display: block !important;
+    width: 100% !important;
+}
+
+.faq-header {
+    grid-template-columns: none !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+
+.faq-header-title {
+    text-align: center !important;
+    flex: 1 !important;
+}
+</style>
+
+<script>
+/* ===== CALENDLY POPUP FUNCTIONS ===== */
+function openCalendlyPopup(event) {
+	event.preventDefault();
+	document.getElementById('calendly-modal').style.display = 'block';
+	document.body.style.overflow = 'hidden'; // Prevent background scrolling
+	
+	// Load Calendly widget if not already loaded
+	if (!window.Calendly) {
+		loadCalendlyScript();
+	} else {
+		// Initialize widget if Calendly is already loaded
+		initializeCalendlyWidget();
+	}
+}
+
+function closeCalendlyPopup() {
+	document.getElementById('calendly-modal').style.display = 'none';
+	document.body.style.overflow = 'auto'; // Re-enable background scrolling
+}
+
+function loadCalendlyScript() {
+	// Load Calendly CSS
+	if (!document.querySelector('link[href*="calendly.com"]')) {
+		const calendlyCss = document.createElement('link');
+		calendlyCss.href = 'https://assets.calendly.com/assets/external/widget.css';
+		calendlyCss.rel = 'stylesheet';
+		document.head.appendChild(calendlyCss);
+	}
+	
+	// Load Calendly JS
+	if (!document.querySelector('script[src*="calendly.com"]')) {
+		const calendlyScript = document.createElement('script');
+		calendlyScript.src = 'https://assets.calendly.com/assets/external/widget.js';
+		calendlyScript.onload = function() {
+			initializeCalendlyWidget();
+		};
+		document.head.appendChild(calendlyScript);
+	}
+}
+
+function initializeCalendlyWidget() {
+	if (window.Calendly) {
+		Calendly.initInlineWidget({
+			url: 'https://calendly.com/aenfinite/business-meeting',
+			parentElement: document.querySelector('.calendly-inline-widget'),
+			prefill: {},
+			utm: {}
+		});
+	}
+}
+
+// Close modal when clicking outside
+window.onclick = function(event) {
+	const modal = document.getElementById('calendly-modal');
+	if (event.target == modal) {
+		closeCalendlyPopup();
+	}
+}
+
+// Close modal with Escape key
+document.addEventListener('keydown', function(event) {
+	if (event.key === 'Escape') {
+		const modal = document.getElementById('calendly-modal');
+		if (modal.style.display === 'block') {
+			closeCalendlyPopup();
+		}
+	}
+});
+</script>
+		
+		<div class="cookie-banner" style="display: none;">
+			<div class="cookie-banner__inner">
+				<div class="cookie-banner__text">
+					<span class="cookie-banner__icon">
+						<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" fill="none">
+							<circle cx="7.5" cy="7.5" r="6.5" stroke="#E4E4E4"/>
+													<path d="M7.87778 4.70654L7.82222 8.79543H7.17778L7.12222 4.70654H7.87778ZM7.5 10.4399C7.36296 10.4399 7.24537 10.3908 7.14722 10.2927C7.04907 10.1945 7 10.0769 7 9.93988C7 9.80284 7.04907 9.68525 7.14722 9.5871C7.24537 9.48895 7.36296 9.43988 7.5 9.43988C7.63704 9.43988 7.75463 9.48895 7.85278 9.5871C7.95093 9.68525 8 9.80284 8 9.93988C8 10.0306 7.97685 10.114 7.93056 10.1899C7.88611 10.2658 7.82593 10.3269 7.75 10.3732C7.67593 10.4177 7.59259 10.4399 7.5 10.4399Z" fill="white"/>
+						</svg>
+					</span>
+					<span class="cookie-banner__message">
+						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
+						<a href="privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+					</span>
+				</div>
+				<button class="cookie-banner__button">æŽ¥å—</button>
+			</div>
+		</div>
+
+		<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			const banner = document.querySelector(".cookie-banner");
+			const acceptBtn = document.querySelector(".cookie-banner__button");
+
+			if (localStorage.getItem("cookieAccepted") === "true") {
+				banner.style.display = "none";
+			}
+
+			acceptBtn.addEventListener("click", function () {
+				localStorage.setItem("cookieAccepted", "true");
+				banner.style.display = "none";
+			});
+		});
+		</script>
+
+		<script src="/wp-content/themes/aenfinite.com/static/js/demo5163.js?v=20241204-0018"></script>	
+		<script src="/wp-content/themes/aenfinite.com/static/js/aos.js"></script>
+		
+		<script>
+			$(function() {
+				AOS.init();
+				
+								
+								
+			});
+		</script>
+		
+		<script>
+		// FAQ functionality with smooth heart rotation - pure CSS animations
+		$(document).ready(function() {
+			function closeAllFAQ() {
+				$('.faq-item').each(function() {
+					var item = $(this);
+					var content = item.find('.faq-content');
+					
+					item.removeClass('active');
+					content.css({
+						'max-height': '0px',
+						'opacity': '0',
+						'padding-bottom': '0px'
+					});
+					// Heart rotation is now handled purely by CSS classes
+				});
+			}
+			
+			$(".faq-item").each(function(i){
+				var el = $(this);
+				var content = el.find('.faq-content');
+				
+				// Set initial content state (CSS handles heart rotation automatically)
+				if (el.hasClass('active')) {
+					content.css({
+						'max-height': content[0].scrollHeight + 'px',
+						'opacity': '1',
+						'padding-bottom': '30px'
+					});
+				} else {
+					content.css({
+						'max-height': '0px',
+						'opacity': '0',
+						'padding-bottom': '0px'
+					});
+				}
+				
+				el.find(".faq-header").click(function(e){
+					e.preventDefault();
+					
+					if (el.hasClass('active')) {
+						// Close current item
+						el.removeClass('active');
+						content.css({
+							'max-height': '0px',
+							'opacity': '0',
+							'padding-bottom': '0px'
+						});
+						// Heart rotation handled by CSS: .faq-item:not(.active) .faq-heart-icon
+					} else {
+						// Close all other items first
+						closeAllFAQ();
+						
+						// Open current item
+						el.addClass('active');
+						content.css({
+							'max-height': content[0].scrollHeight + 'px',
+							'opacity': '1',
+							'padding-bottom': '30px'
+						});
+						// Heart rotation handled by CSS: .faq-item.active .faq-heart-icon
+					}
+				});
+			});
+		});
+		</script>
+
+		<!-- LinkedIn Insight Tag -->
+    <script >
+        
+    </script>
+    <script >
+        (function(l) {
+            if (!l) {
+                window.lintrk = function(a,b) {
+                    window.lintrk.q.push([a,b])
+                };
+                window.lintrk.q=[]
+            }
+            var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";
+            b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);
+        })(window.lintrk);
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6313658&amp;fmt=gif" loading="lazy" decoding="async" />
+    </noscript>
+    <!-- End LinkedIn Insight Tag --><link rel='stylesheet' id='classic-theme-styles-css' href='/wp-includes/css/classic-themes.mind1c0.css?ver=6.7.2'  media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/stylesfc7a.css?ver=6.0.6'  media='all' />
+<!-- wp-hooks removed -->
+<!-- wp-i18n removed -->
+<!-- wp-i18n config removed -->
+<!-- CF7 SWV JS removed -->
+<!-- wpcf7 config removed -->
+
+<script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
+<!-- wp-polyfill removed -->
+
+</script>
+	`;
+
+export default function Page() {
+  return (
+    <>
+        <script
+          key="schema-0"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: `{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://aenfinite.com/#organization",
+      "name": "Aenfinite",
+      "url": "https://aenfinite.com",
+      "sameAs": [
+        "https://www.facebook.com/aenfinite/",
+        "https://www.linkedin.com/company/aenfinite",
+        "https://www.instagram.com/aenfinite/",
+        "https://twitter.com/aenfinite"
+      ],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://aenfinite.com/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://aenfinite.com/#website",
+      "url": "https://aenfinite.com",
+      "name": "Aenfinite",
+      "publisher": {
+        "@id": "https://aenfinite.com/#organization"
+      },
+      "hasPart": [
+        {
+          "@type": "WebPage",
+          "name": "æœåŠ¡",
+          "description": "åŒ…æ‹¬ç½‘é¡µè®¾è®¡ã€å“ç‰Œå’Œè¥é”€åœ¨å†…çš„ä¸“ä¸šæ•°å­—æœåŠ¡",
+          "url": "https://aenfinite.com/services/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Portfolio",
+          "description": "å±•ç¤ºæˆåŠŸé¡¹ç›®çš„ä½œå“é›†",
+          "url": "https://aenfinite.com/work/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "å…³äºŽæˆ‘ä»¬",
+          "description": "äº†è§£Aenfiniteå’Œæˆ‘ä»¬çš„ä½¿å‘½",
+          "url": "https://aenfinite.com/agency/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "è”ç³»æˆ‘ä»¬",
+          "description": "è”ç³»æˆ‘ä»¬çš„å›¢é˜Ÿ",
+          "url": "https://aenfinite.com/contact/"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://aenfinite.com/#organization-details",
+      "name": "Aenfinite",
+      "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+      "legalName": "Aenfinite LLC",
+      "description": "ä¸“æ³¨äºŽç½‘é¡µè®¾è®¡ã€å“ç‰Œç­–åˆ’ã€UI/UXè®¾è®¡ã€æ•°å­—è¥é”€å’Œç”µå­å•†åŠ¡å¼€å‘çš„æ•°å­—åˆ›æ–°æœºæž„ã€‚",
+      "url": "https://aenfinite.com/",
+      "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
+      "foundingDate": "2017",
+      "founder": {
+        "@type": "Person",
+        "name": "Elizabeth RT Bukhari",
+        "jobTitle": "åˆ›å§‹äººå…¼CEO"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1500 N Grant St, Ste R",
+        "addressLocality": "Denver",
+        "addressRegion": "CO",
+        "postalCode": "80203",
+        "addressCountry": "US"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-303-419-9782",
+        "contactType": "å®¢æˆ·æœåŠ¡",
+        "email": "hello@aenfinite.com",
+        "availableLanguage": "è‹±è¯­"
+      },
+      "sameAs": [
+        "https://www.facebook.com/aenfinite/",
+        "https://www.linkedin.com/company/aenfinite",
+        "https://www.instagram.com/aenfinite/",
+        "https://twitter.com/aenfinite"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://aenfinite.com/#website",
+      "url": "https://aenfinite.com/",
+      "name": "Aenfinite - æ•°å­—åˆ›æ–°æœºæž„",
+      "alternateName": "AenfiniteÂ®",
+      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "publisher": {"@id": "https://aenfinite.com/#organization"},
+      "inLanguage":"zh-CN",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://aenfinite.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://aenfinite.com/#localbusiness",
+      "name": "Aenfiniteæ•°å­—åˆ›æ–°æœºæž„",
+	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1500 N Grant St, Ste R",
+        "addressLocality": "Denver", 
+        "addressRegion": "CO",
+        "postalCode": "80203",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.7392",
+        "longitude": "-104.9903"
+      },
+      "telephone": "+1-303-419-9782",
+      "email": "hello@aenfinite.com",
+      "url": "https://aenfinite.com/",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["æ˜ŸæœŸä¸€", "æ˜ŸæœŸäºŒ", "æ˜ŸæœŸä¸‰", "æ˜ŸæœŸå››", "æ˜ŸæœŸäº”"],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://aenfinite.com/#webpage",
+      "url": "https://aenfinite.com/",
+      "name": "AenfiniteÂ® | Digital åˆ›æ–° æœºæž„",
+      "isPartOf": {"@id": "https://aenfinite.com/#website"},
+      "about": {"@id": "https://aenfinite.com/#organization"},
+      "datePublished": "2017-01-01T00:00:00-00:00",
+      "dateModified": "2025-09-08T00:00:00-00:00",
+      "inLanguage":"zh-CN",
+      "potentialAction": {
+        "@type": "ReadAction",
+        "target": "https://aenfinite.com/"
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "æ•°å­—åˆ›æ–°æœåŠ¡",
+      "provider": {"@id": "https://aenfinite.com/#organization"},
+      "areaServed": ["Denver", "Colorado", "United States", "Global"],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "æ•°å­—åˆ›æ–°æœåŠ¡",
+        "itemListElement": [
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "WordPressç½‘ç«™","description": "å®šåˆ¶WordPresså¼€å‘å’Œè®¾è®¡è§£å†³æ–¹æ¡ˆ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "ç”µå­å•†åŠ¡ç½‘ç«™","description": "å®šåˆ¶åœ¨çº¿å•†åº—å’Œç”µå­å•†åŠ¡å¹³å°"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "å®šåˆ¶ç½‘ç«™å¼€å‘","description": "å®šåˆ¶Webåº”ç”¨ç¨‹åºå’Œç³»ç»Ÿ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "è½¯ä»¶ä¸Žå¹³å°å¼€å‘","description": "å®šåˆ¶è½¯ä»¶å’ŒSaaSå¹³å°è§£å†³æ–¹æ¡ˆ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "åº”ç”¨å¼€å‘","description": "iOSå’ŒAndroidç§»åŠ¨åº”ç”¨å¼€å‘"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘","description": "å“åº”å¼å’Œä»¥ç”¨æˆ·ä¸ºä¸­å¿ƒçš„ç½‘ç«™è§£å†³æ–¹æ¡ˆ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ","description": "æˆ¿åœ°äº§ç½‘é¡µè®¾è®¡ä¸Žå“ç‰Œç­–åˆ’"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "UI/UXè®¾è®¡","description": "ä»¥ç”¨æˆ·ä¸ºä¸­å¿ƒçš„ç•Œé¢å’Œä½“éªŒè®¾è®¡"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥","description": "æ ‡å¿—è®¾è®¡ã€å“ç‰Œç­–ç•¥å’Œè§„èŒƒ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "å¹³é¢è®¾è®¡","description": "æ•°å­—å’Œå°åˆ·åˆ›æ„è®¾è®¡è§£å†³æ–¹æ¡ˆ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "å±•ä¼šå±•ä½è®¾è®¡","description": "å±•ä¼šå®šåˆ¶å±•ä½è®¾è®¡"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "ä¼šè®®å“ç‰Œç­–åˆ’","description": "ä¼šè®®å“ç‰Œè®¾è®¡è§£å†³æ–¹æ¡ˆ"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "æ•°å­—è¥é”€ç­–ç•¥","description": "å…¨é¢çš„æ•°å­—è¥é”€è§„åˆ’"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰","description": "æå‡å¯è§åº¦çš„SEOç­–ç•¥"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š","description": "é’ˆå¯¹å¢žé•¿çš„å®šå‘PPCæ´»åŠ¨"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "ç¤¾äº¤åª’ä½“è¥é”€","description": "ç¤¾äº¤åª’ä½“æ´»åŠ¨å’Œå†…å®¹ç­–ç•¥"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "ä»˜è´¹å¹¿å‘Š","description": "è·¨å¤šå¹³å°åœ¨çº¿å¹¿å‘Š"}}
+        ]
+      }
+    }
+  ]
+}` }}
+        />
+      <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
+    </>
+  );
+}

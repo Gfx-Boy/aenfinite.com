@@ -1,0 +1,169 @@
+{
+  "name": "Aenfinite Contact Form — Spam Filter + Notifications",
+  "nodes": [
+    {
+      "id": "01_webhook",
+      "name": "Contact Form Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [200, 300],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "aenfinite-contact-form",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "webhookId": "aenfinite-contact-form"
+    },
+    {
+      "id": "02_validate",
+      "name": "Spam & Security Validation",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [450, 300],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const body = $input.first().json.body || $input.first().json;\n\nconst contact       = body.contact       || {};\nconst tracking      = body.tracking      || {};\nconst page_info     = body.page_info     || {};\nconst meta          = body.meta          || {};\nconst email_templates = body.email_templates || {};\n\nconst name    = (contact.name                || '').trim();\nconst email   = (contact.email               || '').trim();\nconst project = (contact.project_description || '').trim();\nconst allText = [name, email, project].join(' ');\n\nlet spamScore = 0;\nconst reasons = [];\n\n// 1. Required fields\nif (!name  || name.length  < 2) { spamScore += 10; reasons.push('MISSING_NAME'); }\nif (!email)                     { spamScore += 10; reasons.push('MISSING_EMAIL'); }\n\n// 2. Email format\nconst emailRe = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]{2,}$/;\nif (email && !emailRe.test(email)) { spamScore += 10; reasons.push('INVALID_EMAIL'); }\n\n// 3. Disposable email domains\nconst disposable = ['mailinator.com','guerrillamail.com','10minutemail.com','tempmail.com','throwaway.email','yopmail.com','fakeinbox.com','maildrop.cc','sharklasers.com','trash-mail.com','trashmail.com','temp-mail.org','burnermail.io','getnada.com','moakt.com'];\nconst domain = email.includes('@') ? email.split('@')[1].toLowerCase() : '';\nif (disposable.includes(domain)) { spamScore += 20; reasons.push('DISPOSABLE_EMAIL'); }\n\n// 4. Injection / XSS\nconst hackRe = [/<script/i,/javascript:/i,/union select/i,/drop table/i,/eval\\(/i,/base64_decode/i,/<iframe/i,/etc\\/passwd/i,/cmd\\.exe/i];\nfor (const p of hackRe) { if (p.test(allText)) { spamScore += 50; reasons.push('INJECTION'); break; } }\n\n// 5. Spam keywords\nconst spamRe = [/\\bviagra\\b/i,/\\bcasino\\b/i,/\\blottery\\b/i,/\\bguest post\\b/i,/\\bfree backlink/i,/\\bseo package\\b/i,/\\bforex signal\\b/i,/\\bwork from home\\b/i];\nfor (const p of spamRe) { if (p.test(allText)) { spamScore += 15; reasons.push('SPAM_KEYWORDS'); break; } }\n\n// 6. Too many URLs\nconst urls = (project.match(/https?:\\/\\//gi) || []).length;\nif (urls > 3) { spamScore += urls * 5; reasons.push('EXCESSIVE_URLS'); }\n\n// 7. URL or bad chars in name\nif (/https?:\\/\\/|www\\./i.test(name)) { spamScore += 15; reasons.push('URL_IN_NAME'); }\nif (/[<>{}\\[\\]\\\\|^]/.test(name))    { spamScore += 10; reasons.push('BAD_NAME_CHARS'); }\n\n// 8. All-caps message\nif (project.length > 20 && project === project.toUpperCase()) { spamScore += 10; reasons.push('ALL_CAPS'); }\n\n// 9. Repeated chars\nif (/([a-zA-Z])\\1{4,}/.test(allText)) { spamScore += 10; reasons.push('REPEATED_CHARS'); }\n\nconst isClean   = spamScore < 20;\nconst riskLevel = spamScore >= 50 ? 'HIGH' : spamScore >= 20 ? 'MEDIUM' : 'LOW';\n\nreturn [{ json: { contact, tracking, page_info, meta, email_templates, validation: { is_clean: isClean, spam_score: spamScore, risk_level: riskLevel, reasons: reasons.join(', ') || 'NONE' } } }];"
+      }
+    },
+    {
+      "id": "03_ifclean",
+      "name": "Is Clean?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [700, 300],
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.validation.is_clean }}",
+              "value2": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "04_admin_email",
+      "name": "Notify Admin",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2,
+      "position": [950, 160],
+      "parameters": {
+        "fromEmail": "no-reply@aenfinite.com",
+        "toEmail": "hello@aenfinite.com",
+        "subject": "={{ '🔔 New ' + $json.page_info.service_type + ' Inquiry — ' + $json.contact.name }}",
+        "emailType": "html",
+        "message": "={{ $json.email_templates.admin_email ? $json.email_templates.admin_email.html : ('Name: ' + $json.contact.name + '<br>Email: ' + $json.contact.email + '<br>Project: ' + $json.contact.project_description + '<br>Budget: ' + $json.contact.budget + '<br>Page: ' + $json.page_info.page_url + '<br>Score: ' + $json.validation.spam_score + ' | Risk: ' + $json.validation.risk_level) }}",
+        "options": {
+          "replyTo": "={{ $json.contact.email }}"
+        }
+      }
+    },
+    {
+      "id": "05_client_email",
+      "name": "Confirm to Client",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2,
+      "position": [950, 320],
+      "parameters": {
+        "fromEmail": "hello@aenfinite.com",
+        "toEmail": "={{ $json.contact.email }}",
+        "subject": "={{ 'Thank you for contacting Aenfinite — ' + ($json.page_info.service_type || 'General Inquiry') }}",
+        "emailType": "html",
+        "message": "={{ $json.email_templates.client_email ? $json.email_templates.client_email.html : ('<p>Hi ' + $json.contact.name + ',</p><p>Thank you for contacting Aenfinite! We have received your inquiry and will get back to you within 24 hours.</p><p>Best,<br>Aenfinite Team</p>') }}",
+        "options": {}
+      }
+    },
+    {
+      "id": "06_log_clean",
+      "name": "Log Clean Lead",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [950, 480],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const item = $input.first().json;\nconsole.log('[AENFINITE LEAD]', item.contact.name, item.contact.email, '|', item.page_info.page_url);\nreturn $input.all();"
+      }
+    },
+    {
+      "id": "07_respond_ok",
+      "name": "Respond 200 OK",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1200, 300],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\"status\":\"ok\",\"message\":\"Form received\"}",
+        "options": {}
+      }
+    },
+    {
+      "id": "08_log_spam",
+      "name": "Log Spam Block",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [950, 580],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const item = $input.first().json;\nconsole.warn('[AENFINITE SPAM]', item.contact.email, '| score:', item.validation.spam_score, '| reasons:', item.validation.reasons, '| ip:', item.tracking.ip_address);\nreturn $input.all();"
+      }
+    },
+    {
+      "id": "09_respond_blocked",
+      "name": "Respond OK Silent",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1200, 580],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\"status\":\"ok\",\"message\":\"Form received\"}",
+        "options": {}
+      }
+    }
+  ],
+  "connections": {
+    "Contact Form Webhook": {
+      "main": [
+        [{ "node": "Spam & Security Validation", "type": "main", "index": 0 }]
+      ]
+    },
+    "Spam & Security Validation": {
+      "main": [
+        [{ "node": "Is Clean?", "type": "main", "index": 0 }]
+      ]
+    },
+    "Is Clean?": {
+      "main": [
+        [
+          { "node": "Notify Admin",    "type": "main", "index": 0 },
+          { "node": "Confirm to Client", "type": "main", "index": 0 },
+          { "node": "Log Clean Lead",  "type": "main", "index": 0 }
+        ],
+        [
+          { "node": "Log Spam Block",  "type": "main", "index": 0 }
+        ]
+      ]
+    },
+    "Notify Admin": {
+      "main": [
+        [{ "node": "Respond 200 OK", "type": "main", "index": 0 }]
+      ]
+    },
+    "Confirm to Client": {
+      "main": [
+        [{ "node": "Respond 200 OK", "type": "main", "index": 0 }]
+      ]
+    },
+    "Log Spam Block": {
+      "main": [
+        [{ "node": "Respond OK Silent", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "active": false
+}
