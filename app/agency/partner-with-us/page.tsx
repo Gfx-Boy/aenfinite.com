@@ -3,7 +3,7 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Partner with Aenfinite | White Label & Agency Partnership Opportunities",
-  description: "Partner with Aenfinite â€” a creative digital agency based in Denver. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
+  description: "Partner with Aenfinite — a creative digital agency based in Denver. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
   keywords: "agency partnership, white label partnership, referral program, strategic partnership, agency collaboration, Aenfinite partner",
   alternates: { canonical: "https://aenfinite.com/agency/partner-with-us/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/","en":"https://aenfinite.com/agency/partner-with-us/","es":"https://aenfinite.com/es/agency/partner-with-us/","fr":"https://aenfinite.com/fr/agency/partner-with-us/","de":"https://aenfinite.com/de/agency/partner-with-us/","it":"https://aenfinite.com/it/agency/partner-with-us/","ar":"https://aenfinite.com/ar/agency/partner-with-us/","pt":"https://aenfinite.com/pt/agency/partner-with-us/","zh":"https://aenfinite.com/zh/agency/partner-with-us/","hi":"https://aenfinite.com/hi/agency/partner-with-us/","nl":"https://aenfinite.com/nl/agency/partner-with-us/","ja":"https://aenfinite.com/ja/agency/partner-with-us/","ko":"https://aenfinite.com/ko/agency/partner-with-us/"} },
   openGraph: {"title":"Partner with Aenfinite | White Label & Agency Partnership Opportunities","description":"Collaborate with Aenfinite to scale your services through white label and referral partnerships. We help agencies deliver creative, web, and digital solutions under their own brand.","url":"https://aenfinite.com/agency/partner-with-us/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -1907,7 +1907,9 @@ document.addEventListener('keydown', function(event) {
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="/js/button-highlights.js"></script>
 
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1920,7 +1922,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.com/agency/partner-with-us/",
   "name": "Partner with Aenfinite | White Label & Agency Partnership Opportunities",
-  "description": "Partner with Aenfinite to expand your agencyâ€™s offerings with white label, referral, and strategic partnership programs. We provide professional design, development, and digital solutions from Denver, Colorado.",
+  "description": "Partner with Aenfinite to expand your agency's offerings with white label, referral, and strategic partnership programs. We provide professional design, development, and digital solutions from Denver, Colorado.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",

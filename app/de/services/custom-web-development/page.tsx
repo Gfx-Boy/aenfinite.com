@@ -1112,7 +1112,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1121,13 +1121,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1135,7 +1135,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1147,10 +1147,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1285,7 +1285,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1356,12 +1356,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">API Integration Solutions, Database Design & Optimization</span>
     <span class="marquee-line_text">Kunden in den USA, Kanada und weltweit</span>
     <span class="marquee-line_text">Specialists in Individuelle Entwicklung Performance & Nutzererlebnis</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for Custom EntwicklungslÃ¶sungen</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Custom Entwicklungslösungen</span>
     <span class="marquee-line_text">High-Performance Individuelle Entwicklung & Security</span>
     <span class="marquee-line_text">Professional Individuelle Entwicklung & Application Solutions</span>
     <span class="marquee-line_text">Professional Individuelle Entwicklung Agentur with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Individuelle Entwicklung Wartung & Support</span>
-    <span class="marquee-line_text">Custom Custom EntwicklungslÃ¶sungen for Every Industry</span>
+    <span class="marquee-line_text">Custom Custom Entwicklungslösungen for Every Industry</span>
     <span class="marquee-line_text">Custom Application Performance Optimization & Mobile Responsiveness</span>
     <span class="marquee-line_text">Scalable Individuelle Entwicklung & Long-term Growth</span>
 </div>
@@ -1482,7 +1482,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom GeschÃ¤ftsentwicklung" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom Geschäftsentwicklung" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1490,7 +1490,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="06">
 											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro - Business Solutions Platform</a></div>
-																																		<div class="preview-name">Custom GeschÃ¤ftsentwicklung</div>
+																																		<div class="preview-name">Custom Geschäftsentwicklung</div>
 																							<div class="preview-name">Client Management</div>
 																							<div class="preview-name">Service Automatisierung</div>
 																							<div class="preview-name">Reporting Dashboard</div>
@@ -1563,7 +1563,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>years of expertise building scalable, high-performance web solutions tailored to each clientâ€™s unique requirements</div>
+							<div>years of expertise building scalable, high-performance web solutions tailored to each client's unique requirements</div>
 						</div>
 					</div>
 				</div>
@@ -1692,14 +1692,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom GeschÃ¤ftsentwicklung" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom Geschäftsentwicklung" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/feiro/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">Custom GeschÃ¤ftsentwicklung</div>
+																					<div class="preview-name">Custom Geschäftsentwicklung</div>
 																					<div class="preview-name">Client Management</div>
 																					<div class="preview-name">Service Automatisierung</div>
 																					<div class="preview-name">Reporting Dashboard</div>
@@ -1743,7 +1743,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="center">
       <div class="formss-wrap">
         <h2>Kontakt Aenfinite for Individuelle Webentwicklung Solutions</h2>
-        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and letâ€™s create something amazing together.</p>
+        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and let's create something amazing together.</p>
 
         <div class="toggle-formss">
           <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="checkbox-select">
-                  <strong>Ich interessiere mich fÃ¼r...</strong>
+                  <strong>Ich interessiere mich für...</strong>
                   <span class="form-control-wrap" data-name="checkbox-select">
                     <span class="form-control checkbox-group" style="padding-bottom: 50px">
                       <span class="list-item first">
@@ -1826,7 +1826,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <div class="select-option js-select-option">von 500 $ bis 5.000 $</div>
                       <div class="select-option js-select-option">von 5.000 $ bis 20.000 $</div>
                       <div class="select-option js-select-option">von 20.000 $ bis 50.000 $</div>
-                      <div class="select-option js-select-option">Ã¼ber 100.000 $</div>
+                      <div class="select-option js-select-option">über 100.000 $</div>
                     </div>
                   </div>
                 </div>
@@ -1877,7 +1877,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">API & System Integrations</div>
 				<div class="pane-subtitle">
-					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether itâ€™s payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
+					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether it's payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
@@ -2124,7 +2124,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   </div>
                 </div>
                 <div class="service-text" style="font-size: 15px; line-height: 1.5;">
-                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue â€” ensuring your site looks stunning and performs flawlessly on every device.</p>
+                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue — ensuring your site looks stunning and performs flawlessly on every device.</p>
                 </div>
                 <div class="service-action">
                   <a href="/de/contact/" class="redlink"><span>Learn more</span></a>
@@ -2191,7 +2191,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam GroÃŸartiges schaffen.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2315,7 +2315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2554,7 +2554,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2687,7 +2687,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2701,7 +2703,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/aenfinitee",
@@ -2712,8 +2714,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Individuelle Webentwicklung Agentur",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Individuelle Webentwicklung Agentur",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"de-DE"
     },
@@ -2723,7 +2725,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "5714",
       "height": "3216",
-      "caption": "AenfiniteÂ® Brand Logo - Best Individuelle Webentwicklung Agentur",
+      "caption": "Aenfinite® Brand Logo - Best Individuelle Webentwicklung Agentur",
       "inLanguage":"de-DE"
     },
     {
@@ -2739,7 +2741,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/custom-web-development/#webpage",
       "url": "https://aenfinite.com/services/custom-web-development/",
-      "name": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | AenfiniteÂ®",
+      "name": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2750,27 +2752,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/custom-web-development/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and creative strategist at AenfiniteÂ®.",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and creative strategist at Aenfinite®.",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"de-DE"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | AenfiniteÂ®",
+      "headline": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | Aenfinite®",
       "keywords": "Individuelle Webentwicklung, Bespoke Applications, API Integration, Database Design, Performance Optimization, Web Security",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/custom-web-development/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional individuelle Webentwicklung services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
-      "name": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional individuelle Webentwicklung services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
+      "name": "Professional Individuelle Webentwicklung | Bespoke Website Solutions | Aenfinite®",
       "@id": "https://aenfinite.com/services/custom-web-development/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/custom-web-development/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Branding Profissional ServiÃ§os | Design de Logotipo & Identidade de Marca | Aenfinite",
-  description: "AenfiniteÂ® is a creative agÃªncia de branding offering logo design, brand identity, strategy, and guidelines. We help businesses build recognizable brands that inspire trust and growth.",
-  keywords: "agÃªncia de branding, brand identity, brand strategy, brand guidelines, visual identity design, corporate branding, startup branding, rebranding, Aenfinite",
+  title: "Branding Profissional Serviços | Design de Logotipo & Identidade de Marca | Aenfinite",
+  description: "Aenfinite® is a creative agência de branding offering logo design, brand identity, strategy, and guidelines. We help businesses build recognizable brands that inspire trust and growth.",
+  keywords: "agência de branding, brand identity, brand strategy, brand guidelines, visual identity design, corporate branding, startup branding, rebranding, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/branding/", languages: {"x-default":"https://aenfinite.com/services/branding/","en":"https://aenfinite.com/services/branding/","es":"https://aenfinite.com/es/services/branding/","fr":"https://aenfinite.com/fr/services/branding/","de":"https://aenfinite.com/de/services/branding/","it":"https://aenfinite.com/it/services/branding/","ar":"https://aenfinite.com/ar/services/branding/","pt":"https://aenfinite.com/pt/services/branding/","zh":"https://aenfinite.com/zh/services/branding/","hi":"https://aenfinite.com/hi/services/branding/","nl":"https://aenfinite.com/nl/services/branding/","ja":"https://aenfinite.com/ja/services/branding/","ko":"https://aenfinite.com/ko/services/branding/"} },
-  openGraph: {"title":"Branding Profissional ServiÃ§os | Design de Logotipo & Identidade de Marca | Aenfinite","description":"Aenfinite helps businesses craft meaningful brand identities with expert logo design, brand guidelines, and visual storytelling that connects with audiences.","url":"https://aenfinite.com/pt/services/branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Branding Profissional ServiÃ§os | Design de Logotipo & Identidade de Marca | Aenfinite","description":"Aenfinite delivers high-impact branding services, including logo design, identity systems, and brand strategy for companies ready to stand out.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Branding Profissional Serviços | Design de Logotipo & Identidade de Marca | Aenfinite","description":"Aenfinite helps businesses craft meaningful brand identities with expert logo design, brand guidelines, and visual storytelling that connects with audiences.","url":"https://aenfinite.com/pt/services/branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Branding Profissional Serviços | Design de Logotipo & Identidade de Marca | Aenfinite","description":"Aenfinite delivers high-impact branding services, including logo design, identity systems, and brand strategy for companies ready to stand out.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,16 +1104,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency/">AgÃªncia</a>
+								<a href="/pt/agency/">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/pt/services/">ServiÃ§os</a>
+                                <a href="/pt/services/">Serviços</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
@@ -1122,36 +1122,36 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>									</ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ServiÃ§os de Design e CriaÃ§Ã£o â€º</a>
+										<a href="#">Serviços de Design e Criação â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-											<li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
+											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+											<li><a href="/pt/services/graphic-design/">Design Gráfico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
 											
 											<li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-											<li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+											<li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-											<li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
 											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-											<li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
+											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1160,7 +1160,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,15 +1353,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Branding Profissional ServiÃ§os ServiÃ§os</span>
+    <span class="marquee-line_text">Branding Profissional Serviços Serviços</span>
     <span class="marquee-line_text">Identidade de Marca, Design de Logotipo & Visual Strategy</span>
-    <span class="marquee-line_text">Atendendo Clientes nos EUA, CanadÃ¡ e AlÃ©m</span>
+    <span class="marquee-line_text">Atendendo Clientes nos EUA, Canadá e Além</span>
     <span class="marquee-line_text">Specialists in Identidade de Marca & Creative Design</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Branding Solutions</span>
     <span class="marquee-line_text">High-Impact Design de Marca & Identity Desenvolvimento</span>
     <span class="marquee-line_text">Branding Profissional e Design de Logotipo Solutions</span>
-    <span class="marquee-line_text">Branding Profissional AgÃªncia with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive EstratÃ©gia de Marca & Design Support</span>
+    <span class="marquee-line_text">Branding Profissional Agência with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Estratégia de Marca & Design Support</span>
     <span class="marquee-line_text">Custom Branding Solutions for Every Industry</span>
     <span class="marquee-line_text">Brand Consistency & Multi-Platform Implementation</span>
     <span class="marquee-line_text">Scalable Brand Systems & Long-term Recognition</span>
@@ -1383,7 +1383,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/algopros/">AlgoPros - Professional Design de Logotipo & Identidade de Marca Studio</a></div>
 																																		<div class="preview-name">Branding</div>
 																							<div class="preview-name">Design de Logotipo</div>
-																							<div class="preview-name">Design GrÃ¡fico</div>
+																							<div class="preview-name">Design Gráfico</div>
 																							<div class="preview-name">Identidade de Marca</div>
 																					</div>
 									</div>
@@ -1405,7 +1405,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Branding</div>
 																							<div class="preview-name">Identidade de Marca</div>
 																							<div class="preview-name">Exhibition Design</div>
-																							<div class="preview-name">Design de ImpressÃ£o</div>
+																							<div class="preview-name">Design de Impressão</div>
 																					</div>
 									</div>
 								</div>
@@ -1447,7 +1447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Branding</div>
 																							<div class="preview-name">Identidade de Marca</div>
 																							<div class="preview-name">Material de Marca</div>
-																							<div class="preview-name">Design de ImpressÃ£o</div>
+																							<div class="preview-name">Design de Impressão</div>
 																					</div>
 									</div>
 								</div>
@@ -1466,7 +1466,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-content" data-index="05">
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Professional Marketing Design - Identidade de Marca</a></div>
 																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">EstratÃ©gia de Marca</div>
+																							<div class="preview-name">Estratégia de Marca</div>
 																							<div class="preview-name">Material de Marca</div>
 																							<div class="preview-name">Marketing Digital</div>
 																					</div>
@@ -1509,7 +1509,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 - Complete Design de Logotipo Collection</a></div>
 																																		<div class="preview-name">Branding</div>
 																							<div class="preview-name">Design de Logotipo</div>
-																							<div class="preview-name">Design GrÃ¡fico</div>
+																							<div class="preview-name">Design Gráfico</div>
 																							<div class="preview-name">Material de Marca</div>
 																					</div>
 									</div>
@@ -1715,7 +1715,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contato Aenfinite for Branding Profissional ServiÃ§os</h2>
+				<h2>Contato Aenfinite for Branding Profissional Serviços</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1761,16 +1761,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<label for="visual-branding" class="list-item-label">Visual Branding</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="EstratÃ©gia de Marca" id="brand-strategy" />
-					<label for="brand-strategy" class="list-item-label">EstratÃ©gia de Marca</label>
+					<input type="checkbox" name="services" value="Estratégia de Marca" id="brand-strategy" />
+					<label for="brand-strategy" class="list-item-label">Estratégia de Marca</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Corporate Branding" id="corporate-branding" />
 					<label for="corporate-branding" class="list-item-label">Corporate Branding</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Rebranding ServiÃ§os" id="rebranding" />
-					<label for="rebranding" class="list-item-label">Rebranding ServiÃ§os</label>
+					<input type="checkbox" name="services" value="Rebranding Serviços" id="rebranding" />
+					<label for="rebranding" class="list-item-label">Rebranding Serviços</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Diretrizes de Marca" id="brand-guidelines" />
@@ -1784,7 +1784,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orÃ§amento aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orçamento aproximado" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1861,7 +1861,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">EstratÃ©gia de Marca Desenvolvimento</div>
+						<div class="pane-title">Estratégia de Marca Desenvolvimento</div>
 						<div class="pane-subtitle">
 							<p>Develop comprehensive brand strategy with our strategic brand development services. We create brand positioning, messaging frameworks, target audience analysis, and competitive differentiation strategies that enable effective brand communication and deliver meaningful brand experiences across all channels.</p>
 						</div>
@@ -1908,13 +1908,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Research & Insights</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brandâ€™s current position, values, and opportunities for growth.</p>
+							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brand's current position, values, and opportunities for growth.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>EstratÃ©gia de Marca</span>
+							<span>Estratégia de Marca</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We define your brandâ€™s voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
+							<p>We define your brand's voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Positioning</span>
@@ -2029,7 +2029,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Branding</span> is the perfect balance of creativity and strategy. PortfÃ³lio with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Branding</span> is the perfect balance of creativity and strategy. Portfólio with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2040,7 +2040,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Branding & Identity Design ServiÃ§os</h2>
+					<h2>Aenfinite Branding & Identity Design Serviços</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2082,7 +2082,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">EstratÃ©gia de Marca & Positioning</div>
+							<div class="service-caption js-service-caption">Estratégia de Marca & Positioning</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2212,16 +2212,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Branding</a></li>
@@ -2237,15 +2237,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ServiÃ§os White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de IndicaÃ§Ã£o</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">ServiÃ§os GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">EndereÃ§o</div>
+								<div class="footer-col_caption">Endereço</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2300,9 +2300,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -2316,14 +2316,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2561,8 +2561,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -2627,7 +2627,7 @@ document.addEventListener('keydown', function(event) {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2640,7 +2640,7 @@ document.addEventListener('keydown', function(event) {
 					"https://twitter.com/aenfinitee",
 					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert agÃªncia de branding specializing in brand strategy, visual identity, logo design, brand guidelines, and comprehensive brand development solutions.",
+				  "description": "Expert agência de branding specializing in brand strategy, visual identity, logo design, brand guidelines, and comprehensive brand development solutions.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2695,7 +2695,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2709,7 +2711,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [
@@ -2722,7 +2724,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"pt-BR"
     },
@@ -2730,14 +2732,14 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/branding/#webpage",
       "url": "https://aenfinite.com/services/branding/",
-      "name": "Branding Profissional ServiÃ§os | Design de Logotipo & Identidade de Marca | Aenfinite",
-      "description": "AenfiniteÂ® offers creative branding solutions, including logo design, brand identity, brand strategy, and visual brand guidelines that make businesses unforgettable.",
+      "name": "Branding Profissional Serviços | Design de Logotipo & Identidade de Marca | Aenfinite",
+      "description": "Aenfinite® offers creative branding solutions, including logo design, brand identity, brand strategy, and visual brand guidelines that make businesses unforgettable.",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "ServiÃ§os", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 2, "name": "Serviços", "item": "https://aenfinite.com/services/" },
           { "@type": "ListItem", "position": 3, "name": "Branding", "item": "https://aenfinite.com/services/branding/" }
         ]
       },
@@ -2784,7 +2786,7 @@ export default function Page() {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2797,7 +2799,7 @@ export default function Page() {
 					"https://twitter.com/aenfinitee",
 					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert agÃªncia de branding specializing in brand strategy, visual identity, logo design, brand guidelines, and comprehensive brand development solutions.",
+				  "description": "Expert agência de branding specializing in brand strategy, visual identity, logo design, brand guidelines, and comprehensive brand development solutions.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2826,13 +2828,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ServiÃ§os",
+      "name": "Serviços",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Branding Profissional ServiÃ§os",
+      "name": "Branding Profissional Serviços",
       "item": "https://aenfinite.com/services/branding/"
     }
   ]

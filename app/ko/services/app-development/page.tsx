@@ -1908,14 +1908,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="pane-index"></div>
                 <div class="pane-title">App Store Optimization (ASO)</div>
                 <div class="pane-subtitle">
-                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your appâ€™s title, keywords, and descriptions to increase downloads and improve rankings.</p>
+                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your app's title, keywords, and descriptions to increase downloads and improve rankings.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
                 <div class="pane-title">ìœ ì§€ë³´ìˆ˜ & Support</div>
                 <div class="pane-subtitle">
-                    <p>Our work doesnâ€™t stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
+                    <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -2000,7 +2000,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <span>Backend & API</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
-                            <p>Our developers build robust backends and APIs to power your appâ€™s functionality, ensuring security, scalability, and smooth performance.</p>
+                            <p>Our developers build robust backends and APIs to power your app's functionality, ensuring security, scalability, and smooth performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
                             <span>Frontend & Mobile</span>
@@ -2728,7 +2728,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2742,7 +2744,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®",
-  description: "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.",
+  title: "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®",
+  description: "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.",
   keywords: "AfroPop craft soda, e-commerce website design, Shopify design, artist collaboration platform, beverage e-commerce, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/fr/work/afropopup/", languages: {"x-default":"https://aenfinite.com/work/afropopup/","en":"https://aenfinite.com/work/afropopup/","es":"https://aenfinite.com/es/work/afropopup/","fr":"https://aenfinite.com/fr/work/afropopup/","de":"https://aenfinite.com/de/work/afropopup/","it":"https://aenfinite.com/it/work/afropopup/","ar":"https://aenfinite.com/ar/work/afropopup/","pt":"https://aenfinite.com/pt/work/afropopup/","zh":"https://aenfinite.com/zh/work/afropopup/","hi":"https://aenfinite.com/hi/work/afropopup/","nl":"https://aenfinite.com/nl/work/afropopup/","ja":"https://aenfinite.com/ja/work/afropopup/","ko":"https://aenfinite.com/ko/work/afropopup/"} },
-  openGraph: {"title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.","url":"https://aenfinite.com/fr/work/afropopup/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"}]},
-  twitter: {"card":"summary_large_image","title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"]},
+  openGraph: {"title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.","url":"https://aenfinite.com/fr/work/afropopup/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"}]},
+  twitter: {"card":"summary_large_image","title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"]},
   robots: { index: true, follow: true },
 };
 
@@ -523,7 +523,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency">Agence</a>
@@ -532,36 +532,36 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions de DÃ©veloppement â€º</a>
+                                        <a href="#">Solutions de Développement â€º</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Services de Design et CrÃ©ation â€º</a>
+                                        <a href="#">Services de Design et Création â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
 
-                                            <li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
+                                            <li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
                                             <li><a href="/fr/services/graphic-design/">Design Graphique</a></li>
                                             
                                             <li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-                                            <li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+                                            <li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Solutions Marketing et Digitales â€º</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+                                            <li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
                                             <li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-                                            <li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-                                            <li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+                                            <li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+                                            <li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
                                             
                                         </ul>
                                     </li>
@@ -808,7 +808,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -858,21 +858,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="keygrid-inner js-aos appear">
 								<h1 class="keygrid-maintitle">Afro Popup - African Culture &amp; Events Platform</h1>
 								<div class="keygrid-description">
-									<p>AfroPop is a premium craft soda company celebrating African culture through authentic flavors and artistic expression. Each can features original artwork by emerging Black artists, creating a unique fusion of taste and visual culture. Our team at AenfiniteÂ® designed a vibrant e-commerce experience showcasing their signature varieties including Summer Nights and Blvcker The Berry, emphasizing the brand's commitment to craft ingredients, creativity, and cultural representation in every sip.</p>
+									<p>AfroPop is a premium craft soda company celebrating African culture through authentic flavors and artistic expression. Each can features original artwork by emerging Black artists, creating a unique fusion of taste and visual culture. Our team at Aenfinite® designed a vibrant e-commerce experience showcasing their signature varieties including Summer Nights and Blvcker The Berry, emphasizing the brand's commitment to craft ingredients, creativity, and cultural representation in every sip.</p>
 								</div>
 								<div class="service-tags tagswork" style="display:none;">
 									<div class="chips">
 																					<div class="chip"><a class="chip-label" href="../ui-ux-design/">Design UI/UX</a></div>
-																					<div class="chip"><a class="chip-label" href="../web-design/">DÃ©veloppement E-commerce</a></div>
-																					<div class="chip"><a class="chip-label" href="../branding/">IdentitÃ© de Marque</a></div>
+																					<div class="chip"><a class="chip-label" href="../web-design/">Développement E-commerce</a></div>
+																					<div class="chip"><a class="chip-label" href="../branding/">Identité de Marque</a></div>
 																					<div class="chip"><a class="chip-label" href="../graphic-design/">Product Design</a></div>
-																					<div class="chip"><a class="chip-label" href="../web-design/">DÃ©veloppement Shopify</a></div>
+																					<div class="chip"><a class="chip-label" href="../web-design/">Développement Shopify</a></div>
 																			</div>
 								</div>
 								<div class="tagslist">
-									<b>AenfiniteÂ® Scope of RÃ©alisations:</b>
+									<b>Aenfinite® Scope of Réalisations:</b>
 									<ul>
-										<li>E-commerce Conception et DÃ©veloppement de Sites Web</li><li>Shopify Store Customization</li><li>Product Showcase UI/UX</li><li>IdentitÃ© de Marque & Visual Design</li><li>Mobile-Responsive Shopping Experience</li><li>Artist Collaboration Integration</li><li>Cultural Brand Messaging</li><li>Payment & Checkout Optimization</li>									</ul>
+										<li>E-commerce Conception et Développement de Sites Web</li><li>Shopify Store Customization</li><li>Product Showcase UI/UX</li><li>Identité de Marque & Visual Design</li><li>Mobile-Responsive Shopping Experience</li><li>Artist Collaboration Integration</li><li>Cultural Brand Messaging</li><li>Payment & Checkout Optimization</li>									</ul>
 								</div>
 																	<div class="link-project">
 																					<style>
@@ -921,15 +921,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			
 							<div class="section reviews" itemprop="review" itemscope itemtype="http://schema.org/Review">
-					<span itemprop="name" class="name-project">Mindfit - Bien-Ãªtre Mental & Fitness App UI/UX & DÃ©veloppement</span>
+					<span itemprop="name" class="name-project">Mindfit - Bien-être Mental & Fitness App UI/UX & Développement</span>
 					<div class="wrapper">
 						<div class="inner-wrapper">
-						  	<h2>Mindfit Client Testimonial for AenfiniteÂ®</h2>
+						  	<h2>Mindfit Client Testimonial for Aenfinite®</h2>
 						  	<div class="container">
 								<div class="con-stats">
 							  		<div class="con-tittle" itemprop="reviewBody">
 										<p>
-											"AenfiniteÂ® transformed our vision into a cutting-edge wellness platform. Their UI/UX expertise made complex health data accessible and intuitive. The sleek interface and seamless user experience have revolutionized how our users track their wellness journey. Exceptional work!"										</p>
+											"Aenfinite® transformed our vision into a cutting-edge wellness platform. Their UI/UX expertise made complex health data accessible and intuitive. The sleek interface and seamless user experience have revolutionized how our users track their wellness journey. Exceptional work!"										</p>
 							  		</div>
 							  		<div class="con-par">
 										<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -1160,8 +1160,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="process-step">
 									<div class="step-number">05</div>
 									<div class="step-content">
-										<h3>DÃ©veloppement de Plateformes & Launch</h3>
-										<p>Responsive cultural platform and mobile dÃ©veloppement d'applications with real-time event discovery and seamless community engagement</p>
+										<h3>Développement de Plateformes & Launch</h3>
+										<p>Responsive cultural platform and mobile développement d'applications with real-time event discovery and seamless community engagement</p>
 										<div class="step-highlight">Cross-cultural compatibility, Community optimization, Real-time events</div>
 									</div>
 									<div class="step-visual">
@@ -1340,7 +1340,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Image de Marque" id="branding" /><label for="branding" class="list-item-label">Image de Marque</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web" id="web-design" /><label for="web-design" class="list-item-label">Conception Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Solutions E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Solutions E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="DÃ©veloppement d'Applications" id="app-development" /><label for="app-development" class="list-item-label">DÃ©veloppement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="Emballage" id="packaging" /><label for="packaging" class="list-item-label">Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Design Graphique" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design Graphique</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre" id="other" /><label for="other" class="list-item-label">Autre</label></span></span></span>
+		<strong>Je suis intéressé par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Image de Marque" id="branding" /><label for="branding" class="list-item-label">Image de Marque</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web" id="web-design" /><label for="web-design" class="list-item-label">Conception Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Solutions E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Solutions E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Développement d'Applications" id="app-development" /><label for="app-development" class="list-item-label">Développement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="Emballage" id="packaging" /><label for="packaging" class="list-item-label">Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Design Graphique" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design Graphique</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre" id="other" /><label for="other" class="list-item-label">Autre</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Indiquez votre budget approximatif" value="" readonly name="budget" />
@@ -1423,8 +1423,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
-        Our mobile-first, SEO-friendly websites are built to performâ€”optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        Our mobile-first, SEO-friendly websites are built to perform—optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/contact/" class="redlink">
@@ -1434,24 +1434,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">Image de Marque et CrÃ©ation de Logo</div>
+								<div class="service-caption js-service-caption">Image de Marque et Création de Logo</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">IdentitÃ© de Marque</a>
+													<a href="../../services/branding/" class="chip-label">Identité de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/logo-design/" class="chip-label">CrÃ©ation de Logo</a>
+													<a href="../../services/logo-design/" class="chip-label">Création de Logo</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">StratÃ©gie de Marque</a>
+													<a href="../../services/branding/" class="chip-label">Stratégie de Marque</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/branding/" class="chip-label">Charte Graphique</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">IdentitÃ© Corporate</a>
+													<a href="../../services/branding/" class="chip-label">Identité Corporate</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/branding/" class="chip-label">Rebranding</a>
@@ -1460,8 +1460,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/contact/" class="redlink">
@@ -1482,7 +1482,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/digital-marketing/" class="chip-label">Marketing par E-mail</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/paid-ads/" class="chip-label">PublicitÃ© Payante</a>
+													<a href="../../services/paid-ads/" class="chip-label">Publicité Payante</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/Pay-per-click/" class="chip-label">Campagnes PPC</a>
@@ -1509,7 +1509,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">DÃ©veloppement Shopify</a>
+													<a href="../../services/e-commerce-websites/" class="chip-label">Développement Shopify</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/e-commerce-websites/" class="chip-label">WooCommerce</a>
@@ -1518,7 +1518,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/e-commerce-websites/" class="chip-label">Boutiques en Ligne</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">IntÃ©gration de Paiement</a>
+													<a href="../../services/e-commerce-websites/" class="chip-label">Intégration de Paiement</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/e-commerce-websites/" class="chip-label">Catalogues de Produits</a>
@@ -1547,10 +1547,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/wordpress-websites/" class="chip-label">WordPress Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">DÃ©veloppement de ThÃ¨mes</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">Développement de ThÃ¨mes</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">DÃ©veloppement de Plugins</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">Développement de Plugins</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/wordpress-websites/" class="chip-label">Solutions CMS</a>
@@ -1574,7 +1574,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement d'Applications</div>
+								<div class="service-caption js-service-caption">Développement d'Applications</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
@@ -1599,7 +1599,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile dÃ©veloppement d'applications and success.</p>
+										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile développement d'applications and success.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/contact/" class="redlink">
@@ -1634,7 +1634,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals â€” itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals — it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1653,10 +1653,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Ã‰tiquette de Marque</a>
+													<a href="../../services/packaging-design/" class="chip-label">Étiquette de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Ã‰tiquette de Produit</a>
+													<a href="../../services/packaging-design/" class="chip-label">Étiquette de Produit</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/packaging-design/" class="chip-label">Alimentation et Boissons</a>
@@ -1666,12 +1666,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/packaging-design/" class="chip-label">Maquettes 3D</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">PrÃªt pour la Vente</a>
+													<a href="../../services/packaging-design/" class="chip-label">Prêt pour la Vente</a>
 												</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>we create packaging that does more than protect a product â€” it tells a story and grabs attention on the shelf. 
+										<p>we create packaging that does more than protect a product — it tells a story and grabs attention on the shelf. 
     Our team blends creative design with production-ready solutions, ensuring your packaging not only looks stunning but is practical and cost-effective to manufacture. 
     From innovative concepts for new startups to reimagining established product lines, we craft packaging that stands out, builds emotional connection, and turns casual shoppers into loyal customers.</p>
 									</div>
@@ -1683,15 +1683,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement Sur Mesure</div>
+								<div class="service-caption js-service-caption">Développement Sur Mesure</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/Custom-Web-DÃ©veloppement/" class="chip-label">DÃ©veloppement Web Sur Mesure</a>
+													<a href="../../services/Custom-Web-Développement/" class="chip-label">Développement Web Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/software-&-platform-development/" class="chip-label">DÃ©veloppement Logiciel</a>
+													<a href="../../services/software-&-platform-development/" class="chip-label">Développement Logiciel</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/workflow-&-business-automation/" class="chip-label">Automatisation Commerciale</a>
@@ -1700,7 +1700,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots IA</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/Custom-Web-DÃ©veloppement/" class="chip-label">DÃ©veloppement de Plateformes</a>
+													<a href="../../services/Custom-Web-Développement/" class="chip-label">Développement de Plateformes</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/workflow-&-business-automation/" class="chip-label">Automatisation des Processus</a>
@@ -1732,7 +1732,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite DÃ©veloppement Sur Mesure Case Studies</h2>
+						<h2>Aenfinite Développement Sur Mesure Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1740,14 +1740,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing DÃ©veloppement Web Sur Mesure" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Développement Web Sur Mesure" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/blue-vine-marketing/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																					<div class="preview-name">Développement Web Sur Mesure</div>
 																					<div class="preview-name">Lead Generation System</div>
 																					<div class="preview-name">Responsive Framework</div>
 																					<div class="preview-name">Performance Optimization</div>
@@ -1759,7 +1759,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/khatech/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
@@ -1767,7 +1767,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<a href="../../work/khatech/">KhaTech</a>
 										</div>
 																					<div class="preview-name">Custom Web Application</div>
-																					<div class="preview-name">API DÃ©veloppement</div>
+																					<div class="preview-name">API Développement</div>
 																					<div class="preview-name">User Dashboard</div>
 																					<div class="preview-name">Database Integration</div>
 																					<div class="preview-name">Custom CMS</div>
@@ -1785,7 +1785,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/amkiservice/">AM-KI Services</a>
 										</div>
-																					<div class="preview-name">Enterprise DÃ©veloppement</div>
+																					<div class="preview-name">Enterprise Développement</div>
 																					<div class="preview-name">Business Compliance</div>
 																					<div class="preview-name">Custom Workflows</div>
 																					<div class="preview-name">Data Management</div>
@@ -1797,15 +1797,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom DÃ©veloppement E-commerce" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom Développement E-commerce" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/husnohaya/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">Custom DÃ©veloppement E-commerce</div>
-																					<div class="preview-name">IntÃ©gration de Paiement</div>
+																					<div class="preview-name">Custom Développement E-commerce</div>
+																					<div class="preview-name">Intégration de Paiement</div>
 																					<div class="preview-name">Product Management</div>
 																					<div class="preview-name">User Authentication</div>
 																					<div class="preview-name">Mobile Optimization</div>
@@ -1816,7 +1816,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/afropopup/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -1835,14 +1835,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom DÃ©veloppement Commercial" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom Développement Commercial" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/feiro/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">Custom DÃ©veloppement Commercial</div>
+																					<div class="preview-name">Custom Développement Commercial</div>
 																					<div class="preview-name">Client Management</div>
 																					<div class="preview-name">Service Automatisation</div>
 																					<div class="preview-name">Reporting Dashboard</div>
@@ -1854,14 +1854,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea DÃ©veloppement Web Sur Mesure" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea Développement Web Sur Mesure" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/lumea/">Lumea</a>
 										</div>
-																					<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																					<div class="preview-name">Développement Web Sur Mesure</div>
 																					<div class="preview-name">Interactive Features</div>
 																					<div class="preview-name">Modern Framework</div>
 																					<div class="preview-name">Design Responsive</div>
@@ -1888,7 +1888,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1901,7 +1901,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Services</a></li>
 
@@ -1987,7 +1987,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Services</a></li>
 
@@ -2003,13 +2003,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2329,8 +2329,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2555,7 +2555,9 @@ document.addEventListener('keydown', function(event) {
 	});
 	</script>
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2567,7 +2569,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "headline": "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform",
-  "description": "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.",
+  "description": "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.",
   "url": "https://aenfinite.com/work/afropop/",
   "datePublished": "2025-09-07T16:30:42-04:00",
   "dateModified": "2025-09-07T10:17:27-04:00",
@@ -2580,12 +2582,12 @@ export default function Page() {
   },
   "author": {
     "@type": "Organization",
-    "name": "AenfiniteÂ®",
+    "name": "Aenfinite®",
     "url": "https://aenfinite.com"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "AenfiniteÂ®",
+    "name": "Aenfinite®",
     "logo": {
       "@type": "ImageObject",
       "url": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png"
@@ -2617,7 +2619,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "RÃ©alisations",
+      "name": "Réalisations",
       "item": "https://aenfinite.com/work/"
     },
     {

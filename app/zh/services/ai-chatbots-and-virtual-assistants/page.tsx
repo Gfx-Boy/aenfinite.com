@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   keywords: "AI chatbots, virtual assistants, conversational AI, chatbot development, å®¢æˆ·æœåŠ¡ automation, NLP chatbot, AI customer support, intelligent virtual assistant, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/ai-chatbots-and-virtual-assistants/", languages: {"x-default":"https://aenfinite.com/services/ai-chatbots-and-virtual-assistants/","en":"https://aenfinite.com/services/ai-chatbots-and-virtual-assistants/","es":"https://aenfinite.com/es/services/ai-chatbots-and-virtual-assistants/","fr":"https://aenfinite.com/fr/services/ai-chatbots-and-virtual-assistants/","de":"https://aenfinite.com/de/services/ai-chatbots-and-virtual-assistants/","it":"https://aenfinite.com/it/services/ai-chatbots-and-virtual-assistants/","ar":"https://aenfinite.com/ar/services/ai-chatbots-and-virtual-assistants/","pt":"https://aenfinite.com/pt/services/ai-chatbots-and-virtual-assistants/","zh":"https://aenfinite.com/zh/services/ai-chatbots-and-virtual-assistants/","hi":"https://aenfinite.com/hi/services/ai-chatbots-and-virtual-assistants/","nl":"https://aenfinite.com/nl/services/ai-chatbots-and-virtual-assistants/","ja":"https://aenfinite.com/ja/services/ai-chatbots-and-virtual-assistants/","ko":"https://aenfinite.com/ko/services/ai-chatbots-and-virtual-assistants/"} },
   openGraph: {"title":"AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹ å¼€å‘ | Conversational AI Solutions | Aenfinite","description":"Create next-gen AI chatbots and virtual assistants with Aenfinite. Our conversational AI solutions automate workflows and enhance customer experiences.","url":"https://aenfinite.com/zh/services/ai-chatbots-and-virtual-assistants/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹ å¼€å‘ | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development â€” delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  twitter: {"card":"summary_large_image","title":"AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹ å¼€å‘ | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development — delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2296,7 +2296,9 @@ document.addEventListener('keydown', function(event) {
 	
 	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2310,7 +2312,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",

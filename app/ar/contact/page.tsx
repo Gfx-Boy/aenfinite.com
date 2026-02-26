@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
-  description: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ®, a creative digital web agency based in Denver. Let",
+  title: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
+  description: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
   keywords: "contact Aenfinite, Denver web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
   alternates: { canonical: "https://aenfinite.com/ar/contact/", languages: {"x-default":"https://aenfinite.com/contact/","en":"https://aenfinite.com/contact/","es":"https://aenfinite.com/es/contact/","fr":"https://aenfinite.com/fr/contact/","de":"https://aenfinite.com/de/contact/","it":"https://aenfinite.com/it/contact/","ar":"https://aenfinite.com/ar/contact/","pt":"https://aenfinite.com/pt/contact/","zh":"https://aenfinite.com/zh/contact/","hi":"https://aenfinite.com/hi/contact/","nl":"https://aenfinite.com/nl/contact/","ja":"https://aenfinite.com/ja/contact/","ko":"https://aenfinite.com/ko/contact/"} },
-  openGraph: {"title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver","description":"Reach out to Aenfinite â€” your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ar/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ® | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
+  openGraph: {"title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ar/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1387,7 +1387,7 @@ Denver County, USA
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1475,7 +1475,7 @@ Denver County, USA
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="../">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -1844,7 +1844,9 @@ document.addEventListener('keydown', function(event) {
 
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1857,7 +1859,7 @@ export default function Page() {
   "@type": "LocalBusiness",
   "name": "Aenfinite",
   "url": "https://aenfinite.com",
-  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ®, a creative digital web agency based in Denver. Let",
+  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Denver",
@@ -1887,8 +1889,8 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
-  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ®, a creative digital web agency based in Denver. Let",
+  "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
+  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
   "url": "https://aenfinite.com/contact/",
   "publisher": {
     "@type": "Organization",
@@ -1917,7 +1919,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ AenfiniteÂ®",
+      "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®",
       "item": "https://aenfinite.com/contact/"
     }
   ]

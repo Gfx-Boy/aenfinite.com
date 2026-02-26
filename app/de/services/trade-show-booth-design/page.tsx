@@ -1113,7 +1113,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1122,13 +1122,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1136,7 +1136,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1148,10 +1148,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1415,7 +1415,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Logodesign - MarkenidentitÃ¤t Collection" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Logodesign - Markenidentität Collection" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1425,8 +1425,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 - Logodesign Collection</a></div>
 																																		<div class="preview-name">Markengestaltung</div>
 																							<div class="preview-name">Logodesign</div>
-																							<div class="preview-name">MarkenidentitÃ¤t</div>
-																							<div class="preview-name">Visuelle IdentitÃ¤t</div>
+																							<div class="preview-name">Markenidentität</div>
+																							<div class="preview-name">Visuelle Identität</div>
 																					</div>
 									</div>
 								</div>
@@ -1447,7 +1447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Markengestaltung</div>
 																							<div class="preview-name">Luxus-Markengestaltung</div>
 																							<div class="preview-name">Fragrance Design</div>
-																							<div class="preview-name">MarkenidentitÃ¤t</div>
+																							<div class="preview-name">Markenidentität</div>
 																					</div>
 									</div>
 								</div>
@@ -1457,7 +1457,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - MarkenidentitÃ¤t System" class="cover" loading="lazy" decoding="async" />
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Markenidentität System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1467,7 +1467,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Professional Marketing Design</a></div>
 																																		<div class="preview-name">Markengestaltung</div>
 																							<div class="preview-name">Markenstrategie</div>
-																							<div class="preview-name">MarkenidentitÃ¤t</div>
+																							<div class="preview-name">Markenidentität</div>
 																							<div class="preview-name">Marketingmaterialien</div>
 																					</div>
 									</div>
@@ -1478,7 +1478,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Markenrichtlinien Mockup - Professional MarkenidentitÃ¤t System" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Markenrichtlinien Mockup - Professional Markenidentität System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1488,7 +1488,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Markenrichtlinien System</a></div>
 																																		<div class="preview-name">Markengestaltung</div>
 																							<div class="preview-name">Markenrichtlinien</div>
-																							<div class="preview-name">Visuelle IdentitÃ¤t</div>
+																							<div class="preview-name">Visuelle Identität</div>
 																							<div class="preview-name">Brand System</div>
 																					</div>
 									</div>
@@ -1605,7 +1605,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Logodesign - MarkenidentitÃ¤t Collection" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Logodesign - Markenidentität Collection" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
@@ -1614,8 +1614,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Markengestaltung</div>
 																					<div class="preview-name">Logodesign</div>
-																					<div class="preview-name">MarkenidentitÃ¤t</div>
-																					<div class="preview-name">Visuelle IdentitÃ¤t</div>
+																					<div class="preview-name">Markenidentität</div>
+																					<div class="preview-name">Visuelle Identität</div>
 											
 									</div>
 								</div>
@@ -1633,7 +1633,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					<div class="preview-name">Markengestaltung</div>
 																					<div class="preview-name">Luxus-Markengestaltung</div>
 																					<div class="preview-name">Fragrance Design</div>
-																					<div class="preview-name">MarkenidentitÃ¤t</div>
+																					<div class="preview-name">Markenidentität</div>
 											
 									</div>
 								</div>
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - MarkenidentitÃ¤t System" loading="lazy" decoding="async" />
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Markenidentität System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -1650,7 +1650,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Markengestaltung</div>
 																					<div class="preview-name">Markenstrategie</div>
-																					<div class="preview-name">MarkenidentitÃ¤t</div>
+																					<div class="preview-name">Markenidentität</div>
 																					<div class="preview-name">Marketingmaterialien</div>
 											
 									</div>
@@ -1659,7 +1659,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Markenrichtlinien Mockup - Professional MarkenidentitÃ¤t System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Markenrichtlinien Mockup - Professional Markenidentität System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
@@ -1668,7 +1668,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Markengestaltung</div>
 																					<div class="preview-name">Markenrichtlinien</div>
-																					<div class="preview-name">Visuelle IdentitÃ¤t</div>
+																					<div class="preview-name">Visuelle Identität</div>
 																					<div class="preview-name">Brand System</div>
 											
 									</div>
@@ -1718,7 +1718,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong>
+		<strong>Ich interessiere mich für...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Custom Booth Design" id="custom-booth-design" /><label for="custom-booth-design" class="list-item-label">Custom Booth Design</label></span>
@@ -1733,7 +1733,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1742,7 +1742,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="select-option js-select-option">von 500 $ bis 5.000 $</div>
 				<div class="select-option js-select-option">von 5.000 $ bis 20.000 $</div>
 				<div class="select-option js-select-option">von 20.000 $ bis 50.000 $</div>
-				<div class="select-option js-select-option">Ã¼ber 100.000 $</div>
+				<div class="select-option js-select-option">über 100.000 $</div>
 			</div>
 		</div>
 	</div>
@@ -1769,7 +1769,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox textbox__push js-aos appear">
 					<div class="textbox-content">
-						Aenfinite offers end-to-end trade show booth design solutions â€“ from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
+						Aenfinite offers end-to-end trade show booth design solutions – from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
 					</div>
 				</div>
 			</div>
@@ -1796,7 +1796,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">3D Visualization & Rendering</div>
 				<div class="pane-subtitle">
-					<p>See your booth before itâ€™s built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
+					<p>See your booth before it's built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
 				</div>
 			</div>
 
@@ -2040,7 +2040,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="chips">
 										<div class="chip"><a href="/de/contact/" class="chip-label">Grafiken</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Brand Messaging</a></div>
-										<div class="chip"><a href="/de/contact/" class="chip-label">Visuelle IdentitÃ¤t</a></div>
+										<div class="chip"><a href="/de/contact/" class="chip-label">Visuelle Identität</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Event Markengestaltung</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Typography</a></div>
 									</div>
@@ -2108,7 +2108,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We donâ€™t just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
+									<p>We don't just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our maintenance services include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2144,7 +2144,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam GroÃŸartiges schaffen.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2268,7 +2268,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2507,7 +2507,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2641,7 +2641,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2655,7 +2657,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2668,8 +2670,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Messestand-Design Agentur",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Messestand-Design Agentur",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"de-DE"
     },
@@ -2679,7 +2681,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Messestand-Design & Markengestaltung",
+      "caption": "Aenfinite® Messestand-Design & Markengestaltung",
       "inLanguage":"de-DE"
     },
     {
@@ -2707,7 +2709,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage",
       "url": "https://aenfinite.com/services/trade-show-booth-design/",
-      "name": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | AenfiniteÂ®",
+      "name": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2718,27 +2720,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Official author profile for AenfiniteÂ® (Aenfinite.com)",
+      "name": "Anjelika Aenfinite®",
+      "description": "Official author profile for Aenfinite® (Aenfinite.com)",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"de-DE"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | AenfiniteÂ®",
+      "headline": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | Aenfinite®",
       "keywords": "Messestand-Design, Exhibition Displays, Booth Construction, Event Markengestaltung, Messe Marketing, Event Design",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
-      "name": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
+      "name": "Professional Messestand-Design | Event Markengestaltung & Booth Construction | Aenfinite®",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg" },

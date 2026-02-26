@@ -506,7 +506,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">EntwicklungslÃ¶sungen </a>
+                                        <a href="#">Entwicklungslösungen </a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -515,14 +515,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>                                      </ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Design- und Kreativdienstleistungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
 
-                                            <li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+                                            <li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
                                             <li><a href="/de/services/graphic-design/">Grafikdesign</a></li>
                                             
                                             <li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -530,7 +530,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- und Digitale LÃ¶sungen </a>
+                                        <a href="#">Marketing- und Digitale Lösungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -540,10 +540,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">KI- und TechnologielÃ¶sungen </a>
+                                        <a href="#">KI- und Technologielösungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -785,7 +785,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -856,7 +856,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="tagslist">
 									<b>Aenfinite Scope of Projekte:</b>
 									<ul>
-										<li>UI/UX-Design & Research</li><li>Mobile App-Entwicklung</li><li>Web Plattformentwicklung</li><li>MarkenidentitÃ¤t Design</li><li>Nutzererlebnis Testing</li><li>Concert Management System</li>									</ul>
+										<li>UI/UX-Design & Research</li><li>Mobile App-Entwicklung</li><li>Web Plattformentwicklung</li><li>Markenidentität Design</li><li>Nutzererlebnis Testing</li><li>Concert Management System</li>									</ul>
 								</div>
 																	<div class="link-project">
 																					<style>
@@ -935,7 +935,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div>
 											<p class="par-avatar" itemprop="author">
 												<b>Welix kinetic,</b><br>
-												GrÃ¼nder und CEO, NeoCert											</p>
+												Gründer und CEO, NeoCert											</p>
 										</div>
 							  		</div>
 								</div>
@@ -1680,14 +1680,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ErzÃ¤hlen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Erzählen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Markengestaltung" id="branding" /><label for="branding" class="list-item-label">Markengestaltung</label></span><span class="list-item"><input type="checkbox" name="services" value="Webdesign" id="web-design" /><label for="web-design" class="list-item-label">Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Digitales Marketing" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Digitales Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce-LÃ¶sungen" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">E-Commerce-LÃ¶sungen</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-Design" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX-Design</label></span><span class="list-item"><input type="checkbox" name="services" value="App-Entwicklung" id="app-development" /><label for="app-development" class="list-item-label">App-Entwicklung</label></span><span class="list-item"><input type="checkbox" name="services" value="Verpackung" id="packaging" /><label for="packaging" class="list-item-label">Verpackung</label></span><span class="list-item"><input type="checkbox" name="services" value="Grafikdesign" id="graphic-design" /><label for="graphic-design" class="list-item-label">Grafikdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress-Websites" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress-Websites</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges" id="other" /><label for="other" class="list-item-label">Sonstiges</label></span></span></span>
+		<strong>Ich interessiere mich für...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Markengestaltung" id="branding" /><label for="branding" class="list-item-label">Markengestaltung</label></span><span class="list-item"><input type="checkbox" name="services" value="Webdesign" id="web-design" /><label for="web-design" class="list-item-label">Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Digitales Marketing" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Digitales Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce-Lösungen" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">E-Commerce-Lösungen</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-Design" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX-Design</label></span><span class="list-item"><input type="checkbox" name="services" value="App-Entwicklung" id="app-development" /><label for="app-development" class="list-item-label">App-Entwicklung</label></span><span class="list-item"><input type="checkbox" name="services" value="Verpackung" id="packaging" /><label for="packaging" class="list-item-label">Verpackung</label></span><span class="list-item"><input type="checkbox" name="services" value="Grafikdesign" id="graphic-design" /><label for="graphic-design" class="list-item-label">Grafikdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress-Websites" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress-Websites</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges" id="other" /><label for="other" class="list-item-label">Sonstiges</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1711,7 +1711,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ã¼ber 100.000 $
+					über 100.000 $
 					
 				</div>
 			</div>		</div>
@@ -1783,7 +1783,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">MarkenidentitÃ¤t</a>
+													<a href="../../services/branding/" class="chip-label">Markenidentität</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/logo-design/" class="chip-label">Logodesign</a>
@@ -1897,7 +1897,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/wordpress-websites/" class="chip-label">Plugin-Entwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">CMS-LÃ¶sungen</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">CMS-Lösungen</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/wordpress-websites/" class="chip-label">Website-Optimierung</a>
@@ -1935,7 +1935,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/app-development/" class="chip-label">Progressive Web Apps</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">PlattformÃ¼bergreifend</a>
+													<a href="../../services/app-development/" class="chip-label">Plattformübergreifend</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/app-development/" class="chip-label">App-Store-Launch</a>
@@ -1964,7 +1964,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/graphic-design/" class="chip-label">Visitenkarten</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">BroschÃ¼ren</a>
+													<a href="../../services/graphic-design/" class="chip-label">Broschüren</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/graphic-design/" class="chip-label">Digitale Grafiken</a>
@@ -2003,7 +2003,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/packaging-design/" class="chip-label">Produktetikett</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Lebensmittel und GetrÃ¤nke</a>
+													<a href="../../services/packaging-design/" class="chip-label">Lebensmittel und Getränke</a>
 												</div>
 													
 																							<div class="chip">
@@ -2038,7 +2038,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/software-&-platform-development/" class="chip-label">Softwareentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/workflow-&-business-automation/" class="chip-label">GeschÃ¤ftsautomatisierung</a>
+													<a href="../../services/workflow-&-business-automation/" class="chip-label">Geschäftsautomatisierung</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/ai-chatbots-&-virtual-assistants/" class="chip-label">KI-Chatbots</a>
@@ -2367,7 +2367,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2729,7 +2729,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2811,7 +2811,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2825,7 +2827,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2839,8 +2841,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Concert App-Entwicklung & UI/UX",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Concert App-Entwicklung & UI/UX",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"de-DE"
     },
@@ -2856,7 +2858,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/work/neocert/#webpage",
       "url": "https://aenfinite.com/work/neocert/",
-      "name": "NeoCert - Concert UI/UX & App-Entwicklung | AenfiniteÂ®",
+      "name": "NeoCert - Concert UI/UX & App-Entwicklung | Aenfinite®",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "breadcrumb": {"@id": "https://aenfinite.com/work/neocert/#breadcrumb"},
       "inLanguage":"de-DE"

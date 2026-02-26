@@ -1113,7 +1113,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1122,13 +1122,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1136,7 +1136,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1148,10 +1148,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1800,7 +1800,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="checkbox-select">
-        <strong>Ich interessiere mich fÃ¼r...</strong>
+        <strong>Ich interessiere mich für...</strong>
         <span class="form-control-wrap" data-name="checkbox-select">
             <span class="form-control checkbox-group" style="padding-bottom: 50px">
                 <span class="list-item first"><input type="checkbox" name="services" value="iOS App-Entwicklung" id="ios-app" /><label for="ios-app" class="list-item-label">iOS App-Entwicklung</label></span>
@@ -1816,7 +1816,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         </span>
 
         <div class="selectbox js-select">
-            <input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+            <input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
             <div class="selectbox-suffix">
                 <svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
             </div>
@@ -1825,7 +1825,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="select-option js-select-option">von 500 $ bis 5.000 $</div>
                 <div class="select-option js-select-option">von 5.000 $ bis 20.000 $</div>
                 <div class="select-option js-select-option">von 20.000 $ bis 50.000 $</div>
-                <div class="select-option js-select-option">Ã¼ber 100.000 $</div>
+                <div class="select-option js-select-option">über 100.000 $</div>
             </div>
         </div>
     </div>
@@ -1908,14 +1908,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="pane-index"></div>
                 <div class="pane-title">App Store Optimization (ASO)</div>
                 <div class="pane-subtitle">
-                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your appâ€™s title, keywords, and descriptions to increase downloads and improve rankings.</p>
+                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your app's title, keywords, and descriptions to increase downloads and improve rankings.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
                 <div class="pane-title">Wartung & Support</div>
                 <div class="pane-subtitle">
-                    <p>Our work doesnâ€™t stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
+                    <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -2000,7 +2000,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <span>Backend & API</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
-                            <p>Our developers build robust backends and APIs to power your appâ€™s functionality, ensuring security, scalability, and smooth performance.</p>
+                            <p>Our developers build robust backends and APIs to power your app's functionality, ensuring security, scalability, and smooth performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
                             <span>Frontend & Mobile</span>
@@ -2231,7 +2231,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam GroÃŸartiges schaffen.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2355,7 +2355,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2594,7 +2594,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2728,7 +2728,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2742,7 +2744,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [

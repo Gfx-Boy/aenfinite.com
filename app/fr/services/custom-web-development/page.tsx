@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | Aenfinite",
-  description: "Aenfinite is a leading dÃ©veloppement web sur mesure agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.",
-  keywords: "dÃ©veloppement web sur mesure, bespoke website development, custom website, web application development, API integration, full-stack development, tailored web solutions, Aenfinite",
+  title: "Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite",
+  description: "Aenfinite is a leading développement web sur mesure agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.",
+  keywords: "développement web sur mesure, bespoke website development, custom website, web application development, API integration, full-stack development, tailored web solutions, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/custom-web-development/", languages: {"x-default":"https://aenfinite.com/services/custom-web-development/","en":"https://aenfinite.com/services/custom-web-development/","es":"https://aenfinite.com/es/services/custom-web-development/","fr":"https://aenfinite.com/fr/services/custom-web-development/","de":"https://aenfinite.com/de/services/custom-web-development/","it":"https://aenfinite.com/it/services/custom-web-development/","ar":"https://aenfinite.com/ar/services/custom-web-development/","pt":"https://aenfinite.com/pt/services/custom-web-development/","zh":"https://aenfinite.com/zh/services/custom-web-development/","hi":"https://aenfinite.com/hi/services/custom-web-development/","nl":"https://aenfinite.com/nl/services/custom-web-development/","ja":"https://aenfinite.com/ja/services/custom-web-development/","ko":"https://aenfinite.com/ko/services/custom-web-development/"} },
-  openGraph: {"title":"Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | Aenfinite","description":"Aenfinite is a leading dÃ©veloppement web sur mesure agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.","url":"https://aenfinite.com/fr/services/custom-web-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | Aenfinite","description":"Aenfinite delivers expert dÃ©veloppement web sur mesure services including bespoke websites, custom applications, API integration, and tailored solutions. Specializing in high-performance custom development that drives business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite","description":"Aenfinite is a leading développement web sur mesure agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.","url":"https://aenfinite.com/fr/services/custom-web-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite","description":"Aenfinite delivers expert développement web sur mesure services including bespoke websites, custom applications, API integration, and tailored solutions. Specializing in high-performance custom development that drives business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1103,7 +1103,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1112,35 +1112,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1285,7 +1285,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1314,7 +1314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Custom Web <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">DÃ©veloppement</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">bespoke solutions</span>, and drives business success.</span>
+						<span>Custom Web <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Développement</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">bespoke solutions</span>, and drives business success.</span>
 													
 											</h1>
 									</div>
@@ -1352,18 +1352,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional DÃ©veloppement Web Sur Mesure Services</span>
+    <span class="marquee-line_text">Professional Développement Web Sur Mesure Services</span>
     <span class="marquee-line_text">API Integration Solutions, Database Design & Optimization</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
-    <span class="marquee-line_text">Specialists in DÃ©veloppement Sur Mesure Performance & ExpÃ©rience Utilisateur</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for Custom Solutions de DÃ©veloppement</span>
-    <span class="marquee-line_text">High-Performance DÃ©veloppement Sur Mesure & Security</span>
-    <span class="marquee-line_text">Professional DÃ©veloppement Sur Mesure & Application Solutions</span>
-    <span class="marquee-line_text">Professional DÃ©veloppement Sur Mesure Agence with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive DÃ©veloppement Sur Mesure Maintenance & Support</span>
-    <span class="marquee-line_text">Custom Custom Solutions de DÃ©veloppement for Every Industry</span>
+    <span class="marquee-line_text">Specialists in Développement Sur Mesure Performance & Expérience Utilisateur</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Custom Solutions de Développement</span>
+    <span class="marquee-line_text">High-Performance Développement Sur Mesure & Security</span>
+    <span class="marquee-line_text">Professional Développement Sur Mesure & Application Solutions</span>
+    <span class="marquee-line_text">Professional Développement Sur Mesure Agence with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Développement Sur Mesure Maintenance & Support</span>
+    <span class="marquee-line_text">Custom Custom Solutions de Développement for Every Industry</span>
     <span class="marquee-line_text">Custom Application Performance Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable DÃ©veloppement Sur Mesure & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable Développement Sur Mesure & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,7 +1372,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing DÃ©veloppement Web Sur Mesure" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Développement Web Sur Mesure" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1380,7 +1380,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="01">
 											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing - Custom Agence Platform</a></div>
-																																		<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																																		<div class="preview-name">Développement Web Sur Mesure</div>
 																							<div class="preview-name">Lead Generation System</div>
 																							<div class="preview-name">Responsive Framework</div>
 																							<div class="preview-name">Performance Optimization</div>
@@ -1394,7 +1394,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom DÃ©veloppement de Plateformes" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom Développement de Plateformes" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1403,7 +1403,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech - Custom Digital Platform</a></div>
 																																		<div class="preview-name">Custom Web Application</div>
-																							<div class="preview-name">API DÃ©veloppement</div>
+																							<div class="preview-name">API Développement</div>
 																							<div class="preview-name">User Dashboard</div>
 																							<div class="preview-name">Database Integration</div>
 																							<div class="preview-name">Custom CMS</div>
@@ -1424,7 +1424,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="../../work/amkiservice/">AM-KI Services - Business Solutions Platform</a></div>
-																																		<div class="preview-name">Enterprise DÃ©veloppement</div>
+																																		<div class="preview-name">Enterprise Développement</div>
 																							<div class="preview-name">Business Compliance</div>
 																							<div class="preview-name">Custom Workflows</div>
 																							<div class="preview-name">Data Management</div>
@@ -1438,7 +1438,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/husnohaya/">
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom DÃ©veloppement E-commerce" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom Développement E-commerce" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/husnohaya/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1446,8 +1446,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="04">
 											<div class="preview-name preview-name__caption"><a href="../../work/husnohaya/">Husnohaya - Custom E-commerce Platform</a></div>
-																																		<div class="preview-name">Custom DÃ©veloppement E-commerce</div>
-																							<div class="preview-name">IntÃ©gration de Paiement</div>
+																																		<div class="preview-name">Custom Développement E-commerce</div>
+																							<div class="preview-name">Intégration de Paiement</div>
 																							<div class="preview-name">Product Management</div>
 																							<div class="preview-name">User Authentication</div>
 																							<div class="preview-name">Mobile Optimization</div>
@@ -1460,7 +1460,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/afropopup/">
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom DÃ©veloppement de Plateformes" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom Développement de Plateformes" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/afropopup/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1482,7 +1482,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom DÃ©veloppement Commercial" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom Développement Commercial" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1490,7 +1490,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="06">
 											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro - Business Solutions Platform</a></div>
-																																		<div class="preview-name">Custom DÃ©veloppement Commercial</div>
+																																		<div class="preview-name">Custom Développement Commercial</div>
 																							<div class="preview-name">Client Management</div>
 																							<div class="preview-name">Service Automatisation</div>
 																							<div class="preview-name">Reporting Dashboard</div>
@@ -1504,7 +1504,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea DÃ©veloppement Web Sur Mesure" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea Développement Web Sur Mesure" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="07">
 											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Custom Digital Solution</a></div>
-																																		<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																																		<div class="preview-name">Développement Web Sur Mesure</div>
 																							<div class="preview-name">Interactive Features</div>
 																							<div class="preview-name">Modern Framework</div>
 																							<div class="preview-name">Design Responsive</div>
@@ -1535,7 +1535,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional DÃ©veloppement Web Sur Mesure services that create powerful, scalable applications and drive business growth. We manage comprehensive custom development solutions, bespoke application design, API integration, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Développement Web Sur Mesure services that create powerful, scalable applications and drive business growth. We manage comprehensive custom development solutions, bespoke application design, API integration, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/fr/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1563,7 +1563,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>years of expertise building scalable, high-performance web solutions tailored to each clientâ€™s unique requirements</div>
+							<div>years of expertise building scalable, high-performance web solutions tailored to each client's unique requirements</div>
 						</div>
 					</div>
 				</div>
@@ -1589,7 +1589,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite DÃ©veloppement Sur Mesure Case Studies</h2>
+						<h2>Aenfinite Développement Sur Mesure Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1597,14 +1597,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing DÃ©veloppement Web Sur Mesure" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Développement Web Sur Mesure" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/blue-vine-marketing/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																					<div class="preview-name">Développement Web Sur Mesure</div>
 																					<div class="preview-name">Lead Generation System</div>
 																					<div class="preview-name">Responsive Framework</div>
 																					<div class="preview-name">Performance Optimization</div>
@@ -1616,7 +1616,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Custom Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/khatech/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
@@ -1624,7 +1624,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<a href="../../work/khatech/">KhaTech</a>
 										</div>
 																					<div class="preview-name">Custom Web Application</div>
-																					<div class="preview-name">API DÃ©veloppement</div>
+																					<div class="preview-name">API Développement</div>
 																					<div class="preview-name">User Dashboard</div>
 																					<div class="preview-name">Database Integration</div>
 																					<div class="preview-name">Custom CMS</div>
@@ -1642,7 +1642,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/amkiservice/">AM-KI Services</a>
 										</div>
-																					<div class="preview-name">Enterprise DÃ©veloppement</div>
+																					<div class="preview-name">Enterprise Développement</div>
 																					<div class="preview-name">Business Compliance</div>
 																					<div class="preview-name">Custom Workflows</div>
 																					<div class="preview-name">Data Management</div>
@@ -1654,15 +1654,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom DÃ©veloppement E-commerce" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Custom Développement E-commerce" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/husnohaya/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">Custom DÃ©veloppement E-commerce</div>
-																					<div class="preview-name">IntÃ©gration de Paiement</div>
+																					<div class="preview-name">Custom Développement E-commerce</div>
+																					<div class="preview-name">Intégration de Paiement</div>
 																					<div class="preview-name">Product Management</div>
 																					<div class="preview-name">User Authentication</div>
 																					<div class="preview-name">Mobile Optimization</div>
@@ -1673,7 +1673,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Custom Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/afropopup/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -1692,14 +1692,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom DÃ©veloppement Commercial" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Custom Développement Commercial" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/feiro/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">Custom DÃ©veloppement Commercial</div>
+																					<div class="preview-name">Custom Développement Commercial</div>
 																					<div class="preview-name">Client Management</div>
 																					<div class="preview-name">Service Automatisation</div>
 																					<div class="preview-name">Reporting Dashboard</div>
@@ -1711,14 +1711,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea DÃ©veloppement Web Sur Mesure" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea Développement Web Sur Mesure" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/lumea/">Lumea</a>
 										</div>
-																					<div class="preview-name">DÃ©veloppement Web Sur Mesure</div>
+																					<div class="preview-name">Développement Web Sur Mesure</div>
 																					<div class="preview-name">Interactive Features</div>
 																					<div class="preview-name">Modern Framework</div>
 																					<div class="preview-name">Design Responsive</div>
@@ -1742,8 +1742,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   <div class="block formss">
     <div class="center">
       <div class="formss-wrap">
-        <h2>Contact Aenfinite for DÃ©veloppement Web Sur Mesure Solutions</h2>
-        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and letâ€™s create something amazing together.</p>
+        <h2>Contact Aenfinite for Développement Web Sur Mesure Solutions</h2>
+        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and let's create something amazing together.</p>
 
         <div class="toggle-formss">
           <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1773,12 +1773,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" placeholder="Votre e-mail*" type="email" name="your-email" />
                   </span>
                   <span class="wpcf7-form-control-wrap" data-name="text-tell-project">
-                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" placeholder="Tell us about your dÃ©veloppement web sur mesure project" type="text" name="text-tell-project" />
+                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" placeholder="Tell us about your développement web sur mesure project" type="text" name="text-tell-project" />
                   </span>
                 </div>
 
                 <div class="checkbox-select">
-                  <strong>Je suis intÃ©ressÃ© par...</strong>
+                  <strong>Je suis intéressé par...</strong>
                   <span class="form-control-wrap" data-name="checkbox-select">
                     <span class="form-control checkbox-group" style="padding-bottom: 50px">
                       <span class="list-item first">
@@ -1790,12 +1790,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         <label for="enterprise-solutions" class="list-item-label">Enterprise Solutions</label>
                       </span>
                       <span class="list-item">
-                        <input type="checkbox" name="services" value="API DÃ©veloppement & Integrations" id="api-development" />
-                        <label for="api-development" class="list-item-label">API DÃ©veloppement & Integrations</label>
+                        <input type="checkbox" name="services" value="API Développement & Integrations" id="api-development" />
+                        <label for="api-development" class="list-item-label">API Développement & Integrations</label>
                       </span>
                       <span class="list-item">
-                        <input type="checkbox" name="services" value="DÃ©veloppement E-commerce" id="ecommerce-dev" />
-                        <label for="ecommerce-dev" class="list-item-label">DÃ©veloppement E-commerce</label>
+                        <input type="checkbox" name="services" value="Développement E-commerce" id="ecommerce-dev" />
+                        <label for="ecommerce-dev" class="list-item-label">Développement E-commerce</label>
                       </span>
                       <span class="list-item">
                         <input type="checkbox" name="services" value="Custom Dashboards & Admin Panels" id="custom-dashboards" />
@@ -1810,8 +1810,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         <label for="ongoing-support" class="list-item-label">Ongoing Maintenance & Support</label>
                       </span>
                       <span class="list-item last">
-                        <input type="checkbox" name="services" value="Autre DÃ©veloppement Sur Mesure Needs" id="other" />
-                        <label for="other" class="list-item-label">Autre DÃ©veloppement Sur Mesure Needs</label>
+                        <input type="checkbox" name="services" value="Autre Développement Sur Mesure Needs" id="other" />
+                        <label for="other" class="list-item-label">Autre Développement Sur Mesure Needs</label>
                       </span>
                     </span>
                   </span>
@@ -1848,12 +1848,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>DÃ©veloppement Web Sur Mesure Expertise</h2>
+						<h2>Développement Web Sur Mesure Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
 					<div class="textbox-content">
-						Aenfinite delivers end-to-end dÃ©veloppement web sur mesure services  from concept to deployment  building secure, scalable, and high-performance web solutions tailored specifically to your business goals.
+						Aenfinite delivers end-to-end développement web sur mesure services  from concept to deployment  building secure, scalable, and high-performance web solutions tailored specifically to your business goals.
 					</div>
 				</div>
 			</div>
@@ -1861,7 +1861,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="panes">
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Bespoke Application DÃ©veloppement</div>
+				<div class="pane-title">Bespoke Application Développement</div>
 				<div class="pane-subtitle">
 					<p>Our team builds fully custom web applications from the ground up. We craft unique functionality, intuitive workflows, and scalable solutions designed to meet your exact business requirements and deliver measurable results.</p>
 				</div>
@@ -1877,7 +1877,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">API & System Integrations</div>
 				<div class="pane-subtitle">
-					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether itâ€™s payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
+					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether it's payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
@@ -1896,14 +1896,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Modern Framework DÃ©veloppement</div>
+				<div class="pane-title">Modern Framework Développement</div>
 				<div class="pane-subtitle">
 					<p>Our developers use modern frameworks like React, Vue.js, and Node.js to build fast, scalable, and future-ready applications that deliver exceptional performance and flexibility.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">SEO-Optimized DÃ©veloppement</div>
+				<div class="pane-title">SEO-Optimized Développement</div>
 				<div class="pane-subtitle">
 					<p>Our websites are built with technical SEO best practices, clean code, and fast load speeds, ensuring better search visibility and improved ranking potential from the start.</p>
 				</div>
@@ -1930,7 +1930,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper">
       <div class="section-caption js-aos">
         <div class="section-caption_text">
-          <h2>DÃ©veloppement Web Sur Mesure Process</h2>
+          <h2>Développement Web Sur Mesure Process</h2>
         </div>
       </div>
 
@@ -1996,9 +1996,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
           <div class="nlist-content js-switch-copy"></div>
         </div>
 
-        <!-- DÃ©veloppement -->
+        <!-- Développement -->
         <div class="nlist-item appear js-aos js-switch">
-          <div class="nlist-caption">DÃ©veloppement Sur Mesure</div>
+          <div class="nlist-caption">Développement Sur Mesure</div>
           <div class="nlist-tabs js-switch-tabs">
             <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
               <span>Frontend & Backend</span>
@@ -2074,7 +2074,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline;padding-bottom:0 !important;margin-bottom:0 !important;">DÃ©veloppement Web Sur Mesure</span> is the art of creating unique, scalable, and high-performance websites tailored to your business goals. Partner with a team that specializes in building secure, fast, and fully customized solutions designed to deliver an exceptional user experience and drive results.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline;padding-bottom:0 !important;margin-bottom:0 !important;">Développement Web Sur Mesure</span> is the art of creating unique, scalable, and high-performance websites tailored to your business goals. Partner with a team that specializes in building secure, fast, and fully customized solutions designed to deliver an exceptional user experience and drive results.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2085,7 +2085,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper">
       <div class="section-caption js-aos">
         <div class="section-caption_text">
-          <h2>Aenfinite DÃ©veloppement Web Sur Mesure Services</h2>
+          <h2>Aenfinite Développement Web Sur Mesure Services</h2>
         </div>
       </div>
       <div class="service-grid">
@@ -2097,7 +2097,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/fr/contact/"><span class="chip-label">Full-Stack DÃ©veloppement</span></a></div>
+                    <div class="chip"><a href="/fr/contact/"><span class="chip-label">Full-Stack Développement</span></a></div>
                     <div class="chip"><a href="/fr/contact/"><span class="chip-label">API Integrations</span></a></div>
                     <div class="chip"><a href="/fr/contact/"><span class="chip-label">Database Architecture</span></a></div>
                     <div class="chip"><a href="/fr/contact/"><span class="chip-label">Secure Deployment</span></a></div>
@@ -2113,7 +2113,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Front-End DÃ©veloppement</div>
+              <div class="service-caption js-service-caption">Front-End Développement</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
@@ -2124,7 +2124,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   </div>
                 </div>
                 <div class="service-text" style="font-size: 15px; line-height: 1.5;">
-                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue â€” ensuring your site looks stunning and performs flawlessly on every device.</p>
+                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue — ensuring your site looks stunning and performs flawlessly on every device.</p>
                 </div>
                 <div class="service-action">
                   <a href="/fr/contact/" class="redlink"><span>Learn more</span></a>
@@ -2133,7 +2133,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Backend DÃ©veloppement</div>
+              <div class="service-caption js-service-caption">Backend Développement</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
@@ -2191,7 +2191,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Vous Avez un Projet en TÃªte ? Construisons Quelque Chose de Formidable Ensemble.</span>
+								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2204,7 +2204,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2216,7 +2216,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Conception Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../custom-web-development/">DÃ©veloppement Web Sur Mesure</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../custom-web-development/">Développement Web Sur Mesure</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Image de Marque</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Design d'Emballage</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Image de Marque</a></li>
@@ -2292,7 +2292,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2308,14 +2308,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2553,8 +2553,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2687,7 +2687,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2701,7 +2703,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/aenfinitee",
@@ -2712,8 +2714,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - DÃ©veloppement Web Sur Mesure Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Développement Web Sur Mesure Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2723,7 +2725,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "5714",
       "height": "3216",
-      "caption": "AenfiniteÂ® Brand Logo - Best DÃ©veloppement Web Sur Mesure Agence",
+      "caption": "Aenfinite® Brand Logo - Best Développement Web Sur Mesure Agence",
       "inLanguage":"fr-FR"
     },
     {
@@ -2732,14 +2734,14 @@ export default function Page() {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
         { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/custom-web-development/", "name": "DÃ©veloppement Web Sur Mesure" } }
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/custom-web-development/", "name": "Développement Web Sur Mesure" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/custom-web-development/#webpage",
       "url": "https://aenfinite.com/services/custom-web-development/",
-      "name": "Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | AenfiniteÂ®",
+      "name": "Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2750,27 +2752,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/custom-web-development/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and creative strategist at AenfiniteÂ®.",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and creative strategist at Aenfinite®.",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"fr-FR"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | AenfiniteÂ®",
-      "keywords": "DÃ©veloppement Web Sur Mesure, Bespoke Applications, API Integration, Database Design, Performance Optimization, Web Security",
+      "headline": "Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite®",
+      "keywords": "Développement Web Sur Mesure, Bespoke Applications, API Integration, Database Design, Performance Optimization, Web Security",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/custom-web-development/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional dÃ©veloppement web sur mesure services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
-      "name": "Professional DÃ©veloppement Web Sur Mesure | Bespoke Website Solutions | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional développement web sur mesure services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
+      "name": "Professional Développement Web Sur Mesure | Bespoke Website Solutions | Aenfinite®",
       "@id": "https://aenfinite.com/services/custom-web-development/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/custom-web-development/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
@@ -2856,7 +2858,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional DÃ©veloppement Web Sur Mesure",
+      "name": "Professional Développement Web Sur Mesure",
       "item": "https://aenfinite.com/services/custom-web-development/"
     }
   ]

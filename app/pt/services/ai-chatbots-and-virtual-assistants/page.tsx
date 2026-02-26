@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   keywords: "AI chatbots, virtual assistants, conversational AI, chatbot development, atendimento ao cliente automation, NLP chatbot, AI customer support, intelligent virtual assistant, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/ai-chatbots-and-virtual-assistants/", languages: {"x-default":"https://aenfinite.com/services/ai-chatbots-and-virtual-assistants/","en":"https://aenfinite.com/services/ai-chatbots-and-virtual-assistants/","es":"https://aenfinite.com/es/services/ai-chatbots-and-virtual-assistants/","fr":"https://aenfinite.com/fr/services/ai-chatbots-and-virtual-assistants/","de":"https://aenfinite.com/de/services/ai-chatbots-and-virtual-assistants/","it":"https://aenfinite.com/it/services/ai-chatbots-and-virtual-assistants/","ar":"https://aenfinite.com/ar/services/ai-chatbots-and-virtual-assistants/","pt":"https://aenfinite.com/pt/services/ai-chatbots-and-virtual-assistants/","zh":"https://aenfinite.com/zh/services/ai-chatbots-and-virtual-assistants/","hi":"https://aenfinite.com/hi/services/ai-chatbots-and-virtual-assistants/","nl":"https://aenfinite.com/nl/services/ai-chatbots-and-virtual-assistants/","ja":"https://aenfinite.com/ja/services/ai-chatbots-and-virtual-assistants/","ko":"https://aenfinite.com/ko/services/ai-chatbots-and-virtual-assistants/"} },
   openGraph: {"title":"Chatbots de IA e Assistentes Virtuais Desenvolvimento | Conversational AI Solutions | Aenfinite","description":"Create next-gen AI chatbots and virtual assistants with Aenfinite. Our conversational AI solutions automate workflows and enhance customer experiences.","url":"https://aenfinite.com/pt/services/ai-chatbots-and-virtual-assistants/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Chatbots de IA e Assistentes Virtuais Desenvolvimento | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development â€” delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  twitter: {"card":"summary_large_image","title":"Chatbots de IA e Assistentes Virtuais Desenvolvimento | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development — delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,52 +1104,52 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency/">AgÃªncia</a>
+								<a href="/pt/agency/">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/pt/services/">ServiÃ§os</a>
+                                <a href="/pt/services/">Serviços</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/e-commerce-websites/">Sites de E-Commerce</a></li>
 											<li><a href="/pt/services/custom-web-development">Desenvolvimento Web Personalizado</a></li>
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>									</ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ServiÃ§os de Design e CriaÃ§Ã£o â€º</a>
+										<a href="#">Serviços de Design e Criação â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-											<li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
+											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+											<li><a href="/pt/services/graphic-design/">Design Gráfico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
 											
 											<li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-											<li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+											<li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-											<li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
 											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-											<li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
+											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1158,7 +1158,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1284,7 +1284,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,16 +1353,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div class="marquee-line">
     <span class="marquee-line_text">Professional Chatbots de IA e Assistentes Virtuais</span>
     <span class="marquee-line_text">Conversational AI, Smart Chatbots & Virtual Assistants</span>
-    <span class="marquee-line_text">Atendendo Clientes nos EUA, CanadÃ¡ e AlÃ©m</span>
+    <span class="marquee-line_text">Atendendo Clientes nos EUA, Canadá e Além</span>
     <span class="marquee-line_text">Specialists in AI Integration & Customer Experience Enhancement</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for AI AutomaÃ§Ã£o Solutions</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for AI Automação Solutions</span>
     <span class="marquee-line_text">Intelligent AI Chatbot Desenvolvimento & Analytics</span>
     <span class="marquee-line_text">Local AI Integration & Global Chatbot Desenvolvimento</span>
-    <span class="marquee-line_text">Professional AI Chatbot AgÃªncia with Proven AI Solutions</span>
+    <span class="marquee-line_text">Professional AI Chatbot Agência with Proven AI Solutions</span>
     <span class="marquee-line_text">Comprehensive Chatbot Training & AI Optimization</span>
     <span class="marquee-line_text">Custom AI Chatbot Solutions for Every Industry</span>
     <span class="marquee-line_text">Chatbot Conversation Optimization & AI Performance</span>
-    <span class="marquee-line_text">Sustainable AI AutomaÃ§Ã£o & Long-term Efficiency</span>
+    <span class="marquee-line_text">Sustainable AI Automação & Long-term Efficiency</span>
 </div>
 						                    </div>
                 </div>
@@ -1446,10 +1446,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Conversational AI Desenvolvimento" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Conversational AI Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="Intelligent Chatbot Creation" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Intelligent Chatbot Creation</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Assistant Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">AI Assistant Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Chatbot Performance Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Chatbot Performance Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Virtual Assistant Integration" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">Virtual Assistant Integration</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Customer Service AutomaÃ§Ã£o" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">AI Customer Service AutomaÃ§Ã£o</label></span><span class="list-item"><input type="checkbox" name="services" value="Chatbot Script & Conversation Desenvolvimento" id="ad-copy" /><label for="ad-copy" class="list-item-label">Chatbot Script & Conversation Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="ExperiÃªncia do UsuÃ¡rio Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">ExperiÃªncia do UsuÃ¡rio Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Chatbot Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">AI Chatbot Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro Chatbots de IA e Assistentes Virtuais ServiÃ§os" id="other" /><label for="other" class="list-item-label">Outro Chatbots de IA e Assistentes Virtuais ServiÃ§os</label></span></span></span>
+		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Conversational AI Desenvolvimento" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Conversational AI Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="Intelligent Chatbot Creation" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Intelligent Chatbot Creation</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Assistant Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">AI Assistant Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Chatbot Performance Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Chatbot Performance Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Virtual Assistant Integration" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">Virtual Assistant Integration</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Customer Service Automação" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">AI Customer Service Automação</label></span><span class="list-item"><input type="checkbox" name="services" value="Chatbot Script & Conversation Desenvolvimento" id="ad-copy" /><label for="ad-copy" class="list-item-label">Chatbot Script & Conversation Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="Experiência do Usuário Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">Experiência do Usuário Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Chatbot Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">AI Chatbot Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro Chatbots de IA e Assistentes Virtuais Serviços" id="other" /><label for="other" class="list-item-label">Outro Chatbots de IA e Assistentes Virtuais Serviços</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orÃ§amento aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orçamento aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1564,7 +1564,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">Customer Service AutomaÃ§Ã£o</div> 						
+        <div class="pane-title">Customer Service Automação</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Reduce response times and operational costs with AI-powered atendimento ao cliente bots that manage FAQs, ticketing, and real-time issue resolution.
@@ -1574,7 +1574,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">ExperiÃªncia do UsuÃ¡rio Enhancement</div> 						
+        <div class="pane-title">Experiência do Usuário Enhancement</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Improve customer satisfaction through personalized conversations, adaptive learning, and AI-driven recommendations tailored to individual user needs.
@@ -1610,7 +1610,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Chatbots de IA e Assistentes Virtuais</span> is the perfect blend of intelligent automation and customer experience enhancement. PortfÃ³lio with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Chatbots de IA e Assistentes Virtuais</span> is the perfect blend of intelligent automation and customer experience enhancement. Portfólio with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1621,7 +1621,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Chatbots de IA e Assistentes Virtuais ServiÃ§os</h2>
+					<h2>Aenfinite Chatbots de IA e Assistentes Virtuais Serviços</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1637,7 +1637,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="chip"><a href="/pt/contact/" class="chip-label">User Journeys</a></div>
 										<div class="chip"><a href="/pt/contact/" class="chip-label">Conversation Flow</a></div>
 										<div class="chip"><a href="/pt/contact/" class="chip-label">Customer Support</a></div>
-										<div class="chip"><a href="/pt/contact/" class="chip-label">AutomaÃ§Ã£o</a></div>
+										<div class="chip"><a href="/pt/contact/" class="chip-label">Automação</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -1647,7 +1647,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
 											<li>Defining chatbot goals (sales, support, lead-gen)</li>
 											<li>User journey mapping & conversation flow design</li>
-											<li>AutomaÃ§Ã£o for FAQs and repetitive queries</li>
+											<li>Automação for FAQs and repetitive queries</li>
 											<li>Personalized messaging & response logic</li>
 											<li>Integration with CRM & helpdesk platforms</li>
 										</ul>
@@ -1801,16 +1801,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">Sites WordPress</a></li>
@@ -1826,15 +1826,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ServiÃ§os White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de IndicaÃ§Ã£o</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">ServiÃ§os GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">EndereÃ§o</div>
+								<div class="footer-col_caption">Endereço</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -1889,9 +1889,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -1905,14 +1905,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2150,8 +2150,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -2216,7 +2216,7 @@ document.addEventListener('keydown', function(event) {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2296,7 +2296,9 @@ document.addEventListener('keydown', function(event) {
 	
 	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2310,7 +2312,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2330,7 +2332,7 @@ export default function Page() {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "ServiÃ§os", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 2, "name": "Serviços", "item": "https://aenfinite.com/services/" },
           { "@type": "ListItem", "position": 3, "name": "Chatbots de IA e Assistentes Virtuais", "item": "https://aenfinite.com/services/ai-chatbots-virtual-assistants/" }
         ]
       }
@@ -2366,7 +2368,7 @@ export default function Page() {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2410,7 +2412,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ServiÃ§os",
+      "name": "Serviços",
       "item": "https://aenfinite.com/services/"
     },
     {

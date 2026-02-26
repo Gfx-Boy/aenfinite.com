@@ -4,11 +4,11 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "PolÃ­tica de Privacidad | Aenfinite",
-  description: "PolÃ­tica de Privacidad for Aenfinite - Denver",
+  title: "Política de Privacidad | Aenfinite",
+  description: "Política de Privacidad for Aenfinite - Denver",
   keywords: "privacy policy, data protection, cookies policy, GDPR, user privacy, Aenfinite privacy",
-  openGraph: {"title":"PolÃ­tica de Privacidad | Aenfinite","description":"PolÃ­tica de Privacidad for Aenfinite - Denver","url":"https://aenfinite.com/es/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"PolÃ­tica de Privacidad | Aenfinite","description":"PolÃ­tica de Privacidad for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Política de Privacidad | Aenfinite","description":"Política de Privacidad for Aenfinite - Denver","url":"https://aenfinite.com/es/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Política de Privacidad | Aenfinite","description":"Política de Privacidad for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -646,7 +646,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">3.14.82.216</div>
-			<div class="url">PolÃ­tica de Privacidad</div>
+			<div class="url">Política de Privacidad</div>
 			<div class="urlback"></div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">7-16 am</div>
@@ -679,18 +679,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>                                      </ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Servicios de DiseÃ±o y Creatividad </a>
+                                        <a href="#">Servicios de Diseño y Creatividad </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+                                            <li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 
                                             <li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-                                            <li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+                                            <li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
                                             
-                                            <li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+                                            <li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
                                             <li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
                                         </ul>
                                     </li>
@@ -698,21 +698,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <a href="#">Soluciones de Marketing y Digitales </a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-                                            <li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+                                            <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
                                             <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li>
                                             <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluciones de IA y TecnologÃ­a </a>
+                                        <a href="#">Soluciones de IA y Tecnología </a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -831,7 +831,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -843,7 +843,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -874,10 +874,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="wrapper">
 				<div class="textbox-content normaltext">
 					
-<h2 class="wp-block-heading"><strong>PolÃ­tica de Privacidad</strong></h2>
+<h2 class="wp-block-heading"><strong>Política de Privacidad</strong></h2>
 
 <p>Effective Date: August 23, 2025<br />Aenfinite LLC (Aenfinite)</p>
-<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This PolÃ­tica de Privacidad explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
+<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This Política de Privacidad explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
 <p><br />By using our site, you agree to the practices outlined below.</p>
 <p><br /></p>
 <p><br /><strong>1. Information We Collect</strong></p>
@@ -923,10 +923,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <p><br /><strong>10. International Users</strong></p>
 <p><br />If you are accessing our website from outside the United States, please be aware your information may be transferred to and processed in the U.S. or other jurisdictions. By using our site, you consent to this transfer in accordance with applicable data protection laws.</p>
 <p><br /></p>
-<p><br /><strong>11. Updates to This PolÃ­tica de Privacidad</strong></p>
-<p><br />We may update this PolÃ­tica de Privacidad periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
+<p><br /><strong>11. Updates to This Política de Privacidad</strong></p>
+<p><br />We may update this Política de Privacidad periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
 <p><br /></p>
-<p><br /><strong>12. ContÃ¡ctanos</strong></p>
+<p><br /><strong>12. Contáctanos</strong></p>
 <p><br />For any questions, concerns, or requests regarding your privacy or this policy, please contact:</p>
 <p><br />Aenfinite<br />Aenfinite LLC<br />Denver, Colorado<br />?? privacy@aenfinite.com<br />?? +1 (469) 267-7487<br />?? https://aenfinite.com</p>
 <p><br /></p>
@@ -965,11 +965,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">DiseÃ±o de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Diseño Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -978,7 +978,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -987,7 +987,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">DirecciÃ³n</div>
+									<div class="footer-col_caption">Dirección</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1047,7 +1047,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -1055,14 +1055,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1302,7 +1302,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -1407,7 +1407,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1415,7 +1417,7 @@ export default function Page() {
         <script
           key="schema-0"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"AenfiniteÂ®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"AenfiniteÂ®","alternateName":"AenfiniteÂ® - Denver's Premier Digital InnovaciÃ³n Agencia","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"es-ES"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"AenfiniteÂ® Brand Logo - Denver's Premier Digital InnovaciÃ³n Agencia","inLanguage":"es-ES"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"PolÃ­tica de Privacidad"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"PolÃ­tica de Privacidad | AenfiniteÂ®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"es-ES","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris AenfiniteÂ®","description":"Archives from for AenfiniteÂ® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris AenfiniteÂ®","inLanguage":"es-ES"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"PolÃ­tica de Privacidad | AenfiniteÂ®","keywords":"PolÃ­tica de Privacidad","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris AenfiniteÂ®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"PolÃ­tica de Privacidad for AenfiniteÂ® - Denver's premier agencia de innovaciÃ³n digital especializada en branding, web design, user interface (UI), and user experience (UX).","name":"PolÃ­tica de Privacidad | AenfiniteÂ®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"es-ES","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
+          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Denver's Premier Digital Innovación Agencia","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"es-ES"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Denver's Premier Digital Innovación Agencia","inLanguage":"es-ES"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"Política de Privacidad"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"Política de Privacidad | Aenfinite®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"es-ES","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"es-ES"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"Política de Privacidad | Aenfinite®","keywords":"Política de Privacidad","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"Política de Privacidad for Aenfinite® - Denver's premier agencia de innovación digital especializada en branding, web design, user interface (UI), and user experience (UX).","name":"Política de Privacidad | Aenfinite®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"es-ES","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
         />
         <script
           key="schema-1"
@@ -1433,7 +1435,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "PolÃ­tica de Privacidad",
+      "name": "Política de Privacidad",
       "item": "https://aenfinite.com/privacy-policy/"
     }
   ]

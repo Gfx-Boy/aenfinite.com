@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: "Explore Aenfinite",
   keywords: "featured work, award-winning design, best projects, featured portfolio, top design projects, Aenfinite featured work",
   alternates: { canonical: "https://aenfinite.com/featured-work/", languages: {"x-default":"https://aenfinite.com/featured-work/","en":"https://aenfinite.com/featured-work/","es":"https://aenfinite.com/es/featured-work/","fr":"https://aenfinite.com/fr/featured-work/","de":"https://aenfinite.com/de/featured-work/","it":"https://aenfinite.com/it/featured-work/","ar":"https://aenfinite.com/ar/featured-work/","pt":"https://aenfinite.com/pt/featured-work/","zh":"https://aenfinite.com/zh/featured-work/","hi":"https://aenfinite.com/hi/featured-work/","nl":"https://aenfinite.com/nl/featured-work/","ja":"https://aenfinite.com/ja/featured-work/","ko":"https://aenfinite.com/ko/featured-work/"} },
-  openGraph: {"title":"Featured Work Portfolio | Award-Winning Design & Digital Projects | Aenfinite","description":"Discover Aenfiniteâ€™s featured portfolio â€” creative Web Design, Branding, UI/UX, and Digital Marketing projects crafted for high-impact global brands.","url":"https://aenfinite.com/featured-work/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-featured-work-thumbnail.jpg"}]},
+  openGraph: {"title":"Featured Work Portfolio | Award-Winning Design & Digital Projects | Aenfinite","description":"Discover Aenfinite's featured portfolio — creative Web Design, Branding, UI/UX, and Digital Marketing projects crafted for high-impact global brands.","url":"https://aenfinite.com/featured-work/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-featured-work-thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Featured Work Portfolio | Award-Winning Design & Digital Projects | Aenfinite","description":"Explore Aenfinite","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-featured-work-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -1221,7 +1221,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/web-design/" class="redlink">
@@ -1257,8 +1257,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/branding/" class="redlink">
@@ -1433,7 +1433,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1609,7 +1609,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2786,7 +2786,9 @@ document.addEventListener('DOMContentLoaded', function() {
 			});
 		});
 	</script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2800,7 +2802,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
@@ -2813,7 +2815,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
     },
@@ -2822,7 +2824,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/featured-work/#webpage",
       "url": "https://aenfinite.com/featured-work/",
       "name": "Featured Work Portfolio | Award-Winning Design & Digital Projects | Aenfinite",
-      "description": "Explore Aenfiniteâ€™s featured portfolio highlighting award-winning work in Web Design, Branding, UI/UX, Mobile Apps, and Digital Marketing.",
+      "description": "Explore Aenfinite's featured portfolio highlighting award-winning work in Web Design, Branding, UI/UX, Mobile Apps, and Digital Marketing.",
       "inLanguage": "en-US",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {

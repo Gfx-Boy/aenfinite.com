@@ -5,11 +5,11 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite",
-  description: "AenfiniteÂ® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
+  description: "Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
   keywords: "SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚, search engine optimization, keyword research, on-page SEO, technical SEO, link building, local SEO, organic traffic, SERP ranking, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/search-engine-optimization/", languages: {"x-default":"https://aenfinite.com/services/search-engine-optimization/","en":"https://aenfinite.com/services/search-engine-optimization/","es":"https://aenfinite.com/es/services/search-engine-optimization/","fr":"https://aenfinite.com/fr/services/search-engine-optimization/","de":"https://aenfinite.com/de/services/search-engine-optimization/","it":"https://aenfinite.com/it/services/search-engine-optimization/","ar":"https://aenfinite.com/ar/services/search-engine-optimization/","pt":"https://aenfinite.com/pt/services/search-engine-optimization/","zh":"https://aenfinite.com/zh/services/search-engine-optimization/","hi":"https://aenfinite.com/hi/services/search-engine-optimization/","nl":"https://aenfinite.com/nl/services/search-engine-optimization/","ja":"https://aenfinite.com/ja/services/search-engine-optimization/","ko":"https://aenfinite.com/ko/services/search-engine-optimization/"} },
-  openGraph: {"title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"AenfiniteÂ® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/hi/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"AenfiniteÂ® offers SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚ focused on data-driven keyword research, on-page optimization, technical SEO, and link building â€” helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/hi/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"Aenfinite® offers SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚ focused on data-driven keyword research, on-page optimization, technical SEO, and link building — helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2370,7 +2370,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2384,7 +2386,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo-dark.png",
       "sameAs": [
@@ -2397,8 +2399,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - SEO & à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - SEO & à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2429,7 +2431,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/search-engine-optimization/#webpage",
       "url": "https://aenfinite.com/services/search-engine-optimization/",
-      "name": "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | AenfiniteÂ®",
+      "name": "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },

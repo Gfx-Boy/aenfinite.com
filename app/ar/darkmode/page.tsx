@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® â€“ Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
-  description: "AenfiniteÂ® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© based in Colorado, offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, Ø£ØªÙ…ØªØ© Ø§Ù„Ø£Ø¹Ù…Ø§Ù„, and AI-powered solutions for modern brands worldwide.",
+  title: "Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
+  description: "Aenfinite® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© based in Colorado, offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, Ø£ØªÙ…ØªØ© Ø§Ù„Ø£Ø¹Ù…Ø§Ù„, and AI-powered solutions for modern brands worldwide.",
   keywords: "ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ©, web design, branding, SEO, AI solutions, digital marketing, business automation, ØªØµÙ…ÙŠÙ… UI UX, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"AenfiniteÂ® â€“ Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"AenfiniteÂ® delivers world-class ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ar/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® â€“ Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"AenfiniteÂ® is a creative ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"Aenfinite® delivers world-class ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ar/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"Aenfinite® is a creative ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -819,7 +819,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 â€“ Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Logo Collection</div>
+                <div class="card-name">CycleThe6 – Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
@@ -843,7 +843,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume â€“ Luxury Fragrance Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</div>
+                <div class="card-name">Muskfume – Luxury Fragrance Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙØ§Ø®Ø±Ø©</li>
@@ -867,7 +867,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil â€“ AI Trading Platform & Technology Ø§Ù„Ø§Ø¨ØªÙƒØ§Ø±</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology Ø§Ù„Ø§Ø¨ØªÙƒØ§Ø±</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ù…Ù†ØµØ© Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ</li>
@@ -891,7 +891,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Blue Vine Marketing â€“ Professional Business Platform</div>
+                <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚</li>
@@ -915,7 +915,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">HusnOhaya â€“ E-commerce Platform & Shopping Solution</div>
+                <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</li>
@@ -939,7 +939,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros â€“ Ø­Ù„ÙˆÙ„ Ø§Ù„Ø®ÙˆØ§Ø±Ø²Ù…ÙŠØ§Øª & Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
+                <div class="card-name">AlgoPros – Ø­Ù„ÙˆÙ„ Ø§Ù„Ø®ÙˆØ§Ø±Ø²Ù…ÙŠØ§Øª & Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</li>
@@ -963,7 +963,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AfroPop â€“ Collaboration Platform & Social Network</div>
+                <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ø§Ù„Ù…Ù†ØµØ© Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠØ©</li>
@@ -987,7 +987,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech â€“ Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ & SaaS Solution</div>
+                <div class="card-name">KhaTech – Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
@@ -1011,7 +1011,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI â€“ Compliance Ø§Ù„Ø®Ø¯Ù…Ø§Øª & Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</div>
+                <div class="card-name">AM-KI – Compliance Ø§Ù„Ø®Ø¯Ù…Ø§Øª & Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</li>
@@ -1035,7 +1035,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick â€“ Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ© & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ© & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
                         <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ©</li>
@@ -1699,7 +1699,9 @@ var currentdate = new Date();
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 	<!-- Email Subscription Form Handler -->
 	<script src="/darkmode/email-subscription.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1713,7 +1715,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
@@ -1726,7 +1728,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ar-SA"
     },
@@ -1734,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® â€“ Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
-      "description": "AenfiniteÂ® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering creative ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
+      "description": "Aenfinite® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering creative ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"ar-SA",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

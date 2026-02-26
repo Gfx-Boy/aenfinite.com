@@ -2,12 +2,12 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® | Professional Digital Innovation Agency | Web Design, Branding & Digital Marketing",
-  description: "AenfiniteÂ® is a professional digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions. Serving businesses across the US and Canada.",
+  title: "Aenfinite® | Professional Digital Innovation Agency | Web Design, Branding & Digital Marketing",
+  description: "digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions. Serving businesses across the US and Canada.",
   keywords: "digital agency, web design agency, branding agency, digital marketing agency Denver, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"AenfiniteÂ® | Professional Digital Innovation Agency | Web Design, Branding & Digital Marketing","description":"AenfiniteÂ® is a professional digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions. Serving businesses across the US and Canada.","url":"https://aenfinite.com/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | Award-Winning Digital Innovation Agency","description":"Transform your business with AenfiniteÂ®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | Professional Digital Innovation Agency | Web Design, Branding & Digital Marketing","description":"digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions. Serving businesses across the US and Canada.","url":"https://aenfinite.com/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | Award-Winning Digital Innovation Agency","description":"Transform your business with Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -857,7 +857,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1451,7 +1451,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">AenfiniteÂ® is a professional digital innovation agency that transforms businesses through cutting-edge design, development, and marketing solutions. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation services. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through cutting-edge design, development, and marketing solutions. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation services. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.</div>
 									<div class="textbox-action">
 						<a href="/work/" class="redlink">
 							<span>See our work</span>
@@ -1470,7 +1470,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-<strong>Successful Aenfinite Projects â€“</strong> Transforming Brands with Strategic Identity Design, High-Performance Websites, and Impactful Product Packaging.
+<strong>Successful Aenfinite Projects –</strong> Transforming Brands with Strategic Identity Design, High-Performance Websites, and Impactful Product Packaging.
 																	</div>
 							</div>
 						</div>
@@ -1514,13 +1514,13 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Why Choose AenfiniteÂ® for Your Digital Transformation</h2>
+						<h2>Why Choose Aenfinite® for Your Digital Transformation</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
     <h3><b>Innovative Digital Solutions</b></h3>
-    <p>AenfiniteÂ® combines strategy, design, and technology to create seamless digital experiences. From branding and web design to marketing and consulting, we deliver data-driven solutions that fuel measurable business growth.</p>
+    <p>Aenfinite® combines strategy, design, and technology to create seamless digital experiences. From branding and web design to marketing and consulting, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1565,7 +1565,7 @@ recommend a service from 1-10</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/web-design/" class="redlink">
@@ -1601,8 +1601,8 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/branding/" class="redlink">
@@ -1777,7 +1777,7 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1887,7 +1887,7 @@ recommend a service from 1-10</div>
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Your Next Agency - AenfiniteÂ®</h2>
+				<h2>Contact Your Next Agency - Aenfinite®</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1904,7 +1904,7 @@ recommend a service from 1-10</div>
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your projectâ€¦" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your project…" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
@@ -1960,7 +1960,7 @@ recommend a service from 1-10</div>
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
     <span>
-        AenfiniteÂ® â€“ Empowering Businesses with Cutting-Edge IT Solutions, Creative Design, and Data-Driven Digital Strategy.
+        Aenfinite® – Empowering Businesses with Cutting-Edge IT Solutions, Creative Design, and Data-Driven Digital Strategy.
     </span>
 </div>
 
@@ -1973,7 +1973,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>AenfiniteÂ® Design Agency Work</h2>
+						<h2>Aenfinite® Design Agency Work</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2116,7 +2116,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>AenfiniteÂ® Design Agency FAQ</h2>
+									<h2>Aenfinite® Design Agency FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2124,7 +2124,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">What solutions does AenfiniteÂ® deliver?</div>
+            <div class="faq-header-title" itemprop="name">What solutions does Aenfinite® deliver?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2132,7 +2132,7 @@ recommend a service from 1-10</div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
            
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® is a global IT and creative agency dedicated to helping businesses grow through strategy, design, and technology. We specialize in:</p>
+                <p>Aenfinite® is a global IT and creative agency dedicated to helping businesses grow through strategy, design, and technology. We specialize in:</p>
                 <p><b>Brand Strategy & Design:</b> Complete brand identity systems, logo creation, and guidelines that establish a powerful and consistent visual presence.</p>
                 <p><b>Web & App Development:</b> Custom websites, responsive designs, e-commerce solutions, and scalable mobile applications optimized for speed and conversions.</p>
                 <p><b>UI/UX Design:</b> Research-driven interface design, wireframes, and prototypes that ensure intuitive user journeys and higher engagement.</p>
@@ -2146,7 +2146,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">How does AenfiniteÂ® handle new projects?</div>
+            <div class="faq-header-title" itemprop="name">How does Aenfinite® handle new projects?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2156,7 +2156,7 @@ recommend a service from 1-10</div>
                 <p>We follow a clear, collaborative process that keeps you involved and ensures quality at every stage:</p>
                 <p><b>1. Discovery & Planning:</b> We learn about your business, audience, and goals to define a clear strategy.</p>
                 <p><b>2. Concept & Direction:</b> Our creatives prepare moodboards, concepts, and design directions aligned with your brand vision.</p>
-                <p><b>3. Design & Development:</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. Design & Development:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
                 <p><b>4. Implementation:</b> Our development team brings the designs to life, delivering high-performance digital products or print-ready assets.</p>
                 <p><b>5. Launch & Optimization:</b> We assist with deployment, provide training if needed, and continuously monitor results for improvements.</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2167,20 +2167,20 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Who does AenfiniteÂ® work with?</div>
+            <div class="faq-header-title" itemprop="name">Who does Aenfinite® work with?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <p>Aenfinite® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
                 <ul>
-                    <li>Technology & SaaS â€“ web platforms, SaaS UI/UX, and product branding</li>
-                    <li>Healthcare & Wellness â€“ medical branding, patient-friendly interfaces, and compliance-ready solutions</li>
-                    <li>Real Estate & Construction â€“ property websites, branding, and lead-generation campaigns</li>
-                    <li>Retail & E-Commerce â€“ packaging, online store design, and conversion optimization</li>
-                    <li>Professional Services â€“ corporate websites, marketing automation, and client portals</li>
+                    <li>Technology & SaaS – web platforms, SaaS UI/UX, and product branding</li>
+                    <li>Healthcare & Wellness – medical branding, patient-friendly interfaces, and compliance-ready solutions</li>
+                    <li>Real Estate & Construction – property websites, branding, and lead-generation campaigns</li>
+                    <li>Retail & E-Commerce – packaging, online store design, and conversion optimization</li>
+                    <li>Professional Services – corporate websites, marketing automation, and client portals</li>
                 </ul>
                 <p>No matter the industry, our goal is to create work that resonates with your audience and drives measurable growth.</p>
             </div>
@@ -2200,9 +2200,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="contact/" class="redlink">
-									<span>Letâ€™s talk</span>
+									<span>Let's talk</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2288,7 +2288,7 @@ recommend a service from 1-10</div>
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="/">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -2760,7 +2760,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 </script>
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2868,7 +2870,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - Digital Innovation Agency",
-      "alternateName": "AenfiniteÂ®",
+      "alternateName": "Aenfinite®",
       "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage": "en-US",
@@ -2911,7 +2913,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® | Digital Innovation Agency",
+      "name": "Aenfinite® | Digital Innovation Agency",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "about": {"@id": "https://aenfinite.com/#organization"},
       "datePublished": "2017-01-01T00:00:00-00:00",

@@ -5,10 +5,10 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "White Label Ø§Ù„ÙˆÙƒØ§Ù„Ø© Partnerships | Design & Ø§Ù„ØªØ·ÙˆÙŠØ± Outsourcing | Aenfinite",
-  description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services â€” delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
+  description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services — delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
   keywords: "white label services, white label web design, white label development, agency outsourcing, white label digital marketing, Aenfinite white label",
   alternates: { canonical: "https://aenfinite.com/ar/agency/partner-with-us/white-label-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/white-label-services/","en":"https://aenfinite.com/agency/partner-with-us/white-label-services/","es":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/white-label-services/","de":"https://aenfinite.com/de/agency/partner-with-us/white-label-services/","it":"https://aenfinite.com/it/agency/partner-with-us/white-label-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/white-label-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/white-label-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/white-label-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/white-label-services/"} },
-  openGraph: {"title":"White Label Ø§Ù„ÙˆÙƒØ§Ù„Ø© Partnerships | Scale Your Creative Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite","description":"Grow your agencyâ€™s capabilities with Aenfiniteâ€™s white label design, branding, and web development services â€” all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  openGraph: {"title":"White Label Ø§Ù„ÙˆÙƒØ§Ù„Ø© Partnerships | Scale Your Creative Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite","description":"Grow your agency's capabilities with Aenfinite's white label design, branding, and web development services — all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"White Label Partnerships | Scale Your Ø§Ù„ÙˆÙƒØ§Ù„Ø© with Aenfinite","description":"Partner with Aenfinite and offer professional design, branding, and development under your agency name. Post-paid options available.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -1129,7 +1129,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ ÙˆØ®Ø§Ø±Ø¬Ù‡Ø§</span>
     <span class="marquee-line_text">Ø®Ø¨Ø±Ø§Ø¡ ÙÙŠ UI/UX ÙˆSEO ÙˆØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ù†Ù…Ùˆ</span>
     <span class="marquee-line_text">Ù…ÙˆØ«ÙˆÙ‚ Ù…Ù† Ø§Ù„Ø´Ø±ÙƒØ§Øª Ø§Ù„Ù†Ø§Ø´Ø¦Ø© ÙˆØ§Ù„Ù…Ø¤Ø³Ø³Ø§Øª Ø§Ù„Ø¹Ø§Ù„Ù…ÙŠØ©</span>
-    <span class="marquee-line_text">ÙØ±ÙŠÙ‚ Ù…Ø§Ù‡Ø± â€“ ReactØŒ WordPressØŒ FirebaseØŒ Figma</span>
+    <span class="marquee-line_text">ÙØ±ÙŠÙ‚ Ù…Ø§Ù‡Ø± – ReactØŒ WordPressØŒ FirebaseØŒ Figma</span>
     <span class="marquee-line_text">Ø¹Ù…Ù„ÙŠØ© ØªØ·ÙˆÙŠØ± Ø±Ø´ÙŠÙ‚Ø© ÙˆÙ…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª</span>
     <span class="marquee-line_text">ÙˆÙƒØ§Ù„Ø© Ø¹Ø§Ù„Ù…ÙŠØ© Ø¨Ø¬Ø°ÙˆØ± Ø¬Ù†ÙˆØ¨ Ø´Ø±Ù‚ Ø¢Ø³ÙŠÙˆÙŠØ©</span>
     <span class="marquee-line_text">ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø¨Ø­Ù„ÙˆÙ„ Ù‚Ø§Ø¨Ù„Ø© Ù„Ù„ØªÙˆØ³Ø¹</span>
@@ -1146,13 +1146,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h1> AenfiniteÂ® - Offer White Label Partnerships</h1> 						
+          <h1> Aenfinite® - Offer White Label Partnerships</h1> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Partner with Aenfinite for comprehensive <strong>White Label Partnerships</strong> that scale your agency's capabilities without the overhead. 
-          AenfiniteÂ® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
+          Aenfinite® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
           <br /><br />
           <strong>Over 8+ years of white label experience</strong> serving agencies worldwide, we've completed <strong>300+ white label projects</strong> with a 
           <strong>98% client retention rate</strong>. Our dedicated white label division ensures consistent quality, quick turnaround time, and seamless client communication. 
@@ -1221,11 +1221,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="textbox-content normaltext">
 			<h2><strong>Why Choose Our Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡?</strong></h2>
 			<p>&nbsp;</p>
-			<p>At <strong>AenfiniteÂ®</strong>, we believe in growing together with our partners. Thatâ€™s why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
+			<p>At <strong>Aenfinite®</strong>, we believe in growing together with our partners. That's why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
 			<p>&nbsp;</p>
-			<p>By joining our white label partnership, youâ€™re not just recommending an agencyyouâ€™re helping brands experience innovation and quality that scale your business offerings and deliver premium digital experiences. Every successful white label project helps you, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
+			<p>By joining our white label partnership, you're not just recommending an agencyyou're helping brands experience innovation and quality that scale your business offerings and deliver premium digital experiences. Every successful white label project helps you, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
 			<p>&nbsp;</p>
-			<p><strong>Hereâ€™s why youâ€™ll love partnering with us:</strong></p>
+			<p><strong>Here's why you'll love partnering with us:</strong></p>
 			<ul>
 				<li><strong>Complete Brand Transparency:</strong> We operate entirely under your agency's branding with zero visibility to your clients</li>
 				<li><strong>Post-Paid Payment Terms:</strong> Flexible payment arrangements with net-30 terms for established agency partners</li>
@@ -1408,7 +1408,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="infobox-index"></div>
                             <div class="infobox-title" style="padding-top: 50px;">Step 1 <span class="chevron"></span> Partnership Setup</div>
                             <div class="infobox-description">
-                                <p>Ø§ØªØµÙ„ Ø¨Ù†Ø§ us to discuss your white-label needs. Weâ€™ll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
+                                <p>Ø§ØªØµÙ„ Ø¨Ù†Ø§ us to discuss your white-label needs. We'll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
                             </div>
                         </div>
                     </div>
@@ -1432,7 +1432,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="infobox-index"></div>
                             <div class="infobox-title" style="padding-top: 50px;">Step 3 <span class="chevron" ></span> Seamless Delivery</div>
                             <div class="infobox-description">
-                                <p>We deliver completed work under your agencyâ€™s branding, ready for client review or launch. Post-paid billing helps maintain healthy cash flow while ensuring consistent quality.</p>
+                                <p>We deliver completed work under your agency's branding, ready for client review or launch. Post-paid billing helps maintain healthy cash flow while ensuring consistent quality.</p>
                             </div>
                         </div>
                     </div>
@@ -1531,7 +1531,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2067,7 +2067,9 @@ document.addEventListener('keydown', function(event) {
 </script>
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2099,7 +2101,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡",
     "category": "Ø§Ù„ÙˆÙƒØ§Ù„Ø© Partnership",
-    "description": "Scale your business with Aenfiniteâ€™s white label creative and development services. Flexible partnership models and post-paid options available.",
+    "description": "Scale your business with Aenfinite's white label creative and development services. Flexible partnership models and post-paid options available.",
     "areaServed": {
       "@type": "Place",
       "name": "Denver, Colorado"

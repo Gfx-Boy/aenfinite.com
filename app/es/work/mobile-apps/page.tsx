@@ -393,7 +393,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 			outline-offset: 2px;
 		}
 		
-		/* DiseÃ±o Responsivo */
+		/* Diseño Responsivo */
 		@media (max-width: 768px) {
 			.checkbox-group {
 				gap: 8px;
@@ -830,17 +830,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>                                      </ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
                                     </li>
 									<li class="menu-item menu-item-has-children">
-                                    <a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+                                    <a href="#">Servicios de Diseño y Creatividad â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-											<li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+											<li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
 											
-											<li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
                                     </li>
@@ -848,21 +848,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <a href="#">Soluciones de Marketing y Digitales â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-                                            <li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+                                            <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
                                             <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+                                        <a href="#">Soluciones de IA y Tecnología â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -981,7 +981,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -993,7 +993,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1037,11 +1037,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<ul id="menu-work-page-categories-filter" class="projects-nav"><li id="menu-item-3197" class="menu-item projects-nav_item menu-item-object-category menu-item-3197"><a href="/es/work/">All Portafolio</a></li>
 <li id="menu-item-3730" class="menu-item menu-item-type-post_type projects-nav_item menu-item-3730"><a href="/es/featured-work/">Trabajo Destacado</a></li>
 <li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="../branding/">Branding</a></li>
-<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="../web-design-&-development/">DiseÃ±o Web and Desarrollo</a></li>
-<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">DiseÃ±o de Logotipos</a></li>
-<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="../graphic-design/">DiseÃ±o GrÃ¡fico</a></li>
-<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/es/work/packaging-design/">DiseÃ±o de Empaques</a></li>
-<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category active menu-item-3174"><a href="" aria-current="page">Aplicaciones MÃ³viles</a></li>
+<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="../web-design-&-development/">Diseño Web and Desarrollo</a></li>
+<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">Diseño de Logotipos</a></li>
+<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="../graphic-design/">Diseño Gráfico</a></li>
+<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/es/work/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category active menu-item-3174"><a href="" aria-current="page">Aplicaciones Móviles</a></li>
 </ul>				<div class="projects fade-in-delay-3" id="ajax">
 						
 						<div class="project fade-in-delay-4" data-lightbox="false">
@@ -1056,9 +1056,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="/es/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Business Apps</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX MÃ³vil</a></div>
+									<div class="preview-name"><a href="../ui-ux-design/">UI/UX Móvil</a></div>
 									<div class="preview-name"><a href="../custom-web-development/">Cloud Integration</a></div>
 								</div>
 							</div>
@@ -1068,15 +1068,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/es/work/lumea/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bienestar & Light Therapy AplicaciÃ³n MÃ³vil" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bienestar & Light Therapy Aplicación Móvil" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Ver proyecto									</div>
 								</div>
 								<div class="preview-content" data-index="02">
 									<div class="preview-name preview-name__caption">
-										<a href="/es/work/lumea/">Lumea - Smart Bienestar & Light Therapy AplicaciÃ³n MÃ³vil</a>
+										<a href="/es/work/lumea/">Lumea - Smart Bienestar & Light Therapy Aplicación Móvil</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Bienestar Apps</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Health UI/UX</a></div>
 									<div class="preview-name"><a href="../app-development/">Smart Technology</a></div>
@@ -1096,7 +1096,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="/es/work/mindfit/">Mindfit - Bienestar Mental & Fitness App</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Fitness Apps</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Bienestar UI/UX</a></div>
 									<div class="preview-name"><a href="../app-development/">Mental Health</a></div>
@@ -1116,7 +1116,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="/es/work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Event Apps</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Entertainment UI/UX</a></div>
 									<div class="preview-name"><a href="../app-development/">Booking Systems</a></div>
@@ -1128,16 +1128,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/es/work/neurolinker/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & NeurotecnologÃ­a Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & Neurotecnología Platform" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Ver proyecto									</div>
 								</div>
 								<div class="preview-content" data-index="05">
 									<div class="preview-name preview-name__caption">
-										<a href="/es/work/neurolinker/">Neurolinker - Brain-Computer Interface & NeurotecnologÃ­a Platform</a>
+										<a href="/es/work/neurolinker/">Neurolinker - Brain-Computer Interface & Neurotecnología Platform</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
-									<div class="preview-name"><a href="../app-development/">NeurotecnologÃ­a</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
+									<div class="preview-name"><a href="../app-development/">Neurotecnología</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Advanced UI/UX</a></div>
 									<div class="preview-name"><a href="../software-&-platform-development/">Brain-Computer Interface</a></div>
 								</div>
@@ -1148,15 +1148,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/es/work/olly/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity AplicaciÃ³n MÃ³vil" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity Aplicación Móvil" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Ver proyecto									</div>
 								</div>
 								<div class="preview-content" data-index="06">
 									<div class="preview-name preview-name__caption">
-										<a href="/es/work/olly/">Olly - Smart Personal Assistant & Productivity AplicaciÃ³n MÃ³vil</a>
+										<a href="/es/work/olly/">Olly - Smart Personal Assistant & Productivity Aplicación Móvil</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">AI Assistant</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Productivity UI/UX</a></div>
 									<div class="preview-name"><a href="../ai-chatbots-&-virtual-assistants/">Smart Technology</a></div>
@@ -1176,7 +1176,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="/es/work/quarena/">Quarena - Advanced Trading Platform UI/UX & Desarrollo de Aplicaciones</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Trading Apps</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Financial UI/UX</a></div>
 									<div class="preview-name"><a href="../app-development/">Cryptocurrency</a></div>
@@ -1196,7 +1196,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="/es/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 									</div>
-									<div class="preview-name"><a href="">Aplicaciones MÃ³viles</a></div>
+									<div class="preview-name"><a href="">Aplicaciones Móviles</a></div>
 									<div class="preview-name"><a href="../app-development/">Neural Technology</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Advanced UI/UX</a></div>
 									<div class="preview-name"><a href="../software-&-platform-development/">Brain Technology</a></div>
@@ -1229,24 +1229,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="service-nav">
 					<div class="service-list js-service-container fadein js-aos" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="500">
 													<div class="service active js-service">
-								<div class="service-caption js-service-caption">DiseÃ±o Web</div>
+								<div class="service-caption js-service-caption">Diseño Web</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/es/services/web-design/" class="chip-label">DiseÃ±o Web Personalizado</a>
+													<a href="/es/services/web-design/" class="chip-label">Diseño Web Personalizado</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/web-design/" class="chip-label">DiseÃ±o Responsivo</a>
+													<a href="/es/services/web-design/" class="chip-label">Diseño Responsivo</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/web-design/" class="chip-label">PÃ¡ginas de Aterrizaje</a>
+													<a href="/es/services/web-design/" class="chip-label">Páginas de Aterrizaje</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/web-design/" class="chip-label">Sitios Web Corporativos</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/ui-ux-design/" class="chip-label">DiseÃ±o UI/UX</a>
+													<a href="/es/services/ui-ux-design/" class="chip-label">Diseño UI/UX</a>
 												</div>
 																							
 																					</div>
@@ -1254,7 +1254,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/es/services/web-design/" class="redlink">
@@ -1264,7 +1264,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">Branding y DiseÃ±o de Logotipo</div>
+								<div class="service-caption js-service-caption">Branding y Diseño de Logotipo</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
@@ -1272,7 +1272,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/es/services/branding/" class="chip-label">Identidad de Marca</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/logo-design/" class="chip-label">DiseÃ±o de Logotipos</a>
+													<a href="/es/services/logo-design/" class="chip-label">Diseño de Logotipos</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/branding/" class="chip-label">Estrategia de Marca</a>
@@ -1290,8 +1290,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/es/services/branding/" class="redlink">
@@ -1306,16 +1306,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/es/services/search-engine-optimization/" class="chip-label">OptimizaciÃ³n SEO</a>
+													<a href="/es/services/search-engine-optimization/" class="chip-label">Optimización SEO</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/digital-marketing/" class="chip-label">Marketing por Correo ElectrÃ³nico</a>
+													<a href="/es/services/digital-marketing/" class="chip-label">Marketing por Correo Electrónico</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/paid-ads/" class="chip-label">Publicidad Pagada</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/Pay-per-click/" class="chip-label">CampaÃ±as PPC</a>
+													<a href="/es/services/Pay-per-click/" class="chip-label">Campañas PPC</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/social-media-marketing/" class="chip-label">Marketing en Redes Sociales</a>
@@ -1347,16 +1347,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/es/services/e-commerce-websites/" class="chip-label">WooCommerce</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/e-commerce-websites/" class="chip-label">Tiendas en LÃ­nea</a>
+													<a href="/es/services/e-commerce-websites/" class="chip-label">Tiendas en Línea</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/e-commerce-websites/" class="chip-label">IntegraciÃ³n de Pagos</a>
+													<a href="/es/services/e-commerce-websites/" class="chip-label">Integración de Pagos</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/e-commerce-websites/" class="chip-label">CatÃ¡logos de Productos</a>
+													<a href="/es/services/e-commerce-websites/" class="chip-label">Catálogos de Productos</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/e-commerce-websites/" class="chip-label">Comercio MÃ³vil</a>
+													<a href="/es/services/e-commerce-websites/" class="chip-label">Comercio Móvil</a>
 												</div>
 																					</div>
 									</div>
@@ -1388,7 +1388,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/es/services/wordpress-websites/" class="chip-label">Soluciones CMS</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/wordpress-websites/" class="chip-label">OptimizaciÃ³n de Sitio</a>
+													<a href="/es/services/wordpress-websites/" class="chip-label">Optimización de Sitio</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/wordpress-websites/" class="chip-label">Mantenimiento</a>
@@ -1441,24 +1441,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DiseÃ±o GrÃ¡fico</div>
+								<div class="service-caption js-service-caption">Diseño Gráfico</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/es/services/graphic-design/" class="chip-label">DiseÃ±o de ImpresiÃ³n</a>
+													<a href="/es/services/graphic-design/" class="chip-label">Diseño de Impresión</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/graphic-design/" class="chip-label">Tarjetas de PresentaciÃ³n</a>
+													<a href="/es/services/graphic-design/" class="chip-label">Tarjetas de Presentación</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/graphic-design/" class="chip-label">Folletos</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/graphic-design/" class="chip-label">GrÃ¡ficos Digitales</a>
+													<a href="/es/services/graphic-design/" class="chip-label">Gráficos Digitales</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/graphic-design/" class="chip-label">DiseÃ±o de Contenido</a>
+													<a href="/es/services/graphic-design/" class="chip-label">Diseño de Contenido</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/graphic-design/" class="chip-label">Materiales de Marketing</a>
@@ -1466,7 +1466,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1480,7 +1480,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 													
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DiseÃ±o de Empaques</div>
+								<div class="service-caption js-service-caption">Diseño de Empaques</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
@@ -1526,7 +1526,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/es/services/software-&-platform-development/" class="chip-label">Desarrollo de Software</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/workflow-&-business-automation/" class="chip-label">AutomatizaciÃ³n Empresarial</a>
+													<a href="/es/services/workflow-&-business-automation/" class="chip-label">Automatización Empresarial</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots de IA</a>
@@ -1535,7 +1535,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/es/services/custom-web-development/" class="chip-label">Desarrollo de Plataformas</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/workflow-&-business-automation/" class="chip-label">AutomatizaciÃ³n de Flujos de Trabajo</a>
+													<a href="/es/services/workflow-&-business-automation/" class="chip-label">Automatización de Flujos de Trabajo</a>
 												</div>
 																					</div>
 									</div>
@@ -1582,14 +1582,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrÃ³nico*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="CuÃ©ntanos sobre tu proyecto" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrónico*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Cuéntanos sobre tu proyecto" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Estoy interesado en...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Premium Identidad de Marca" id="premium-branding" /><label for="premium-branding" class="list-item-label">Premium Identidad de Marca</label></span><span class="list-item"><input type="checkbox" name="services" value="Award-Winning DiseÃ±o Web" id="award-web-design" /><label for="award-web-design" class="list-item-label">Award-Winning DiseÃ±o Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile Desarrollo de Aplicaciones" id="mobile-app-development" /><label for="mobile-app-development" class="list-item-label">Mobile Desarrollo de Aplicaciones</label></span><span class="list-item"><input type="checkbox" name="services" value="DiseÃ±o UI/UX Excellence" id="ui-ux-excellence" /><label for="ui-ux-excellence" class="list-item-label">DiseÃ±o UI/UX Excellence</label></span><span class="list-item"><input type="checkbox" name="services" value="Creative Campaign Design" id="creative-campaigns" /><label for="creative-campaigns" class="list-item-label">Creative Campaign Design</label></span><span class="list-item"><input type="checkbox" name="services" value="GrÃ¡ficos en Movimiento & Animation" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">GrÃ¡ficos en Movimiento & Animation</label></span><span class="list-item"><input type="checkbox" name="services" value="Software Platform Design" id="software-design" /><label for="software-design" class="list-item-label">Software Platform Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Luxury Product Design" id="luxury-design" /><label for="luxury-design" class="list-item-label">Luxury Product Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Experience Design" id="digital-experience" /><label for="digital-experience" class="list-item-label">Digital Experience Design</label></span><span class="list-item last"><input type="checkbox" name="services" value="Otro Premium Servicios" id="other-premium" /><label for="other-premium" class="list-item-label">Otro Premium Servicios</label></span></span></span>
+		<strong>Estoy interesado en...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Premium Identidad de Marca" id="premium-branding" /><label for="premium-branding" class="list-item-label">Premium Identidad de Marca</label></span><span class="list-item"><input type="checkbox" name="services" value="Award-Winning Diseño Web" id="award-web-design" /><label for="award-web-design" class="list-item-label">Award-Winning Diseño Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile Desarrollo de Aplicaciones" id="mobile-app-development" /><label for="mobile-app-development" class="list-item-label">Mobile Desarrollo de Aplicaciones</label></span><span class="list-item"><input type="checkbox" name="services" value="Diseño UI/UX Excellence" id="ui-ux-excellence" /><label for="ui-ux-excellence" class="list-item-label">Diseño UI/UX Excellence</label></span><span class="list-item"><input type="checkbox" name="services" value="Creative Campaign Design" id="creative-campaigns" /><label for="creative-campaigns" class="list-item-label">Creative Campaign Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Gráficos en Movimiento & Animation" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">Gráficos en Movimiento & Animation</label></span><span class="list-item"><input type="checkbox" name="services" value="Software Platform Design" id="software-design" /><label for="software-design" class="list-item-label">Software Platform Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Luxury Product Design" id="luxury-design" /><label for="luxury-design" class="list-item-label">Luxury Product Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Experience Design" id="digital-experience" /><label for="digital-experience" class="list-item-label">Digital Experience Design</label></span><span class="list-item last"><input type="checkbox" name="services" value="Otro Premium Servicios" id="other-premium" /><label for="other-premium" class="list-item-label">Otro Premium Servicios</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="CuÃ©ntanos tu presupuesto aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Cuéntanos tu presupuesto aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1613,7 +1613,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					
 				</div>
 				<div class="select-option js-select-option">
-					mÃ¡s de $100,000
+					más de $100,000
 					
 				</div>
 			</div>		</div>
@@ -1642,7 +1642,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1666,11 +1666,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/es/services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">DiseÃ±o de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">Diseño Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1679,7 +1679,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -1688,7 +1688,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">DirecciÃ³n</div>
+									<div class="footer-col_caption">Dirección</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1748,7 +1748,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -1756,14 +1756,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2353,7 +2353,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2900,7 +2900,9 @@ document.addEventListener('DOMContentLoaded', function() {
 			});
 		});
 	</script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2914,7 +2916,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2928,8 +2930,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Mobile Desarrollo de Aplicaciones Studio",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Mobile Desarrollo de Aplicaciones Studio",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"es-ES"
     },
@@ -2945,7 +2947,7 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": {"@id": "https://aenfinite.com/work/mobile-apps/", "name": "Aplicaciones MÃ³viles"}
+          "item": {"@id": "https://aenfinite.com/work/mobile-apps/", "name": "Aplicaciones Móviles"}
         }
       ]
     },
@@ -2953,7 +2955,7 @@ export default function Page() {
       "@type": "CollectionPage",
       "@id": "https://aenfinite.com/work/mobile-apps/#webpage",
       "url": "https://aenfinite.com/work/mobile-apps/",
-      "name": "Mobile Desarrollo de Aplicaciones Portfolio | AenfiniteÂ®",
+      "name": "Mobile Desarrollo de Aplicaciones Portfolio | Aenfinite®",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "breadcrumb": {"@id": "https://aenfinite.com/work/mobile-apps/#breadcrumb"},
       "inLanguage":"es-ES"

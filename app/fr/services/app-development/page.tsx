@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "DÃ©veloppement d'Applications Services | Mobile & Web Application Experts | Aenfinite",
+  title: "Développement d'Applications Services | Mobile & Web Application Experts | Aenfinite",
   description: "Aenfinite develops custom mobile and web applications that are fast, secure, and scalable. We specialize in native, cross-platform, and full-stack app solutions built for growth and engagement.",
-  keywords: "dÃ©veloppement d'applications, mobile dÃ©veloppement d'applications, iOS dÃ©veloppement d'applications, Android dÃ©veloppement d'applications, cross-platform app, React Native, Flutter, full-stack dÃ©veloppement d'applications, Aenfinite",
+  keywords: "développement d'applications, mobile développement d'applications, iOS développement d'applications, Android développement d'applications, cross-platform app, React Native, Flutter, full-stack développement d'applications, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/app-development/", languages: {"x-default":"https://aenfinite.com/services/app-development/","en":"https://aenfinite.com/services/app-development/","es":"https://aenfinite.com/es/services/app-development/","fr":"https://aenfinite.com/fr/services/app-development/","de":"https://aenfinite.com/de/services/app-development/","it":"https://aenfinite.com/it/services/app-development/","ar":"https://aenfinite.com/ar/services/app-development/","pt":"https://aenfinite.com/pt/services/app-development/","zh":"https://aenfinite.com/zh/services/app-development/","hi":"https://aenfinite.com/hi/services/app-development/","nl":"https://aenfinite.com/nl/services/app-development/","ja":"https://aenfinite.com/ja/services/app-development/","ko":"https://aenfinite.com/ko/services/app-development/"} },
-  openGraph: {"title":"DÃ©veloppement d'Applications Services | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/fr/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"DÃ©veloppement d'Applications Services | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Développement d'Applications Services | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/fr/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Développement d'Applications Services | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1356,18 +1356,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Mobile & Web DÃ©veloppement d'Applications Services</span>
+    <span class="marquee-line_text">Professional Mobile & Web Développement d'Applications Services</span>
     <span class="marquee-line_text">Native Apps, Cross-Platform Solutions & Optimization</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
-    <span class="marquee-line_text">Specialists in App Performance & ExpÃ©rience Utilisateur</span>
+    <span class="marquee-line_text">Specialists in App Performance & Expérience Utilisateur</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for App Solutions</span>
-    <span class="marquee-line_text">High-Performance DÃ©veloppement d'Applications & Security</span>
+    <span class="marquee-line_text">High-Performance Développement d'Applications & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
     <span class="marquee-line_text">Professional E-commerce Agence with Proven Results</span>
     <span class="marquee-line_text">Comprehensive E-commerce Maintenance & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable DÃ©veloppement E-commerce & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable Développement E-commerce & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1397,16 +1397,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-être & Light Therapy Application Mobile" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile</a></div>
+											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Smart Bien-être & Light Therapy Application Mobile</a></div>
 																																		<div class="preview-name">Applications Mobiles</div>
-																							<div class="preview-name">Bien-Ãªtre Apps</div>
+																							<div class="preview-name">Bien-être Apps</div>
 																							<div class="preview-name">Health UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
 																					</div>
@@ -1418,17 +1418,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-Ãªtre Mental & Fitness App" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-être Mental & Fitness App" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Bien-Ãªtre Mental & Fitness App</a></div>
+											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Bien-être Mental & Fitness App</a></div>
 																																		<div class="preview-name">Applications Mobiles</div>
 																							<div class="preview-name">Fitness Apps</div>
-																							<div class="preview-name">Bien-Ãªtre UI/UX</div>
+																							<div class="preview-name">Bien-être UI/UX</div>
 																							<div class="preview-name">Mental Health</div>
 																					</div>
 									</div>
@@ -1502,14 +1502,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/quarena/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & DÃ©veloppement d'Applications" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & Développement d'Applications" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/quarena/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & DÃ©veloppement d'Applications</a></div>
+											<div class="preview-name preview-name__caption"><a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & Développement d'Applications</a></div>
 																																		<div class="preview-name">Applications Mobiles</div>
 																							<div class="preview-name">Trading Apps</div>
 																							<div class="preview-name">Financial UI/UX</div>
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional DÃ©veloppement d'Applications services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Développement d'Applications services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/fr/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1581,7 +1581,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     </div>
                     <div class="numbers-title">
                         <div>
-                            <div>years of expertise in native, cross-platform, and progressive web dÃ©veloppement d'applications, delivering high-performing, user-centric solutions</div>
+                            <div>years of expertise in native, cross-platform, and progressive web développement d'applications, delivering high-performing, user-centric solutions</div>
                         </div>
                     </div>
                 </div>
@@ -1607,7 +1607,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Mobile DÃ©veloppement d'Applications Portfolio</h2>
+						<h2>Aenfinite Mobile Développement d'Applications Portfolio</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1633,15 +1633,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-être & Light Therapy Application Mobile" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile</a>
+											<a href="../../work/lumea/">Lumea - Smart Bien-être & Light Therapy Application Mobile</a>
 										</div>
 																					<div class="preview-name">Applications Mobiles</div>
-																					<div class="preview-name">Bien-Ãªtre Apps</div>
+																					<div class="preview-name">Bien-être Apps</div>
 																					<div class="preview-name">Health UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
 											
@@ -1651,16 +1651,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-Ãªtre Mental & Fitness App" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-être Mental & Fitness App" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit - Bien-Ãªtre Mental & Fitness App</a>
+											<a href="../../work/mindfit/">Mindfit - Bien-être Mental & Fitness App</a>
 										</div>
 																					<div class="preview-name">Applications Mobiles</div>
 																					<div class="preview-name">Fitness Apps</div>
-																					<div class="preview-name">Bien-Ãªtre UI/UX</div>
+																					<div class="preview-name">Bien-être UI/UX</div>
 																					<div class="preview-name">Mental Health</div>
 											
 									</div>
@@ -1723,12 +1723,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & DÃ©veloppement d'Applications" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & Développement d'Applications" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/quarena/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & DÃ©veloppement d'Applications</a>
+											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & Développement d'Applications</a>
 										</div>
 																					<div class="preview-name">Applications Mobiles</div>
 																					<div class="preview-name">Trading Apps</div>
@@ -1771,7 +1771,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="block formss">
         <div class="center">
             <div class="formss-wrap">
-                <h2>Contact Aenfinite for Expert DÃ©veloppement d'Applications Services</h2>
+                <h2>Contact Aenfinite for Expert Développement d'Applications Services</h2>
                 <div class="toggle-formss">
                     
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1800,15 +1800,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="checkbox-select">
-        <strong>Je suis intÃ©ressÃ© par...</strong>
+        <strong>Je suis intéressé par...</strong>
         <span class="form-control-wrap" data-name="checkbox-select">
             <span class="form-control checkbox-group" style="padding-bottom: 50px">
-                <span class="list-item first"><input type="checkbox" name="services" value="iOS DÃ©veloppement d'Applications" id="ios-app" /><label for="ios-app" class="list-item-label">iOS DÃ©veloppement d'Applications</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Android DÃ©veloppement d'Applications" id="android-app" /><label for="android-app" class="list-item-label">Android DÃ©veloppement d'Applications</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Cross-DÃ©veloppement de Plateformes" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-DÃ©veloppement de Plateformes</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Web DÃ©veloppement d'Applications" id="web-app" /><label for="web-app" class="list-item-label">Web DÃ©veloppement d'Applications</label></span>
+                <span class="list-item first"><input type="checkbox" name="services" value="iOS Développement d'Applications" id="ios-app" /><label for="ios-app" class="list-item-label">iOS Développement d'Applications</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Android Développement d'Applications" id="android-app" /><label for="android-app" class="list-item-label">Android Développement d'Applications</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Cross-Développement de Plateformes" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-Développement de Plateformes</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Web Développement d'Applications" id="web-app" /><label for="web-app" class="list-item-label">Web Développement d'Applications</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="uiux" /><label for="uiux" class="list-item-label">Design UI/UX</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="API DÃ©veloppement & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API DÃ©veloppement & Integration</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="API Développement & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API Développement & Integration</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="App Maintenance & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App Maintenance & Support</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="App Migration & Upgrades" id="app-migration" /><label for="app-migration" class="list-item-label">App Migration & Upgrades</label></span>
                 <span class="list-item last"><input type="checkbox" name="services" value="Custom App Consultation" id="app-consultation" /><label for="app-consultation" class="list-item-label">Custom App Consultation</label></span>
@@ -1851,12 +1851,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="inner-wrapper">
                 <div class="section-caption js-aos">
                     <div class="section-caption_text">
-                        <h2>DÃ©veloppement d'Applications Expertise</h2>
+                        <h2>Développement d'Applications Expertise</h2>
                     </div>
                 </div>
                 <div class="textbox textbox__push js-aos appear">
                     <div class="textbox-content">
-                        Aenfinite delivers end-to-end dÃ©veloppement d'applications solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your transformation digitale and business growth.
+                        Aenfinite delivers end-to-end développement d'applications solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your transformation digitale and business growth.
                     </div>
                 </div>
             </div>
@@ -1864,7 +1864,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="panes">
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Custom Mobile DÃ©veloppement d'Applications</div>
+                <div class="pane-title">Custom Mobile Développement d'Applications</div>
                 <div class="pane-subtitle">
                     <p>We build fully customized mobile applications tailored to your business needs. From concept to deployment, our team crafts native iOS, Android, and hybrid apps that are secure, scalable, and performance-optimized.</p>
                 </div>
@@ -1878,16 +1878,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">API & Backend DÃ©veloppement</div>
+                <div class="pane-title">API & Backend Développement</div>
                 <div class="pane-subtitle">
                     <p>Power your applications with secure and scalable backend systems. We specialize in building robust APIs, database architecture, and cloud integrations that ensure smooth functionality and seamless data flow.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Cross-DÃ©veloppement de Plateformes</div>
+                <div class="pane-title">Cross-Développement de Plateformes</div>
                 <div class="pane-subtitle">
-                    <p>Save time and cost with our cross-platform dÃ©veloppement d'applications expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
+                    <p>Save time and cost with our cross-platform développement d'applications expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -1908,14 +1908,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="pane-index"></div>
                 <div class="pane-title">App Store Optimization (ASO)</div>
                 <div class="pane-subtitle">
-                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your appâ€™s title, keywords, and descriptions to increase downloads and improve rankings.</p>
+                    <p>Maximize your app's visibility on Google Play and Apple App Store with our ASO strategies. We optimize your app's title, keywords, and descriptions to increase downloads and improve rankings.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
                 <div class="pane-title">Maintenance & Support</div>
                 <div class="pane-subtitle">
-                    <p>Our work doesnâ€™t stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
+                    <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -1933,7 +1933,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>DÃ©veloppement d'Applications Process</h2>
+                    <h2>Développement d'Applications Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>Our team designs a scalable architecture for your app, defining database structures, APIs, and backend workflows. We ensure the solution is secure, maintainable, and optimized for performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-                            <span>DÃ©veloppement Roadmap</span>
+                            <span>Développement Roadmap</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-3">
                             <p>We create a clear roadmap with milestones, sprints, and timelines. This keeps you informed throughout the development cycle and ensures alignment with your business objectives.</p>
@@ -1992,15 +1992,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-content js-switch-copy"></div>
                 </div>
 
-                <!-- DÃ©veloppement -->
+                <!-- Développement -->
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">DÃ©veloppement d'Applications</div>
+                    <div class="nlist-caption">Développement d'Applications</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
                             <span>Backend & API</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
-                            <p>Our developers build robust backends and APIs to power your appâ€™s functionality, ensuring security, scalability, and smooth performance.</p>
+                            <p>Our developers build robust backends and APIs to power your app's functionality, ensuring security, scalability, and smooth performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
                             <span>Frontend & Mobile</span>
@@ -2061,7 +2061,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">DÃ©veloppement d'Applications</span> is the perfect blend of technical expertise and user-focused design. RÃ©alisations with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Développement d'Applications</span> is the perfect blend of technical expertise and user-focused design. Réalisations with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2072,7 +2072,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite DÃ©veloppement d'Applications Services</h2>
+                    <h2>Aenfinite Développement d'Applications Services</h2>
                 </div>
             </div>
             <div class="service-grid">
@@ -2080,7 +2080,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="service-list js-service-container fadein js-aos">
 
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom DÃ©veloppement d'Applications</div>
+                            <div class="service-caption js-service-caption">Custom Développement d'Applications</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2096,7 +2096,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="service-text">
                                     <p>We build robust, scalable, and high-performance mobile and web applications tailored to your business goals and user needs.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our custom dÃ©veloppement d'applications process includes:</strong></p>
+                                        <p><strong>Our custom développement d'applications process includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
                                             <li>Requirement gathering and solution architecture</li>
                                             <li>Custom API and database design</li>
@@ -2231,7 +2231,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Vous Avez un Projet en TÃªte ? Construisons Quelque Chose de Formidable Ensemble.</span>
+								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2244,7 +2244,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2256,7 +2256,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Conception Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../app-development/">DÃ©veloppement d'Applications</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../app-development/">Développement d'Applications</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Image de Marque</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Design d'Emballage</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Image de Marque</a></li>
@@ -2332,7 +2332,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2348,14 +2348,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2593,8 +2593,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2728,7 +2728,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2742,7 +2744,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [
@@ -2755,8 +2757,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/app-development/#webpage",
       "url": "https://aenfinite.com/services/app-development/",
-      "name": "DÃ©veloppement d'Applications Services | Mobile & Web Application Experts | Aenfinite",
-      "description": "Aenfinite provides professional dÃ©veloppement d'applications services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
+      "name": "Développement d'Applications Services | Mobile & Web Application Experts | Aenfinite",
+      "description": "Aenfinite provides professional développement d'applications services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
       "inLanguage":"fr-FR",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
@@ -2764,19 +2766,19 @@ export default function Page() {
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
           { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "DÃ©veloppement d'Applications", "item": "https://aenfinite.com/services/app-development/" }
+          { "@type": "ListItem", "position": 3, "name": "Développement d'Applications", "item": "https://aenfinite.com/services/app-development/" }
         ]
       }
     },
     {
       "@type": "Service",
-      "serviceType": "DÃ©veloppement d'Applications",
+      "serviceType": "Développement d'Applications",
       "provider": { "@id": "https://aenfinite.com/#organization" },
       "areaServed": {
         "@type": "Place",
         "name": "Denver, Colorado"
       },
-      "description": "Custom mobile and web dÃ©veloppement d'applications, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
+      "description": "Custom mobile and web développement d'applications, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
     }
   ]
 }` }}
@@ -2858,7 +2860,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "DÃ©veloppement d'Applications Services",
+      "name": "Développement d'Applications Services",
       "item": "https://aenfinite.com/services/app-development/"
     }
   ]

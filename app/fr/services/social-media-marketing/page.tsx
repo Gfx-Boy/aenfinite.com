@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Marketing sur les RÃ©seaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite",
-  description: "Boost your brand with Aenfiniteâ€™s expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
+  title: "Marketing sur les Réseaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite",
+  description: "Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
   keywords: "social media marketing, Instagram marketing, Facebook marketing, TikTok marketing, LinkedIn marketing, social media management, community management, social strategy, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/social-media-marketing/", languages: {"x-default":"https://aenfinite.com/services/social-media-marketing/","en":"https://aenfinite.com/services/social-media-marketing/","es":"https://aenfinite.com/es/services/social-media-marketing/","fr":"https://aenfinite.com/fr/services/social-media-marketing/","de":"https://aenfinite.com/de/services/social-media-marketing/","it":"https://aenfinite.com/it/services/social-media-marketing/","ar":"https://aenfinite.com/ar/services/social-media-marketing/","pt":"https://aenfinite.com/pt/services/social-media-marketing/","zh":"https://aenfinite.com/zh/services/social-media-marketing/","hi":"https://aenfinite.com/hi/services/social-media-marketing/","nl":"https://aenfinite.com/nl/services/social-media-marketing/","ja":"https://aenfinite.com/ja/services/social-media-marketing/","ko":"https://aenfinite.com/ko/services/social-media-marketing/"} },
-  openGraph: {"title":"Marketing sur les RÃ©seaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Boost your brand with Aenfiniteâ€™s expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/fr/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Marketing sur les RÃ©seaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Aenfinite delivers social media marketing services that grow your online presence on Instagram, Facebook, and TikTok through creative content, paid ads, and strategy.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Marketing sur les Réseaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/fr/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Marketing sur les Réseaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Aenfinite delivers social media marketing services that grow your online presence on Instagram, Facebook, and TikTok through creative content, paid ads, and strategy.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,7 +1353,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert Marketing sur les RÃ©seaux Sociaux Services</span>
+    <span class="marquee-line_text">Expert Marketing sur les Réseaux Sociaux Services</span>
     <span class="marquee-line_text">Instagram, Facebook, TikTok & LinkedIn Marketing</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
     <span class="marquee-line_text">Specialists in Engagement Growth & Community Building</span>
@@ -1428,7 +1428,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="inner-wrapper"> 					
         <div class="section-caption js-aos"> 						
           <div class="section-caption_text"> 							
-            <h2>Marketing sur les RÃ©seaux Sociaux Expertise</h2> 						
+            <h2>Marketing sur les Réseaux Sociaux Expertise</h2> 						
           </div> 					
         </div> 					
         <div class="textbox textbox__push js-aos appear"> 						
@@ -1442,7 +1442,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">Social Strategy DÃ©veloppement</div> 						
+        <div class="pane-title">Social Strategy Développement</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Build a winning foundation with a tailored social media strategy. We analyze your brand, competitors, and audience to create platform-specific plans that drive growth and engagement.
@@ -1539,7 +1539,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Your Next Agence for your Marketing sur les RÃ©seaux Sociaux(SMM)</h2>
+				<h2>Contact Your Next Agence for your Marketing sur les Réseaux Sociaux(SMM)</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1560,13 +1560,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-<strong>Je suis intÃ©ressÃ© par...</strong>
+<strong>Je suis intéressé par...</strong>
 <span class="form-control-wrap" data-name="checkbox-select">
   <span class="form-control checkbox-group" style="padding-bottom: 50px">
 
     <span class="list-item first">
-      <input type="checkbox" name="services" value="Social Media Strategy DÃ©veloppement" id="social-strategy" />
-      <label for="social-strategy" class="list-item-label">Social Media Strategy DÃ©veloppement</label>
+      <input type="checkbox" name="services" value="Social Media Strategy Développement" id="social-strategy" />
+      <label for="social-strategy" class="list-item-label">Social Media Strategy Développement</label>
     </span>
 
     <span class="list-item">
@@ -1669,7 +1669,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="inner-wrapper"> 					
         <div class="section-caption js-aos"> 						
           <div class="section-caption_text"> 							
-            <h2>Marketing sur les RÃ©seaux Sociaux Expertise</h2> 						
+            <h2>Marketing sur les Réseaux Sociaux Expertise</h2> 						
           </div> 					
         </div> 					
         <div class="textbox textbox__push js-aos appear"> 						
@@ -1683,7 +1683,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">Social Strategy DÃ©veloppement</div> 						
+        <div class="pane-title">Social Strategy Développement</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Build a winning foundation with a tailored social media strategy. We analyze your brand, competitors, and audience to create platform-specific plans that drive growth and engagement.
@@ -1781,7 +1781,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="citebox-content js-karaoke-content">
 					<span>
 <span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">
-Marketing sur les RÃ©seaux Sociaux
+Marketing sur les Réseaux Sociaux
 </span>
 is the key to building brand awareness, driving engagement, and creating meaningful connections with your audience. Partner with a team that excels at crafting impactful campaigns, producing engaging content, and delivering measurable results across every platform.
 				</div>
@@ -1795,7 +1795,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Marketing sur les RÃ©seaux Sociaux (SMM) Services</h2>
+					<h2>Aenfinite Marketing sur les Réseaux Sociaux (SMM) Services</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1860,7 +1860,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 											<li>Cross-platform consistency (FB, IG, LinkedIn, X)</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We ensure your brand voice remains strong and unified while adapting content for each platformâ€™s unique audience.
+											We ensure your brand voice remains strong and unified while adapting content for each platform's unique audience.
 										</p>
 									</div>
 								</div>
@@ -1956,7 +1956,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1969,7 +1969,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2057,7 +2057,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2073,14 +2073,14 @@ is the key to building brand awareness, driving engagement, and creating meaning
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2318,8 +2318,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2455,7 +2455,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2469,7 +2471,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2481,8 +2483,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Marketing sur les RÃ©seaux Sociaux Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Marketing sur les Réseaux Sociaux Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2492,14 +2494,14 @@ export default function Page() {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
         { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/social-media-marketing/", "name": "Marketing sur les RÃ©seaux Sociaux" } }
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/social-media-marketing/", "name": "Marketing sur les Réseaux Sociaux" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/social-media-marketing/#webpage",
       "url": "https://aenfinite.com/services/social-media-marketing/",
-      "name": "Marketing sur les RÃ©seaux Sociaux Services | Instagram, Facebook & TikTok Experts | AenfiniteÂ®",
+      "name": "Marketing sur les Réseaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2510,9 +2512,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/social-media-marketing/#richSnippet",
-      "headline": "Marketing sur les RÃ©seaux Sociaux Services | Instagram, Facebook & TikTok Experts | AenfiniteÂ®",
-      "description": "AenfiniteÂ® delivers expert social media marketing services including Instagram marketing, Facebook advertising, TikTok growth strategies, and community management to increase brand visibility and conversions.",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "headline": "Marketing sur les Réseaux Sociaux Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
+      "description": "Aenfinite® delivers expert social media marketing services including Instagram marketing, Facebook advertising, TikTok growth strategies, and community management to increase brand visibility and conversions.",
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2602,7 +2604,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Marketing sur les RÃ©seaux Sociaux Services",
+      "name": "Marketing sur les Réseaux Sociaux Services",
       "item": "https://aenfinite.com/services/social-media-marketing/"
     }
   ]

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® â€“ Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions",
-  description: "AenfiniteÂ® is a global agence digitale based in Colorado, offering Conception Web, UI/UX, Image de Marque, SEO, Marketing Digital, Automatisation Commerciale, and AI-powered solutions for modern brands worldwide.",
+  title: "Aenfinite® – Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions",
+  description: "Aenfinite® is a global agence digitale based in Colorado, offering Conception Web, UI/UX, Image de Marque, SEO, Marketing Digital, Automatisation Commerciale, and AI-powered solutions for modern brands worldwide.",
   keywords: "agence digitale, web design, branding, SEO, AI solutions, digital marketing, business automation, design UI UX, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"AenfiniteÂ® â€“ Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions","description":"AenfiniteÂ® delivers world-class Conception Web, Image de Marque, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/fr/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® â€“ Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions","description":"AenfiniteÂ® is a creative agence digitale offering Conception Web, Image de Marque, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions","description":"Aenfinite® delivers world-class Conception Web, Image de Marque, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/fr/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions","description":"Aenfinite® is a creative agence digitale offering Conception Web, Image de Marque, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -528,7 +528,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</a>
 							</div>
 							<div class="desktop">
-								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/fr/featured-work/">RÃ©alisations</a></li>
+								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">Services</a></li>
 
@@ -606,15 +606,15 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Image de Marque et CrÃ©ation de Logo -->
+      <!-- Image de Marque et Création de Logo -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Image de Marque et CrÃ©ation de Logo</span>
+          <span class="service-name">Image de Marque et Création de Logo</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/fr/services/branding/">IdentitÃ© Corporate</a></div>
+              <div class="chip"><a href="/fr/services/branding/">Identité Corporate</a></div>
               <div class="chip"><a href="/fr/services/logo-design/">Logo Creation</a></div>
               <div class="chip"><a href="/fr/services/branding/">Re-Image de Marque</a></div>
               <div class="chip"><a href="/fr/services/conference-branding/">Charte Graphique</a></div>
@@ -638,8 +638,8 @@ from &nbsp;the&nbsp;Mile-High City</h1>
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/fr/services/search-engine-optimization/">Optimisation SEO</a></div>
-              <div class="chip"><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></div>
-              <div class="chip"><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></div>
+              <div class="chip"><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></div>
+              <div class="chip"><a href="/fr/services/paid-ads/">Publicité Payante</a></div>
               <div class="chip"><a href="/fr/services/pay-per-click/">PPC Advertising</a></div>
             </div>
           </div>
@@ -683,7 +683,7 @@ from &nbsp;the&nbsp;Mile-High City</h1>
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/fr/services/e-commerce-websites/">Custom Themes</a></div>
-              <div class="chip"><a href="/fr/services/e-commerce-websites/">DÃ©veloppement de Plugins</a></div>
+              <div class="chip"><a href="/fr/services/e-commerce-websites/">Développement de Plugins</a></div>
               <div class="chip"><a href="/fr/services/e-commerce-websites/">CMS Setup</a></div>
             </div>
           </div>
@@ -696,10 +696,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- DÃ©veloppement d'Applications -->
+      <!-- Développement d'Applications -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">DÃ©veloppement d'Applications</span>
+          <span class="service-name">Développement d'Applications</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -728,7 +728,7 @@ from &nbsp;the&nbsp;Mile-High City</h1>
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/fr/services/graphic-design/">Social Media Graphismes</a></div>
-              <div class="chip"><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></div>
+              <div class="chip"><a href="/fr/services/logo-design/">Création de Logo</a></div>
               <div class="chip"><a href="/fr/services/graphic-design/">Print Materials</a></div>
               <div class="chip"><a href="/fr/services/graphic-design/">Pitch Decks</a></div>
             </div>
@@ -764,10 +764,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- DÃ©veloppement Sur Mesure -->
+      <!-- Développement Sur Mesure -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">DÃ©veloppement Sur Mesure</span>
+          <span class="service-name">Développement Sur Mesure</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -813,17 +813,17 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 IdentitÃ© de Marque" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Identité de Marque" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 â€“ IdentitÃ© de Marque & Logo Collection</div>
+                <div class="card-name">CycleThe6 – Identité de Marque & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>IdentitÃ© de Marque</li>
-                        <li>CrÃ©ation de Logo</li>
+                        <li>Identité de Marque</li>
+                        <li>Création de Logo</li>
                         <li>Image de Marque Sportif</li>
                     </ul>
                 </div>
@@ -843,12 +843,12 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume â€“ Luxury Fragrance Image de Marque</div>
+                <div class="card-name">Muskfume – Luxury Fragrance Image de Marque</div>
                 <div class="card-tags">
                     <ul>
                         <li>Image de Marque de Luxe</li>
-                        <li>BeautÃ© et CosmÃ©tiques</li>
-                        <li>IdentitÃ© Parfum</li>
+                        <li>Beauté et Cosmétiques</li>
+                        <li>Identité Parfum</li>
                     </ul>
                 </div>
             </div>
@@ -867,11 +867,11 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil â€“ AI Trading Platform & Technology Innovation</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology Innovation</div>
                 <div class="card-tags">
                     <ul>
                         <li>Plateforme IA</li>
-                        <li>DÃ©veloppement Web</li>
+                        <li>Développement Web</li>
                         <li>Image de Marque Tech</li>
                     </ul>
                 </div>
@@ -891,11 +891,11 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Blue Vine Marketing â€“ Professional Business Platform</div>
+                <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
                         <li>Plateforme Marketing</li>
-                        <li>DÃ©veloppement Commercial</li>
+                        <li>Développement Commercial</li>
                         <li>Image de Marque Professionnel</li>
                     </ul>
                 </div>
@@ -915,12 +915,12 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">HusnOhaya â€“ E-commerce Platform & Shopping Solution</div>
+                <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
-                        <li>DÃ©veloppement E-commerce</li>
+                        <li>Développement E-commerce</li>
                         <li>Plateforme d'Achat</li>
-                        <li>ExpÃ©rience Utilisateur</li>
+                        <li>Expérience Utilisateur</li>
                     </ul>
                 </div>
             </div>
@@ -939,12 +939,12 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros â€“ Solutions Algorithmiques & Image de Marque Tech</div>
+                <div class="card-name">AlgoPros – Solutions Algorithmiques & Image de Marque Tech</div>
                 <div class="card-tags">
                     <ul>
                         <li>Image de Marque Tech</li>
                         <li>Solutions Algorithmiques</li>
-                        <li>IdentitÃ© de Startup</li>
+                        <li>Identité de Startup</li>
                     </ul>
                 </div>
             </div>
@@ -963,12 +963,12 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AfroPop â€“ Collaboration Platform & Social Network</div>
+                <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
                         <li>Plateforme Sociale</li>
                         <li>Outils de Collaboration</li>
-                        <li>Image de Marque CrÃ©atif</li>
+                        <li>Image de Marque Créatif</li>
                     </ul>
                 </div>
             </div>
@@ -987,11 +987,11 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech â€“ Plateforme Marketing & SaaS Solution</div>
+                <div class="card-name">KhaTech – Plateforme Marketing & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
-                        <li>DÃ©veloppement de Plateformes</li>
+                        <li>Développement de Plateformes</li>
                         <li>B2B Image de Marque</li>
                     </ul>
                 </div>
@@ -1011,10 +1011,10 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI â€“ Compliance Services & IdentitÃ© Corporate</div>
+                <div class="card-name">AM-KI – Compliance Services & Identité Corporate</div>
                 <div class="card-tags">
                     <ul>
-                        <li>IdentitÃ© Corporate</li>
+                        <li>Identité Corporate</li>
                         <li>Professional Services</li>
                         <li>Business Image de Marque</li>
                     </ul>
@@ -1029,16 +1029,16 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Image de Marque CrÃ©atif" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Image de Marque Créatif" loading="lazy" decoding="async" />
                 <span>Voir le projet</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick â€“ Image de Marque CrÃ©atif & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – Image de Marque Créatif & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Image de Marque CrÃ©atif</li>
+                        <li>Image de Marque Créatif</li>
                         <li>Artistic Design</li>
                         <li>Brand Excellence</li>
                     </ul>
@@ -1235,13 +1235,13 @@ with clients																											</div>
         <li class="menu-item"><a href="../services/custom-web-development/">Conception Web Sur Mesure</a></li>
         <li class="menu-item"><a href="../services/e-commerce-websites/">Sites E-Commerce</a></li>
         <li class="menu-item"><a href="../services/wordpress-websites/">Sites WordPress</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">DÃ©veloppement Sur Mesure</a></li>
+        <li class="menu-item"><a href="../services/custom-development/">Développement Sur Mesure</a></li>
         <li class="menu-item"><a href="../services/ui-ux-design/">Design UI/UX</a></li>
-        <li class="menu-item"><a href="../services/branding/">Image de Marque &amp; CrÃ©ation de Logo</a></li>
+        <li class="menu-item"><a href="../services/branding/">Image de Marque &amp; Création de Logo</a></li>
         <li class="menu-item"><a href="../services/graphic-design/">Design Graphique</a></li>
         <li class="menu-item"><a href="../services/packaging-design/">Design d'Emballage</a></li>
         <li class="menu-item"><a href="../services/digital-marketing/">Marketing Digital</a></li>
-        <li class="menu-item"><a href="../services/app-development/">DÃ©veloppement d'Applications</a></li>
+        <li class="menu-item"><a href="../services/app-development/">Développement d'Applications</a></li>
     </ul>
 </div>
 
@@ -1699,7 +1699,9 @@ var currentdate = new Date();
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 	<!-- Email Subscription Form Handler -->
 	<script src="/darkmode/email-subscription.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1713,7 +1715,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
@@ -1726,7 +1728,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -1734,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® â€“ Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions",
-      "description": "AenfiniteÂ® is a global agence digitale offering creative Conception Web, UI/UX, Image de Marque, SEO, Marketing Digital, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital Agence for Conception Web, Image de Marque, SEO & AI Solutions",
+      "description": "Aenfinite® is a global agence digitale offering creative Conception Web, UI/UX, Image de Marque, SEO, Marketing Digital, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"fr-FR",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

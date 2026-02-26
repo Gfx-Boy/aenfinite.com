@@ -5,7 +5,7 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Aenfinite Programa de Referencias | Earn Rewards by Referring Clients",
-  description: "Join the Aenfinite Programa de Referencias â€” earn rewards for referring clients to our creative agencia digital. Help businesses connect with top-tier design, branding, and web development solutions from Denverâ€™s Aenfinite.",
+  description: "Join the Aenfinite Programa de Referencias — earn rewards for referring clients to our creative agencia digital. Help businesses connect with top-tier design, branding, and web development solutions from Denver's Aenfinite.",
   keywords: "referral program, refer clients, earn rewards, agency referral, client referral program, Aenfinite referral",
   alternates: { canonical: "https://aenfinite.com/es/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/referral-program/","en":"https://aenfinite.com/agency/partner-with-us/referral-program/","es":"https://aenfinite.com/es/agency/partner-with-us/referral-program/","fr":"https://aenfinite.com/fr/agency/partner-with-us/referral-program/","de":"https://aenfinite.com/de/agency/partner-with-us/referral-program/","it":"https://aenfinite.com/it/agency/partner-with-us/referral-program/","ar":"https://aenfinite.com/ar/agency/partner-with-us/referral-program/","pt":"https://aenfinite.com/pt/agency/partner-with-us/referral-program/","zh":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","hi":"https://aenfinite.com/hi/agency/partner-with-us/referral-program/","nl":"https://aenfinite.com/nl/agency/partner-with-us/referral-program/","ja":"https://aenfinite.com/ja/agency/partner-with-us/referral-program/","ko":"https://aenfinite.com/ko/agency/partner-with-us/referral-program/"} },
   openGraph: {"title":"Aenfinite Programa de Referencias | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.com/es/agency/partner-with-us/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -838,7 +838,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">196.25.124.178</div>
-			<div class="url">AsÃ³ciate con nosotros</div>
+			<div class="url">Asóciate con nosotros</div>
 			<div class="urlback">https://aenfinite.com/services/web-design/</div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">9-55 am</div>
@@ -871,18 +871,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>                                      </ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Servicios de DiseÃ±o y Creatividad </a>
+                                        <a href="#">Servicios de Diseño y Creatividad </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+                                            <li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 
                                             <li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-                                            <li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+                                            <li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
                                             
-                                            <li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+                                            <li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
                                             <li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
                                         </ul>
                                     </li>
@@ -890,21 +890,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <a href="#">Soluciones de Marketing y Digitales </a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-                                            <li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+                                            <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
                                             <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li>
                                             <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluciones de IA y TecnologÃ­a </a>
+                                        <a href="#">Soluciones de IA y Tecnología </a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -1023,7 +1023,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">Contacto</a>
@@ -1035,7 +1035,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1098,17 +1098,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">Agencia Innovadora de DiseÃ±o y Desarrollo</span>
+    <span class="marquee-line_text">Agencia Innovadora de Diseño y Desarrollo</span>
     <span class="marquee-line_text">Sitios Web, Apps y Experiencias de Marca Personalizadas</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
     <span class="marquee-line_text">Expertos en UI/UX, SEO y Marketing de Crecimiento</span>
     <span class="marquee-line_text">Confianza de Startups y Empresas Globales</span>
     <span class="marquee-line_text">Skilled Team  React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Proceso de Desarrollo Ãgil y Basado en Datos</span>
-    <span class="marquee-line_text">Agencia Global con RaÃ­ces del Sudeste AsiÃ¡tico</span>
+    <span class="marquee-line_text">Agencia Global con Raíces del Sudeste Asiático</span>
     <span class="marquee-line_text">Potenciando Negocios con Soluciones Escalables</span>
     <span class="marquee-line_text">Estrategias a la Medida para Cada Industria</span>
-    <span class="marquee-line_text">Expertos en Desarrollo Web, MÃ³vil y SaaS</span>
+    <span class="marquee-line_text">Expertos en Desarrollo Web, Móvil y SaaS</span>
     <span class="marquee-line_text">Soluciones de Marketing Digital Orientadas a Resultados</span>
 </div>
 									</div>
@@ -1233,7 +1233,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<li>Simple, transparent, and value-driven program</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Interested in becoming a referral partner? EnvÃ­anos un correo at 
+			<p>Interested in becoming a referral partner? Envíanos un correo at 
 				<a href="mailto:partners@aenfinite.com" target="_blank" rel="noopener">partners@aenfinite.com</a> 
 				to get started today.</p>
 		</div>
@@ -1409,11 +1409,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/es/services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">DiseÃ±o de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">Diseño Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1422,13 +1422,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Asóciate con nosotros</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contacto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">DirecciÃ³n</div>
+									<div class="footer-col_caption">Dirección</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1489,7 +1489,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -1497,13 +1497,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1742,7 +1742,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -1814,7 +1814,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1827,7 +1829,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.com/referral-program/",
   "name": "Aenfinite Programa de Referencias | Earn Rewards by Referring Clients",
-  "description": "Aenfiniteâ€™s referral program rewards individuals and partners who refer clients for our creative agencia digital services in design, branding, and web development.",
+  "description": "Aenfinite's referral program rewards individuals and partners who refer clients for our creative agencia digital services in design, branding, and web development.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",
@@ -1846,7 +1848,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite Programa de Referencias",
     "category": "Referral and Partnership",
-    "description": "Earn rewards and commissions for referring new clients to Aenfiniteâ€™s creative digital services.",
+    "description": "Earn rewards and commissions for referring new clients to Aenfinite's creative digital services.",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite",
@@ -1881,7 +1883,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "AsÃ³ciate con Nosotros",
+      "name": "Asóciate con Nosotros",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {

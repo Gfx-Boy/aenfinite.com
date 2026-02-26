@@ -5,7 +5,7 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Aenfinite Empfehlungsprogramm | Earn Rewards by Referring Clients",
-  description: "Join the Aenfinite Empfehlungsprogramm â€” earn rewards for referring clients to our creative Digitalagentur. Help businesses connect with top-tier design, branding, and web development solutions from Denverâ€™s Aenfinite.",
+  description: "Join the Aenfinite Empfehlungsprogramm — earn rewards for referring clients to our creative Digitalagentur. Help businesses connect with top-tier design, branding, and web development solutions from Denver's Aenfinite.",
   keywords: "referral program, refer clients, earn rewards, agency referral, client referral program, Aenfinite referral",
   alternates: { canonical: "https://aenfinite.com/de/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/referral-program/","en":"https://aenfinite.com/agency/partner-with-us/referral-program/","es":"https://aenfinite.com/es/agency/partner-with-us/referral-program/","fr":"https://aenfinite.com/fr/agency/partner-with-us/referral-program/","de":"https://aenfinite.com/de/agency/partner-with-us/referral-program/","it":"https://aenfinite.com/it/agency/partner-with-us/referral-program/","ar":"https://aenfinite.com/ar/agency/partner-with-us/referral-program/","pt":"https://aenfinite.com/pt/agency/partner-with-us/referral-program/","zh":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","hi":"https://aenfinite.com/hi/agency/partner-with-us/referral-program/","nl":"https://aenfinite.com/nl/agency/partner-with-us/referral-program/","ja":"https://aenfinite.com/ja/agency/partner-with-us/referral-program/","ko":"https://aenfinite.com/ko/agency/partner-with-us/referral-program/"} },
   openGraph: {"title":"Aenfinite Empfehlungsprogramm | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.com/de/agency/partner-with-us/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -864,7 +864,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">EntwicklungslÃ¶sungen </a>
+                                        <a href="#">Entwicklungslösungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
 <li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
@@ -872,14 +872,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>                                      </ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Design- und Kreativdienstleistungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
 
-                                            <li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+                                            <li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
                                             <li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
                                             
                                             <li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -887,7 +887,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- und Digitale LÃ¶sungen </a>
+                                        <a href="#">Marketing- und Digitale Lösungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -897,10 +897,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">KI- und TechnologielÃ¶sungen </a>
+                                        <a href="#">KI- und Technologielösungen </a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1035,7 +1035,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1101,15 +1101,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Innovative Design- und Entwicklungsagentur</span>
     <span class="marquee-line_text">Individuelle Websites, Apps und Markenerlebnisse</span>
     <span class="marquee-line_text">Kunden in den USA, Kanada und weltweit</span>
-    <span class="marquee-line_text">Experten fÃ¼r UI/UX, SEO und Wachstumsmarketing</span>
+    <span class="marquee-line_text">Experten für UI/UX, SEO und Wachstumsmarketing</span>
     <span class="marquee-line_text">Vertraut von Startups und globalen Unternehmen</span>
     <span class="marquee-line_text">Skilled Team  React, WordPress, Firebase, Figma</span>
-    <span class="marquee-line_text">Agiler und datengestÃ¼tzter Entwicklungsprozess</span>
-    <span class="marquee-line_text">Globale Agentur mit sÃ¼dostasiatischen Wurzeln</span>
-    <span class="marquee-line_text">Unternehmen stÃ¤rken mit skalierbaren LÃ¶sungen</span>
-    <span class="marquee-line_text">MaÃŸgeschneiderte Strategien fÃ¼r jede Branche</span>
-    <span class="marquee-line_text">Experten fÃ¼r Web-, Mobil- und SaaS-Entwicklung</span>
-    <span class="marquee-line_text">Ergebnisorientierte Digitale MarketinglÃ¶sungen</span>
+    <span class="marquee-line_text">Agiler und datengestützter Entwicklungsprozess</span>
+    <span class="marquee-line_text">Globale Agentur mit südostasiatischen Wurzeln</span>
+    <span class="marquee-line_text">Unternehmen stärken mit skalierbaren Lösungen</span>
+    <span class="marquee-line_text">Maßgeschneiderte Strategien für jede Branche</span>
+    <span class="marquee-line_text">Experten für Web-, Mobil- und SaaS-Entwicklung</span>
+    <span class="marquee-line_text">Ergebnisorientierte Digitale Marketinglösungen</span>
 </div>
 									</div>
 			</div>
@@ -1503,7 +1503,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1742,7 +1742,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -1814,7 +1814,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1827,7 +1829,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.com/referral-program/",
   "name": "Aenfinite Empfehlungsprogramm | Earn Rewards by Referring Clients",
-  "description": "Aenfiniteâ€™s referral program rewards individuals and partners who refer clients for our creative Digitalagentur services in design, branding, and web development.",
+  "description": "Aenfinite's referral program rewards individuals and partners who refer clients for our creative Digitalagentur services in design, branding, and web development.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",
@@ -1846,7 +1848,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite Empfehlungsprogramm",
     "category": "Referral and Partnership",
-    "description": "Earn rewards and commissions for referring new clients to Aenfiniteâ€™s creative digital services.",
+    "description": "Earn rewards and commissions for referring new clients to Aenfinite's creative digital services.",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite",

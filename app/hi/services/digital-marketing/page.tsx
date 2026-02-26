@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
+  title: "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | Aenfinite®",
+  description: "Aenfinite® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
   keywords: "digital marketing, social media marketing, content marketing, email marketing, online marketing, digital advertising, brand management, marketing strategy, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/digital-marketing/", languages: {"x-default":"https://aenfinite.com/services/digital-marketing/","en":"https://aenfinite.com/services/digital-marketing/","es":"https://aenfinite.com/es/services/digital-marketing/","fr":"https://aenfinite.com/fr/services/digital-marketing/","de":"https://aenfinite.com/de/services/digital-marketing/","it":"https://aenfinite.com/it/services/digital-marketing/","ar":"https://aenfinite.com/ar/services/digital-marketing/","pt":"https://aenfinite.com/pt/services/digital-marketing/","zh":"https://aenfinite.com/zh/services/digital-marketing/","hi":"https://aenfinite.com/hi/services/digital-marketing/","nl":"https://aenfinite.com/nl/services/digital-marketing/","ja":"https://aenfinite.com/ja/services/digital-marketing/","ko":"https://aenfinite.com/ko/services/digital-marketing/"} },
-  openGraph: {"title":"Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | AenfiniteÂ®","description":"AenfiniteÂ® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.com/hi/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | AenfiniteÂ®","description":"AenfiniteÂ® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | Aenfinite®","description":"Aenfinite® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.com/hi/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | Aenfinite®","description":"Aenfinite® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1785,7 +1785,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2293,7 +2293,9 @@ document.addEventListener('keydown', function(event) {
 	
 	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2307,7 +2309,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2319,8 +2321,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - SEO & à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - SEO & à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2330,7 +2332,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Brand - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "caption": "Aenfinite® Brand - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
       "inLanguage":"hi-IN"
     },
     {
@@ -2346,7 +2348,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/digital-marketing/#webpage",
       "url": "https://aenfinite.com/services/digital-marketing/",
-      "name": "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | AenfiniteÂ®",
+      "name": "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2356,13 +2358,13 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | AenfiniteÂ®",
+      "headline": "Expert à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Social Media, Content & à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— | Aenfinite®",
       "keywords": "à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, Social Media, à¤ˆà¤®à¥‡à¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, Content Strategy, Online à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, Marketing à¤à¤œà¥‡à¤‚à¤¸à¥€",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers expert digital marketing solutions â€” from social media management and content marketing to email automation and branding strategies designed for growth.",
+      "description": "Aenfinite® delivers expert digital marketing solutions — from social media management and content marketing to email automation and branding strategies designed for growth.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"hi-IN",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/digital-marketing/#webpage" }

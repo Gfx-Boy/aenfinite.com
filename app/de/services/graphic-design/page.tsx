@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | AenfiniteÂ®",
+  title: "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | Aenfinite®",
   description: "Aenfinite is a professional graphic design agency specializing in print design, digital graphics, brand collateral, and visual communication. We create designs that strengthen brand identity, engage audiences, and drive business growth.",
   keywords: "graphic design, print design, visual communication, brand collateral, marketing materials, infographic design, flyer design, poster design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/graphic-design/", languages: {"x-default":"https://aenfinite.com/services/graphic-design/","en":"https://aenfinite.com/services/graphic-design/","es":"https://aenfinite.com/es/services/graphic-design/","fr":"https://aenfinite.com/fr/services/graphic-design/","de":"https://aenfinite.com/de/services/graphic-design/","it":"https://aenfinite.com/it/services/graphic-design/","ar":"https://aenfinite.com/ar/services/graphic-design/","pt":"https://aenfinite.com/pt/services/graphic-design/","zh":"https://aenfinite.com/zh/services/graphic-design/","hi":"https://aenfinite.com/hi/services/graphic-design/","nl":"https://aenfinite.com/nl/services/graphic-design/","ja":"https://aenfinite.com/ja/services/graphic-design/","ko":"https://aenfinite.com/ko/services/graphic-design/"} },
-  openGraph: {"title":"Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | AenfiniteÂ®","description":"Aenfinite delivers creative graphic design solutions, including print design, brand visuals, and digital communication. We help brands stand out through design excellence.","url":"https://aenfinite.com/de/services/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | AenfiniteÂ®","description":"AenfiniteÂ® provides expert graphic design services, from print design and digital branding to full visual communication solutions.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | Aenfinite®","description":"Aenfinite delivers creative graphic design solutions, including print design, brand visuals, and digital communication. We help brands stand out through design excellence.","url":"https://aenfinite.com/de/services/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | Aenfinite®","description":"Aenfinite® provides expert graphic design services, from print design and digital branding to full visual communication solutions.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1114,7 +1114,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1123,13 +1123,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1137,7 +1137,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1151,10 +1151,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1289,7 +1289,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1359,7 +1359,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Professional Grafikdesign & Visual Communication Dienstleistungen</span>
     <span class="marquee-line_text">Druckdesign, Digitale Grafiken & Markenmaterialien Solutions</span>
     <span class="marquee-line_text">Kunden in den USA, Kanada und weltweit</span>
-    <span class="marquee-line_text">Specialists in Visuelle IdentitÃ¤t & Brand Communication</span>
+    <span class="marquee-line_text">Specialists in Visuelle Identität & Brand Communication</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Grafikdesign Solutions</span>
     <span class="marquee-line_text">High-Impact Grafikdesign & Visual Marketing</span>
     <span class="marquee-line_text">Professional Druckdesign & Digitale Grafiken Solutions</span>
@@ -1397,7 +1397,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/graphic-design/">
-										<img src="download (4).webp" alt="Kanchwala Professional Grafikdesign - Brand Visuelle IdentitÃ¤t System" class="cover" loading="lazy" decoding="async" />
+										<img src="download (4).webp" alt="Kanchwala Professional Grafikdesign - Brand Visuelle Identität System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1406,7 +1406,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">Kanchwala Markendesign</a></div>
 																																		<div class="preview-name">Grafikdesign</div>
-																							<div class="preview-name">MarkenidentitÃ¤t</div>
+																							<div class="preview-name">Markenidentität</div>
 																							<div class="preview-name">Visual Design</div>
 																							<div class="preview-name">Marketing Design</div>
 																					</div>
@@ -1439,7 +1439,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/graphic-design/">
-										<img src="wmremove-transformed (1).webp" alt="TBS Professional Grafikdesign - Corporate Visuelle IdentitÃ¤t System" class="cover" loading="lazy" decoding="async" />
+										<img src="wmremove-transformed (1).webp" alt="TBS Professional Grafikdesign - Corporate Visuelle Identität System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1590,7 +1590,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-10.avif" alt="Kanchwala Professional Grafikdesign - Brand Visuelle IdentitÃ¤t System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-10.avif" alt="Kanchwala Professional Grafikdesign - Brand Visuelle Identität System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
@@ -1598,7 +1598,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<a href="../../work/graphic-design/">Kanchwala Markendesign</a>
 										</div>
 																					<div class="preview-name">Grafikdesign</div>
-																					<div class="preview-name">MarkenidentitÃ¤t</div>
+																					<div class="preview-name">Markenidentität</div>
 																					<div class="preview-name">Visual Design</div>
 																					<div class="preview-name">Marketing Design</div>
 											
@@ -1626,7 +1626,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/TBS-10.avif" alt="TBS Professional Grafikdesign - Corporate Visuelle IdentitÃ¤t System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/TBS-10.avif" alt="TBS Professional Grafikdesign - Corporate Visuelle Identität System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
@@ -1721,7 +1721,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong>
+		<strong>Ich interessiere mich für...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
@@ -1729,8 +1729,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<label for="logo-design" class="list-item-label">Logodesign</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="MarkenidentitÃ¤t Design" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">MarkenidentitÃ¤t Design</label>
+					<input type="checkbox" name="services" value="Markenidentität Design" id="brand-identity" />
+					<label for="brand-identity" class="list-item-label">Markenidentität Design</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="UI/UX-Design" id="ui-ux-design" />
@@ -1756,7 +1756,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1766,7 +1766,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="select-option js-select-option">von 500 $ bis 5.000 $</div>
                             <div class="select-option js-select-option">von 5.000 $ bis 20.000 $</div>
                             <div class="select-option js-select-option">von 20.000 $ bis 50.000 $</div>
-                            <div class="select-option js-select-option">Ã¼ber 100.000 $</div>
+                            <div class="select-option js-select-option">über 100.000 $</div>
                         </div>
 		</div>
 	</div>
@@ -1854,7 +1854,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Client Brief</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We start by understanding your brandâ€™s vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
+							<p>We start by understanding your brand's vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
@@ -1887,7 +1887,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>Visuelle IdentitÃ¤t</span>
+							<span>Visuelle Identität</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>We define the color palette, typography, logo concepts, and brand guidelines  ensuring every design element reflects your unique identity and story.</p>
@@ -1997,12 +1997,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Logo & MarkenidentitÃ¤t</div>
+							<div class="service-caption js-service-caption">Logo & Markenidentität</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
 										<div class="chip"><a href="/de/contact/" class="chip-label">Logodesign</a></div>
-										<div class="chip"><a href="/de/contact/" class="chip-label">Visuelle IdentitÃ¤t</a></div>
+										<div class="chip"><a href="/de/contact/" class="chip-label">Visuelle Identität</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Markenrichtlinien</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Typography</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Color Palette</a></div>
@@ -2036,7 +2036,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/de/contact/" class="chip-label">BroschÃ¼ren</a></div>
+										<div class="chip"><a href="/de/contact/" class="chip-label">Broschüren</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Posters</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Flyers</a></div>
 										<div class="chip"><a href="/de/contact/" class="chip-label">Visitenkarten</a></div>
@@ -2114,7 +2114,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Our partnership doesnâ€™t end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
+									<p>Our partnership doesn't end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our design support includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2156,7 +2156,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam GroÃŸartiges schaffen.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2280,7 +2280,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2519,7 +2519,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2653,7 +2653,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2667,7 +2669,7 @@ export default function Page() {
       {
         "@type": "Organization",
         "@id": "https://aenfinite.com/#organization",
-        "name": "AenfiniteÂ®",
+        "name": "Aenfinite®",
         "url": "https://aenfinite.com",
         "sameAs": [
           "https://www.facebook.com/aenfinite/",
@@ -2679,7 +2681,7 @@ export default function Page() {
         "@type": "WebSite",
         "@id": "https://aenfinite.com/#website",
         "url": "https://aenfinite.com",
-        "name": "AenfiniteÂ® - Grafikdesign Agentur",
+        "name": "Aenfinite® - Grafikdesign Agentur",
         "publisher": { "@id": "https://aenfinite.com/#organization" },
         "inLanguage":"de-DE"
       },
@@ -2689,7 +2691,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® Brand Visual - Best Grafikdesign Agentur",
+        "caption": "Aenfinite® Brand Visual - Best Grafikdesign Agentur",
         "inLanguage":"de-DE"
       },
       {
@@ -2717,7 +2719,7 @@ export default function Page() {
         "@type": "WebPage",
         "@id": "https://aenfinite.com/services/graphic-design/#webpage",
         "url": "https://aenfinite.com/services/graphic-design/",
-        "name": "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | AenfiniteÂ®",
+        "name": "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | Aenfinite®",
         "datePublished": "2022-10-16T21:16:37-04:00",
         "dateModified": "2025-09-16T11:13:56-04:00",
         "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2728,12 +2730,12 @@ export default function Page() {
       {
         "@type": "Article",
         "@id": "https://aenfinite.com/services/graphic-design/#richSnippet",
-        "headline": "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | AenfiniteÂ®",
-        "keywords": "Grafikdesign, Druckdesign, Visual Communication, Markenmaterialien, Digital Design, Logodesign, Visuelle IdentitÃ¤t",
+        "headline": "Professional Grafikdesign Dienstleistungen | Druckdesign & Visual Communication | Aenfinite®",
+        "keywords": "Grafikdesign, Druckdesign, Visual Communication, Markenmaterialien, Digital Design, Logodesign, Visuelle Identität",
         "datePublished": "2022-10-16T21:16:37-04:00",
         "dateModified": "2025-09-16T11:13:56-04:00",
         "publisher": { "@id": "https://aenfinite.com/#organization" },
-        "description": "AenfiniteÂ® provides high-quality graphic design solutions, including print design, digital branding, and visual identity development for businesses and brands.",
+        "description": "Aenfinite® provides high-quality graphic design solutions, including print design, digital branding, and visual identity development for businesses and brands.",
         "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
         "inLanguage":"de-DE",
         "mainEntityOfPage": { "@id": "https://aenfinite.com/services/graphic-design/#webpage" }

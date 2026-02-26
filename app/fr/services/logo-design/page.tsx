@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional CrÃ©ation de Logo Services | Custom IdentitÃ© de Marque & Logo Creation | Aenfinite",
+  title: "Professional Création de Logo Services | Custom Identité de Marque & Logo Creation | Aenfinite",
   description: "Aenfinite is a creative agency specializing in professional logo design, custom brand identity, and visual identity systems. We craft distinctive logos that elevate brand recognition and drive long-term business success.",
   keywords: "logo design, custom logo, brand identity design, logo creation, wordmark logo, emblem logo, minimalist logo, professional logo design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/logo-design/", languages: {"x-default":"https://aenfinite.com/services/logo-design/","en":"https://aenfinite.com/services/logo-design/","es":"https://aenfinite.com/es/services/logo-design/","fr":"https://aenfinite.com/fr/services/logo-design/","de":"https://aenfinite.com/de/services/logo-design/","it":"https://aenfinite.com/it/services/logo-design/","ar":"https://aenfinite.com/ar/services/logo-design/","pt":"https://aenfinite.com/pt/services/logo-design/","zh":"https://aenfinite.com/zh/services/logo-design/","hi":"https://aenfinite.com/hi/services/logo-design/","nl":"https://aenfinite.com/nl/services/logo-design/","ja":"https://aenfinite.com/ja/services/logo-design/","ko":"https://aenfinite.com/ko/services/logo-design/"} },
-  openGraph: {"title":"Professional CrÃ©ation de Logo Services | Custom IdentitÃ© de Marque & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services â€” from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/fr/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional CrÃ©ation de Logo Services | Custom IdentitÃ© de Marque & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional Création de Logo Services | Custom Identité de Marque & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services — from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/fr/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Création de Logo Services | Custom Identité de Marque & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1105,7 +1105,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1114,35 +1114,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1289,7 +1289,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1318,7 +1318,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">CrÃ©ation de Logo</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
+						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Création de Logo</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
 											</h1>
 									</div>
 			</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional CrÃ©ation de Logo & IdentitÃ© de Marque Services</span>
-    <span class="marquee-line_text">Custom Logo Creation, Brand Marks & IdentitÃ© Visuelle Solutions</span>
+    <span class="marquee-line_text">Professional Création de Logo & Identité de Marque Services</span>
+    <span class="marquee-line_text">Custom Logo Creation, Brand Marks & Identité Visuelle Solutions</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
-    <span class="marquee-line_text">Specialists in CrÃ©ation de Logo & IdentitÃ© de Marque Creation</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for CrÃ©ation de Logo Solutions</span>
-    <span class="marquee-line_text">High-Impact CrÃ©ation de Logo & IdentitÃ© de Marque DÃ©veloppement</span>
-    <span class="marquee-line_text">Professional CrÃ©ation de Logo & Brand Mark Creation</span>
-    <span class="marquee-line_text">Professional CrÃ©ation de Logo Agence with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive IdentitÃ© de Marque & Logo Variations Support</span>
-    <span class="marquee-line_text">Custom CrÃ©ation de Logo Solutions for Every Industry</span>
-    <span class="marquee-line_text">Logo Optimization & IdentitÃ© de Marque Consistency</span>
-    <span class="marquee-line_text">Scalable CrÃ©ation de Logo & Long-term Brand Growth</span>
+    <span class="marquee-line_text">Specialists in Création de Logo & Identité de Marque Creation</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Création de Logo Solutions</span>
+    <span class="marquee-line_text">High-Impact Création de Logo & Identité de Marque Développement</span>
+    <span class="marquee-line_text">Professional Création de Logo & Brand Mark Creation</span>
+    <span class="marquee-line_text">Professional Création de Logo Agence with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Identité de Marque & Logo Variations Support</span>
+    <span class="marquee-line_text">Custom Création de Logo Solutions for Every Industry</span>
+    <span class="marquee-line_text">Logo Optimization & Identité de Marque Consistency</span>
+    <span class="marquee-line_text">Scalable Création de Logo & Long-term Brand Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1377,14 +1377,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo CrÃ©ation de Logo - Modern IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo Création de Logo - Modern Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="01">
-					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery CrÃ©ation de Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
-					<div class="preview-name">IdentitÃ© de Marque</div>
+					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery Création de Logo</a></div>
+					<div class="preview-name">Création de Logo</div>
+					<div class="preview-name">Identité de Marque</div>
 					<div class="preview-name">Alimentation et Boissons</div>
 					<div class="preview-name">Bakery Image de Marque</div>
 				</div>
@@ -1397,13 +1397,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 CrÃ©ation de Logo - Athletic IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 Création de Logo - Athletic Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="02">
 					<div class="preview-name preview-name__caption"><a href="#">CycleThe6 - Athletic Brand Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
+					<div class="preview-name">Création de Logo</div>
 					<div class="preview-name">Sports Image de Marque</div>
 					<div class="preview-name">Athletic Identity</div>
 					<div class="preview-name">Fitness Logo</div>
@@ -1417,14 +1417,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting CrÃ©ation de Logo - Corporate IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting Création de Logo - Corporate Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="03">
 					<div class="preview-name preview-name__caption"><a href="#">Dynamic Consulting - Corporate Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
-					<div class="preview-name">IdentitÃ© Corporate</div>
+					<div class="preview-name">Création de Logo</div>
+					<div class="preview-name">Identité Corporate</div>
 					<div class="preview-name">Business Consulting</div>
 					<div class="preview-name">Professional Services</div>
 				</div>
@@ -1437,14 +1437,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco CrÃ©ation de Logo - Creative IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco Création de Logo - Creative Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="04">
 					<div class="preview-name preview-name__caption"><a href="#">Muraaco - Creative Brand Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
-					<div class="preview-name">Image de Marque CrÃ©atif</div>
+					<div class="preview-name">Création de Logo</div>
+					<div class="preview-name">Image de Marque Créatif</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Abstract Design</div>
 				</div>
@@ -1457,16 +1457,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume CrÃ©ation de Logo - Fragrance IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume Création de Logo - Fragrance Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="05">
 					<div class="preview-name preview-name__caption"><a href="#">Muskfume - Fragrance Brand Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
-					<div class="preview-name">BeautÃ© et CosmÃ©tiques</div>
+					<div class="preview-name">Création de Logo</div>
+					<div class="preview-name">Beauté et Cosmétiques</div>
 					<div class="preview-name">Image de Marque de Luxe</div>
-					<div class="preview-name">IdentitÃ© Parfum</div>
+					<div class="preview-name">Identité Parfum</div>
 				</div>
 			</div>
 		</div>
@@ -1477,13 +1477,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit CrÃ©ation de Logo - Technology IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit Création de Logo - Technology Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="06">
 					<div class="preview-name preview-name__caption"><a href="#">Nexit - Technology Brand Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
+					<div class="preview-name">Création de Logo</div>
 					<div class="preview-name">Image de Marque Tech</div>
 					<div class="preview-name">Digital Identity</div>
 					<div class="preview-name">Startup Logo</div>
@@ -1497,13 +1497,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth CrÃ©ation de Logo - Event Image de Marque Identity" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth Création de Logo - Event Image de Marque Identity" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="07">
 					<div class="preview-name preview-name__caption"><a href="#">Booth - Event Image de Marque Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
+					<div class="preview-name">Création de Logo</div>
 					<div class="preview-name">Event Image de Marque</div>
 					<div class="preview-name">Exhibition Design</div>
 					<div class="preview-name">Salon Professionnel Identity</div>
@@ -1517,13 +1517,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../robophil/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil CrÃ©ation de Logo - Technology IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil Création de Logo - Technology Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="08">
 					<div class="preview-name preview-name__caption"><a href="../robophil/">Robophil - Robotics Technology Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
+					<div class="preview-name">Création de Logo</div>
 					<div class="preview-name">Technology Image de Marque</div>
 					<div class="preview-name">Robotics Identity</div>
 					<div class="preview-name">Innovation Logo</div>
@@ -1537,13 +1537,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../algopros/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros CrÃ©ation de Logo - Solutions Algorithmiques Brand" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Création de Logo - Solutions Algorithmiques Brand" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="09">
 					<div class="preview-name preview-name__caption"><a href="../algopros/">Algopros - Solutions Algorithmiques Brand</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
+					<div class="preview-name">Création de Logo</div>
 					<div class="preview-name">Tech Solutions</div>
 					<div class="preview-name">Algorithm Image de Marque</div>
 					<div class="preview-name">Software Identity</div>
@@ -1557,14 +1557,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../feiro/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro CrÃ©ation de Logo - Creative IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Création de Logo - Creative Identité de Marque" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="10">
 					<div class="preview-name preview-name__caption"><a href="../feiro/">Feiro - Creative Brand Logo</a></div>
-					<div class="preview-name">CrÃ©ation de Logo</div>
-					<div class="preview-name">Image de Marque CrÃ©atif</div>
+					<div class="preview-name">Création de Logo</div>
+					<div class="preview-name">Image de Marque Créatif</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Dynamic Logo</div>
 				</div>
@@ -1588,7 +1588,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional CrÃ©ation de Logo services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Création de Logo services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
 									<div class="textbox-action">
 						<a href="/fr/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite CrÃ©ation de Logo Case Studies</h2>
+					<h2>Aenfinite Création de Logo Case Studies</h2>
 				</div>
 			</div>
 
@@ -1652,17 +1652,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo CrÃ©ation de Logo - Modern IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo Création de Logo - Modern Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="01">
 								<div class="preview-name preview-name__caption">
-									<a href="#">Cakeo - Modern Bakery CrÃ©ation de Logo</a>
+									<a href="#">Cakeo - Modern Bakery Création de Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
-								<div class="preview-name">IdentitÃ© de Marque</div>
+								<div class="preview-name">Création de Logo</div>
+								<div class="preview-name">Identité de Marque</div>
 								<div class="preview-name">Alimentation et Boissons</div>
 								<div class="preview-name">Bakery Image de Marque</div>
 							</div>
@@ -1673,7 +1673,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 CrÃ©ation de Logo - Athletic IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 Création de Logo - Athletic Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1682,7 +1682,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">CycleThe6 - Athletic Brand Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
+								<div class="preview-name">Création de Logo</div>
 								<div class="preview-name">Sports Image de Marque</div>
 								<div class="preview-name">Athletic Identity</div>
 								<div class="preview-name">Fitness Logo</div>
@@ -1694,7 +1694,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting CrÃ©ation de Logo - Corporate IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting Création de Logo - Corporate Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1703,8 +1703,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Dynamic Consulting - Corporate Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
-								<div class="preview-name">IdentitÃ© Corporate</div>
+								<div class="preview-name">Création de Logo</div>
+								<div class="preview-name">Identité Corporate</div>
 								<div class="preview-name">Business Consulting</div>
 								<div class="preview-name">Professional Services</div>
 							</div>
@@ -1715,7 +1715,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco CrÃ©ation de Logo - Creative IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco Création de Logo - Creative Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1724,8 +1724,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muraaco - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
-								<div class="preview-name">Image de Marque CrÃ©atif</div>
+								<div class="preview-name">Création de Logo</div>
+								<div class="preview-name">Image de Marque Créatif</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Abstract Design</div>
 							</div>
@@ -1736,7 +1736,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume CrÃ©ation de Logo - Fragrance IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume Création de Logo - Fragrance Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1745,10 +1745,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muskfume - Fragrance Brand Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
-								<div class="preview-name">BeautÃ© et CosmÃ©tiques</div>
+								<div class="preview-name">Création de Logo</div>
+								<div class="preview-name">Beauté et Cosmétiques</div>
 								<div class="preview-name">Image de Marque de Luxe</div>
-								<div class="preview-name">IdentitÃ© Parfum</div>
+								<div class="preview-name">Identité Parfum</div>
 							</div>
 						</div>
 					</div>
@@ -1757,7 +1757,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit CrÃ©ation de Logo - Technology IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit Création de Logo - Technology Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1766,7 +1766,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Nexit - Technology Brand Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
+								<div class="preview-name">Création de Logo</div>
 								<div class="preview-name">Image de Marque Tech</div>
 								<div class="preview-name">Digital Identity</div>
 								<div class="preview-name">Startup Logo</div>
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth CrÃ©ation de Logo - Event Image de Marque Identity" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth Création de Logo - Event Image de Marque Identity" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Voir le projet</a>
 								</div>
@@ -1787,7 +1787,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Booth - Event Image de Marque Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
+								<div class="preview-name">Création de Logo</div>
 								<div class="preview-name">Event Image de Marque</div>
 								<div class="preview-name">Exhibition Design</div>
 								<div class="preview-name">Salon Professionnel Identity</div>
@@ -1799,7 +1799,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil CrÃ©ation de Logo - Technology IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil Création de Logo - Technology Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../robophil/" class="not-index">Voir le projet</a>
 								</div>
@@ -1808,7 +1808,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../robophil/">Robophil - Robotics Technology Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
+								<div class="preview-name">Création de Logo</div>
 								<div class="preview-name">Technology Image de Marque</div>
 								<div class="preview-name">Robotics Identity</div>
 								<div class="preview-name">Innovation Logo</div>
@@ -1820,7 +1820,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros CrÃ©ation de Logo - Solutions Algorithmiques Brand" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Création de Logo - Solutions Algorithmiques Brand" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../algopros/" class="not-index">Voir le projet</a>
 								</div>
@@ -1829,7 +1829,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../algopros/">Algopros - Solutions Algorithmiques Brand</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
+								<div class="preview-name">Création de Logo</div>
 								<div class="preview-name">Tech Solutions</div>
 								<div class="preview-name">Algorithm Image de Marque</div>
 								<div class="preview-name">Software Identity</div>
@@ -1841,7 +1841,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro CrÃ©ation de Logo - Creative IdentitÃ© de Marque" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Création de Logo - Creative Identité de Marque" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../feiro/" class="not-index">Voir le projet</a>
 								</div>
@@ -1850,8 +1850,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../feiro/">Feiro - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">CrÃ©ation de Logo</div>
-								<div class="preview-name">Image de Marque CrÃ©atif</div>
+								<div class="preview-name">Création de Logo</div>
+								<div class="preview-name">Image de Marque Créatif</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Dynamic Logo</div>
 							</div>
@@ -1876,7 +1876,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite for Creative CrÃ©ation de Logo Services</h2>
+				<h2>Contact Aenfinite for Creative Création de Logo Services</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1905,16 +1905,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong>
+		<strong>Je suis intéressé par...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="CrÃ©ation de Logo" id="logo-design" />
-					<label for="logo-design" class="list-item-label">CrÃ©ation de Logo</label>
+					<input type="checkbox" name="services" value="Création de Logo" id="logo-design" />
+					<label for="logo-design" class="list-item-label">Création de Logo</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="IdentitÃ© de Marque Design" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">IdentitÃ© de Marque Design</label>
+					<input type="checkbox" name="services" value="Identité de Marque Design" id="brand-identity" />
+					<label for="brand-identity" class="list-item-label">Identité de Marque Design</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" />
@@ -1933,8 +1933,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<label for="packaging-design" class="list-item-label">Design d'Emballage</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="Autre CrÃ©ation de Logo Services" id="other" />
-					<label for="other" class="list-item-label">Autre CrÃ©ation de Logo Services</label>
+					<input type="checkbox" name="services" value="Autre Création de Logo Services" id="other" />
+					<label for="other" class="list-item-label">Autre Création de Logo Services</label>
 				</span>
 			</span>
 		</span>
@@ -1972,7 +1972,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>CrÃ©ation de Logo Expertise</h2>
+							<h2>Création de Logo Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1983,9 +1983,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom CrÃ©ation de Logo DÃ©veloppement</div>
+						<div class="pane-title">Custom Création de Logo Développement</div>
 						<div class="pane-subtitle">
-							<p>Aenfinite specializes in creating custom CrÃ©ation de Logo from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
+							<p>Aenfinite specializes in creating custom Création de Logo from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -1997,9 +1997,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">CrÃ©ation de Logo Integration</div>
+						<div class="pane-title">Création de Logo Integration</div>
 						<div class="pane-subtitle">
-							<p>Launch your IdentitÃ© de Marque with our comprehensive CrÃ©ation de Logo development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
+							<p>Launch your Identité de Marque with our comprehensive Création de Logo development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -2025,7 +2025,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>CrÃ©ation de Logo Process</h2>
+					<h2>Création de Logo Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -2038,7 +2038,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Client Brief</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We start by understanding your brandâ€™s vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
+							<p>We start by understanding your brand's vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
@@ -2071,7 +2071,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>IdentitÃ© Visuelle</span>
+							<span>Identité Visuelle</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>We define the color palette, typography, logo concepts, and brand guidelines  ensuring every design element reflects your unique identity and story.</p>
@@ -2162,7 +2162,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">CrÃ©ation de Logo</span> is the foundation of your brand identity. RÃ©alisations with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Création de Logo</span> is the foundation of your brand identity. Réalisations with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
@@ -2172,7 +2172,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Professional CrÃ©ation de Logo Services</h2>
+					<h2>Professional Création de Logo Services</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2181,7 +2181,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Custom CrÃ©ation de Logo</div>
+							<div class="service-caption js-service-caption">Custom Création de Logo</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2298,7 +2298,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Our partnership doesnâ€™t end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
+									<p>Our partnership doesn't end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our design support includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2340,7 +2340,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Vous Avez un Projet en TÃªte ? Construisons Quelque Chose de Formidable Ensemble.</span>
+								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2353,7 +2353,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2441,7 +2441,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2457,14 +2457,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2702,8 +2702,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2837,7 +2837,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2851,7 +2853,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2863,8 +2865,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Professional CrÃ©ation de Logo Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Professional Création de Logo Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2874,7 +2876,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg",
       "width": 1200,
       "height": 630,
-      "caption": "AenfiniteÂ® CrÃ©ation de Logo Showcase",
+      "caption": "Aenfinite® Création de Logo Showcase",
       "inLanguage":"fr-FR"
     },
     {
@@ -2883,14 +2885,14 @@ export default function Page() {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com/", "name": "Home" } },
         { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "CrÃ©ation de Logo" } }
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "Création de Logo" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/logo-design/#webpage",
       "url": "https://aenfinite.com/services/logo-design/",
-      "name": "Professional CrÃ©ation de Logo Services | Custom IdentitÃ© de Marque & Logo Creation | AenfiniteÂ®",
+      "name": "Professional Création de Logo Services | Custom Identité de Marque & Logo Creation | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg" },
       "inLanguage":"fr-FR",
@@ -2898,12 +2900,12 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional CrÃ©ation de Logo Services | Custom IdentitÃ© de Marque & Logo Creation | AenfiniteÂ®",
-      "keywords": "CrÃ©ation de Logo, IdentitÃ© de Marque, Logo Creation, Visual Image de Marque, Custom Logos, Creative Agence",
+      "headline": "Professional Création de Logo Services | Custom Identité de Marque & Logo Creation | Aenfinite®",
+      "keywords": "Création de Logo, Identité de Marque, Logo Creation, Visual Image de Marque, Custom Logos, Creative Agence",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® provides professional logo design and brand identity services, creating impactful visual identities that drive recognition and business growth.",
+      "description": "Aenfinite® provides professional logo design and brand identity services, creating impactful visual identities that drive recognition and business growth.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg" },
       "inLanguage":"fr-FR",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/logo-design/#webpage" }
@@ -2988,7 +2990,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional CrÃ©ation de Logo Services",
+      "name": "Professional Création de Logo Services",
       "item": "https://aenfinite.com/services/logo-design/"
     }
   ]

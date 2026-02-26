@@ -5,10 +5,10 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Top Design & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | Web, App & ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª | Aenfinite",
-  description: "Aenfinite is a full-service ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© in Denver specializing in website design, branding, packaging, UI/UX, and ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª. Since 2017, weâ€™ve helped startups and enterprises elevate their digital presence with design and innovation.",
+  description: "Aenfinite is a full-service ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© in Denver specializing in website design, branding, packaging, UI/UX, and ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª. Since 2017, we've helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Denver, ÙˆÙƒØ§Ù„Ø© Ø¹Ù„Ø§Ù…Ø© ØªØ¬Ø§Ø±ÙŠØ©, ÙˆÙƒØ§Ù„Ø© ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª agency, packaging design agency, ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ©, Aenfinite about",
   alternates: { canonical: "https://aenfinite.com/ar/agency/", languages: {"x-default":"https://aenfinite.com/agency/","en":"https://aenfinite.com/agency/","es":"https://aenfinite.com/es/agency/","fr":"https://aenfinite.com/fr/agency/","de":"https://aenfinite.com/de/agency/","it":"https://aenfinite.com/it/agency/","ar":"https://aenfinite.com/ar/agency/","pt":"https://aenfinite.com/pt/agency/","zh":"https://aenfinite.com/zh/agency/","hi":"https://aenfinite.com/hi/agency/","nl":"https://aenfinite.com/nl/agency/","ja":"https://aenfinite.com/ja/agency/","ko":"https://aenfinite.com/ko/agency/"} },
-  openGraph: {"title":"Top Design & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | Aenfinite","description":"Aenfinite helps businesses grow through creative branding, website design, packaging, and ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª â€” based in Denver, serving clients worldwide.","url":"https://aenfinite.com/ar/agency/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title":"Top Design & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | Aenfinite","description":"Aenfinite helps businesses grow through creative branding, website design, packaging, and ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª — based in Denver, serving clients worldwide.","url":"https://aenfinite.com/ar/agency/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Creative Design & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | Aenfinite","description":"Aenfinite is a creative agency offering web design, branding, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, and packaging solutions for businesses and startups.","images":["https://aenfinite.com/wp-content/uploads/2022/10/Untitled-1-2-768x403.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -2492,7 +2492,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
-						</div>						<meta name="description" content="Professional branding services by AenfiniteÂ®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
+						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
 						<link rel="canonical" href="https://aenfinite.com/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
@@ -3092,7 +3092,9 @@ document.addEventListener('keydown', function(event) {
 </script>
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® | ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°",
-  description: "AenfiniteÂ® is a professional å°‚é–€ã¨ã™ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ ã‚«ã‚¹ã‚¿ãƒ Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³. ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ä¼æ¥­ã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™.",
+  title: "Aenfinite® | ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°",
+  description: "å°‚é–€ã¨ã™ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ ã‚«ã‚¹ã‚¿ãƒ Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³. ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ä¼æ¥­ã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™.",
   keywords: "ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼, Webãƒ‡ã‚¶ã‚¤ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼, ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼, ãƒ‡ãƒ³ãƒãƒ¼ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼, UI UXãƒ‡ã‚¶ã‚¤ãƒ³, ã‚«ã‚¹ã‚¿ãƒ Webé–‹ç™º, SEOã‚µãƒ¼ãƒ“ã‚¹, ã‚¢ãƒ—ãƒªé–‹ç™º, Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™º, ãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"AenfiniteÂ® | ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°","description":"AenfiniteÂ® is a professional å°‚é–€ã¨ã™ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ ã‚«ã‚¹ã‚¿ãƒ Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³. ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ä¼æ¥­ã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™.","url":"https://aenfinite.com/ja/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | å—è³žæ­´ã®ã‚ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼","description":"Aenfiniteã§ãƒ“ã‚¸ãƒã‚¹ã‚’å¤‰é©ã™ã‚‹Â®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°","description":"å°‚é–€ã¨ã™ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ ã‚«ã‚¹ã‚¿ãƒ Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³. ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ä¼æ¥­ã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™.","url":"https://aenfinite.com/ja/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | å—è³žæ­´ã®ã‚ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼","description":"Aenfinite®ã§ãƒ“ã‚¸ãƒã‚¹ã‚’å¤‰é©ã™ã‚‹","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -859,7 +859,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1453,7 +1453,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">AenfiniteÂ®ã¯ã€æœ€å…ˆç«¯ã®ãƒ‡ã‚¶ã‚¤ãƒ³ã€é–‹ç™ºã€ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’é€šã˜ã¦ãƒ“ã‚¸ãƒã‚¹ã‚’å¤‰é©ã™ã‚‹ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã§ã™ã€‚ãƒ‡ãƒ³ãƒãƒ¼ã«æ‹ ç‚¹ã‚’ç½®ãã€ã‚¢ãƒ¡ãƒªã‚«ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã€Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚µãƒ¼ãƒ“ã‚¹ã«ãŠã„ã¦å“è¶Šã—ãŸæˆæžœã‚’ãŠå±Šã‘ã—ã¦ãŠã‚Šã¾ã™ã€‚ãƒ˜ãƒ«ã‚¹ã‚±ã‚¢ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã€ä¸å‹•ç”£ãªã©ã€ã‚¹ã‚¿ãƒ¼ãƒˆã‚¢ãƒƒãƒ—ã‹ã‚‰å¤§ä¼æ¥­ã¾ã§å¹…åºƒã„ä¼æ¥­ã¨ææºã—ã€æˆé•·ã¨ã‚¨ãƒ³ã‚²ãƒ¼ã‚¸ãƒ¡ãƒ³ãƒˆã‚’ä¿ƒé€²ã™ã‚‹ã‚¤ãƒ³ãƒ‘ã‚¯ãƒˆã®ã‚ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ä½“é¨“ã‚’å‰µé€ ã—ã¦ã„ã¾ã™ã€‚</div>
+				<div class="textbox-content">Aenfinite®ã¯ã€æœ€å…ˆç«¯ã®ãƒ‡ã‚¶ã‚¤ãƒ³ã€é–‹ç™ºã€ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’é€šã˜ã¦ãƒ“ã‚¸ãƒã‚¹ã‚’å¤‰é©ã™ã‚‹ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã§ã™ã€‚ãƒ‡ãƒ³ãƒãƒ¼ã«æ‹ ç‚¹ã‚’ç½®ãã€ã‚¢ãƒ¡ãƒªã‚«ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã€Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã€UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™ºã€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã‚µãƒ¼ãƒ“ã‚¹ã«ãŠã„ã¦å“è¶Šã—ãŸæˆæžœã‚’ãŠå±Šã‘ã—ã¦ãŠã‚Šã¾ã™ã€‚ãƒ˜ãƒ«ã‚¹ã‚±ã‚¢ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã€ä¸å‹•ç”£ãªã©ã€ã‚¹ã‚¿ãƒ¼ãƒˆã‚¢ãƒƒãƒ—ã‹ã‚‰å¤§ä¼æ¥­ã¾ã§å¹…åºƒã„ä¼æ¥­ã¨ææºã—ã€æˆé•·ã¨ã‚¨ãƒ³ã‚²ãƒ¼ã‚¸ãƒ¡ãƒ³ãƒˆã‚’ä¿ƒé€²ã™ã‚‹ã‚¤ãƒ³ãƒ‘ã‚¯ãƒˆã®ã‚ã‚‹ãƒ‡ã‚¸ã‚¿ãƒ«ä½“é¨“ã‚’å‰µé€ ã—ã¦ã„ã¾ã™ã€‚</div>
 									<div class="textbox-action">
 						<a href="/ja/work/" class="redlink">
 							<span>å®Ÿç¸¾ã‚’è¦‹ã‚‹</span>
@@ -1472,7 +1472,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-<strong>Aenfiniteã®æˆåŠŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ â€“</strong> æˆ¦ç•¥çš„ãªã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒã‚¤ãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹Webã‚µã‚¤ãƒˆã€ã‚¤ãƒ³ãƒ‘ã‚¯ãƒˆã®ã‚ã‚‹è£½å“ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã§ãƒ–ãƒ©ãƒ³ãƒ‰ã‚’å¤‰é©ã—ã¾ã™ã€‚
+<strong>Aenfiniteã®æˆåŠŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ –</strong> æˆ¦ç•¥çš„ãªã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒã‚¤ãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹Webã‚µã‚¤ãƒˆã€ã‚¤ãƒ³ãƒ‘ã‚¯ãƒˆã®ã‚ã‚‹è£½å“ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã§ãƒ–ãƒ©ãƒ³ãƒ‰ã‚’å¤‰é©ã—ã¾ã™ã€‚
 																	</div>
 							</div>
 						</div>
@@ -1516,13 +1516,13 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>ãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã«AenfiniteÂ®ã‚’é¸ã¶ç†ç”±</h2>
+						<h2>ãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã«Aenfinite®ã‚’é¸ã¶ç†ç”±</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
     <h3><b>é©æ–°çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</b></h3>
-    <p>AenfiniteÂ®ã¯æˆ¦ç•¥ã€ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚’èžåˆã—ã€ã‚·ãƒ¼ãƒ ãƒ¬ã‚¹ãªãƒ‡ã‚¸ã‚¿ãƒ«ä½“é¨“ã‚’å‰µé€ ã—ã¾ã™ã€‚ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚„Webãƒ‡ã‚¶ã‚¤ãƒ³ã‹ã‚‰ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°ã¾ã§ã€æ¸¬å®šå¯èƒ½ãªãƒ“ã‚¸ãƒã‚¹æˆé•·ã‚’æŽ¨é€²ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ‰ãƒªãƒ–ãƒ³ãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ã”æä¾›ã„ãŸã—ã¾ã™ã€‚</p>
+    <p>Aenfinite®ã¯æˆ¦ç•¥ã€ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚’èžåˆã—ã€ã‚·ãƒ¼ãƒ ãƒ¬ã‚¹ãªãƒ‡ã‚¸ã‚¿ãƒ«ä½“é¨“ã‚’å‰µé€ ã—ã¾ã™ã€‚ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚„Webãƒ‡ã‚¶ã‚¤ãƒ³ã‹ã‚‰ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°ã¾ã§ã€æ¸¬å®šå¯èƒ½ãªãƒ“ã‚¸ãƒã‚¹æˆé•·ã‚’æŽ¨é€²ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ‰ãƒªãƒ–ãƒ³ãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ã”æä¾›ã„ãŸã—ã¾ã™ã€‚</p>
   </div>
 </div>
 
@@ -1567,7 +1567,7 @@ recommend a service from 1-10</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/ja/services/web-design/" class="redlink">
@@ -1603,8 +1603,8 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/ja/services/branding/" class="redlink">
@@ -1779,7 +1779,7 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1889,7 +1889,7 @@ recommend a service from 1-10</div>
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>æ¬¡ã®ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã«ç›¸è«‡ - AenfiniteÂ®</h2>
+				<h2>æ¬¡ã®ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã«ç›¸è«‡ - Aenfinite®</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1906,7 +1906,7 @@ recommend a service from 1-10</div>
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ãŠåå‰*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã¤ã„ã¦ãŠèžã‹ã›ãã ã•ã„â€¦" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ãŠåå‰*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã¤ã„ã¦ãŠèžã‹ã›ãã ã•ã„…" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
@@ -1962,7 +1962,7 @@ recommend a service from 1-10</div>
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
     <span>
-        AenfiniteÂ® â€“ æœ€å…ˆç«¯ã®ITã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã€ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ãƒ¼ã‚¿ãƒ‰ãƒªãƒ–ãƒ³ãªãƒ‡ã‚¸ã‚¿ãƒ«æˆ¦ç•¥ã§ãƒ“ã‚¸ãƒã‚¹ã‚’æ”¯æ´ã„ãŸã—ã¾ã™ã€‚
+        Aenfinite® – æœ€å…ˆç«¯ã®ITã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã€ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ‡ãƒ¼ã‚¿ãƒ‰ãƒªãƒ–ãƒ³ãªãƒ‡ã‚¸ã‚¿ãƒ«æˆ¦ç•¥ã§ãƒ“ã‚¸ãƒã‚¹ã‚’æ”¯æ´ã„ãŸã—ã¾ã™ã€‚
     </span>
 </div>
 
@@ -1975,7 +1975,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>AenfiniteÂ®ãƒ‡ã‚¶ã‚¤ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã®å®Ÿç¸¾</h2>
+						<h2>Aenfinite®ãƒ‡ã‚¶ã‚¤ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã®å®Ÿç¸¾</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2118,7 +2118,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>AenfiniteÂ®ãƒ‡ã‚¶ã‚¤ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã‚ˆãã‚ã‚‹è³ªå•</h2>
+									<h2>Aenfinite®ãƒ‡ã‚¶ã‚¤ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã‚ˆãã‚ã‚‹è³ªå•</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2126,7 +2126,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ®ã¯ã©ã®ã‚ˆã†ãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’æä¾›ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite®ã¯ã©ã®ã‚ˆã†ãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’æä¾›ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2134,7 +2134,7 @@ recommend a service from 1-10</div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
            
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ®ã¯ã€æˆ¦ç•¥ã€ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚’é€šã˜ã¦ãƒ“ã‚¸ãƒã‚¹ã®æˆé•·ã‚’æ”¯æ´ã™ã‚‹ã‚°ãƒ­ãƒ¼ãƒãƒ«ITï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã§ã™ã€‚ä»¥ä¸‹ã®åˆ†é‡Žã‚’å°‚é–€ã¨ã—ã¦ãŠã‚Šã¾ã™ï¼š</p>
+                <p>Aenfinite®ã¯ã€æˆ¦ç•¥ã€ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚’é€šã˜ã¦ãƒ“ã‚¸ãƒã‚¹ã®æˆé•·ã‚’æ”¯æ´ã™ã‚‹ã‚°ãƒ­ãƒ¼ãƒãƒ«ITï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ã§ã™ã€‚ä»¥ä¸‹ã®åˆ†é‡Žã‚’å°‚é–€ã¨ã—ã¦ãŠã‚Šã¾ã™ï¼š</p>
                 <p><b>ãƒ–ãƒ©ãƒ³ãƒ‰æˆ¦ç•¥ï¼†ãƒ‡ã‚¶ã‚¤ãƒ³ï¼š</b> ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã‚·ã‚¹ãƒ†ãƒ ã®æ§‹ç¯‰ã€ãƒ­ã‚´åˆ¶ä½œã€å¼·åŠ›ã§ä¸€è²«ã—ãŸãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ãƒ—ãƒ¬ã‚¼ãƒ³ã‚¹ã‚’ç¢ºç«‹ã™ã‚‹ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ã®ç­–å®šã‚’è¡Œã„ã¾ã™ã€‚</p>
                 <p><b>Webï¼†ã‚¢ãƒ—ãƒªé–‹ç™ºï¼š</b> ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆã€ãƒ¬ã‚¹ãƒãƒ³ã‚·ãƒ–ãƒ‡ã‚¶ã‚¤ãƒ³ã€Eã‚³ãƒžãƒ¼ã‚¹ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã€é€Ÿåº¦ã¨ã‚³ãƒ³ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã«æœ€é©åŒ–ã•ã‚ŒãŸã‚¹ã‚±ãƒ¼ãƒ©ãƒ–ãƒ«ãªãƒ¢ãƒã‚¤ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’æä¾›ã„ãŸã—ã¾ã™ã€‚</p>
                 <p><b>UI/UXãƒ‡ã‚¶ã‚¤ãƒ³:</b> ãƒªã‚µãƒ¼ãƒã«åŸºã¥ã„ãŸã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ¯ã‚¤ãƒ¤ãƒ¼ãƒ•ãƒ¬ãƒ¼ãƒ ã€ãƒ—ãƒ­ãƒˆã‚¿ã‚¤ãƒ—ã«ã‚ˆã‚Šã€ç›´æ„Ÿçš„ãªãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¸ãƒ£ãƒ¼ãƒ‹ãƒ¼ã¨é«˜ã„ã‚¨ãƒ³ã‚²ãƒ¼ã‚¸ãƒ¡ãƒ³ãƒˆã‚’å®Ÿç¾ã—ã¾ã™ã€‚</p>
@@ -2148,7 +2148,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ®ã¯æ–°è¦ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã©ã®ã‚ˆã†ã«é€²ã‚ã¾ã™ã‹ï¼Ÿ</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite®ã¯æ–°è¦ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã©ã®ã‚ˆã†ã«é€²ã‚ã¾ã™ã‹ï¼Ÿ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2158,7 +2158,7 @@ recommend a service from 1-10</div>
                 <p>ãŠå®¢æ§˜ã¨å¯†ã«é€£æºã—ã€ã‚ã‚‰ã‚†ã‚‹æ®µéšŽã§å“è³ªã‚’ä¿è¨¼ã™ã‚‹æ˜Žç¢ºãªãƒ—ãƒ­ã‚»ã‚¹ã«å¾“ã„ã¾ã™ï¼š</p>
                 <p><b>1. ãƒ’ã‚¢ãƒªãƒ³ã‚°ï¼†ä¼ç”»ï¼š</b> ãŠå®¢æ§˜ã®ãƒ“ã‚¸ãƒã‚¹ã€ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã‚ªãƒ¼ãƒ‡ã‚£ã‚¨ãƒ³ã‚¹ã€ç›®æ¨™ã‚’ç†è§£ã—ã€æ˜Žç¢ºãªæˆ¦ç•¥ã‚’ç­–å®šã„ãŸã—ã¾ã™ã€‚</p>
                 <p><b>2. ã‚³ãƒ³ã‚»ãƒ—ãƒˆï¼†æ–¹å‘æ€§ã®æ±ºå®šï¼š</b> ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒãƒ¼ãƒ ãŒãƒ–ãƒ©ãƒ³ãƒ‰ãƒ“ã‚¸ãƒ§ãƒ³ã«æ²¿ã£ãŸãƒ ãƒ¼ãƒ‰ãƒœãƒ¼ãƒ‰ã€ã‚³ãƒ³ã‚»ãƒ—ãƒˆã€ãƒ‡ã‚¶ã‚¤ãƒ³ã®æ–¹å‘æ€§ã‚’ä½œæˆã„ãŸã—ã¾ã™ã€‚</p>
-                <p><b>3. ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™ºï¼š</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™ºï¼š</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
                 <p><b>4. å®Ÿè£…ï¼š</b> é–‹ç™ºãƒãƒ¼ãƒ ãŒãƒ‡ã‚¶ã‚¤ãƒ³ã‚’å½¢ã«ã—ã€é«˜æ€§èƒ½ãªãƒ‡ã‚¸ã‚¿ãƒ«ãƒ—ãƒ­ãƒ€ã‚¯ãƒˆã¾ãŸã¯å°åˆ·ç”¨ãƒ‡ãƒ¼ã‚¿ã‚’ç´å“ã„ãŸã—ã¾ã™ã€‚</p>
                 <p><b>5. ãƒ­ãƒ¼ãƒ³ãƒï¼†æœ€é©åŒ–ï¼š</b> ãƒ‡ãƒ—ãƒ­ã‚¤ãƒ¡ãƒ³ãƒˆã‚’ã‚µãƒãƒ¼ãƒˆã—ã€å¿…è¦ã«å¿œã˜ã¦ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚°ã‚’æä¾›ã—ã€æ”¹å–„ã«å‘ã‘ã¦ç¶™ç¶šçš„ã«æˆæžœã‚’ãƒ¢ãƒ‹ã‚¿ãƒªãƒ³ã‚°ã„ãŸã—ã¾ã™ã€‚</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2169,20 +2169,20 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ®ã¯ã©ã®ã‚ˆã†ãªä¼æ¥­ã¨å”æ¥­ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite®ã¯ã©ã®ã‚ˆã†ãªä¼æ¥­ã¨å”æ¥­ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <p>Aenfinite® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
                 <ul>
-                    <li>ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ï¼†SaaS â€“ Webãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ã€SaaS UI/UXã€è£½å“ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</li>
-                    <li>ãƒ˜ãƒ«ã‚¹ã‚±ã‚¢ï¼†ã‚¦ã‚§ãƒ«ãƒã‚¹ â€“ åŒ»ç™‚ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€æ‚£è€…ã«é…æ…®ã—ãŸã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã€ã‚³ãƒ³ãƒ—ãƒ©ã‚¤ã‚¢ãƒ³ã‚¹å¯¾å¿œã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</li>
-                    <li>ä¸å‹•ç”£ï¼†å»ºè¨­ â€“ ä¸å‹•ç”£ã‚µã‚¤ãƒˆã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€ãƒªãƒ¼ãƒ‰ç²å¾—ã‚­ãƒ£ãƒ³ãƒšãƒ¼ãƒ³</li>
-                    <li>å°å£²ï¼†Eã‚³ãƒžãƒ¼ã‚¹ â€“ ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã€ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã‚¹ãƒˆã‚¢ãƒ‡ã‚¶ã‚¤ãƒ³ã€ã‚³ãƒ³ãƒãƒ¼ã‚¸ãƒ§ãƒ³æœ€é©åŒ–</li>
-                    <li>ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ã‚µãƒ¼ãƒ“ã‚¹ â€“ ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ãƒˆã‚µã‚¤ãƒˆã€ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°è‡ªå‹•åŒ–ã€ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆãƒãƒ¼ã‚¿ãƒ«</li>
+                    <li>ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ï¼†SaaS – Webãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ã€SaaS UI/UXã€è£½å“ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</li>
+                    <li>ãƒ˜ãƒ«ã‚¹ã‚±ã‚¢ï¼†ã‚¦ã‚§ãƒ«ãƒã‚¹ – åŒ»ç™‚ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€æ‚£è€…ã«é…æ…®ã—ãŸã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã€ã‚³ãƒ³ãƒ—ãƒ©ã‚¤ã‚¢ãƒ³ã‚¹å¯¾å¿œã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</li>
+                    <li>ä¸å‹•ç”£ï¼†å»ºè¨­ – ä¸å‹•ç”£ã‚µã‚¤ãƒˆã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€ãƒªãƒ¼ãƒ‰ç²å¾—ã‚­ãƒ£ãƒ³ãƒšãƒ¼ãƒ³</li>
+                    <li>å°å£²ï¼†Eã‚³ãƒžãƒ¼ã‚¹ – ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã€ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã‚¹ãƒˆã‚¢ãƒ‡ã‚¶ã‚¤ãƒ³ã€ã‚³ãƒ³ãƒãƒ¼ã‚¸ãƒ§ãƒ³æœ€é©åŒ–</li>
+                    <li>ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ã‚µãƒ¼ãƒ“ã‚¹ – ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ãƒˆã‚µã‚¤ãƒˆã€ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°è‡ªå‹•åŒ–ã€ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆãƒãƒ¼ã‚¿ãƒ«</li>
                 </ul>
                 <p>æ¥­ç•Œã‚’å•ã‚ãšã€ã‚ªãƒ¼ãƒ‡ã‚£ã‚¨ãƒ³ã‚¹ã®å¿ƒã«éŸ¿ãã€æ¸¬å®šå¯èƒ½ãªæˆé•·ã‚’ä¿ƒé€²ã™ã‚‹ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚’ç”Ÿã¿å‡ºã™ã“ã¨ãŒç§ãŸã¡ã®ç›®æ¨™ã§ã™ã€‚</p>
             </div>
@@ -2202,9 +2202,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="contact/" class="redlink">
-									<span>Letâ€™s talk</span>
+									<span>Let's talk</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2290,7 +2290,7 @@ recommend a service from 1-10</div>
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="/ja/">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -2762,7 +2762,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 </script>
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2870,7 +2872,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
-      "alternateName": "AenfiniteÂ®",
+      "alternateName": "Aenfinite®",
       "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ja-JP",
@@ -2913,7 +2915,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® | Digital ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "name": "Aenfinite® | Digital ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "about": {"@id": "https://aenfinite.com/#organization"},
       "datePublished": "2017-01-01T00:00:00-00:00",

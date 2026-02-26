@@ -5,11 +5,11 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite",
-  description: "AenfiniteÂ® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
+  description: "Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
   keywords: "SEO-Dienstleistungen, search engine optimization, keyword research, on-page SEO, technical SEO, link building, local SEO, organic traffic, SERP ranking, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/search-engine-optimization/", languages: {"x-default":"https://aenfinite.com/services/search-engine-optimization/","en":"https://aenfinite.com/services/search-engine-optimization/","es":"https://aenfinite.com/es/services/search-engine-optimization/","fr":"https://aenfinite.com/fr/services/search-engine-optimization/","de":"https://aenfinite.com/de/services/search-engine-optimization/","it":"https://aenfinite.com/it/services/search-engine-optimization/","ar":"https://aenfinite.com/ar/services/search-engine-optimization/","pt":"https://aenfinite.com/pt/services/search-engine-optimization/","zh":"https://aenfinite.com/zh/services/search-engine-optimization/","hi":"https://aenfinite.com/hi/services/search-engine-optimization/","nl":"https://aenfinite.com/nl/services/search-engine-optimization/","ja":"https://aenfinite.com/ja/services/search-engine-optimization/","ko":"https://aenfinite.com/ko/services/search-engine-optimization/"} },
-  openGraph: {"title":"Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite","description":"AenfiniteÂ® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/de/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite","description":"AenfiniteÂ® offers SEO-Dienstleistungen focused on data-driven keyword research, on-page optimization, technical SEO, and link building â€” helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite","description":"Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/de/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite","description":"Aenfinite® offers SEO-Dienstleistungen focused on data-driven keyword research, on-page optimization, technical SEO, and link building — helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1118,7 +1118,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen </a>
+										<a href="#">Entwicklungslösungen </a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1127,13 +1127,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen </a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1141,7 +1141,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen </a>
+										<a href="#">Marketing- und Digitale Lösungen </a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1153,10 +1153,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen </a>
+										<a href="#">KI- und Technologielösungen </a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1291,7 +1291,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1449,14 +1449,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ErzÃ¤hlen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Erzählen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO-Optimierung" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO-Optimierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO-Optimierung" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO-Optimierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges SEO-Dienstleistungen" id="other" /><label for="other" class="list-item-label">Sonstiges SEO-Dienstleistungen</label></span></span></span>
+		<strong>Ich interessiere mich für...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO-Optimierung" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO-Optimierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO-Optimierung" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO-Optimierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges SEO-Dienstleistungen" id="other" /><label for="other" class="list-item-label">Sonstiges SEO-Dienstleistungen</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1480,7 +1480,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ã¼ber 100.000 $
+					über 100.000 $
 					
 				</div>
 			</div>		</div>
@@ -1995,7 +1995,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2234,7 +2234,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2370,7 +2370,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2384,7 +2386,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo-dark.png",
       "sameAs": [
@@ -2397,8 +2399,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - SEO & Digitales Marketing Agentur",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - SEO & Digitales Marketing Agentur",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2429,7 +2431,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/search-engine-optimization/#webpage",
       "url": "https://aenfinite.com/services/search-engine-optimization/",
-      "name": "Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | AenfiniteÂ®",
+      "name": "Expert Suchmaschinenoptimierung (SEO) Dienstleistungen | Organic Traffic Growth | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },

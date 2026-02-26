@@ -1892,7 +1892,7 @@ const pageContent = `<script>
     <span class="marquee-line_text">Serving Clients Across the US, Canada & Beyond</span>
     <span class="marquee-line_text">Experts in UI/UX, SEO & Growth Marketing</span>
     <span class="marquee-line_text">Trusted by Startups & Global Enterprises</span>
-    <span class="marquee-line_text">Skilled Team â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Skilled Team – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Agile & Data-Driven Development Process</span>
     <span class="marquee-line_text">Global Agency with Southeast Asian Roots</span>
     <span class="marquee-line_text">Empowering Businesses with Scalable Solutions</span>
@@ -2329,7 +2329,7 @@ const pageContent = `<script>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -2627,7 +2627,7 @@ const pageContent = `<script>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
-									<p>"This is a test testimonial for our {{city}} web design services. AenfiniteÂ® created an amazing website that helped us grow our business significantly. The design is modern, mobile-friendly, and converts visitors into customers. We're getting more leads and sales than ever before. Excellent work from the team!"</p>
+									<p>"This is a test testimonial for our {{city}} web design services. Aenfinite® created an amazing website that helped us grow our business significantly. The design is modern, mobile-friendly, and converts visitors into customers. We're getting more leads and sales than ever before. Excellent work from the team!"</p>
 								</div>
 								<div class="con-par">
 									<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -2659,7 +2659,7 @@ const pageContent = `<script>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
-									<p>"This is test testimonial number two for our {{city}} web design agency. The website AenfiniteÂ® built for us has exceeded all expectations. Our online presence has improved dramatically, and we're seeing increased traffic and conversions. Professional service and outstanding results!"</p>
+									<p>"This is test testimonial number two for our {{city}} web design agency. The website Aenfinite® built for us has exceeded all expectations. Our online presence has improved dramatically, and we're seeing increased traffic and conversions. Professional service and outstanding results!"</p>
 								</div>
 								<div class="con-par">
 									<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -2691,7 +2691,7 @@ const pageContent = `<script>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
-									<p>"Test testimonial three for {{city}} web design services. AenfiniteÂ® delivered a fantastic website that perfectly represents our brand. The user experience is smooth, the design is beautiful, and it's helping us attract new customers daily. Highly recommended for any {{city}} business!"</p>
+									<p>"Test testimonial three for {{city}} web design services. Aenfinite® delivered a fantastic website that perfectly represents our brand. The user experience is smooth, the design is beautiful, and it's helping us attract new customers daily. Highly recommended for any {{city}} business!"</p>
 								</div>
 								<div class="con-par">
 									<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -2723,7 +2723,7 @@ const pageContent = `<script>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
-									<p>"Fourth test testimonial for our {{city}} web design company. The team at AenfiniteÂ® created a website that's not only visually stunning but also highly functional. Our customers love the new site, and we're seeing great results in terms of engagement and sales. Top-notch service!"</p>
+									<p>"Fourth test testimonial for our {{city}} web design company. The team at Aenfinite® created a website that's not only visually stunning but also highly functional. Our customers love the new site, and we're seeing great results in terms of engagement and sales. Top-notch service!"</p>
 								</div>
 								<div class="con-par">
 									<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -2755,7 +2755,7 @@ const pageContent = `<script>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
-									<p>"Final test testimonial for {{city}} web design services. AenfiniteÂ® has been incredible to work with. They understood our vision and delivered a website that perfectly captures our brand essence. The results speak for themselves - increased traffic, better conversions, and happy customers!"</p>
+									<p>"Final test testimonial for {{city}} web design services. Aenfinite® has been incredible to work with. They understood our vision and delivered a website that perfectly captures our brand essence. The results speak for themselves - increased traffic, better conversions, and happy customers!"</p>
 								</div>
 								<div class="con-par">
 									<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -5087,7 +5087,7 @@ window.onload = function() {
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -6440,6 +6440,8 @@ document.addEventListener('DOMContentLoaded', function() {
     box-shadow: 0 20px 40px rgba(0,0,0,0.2);
 }
 </style>
+
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -6501,7 +6503,7 @@ export default function Page() {
         <script
           key="schema-1"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://aenfinite.com/#organization","name":"AenfiniteÂ®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://aenfinite.com/#website","url":"https://Aenfinite","name":"AenfiniteÂ®","alternateName":"AenfiniteÂ® - Branding &amp; Web Design Division of Aenfinite.com","publisher":{"@id":"https://aenfinite.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"AenfiniteÂ® Brand Logo - Best Branding &amp; Web Design Agency in Denver","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://aenfinite.com/services/web-design/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://aenfinite.com/services/","name":"Services"}},{"@type":"ListItem","position":"3","item":{"@id":"https://aenfinite.com/services/web-design/","name":"*Web Design"}}]},{"@type":"WebPage","@id":"https://aenfinite.com/services/web-design/#webpage","url":"https://aenfinite.com/services/web-design/","name":"Award-Winning Web Design Agency in Denver | AenfiniteÂ®","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","isPartOf":{"@id":"https://aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://aenfinite.com/services/web-design/#breadcrumb"}},{"@type":"Person","@id":"https://aenfinite.com/services/web-design/#author","name":"Boris AenfiniteÂ®","description":"Archives from for AenfiniteÂ® (Aenfinite.com)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","caption":"Boris AenfiniteÂ®","inLanguage":"en-US"},"worksFor":{"@id":"https://aenfinite.com/#organization"}},{"@type":"Article","headline":"Award-Winning Web Design Agency in Denver | AenfiniteÂ®","keywords":"Web Design","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","author":{"@id":"https://aenfinite.com/services/web-design/#author","name":"Boris AenfiniteÂ®"},"publisher":{"@id":"https://aenfinite.com/#organization"},"description":"AenfiniteÂ® (Globally Trusted Digital Agency) is the best Web Design Agency in Denver for mobile-responsive websites, custom web design, best WordPress websites in Denver.","name":"Award-Winning Web Design Agency in Denver | AenfiniteÂ®","@id":"https://aenfinite.com/services/web-design/#richSnippet","isPartOf":{"@id":"https://aenfinite.com/services/web-design/#webpage"},"image":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://aenfinite.com/services/web-design/#webpage"}}]}` }}
+          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Branding &amp; Web Design Division of Aenfinite.com","publisher":{"@id":"https://aenfinite.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Best Branding &amp; Web Design Agency in Denver","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://aenfinite.com/services/web-design/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://aenfinite.com/services/","name":"Services"}},{"@type":"ListItem","position":"3","item":{"@id":"https://aenfinite.com/services/web-design/","name":"*Web Design"}}]},{"@type":"WebPage","@id":"https://aenfinite.com/services/web-design/#webpage","url":"https://aenfinite.com/services/web-design/","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","isPartOf":{"@id":"https://aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://aenfinite.com/services/web-design/#breadcrumb"}},{"@type":"Person","@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite.com)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"en-US"},"worksFor":{"@id":"https://aenfinite.com/#organization"}},{"@type":"Article","headline":"Award-Winning Web Design Agency in Denver | Aenfinite®","keywords":"Web Design","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","author":{"@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://aenfinite.com/#organization"},"description":"Aenfinite® (Globally Trusted Digital Agency) is the best Web Design Agency in Denver for mobile-responsive websites, custom web design, best WordPress websites in Denver.","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","@id":"https://aenfinite.com/services/web-design/#richSnippet","isPartOf":{"@id":"https://aenfinite.com/services/web-design/#webpage"},"image":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://aenfinite.com/services/web-design/#webpage"}}]}` }}
         />
         <script
           key="schema-2"

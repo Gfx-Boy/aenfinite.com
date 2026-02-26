@@ -5,7 +5,7 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients",
-  description: "Join the Aenfinite æŽ¨èè®¡åˆ’ â€” earn rewards for referring clients to our creative æ•°å­—æœºæž„. Help businesses connect with top-tier design, branding, and web development solutions from Denverâ€™s Aenfinite.",
+  description: "Join the Aenfinite æŽ¨èè®¡åˆ’ — earn rewards for referring clients to our creative æ•°å­—æœºæž„. Help businesses connect with top-tier design, branding, and web development solutions from Denver's Aenfinite.",
   keywords: "referral program, refer clients, earn rewards, agency referral, client referral program, Aenfinite referral",
   alternates: { canonical: "https://aenfinite.com/zh/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/referral-program/","en":"https://aenfinite.com/agency/partner-with-us/referral-program/","es":"https://aenfinite.com/es/agency/partner-with-us/referral-program/","fr":"https://aenfinite.com/fr/agency/partner-with-us/referral-program/","de":"https://aenfinite.com/de/agency/partner-with-us/referral-program/","it":"https://aenfinite.com/it/agency/partner-with-us/referral-program/","ar":"https://aenfinite.com/ar/agency/partner-with-us/referral-program/","pt":"https://aenfinite.com/pt/agency/partner-with-us/referral-program/","zh":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","hi":"https://aenfinite.com/hi/agency/partner-with-us/referral-program/","nl":"https://aenfinite.com/nl/agency/partner-with-us/referral-program/","ja":"https://aenfinite.com/ja/agency/partner-with-us/referral-program/","ko":"https://aenfinite.com/ko/agency/partner-with-us/referral-program/"} },
   openGraph: {"title":"Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -1814,7 +1814,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1827,7 +1829,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.com/referral-program/",
   "name": "Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients",
-  "description": "Aenfiniteâ€™s referral program rewards individuals and partners who refer clients for our creative æ•°å­—æœºæž„ services in design, branding, and web development.",
+  "description": "Aenfinite's referral program rewards individuals and partners who refer clients for our creative æ•°å­—æœºæž„ services in design, branding, and web development.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",
@@ -1846,7 +1848,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite æŽ¨èè®¡åˆ’",
     "category": "Referral and Partnership",
-    "description": "Earn rewards and commissions for referring new clients to Aenfiniteâ€™s creative digital services.",
+    "description": "Earn rewards and commissions for referring new clients to Aenfinite's creative digital services.",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite",

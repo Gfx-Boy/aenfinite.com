@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel | Aenfinite",
+  title: "Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel | Aenfinite",
   description: "Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite",
   keywords: "Lumea wellness app, light therapy app, circadian rhythm, wellness tracking, mobile app UI UX, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/pt/work/lumea/", languages: {"x-default":"https://aenfinite.com/work/lumea/","en":"https://aenfinite.com/work/lumea/","es":"https://aenfinite.com/es/work/lumea/","fr":"https://aenfinite.com/fr/work/lumea/","de":"https://aenfinite.com/de/work/lumea/","it":"https://aenfinite.com/it/work/lumea/","ar":"https://aenfinite.com/ar/work/lumea/","pt":"https://aenfinite.com/pt/work/lumea/","zh":"https://aenfinite.com/zh/work/lumea/","hi":"https://aenfinite.com/hi/work/lumea/","nl":"https://aenfinite.com/nl/work/lumea/","ja":"https://aenfinite.com/ja/work/lumea/","ko":"https://aenfinite.com/ko/work/lumea/"} },
-  openGraph: {"title":"Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel | Aenfinite","description":"Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite","url":"https://aenfinite.com/pt/work/lumea/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif"}]},
-  twitter: {"card":"summary_large_image","title":"Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel | Aenfinite","description":"Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif"]},
+  openGraph: {"title":"Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel | Aenfinite","description":"Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite","url":"https://aenfinite.com/pt/work/lumea/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif"}]},
+  twitter: {"card":"summary_large_image","title":"Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel | Aenfinite","description":"Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif"]},
   robots: { index: true, follow: true },
 };
 
@@ -163,7 +163,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 			overflow: hidden;
 		}
 		
-		/* Keyframe AnimaÃ§Ãµes */
+		/* Keyframe Animações */
 		@keyframes smoothRotate {
 			from { transform: rotate(0deg); }
 			to { transform: rotate(360deg); }
@@ -632,16 +632,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency">AgÃªncia</a>
+								<a href="/pt/agency">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/pt/services/">ServiÃ§os</a>
+                                <a href="/pt/services/">Serviços</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de Desenvolvimento </a>
+                                        <a href="#">Soluções de Desenvolvimento </a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
@@ -650,35 +650,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>                                      </ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ServiÃ§os de Design e CriaÃ§Ã£o </a>
+                                        <a href="#">Serviços de Design e Criação </a>
                                         <ul class="sub-menu">
                                             <li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
 
-                                            <li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-                                            <li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li>
+                                            <li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+                                            <li><a href="/pt/services/graphic-design/">Design Gráfico</a></li>
                                             
                                             <li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-                                            <li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+                                            <li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de Marketing e Digitais </a>
+                                        <a href="#">Soluções de Marketing e Digitais </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-                                            <li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+                                            <li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+                                            <li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
                                             <li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-                                            <li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
+                                            <li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de IA e Tecnologia </a>
+                                        <a href="#">Soluções de IA e Tecnologia </a>
                                         <ul class="sub-menu">
                                             <li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-                                            <li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+                                            <li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -687,7 +687,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -920,7 +920,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -968,7 +968,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="keygrid-col keygrid-col__b">
 							<div class="keygrid-inner js-aos appear">
-								<h1 class="keygrid-maintitle">Lumea - Smart Bem-estar &amp; Light Therapy Aplicativo MÃ³vel</h1>
+								<h1 class="keygrid-maintitle">Lumea - Smart Bem-estar &amp; Light Therapy Aplicativo Móvel</h1>
 								<div class="keygrid-description">
 									<div class="flex-shrink-0 flex flex-col relative items-end">
 <div>
@@ -990,7 +990,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 								<div class="tagslist">
-									<b>Aenfinite Scope of PortfÃ³lio:</b>
+									<b>Aenfinite Scope of Portfólio:</b>
 									<ul>
 										<li>Neural Interface Design UI/UX</li><li>Brain-Computer Interface Desenvolvimento</li><li>Neurotecnologia Desenvolvimento de Plataformas</li><li>Neural Signal Processing</li><li>Cognitive Enhancement Tools</li><li>Real-time Neural Analytics Dashboard</li><li>Neural Pattern Recognition System</li><li>Brain Wave Data Integration</li>									</ul>
 								</div>
@@ -1041,7 +1041,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			
 							<div class="section reviews" itemprop="review" itemscope itemtype="http://schema.org/Review">
-					<span itemprop="name" class="name-project">Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel</span>
+					<span itemprop="name" class="name-project">Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel</span>
 					<div class="wrapper">
 						<div class="inner-wrapper">
 						  	<h2>Lumea Client Testimonial for Aenfinite</h2>
@@ -1100,7 +1100,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 							
-							<!-- Lumea Aplicativo MÃ³vel UI Gallery -->
+							<!-- Lumea Aplicativo Móvel UI Gallery -->
 							<div class="bento-grid js-aos appear">
 								<!-- Large Featured Card - Takes up left side -->
 								<div class="bento-card bento-large">
@@ -1885,10 +1885,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Branding" id="branding" /><label for="branding" class="list-item-label">Branding</label></span><span class="list-item"><input type="checkbox" name="services" value="Web Design" id="web-design" /><label for="web-design" class="list-item-label">Web Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="SoluÃ§Ãµes de E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">SoluÃ§Ãµes de E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Desenvolvimento de Aplicativos" id="app-development" /><label for="app-development" class="list-item-label">Desenvolvimento de Aplicativos</label></span><span class="list-item"><input type="checkbox" name="services" value="Embalagens" id="packaging" /><label for="packaging" class="list-item-label">Embalagens</label></span><span class="list-item"><input type="checkbox" name="services" value="Design GrÃ¡fico" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design GrÃ¡fico</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro" id="other" /><label for="other" class="list-item-label">Outro</label></span></span></span>
+		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Branding" id="branding" /><label for="branding" class="list-item-label">Branding</label></span><span class="list-item"><input type="checkbox" name="services" value="Web Design" id="web-design" /><label for="web-design" class="list-item-label">Web Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Soluções de E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Soluções de E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Desenvolvimento de Aplicativos" id="app-development" /><label for="app-development" class="list-item-label">Desenvolvimento de Aplicativos</label></span><span class="list-item"><input type="checkbox" name="services" value="Embalagens" id="packaging" /><label for="packaging" class="list-item-label">Embalagens</label></span><span class="list-item"><input type="checkbox" name="services" value="Design Gráfico" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design Gráfico</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro" id="other" /><label for="other" class="list-item-label">Outro</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orÃ§amento aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orçamento aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1937,7 +1937,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
 				<div class="section-caption_text">
-					<h2>ServiÃ§os Digitais Aenfinite</h2>
+					<h2>Serviços Digitais Aenfinite</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/web-design/" class="chip-label">Design Responsivo</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/web-design/" class="chip-label">PÃ¡ginas de Destino</a>
+													<a href="../../services/web-design/" class="chip-label">Páginas de Destino</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/web-design/" class="chip-label">Sites Corporativos</a>
@@ -1990,7 +1990,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/logo-design/" class="chip-label">Design de Logotipo</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">EstratÃ©gia de Marca</a>
+													<a href="../../services/branding/" class="chip-label">Estratégia de Marca</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/branding/" class="chip-label">Diretrizes de Marca</a>
@@ -2021,7 +2021,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/search-engine-optimization/" class="chip-label">OtimizaÃ§Ã£o SEO</a>
+													<a href="../../services/search-engine-optimization/" class="chip-label">Otimização SEO</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/digital-marketing/" class="chip-label">E-mail Marketing</a>
@@ -2034,7 +2034,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 												</div>
 																						
 																							<div class="chip">
-													<a href="../../services/digital-marketing/" class="chip-label">Marketing de ConteÃºdo</a>
+													<a href="../../services/digital-marketing/" class="chip-label">Marketing de Conteúdo</a>
 												</div>
 																					</div>
 									</div>
@@ -2063,13 +2063,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/e-commerce-websites/" class="chip-label">Lojas Online</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">IntegraÃ§Ã£o de Pagamentos</a>
+													<a href="../../services/e-commerce-websites/" class="chip-label">Integração de Pagamentos</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">CatÃ¡logos de Produtos</a>
+													<a href="../../services/e-commerce-websites/" class="chip-label">Catálogos de Produtos</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">ComÃ©rcio Mobile</a>
+													<a href="../../services/e-commerce-websites/" class="chip-label">Comércio Mobile</a>
 												</div>
 																					</div>
 									</div>
@@ -2098,13 +2098,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/wordpress-websites/" class="chip-label">Desenvolvimento de Plugins</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">SoluÃ§Ãµes CMS</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">Soluções CMS</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">OtimizaÃ§Ã£o de Site</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">Otimização de Site</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">ManutenÃ§Ã£o</a>
+													<a href="../../services/wordpress-websites/" class="chip-label">Manutenção</a>
 												</div>
 																					</div>
 									</div>
@@ -2139,7 +2139,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/app-development/" class="chip-label">Multiplataforma</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">LanÃ§amento na App Store</a>
+													<a href="../../services/app-development/" class="chip-label">Lançamento na App Store</a>
 												</div>
 																					</div>
 									</div>
@@ -2154,24 +2154,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">Design GrÃ¡fico</div>
+								<div class="service-caption js-service-caption">Design Gráfico</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Design de ImpressÃ£o</a>
+													<a href="../../services/graphic-design/" class="chip-label">Design de Impressão</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">CartÃµes de Visita</a>
+													<a href="../../services/graphic-design/" class="chip-label">Cartões de Visita</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/graphic-design/" class="chip-label">Folhetos</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">GrÃ¡ficos Digitais</a>
+													<a href="../../services/graphic-design/" class="chip-label">Gráficos Digitais</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Design de ConteÃºdo</a>
+													<a href="../../services/graphic-design/" class="chip-label">Design de Conteúdo</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/graphic-design/" class="chip-label">Materiais de Marketing</a>
@@ -2198,10 +2198,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">RÃ³tulo de Marca</a>
+													<a href="../../services/packaging-design/" class="chip-label">Rótulo de Marca</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">RÃ³tulo de Produto</a>
+													<a href="../../services/packaging-design/" class="chip-label">Rótulo de Produto</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/packaging-design/" class="chip-label">Alimentos e Bebidas</a>
@@ -2239,7 +2239,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/software-&-platform-development/" class="chip-label">Desenvolvimento de Software</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/workflow-&-business-automation/" class="chip-label">AutomaÃ§Ã£o Empresarial</a>
+													<a href="../../services/workflow-&-business-automation/" class="chip-label">Automação Empresarial</a>
 												</div>
 																							<div class="chip">
 													<a href="../../services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots de IA</a>
@@ -2248,7 +2248,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="../../services/Custom-Web-Desenvolvimento/" class="chip-label">Desenvolvimento de Plataformas</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/workflow-&-business-automation/" class="chip-label">AutomaÃ§Ã£o de Processos</a>
+													<a href="../../services/workflow-&-business-automation/" class="chip-label">Automação de Processos</a>
 												</div>
 																					</div>
 									</div>
@@ -2292,7 +2292,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Business Apps</div>
 																					<div class="preview-name">UI/UX Mobile</div>
 																					<div class="preview-name">Cloud Integration</div>
@@ -2303,14 +2303,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel</a>
+											<a href="../../work/lumea/">Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Bem-estar Apps</div>
 																					<div class="preview-name">Health UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
@@ -2328,7 +2328,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/mindfit/">Mindfit - Bem-estar Mental & Fitness App</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Fitness Apps</div>
 																					<div class="preview-name">Bem-estar UI/UX</div>
 																					<div class="preview-name">Mental Health</div>
@@ -2346,7 +2346,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Event Apps</div>
 																					<div class="preview-name">Entertainment UI/UX</div>
 																					<div class="preview-name">Booking Systems</div>
@@ -2364,7 +2364,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & Neurotecnologia Platform</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Neurotecnologia</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain-Computer Interface</div>
@@ -2375,14 +2375,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity Aplicativo MÃ³vel" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity Aplicativo Móvel" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/olly/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity Aplicativo MÃ³vel</a>
+											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity Aplicativo Móvel</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">AI Assistant</div>
 																					<div class="preview-name">Productivity UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
@@ -2400,7 +2400,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & Desenvolvimento de Aplicativos</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Trading Apps</div>
 																					<div class="preview-name">Financial UI/UX</div>
 																					<div class="preview-name">Cryptocurrency</div>
@@ -2418,7 +2418,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 										</div>
-																					<div class="preview-name">Aplicativos MÃ³veis</div>
+																					<div class="preview-name">Aplicativos Móveis</div>
 																					<div class="preview-name">Neural Technology</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain Technology</div>
@@ -2459,22 +2459,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../../services/web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../../services/wordpress-websites/">Sites WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../../services/branding/">Branding</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../../services/packaging-design/">Design de Embalagens</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../../services/graphic-design/">Design GrÃ¡fico</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../../services/graphic-design/">Design Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -2484,15 +2484,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ServiÃ§os White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de IndicaÃ§Ã£o</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">ServiÃ§os GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">EndereÃ§o</div>
+									<div class="footer-col_caption">Endereço</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -2545,9 +2545,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -2561,14 +2561,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2929,8 +2929,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -3012,7 +3012,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -3026,7 +3028,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -3040,8 +3042,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Aplicativo MÃ³vel Design & Desenvolvimento Studio",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Aplicativo Móvel Design & Desenvolvimento Studio",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"pt-BR"
     },
@@ -3065,7 +3067,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/work/lumea/#webpage",
       "url": "https://aenfinite.com/work/lumea/",
-      "name": "Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel | Aenfinite",
+      "name": "Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel | Aenfinite",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "breadcrumb": {"@id": "https://aenfinite.com/work/lumea/#breadcrumb"},
       "inLanguage":"pt-BR"
@@ -3089,13 +3091,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "PortfÃ³lio",
+      "name": "Portfólio",
       "item": "https://aenfinite.com/work/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Lumea - Smart Bem-estar & Light Therapy Aplicativo MÃ³vel",
+      "name": "Lumea - Smart Bem-estar & Light Therapy Aplicativo Móvel",
       "item": "https://aenfinite.com/work/lumea/"
     }
   ]

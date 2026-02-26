@@ -5,10 +5,10 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "White Label Agencia Partnerships | Design & Desarrollo Outsourcing | Aenfinite",
-  description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services â€” delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
+  description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services — delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
   keywords: "white label services, white label web design, white label development, agency outsourcing, white label digital marketing, Aenfinite white label",
   alternates: { canonical: "https://aenfinite.com/es/agency/partner-with-us/white-label-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/white-label-services/","en":"https://aenfinite.com/agency/partner-with-us/white-label-services/","es":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/white-label-services/","de":"https://aenfinite.com/de/agency/partner-with-us/white-label-services/","it":"https://aenfinite.com/it/agency/partner-with-us/white-label-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/white-label-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/white-label-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/white-label-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/white-label-services/"} },
-  openGraph: {"title":"White Label Agencia Partnerships | Scale Your Creative Servicios | Aenfinite","description":"Grow your agencyâ€™s capabilities with Aenfiniteâ€™s white label design, branding, and web development services â€” all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  openGraph: {"title":"White Label Agencia Partnerships | Scale Your Creative Servicios | Aenfinite","description":"Grow your agency's capabilities with Aenfinite's white label design, branding, and web development services — all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"White Label Partnerships | Scale Your Agencia with Aenfinite","description":"Partner with Aenfinite and offer professional design, branding, and development under your agency name. Post-paid options available.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -889,18 +889,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>                                      </ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+                                        <a href="#">Servicios de Diseño y Creatividad â€º</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+                                            <li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 
                                             <li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-                                            <li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+                                            <li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
                                             
-                                            <li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+                                            <li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
                                             <li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
                                         </ul>
                                     </li>
@@ -908,21 +908,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <a href="#">Soluciones de Marketing y Digitales â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-                                            <li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+                                            <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
                                             <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+                                        <a href="#">Soluciones de IA y Tecnología â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -1048,7 +1048,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">Contacto</a>
@@ -1060,7 +1060,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1124,17 +1124,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">Agencia Innovadora de DiseÃ±o y Desarrollo</span>
+    <span class="marquee-line_text">Agencia Innovadora de Diseño y Desarrollo</span>
     <span class="marquee-line_text">Sitios Web, Apps y Experiencias de Marca Personalizadas</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
     <span class="marquee-line_text">Expertos en UI/UX, SEO y Marketing de Crecimiento</span>
     <span class="marquee-line_text">Confianza de Startups y Empresas Globales</span>
-    <span class="marquee-line_text">Equipo Capacitado â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Equipo Capacitado – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Proceso de Desarrollo Ãgil y Basado en Datos</span>
-    <span class="marquee-line_text">Agencia Global con RaÃ­ces del Sudeste AsiÃ¡tico</span>
+    <span class="marquee-line_text">Agencia Global con Raíces del Sudeste Asiático</span>
     <span class="marquee-line_text">Potenciando Negocios con Soluciones Escalables</span>
     <span class="marquee-line_text">Estrategias a la Medida para Cada Industria</span>
-    <span class="marquee-line_text">Expertos en Desarrollo Web, MÃ³vil y SaaS</span>
+    <span class="marquee-line_text">Expertos en Desarrollo Web, Móvil y SaaS</span>
     <span class="marquee-line_text">Soluciones de Marketing Digital Orientadas a Resultados</span>
 </div>
 									</div>
@@ -1146,13 +1146,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h1> AenfiniteÂ® - Offer White Label Partnerships</h1> 						
+          <h1> Aenfinite® - Offer White Label Partnerships</h1> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Partner with Aenfinite for comprehensive <strong>White Label Partnerships</strong> that scale your agency's capabilities without the overhead. 
-          AenfiniteÂ® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>desarrollo de aplicaciones</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
+          Aenfinite® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>desarrollo de aplicaciones</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
           <br /><br />
           <strong>Over 8+ years of white label experience</strong> serving agencies worldwide, we've completed <strong>300+ white label projects</strong> with a 
           <strong>98% client retention rate</strong>. Our dedicated white label division ensures consistent quality, quick turnaround time, and seamless client communication. 
@@ -1221,11 +1221,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="textbox-content normaltext">
 			<h2><strong>Why Choose Our Servicios de Marca Blanca?</strong></h2>
 			<p>&nbsp;</p>
-			<p>At <strong>AenfiniteÂ®</strong>, we believe in growing together with our partners. Thatâ€™s why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, desarrollo de aplicaciones, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
+			<p>At <strong>Aenfinite®</strong>, we believe in growing together with our partners. That's why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, desarrollo de aplicaciones, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
 			<p>&nbsp;</p>
-			<p>By joining our white label partnership, youâ€™re not just recommending an agencyyouâ€™re helping brands experience innovation and quality that scale your business offerings and deliver premium digital experiences. Every successful white label project helps you, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
+			<p>By joining our white label partnership, you're not just recommending an agencyyou're helping brands experience innovation and quality that scale your business offerings and deliver premium digital experiences. Every successful white label project helps you, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
 			<p>&nbsp;</p>
-			<p><strong>Hereâ€™s why youâ€™ll love partnering with us:</strong></p>
+			<p><strong>Here's why you'll love partnering with us:</strong></p>
 			<ul>
 				<li><strong>Complete Brand Transparency:</strong> We operate entirely under your agency's branding with zero visibility to your clients</li>
 				<li><strong>Post-Paid Payment Terms:</strong> Flexible payment arrangements with net-30 terms for established agency partners</li>
@@ -1233,7 +1233,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<li><strong>Scalable Capacity:</strong> Handle overflow work or expand into new service areas without hiring overhead</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Ready to explore white label partnership opportunities? EnvÃ­anos un correo at 
+			<p>Ready to explore white label partnership opportunities? Envíanos un correo at 
 				<a href="mailto:whitelabel@aenfinite.com" target="_blank" rel="noopener">whitelabel@aenfinite.com</a> 
 				to discuss how we can help scale your agency today.</p>
 		</div>
@@ -1257,13 +1257,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="infobox-row">
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">DiseÃ±o Web & Desarrollo</div>
+								<div class="infobox-title">Diseño Web & Desarrollo</div>
 								<div class="infobox-description">
 									<p>Complete website design and development services, from WordPress to custom applications. All delivered under your branding with post-paid terms.</p>
 								</div>
 								<div class="infobox-action">
 									<a href="../services/web-design/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1276,7 +1276,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/branding/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1289,7 +1289,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/digital-marketing/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1302,7 +1302,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/app-development/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1315,33 +1315,33 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/e-commerce-websites/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">DiseÃ±o UI/UX</div>
+								<div class="infobox-title">Diseño UI/UX</div>
 								<div class="infobox-description">
 									<p>User interface and experience design for web and mobile applications. Comprehensive design research, prototyping, and user testing services.</p>
 								</div>
 								<div class="infobox-action">
 									<a href="../services/ui-ux-design/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">DiseÃ±o GrÃ¡fico & Print</div>
+								<div class="infobox-title">Diseño Gráfico & Print</div>
 								<div class="infobox-description">
 									<p>Complete graphic design services including marketing materials, packaging, print collateral, and promotional graphics for all media channels.</p>
 								</div>
 								<div class="infobox-action">
 									<a href="../services/graphic-design/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1354,7 +1354,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/software-&-platform-development/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1367,7 +1367,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="../services/" class="redlink">
-										<span>Saber MÃ¡s</span>
+										<span>Saber Más</span>
 									</a>
 								</div>
 							</div>
@@ -1408,7 +1408,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="infobox-index"></div>
                             <div class="infobox-title" style="padding-top: 50px;">Step 1 <span class="chevron"></span> Partnership Setup</div>
                             <div class="infobox-description">
-                                <p>Contacto us to discuss your white-label needs. Weâ€™ll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
+                                <p>Contacto us to discuss your white-label needs. We'll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
                             </div>
                         </div>
                     </div>
@@ -1432,7 +1432,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="infobox-index"></div>
                             <div class="infobox-title" style="padding-top: 50px;">Step 3 <span class="chevron" ></span> Seamless Delivery</div>
                             <div class="infobox-description">
-                                <p>We deliver completed work under your agencyâ€™s branding, ready for client review or launch. Post-paid billing helps maintain healthy cash flow while ensuring consistent quality.</p>
+                                <p>We deliver completed work under your agency's branding, ready for client review or launch. Post-paid billing helps maintain healthy cash flow while ensuring consistent quality.</p>
                             </div>
                         </div>
                     </div>
@@ -1519,7 +1519,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox appear js-aos" style="text-align: center; margin: 40px auto 0 auto; display: flex; justify-content: center; width: 100%;">
 					<a href="mailto:whitelabel@aenfinite.com?subject=White Label - Payment Terms Inquiry" class="redlink" style="padding-bottom: 100px; margin: 0 auto;">
-						<span>Saber MÃ¡s</span>
+						<span>Saber Más</span>
 					</a>
 				</div>
 			</div>
@@ -1531,7 +1531,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1555,11 +1555,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/es/services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">DiseÃ±o de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">Diseño Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1568,13 +1568,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Asóciate con nosotros</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contacto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">DirecciÃ³n</div>
+									<div class="footer-col_caption">Dirección</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1635,7 +1635,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -1643,13 +1643,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1979,7 +1979,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2067,7 +2067,9 @@ document.addEventListener('keydown', function(event) {
 </script>
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2099,7 +2101,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite Servicios de Marca Blanca",
     "category": "Agencia Partnership",
-    "description": "Scale your business with Aenfiniteâ€™s white label creative and development services. Flexible partnership models and post-paid options available.",
+    "description": "Scale your business with Aenfinite's white label creative and development services. Flexible partnership models and post-paid options available.",
     "areaServed": {
       "@type": "Place",
       "name": "Denver, Colorado"
@@ -2129,7 +2131,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "AsÃ³ciate con Nosotros",
+      "name": "Asóciate con Nosotros",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "GoHighLevel Implementation & AutomaÃ§Ã£o ServiÃ§os | Aenfinite",
+  title: "GoHighLevel Implementation & Automação Serviços | Aenfinite",
   description: "Get expert GoHighLevel implementation, automation, and white-label support with Aenfinite. We help agencies and businesses maximize CRM efficiency, streamline workflows, and scale faster with GHL.",
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
   alternates: { canonical: "https://aenfinite.com/pt/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/ghl-services/","en":"https://aenfinite.com/agency/partner-with-us/ghl-services/","es":"https://aenfinite.com/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.com/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/ghl-services/"} },
-  openGraph: {"title":"GoHighLevel Implementation & AutomaÃ§Ã£o ServiÃ§os | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & AutomaÃ§Ã£o ServiÃ§os | Aenfinite","description":"Automate your agency workflows with Aenfiniteâ€™s GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"GoHighLevel Implementation & Automação Serviços | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Automação Serviços | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -78,7 +78,7 @@ const headStyles = `
 		
 img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
-		/* Make "ServiÃ§os" appear on new line on mobile */
+		/* Make "Serviços" appear on new line on mobile */
 		@media (max-width: 768px) {
 			.title__main h1 span span {
 				display: block !important;
@@ -740,16 +740,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency">AgÃªncia</a>
+								<a href="/pt/agency">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/pt/services/">ServiÃ§os</a>
+                                <a href="/pt/services/">Serviços</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de Desenvolvimento â€º</a>
+                                        <a href="#">Soluções de Desenvolvimento â€º</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
@@ -758,35 +758,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>                                      </ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ServiÃ§os de Design e CriaÃ§Ã£o â€º</a>
+                                        <a href="#">Serviços de Design e Criação â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
 
-                                            <li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-                                            <li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
+                                            <li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+                                            <li><a href="/pt/services/graphic-design/">Design Gráfico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
                                             
                                             <li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-                                            <li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+                                            <li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de Marketing e Digitais â€º</a>
+                                        <a href="#">Soluções de Marketing e Digitais â€º</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-                                            <li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+                                            <li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+                                            <li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
                                             <li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-                                            <li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
+                                            <li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">SoluÃ§Ãµes de IA e Tecnologia â€º</a>
+                                        <a href="#">Soluções de IA e Tecnologia â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-                                            <li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+                                            <li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -795,7 +795,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -921,7 +921,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -950,7 +950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">ServiÃ§os</span></span>
+						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">Serviços</span></span>
 													<span></span>	
 											</h1>
 									</div>
@@ -985,18 +985,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">AgÃªncia Inovadora de Design e Desenvolvimento</span>
-    <span class="marquee-line_text">Sites, Apps e ExperiÃªncias de Marca Personalizadas</span>
-    <span class="marquee-line_text">Atendendo Clientes nos EUA, CanadÃ¡ e AlÃ©m</span>
+    <span class="marquee-line_text">Agência Inovadora de Design e Desenvolvimento</span>
+    <span class="marquee-line_text">Sites, Apps e Experiências de Marca Personalizadas</span>
+    <span class="marquee-line_text">Atendendo Clientes nos EUA, Canadá e Além</span>
     <span class="marquee-line_text">Especialistas em UI/UX, SEO e Marketing de Crescimento</span>
-    <span class="marquee-line_text">ConfianÃ§a de Startups e Empresas Globais</span>
-    <span class="marquee-line_text">Equipe Qualificada â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Confiança de Startups e Empresas Globais</span>
+    <span class="marquee-line_text">Equipe Qualificada – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Processo de Desenvolvimento Ãgil e Baseado em Dados</span>
-    <span class="marquee-line_text">AgÃªncia Global com RaÃ­zes no Sudeste AsiÃ¡tico</span>
-    <span class="marquee-line_text">Capacitando NegÃ³cios com SoluÃ§Ãµes EscalÃ¡veis</span>
-    <span class="marquee-line_text">EstratÃ©gias Sob Medida para Cada IndÃºstria</span>
+    <span class="marquee-line_text">Agência Global com Raízes no Sudeste Asiático</span>
+    <span class="marquee-line_text">Capacitando Negócios com Soluções Escaláveis</span>
+    <span class="marquee-line_text">Estratégias Sob Medida para Cada Indústria</span>
     <span class="marquee-line_text">Especialistas em Desenvolvimento Web, Mobile e SaaS</span>
-    <span class="marquee-line_text">SoluÃ§Ãµes de Marketing Digital Orientadas a Resultados</span>
+    <span class="marquee-line_text">Soluções de Marketing Digital Orientadas a Resultados</span>
 </div>
 									</div>
 			</div>
@@ -1051,7 +1051,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" style="padding: 30px;">
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async" /></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async"/></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized AgÃªncia" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized Agência" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1105,7 +1105,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Choose Aenfinite for GoHighLevel ServiÃ§os?</strong></h2>
+			<h2><strong>Why Choose Aenfinite for GoHighLevel Serviços?</strong></h2>
 			<p>&nbsp;</p>
 			<p>At <strong>Aenfinite</strong>, we dont just set up GoHighLevel  we customize, optimize, and automate it to fit your business needs. Our team blends creativity with technical expertise to help you unlock the full potential of <strong>CRM automation, funnels, websites, and marketing campaigns</strong> through GHL. </p>
 			<p>&nbsp;</p>
@@ -1114,7 +1114,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<p><strong>Here's why businesses trust Aenfinite with their GoHighLevel projects:</strong></p>
 			<ul>
 				<li>Custom GHL setup tailored to your business goals</li>
-				<li>AutomaÃ§Ã£o strategies to save time and boost productivity</li>
+				<li>Automação strategies to save time and boost productivity</li>
 				<li>High-converting funnel design & development</li>
 				<li>Ongoing support, training, and white-label solutions</li>
 			</ul>
@@ -1131,7 +1131,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>GoHighLevel ServiÃ§os</h2>
+						<h2>GoHighLevel Serviços</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
@@ -1145,11 +1145,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">GHL Setup & Configuration</div>
             <div class="infobox-description">
-                <p>Our experts handle the complete GoHighLevel setup from scratch so you donâ€™t have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
-                <p>By the time weâ€™re done, youâ€™ll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
+                <p>Our experts handle the complete GoHighLevel setup from scratch so you don't have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
+                <p>By the time we're done, you'll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
             </div>
             <div class="infobox-action">
-                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup ServiÃ§os" class="redlink">
+                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup Serviços" class="redlink">
                     <span>Saiba Mais</span>
                 </a>
             </div>
@@ -1160,7 +1160,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">Funnel Design & Desenvolvimento</div>
             <div class="infobox-description">
-                <p>We create beautiful, high-converting funnels that donâ€™t just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
+                <p>We create beautiful, high-converting funnels that don't just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
                 <p>Our team combines conversion-focused design, copywriting, and automation to build a seamless experience from ad click to sale. Whether you need lead generation funnels, webinar registration, or product sales pages, we ensure that every step is optimized for engagement and ROI.</p>
                 <p>All funnels are mobile-responsive, speed-tested, and integrated with your CRM and automation workflows so nothing falls through the cracks.</p>
             </div>
@@ -1174,10 +1174,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
     <div class="infobox-cell">
         <div class="infobox appear js-aos">
-            <div class="infobox-title">White Label ServiÃ§os GHL</div>
+            <div class="infobox-title">White Label Serviços GHL</div>
             <div class="infobox-description">
                 <p>Scale your agency without adding extra overhead. Our White Label GHL service let's you offer GoHighLevel setup, funnel building, and automation services under your own brand  while we do all the heavy lifting behind the scenes.</p>
-                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agencyâ€™s branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
+                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agency's branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
                 <p>This is perfect for agencies looking to expand service offerings quickly, increase monthly recurring revenue, and focus on client relationships while we handle fulfillment.</p>
             </div>
             <div class="infobox-action">
@@ -1201,7 +1201,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Comprehensive ServiÃ§os GHL</h2>
+						<h2>Comprehensive Serviços GHL</h2>
 					</div>
 				</div>
 				<div class="infobox-grid infobox-grid__2">
@@ -1227,7 +1227,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Marketing AutomaÃ§Ã£o</div>
+								<div class="infobox-title">Marketing Automação</div>
 								<div class="infobox-description">
 									<p>Advanced automation workflows including email campaigns, SMS marketing, appointment scheduling, and follow-up sequences. Designed to nurture leads and increase conversions.</p>
 									<ul>
@@ -1238,7 +1238,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</ul>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing AutomaÃ§Ã£o" class="redlink">
+									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing Automação" class="redlink">
 										<span>Saiba Mais</span>
 									</a>
 								</div>
@@ -1307,7 +1307,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1320,22 +1320,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/pt/services/">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/pt/services/">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/pt/services/web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/pt/services/branding/">Branding</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/pt/services/packaging-design/">Design de Embalagens</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/pt/services/graphic-design/">Design Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1350,7 +1350,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">EndereÃ§o</div>
+									<div class="footer-col_caption">Endereço</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1403,9 +1403,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/pt/services/">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/pt/services/">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -1419,13 +1419,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1702,8 +1702,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -1787,7 +1787,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1799,7 +1801,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/ghl-services/",
-  "name": "GoHighLevel Implementation & AutomaÃ§Ã£o ServiÃ§os | Aenfinite",
+  "name": "GoHighLevel Implementation & Automação Serviços | Aenfinite",
   "description": "Expert GoHighLevel implementation, CRM setup, and automation services by Aenfinite for agencies and businesses seeking scalability and efficiency.",
   "publisher": {
     "@type": "Organization",
@@ -1817,12 +1819,12 @@ export default function Page() {
   },
   "mainEntity": {
     "@type": "Service",
-    "name": "GoHighLevel Implementation & AutomaÃ§Ã£o",
+    "name": "GoHighLevel Implementation & Automação",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite"
     },
-    "serviceType": "GoHighLevel CRM Setup, AutomaÃ§Ã£o & White-Label Support",
+    "serviceType": "GoHighLevel CRM Setup, Automação & White-Label Support",
     "areaServed": {
       "@type": "Place",
       "name": "Denver, Colorado"
@@ -1847,7 +1849,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "AgÃªncia",
+      "name": "Agência",
       "item": "https://aenfinite.com/agency/"
     },
     {
@@ -1859,7 +1861,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "GoHighLevel Implementation & AutomaÃ§Ã£o ServiÃ§os",
+      "name": "GoHighLevel Implementation & Automação Serviços",
       "item": "https://aenfinite.com/agency/partner-with-us/ghl-services/"
     }
   ]

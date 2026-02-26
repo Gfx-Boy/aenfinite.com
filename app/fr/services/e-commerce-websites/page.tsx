@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional E-commerce Website DÃ©veloppement | Online Store Solutions | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a leading e-commerce website development agency offering custom online store design, payment gateway integration, and shopping cart optimization. We build high-performance e-commerce websites that convert visitors into loyal customers.",
+  title: "Professional E-commerce Website Développement | Online Store Solutions | Aenfinite®",
+  description: "Aenfinite® is a leading e-commerce website development agency offering custom online store design, payment gateway integration, and shopping cart optimization. We build high-performance e-commerce websites that convert visitors into loyal customers.",
   keywords: "e-commerce website development, online store development, Shopify development, WooCommerce development, payment gateway integration, shopping cart development, e-commerce solutions, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/e-commerce-websites/", languages: {"x-default":"https://aenfinite.com/services/e-commerce-websites/","en":"https://aenfinite.com/services/e-commerce-websites/","es":"https://aenfinite.com/es/services/e-commerce-websites/","fr":"https://aenfinite.com/fr/services/e-commerce-websites/","de":"https://aenfinite.com/de/services/e-commerce-websites/","it":"https://aenfinite.com/it/services/e-commerce-websites/","ar":"https://aenfinite.com/ar/services/e-commerce-websites/","pt":"https://aenfinite.com/pt/services/e-commerce-websites/","zh":"https://aenfinite.com/zh/services/e-commerce-websites/","hi":"https://aenfinite.com/hi/services/e-commerce-websites/","nl":"https://aenfinite.com/nl/services/e-commerce-websites/","ja":"https://aenfinite.com/ja/services/e-commerce-websites/","ko":"https://aenfinite.com/ko/services/e-commerce-websites/"} },
-  openGraph: {"title":"Professional E-commerce Website DÃ©veloppement | Online Store Solutions | AenfiniteÂ®","description":"AenfiniteÂ® specializes in e-commerce website development, including custom store design, secure checkout systems, and conversion optimization. Build your digital store with AenfiniteÂ®.","url":"https://aenfinite.com/fr/services/e-commerce-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional E-commerce Website DÃ©veloppement | Online Store Solutions | AenfiniteÂ®","description":"AenfiniteÂ® provides professional dÃ©veloppement e-commerce including online store creation, payment integration, and conversion optimization for modern businesses.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional E-commerce Website Développement | Online Store Solutions | Aenfinite®","description":"Aenfinite® specializes in e-commerce website development, including custom store design, secure checkout systems, and conversion optimization. Build your digital store with Aenfinite®.","url":"https://aenfinite.com/fr/services/e-commerce-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional E-commerce Website Développement | Online Store Solutions | Aenfinite®","description":"Aenfinite® provides professional développement e-commerce including online store creation, payment integration, and conversion optimization for modern businesses.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1317,7 +1317,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>E-commerce Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">DÃ©veloppement</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">online stores</span>, and drives sales growth.</span>
+						<span>E-commerce Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Développement</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">online stores</span>, and drives sales growth.</span>
 													
 											</h1>
 									</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional E-commerce Website DÃ©veloppement Services</span>
-    <span class="marquee-line_text">Shopping Cart Solutions, IntÃ©gration de Paiement & Optimization</span>
+    <span class="marquee-line_text">Professional E-commerce Website Développement Services</span>
+    <span class="marquee-line_text">Shopping Cart Solutions, Intégration de Paiement & Optimization</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
-    <span class="marquee-line_text">Specialists in E-commerce Performance & ExpÃ©rience Utilisateur</span>
+    <span class="marquee-line_text">Specialists in E-commerce Performance & Expérience Utilisateur</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for E-commerce Solutions</span>
-    <span class="marquee-line_text">High-Converting DÃ©veloppement E-commerce & Security</span>
+    <span class="marquee-line_text">High-Converting Développement E-commerce & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
     <span class="marquee-line_text">Professional E-commerce Agence with Proven Results</span>
     <span class="marquee-line_text">Comprehensive E-commerce Maintenance & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable DÃ©veloppement E-commerce & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable Développement E-commerce & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1375,7 +1375,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/husnohaya/">
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya E-commerce Website DÃ©veloppement" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya E-commerce Website Développement" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/husnohaya/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1383,7 +1383,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="01">
 											<div class="preview-name preview-name__caption"><a href="../../work/husnohaya/">Husnohaya - E-commerce Fashion Platform</a></div>
-																																		<div class="preview-name">DÃ©veloppement E-commerce</div>
+																																		<div class="preview-name">Développement E-commerce</div>
 																							<div class="preview-name">WooCommerce Integration</div>
 																							<div class="preview-name">Payment Gateway</div>
 																							<div class="preview-name">Product Management</div>
@@ -1397,7 +1397,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/afropopup/">
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop E-commerce DÃ©veloppement de Plateformes" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop E-commerce Développement de Plateformes" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/afropopup/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1450,7 +1450,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional E-commerce Website DÃ©veloppement services that create powerful, scalable online stores and drive sales growth. We manage comprehensive e-commerce solutions, custom store design, payment integration, and optimization services that generate exceptional customer experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional E-commerce Website Développement services that create powerful, scalable online stores and drive sales growth. We manage comprehensive e-commerce solutions, custom store design, payment integration, and optimization services that generate exceptional customer experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/fr/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1503,7 +1503,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite DÃ©veloppement E-commerce Case Studies</h2>
+						<h2>Aenfinite Développement E-commerce Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1511,16 +1511,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya E-commerce Fashion DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya E-commerce Fashion Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/husnohaya/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">DÃ©veloppement E-commerce</div>
+																					<div class="preview-name">Développement E-commerce</div>
 																					<div class="preview-name">WooCommerce Platform</div>
-																					<div class="preview-name">IntÃ©gration de Paiement</div>
+																					<div class="preview-name">Intégration de Paiement</div>
 																					<div class="preview-name">Fashion E-commerce</div>
 																					<div class="preview-name">Product Management</div>
 											
@@ -1530,7 +1530,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Artist E-commerce DÃ©veloppement de Plateformes" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Artist E-commerce Développement de Plateformes" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/afropopup/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
@@ -1601,7 +1601,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-<strong>Je suis intÃ©ressÃ© par...</strong>
+<strong>Je suis intéressé par...</strong>
 <span class="form-control-wrap" data-name="checkbox-select">
     <span class="form-control checkbox-group" style="padding-bottom: 50px">
 
@@ -1616,13 +1616,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         </span>
 
         <span class="list-item">
-            <input type="checkbox" name="services" value="WooCommerce DÃ©veloppement" id="woocommerce-development" />
-            <label for="woocommerce-development" class="list-item-label">WooCommerce DÃ©veloppement</label>
+            <input type="checkbox" name="services" value="WooCommerce Développement" id="woocommerce-development" />
+            <label for="woocommerce-development" class="list-item-label">WooCommerce Développement</label>
         </span>
 
         <span class="list-item">
-            <input type="checkbox" name="services" value="Magento DÃ©veloppement" id="magento-development" />
-            <label for="magento-development" class="list-item-label">Magento DÃ©veloppement</label>
+            <input type="checkbox" name="services" value="Magento Développement" id="magento-development" />
+            <label for="magento-development" class="list-item-label">Magento Développement</label>
         </span>
 
         <span class="list-item">
@@ -1709,12 +1709,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
     <div class="section-caption js-aos">
         <div class="section-caption_text">
-            <h2>DÃ©veloppement E-commerce Expertise</h2>
+            <h2>Développement E-commerce Expertise</h2>
         </div>
     </div>
     <div class="textbox textbox__push js-aos appear">
         <div class="textbox-content">
-            Aenfinite delivers end-to-end dÃ©veloppement e-commerce solutions  from custom online stores and secure payment integrations to scalable enterprise-level platforms  built to boost sales and create seamless shopping experiences.
+            Aenfinite delivers end-to-end développement e-commerce solutions  from custom online stores and secure payment integrations to scalable enterprise-level platforms  built to boost sales and create seamless shopping experiences.
         </div>
     </div>
 </div>
@@ -1723,7 +1723,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom DÃ©veloppement E-commerce</div>
+						<div class="pane-title">Custom Développement E-commerce</div>
 						<div class="pane-subtitle">
 							<p>Aenfinite specializes in building custom E-commerce Websites from the ground up. Our expert developers create bespoke online store designs, custom shopping cart solutions, and tailored functionality that perfectly aligns with your business objectives. We ensure your e-commerce site is scalable, secure, and optimized for performance.</p>
 						</div>
@@ -1758,7 +1758,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Headless WordPress DÃ©veloppement</div>
+						<div class="pane-title">Headless WordPress Développement</div>
 						<div class="pane-subtitle">
 							<p>Experience the future of WordPress with our headless CMS solutions. We decouple your WordPress backend from the frontend, enabling faster load times, enhanced security, and the flexibility to deliver content across multiple platforms and devices with modern frameworks like React or Vue.js.</p>
 						</div>
@@ -1792,7 +1792,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>DÃ©veloppement E-commerce Process</h2>
+                    <h2>Développement E-commerce Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1835,7 +1835,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>Our designers create a visually stunning, conversion-focused storefront that highlights products, drives engagement, and maintains brand consistency across all devices.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-                            <span>ExpÃ©rience Utilisateur (UX)</span>
+                            <span>Expérience Utilisateur (UX)</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-2-2">
                             <p>We craft smooth navigation, product discovery flows, and frictionless checkout experiences. Wireframes and flowcharts are created to ensure users can find and purchase products quickly.</p>
@@ -1857,12 +1857,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-content js-switch-copy"></div>
                 </div>
 
-                <!-- DÃ©veloppement Phase -->
+                <!-- Développement Phase -->
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">DÃ©veloppement E-commerce</div>
+                    <div class="nlist-caption">Développement E-commerce</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-                            <span>Store DÃ©veloppement</span>
+                            <span>Store Développement</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
                             <p>Our developers build a fully functional online store, implementing product catalog, filters, wishlists, carts, and secure checkout. We follow best practices for performance, SEO, and security.</p>
@@ -1926,7 +1926,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">DÃ©veloppement E-commerce</span> is the perfect blend of technical expertise and strategic online marketing. RÃ©alisations with a team that excels at both building high-converting stores and delivering exceptional e-commerce performance.</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Développement E-commerce</span> is the perfect blend of technical expertise and strategic online marketing. Réalisations with a team that excels at both building high-converting stores and delivering exceptional e-commerce performance.</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1938,16 +1938,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite E-commerce Website DÃ©veloppement Services</h2>
+                    <h2>Aenfinite E-commerce Website Développement Services</h2>
                 </div>
             </div>
             <div class="service-grid">
                 <div>
                     <div class="service-list js-service-container fadein js-aos">
 
-                        <!-- Custom DÃ©veloppement E-commerce -->
+                        <!-- Custom Développement E-commerce -->
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom DÃ©veloppement E-commerce</div>
+                            <div class="service-caption js-service-caption">Custom Développement E-commerce</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2079,7 +2079,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     </div>
                                 </div>
                                 <div class="service-text">
-                                    <p>Our work doesnâ€™t end after launch  we provide ongoing support, updates, and performance optimization to keep your store running smoothly and generating revenue.</p>
+                                    <p>Our work doesn't end after launch  we provide ongoing support, updates, and performance optimization to keep your store running smoothly and generating revenue.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
                                         <p><strong>Our maintenance includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2119,7 +2119,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Vous Avez un Projet en TÃªte ? Construisons Quelque Chose de Formidable Ensemble.</span>
+								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2132,7 +2132,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2220,7 +2220,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2236,14 +2236,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2481,8 +2481,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2613,7 +2613,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2627,7 +2629,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2639,8 +2641,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - DÃ©veloppement E-commerce Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Développement E-commerce Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2650,7 +2652,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - Professional DÃ©veloppement E-commerce Agence",
+      "caption": "Aenfinite® - Professional Développement E-commerce Agence",
       "inLanguage":"fr-FR"
     },
     {
@@ -2666,7 +2668,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/e-commerce-websites/#webpage",
       "url": "https://aenfinite.com/services/e-commerce-websites/",
-      "name": "Professional E-commerce Website DÃ©veloppement | Online Store Design & IntÃ©gration de Paiement | AenfiniteÂ®",
+      "name": "Professional E-commerce Website Développement | Online Store Design & Intégration de Paiement | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2676,13 +2678,13 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional E-commerce Website DÃ©veloppement | Online Store Design & IntÃ©gration de Paiement | AenfiniteÂ®",
-      "keywords": "DÃ©veloppement E-commerce, Online Store Design, Shopping Cart Integration, Payment Processing, Conversion Optimization, E-commerce Security",
+      "headline": "Professional E-commerce Website Développement | Online Store Design & Intégration de Paiement | Aenfinite®",
+      "keywords": "Développement E-commerce, Online Store Design, Shopping Cart Integration, Payment Processing, Conversion Optimization, E-commerce Security",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional e-commerce website development services including online store design, shopping cart integration, and secure payment gateways â€” built to scale your business.",
+      "description": "Aenfinite® delivers professional e-commerce website development services including online store design, shopping cart integration, and secure payment gateways — built to scale your business.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"fr-FR",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/e-commerce-websites/#webpage" }
@@ -2767,7 +2769,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional E-commerce Website DÃ©veloppement",
+      "name": "Professional E-commerce Website Développement",
       "item": "https://aenfinite.com/services/e-commerce-websites/"
     }
   ]

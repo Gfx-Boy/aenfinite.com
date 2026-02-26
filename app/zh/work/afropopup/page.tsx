@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®",
-  description: "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.",
+  title: "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®",
+  description: "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.",
   keywords: "AfroPop craft soda, e-commerce website design, Shopify design, artist collaboration platform, beverage e-commerce, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/zh/work/afropopup/", languages: {"x-default":"https://aenfinite.com/work/afropopup/","en":"https://aenfinite.com/work/afropopup/","es":"https://aenfinite.com/es/work/afropopup/","fr":"https://aenfinite.com/fr/work/afropopup/","de":"https://aenfinite.com/de/work/afropopup/","it":"https://aenfinite.com/it/work/afropopup/","ar":"https://aenfinite.com/ar/work/afropopup/","pt":"https://aenfinite.com/pt/work/afropopup/","zh":"https://aenfinite.com/zh/work/afropopup/","hi":"https://aenfinite.com/hi/work/afropopup/","nl":"https://aenfinite.com/nl/work/afropopup/","ja":"https://aenfinite.com/ja/work/afropopup/","ko":"https://aenfinite.com/ko/work/afropopup/"} },
-  openGraph: {"title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.","url":"https://aenfinite.com/zh/work/afropopup/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"}]},
-  twitter: {"card":"summary_large_image","title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | AenfiniteÂ®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"]},
+  openGraph: {"title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.","url":"https://aenfinite.com/zh/work/afropopup/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"}]},
+  twitter: {"card":"summary_large_image","title":"AfroPop - Craft Soda E-commerce & Artist Collaboration Platform | Aenfinite®","description":"AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif"]},
   robots: { index: true, follow: true },
 };
 
@@ -858,7 +858,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="keygrid-inner js-aos appear">
 								<h1 class="keygrid-maintitle">Afro Popup - African Culture &amp; Events Platform</h1>
 								<div class="keygrid-description">
-									<p>AfroPop is a premium craft soda company celebrating African culture through authentic flavors and artistic expression. Each can features original artwork by emerging Black artists, creating a unique fusion of taste and visual culture. Our team at AenfiniteÂ® designed a vibrant e-commerce experience showcasing their signature varieties including Summer Nights and Blvcker The Berry, emphasizing the brand's commitment to craft ingredients, creativity, and cultural representation in every sip.</p>
+									<p>AfroPop is a premium craft soda company celebrating African culture through authentic flavors and artistic expression. Each can features original artwork by emerging Black artists, creating a unique fusion of taste and visual culture. Our team at Aenfinite® designed a vibrant e-commerce experience showcasing their signature varieties including Summer Nights and Blvcker The Berry, emphasizing the brand's commitment to craft ingredients, creativity, and cultural representation in every sip.</p>
 								</div>
 								<div class="service-tags tagswork" style="display:none;">
 									<div class="chips">
@@ -870,7 +870,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 								<div class="tagslist">
-									<b>AenfiniteÂ® Scope of ä½œå“:</b>
+									<b>Aenfinite® Scope of ä½œå“:</b>
 									<ul>
 										<li>E-commerce ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</li><li>Shopify Store Customization</li><li>Product Showcase UI/UX</li><li>å“ç‰Œå½¢è±¡ & Visual Design</li><li>Mobile-Responsive Shopping Experience</li><li>Artist Collaboration Integration</li><li>Cultural Brand Messaging</li><li>Payment & Checkout Optimization</li>									</ul>
 								</div>
@@ -924,12 +924,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<span itemprop="name" class="name-project">Mindfit - å¿ƒç†å¥åº· & Fitness App UI/UX & å¼€å‘</span>
 					<div class="wrapper">
 						<div class="inner-wrapper">
-						  	<h2>Mindfit Client Testimonial for AenfiniteÂ®</h2>
+						  	<h2>Mindfit Client Testimonial for Aenfinite®</h2>
 						  	<div class="container">
 								<div class="con-stats">
 							  		<div class="con-tittle" itemprop="reviewBody">
 										<p>
-											"AenfiniteÂ® transformed our vision into a cutting-edge wellness platform. Their UI/UX expertise made complex health data accessible and intuitive. The sleek interface and seamless user experience have revolutionized how our users track their wellness journey. Exceptional work!"										</p>
+											"Aenfinite® transformed our vision into a cutting-edge wellness platform. Their UI/UX expertise made complex health data accessible and intuitive. The sleek interface and seamless user experience have revolutionized how our users track their wellness journey. Exceptional work!"										</p>
 							  		</div>
 							  		<div class="con-par">
 										<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -1423,8 +1423,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
-        Our mobile-first, SEO-friendly websites are built to performâ€”optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        Our mobile-first, SEO-friendly websites are built to perform—optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/zh/contact/" class="redlink">
@@ -1460,8 +1460,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/zh/contact/" class="redlink">
@@ -1634,7 +1634,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals â€” itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals — it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1671,7 +1671,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>we create packaging that does more than protect a product â€” it tells a story and grabs attention on the shelf. 
+										<p>we create packaging that does more than protect a product — it tells a story and grabs attention on the shelf. 
     Our team blends creative design with production-ready solutions, ensuring your packaging not only looks stunning but is practical and cost-effective to manufacture. 
     From innovative concepts for new startups to reimagining established product lines, we craft packaging that stands out, builds emotional connection, and turns casual shoppers into loyal customers.</p>
 									</div>
@@ -1888,7 +1888,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2555,7 +2555,9 @@ document.addEventListener('keydown', function(event) {
 	});
 	</script>
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2567,7 +2569,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "headline": "AfroPop - Craft Soda E-commerce & Artist Collaboration Platform",
-  "description": "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by AenfiniteÂ®.",
+  "description": "AfroPop craft soda e-commerce website featuring artisanal African-inspired beverages with original artwork by emerging Black artists. Premium Shopify design by Aenfinite®.",
   "url": "https://aenfinite.com/work/afropop/",
   "datePublished": "2025-09-07T16:30:42-04:00",
   "dateModified": "2025-09-07T10:17:27-04:00",
@@ -2580,12 +2582,12 @@ export default function Page() {
   },
   "author": {
     "@type": "Organization",
-    "name": "AenfiniteÂ®",
+    "name": "Aenfinite®",
     "url": "https://aenfinite.com"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "AenfiniteÂ®",
+    "name": "Aenfinite®",
     "logo": {
       "@type": "ImageObject",
       "url": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png"

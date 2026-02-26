@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Design UI/UX ServiÃ§os | User Interface & Experience Design AgÃªncia | Aenfinite",
-  description: "AenfiniteÂ® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
+  title: "Design UI/UX Serviços | User Interface & Experience Design Agência | Aenfinite",
+  description: "Aenfinite® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
   keywords: "design UI UX, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/ui-ux-design/", languages: {"x-default":"https://aenfinite.com/services/ui-ux-design/","en":"https://aenfinite.com/services/ui-ux-design/","es":"https://aenfinite.com/es/services/ui-ux-design/","fr":"https://aenfinite.com/fr/services/ui-ux-design/","de":"https://aenfinite.com/de/services/ui-ux-design/","it":"https://aenfinite.com/it/services/ui-ux-design/","ar":"https://aenfinite.com/ar/services/ui-ux-design/","pt":"https://aenfinite.com/pt/services/ui-ux-design/","zh":"https://aenfinite.com/zh/services/ui-ux-design/","hi":"https://aenfinite.com/hi/services/ui-ux-design/","nl":"https://aenfinite.com/nl/services/ui-ux-design/","ja":"https://aenfinite.com/ja/services/ui-ux-design/","ko":"https://aenfinite.com/ko/services/ui-ux-design/"} },
-  openGraph: {"title":"Design UI/UX ServiÃ§os | User Interface & Experience Design AgÃªncia | Aenfinite","description":"Explore Aenfiniteâ€™s expert UI/UX design services â€” from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/pt/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Design UI/UX ServiÃ§os | User Interface & Experience Design AgÃªncia | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Design UI/UX Serviços | User Interface & Experience Design Agência | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/pt/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Design UI/UX Serviços | User Interface & Experience Design Agência | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,16 +1104,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency/">AgÃªncia</a>
+								<a href="/pt/agency/">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/pt/services/">ServiÃ§os</a>
+                                <a href="/pt/services/">Serviços</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
@@ -1122,36 +1122,36 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>									</ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ServiÃ§os de Design e CriaÃ§Ã£o â€º</a>
+										<a href="#">Serviços de Design e Criação â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-											<li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
+											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+											<li><a href="/pt/services/graphic-design/">Design Gráfico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
 											
 											<li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-											<li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+											<li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-											<li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
 											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-											<li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
+											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1160,7 +1160,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,17 +1353,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Design UI/UX ServiÃ§os</span>
+    <span class="marquee-line_text">Professional Design UI/UX Serviços</span>
     <span class="marquee-line_text">User Research, Wireframing & Prototyping</span>
-    <span class="marquee-line_text">Atendendo Clientes nos EUA, CanadÃ¡ e AlÃ©m</span>
+    <span class="marquee-line_text">Atendendo Clientes nos EUA, Canadá e Além</span>
     <span class="marquee-line_text">Specialists in User Interface & Experience Design</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Design UI/UX</span>
-    <span class="marquee-line_text">High-Converting ExperiÃªncia do UsuÃ¡rio & Interface Design</span>
+    <span class="marquee-line_text">High-Converting Experiência do Usuário & Interface Design</span>
     <span class="marquee-line_text">Professional Design UI/UX & Research Solutions</span>
-    <span class="marquee-line_text">Professional Design UI/UX AgÃªncia with Proven Results</span>
+    <span class="marquee-line_text">Professional Design UI/UX Agência with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Design System & Usability Support</span>
     <span class="marquee-line_text">Custom Design UI/UX Solutions for Every Industry</span>
-    <span class="marquee-line_text">Interface Optimization & ExperiÃªncia do UsuÃ¡rio Testing</span>
+    <span class="marquee-line_text">Interface Optimization & Experiência do Usuário Testing</span>
     <span class="marquee-line_text">Scalable Design UI/UX & Long-term User Engagement</span>
 </div>
 						                    </div>
@@ -1384,7 +1384,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">UI/UX Mobile</div>
 																							<div class="preview-name">Financial Design</div>
 																							<div class="preview-name">Investment Platform</div>
-																							<div class="preview-name">ExperiÃªncia do UsuÃ¡rio</div>
+																							<div class="preview-name">Experiência do Usuário</div>
 																					</div>
 									</div>
 								</div>
@@ -1481,14 +1481,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive Aplicativo MÃ³vel Design UI/UX by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive Aplicativo Móvel Design UI/UX by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/Olly/">Olly - Interactive Aplicativo MÃ³vel</a></div>
+											<div class="preview-name preview-name__caption"><a href="../../work/Olly/">Olly - Interactive Aplicativo Móvel</a></div>
 																																		<div class="preview-name">UI/UX Mobile</div>
 																							<div class="preview-name">Interactive Design</div>
 																							<div class="preview-name">User Engagement</div>
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>client satisfaction rate with Aenfiniteâ€™s UI/UX design solutions and product experiences</div>
+							<div>client satisfaction rate with Aenfinite's UI/UX design solutions and product experiences</div>
 						</div>
 					</div>
 				</div>
@@ -1571,7 +1571,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contato Aenfinite for Expert Design UI/UX ServiÃ§os</h2>
+				<h2>Contato Aenfinite for Expert Design UI/UX Serviços</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1604,17 +1604,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Website UI Design" id="ui-design" /><label for="ui-design" class="list-item-label">Website UI Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="Aplicativo MÃ³vel UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">Aplicativo MÃ³vel UI/UX</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="Aplicativo Móvel UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">Aplicativo Móvel UI/UX</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Wireframing & Prototyping" id="wireframing" /><label for="wireframing" class="list-item-label">Wireframing & Prototyping</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="User Research & Testing" id="user-research" /><label for="user-research" class="list-item-label">User Research & Testing</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Dashboard & SaaS Design" id="dashboard-design" /><label for="dashboard-design" class="list-item-label">Dashboard & SaaS Design</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="UX Strategy Consultation" id="ux-strategy" /><label for="ux-strategy" class="list-item-label">UX Strategy Consultation</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="Outro UI/UX ServiÃ§os" id="other-uiux" /><label for="other-uiux" class="list-item-label">Outro UI/UX ServiÃ§os</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="Outro UI/UX Serviços" id="other-uiux" /><label for="other-uiux" class="list-item-label">Outro UI/UX Serviços</label></span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orÃ§amento aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orçamento aproximado" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1677,7 +1677,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">ExperiÃªncia do UsuÃ¡rio Research</div>
+						<div class="pane-title">Experiência do Usuário Research</div>
 						<div class="pane-subtitle">
 							<p>Understand your users deeply with comprehensive user experience research services. We conduct user interviews, usability testing, persona development, journey mapping, and behavioral analysis that inform design decisions and enhance digital experiences.</p>
 						</div>
@@ -1862,7 +1862,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Design UI/UX</span> is the perfect blend of creativity, usability, and functionality. PortfÃ³lio with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Design UI/UX</span> is the perfect blend of creativity, usability, and functionality. Portfólio with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1873,7 +1873,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Design UI/UX ServiÃ§os</h2>
+					<h2>Aenfinite Design UI/UX Serviços</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2066,16 +2066,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Design UI/UX</a></li>
@@ -2091,15 +2091,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ServiÃ§os White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de IndicaÃ§Ã£o</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">ServiÃ§os GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">EndereÃ§o</div>
+								<div class="footer-col_caption">Endereço</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2154,9 +2154,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -2170,14 +2170,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2415,8 +2415,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -2481,7 +2481,7 @@ document.addEventListener('keydown', function(event) {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2549,7 +2549,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2563,7 +2565,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [
@@ -2582,8 +2584,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Creative Digital AgÃªncia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Creative Digital Agência",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"pt-BR"
     },
@@ -2599,7 +2601,7 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "ServiÃ§os" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "Serviços" }
         },
         {
           "@type": "ListItem",
@@ -2612,7 +2614,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/ui-ux-design/#webpage",
       "url": "https://aenfinite.com/services/ui-ux-design/",
-      "name": "Design UI/UX ServiÃ§os | User Interface & Experience Design AgÃªncia | AenfiniteÂ®",
+      "name": "Design UI/UX Serviços | User Interface & Experience Design Agência | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2622,7 +2624,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® Design UI/UX ServiÃ§os"
+        "caption": "Aenfinite® Design UI/UX Serviços"
       },
       "breadcrumb": { "@id": "https://aenfinite.com/services/ui-ux-design/#breadcrumb" },
       "inLanguage":"pt-BR"
@@ -2630,16 +2632,16 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/ui-ux-design/#article",
-      "headline": "Design UI/UX ServiÃ§os | User Interface & Experience Design AgÃªncia | AenfiniteÂ®",
-      "description": "AenfiniteÂ® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "headline": "Design UI/UX Serviços | User Interface & Experience Design Agência | Aenfinite®",
+      "description": "Aenfinite® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"pt-BR",
       "isPartOf": { "@id": "https://aenfinite.com/services/ui-ux-design/#webpage" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
-      "keywords": "UI Design, UX Design, ExperiÃªncia do UsuÃ¡rio, Wireframes, Prototyping, Usability Testing, Interface Design"
+      "keywords": "UI Design, UX Design, Experiência do Usuário, Wireframes, Prototyping, Usability Testing, Interface Design"
     }
   ]
 }` }}
@@ -2672,7 +2674,7 @@ export default function Page() {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2714,13 +2716,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ServiÃ§os",
+      "name": "Serviços",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Design UI/UX ServiÃ§os",
+      "name": "Design UI/UX Serviços",
       "item": "https://aenfinite.com/services/ui-ux-design/"
     }
   ]

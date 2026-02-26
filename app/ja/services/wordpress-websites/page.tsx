@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
+  title: "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | Aenfinite®",
+  description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
   keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
-  openGraph: {"title":"Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | AenfiniteÂ®","description":"AenfiniteÂ® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/ja/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | AenfiniteÂ®","description":"AenfiniteÂ® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/ja/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1502,7 +1502,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="shiftbox-content">
 				<div class="preview">
 					<div class="preview-content" data-index="06">
-						<div class="preview-name preview-name__caption"><a href="/ja/work/blue-vine-marketing/">Blue Vine Marketing â€“ Growth Solutions</a></div>
+						<div class="preview-name preview-name__caption"><a href="/ja/work/blue-vine-marketing/">Blue Vine Marketing – Growth Solutions</a></div>
 						<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
 						<div class="preview-name">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</div>
 						<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
@@ -2708,7 +2708,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2722,7 +2724,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2736,8 +2738,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - WordPress é–‹ç™º ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - WordPress é–‹ç™º ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ja-JP"
     },
@@ -2747,7 +2749,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - WordPress é–‹ç™º ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "caption": "Aenfinite® - WordPress é–‹ç™º ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
       "inLanguage":"ja-JP"
     },
     {
@@ -2775,7 +2777,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/wordpress-websites/#webpage",
       "url": "https://aenfinite.com/services/wordpress-websites/",
-      "name": "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | AenfiniteÂ®",
+      "name": "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2786,12 +2788,12 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/wordpress-websites/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and Digital Strategist at AenfiniteÂ®",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and Digital Strategist at Aenfinite®",
       "image": {
         "@type": "ImageObject",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"ja-JP"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
@@ -2799,13 +2801,13 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/wordpress-websites/#article",
-      "headline": "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | AenfiniteÂ®",
+      "headline": "Expert WordPress Website é–‹ç™º | Custom Themes & ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º | Aenfinite®",
       "keywords": "WordPress é–‹ç™º, ã‚«ã‚¹ã‚¿ãƒ WordPress Themes, ãƒ—ãƒ©ã‚°ã‚¤ãƒ³é–‹ç™º, WooCommerce é–‹ç™º, WordPress ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹, WordPress Security, Website Optimization",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/wordpress-websites/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® provides expert WordPress development services including custom theme creation, plugin development, WooCommerce integration, and ongoing maintenance. Our WordPress solutions are designed for performance, security, and business scalability.",
+      "description": "Aenfinite® provides expert WordPress development services including custom theme creation, plugin development, WooCommerce integration, and ongoing maintenance. Our WordPress solutions are designed for performance, security, and business scalability.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"ja-JP",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/wordpress-websites/#webpage" }

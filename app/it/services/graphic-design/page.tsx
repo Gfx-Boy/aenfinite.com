@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | AenfiniteÂ®",
+  title: "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | Aenfinite®",
   description: "Aenfinite is a professional graphic design agency specializing in print design, digital graphics, brand collateral, and visual communication. We create designs that strengthen brand identity, engage audiences, and drive business growth.",
   keywords: "graphic design, print design, visual communication, brand collateral, marketing materials, infographic design, flyer design, poster design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/it/services/graphic-design/", languages: {"x-default":"https://aenfinite.com/services/graphic-design/","en":"https://aenfinite.com/services/graphic-design/","es":"https://aenfinite.com/es/services/graphic-design/","fr":"https://aenfinite.com/fr/services/graphic-design/","de":"https://aenfinite.com/de/services/graphic-design/","it":"https://aenfinite.com/it/services/graphic-design/","ar":"https://aenfinite.com/ar/services/graphic-design/","pt":"https://aenfinite.com/pt/services/graphic-design/","zh":"https://aenfinite.com/zh/services/graphic-design/","hi":"https://aenfinite.com/hi/services/graphic-design/","nl":"https://aenfinite.com/nl/services/graphic-design/","ja":"https://aenfinite.com/ja/services/graphic-design/","ko":"https://aenfinite.com/ko/services/graphic-design/"} },
-  openGraph: {"title":"Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | AenfiniteÂ®","description":"Aenfinite delivers creative graphic design solutions, including print design, brand visuals, and digital communication. We help brands stand out through design excellence.","url":"https://aenfinite.com/it/services/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | AenfiniteÂ®","description":"AenfiniteÂ® provides expert graphic design services, from print design and digital branding to full visual communication solutions.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | Aenfinite®","description":"Aenfinite delivers creative graphic design solutions, including print design, brand visuals, and digital communication. We help brands stand out through design excellence.","url":"https://aenfinite.com/it/services/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | Aenfinite®","description":"Aenfinite® provides expert graphic design services, from print design and digital branding to full visual communication solutions.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1854,7 +1854,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Client Brief</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We start by understanding your brandâ€™s vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
+							<p>We start by understanding your brand's vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
@@ -2114,7 +2114,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Our partnership doesnâ€™t end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
+									<p>Our partnership doesn't end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our design support includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2653,7 +2653,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2667,7 +2669,7 @@ export default function Page() {
       {
         "@type": "Organization",
         "@id": "https://aenfinite.com/#organization",
-        "name": "AenfiniteÂ®",
+        "name": "Aenfinite®",
         "url": "https://aenfinite.com",
         "sameAs": [
           "https://www.facebook.com/aenfinite/",
@@ -2679,7 +2681,7 @@ export default function Page() {
         "@type": "WebSite",
         "@id": "https://aenfinite.com/#website",
         "url": "https://aenfinite.com",
-        "name": "AenfiniteÂ® - Graphic Design Agenzia",
+        "name": "Aenfinite® - Graphic Design Agenzia",
         "publisher": { "@id": "https://aenfinite.com/#organization" },
         "inLanguage":"it-IT"
       },
@@ -2689,7 +2691,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® Brand Visual - Best Graphic Design Agenzia",
+        "caption": "Aenfinite® Brand Visual - Best Graphic Design Agenzia",
         "inLanguage":"it-IT"
       },
       {
@@ -2717,7 +2719,7 @@ export default function Page() {
         "@type": "WebPage",
         "@id": "https://aenfinite.com/services/graphic-design/#webpage",
         "url": "https://aenfinite.com/services/graphic-design/",
-        "name": "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | AenfiniteÂ®",
+        "name": "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | Aenfinite®",
         "datePublished": "2022-10-16T21:16:37-04:00",
         "dateModified": "2025-09-16T11:13:56-04:00",
         "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2728,12 +2730,12 @@ export default function Page() {
       {
         "@type": "Article",
         "@id": "https://aenfinite.com/services/graphic-design/#richSnippet",
-        "headline": "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | AenfiniteÂ®",
+        "headline": "Professional Graphic Design Servizi | Design per la Stampa & Visual Communication | Aenfinite®",
         "keywords": "Graphic Design, Design per la Stampa, Visual Communication, Materiale del Marchio, Digital Design, Design del Logo, IdentitÃ  Visiva",
         "datePublished": "2022-10-16T21:16:37-04:00",
         "dateModified": "2025-09-16T11:13:56-04:00",
         "publisher": { "@id": "https://aenfinite.com/#organization" },
-        "description": "AenfiniteÂ® provides high-quality graphic design solutions, including print design, digital branding, and visual identity development for businesses and brands.",
+        "description": "Aenfinite® provides high-quality graphic design solutions, including print design, digital branding, and visual identity development for businesses and brands.",
         "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
         "inLanguage":"it-IT",
         "mainEntityOfPage": { "@id": "https://aenfinite.com/services/graphic-design/#webpage" }

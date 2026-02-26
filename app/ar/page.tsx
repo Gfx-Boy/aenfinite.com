@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ",
-  description: "AenfiniteÂ® is a professional ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ù…ØªØ®ØµØµØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ­Ù„ÙˆÙ„ Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ø®Ø¯Ù…Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§.",
+  title: "Aenfinite® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ",
+  description: "ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ù…ØªØ®ØµØµØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ­Ù„ÙˆÙ„ Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ø®Ø¯Ù…Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§.",
   keywords: "ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ©, ÙˆÙƒØ§Ù„Ø© ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹, ÙˆÙƒØ§Ù„Ø© Ø¹Ù„Ø§Ù…Ø© ØªØ¬Ø§Ø±ÙŠØ©, ÙˆÙƒØ§Ù„Ø© ØªØ³ÙˆÙŠÙ‚ Ø±Ù‚Ù…ÙŠ Ø¯Ù†ÙØ±, ØªØµÙ…ÙŠÙ… UI UX, ØªØ·ÙˆÙŠØ± ÙˆÙŠØ¨ Ù…Ø®ØµØµ, Ø®Ø¯Ù…Ø§Øª SEO, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©, Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"AenfiniteÂ® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ","description":"AenfiniteÂ® is a professional ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ù…ØªØ®ØµØµØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ­Ù„ÙˆÙ„ Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ø®Ø¯Ù…Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§.","url":"https://aenfinite.com/ar/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø­Ø§Ø¦Ø²Ø© Ø¹Ù„Ù‰ Ø¬ÙˆØ§Ø¦Ø²","description":"Ø­ÙˆÙ‘Ù„ Ø¹Ù…Ù„Ùƒ Ù…Ø¹ AenfiniteÂ®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ","description":"ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ù…ØªØ®ØµØµØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ­Ù„ÙˆÙ„ Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ø®Ø¯Ù…Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§.","url":"https://aenfinite.com/ar/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø­Ø§Ø¦Ø²Ø© Ø¹Ù„Ù‰ Ø¬ÙˆØ§Ø¦Ø²","description":"Ø­ÙˆÙ‘Ù„ Ø¹Ù…Ù„Ùƒ Ù…Ø¹ Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -859,7 +859,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1453,7 +1453,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">AenfiniteÂ® Ù‡ÙŠ ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© ØªØ­ÙˆÙ‘Ù„ Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ù…Ù† Ø®Ù„Ø§Ù„ Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªØ·ÙˆÙŠØ± ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ù…ØªØ·ÙˆØ±Ø©. Ù…Ù‚Ø±Ù‡Ø§ ÙÙŠ Ø¯Ù†ÙØ± ÙˆØªØ®Ø¯Ù… Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ØŒ ÙŠÙ‚Ø¯Ù… ÙØ±ÙŠÙ‚Ù†Ø§ Ø§Ù„Ø®Ø¨ÙŠØ± Ù†ØªØ§Ø¦Ø¬ Ø§Ø³ØªØ«Ù†Ø§Ø¦ÙŠØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ®Ø¯Ù…Ø§Øª Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ù†ØªØ´Ø§Ø±Ùƒ Ù…Ø¹ Ø§Ù„Ø´Ø±ÙƒØ§Øª Ù…Ù† Ø§Ù„Ù†Ø§Ø´Ø¦Ø© Ø¥Ù„Ù‰ Ø§Ù„Ø±Ø§Ø³Ø®Ø© Ø¹Ø¨Ø± Ù‚Ø·Ø§Ø¹Ø§Øª Ø§Ù„Ø±Ø¹Ø§ÙŠØ© Ø§Ù„ØµØ­ÙŠØ© ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ ÙˆØ§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØºÙŠØ±Ù‡Ø§ Ù„Ø¥Ù†Ø´Ø§Ø¡ ØªØ¬Ø§Ø±Ø¨ Ø±Ù‚Ù…ÙŠØ© Ù…Ø¤Ø«Ø±Ø© ØªØ¯ÙØ¹ Ø§Ù„Ù†Ù…Ùˆ ÙˆØ§Ù„Ù…Ø´Ø§Ø±ÙƒØ©.</div>
+				<div class="textbox-content">Aenfinite® Ù‡ÙŠ ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ Ø§Ø­ØªØ±Ø§ÙÙŠØ© ØªØ­ÙˆÙ‘Ù„ Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ù…Ù† Ø®Ù„Ø§Ù„ Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªØ·ÙˆÙŠØ± ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ù…ØªØ·ÙˆØ±Ø©. Ù…Ù‚Ø±Ù‡Ø§ ÙÙŠ Ø¯Ù†ÙØ± ÙˆØªØ®Ø¯Ù… Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ ÙÙŠ Ø¬Ù…ÙŠØ¹ Ø£Ù†Ø­Ø§Ø¡ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ØŒ ÙŠÙ‚Ø¯Ù… ÙØ±ÙŠÙ‚Ù†Ø§ Ø§Ù„Ø®Ø¨ÙŠØ± Ù†ØªØ§Ø¦Ø¬ Ø§Ø³ØªØ«Ù†Ø§Ø¦ÙŠØ© ÙÙŠ ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆÙ‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… UI/UX ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØ®Ø¯Ù…Ø§Øª Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø´Ø§Ù…Ù„Ø©. Ù†ØªØ´Ø§Ø±Ùƒ Ù…Ø¹ Ø§Ù„Ø´Ø±ÙƒØ§Øª Ù…Ù† Ø§Ù„Ù†Ø§Ø´Ø¦Ø© Ø¥Ù„Ù‰ Ø§Ù„Ø±Ø§Ø³Ø®Ø© Ø¹Ø¨Ø± Ù‚Ø·Ø§Ø¹Ø§Øª Ø§Ù„Ø±Ø¹Ø§ÙŠØ© Ø§Ù„ØµØ­ÙŠØ© ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ ÙˆØ§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØºÙŠØ±Ù‡Ø§ Ù„Ø¥Ù†Ø´Ø§Ø¡ ØªØ¬Ø§Ø±Ø¨ Ø±Ù‚Ù…ÙŠØ© Ù…Ø¤Ø«Ø±Ø© ØªØ¯ÙØ¹ Ø§Ù„Ù†Ù…Ùˆ ÙˆØ§Ù„Ù…Ø´Ø§Ø±ÙƒØ©.</div>
 									<div class="textbox-action">
 						<a href="/ar/work/" class="redlink">
 							<span>Ø´Ø§Ù‡Ø¯ Ø£Ø¹Ù…Ø§Ù„Ù†Ø§</span>
@@ -1472,7 +1472,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-<strong>Ù…Ø´Ø§Ø±ÙŠØ¹ Aenfinite Ø§Ù„Ù†Ø§Ø¬Ø­Ø© â€“</strong> ØªØ­ÙˆÙŠÙ„ Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø¨ØªØµÙ…ÙŠÙ… Ù‡ÙˆÙŠØ© Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠ ÙˆÙ…ÙˆØ§Ù‚Ø¹ Ø¹Ø§Ù„ÙŠØ© Ø§Ù„Ø£Ø¯Ø§Ø¡ ÙˆØªØºÙ„ÙŠÙ Ù…Ù†ØªØ¬Ø§Øª Ù…Ø¤Ø«Ø±.
+<strong>Ù…Ø´Ø§Ø±ÙŠØ¹ Aenfinite Ø§Ù„Ù†Ø§Ø¬Ø­Ø© –</strong> ØªØ­ÙˆÙŠÙ„ Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø¨ØªØµÙ…ÙŠÙ… Ù‡ÙˆÙŠØ© Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠ ÙˆÙ…ÙˆØ§Ù‚Ø¹ Ø¹Ø§Ù„ÙŠØ© Ø§Ù„Ø£Ø¯Ø§Ø¡ ÙˆØªØºÙ„ÙŠÙ Ù…Ù†ØªØ¬Ø§Øª Ù…Ø¤Ø«Ø±.
 																	</div>
 							</div>
 						</div>
@@ -1516,13 +1516,13 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Ù„Ù…Ø§Ø°Ø§ ØªØ®ØªØ§Ø± AenfiniteÂ® Ù„ØªØ­ÙˆÙ„Ùƒ Ø§Ù„Ø±Ù‚Ù…ÙŠ</h2>
+						<h2>Ù„Ù…Ø§Ø°Ø§ ØªØ®ØªØ§Ø± Aenfinite® Ù„ØªØ­ÙˆÙ„Ùƒ Ø§Ù„Ø±Ù‚Ù…ÙŠ</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
     <h3><b>Ø­Ù„ÙˆÙ„ Ø±Ù‚Ù…ÙŠØ© Ù…Ø¨ØªÙƒØ±Ø©</b></h3>
-    <p>AenfiniteÂ® ØªØ¬Ù…Ø¹ Ø¨ÙŠÙ† Ø§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ù„Ø¥Ù†Ø´Ø§Ø¡ ØªØ¬Ø§Ø±Ø¨ Ø±Ù‚Ù…ÙŠØ© Ø³Ù„Ø³Ø©. Ù…Ù† Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø¥Ù„Ù‰ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø§Ø³ØªØ´Ø§Ø±Ø§ØªØŒ Ù†Ù‚Ø¯Ù… Ø­Ù„ÙˆÙ„Ø§Ù‹ Ù…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª ØªØºØ°ÙŠ Ù†Ù…Ùˆ Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø§Ù„Ù‚Ø§Ø¨Ù„ Ù„Ù„Ù‚ÙŠØ§Ø³.</p>
+    <p>Aenfinite® ØªØ¬Ù…Ø¹ Ø¨ÙŠÙ† Ø§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ù„Ø¥Ù†Ø´Ø§Ø¡ ØªØ¬Ø§Ø±Ø¨ Ø±Ù‚Ù…ÙŠØ© Ø³Ù„Ø³Ø©. Ù…Ù† Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø¥Ù„Ù‰ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø§Ø³ØªØ´Ø§Ø±Ø§ØªØŒ Ù†Ù‚Ø¯Ù… Ø­Ù„ÙˆÙ„Ø§Ù‹ Ù…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª ØªØºØ°ÙŠ Ù†Ù…Ùˆ Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø§Ù„Ù‚Ø§Ø¨Ù„ Ù„Ù„Ù‚ÙŠØ§Ø³.</p>
   </div>
 </div>
 
@@ -1567,7 +1567,7 @@ recommend a service from 1-10</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/ar/services/web-design/" class="redlink">
@@ -1603,8 +1603,8 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/ar/services/branding/" class="redlink">
@@ -1779,7 +1779,7 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1889,7 +1889,7 @@ recommend a service from 1-10</div>
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ØªÙˆØ§ØµÙ„ Ù…Ø¹ ÙˆÙƒØ§Ù„ØªÙƒ Ø§Ù„Ù‚Ø§Ø¯Ù…Ø© - AenfiniteÂ®</h2>
+				<h2>ØªÙˆØ§ØµÙ„ Ù…Ø¹ ÙˆÙƒØ§Ù„ØªÙƒ Ø§Ù„Ù‚Ø§Ø¯Ù…Ø© - Aenfinite®</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1906,7 +1906,7 @@ recommend a service from 1-10</div>
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¹Ù† Ù…Ø´Ø±ÙˆØ¹Ùƒâ€¦" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¹Ù† Ù…Ø´Ø±ÙˆØ¹Ùƒ…" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
@@ -1962,7 +1962,7 @@ recommend a service from 1-10</div>
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
     <span>
-        AenfiniteÂ® â€“ ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø¨Ø­Ù„ÙˆÙ„ ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…ØªØ·ÙˆØ±Ø© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠ ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„Ø±Ù‚Ù…ÙŠØ© Ø§Ù„Ù…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª.
+        Aenfinite® – ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø¨Ø­Ù„ÙˆÙ„ ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…ØªØ·ÙˆØ±Ø© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠ ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„Ø±Ù‚Ù…ÙŠØ© Ø§Ù„Ù…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª.
     </span>
 </div>
 
@@ -1975,7 +1975,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Ø£Ø¹Ù…Ø§Ù„ ÙˆÙƒØ§Ù„Ø© AenfiniteÂ® Ù„Ù„ØªØµÙ…ÙŠÙ…</h2>
+						<h2>Ø£Ø¹Ù…Ø§Ù„ ÙˆÙƒØ§Ù„Ø© Aenfinite® Ù„Ù„ØªØµÙ…ÙŠÙ…</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2118,7 +2118,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø© Ù„ÙˆÙƒØ§Ù„Ø© AenfiniteÂ® Ù„Ù„ØªØµÙ…ÙŠÙ…</h2>
+									<h2>Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø© Ù„ÙˆÙƒØ§Ù„Ø© Aenfinite® Ù„Ù„ØªØµÙ…ÙŠÙ…</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2126,7 +2126,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Ù…Ø§ Ø§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„ØªÙŠ ÙŠÙ‚Ø¯Ù…Ù‡Ø§ AenfiniteÂ®ØŸ</div>
+            <div class="faq-header-title" itemprop="name">Ù…Ø§ Ø§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„ØªÙŠ ÙŠÙ‚Ø¯Ù…Ù‡Ø§ Aenfinite®ØŸ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2134,7 +2134,7 @@ recommend a service from 1-10</div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
            
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® Ù‡ÙŠ ÙˆÙƒØ§Ù„Ø© ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ÙˆØ¥Ø¨Ø¯Ø§Ø¹ Ø¹Ø§Ù„Ù…ÙŠØ© Ù…ÙƒØ±Ø³Ø© Ù„Ù…Ø³Ø§Ø¹Ø¯Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª Ø¹Ù„Ù‰ Ø§Ù„Ù†Ù…Ùˆ Ù…Ù† Ø®Ù„Ø§Ù„ Ø§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§. Ù†Ø­Ù† Ù…ØªØ®ØµØµÙˆÙ† ÙÙŠ:</p>
+                <p>Aenfinite® Ù‡ÙŠ ÙˆÙƒØ§Ù„Ø© ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ÙˆØ¥Ø¨Ø¯Ø§Ø¹ Ø¹Ø§Ù„Ù…ÙŠØ© Ù…ÙƒØ±Ø³Ø© Ù„Ù…Ø³Ø§Ø¹Ø¯Ø© Ø§Ù„Ø´Ø±ÙƒØ§Øª Ø¹Ù„Ù‰ Ø§Ù„Ù†Ù…Ùˆ Ù…Ù† Ø®Ù„Ø§Ù„ Ø§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØ§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§. Ù†Ø­Ù† Ù…ØªØ®ØµØµÙˆÙ† ÙÙŠ:</p>
                 <p><b>Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©:</b> Ø£Ù†Ø¸Ù…Ø© Ù‡ÙˆÙŠØ© Ø¹Ù„Ø§Ù…Ø© ØªØ¬Ø§Ø±ÙŠØ© ÙƒØ§Ù…Ù„Ø© ÙˆØ¥Ù†Ø´Ø§Ø¡ Ø´Ø¹Ø§Ø±Ø§Øª ÙˆØ¥Ø±Ø´Ø§Ø¯Ø§Øª ØªØ¤Ø³Ø³ Ø­Ø¶ÙˆØ±Ø§Ù‹ Ø¨ØµØ±ÙŠØ§Ù‹ Ù‚ÙˆÙŠØ§Ù‹ ÙˆÙ…ØªØ³Ù‚Ø§Ù‹.</p>
                 <p><b>ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ ÙˆØ§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª:</b> Ù…ÙˆØ§Ù‚Ø¹ ÙˆÙŠØ¨ Ù…Ø®ØµØµØ© ÙˆØªØµØ§Ù…ÙŠÙ… Ù…ØªØ¬Ø§ÙˆØ¨Ø© ÙˆØ­Ù„ÙˆÙ„ ØªØ¬Ø§Ø±Ø© Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø¬ÙˆØ§Ù„ Ù‚Ø§Ø¨Ù„Ø© Ù„Ù„ØªÙˆØ³Ø¹ Ù…Ø­Ø³Ù‘Ù†Ø© Ù„Ù„Ø³Ø±Ø¹Ø© ÙˆØ§Ù„ØªØ­ÙˆÙŠÙ„Ø§Øª.</p>
                 <p><b>ØªØµÙ…ÙŠÙ… UI/UX:</b> ØªØµÙ…ÙŠÙ… ÙˆØ§Ø¬Ù‡Ø§Øª Ù…Ø¨Ù†ÙŠ Ø¹Ù„Ù‰ Ø§Ù„Ø¨Ø­Ø« ÙˆÙ†Ù…Ø§Ø°Ø¬ Ø£ÙˆÙ„ÙŠØ© ØªØ¶Ù…Ù† Ø±Ø­Ù„Ø§Øª Ù…Ø³ØªØ®Ø¯Ù… Ø¨Ø¯ÙŠÙ‡ÙŠØ© ÙˆÙ…Ø´Ø§Ø±ÙƒØ© Ø£Ø¹Ù„Ù‰.</p>
@@ -2148,7 +2148,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">ÙƒÙŠÙ ÙŠØªØ¹Ø§Ù…Ù„ AenfiniteÂ® Ù…Ø¹ Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©ØŸ</div>
+            <div class="faq-header-title" itemprop="name">ÙƒÙŠÙ ÙŠØªØ¹Ø§Ù…Ù„ Aenfinite® Ù…Ø¹ Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©ØŸ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2158,7 +2158,7 @@ recommend a service from 1-10</div>
                 <p>Ù†ØªØ¨Ø¹ Ø¹Ù…Ù„ÙŠØ© ÙˆØ§Ø¶Ø­Ø© ÙˆØªØ¹Ø§ÙˆÙ†ÙŠØ© ØªØ¨Ù‚ÙŠÙƒ Ù…Ø´Ø§Ø±ÙƒØ§Ù‹ ÙˆØªØ¶Ù…Ù† Ø§Ù„Ø¬ÙˆØ¯Ø© ÙÙŠ ÙƒÙ„ Ù…Ø±Ø­Ù„Ø©:</p>
                 <p><b>1. Ø§Ù„Ø§ÙƒØªØ´Ø§Ù ÙˆØ§Ù„ØªØ®Ø·ÙŠØ·:</b> Ù†ØªØ¹Ø±Ù Ø¹Ù„Ù‰ Ø¹Ù…Ù„Ùƒ ÙˆØ¬Ù…Ù‡ÙˆØ±Ùƒ ÙˆØ£Ù‡Ø¯Ø§ÙÙƒ Ù„ØªØ­Ø¯ÙŠØ¯ Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© ÙˆØ§Ø¶Ø­Ø©.</p>
                 <p><b>2. Ø§Ù„Ù…ÙÙ‡ÙˆÙ… ÙˆØ§Ù„ØªÙˆØ¬ÙŠÙ‡:</b> ÙŠÙØ¹Ø¯ ÙØ±ÙŠÙ‚Ù†Ø§ Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠ Ù„ÙˆØ­Ø§Øª Ø§Ù„Ù…Ø²Ø§Ø¬ ÙˆØ§Ù„Ù…ÙØ§Ù‡ÙŠÙ… ÙˆØ§ØªØ¬Ø§Ù‡Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ØªÙˆØ§ÙÙ‚Ø© Ù…Ø¹ Ø±Ø¤ÙŠØ© Ø¹Ù„Ø§Ù…ØªÙƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©.</p>
-                <p><b>3. Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªØ·ÙˆÙŠØ±:</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„ØªØ·ÙˆÙŠØ±:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
                 <p><b>4. Ø§Ù„ØªÙ†ÙÙŠØ°:</b> ÙØ±ÙŠÙ‚ Ø§Ù„ØªØ·ÙˆÙŠØ± Ù„Ø¯ÙŠÙ†Ø§ ÙŠØ¬Ø³Ø¯ Ø§Ù„ØªØµØ§Ù…ÙŠÙ…ØŒ Ù…Ù‚Ø¯Ù…Ø§Ù‹ Ù…Ù†ØªØ¬Ø§Øª Ø±Ù‚Ù…ÙŠØ© Ø¹Ø§Ù„ÙŠØ© Ø§Ù„Ø£Ø¯Ø§Ø¡ Ø£Ùˆ Ø£ØµÙˆÙ„Ø§Ù‹ Ø¬Ø§Ù‡Ø²Ø© Ù„Ù„Ø·Ø¨Ø§Ø¹Ø©.</p>
                 <p><b>5. Ø§Ù„Ø¥Ø·Ù„Ø§Ù‚ ÙˆØ§Ù„ØªØ­Ø³ÙŠÙ†:</b> Ù†Ø³Ø§Ø¹Ø¯ ÙÙŠ Ø§Ù„Ù†Ø´Ø± ÙˆÙ†Ù‚Ø¯Ù… Ø§Ù„ØªØ¯Ø±ÙŠØ¨ Ø¹Ù†Ø¯ Ø§Ù„Ø­Ø§Ø¬Ø© ÙˆÙ†Ø±Ø§Ù‚Ø¨ Ø§Ù„Ù†ØªØ§Ø¦Ø¬ Ø¨Ø§Ø³ØªÙ…Ø±Ø§Ø± Ù„Ù„ØªØ­Ø³ÙŠÙ†.</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2169,20 +2169,20 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Ù…Ø¹ Ù…Ù† ÙŠØ¹Ù…Ù„ AenfiniteÂ®ØŸ</div>
+            <div class="faq-header-title" itemprop="name">Ù…Ø¹ Ù…Ù† ÙŠØ¹Ù…Ù„ Aenfinite®ØŸ</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <p>Aenfinite® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
                 <ul>
-                    <li>Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ ÙˆSaaS â€“ Ù…Ù†ØµØ§Øª Ø§Ù„ÙˆÙŠØ¨ ÙˆUI/UX Ù„Ù€ SaaS ÙˆØ¹Ù„Ø§Ù…Ø© Ø§Ù„Ù…Ù†ØªØ¬ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
-                    <li>Ø§Ù„Ø±Ø¹Ø§ÙŠØ© Ø§Ù„ØµØ­ÙŠØ© ÙˆØ§Ù„Ø¹Ø§ÙÙŠØ© â€“ Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø·Ø¨ÙŠØ© ÙˆÙˆØ§Ø¬Ù‡Ø§Øª ØµØ¯ÙŠÙ‚Ø© Ù„Ù„Ù…Ø±Ø¶Ù‰ ÙˆØ­Ù„ÙˆÙ„ Ø¬Ø§Ù‡Ø²Ø© Ù„Ù„Ø§Ù…ØªØ«Ø§Ù„</li>
-                    <li>Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØ§Ù„Ø¨Ù†Ø§Ø¡ â€“ Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ­Ù…Ù„Ø§Øª ØªÙˆÙ„ÙŠØ¯ Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø§Ù„Ù…Ø­ØªÙ…Ù„ÙŠÙ†</li>
-                    <li>Ø§Ù„ØªØ¬Ø²Ø¦Ø© ÙˆØ§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© â€“ Ø§Ù„ØªØºÙ„ÙŠÙ ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ØªØ§Ø¬Ø± Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØªØ­Ø³ÙŠÙ† Ø§Ù„ØªØ­ÙˆÙŠÙ„</li>
-                    <li>Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ù…Ù‡Ù†ÙŠØ© â€“ Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ© ÙˆØ£ØªÙ…ØªØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ¨ÙˆØ§Ø¨Ø§Øª Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡</li>
+                    <li>Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ ÙˆSaaS – Ù…Ù†ØµØ§Øª Ø§Ù„ÙˆÙŠØ¨ ÙˆUI/UX Ù„Ù€ SaaS ÙˆØ¹Ù„Ø§Ù…Ø© Ø§Ù„Ù…Ù†ØªØ¬ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
+                    <li>Ø§Ù„Ø±Ø¹Ø§ÙŠØ© Ø§Ù„ØµØ­ÙŠØ© ÙˆØ§Ù„Ø¹Ø§ÙÙŠØ© – Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø·Ø¨ÙŠØ© ÙˆÙˆØ§Ø¬Ù‡Ø§Øª ØµØ¯ÙŠÙ‚Ø© Ù„Ù„Ù…Ø±Ø¶Ù‰ ÙˆØ­Ù„ÙˆÙ„ Ø¬Ø§Ù‡Ø²Ø© Ù„Ù„Ø§Ù…ØªØ«Ø§Ù„</li>
+                    <li>Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØ§Ù„Ø¨Ù†Ø§Ø¡ – Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ­Ù…Ù„Ø§Øª ØªÙˆÙ„ÙŠØ¯ Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø§Ù„Ù…Ø­ØªÙ…Ù„ÙŠÙ†</li>
+                    <li>Ø§Ù„ØªØ¬Ø²Ø¦Ø© ÙˆØ§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© – Ø§Ù„ØªØºÙ„ÙŠÙ ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ØªØ§Ø¬Ø± Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© ÙˆØªØ­Ø³ÙŠÙ† Ø§Ù„ØªØ­ÙˆÙŠÙ„</li>
+                    <li>Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ù…Ù‡Ù†ÙŠØ© – Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ© ÙˆØ£ØªÙ…ØªØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ¨ÙˆØ§Ø¨Ø§Øª Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡</li>
                 </ul>
                 <p>Ø¨ØºØ¶ Ø§Ù„Ù†Ø¸Ø± Ø¹Ù† Ø§Ù„ØµÙ†Ø§Ø¹Ø©ØŒ Ù‡Ø¯ÙÙ†Ø§ Ù‡Ùˆ Ø¥Ù†Ø´Ø§Ø¡ Ø¹Ù…Ù„ ÙŠØªØ±Ø¯Ø¯ ØµØ¯Ø§Ù‡ Ù„Ø¯Ù‰ Ø¬Ù…Ù‡ÙˆØ±Ùƒ ÙˆÙŠØ¯ÙØ¹ Ù†Ù…ÙˆØ§Ù‹ Ù‚Ø§Ø¨Ù„Ø§Ù‹ Ù„Ù„Ù‚ÙŠØ§Ø³.</p>
             </div>
@@ -2202,9 +2202,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="contact/" class="redlink">
-									<span>Letâ€™s talk</span>
+									<span>Let's talk</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2290,7 +2290,7 @@ recommend a service from 1-10</div>
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="/ar/">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -2762,7 +2762,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 </script>
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2870,7 +2872,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - ÙˆÙƒØ§Ù„Ø© Ø§Ø¨ØªÙƒØ§Ø± Ø±Ù‚Ù…ÙŠ",
-      "alternateName": "AenfiniteÂ®",
+      "alternateName": "Aenfinite®",
       "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ar-SA",
@@ -2913,7 +2915,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® | Digital Ø§Ù„Ø§Ø¨ØªÙƒØ§Ø± Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "name": "Aenfinite® | Digital Ø§Ù„Ø§Ø¨ØªÙƒØ§Ø± Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "about": {"@id": "https://aenfinite.com/#organization"},
       "datePublished": "2017-01-01T00:00:00-00:00",

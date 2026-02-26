@@ -1563,7 +1563,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>years of expertise building scalable, high-performance web solutions tailored to each clientâ€™s unique requirements</div>
+							<div>years of expertise building scalable, high-performance web solutions tailored to each client's unique requirements</div>
 						</div>
 					</div>
 				</div>
@@ -1743,7 +1743,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="center">
       <div class="formss-wrap">
         <h2>Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite for ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ Solutions</h2>
-        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and letâ€™s create something amazing together.</p>
+        <p>Ready to build a powerful, scalable, and modern web solution? Share your project details and let's create something amazing together.</p>
 
         <div class="toggle-formss">
           <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1877,7 +1877,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">API & System Integrations</div>
 				<div class="pane-subtitle">
-					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether itâ€™s payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
+					<p>We integrate third-party APIs, CRMs, ERPs, and custom backends into your web applications. Whether it's payment gateways, data management systems, or marketing automation, we ensure everything works together flawlessly.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
@@ -2124,7 +2124,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   </div>
                 </div>
                 <div class="service-text" style="font-size: 15px; line-height: 1.5;">
-                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue â€” ensuring your site looks stunning and performs flawlessly on every device.</p>
+                  <p>Our team crafts clean, interactive, and responsive front-end experiences using modern technologies like React, Next.js, and Vue — ensuring your site looks stunning and performs flawlessly on every device.</p>
                 </div>
                 <div class="service-action">
                   <a href="/ar/contact/" class="redlink"><span>Learn more</span></a>
@@ -2687,7 +2687,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2701,7 +2703,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/aenfinitee",
@@ -2712,8 +2714,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ar-SA"
     },
@@ -2723,7 +2725,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "5714",
       "height": "3216",
-      "caption": "AenfiniteÂ® Brand Logo - Best ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "caption": "Aenfinite® Brand Logo - Best ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
       "inLanguage":"ar-SA"
     },
     {
@@ -2739,7 +2741,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/custom-web-development/#webpage",
       "url": "https://aenfinite.com/services/custom-web-development/",
-      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | AenfiniteÂ®",
+      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2750,27 +2752,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/custom-web-development/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and creative strategist at AenfiniteÂ®.",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and creative strategist at Aenfinite®.",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"ar-SA"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | AenfiniteÂ®",
+      "headline": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | Aenfinite®",
       "keywords": "ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ, Bespoke Applications, API Integration, Database Design, Performance Optimization, Web Security",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/custom-web-development/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional ØªØ·ÙˆÙŠØ± ÙˆÙŠØ¨ Ù…Ø®ØµØµ services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
-      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional ØªØ·ÙˆÙŠØ± ÙˆÙŠØ¨ Ù…Ø®ØµØµ services including bespoke applications, API integration, database design, and tailored web solutions. We specialize in creating high-performance digital experiences that enhance user engagement and business growth.",
+      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ | Bespoke Website Solutions | Aenfinite®",
       "@id": "https://aenfinite.com/services/custom-web-development/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/custom-web-development/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },

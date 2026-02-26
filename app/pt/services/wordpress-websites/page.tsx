@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
+  title: "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | Aenfinite®",
+  description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
   keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
-  openGraph: {"title":"Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | AenfiniteÂ®","description":"AenfiniteÂ® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/pt/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | AenfiniteÂ®","description":"AenfiniteÂ® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/pt/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1090,7 +1090,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">49.36.188.249</div>
-			<div class="url">WordPress ServiÃ§os</div>
+			<div class="url">WordPress Serviços</div>
 			<div class="urlback">https://Aenfinite.com/services/wordpress-websites/</div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">9-38 am</div>
@@ -1107,16 +1107,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/featured-work/">PortfÃ³lio</a>
+								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/pt/agency/">AgÃªncia</a>
+								<a href="/pt/agency/">Agência</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="services/">ServiÃ§os</a>
+                                <a href="services/">Serviços</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
 											<li><a href="/pt/services/e-commerce-websites/">Sites de E-Commerce</a></li>
@@ -1124,27 +1124,27 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
-											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">SoluÃ§Ãµes Web para ImÃ³veis</a></li>									</ul>
+											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ServiÃ§os de Design e CriaÃ§Ã£o â€º</a>
+										<a href="#">Serviços de Design e Criação â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
 											<li><a href="/pt/services/website-design/">Design de Sites</a></li>
-											<li><a href="/pt/services/branding/">Identidade de Marca e EstratÃ©gia</a></li>
-											<li><a href="/pt/services/graphic-design/">Design GrÃ¡fico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
-											<li><a href="/pt/services/motion-graphics/">Motion GrÃ¡ficos</a></li>
+											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
+											<li><a href="/pt/services/graphic-design/">Design Gráfico</a></li> <li><a href="/pt/services/logo-design/">Design de Logotipo</a></li>
+											<li><a href="/pt/services/motion-graphics/">Motion Gráficos</a></li>
 											<li><a href="/pt/services/trade-show-booth-design/">Design de Estandes para Feiras</a></li>
-											<li><a href="/pt/services/conference-branding/">Branding para ConferÃªncias</a></li>
+											<li><a href="/pt/services/conference-branding/">Branding para Conferências</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/digital-marketing/">EstratÃ©gia de Marketing Digital</a></li>
-											<li><a href="/pt/services/search-engine-optimization/">OtimizaÃ§Ã£o para Mecanismos de Busca (SEO)</a></li>
+											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
+											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
 											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
-											<li><a href="/pt/services/social-media-marketing/">Marketing em MÃ­dias Sociais</a></
+											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></
 
 										</ul>
 									</li>
@@ -1154,10 +1154,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">SoluÃ§Ãµes de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">AutomaÃ§Ã£o de Processos e NegÃ³cios</a></li>
+											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1166,7 +1166,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     position: relative;
 }
 
-/* Main dropdown from ServiÃ§os menu - adaptive styling */
+/* Main dropdown from Serviços menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1292,7 +1292,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Se vocÃª nÃ£o encontrar o serviÃ§o que precisa, escreva para nÃ³s e encontraremos uma soluÃ§Ã£o <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Se você não encontrar o serviço que precisa, escreva para nós e encontraremos uma solução <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1359,15 +1359,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert WordPress Website Desenvolvimento ServiÃ§os</span>
+    <span class="marquee-line_text">Expert WordPress Website Desenvolvimento Serviços</span>
     <span class="marquee-line_text">Custom Themes, Desenvolvimento de Plugins & Optimization</span>
-    <span class="marquee-line_text">Atendendo Clientes nos EUA, CanadÃ¡ e AlÃ©m</span>
-    <span class="marquee-line_text">Specialists in WordPress Performance & ExperiÃªncia do UsuÃ¡rio</span>
+    <span class="marquee-line_text">Atendendo Clientes nos EUA, Canadá e Além</span>
+    <span class="marquee-line_text">Specialists in WordPress Performance & Experiência do Usuário</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for WordPress Solutions</span>
     <span class="marquee-line_text">Performance-Driven WordPress Desenvolvimento & Security</span>
     <span class="marquee-line_text">E-commerce WordPress & Business Website Solutions</span>
-    <span class="marquee-line_text">Professional WordPress AgÃªncia with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive WordPress ManutenÃ§Ã£o & Support</span>
+    <span class="marquee-line_text">Professional WordPress Agência with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive WordPress Manutenção & Support</span>
     <span class="marquee-line_text">WordPress Personalizado Solutions for Every Industry</span>
     <span class="marquee-line_text">WordPress Speed Optimization & Mobile Responsiveness</span>
     <span class="marquee-line_text">Scalable WordPress Desenvolvimento & Long-term Growth</span>
@@ -1380,7 +1380,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/pt/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital AgÃªncia Website" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital Agência Website" class="cover" loading="lazy" decoding="async" />
 					<a href="/pt/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1495,14 +1495,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/pt/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital AgÃªncia & Growth Solutions" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital Agência & Growth Solutions" class="cover" loading="lazy" decoding="async" />
 					<a href="/pt/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview">
 					<div class="preview-content" data-index="06">
-						<div class="preview-name preview-name__caption"><a href="/pt/work/blue-vine-marketing/">Blue Vine Marketing â€“ Growth Solutions</a></div>
+						<div class="preview-name preview-name__caption"><a href="/pt/work/blue-vine-marketing/">Blue Vine Marketing – Growth Solutions</a></div>
 						<div class="preview-name">Web Design & Desenvolvimento</div>
 						<div class="preview-name">Marketing Digital</div>
 						<div class="preview-name">Design UI/UX</div>
@@ -1600,13 +1600,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="preview">
                                 <a href="/pt/work/blue-vine-marketing/" class="a-preview"></a>
                                 <div class="preview-media">
-                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital AgÃªncia Website" class="cover" loading="lazy" decoding="async" />
+                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - Marketing Digital Agência Website" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
                                         Ver projeto									</div>
                                 </div>
                                 <div class="preview-content" data-index="01">
                                     <div class="preview-name preview-name__caption">
-                                        <a href="/pt/work/blue-vine-marketing/">Blue Vine Marketing - Marketing Digital AgÃªncia Website</a>
+                                        <a href="/pt/work/blue-vine-marketing/">Blue Vine Marketing - Marketing Digital Agência Website</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
                                     <div class="preview-name"><a href="../ui-ux-design/">Custom Theme Design</a></div>
@@ -1691,7 +1691,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contato Aenfinite for Expert WordPress ServiÃ§os</h2>
+				<h2>Contato Aenfinite for Expert WordPress Serviços</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1712,10 +1712,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="WordPress Personalizado Desenvolvimento" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">WordPress Personalizado Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Desenvolvimento de Plugins" id="plugin-development" /><label for="plugin-development" class="list-item-label">Desenvolvimento de Plugins</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress ManutenÃ§Ã£o" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress ManutenÃ§Ã£o</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro WordPress ServiÃ§os" id="other" /><label for="other" class="list-item-label">Outro WordPress ServiÃ§os</label></span></span></span>
+		<strong>Estou interessado em...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="WordPress Personalizado Desenvolvimento" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">WordPress Personalizado Desenvolvimento</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Desenvolvimento de Plugins" id="plugin-development" /><label for="plugin-development" class="list-item-label">Desenvolvimento de Plugins</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Manutenção" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress Manutenção</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Outro WordPress Serviços" id="other" /><label for="other" class="list-item-label">Outro WordPress Serviços</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orÃ§amento aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Informe seu orçamento aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1804,7 +1804,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress Migration & ManutenÃ§Ã£o</div>
+						<div class="pane-title">WordPress Migration & Manutenção</div>
 						<div class="pane-subtitle">
 							<p>Seamlessly migrate your existing website to WordPress or upgrade your current WordPress installation. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your WordPress site running smoothly.</p>
 						</div>
@@ -1818,7 +1818,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress OtimizaÃ§Ã£o SEO</div>
+						<div class="pane-title">WordPress Otimização SEO</div>
 						<div class="pane-subtitle">
 							<p>Maximize your WordPress website's search engine visibility with our comprehensive SEO optimization services. We implement WordPress-specific SEO best practices, optimize site structure, improve page speed, and ensure your content is properly structured for search engines to drive organic traffic growth.</p>
 						</div>
@@ -1940,7 +1940,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="nlist-caption">Support</div>
 							<div class="nlist-tabs js-switch-tabs">
 																	<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-										<span>ManutenÃ§Ã£o and Updates</span>
+										<span>Manutenção and Updates</span>
 									</div>
 									<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 										<p><span style="font-weight: 400;">The relationship between a web design company and its clients should not end with the launch of a website. We ensure that your site continues working for you by maintaining secure hosting and providing daily data backups and security scans. We are also available for any updates, improvements, or expansions of your website.</span></p>
@@ -1969,7 +1969,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Sites WordPress</span> are the perfect blend of design flexibility and powerful functionality. PortfÃ³lio with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Sites WordPress</span> are the perfect blend of design flexibility and powerful functionality. Portfólio with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1980,7 +1980,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite WordPress Sites ServiÃ§os</h2>
+						<h2>Aenfinite WordPress Sites Serviços</h2>
 					</div>
 				</div>
 				<div class="service-grid">
@@ -2013,7 +2013,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 														<a href="/pt/contact/" class="chip-label">Database Design</a>
 													</div>
 																									<div class="chip">
-														<a href="/pt/contact/" class="chip-label">ExperiÃªncia do UsuÃ¡rio</a>
+														<a href="/pt/contact/" class="chip-label">Experiência do Usuário</a>
 													</div>
 																							</div>
 										</div>
@@ -2150,12 +2150,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">WordPress ManutenÃ§Ã£o & Support</div>
+									<div class="service-caption js-service-caption">WordPress Manutenção & Support</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/pt/contact/" class="chip-label">ManutenÃ§Ã£o</a>
+														<a href="/pt/contact/" class="chip-label">Manutenção</a>
 													</div>
 																									<div class="chip">
 														<a href="/pt/contact/" class="chip-label">Support</a>
@@ -2235,16 +2235,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">PortfÃ³lio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">Portfólio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ServiÃ§os</div>
+								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">Sites WordPress</a></li>
@@ -2260,15 +2260,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ServiÃ§os White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de IndicaÃ§Ã£o</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">ServiÃ§os GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">EndereÃ§o</div>
+								<div class="footer-col_caption">Endereço</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2324,9 +2324,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">PortfÃ³lio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">AgÃªncia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ServiÃ§os</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">Portfólio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
 </ul>						</div>
@@ -2340,14 +2340,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma ReuniÃ£o</a>
+				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agende Sua ReuniÃ£o de NegÃ³cios</h3>
+			<h3>Agende Sua Reunião de Negócios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2585,8 +2585,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Usamos cookies para melhorar sua experiÃªncia. Ao clicar em ACEITAR ou continuar navegando, vocÃª concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidade</a>.
+						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -2651,7 +2651,7 @@ document.addEventListener('keydown', function(event) {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2708,7 +2708,9 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2722,7 +2724,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2736,8 +2738,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - WordPress Desenvolvimento AgÃªncia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - WordPress Desenvolvimento Agência",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"pt-BR"
     },
@@ -2747,7 +2749,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - WordPress Desenvolvimento AgÃªncia",
+      "caption": "Aenfinite® - WordPress Desenvolvimento Agência",
       "inLanguage":"pt-BR"
     },
     {
@@ -2762,7 +2764,7 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "ServiÃ§os" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "Serviços" }
         },
         {
           "@type": "ListItem",
@@ -2775,7 +2777,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/wordpress-websites/#webpage",
       "url": "https://aenfinite.com/services/wordpress-websites/",
-      "name": "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | AenfiniteÂ®",
+      "name": "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2786,12 +2788,12 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/wordpress-websites/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and Digital Strategist at AenfiniteÂ®",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and Digital Strategist at Aenfinite®",
       "image": {
         "@type": "ImageObject",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"pt-BR"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
@@ -2799,13 +2801,13 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/wordpress-websites/#article",
-      "headline": "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | AenfiniteÂ®",
-      "keywords": "WordPress Desenvolvimento, WordPress Personalizado Themes, Desenvolvimento de Plugins, WooCommerce Desenvolvimento, WordPress ManutenÃ§Ã£o, WordPress Security, Website Optimization",
+      "headline": "Expert WordPress Website Desenvolvimento | Custom Themes & Desenvolvimento de Plugins | Aenfinite®",
+      "keywords": "WordPress Desenvolvimento, WordPress Personalizado Themes, Desenvolvimento de Plugins, WooCommerce Desenvolvimento, WordPress Manutenção, WordPress Security, Website Optimization",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/wordpress-websites/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® provides expert WordPress development services including custom theme creation, plugin development, WooCommerce integration, and ongoing maintenance. Our WordPress solutions are designed for performance, security, and business scalability.",
+      "description": "Aenfinite® provides expert WordPress development services including custom theme creation, plugin development, WooCommerce integration, and ongoing maintenance. Our WordPress solutions are designed for performance, security, and business scalability.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"pt-BR",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/wordpress-websites/#webpage" }
@@ -2841,7 +2843,7 @@ export default function Page() {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
 					  "Segunda-feira",
-					  "TerÃ§a-feira",
+					  "Terça-feira",
 					  "Quarta-feira",
 					  "Quinta-feira",
 					  "Sexta-feira"
@@ -2883,7 +2885,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ServiÃ§os",
+      "name": "Serviços",
       "item": "https://aenfinite.com/services/"
     },
     {

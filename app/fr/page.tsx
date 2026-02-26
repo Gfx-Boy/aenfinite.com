@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® | Agence Professionnelle d'Innovation Digitale | Conception Web, Image de Marque et Marketing Digital",
-  description: "AenfiniteÂ® is a professional agence d'innovation digitale spÃ©cialisÃ©e dans la conception web sur mesure, l'identitÃ© de marque, le design UI/UX, le marketing digital, le dÃ©veloppement e-commerce et les solutions complÃ¨tes de transformation digitale. Au service des entreprises aux Ã‰tats-Unis et au Canada.",
-  keywords: "agence digitale, agence de conception web, agence de branding, agence de marketing digital Denver, design UI UX, dÃ©veloppement web sur mesure, services SEO, dÃ©veloppement d'applications, dÃ©veloppement e-commerce, transformation digitale, Aenfinite",
+  title: "Aenfinite® | Agence Professionnelle d'Innovation Digitale | Conception Web, Image de Marque et Marketing Digital",
+  description: "agence d'innovation digitale spécialisée dans la conception web sur mesure, l'identité de marque, le design UI/UX, le marketing digital, le développement e-commerce et les solutions complÃ¨tes de transformation digitale. Au service des entreprises aux États-Unis et au Canada.",
+  keywords: "agence digitale, agence de conception web, agence de branding, agence de marketing digital Denver, design UI UX, développement web sur mesure, services SEO, développement d'applications, développement e-commerce, transformation digitale, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"AenfiniteÂ® | Agence Professionnelle d'Innovation Digitale | Conception Web, Image de Marque et Marketing Digital","description":"AenfiniteÂ® is a professional agence d'innovation digitale spÃ©cialisÃ©e dans la conception web sur mesure, l'identitÃ© de marque, le design UI/UX, le marketing digital, le dÃ©veloppement e-commerce et les solutions complÃ¨tes de transformation digitale. Au service des entreprises aux Ã‰tats-Unis et au Canada.","url":"https://aenfinite.com/fr/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | Agence d'Innovation Digitale PrimÃ©e","description":"Transformez votre entreprise avec AenfiniteÂ®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | Agence Professionnelle d'Innovation Digitale | Conception Web, Image de Marque et Marketing Digital","description":"agence d'innovation digitale spécialisée dans la conception web sur mesure, l'identité de marque, le design UI/UX, le marketing digital, le développement e-commerce et les solutions complÃ¨tes de transformation digitale. Au service des entreprises aux États-Unis et au Canada.","url":"https://aenfinite.com/fr/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | Agence d'Innovation Digitale Primée","description":"Transformez votre entreprise avec Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -859,7 +859,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1125,7 +1125,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency">Agence</a>
@@ -1134,34 +1134,34 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/fr/services/">Services</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1190,7 +1190,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1219,7 +1219,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="title title__main js-header-title">
 					<h1>
 						<span>Agence d'innovation digitale,</span>
-													<span>basÃ©e dans la Mile-High City</span>	
+													<span>basée dans la Mile-High City</span>	
 											</h1>
 											<div class="header-heart">
 							<div class="heart">
@@ -1266,17 +1266,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">Agence Professionnelle d'Innovation Digitale</span>
-															<span class="marquee-line_text">Conception Web Sur Mesure et DÃ©veloppement de Marque</span>
-															<span class="marquee-line_text">Au Service des MarchÃ©s AmÃ©ricain et Canadien</span>
+															<span class="marquee-line_text">Conception Web Sur Mesure et Développement de Marque</span>
+															<span class="marquee-line_text">Au Service des Marchés Américain et Canadien</span>
 															<span class="marquee-line_text">Solutions Expertes en UI/UX et Marketing Digital</span>
-															<span class="marquee-line_text">Avis Clients 5 Ã‰toiles et Note Clutch</span>
-															<span class="marquee-line_text">Ã‰quipe d'Experts - Adobe, Figma, DÃ©veloppement Sur Mesure</span>
-															<span class="marquee-line_text">Processus Agile de DÃ©veloppement et de Design</span>
-															<span class="marquee-line_text">Agence Digitale BasÃ©e Ã  Denver</span>
+															<span class="marquee-line_text">Avis Clients 5 Étoiles et Note Clutch</span>
+															<span class="marquee-line_text">Équipe d'Experts - Adobe, Figma, Développement Sur Mesure</span>
+															<span class="marquee-line_text">Processus Agile de Développement et de Design</span>
+															<span class="marquee-line_text">Agence Digitale Basée Ã  Denver</span>
 															<span class="marquee-line_text">Services Professionnels d'Innovation Digitale</span>
 															<span class="marquee-line_text">Solutions Sur Mesure pour Chaque Entreprise</span>
-															<span class="marquee-line_text">DÃ©veloppement E-Commerce et Applications Mobiles</span>
-															<span class="marquee-line_text">SpÃ©cialistes SEO et Marketing Digital</span>
+															<span class="marquee-line_text">Développement E-Commerce et Applications Mobiles</span>
+															<span class="marquee-line_text">Spécialistes SEO et Marketing Digital</span>
 													</div>
 									</div>
 			</div>
@@ -1285,16 +1285,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="shiftbox">
 							<div class="shiftbox-image">
 								<a href="/fr/work/neocert/">
-									<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert UI/UX & DÃ©veloppement d'Applications Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert UI/UX & Développement d'Applications Platform" class="cover" loading="lazy" decoding="async" />
 									<a href="/fr/work/neocert/" class="shiftbox-link"> </a>
 								</a>
 							</div>
 							<div class="shiftbox-content">
 								<div class="preview"> 
 									<div class="preview-content" data-index="01">
-										<div class="preview-name preview-name__caption"><a href="/fr/work/neocert/">NeoCert - Concert UI/UX & DÃ©veloppement d'Applications Platform</a></div>
+										<div class="preview-name preview-name__caption"><a href="/fr/work/neocert/">NeoCert - Concert UI/UX & Développement d'Applications Platform</a></div>
 																					<div class="preview-name">Conception Web</div>
-																					<div class="preview-name">DÃ©veloppement</div>
+																					<div class="preview-name">Développement</div>
 																					<div class="preview-name">UI/UX</div>
 																					<div class="preview-name">Animations Sur Mesure</div>
 																					<div class="preview-name">Gestion de Concerts</div>
@@ -1330,18 +1330,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="shiftbox">
 							<div class="shiftbox-image">
 								<a href="/fr/work/mindfit/">
-									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-Ãªtre Mental & Fitness App UI/UX & DÃ©veloppement" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Bien-être Mental & Fitness App UI/UX & Développement" class="cover" loading="lazy" decoding="async" />
 									<a href="/fr/work/mindfit/" class="shiftbox-link"> </a>
 								</a>
 							</div>
 							<div class="shiftbox-content">
 								<div class="preview">
 									<div class="preview-content" data-index="03">
-										<div class="preview-name preview-name__caption"><a href="/fr/work/mindfit/">Mindfit - Bien-Ãªtre Mental & Fitness App UI/UX & DÃ©veloppement</a></div>
-																					<div class="preview-name">DÃ©veloppement d'Applications</div>
+										<div class="preview-name preview-name__caption"><a href="/fr/work/mindfit/">Mindfit - Bien-être Mental & Fitness App UI/UX & Développement</a></div>
+																					<div class="preview-name">Développement d'Applications</div>
 																					<div class="preview-name">Design d'App UI/UX</div>
-																					<div class="preview-name">Bien-Ãªtre Mental</div>
-																					<div class="preview-name">SantÃ©</div>
+																					<div class="preview-name">Bien-être Mental</div>
+																					<div class="preview-name">Santé</div>
 																				
 									</div>
 								</div>
@@ -1352,18 +1352,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="shiftbox">
 							<div class="shiftbox-image">
 								<a href="/fr/work/robophil/">
-									<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil - CrÃ©ation de Logo & IdentitÃ© de Marque" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil - Création de Logo & Identité de Marque" class="cover" loading="lazy" decoding="async" />
 									<a href="/fr/work/robophil/" class="shiftbox-link"> </a>
 								</a>
 							</div>
 							<div class="shiftbox-content">
 								<div class="preview">
 									<div class="preview-content" data-index="04">
-										<div class="preview-name preview-name__caption"><a href="/fr/work/robophil/">RoboPhil - CrÃ©ation de Logo & IdentitÃ© de Marque</a></div>
+										<div class="preview-name preview-name__caption"><a href="/fr/work/robophil/">RoboPhil - Création de Logo & Identité de Marque</a></div>
 																					<div class="preview-name">Image de Marque</div>
-																					<div class="preview-name">CrÃ©ation de Logo</div>
+																					<div class="preview-name">Création de Logo</div>
 																					<div class="preview-name">Design 3D</div>
-																					<div class="preview-name">IdentitÃ© Visuelle</div>
+																					<div class="preview-name">Identité Visuelle</div>
 																				
 									</div>
 								</div>
@@ -1374,19 +1374,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="shiftbox">
 							<div class="shiftbox-image">
 								<a href="/fr/work/lumea/">
-									<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Bien-être & Light Therapy Application Mobile" class="cover" loading="lazy" decoding="async" />
 									<a href="/fr/work/lumea/" class="shiftbox-link"> </a>
 								</a>
 							</div>
 							<div class="shiftbox-content">
 								<div class="preview">
 									<div class="preview-content" data-index="05">
-										<div class="preview-name preview-name__caption"><a href="/fr/work/lumea/">Lumea - Smart Bien-Ãªtre & Light Therapy Application Mobile</a></div>
-																					<div class="preview-name">DÃ©veloppement d'Applications</div>
+										<div class="preview-name preview-name__caption"><a href="/fr/work/lumea/">Lumea - Smart Bien-être & Light Therapy Application Mobile</a></div>
+																					<div class="preview-name">Développement d'Applications</div>
 																					<div class="preview-name">App UI/UX</div>
 																					<div class="preview-name">Conception Web</div>
 																					<div class="preview-name">Image de Marque</div>
-																					<div class="preview-name">Bien-Ãªtre</div>
+																					<div class="preview-name">Bien-être</div>
 																				
 									</div>
 								</div>
@@ -1405,9 +1405,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption"><a href="/fr/work/fiscoclic/">FiscoClic - Mexican Electronic Invoicing CFDI App</a></div>
-																					<div class="preview-name">DÃ©veloppement d'Applications</div>
+																					<div class="preview-name">Développement d'Applications</div>
 																					<div class="preview-name">UI/UX</div>
-																					<div class="preview-name">ConformitÃ© CFDI</div>
+																					<div class="preview-name">Conformité CFDI</div>
 																					<div class="preview-name">Application Mobile</div>
 																					<div class="preview-name">Fintech</div>
 																				
@@ -1432,7 +1432,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					<div class="preview-name">Animations Sur Mesure</div>
 																					<div class="preview-name">Tech</div>
 																					<div class="preview-name">UI/UX</div>
-																					<div class="preview-name">Analyse de DonnÃ©es</div>
+																					<div class="preview-name">Analyse de Données</div>
 																				
 									</div>
 								</div>
@@ -1453,10 +1453,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">AenfiniteÂ® est une agence professionnelle d'innovation digitale qui transforme les entreprises grÃ¢ce Ã  des solutions de design, de dÃ©veloppement et de marketing de pointe. BasÃ©e Ã  Denver et au service de clients aux Ã‰tats-Unis et au Canada, notre Ã©quipe d'experts fournit des rÃ©sultats exceptionnels en conception web, identitÃ© de marque, design UI/UX, marketing digital, dÃ©veloppement e-commerce et services complets de transformation digitale. Nous collaborons avec des entreprises allant des startups aux sociÃ©tÃ©s Ã©tablies dans la santÃ©, la technologie, l'immobilier et au-delÃ  pour crÃ©er des expÃ©riences digitales percutantes qui stimulent la croissance et l'engagement.</div>
+				<div class="textbox-content">Aenfinite® est une agence professionnelle d'innovation digitale qui transforme les entreprises grâce Ã  des solutions de design, de développement et de marketing de pointe. Basée Ã  Denver et au service de clients aux États-Unis et au Canada, notre équipe d'experts fournit des résultats exceptionnels en conception web, identité de marque, design UI/UX, marketing digital, développement e-commerce et services complets de transformation digitale. Nous collaborons avec des entreprises allant des startups aux sociétés établies dans la santé, la technologie, l'immobilier et au-delÃ  pour créer des expériences digitales percutantes qui stimulent la croissance et l'engagement.</div>
 									<div class="textbox-action">
 						<a href="/fr/work/" class="redlink">
-							<span>Voir nos rÃ©alisations</span>
+							<span>Voir nos réalisations</span>
 						</a>
 					</div>
 							</div>
@@ -1472,7 +1472,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-<strong>Projets Aenfinite RÃ©ussis â€“</strong> Transformer les Marques avec un Design d'IdentitÃ© StratÃ©gique, des Sites Web Haute Performance et des Emballages de Produits Percutants.
+<strong>Projets Aenfinite Réussis –</strong> Transformer les Marques avec un Design d'Identité Stratégique, des Sites Web Haute Performance et des Emballages de Produits Percutants.
 																	</div>
 							</div>
 						</div>
@@ -1482,7 +1482,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-									<div>annÃ©es d'activitÃ© Ã  amÃ©liorer les produits Aenfinite pour nos clients</div>
+									<div>années d'activité Ã  améliorer les produits Aenfinite pour nos clients</div>
 																	</div>
 							</div>
 						</div>
@@ -1516,13 +1516,13 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Pourquoi Choisir AenfiniteÂ® pour Votre Transformation Digitale</h2>
+						<h2>Pourquoi Choisir Aenfinite® pour Votre Transformation Digitale</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
     <h3><b>Solutions Digitales Innovantes</b></h3>
-    <p>AenfiniteÂ® combine stratÃ©gie, design et technologie pour crÃ©er des expÃ©riences digitales fluides. Du branding et de la conception web au marketing et au conseil, nous fournissons des solutions basÃ©es sur les donnÃ©es qui alimentent une croissance commerciale mesurable.</p>
+    <p>Aenfinite® combine stratégie, design et technologie pour créer des expériences digitales fluides. Du branding et de la conception web au marketing et au conseil, nous fournissons des solutions basées sur les données qui alimentent une croissance commerciale mesurable.</p>
   </div>
 </div>
 
@@ -1567,34 +1567,34 @@ recommend a service from 1-10</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/web-design/" class="redlink">
-											<span>DÃ©couvrez Nos Services de Conception Web</span>
+											<span>Découvrez Nos Services de Conception Web</span>
 										</a>
 									</div>
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">Image de Marque et CrÃ©ation de Logo</div>
+								<div class="service-caption js-service-caption">Image de Marque et Création de Logo</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">IdentitÃ© de Marque</a>
+													<a href="/fr/services/branding/" class="chip-label">Identité de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/logo-design/" class="chip-label">CrÃ©ation de Logo</a>
+													<a href="/fr/services/logo-design/" class="chip-label">Création de Logo</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">StratÃ©gie de Marque</a>
+													<a href="/fr/services/branding/" class="chip-label">Stratégie de Marque</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/branding/" class="chip-label">Charte Graphique</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">IdentitÃ© Corporate</a>
+													<a href="/fr/services/branding/" class="chip-label">Identité Corporate</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/branding/" class="chip-label">Rebranding</a>
@@ -1603,12 +1603,12 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/branding/" class="redlink">
-											<span>DÃ©couvrez Nos Solutions de Image de Marque</span>
+											<span>Découvrez Nos Solutions de Image de Marque</span>
 										</a>
 									</div>
 								</div>
@@ -1625,13 +1625,13 @@ recommend a service from 1-10</div>
 													<a href="/fr/services/search-engine-optimization/" class="chip-label">Marketing par E-mail</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/paid-ads/" class="chip-label">PublicitÃ© Payante</a>
+													<a href="/fr/services/paid-ads/" class="chip-label">Publicité Payante</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/Pay-per-click/" class="chip-label">Campagnes PPC</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/social-media-marketing/" class="chip-label">Marketing sur les RÃ©seaux Sociaux</a>
+													<a href="/fr/services/social-media-marketing/" class="chip-label">Marketing sur les Réseaux Sociaux</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/digital-marketing/" class="chip-label">Marketing de Contenu</a>
@@ -1654,7 +1654,7 @@ recommend a service from 1-10</div>
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/e-commerce-websites/" class="chip-label">DÃ©veloppement Shopify</a>
+													<a href="/fr/services/e-commerce-websites/" class="chip-label">Développement Shopify</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">WooCommerce</a>
@@ -1663,7 +1663,7 @@ recommend a service from 1-10</div>
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">Boutiques en Ligne</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/e-commerce-websites/" class="chip-label">IntÃ©gration de Paiement</a>
+													<a href="/fr/services/e-commerce-websites/" class="chip-label">Intégration de Paiement</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">Catalogues de Produits</a>
@@ -1678,7 +1678,7 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/e-commerce-websites/" class="redlink">
-											<span>DÃ©couvrez les Solutions E-Commerce</span>
+											<span>Découvrez les Solutions E-Commerce</span>
 										</a>
 									</div>
 								</div>
@@ -1692,10 +1692,10 @@ recommend a service from 1-10</div>
 													<a href="/fr/services/wordpress-websites/" class="chip-label">WordPress Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/wordpress-websites/" class="chip-label">DÃ©veloppement de ThÃ¨mes</a>
+													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de ThÃ¨mes</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/wordpress-websites/" class="chip-label">DÃ©veloppement de Plugins</a>
+													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de Plugins</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/wordpress-websites/" class="chip-label">Solutions CMS</a>
@@ -1719,7 +1719,7 @@ recommend a service from 1-10</div>
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement d'Applications</div>
+								<div class="service-caption js-service-caption">Développement d'Applications</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
@@ -1744,11 +1744,11 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile dÃ©veloppement d'applications and success.</p>
+										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile développement d'applications and success.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/app-development/" class="redlink">
-											<span>En Savoir Plus sur le DÃ©veloppement d'Apps</span>
+											<span>En Savoir Plus sur le Développement d'Apps</span>
 										</a>
 									</div>
 								</div>
@@ -1779,7 +1779,7 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1798,10 +1798,10 @@ recommend a service from 1-10</div>
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">Ã‰tiquette de Marque</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Étiquette de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">Ã‰tiquette de Produit</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Étiquette de Produit</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/packaging-design/" class="chip-label">Alimentation et Boissons</a>
@@ -1811,7 +1811,7 @@ recommend a service from 1-10</div>
 													<a href="/fr/services/packaging-design/" class="chip-label">Maquettes 3D</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">PrÃªt pour la Vente</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Prêt pour la Vente</a>
 												</div>
 																					</div>
 									</div>
@@ -1822,21 +1822,21 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/packaging-design/" class="redlink">
-											<span>DÃ©couvrez les RÃ©alisations en Design d'Emballage</span>
+											<span>Découvrez les Réalisations en Design d'Emballage</span>
 										</a>
 									</div>
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement Sur Mesure</div>
+								<div class="service-caption js-service-caption">Développement Sur Mesure</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/custom-web-development/" class="chip-label">DÃ©veloppement Web Sur Mesure</a>
+													<a href="/fr/services/custom-web-development/" class="chip-label">Développement Web Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/software-&-platform-development/" class="chip-label">DÃ©veloppement Logiciel</a>
+													<a href="/fr/services/software-&-platform-development/" class="chip-label">Développement Logiciel</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation Commerciale</a>
@@ -1845,7 +1845,7 @@ recommend a service from 1-10</div>
 													<a href="/fr/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots IA</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/custom-web-development/" class="chip-label">DÃ©veloppement de Plateformes</a>
+													<a href="/fr/services/custom-web-development/" class="chip-label">Développement de Plateformes</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation des Processus</a>
@@ -1857,7 +1857,7 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/custom-web-development/" class="redlink">
-											<span>Voir les Services de DÃ©veloppement Sur Mesure</span>
+											<span>Voir les Services de Développement Sur Mesure</span>
 										</a>
 									</div>
 								</div>
@@ -1877,9 +1877,9 @@ recommend a service from 1-10</div>
 			<div class="marquee js-marquee-content">
     <div class="marquee-item">Solutions IT et Digitales de Bout en Bout</div>					
     <div class="marquee-item">Experts en Web, App et Design UI/UX</div>					
-    <div class="marquee-item">Agence Mondiale de Technologie et de CrÃ©ation</div>					
+    <div class="marquee-item">Agence Mondiale de Technologie et de Création</div>					
     <div class="marquee-item">La Confiance des Entreprises du Monde Entier</div>					
-    <div class="marquee-item">GuidÃ© par l'Innovation et les RÃ©sultats</div>					
+    <div class="marquee-item">Guidé par l'Innovation et les Résultats</div>					
 </div>
 
 		</div>
@@ -1889,7 +1889,7 @@ recommend a service from 1-10</div>
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contactez Votre Prochaine Agence - AenfiniteÂ®</h2>
+				<h2>Contactez Votre Prochaine Agence - Aenfinite®</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1906,11 +1906,11 @@ recommend a service from 1-10</div>
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Votre nom*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Votre e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Parlez-nous de votre projetâ€¦" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Votre nom*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Votre e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Parlez-nous de votre projet…" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Image de Marque" id="branding" /><label for="branding" class="list-item-label">Image de Marque</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web" id="web-design" /><label for="web-design" class="list-item-label">Conception Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Solutions E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Solutions E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="DÃ©veloppement d'Applications" id="app-development" /><label for="app-development" class="list-item-label">DÃ©veloppement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="Emballage" id="packaging" /><label for="packaging" class="list-item-label">Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Design Graphique" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design Graphique</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre" id="other" /><label for="other" class="list-item-label">Autre</label></span></span></span>
+		<strong>Je suis intéressé par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Image de Marque" id="branding" /><label for="branding" class="list-item-label">Image de Marque</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web" id="web-design" /><label for="web-design" class="list-item-label">Conception Web</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Solutions E-Commerce" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Solutions E-Commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Développement d'Applications" id="app-development" /><label for="app-development" class="list-item-label">Développement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="Emballage" id="packaging" /><label for="packaging" class="list-item-label">Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Design Graphique" id="graphic-design" /><label for="graphic-design" class="list-item-label">Design Graphique</label></span><span class="list-item"><input type="checkbox" name="services" value="Sites WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Sites WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre" id="other" /><label for="other" class="list-item-label">Autre</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Indiquez votre budget approximatif" value="" readonly name="budget" />
@@ -1962,7 +1962,7 @@ recommend a service from 1-10</div>
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
     <span>
-        AenfiniteÂ® â€“ Donner aux Entreprises les Moyens de RÃ©ussir grÃ¢ce aux Solutions IT de Pointe, au Design CrÃ©atif et Ã  la StratÃ©gie Digitale BasÃ©e sur les DonnÃ©es.
+        Aenfinite® – Donner aux Entreprises les Moyens de Réussir grâce aux Solutions IT de Pointe, au Design Créatif et Ã  la Stratégie Digitale Basée sur les Données.
     </span>
 </div>
 
@@ -1975,7 +1975,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>RÃ©alisations de l'Agence de Design AenfiniteÂ®</h2>
+						<h2>Réalisations de l'Agence de Design Aenfinite®</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -1983,12 +1983,12 @@ recommend a service from 1-10</div>
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros - Professional CrÃ©ation de Logo & IdentitÃ© de Marque Studio " loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros - Professional Création de Logo & Identité de Marque Studio " loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/fr/work/algopros/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="/fr/work/blue-vine-marketing/">Algopros - Professional CrÃ©ation de Logo & IdentitÃ© de Marque Studio</a>
+											<a href="/fr/work/blue-vine-marketing/">Algopros - Professional Création de Logo & Identité de Marque Studio</a>
 										</div>
 																					<div class="preview-name">Logo design</div>
 																					<div class="preview-name">Design de Marque</div>
@@ -2009,7 +2009,7 @@ recommend a service from 1-10</div>
 																					<div class="preview-name">Image de Marque</div>
 																					<div class="preview-name">Supports de Marque</div>
 																					<div class="preview-name">Conception Web</div>
-																					<div class="preview-name">DÃ©veloppement Web</div>
+																					<div class="preview-name">Développement Web</div>
 											
 									</div>
 								</div>
@@ -2025,7 +2025,7 @@ recommend a service from 1-10</div>
 											<a href="/fr/work/amkiservice/">AM-KI Services - Business Compliance & Licensing Solutions</a>
 										</div>
 																					<div class="preview-name">Conception Web</div>
-																					<div class="preview-name">DÃ©veloppement Web</div>
+																					<div class="preview-name">Développement Web</div>
 																					<div class="preview-name">UI/UX</div>
 																					<div class="preview-name">Animations Sur Mesure</div>
 											
@@ -2063,7 +2063,7 @@ recommend a service from 1-10</div>
 																					<div class="preview-name">Conception Web</div>
 																					<div class="preview-name">UI/UX</div>
 																					<div class="preview-name">E-Commerce</div>
-																					<div class="preview-name">DÃ©veloppement Web</div>
+																					<div class="preview-name">Développement Web</div>
 																					<div class="preview-name">WordPress</div>
 											
 									</div>
@@ -2081,7 +2081,7 @@ recommend a service from 1-10</div>
 										</div>
 																					<div class="preview-name">Conception Web</div>
 																					<div class="preview-name">Animations</div>
-																					<div class="preview-name">DÃ©veloppement Web</div>
+																					<div class="preview-name">Développement Web</div>
 											
 									</div>
 								</div>
@@ -2098,7 +2098,7 @@ recommend a service from 1-10</div>
 										</div>
 																					<div class="preview-name">Motion Design</div>
 																					<div class="preview-name">Conception Web</div>
-																					<div class="preview-name">DÃ©veloppement Web</div>
+																					<div class="preview-name">Développement Web</div>
 											
 									</div>
 								</div>
@@ -2118,7 +2118,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>FAQ de l'Agence AenfiniteÂ®</h2>
+									<h2>FAQ de l'Agence Aenfinite®</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2126,7 +2126,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Quelles solutions AenfiniteÂ® propose-t-elle ?</div>
+            <div class="faq-header-title" itemprop="name">Quelles solutions Aenfinite® propose-t-elle ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2134,13 +2134,13 @@ recommend a service from 1-10</div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
            
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® est une agence mondiale IT et crÃ©ative dÃ©diÃ©e Ã  aider les entreprises Ã  se dÃ©velopper grÃ¢ce Ã  la stratÃ©gie, au design et Ã  la technologie. Nous nous spÃ©cialisons dans :</p>
-                <p><b>StratÃ©gie et Design de Marque :</b> SystÃ¨mes complets d'identitÃ© de marque, crÃ©ation de logos et chartes graphiques qui Ã©tablissent une prÃ©sence visuelle puissante et cohÃ©rente.</p>
-                <p><b>DÃ©veloppement Web et d'Applications :</b> Sites web personnalisÃ©s, designs responsives, solutions e-commerce et applications mobiles Ã©volutives optimisÃ©es pour la vitesse et les conversions.</p>
-                <p><b>Design UI/UX:</b> Design d'interface basÃ© sur la recherche, wireframes et prototypes qui assurent des parcours utilisateur intuitifs et un engagement plus Ã©levÃ©.</p>
-                <p><b>Marketing Digital:</b> SEO, publicitÃ© payante et stratÃ©gies de contenu qui boostent la visibilitÃ©, le trafic et le ROI mesurable.</p>
-                <p><b>Technologie et Automatisation :</b> Solutions pilotÃ©es par l'IA, automatisation des processus mÃ©tier et dÃ©veloppement logiciel pour optimiser les opÃ©rations et Ã©voluer efficacement.</p>
-                <p>Notre mission est simple : crÃ©er des solutions qui sont visuellement Ã©poustouflantes, fonctionnent parfaitement et aident votre entreprise Ã  atteindre des rÃ©sultats rÃ©els et mesurables.</p>
+                <p>Aenfinite® est une agence mondiale IT et créative dédiée Ã  aider les entreprises Ã  se développer grâce Ã  la stratégie, au design et Ã  la technologie. Nous nous spécialisons dans :</p>
+                <p><b>Stratégie et Design de Marque :</b> SystÃ¨mes complets d'identité de marque, création de logos et chartes graphiques qui établissent une présence visuelle puissante et cohérente.</p>
+                <p><b>Développement Web et d'Applications :</b> Sites web personnalisés, designs responsives, solutions e-commerce et applications mobiles évolutives optimisées pour la vitesse et les conversions.</p>
+                <p><b>Design UI/UX:</b> Design d'interface basé sur la recherche, wireframes et prototypes qui assurent des parcours utilisateur intuitifs et un engagement plus élevé.</p>
+                <p><b>Marketing Digital:</b> SEO, publicité payante et stratégies de contenu qui boostent la visibilité, le trafic et le ROI mesurable.</p>
+                <p><b>Technologie et Automatisation :</b> Solutions pilotées par l'IA, automatisation des processus métier et développement logiciel pour optimiser les opérations et évoluer efficacement.</p>
+                <p>Notre mission est simple : créer des solutions qui sont visuellement époustouflantes, fonctionnent parfaitement et aident votre entreprise Ã  atteindre des résultats réels et mesurables.</p>
             </div>
         </div>
     </div>
@@ -2148,19 +2148,19 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Comment AenfiniteÂ® gÃ¨re-t-elle les nouveaux projets ?</div>
+            <div class="faq-header-title" itemprop="name">Comment Aenfinite® gÃ¨re-t-elle les nouveaux projets ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>Nous suivons un processus clair et collaboratif qui vous implique et garantit la qualitÃ© Ã  chaque Ã©tape :</p>
-                <p><b>1. DÃ©couverte et Planification :</b> Nous apprenons Ã  connaÃ®tre votre entreprise, votre audience et vos objectifs pour dÃ©finir une stratÃ©gie claire.</p>
-                <p><b>2. Concept et Direction :</b> Nos crÃ©atifs prÃ©parent des moodboards, des concepts et des directions de design alignÃ©s avec votre vision de marque.</p>
-                <p><b>3. Design et DÃ©veloppement :</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
-                <p><b>4. ImplÃ©mentation :</b> Notre Ã©quipe de dÃ©veloppement donne vie aux designs, livrant des produits digitaux performants ou des actifs prÃªts pour l'impression.</p>
-                <p><b>5. Lancement et Optimisation :</b> Nous assistons au dÃ©ploiement, fournissons une formation si nÃ©cessaire et surveillons continuellement les rÃ©sultats pour des amÃ©liorations.</p>
+                <p>Nous suivons un processus clair et collaboratif qui vous implique et garantit la qualité Ã  chaque étape :</p>
+                <p><b>1. Découverte et Planification :</b> Nous apprenons Ã  connaÃ®tre votre entreprise, votre audience et vos objectifs pour définir une stratégie claire.</p>
+                <p><b>2. Concept et Direction :</b> Nos créatifs préparent des moodboards, des concepts et des directions de design alignés avec votre vision de marque.</p>
+                <p><b>3. Design et Développement :</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>4. Implémentation :</b> Notre équipe de développement donne vie aux designs, livrant des produits digitaux performants ou des actifs prêts pour l'impression.</p>
+                <p><b>5. Lancement et Optimisation :</b> Nous assistons au déploiement, fournissons une formation si nécessaire et surveillons continuellement les résultats pour des améliorations.</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
             </div>
         </div>
@@ -2169,22 +2169,22 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Avec qui travaille AenfiniteÂ® ?</div>
+            <div class="faq-header-title" itemprop="name">Avec qui travaille Aenfinite® ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <p>Aenfinite® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
                 <ul>
-                    <li>Technologie et SaaS â€“ plateformes web, UI/UX SaaS et branding de produits</li>
-                    <li>SantÃ© et Bien-Ãªtre â€“ branding mÃ©dical, interfaces adaptÃ©es aux patients et solutions conformes</li>
-                    <li>Immobilier et Construction â€“ sites immobiliers, branding et campagnes de gÃ©nÃ©ration de prospects</li>
-                    <li>Commerce et E-Commerce â€“ emballage, design de boutiques en ligne et optimisation des conversions</li>
-                    <li>Services Professionnels â€“ sites corporate, automatisation marketing et portails clients</li>
+                    <li>Technologie et SaaS – plateformes web, UI/UX SaaS et branding de produits</li>
+                    <li>Santé et Bien-être – branding médical, interfaces adaptées aux patients et solutions conformes</li>
+                    <li>Immobilier et Construction – sites immobiliers, branding et campagnes de génération de prospects</li>
+                    <li>Commerce et E-Commerce – emballage, design de boutiques en ligne et optimisation des conversions</li>
+                    <li>Services Professionnels – sites corporate, automatisation marketing et portails clients</li>
                 </ul>
-                <p>Quelle que soit l'industrie, notre objectif est de crÃ©er un travail qui rÃ©sonne avec votre audience et stimule une croissance mesurable.</p>
+                <p>Quelle que soit l'industrie, notre objectif est de créer un travail qui résonne avec votre audience et stimule une croissance mesurable.</p>
             </div>
         </div>
     </div>
@@ -2202,9 +2202,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="contact/" class="redlink">
-									<span>Letâ€™s talk</span>
+									<span>Let's talk</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2215,7 +2215,7 @@ recommend a service from 1-10</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">Contact</a></li>
@@ -2290,14 +2290,14 @@ recommend a service from 1-10</div>
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="/fr/">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">Contact</a></li>
@@ -2312,13 +2312,13 @@ recommend a service from 1-10</div>
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2624,8 +2624,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2762,7 +2762,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 </script>
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2811,19 +2813,19 @@ export default function Page() {
         {
           "@type": "WebPage",
           "name": "Portfolio",
-          "description": "Notre portfolio prÃ©sentant nos projets rÃ©ussis",
+          "description": "Notre portfolio présentant nos projets réussis",
           "url": "https://aenfinite.com/work/"
         },
         {
           "@type": "WebPage",
           "name": "Ã€ propos de Nous",
-          "description": "DÃ©couvrez Aenfinite et notre mission",
+          "description": "Découvrez Aenfinite et notre mission",
           "url": "https://aenfinite.com/agency/"
         },
         {
           "@type": "WebPage",
           "name": "Contact",
-          "description": "Contactez notre Ã©quipe",
+          "description": "Contactez notre équipe",
           "url": "https://aenfinite.com/contact/"
         }
       ]
@@ -2834,7 +2836,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "Agence d'innovation digitale spÃ©cialisÃ©e dans la conception web, le branding, le design UI/UX, le marketing digital et le dÃ©veloppement e-commerce.",
+      "description": "Agence d'innovation digitale spécialisée dans la conception web, le branding, le design UI/UX, le marketing digital et le développement e-commerce.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2870,7 +2872,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - Agence d'Innovation Digitale",
-      "alternateName": "AenfiniteÂ®",
+      "alternateName": "Aenfinite®",
       "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"fr-FR",
@@ -2913,7 +2915,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® | Digital Innovation Agence",
+      "name": "Aenfinite® | Digital Innovation Agence",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "about": {"@id": "https://aenfinite.com/#organization"},
       "datePublished": "2017-01-01T00:00:00-00:00",
@@ -2933,23 +2935,23 @@ export default function Page() {
         "@type": "OfferCatalog",
         "name": "Services d'Innovation Digitale",
         "itemListElement": [
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Sites WordPress","description": "Solutions de dÃ©veloppement et design WordPress sur mesure"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Sites WordPress","description": "Solutions de développement et design WordPress sur mesure"}},
           {"@type": "Offer","itemOffered":{"@type": "Service","name": "Sites E-Commerce","description": "Boutiques en ligne et plateformes e-commerce sur mesure"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "DÃ©veloppement Web Sur Mesure","description": "Applications web et systÃ¨mes sur mesure"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "DÃ©veloppement de Logiciels et Plateformes","description": "Solutions logicielles et plateformes SaaS sur mesure"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "DÃ©veloppement d'Applications","description": "DÃ©veloppement d'applications mobiles pour iOS et Android"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Conception et DÃ©veloppement de Sites Web","description": "Solutions de sites web responsives et centrÃ©es utilisateur"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Développement Web Sur Mesure","description": "Applications web et systÃ¨mes sur mesure"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Développement de Logiciels et Plateformes","description": "Solutions logicielles et plateformes SaaS sur mesure"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Développement d'Applications","description": "Développement d'applications mobiles pour iOS et Android"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Conception et Développement de Sites Web","description": "Solutions de sites web responsives et centrées utilisateur"}},
           {"@type": "Offer","itemOffered":{"@type": "Service","name": "Solutions Web ImmobiliÃ¨res","description": "Conception web et branding pour les entreprises immobiliÃ¨res"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Design UI/UX","description": "Design d'interface et d'expÃ©rience centrÃ© utilisateur"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "IdentitÃ© de Marque et StratÃ©gie","description": "CrÃ©ation de logo, stratÃ©gie de marque et charte graphique"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Design Graphique","description": "Solutions de design crÃ©atif pour le digital et l'impression"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Design UI/UX","description": "Design d'interface et d'expérience centré utilisateur"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Identité de Marque et Stratégie","description": "Création de logo, stratégie de marque et charte graphique"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Design Graphique","description": "Solutions de design créatif pour le digital et l'impression"}},
           {"@type": "Offer","itemOffered":{"@type": "Service","name": "Conception de Stands d'Exposition","description": "Conception de stands sur mesure pour les salons professionnels"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Image de Marque de ConfÃ©rence","description": "Solutions de design de marque pour les confÃ©rences"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "StratÃ©gie de Marketing Digital","description": "Planification complÃ¨te de marketing digital"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Optimisation pour les Moteurs de Recherche (SEO)","description": "StratÃ©gies SEO pour amÃ©liorer la visibilitÃ©"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "PublicitÃ© au CoÃ»t par Clic (PPC)","description": "Campagnes PPC ciblÃ©es pour la croissance"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Marketing sur les RÃ©seaux Sociaux","description": "Campagnes sur les rÃ©seaux sociaux et stratÃ©gies de contenu"}},
-          {"@type": "Offer","itemOffered":{"@type": "Service","name": "PublicitÃ© Payante","description": "PublicitÃ© en ligne sur plusieurs plateformes"}}
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Image de Marque de Conférence","description": "Solutions de design de marque pour les conférences"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Stratégie de Marketing Digital","description": "Planification complÃ¨te de marketing digital"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Optimisation pour les Moteurs de Recherche (SEO)","description": "Stratégies SEO pour améliorer la visibilité"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Publicité au CoÃ»t par Clic (PPC)","description": "Campagnes PPC ciblées pour la croissance"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Marketing sur les Réseaux Sociaux","description": "Campagnes sur les réseaux sociaux et stratégies de contenu"}},
+          {"@type": "Offer","itemOffered":{"@type": "Service","name": "Publicité Payante","description": "Publicité en ligne sur plusieurs plateformes"}}
         ]
       }
     }

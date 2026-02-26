@@ -2,12 +2,12 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®",
-  description: "AenfiniteÂ® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
+  title: "Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®",
+  description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, SEO services, app development, custom web development, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
-  openGraph: {"title":"Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.com/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Web Design & Digital Marketing Services | AenfiniteÂ®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.com/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Web Design & Digital Marketing Services | Aenfinite®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -895,7 +895,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Serving Clients Across the US, Canada & Beyond</span>
     <span class="marquee-line_text">Experts in UI/UX, SEO & Growth Marketing</span>
     <span class="marquee-line_text">Trusted by Startups & Global Enterprises</span>
-    <span class="marquee-line_text">Skilled Team â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Skilled Team – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Agile & Data-Driven Development Process</span>
     <span class="marquee-line_text">Global Agency with Southeast Asian Roots</span>
     <span class="marquee-line_text">Empowering Businesses with Scalable Solutions</span>
@@ -1488,7 +1488,7 @@ from our clients</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2048,7 +2048,9 @@ document.addEventListener('keydown', function(event) {
 
 	<script src="/js/button-highlights.js"></script>
 
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2062,7 +2064,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2075,7 +2077,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "alternateName": "Aenfinite - Digital Innovation Agency",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
@@ -2084,7 +2086,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/#webpage",
       "url": "https://aenfinite.com/services/",
-      "name": "Services | AenfiniteÂ®",
+      "name": "Services | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2093,7 +2095,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® - Digital Agency Services"
+        "caption": "Aenfinite® - Digital Agency Services"
       },
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
@@ -2109,9 +2111,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/#article",
-      "headline": "Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®",
+      "headline": "Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®",
       "keywords": "Web Design, Logo Design, Branding, Digital Marketing, SEO, Creative Agency, Website Development",
-      "description": "Aenfinite delivers professional design and marketing solutions â€” from websites and logos to SEO and branding strategies that drive measurable results.",
+      "description": "Aenfinite delivers professional design and marketing solutions — from websites and logos to SEO and branding strategies that drive measurable results.",
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2138,7 +2140,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "https://aenfinite.com/#business",
-  "name": "AenfiniteÂ®",
+  "name": "Aenfinite®",
   "description": "Professional web design, branding, and digital marketing agency specializing in custom websites, SEO, and creative solutions for businesses.",
   "url": "https://aenfinite.com",
   "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",

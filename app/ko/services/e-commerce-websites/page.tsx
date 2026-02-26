@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional E-commerce Website ê°œë°œ | Online Store Solutions | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a leading e-commerce website development agency offering custom online store design, payment gateway integration, and shopping cart optimization. We build high-performance e-commerce websites that convert visitors into loyal customers.",
+  title: "Professional E-commerce Website ê°œë°œ | Online Store Solutions | Aenfinite®",
+  description: "Aenfinite® is a leading e-commerce website development agency offering custom online store design, payment gateway integration, and shopping cart optimization. We build high-performance e-commerce websites that convert visitors into loyal customers.",
   keywords: "e-commerce website development, online store development, Shopify development, WooCommerce development, payment gateway integration, shopping cart development, e-commerce solutions, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/e-commerce-websites/", languages: {"x-default":"https://aenfinite.com/services/e-commerce-websites/","en":"https://aenfinite.com/services/e-commerce-websites/","es":"https://aenfinite.com/es/services/e-commerce-websites/","fr":"https://aenfinite.com/fr/services/e-commerce-websites/","de":"https://aenfinite.com/de/services/e-commerce-websites/","it":"https://aenfinite.com/it/services/e-commerce-websites/","ar":"https://aenfinite.com/ar/services/e-commerce-websites/","pt":"https://aenfinite.com/pt/services/e-commerce-websites/","zh":"https://aenfinite.com/zh/services/e-commerce-websites/","hi":"https://aenfinite.com/hi/services/e-commerce-websites/","nl":"https://aenfinite.com/nl/services/e-commerce-websites/","ja":"https://aenfinite.com/ja/services/e-commerce-websites/","ko":"https://aenfinite.com/ko/services/e-commerce-websites/"} },
-  openGraph: {"title":"Professional E-commerce Website ê°œë°œ | Online Store Solutions | AenfiniteÂ®","description":"AenfiniteÂ® specializes in e-commerce website development, including custom store design, secure checkout systems, and conversion optimization. Build your digital store with AenfiniteÂ®.","url":"https://aenfinite.com/ko/services/e-commerce-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional E-commerce Website ê°œë°œ | Online Store Solutions | AenfiniteÂ®","description":"AenfiniteÂ® provides professional ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ including online store creation, payment integration, and conversion optimization for modern businesses.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional E-commerce Website ê°œë°œ | Online Store Solutions | Aenfinite®","description":"Aenfinite® specializes in e-commerce website development, including custom store design, secure checkout systems, and conversion optimization. Build your digital store with Aenfinite®.","url":"https://aenfinite.com/ko/services/e-commerce-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional E-commerce Website ê°œë°œ | Online Store Solutions | Aenfinite®","description":"Aenfinite® provides professional ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ including online store creation, payment integration, and conversion optimization for modern businesses.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2079,7 +2079,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     </div>
                                 </div>
                                 <div class="service-text">
-                                    <p>Our work doesnâ€™t end after launch  we provide ongoing support, updates, and performance optimization to keep your store running smoothly and generating revenue.</p>
+                                    <p>Our work doesn't end after launch  we provide ongoing support, updates, and performance optimization to keep your store running smoothly and generating revenue.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
                                         <p><strong>Our maintenance includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2613,7 +2613,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2627,7 +2629,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2639,8 +2641,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ ì—ì´ì „ì‹œ",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ ì—ì´ì „ì‹œ",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ko-KR"
     },
@@ -2650,7 +2652,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - Professional ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ ì—ì´ì „ì‹œ",
+      "caption": "Aenfinite® - Professional ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ ì—ì´ì „ì‹œ",
       "inLanguage":"ko-KR"
     },
     {
@@ -2666,7 +2668,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/e-commerce-websites/#webpage",
       "url": "https://aenfinite.com/services/e-commerce-websites/",
-      "name": "Professional E-commerce Website ê°œë°œ | Online Store Design & ê²°ì œ ì—°ë™ | AenfiniteÂ®",
+      "name": "Professional E-commerce Website ê°œë°œ | Online Store Design & ê²°ì œ ì—°ë™ | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2676,13 +2678,13 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional E-commerce Website ê°œë°œ | Online Store Design & ê²°ì œ ì—°ë™ | AenfiniteÂ®",
+      "headline": "Professional E-commerce Website ê°œë°œ | Online Store Design & ê²°ì œ ì—°ë™ | Aenfinite®",
       "keywords": "ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ, Online Store Design, Shopping Cart Integration, Payment Processing, Conversion Optimization, E-commerce Security",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional e-commerce website development services including online store design, shopping cart integration, and secure payment gateways â€” built to scale your business.",
+      "description": "Aenfinite® delivers professional e-commerce website development services including online store design, shopping cart integration, and secure payment gateways — built to scale your business.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"ko-KR",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/e-commerce-websites/#webpage" }

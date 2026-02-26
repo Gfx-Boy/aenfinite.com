@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional DiseÃ±o de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite",
+  title: "Professional Diseño de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite",
   description: "Aenfinite is a creative agency specializing in professional logo design, custom brand identity, and visual identity systems. We craft distinctive logos that elevate brand recognition and drive long-term business success.",
   keywords: "logo design, custom logo, brand identity design, logo creation, wordmark logo, emblem logo, minimalist logo, professional logo design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/es/services/logo-design/", languages: {"x-default":"https://aenfinite.com/services/logo-design/","en":"https://aenfinite.com/services/logo-design/","es":"https://aenfinite.com/es/services/logo-design/","fr":"https://aenfinite.com/fr/services/logo-design/","de":"https://aenfinite.com/de/services/logo-design/","it":"https://aenfinite.com/it/services/logo-design/","ar":"https://aenfinite.com/ar/services/logo-design/","pt":"https://aenfinite.com/pt/services/logo-design/","zh":"https://aenfinite.com/zh/services/logo-design/","hi":"https://aenfinite.com/hi/services/logo-design/","nl":"https://aenfinite.com/nl/services/logo-design/","ja":"https://aenfinite.com/ja/services/logo-design/","ko":"https://aenfinite.com/ko/services/logo-design/"} },
-  openGraph: {"title":"Professional DiseÃ±o de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services â€” from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/es/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional DiseÃ±o de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional Diseño de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services — from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/es/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Diseño de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1122,17 +1122,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>									</ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+										<a href="#">Servicios de Diseño y Creatividad â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-											<li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+											<li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
 
-											<li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
 									</li>
@@ -1140,7 +1140,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Soluciones de Marketing y Digitales â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-											<li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
 											<li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
 
@@ -1151,14 +1151,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+										<a href="#">Soluciones de IA y Tecnología â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-											<li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 
 .menu-item-has-children {
     position: relative;
@@ -1277,7 +1277,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -1289,7 +1289,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1318,7 +1318,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">DiseÃ±o de Logotipos</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
+						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Diseño de Logotipos</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
 											</h1>
 									</div>
 			</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional DiseÃ±o de Logotipos & Identidad de Marca Servicios</span>
+    <span class="marquee-line_text">Professional Diseño de Logotipos & Identidad de Marca Servicios</span>
     <span class="marquee-line_text">Custom Logo Creation, Brand Marks & Identidad Visual Solutions</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
-    <span class="marquee-line_text">Specialists in DiseÃ±o de Logotipos & Identidad de Marca Creation</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for DiseÃ±o de Logotipos Solutions</span>
-    <span class="marquee-line_text">High-Impact DiseÃ±o de Logotipos & Identidad de Marca Desarrollo</span>
-    <span class="marquee-line_text">Professional DiseÃ±o de Logotipos & Brand Mark Creation</span>
-    <span class="marquee-line_text">Professional DiseÃ±o de Logotipos Agencia with Proven Results</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
+    <span class="marquee-line_text">Specialists in Diseño de Logotipos & Identidad de Marca Creation</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Diseño de Logotipos Solutions</span>
+    <span class="marquee-line_text">High-Impact Diseño de Logotipos & Identidad de Marca Desarrollo</span>
+    <span class="marquee-line_text">Professional Diseño de Logotipos & Brand Mark Creation</span>
+    <span class="marquee-line_text">Professional Diseño de Logotipos Agencia with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Identidad de Marca & Logo Variations Support</span>
-    <span class="marquee-line_text">Custom DiseÃ±o de Logotipos Solutions for Every Industry</span>
+    <span class="marquee-line_text">Custom Diseño de Logotipos Solutions for Every Industry</span>
     <span class="marquee-line_text">Logo Optimization & Identidad de Marca Consistency</span>
-    <span class="marquee-line_text">Scalable DiseÃ±o de Logotipos & Long-term Brand Growth</span>
+    <span class="marquee-line_text">Scalable Diseño de Logotipos & Long-term Brand Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1377,13 +1377,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo DiseÃ±o de Logotipos - Modern Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo Diseño de Logotipos - Modern Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="01">
-					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery DiseÃ±o de Logotipos</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery Diseño de Logotipos</a></div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Identidad de Marca</div>
 					<div class="preview-name">Alimentos y Bebidas</div>
 					<div class="preview-name">Bakery Branding</div>
@@ -1397,13 +1397,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 DiseÃ±o de Logotipos - Athletic Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 Diseño de Logotipos - Athletic Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="02">
 					<div class="preview-name preview-name__caption"><a href="#">CycleThe6 - Athletic Brand Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Sports Branding</div>
 					<div class="preview-name">Athletic Identity</div>
 					<div class="preview-name">Fitness Logo</div>
@@ -1417,13 +1417,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting DiseÃ±o de Logotipos - Corporate Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting Diseño de Logotipos - Corporate Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="03">
 					<div class="preview-name preview-name__caption"><a href="#">Dynamic Consulting - Corporate Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Identidad Corporativa</div>
 					<div class="preview-name">Business Consulting</div>
 					<div class="preview-name">Professional Servicios</div>
@@ -1437,13 +1437,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco DiseÃ±o de Logotipos - Creative Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco Diseño de Logotipos - Creative Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="04">
 					<div class="preview-name preview-name__caption"><a href="#">Muraaco - Creative Brand Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Branding Creativo</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Abstract Design</div>
@@ -1457,14 +1457,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume DiseÃ±o de Logotipos - Fragrance Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume Diseño de Logotipos - Fragrance Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="05">
 					<div class="preview-name preview-name__caption"><a href="#">Muskfume - Fragrance Brand Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
-					<div class="preview-name">Belleza y CosmÃ©ticos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
+					<div class="preview-name">Belleza y Cosméticos</div>
 					<div class="preview-name">Branding de Lujo</div>
 					<div class="preview-name">Identidad de Fragancias</div>
 				</div>
@@ -1477,14 +1477,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit DiseÃ±o de Logotipos - Technology Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit Diseño de Logotipos - Technology Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="06">
 					<div class="preview-name preview-name__caption"><a href="#">Nexit - Technology Brand Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
-					<div class="preview-name">Branding TecnolÃ³gico</div>
+					<div class="preview-name">Diseño de Logotipos</div>
+					<div class="preview-name">Branding Tecnológico</div>
 					<div class="preview-name">Digital Identity</div>
 					<div class="preview-name">Startup Logo</div>
 				</div>
@@ -1497,13 +1497,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth DiseÃ±o de Logotipos - Event Branding Identity" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth Diseño de Logotipos - Event Branding Identity" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="07">
 					<div class="preview-name preview-name__caption"><a href="#">Booth - Event Branding Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Event Branding</div>
 					<div class="preview-name">Exhibition Design</div>
 					<div class="preview-name">Ferias Comerciales Identity</div>
@@ -1517,16 +1517,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../robophil/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil DiseÃ±o de Logotipos - Technology Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil Diseño de Logotipos - Technology Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="08">
 					<div class="preview-name preview-name__caption"><a href="../robophil/">Robophil - Robotics Technology Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Technology Branding</div>
 					<div class="preview-name">Robotics Identity</div>
-					<div class="preview-name">InnovaciÃ³n Logo</div>
+					<div class="preview-name">Innovación Logo</div>
 				</div>
 			</div>
 		</div>
@@ -1537,14 +1537,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../algopros/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros DiseÃ±o de Logotipos - Soluciones de Algoritmos Brand" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Diseño de Logotipos - Soluciones de Algoritmos Brand" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="09">
 					<div class="preview-name preview-name__caption"><a href="../algopros/">Algopros - Soluciones de Algoritmos Brand</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
-					<div class="preview-name">TecnologÃ­a Solutions</div>
+					<div class="preview-name">Diseño de Logotipos</div>
+					<div class="preview-name">Tecnología Solutions</div>
 					<div class="preview-name">Algorithm Branding</div>
 					<div class="preview-name">Software Identity</div>
 				</div>
@@ -1557,13 +1557,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="../feiro/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro DiseÃ±o de Logotipos - Creative Identidad de Marca" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Diseño de Logotipos - Creative Identidad de Marca" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="10">
 					<div class="preview-name preview-name__caption"><a href="../feiro/">Feiro - Creative Brand Logo</a></div>
-					<div class="preview-name">DiseÃ±o de Logotipos</div>
+					<div class="preview-name">Diseño de Logotipos</div>
 					<div class="preview-name">Branding Creativo</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Dynamic Logo</div>
@@ -1588,7 +1588,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional DiseÃ±o de Logotipos services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Diseño de Logotipos services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
 									<div class="textbox-action">
 						<a href="/es/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite DiseÃ±o de Logotipos Case Studies</h2>
+					<h2>Aenfinite Diseño de Logotipos Case Studies</h2>
 				</div>
 			</div>
 
@@ -1652,16 +1652,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo DiseÃ±o de Logotipos - Modern Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo Diseño de Logotipos - Modern Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="01">
 								<div class="preview-name preview-name__caption">
-									<a href="#">Cakeo - Modern Bakery DiseÃ±o de Logotipos</a>
+									<a href="#">Cakeo - Modern Bakery Diseño de Logotipos</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Identidad de Marca</div>
 								<div class="preview-name">Alimentos y Bebidas</div>
 								<div class="preview-name">Bakery Branding</div>
@@ -1673,7 +1673,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 DiseÃ±o de Logotipos - Athletic Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 Diseño de Logotipos - Athletic Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1682,7 +1682,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">CycleThe6 - Athletic Brand Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Sports Branding</div>
 								<div class="preview-name">Athletic Identity</div>
 								<div class="preview-name">Fitness Logo</div>
@@ -1694,7 +1694,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting DiseÃ±o de Logotipos - Corporate Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting Diseño de Logotipos - Corporate Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1703,7 +1703,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Dynamic Consulting - Corporate Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Identidad Corporativa</div>
 								<div class="preview-name">Business Consulting</div>
 								<div class="preview-name">Professional Servicios</div>
@@ -1715,7 +1715,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco DiseÃ±o de Logotipos - Creative Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco Diseño de Logotipos - Creative Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1724,7 +1724,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muraaco - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Branding Creativo</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Abstract Design</div>
@@ -1736,7 +1736,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume DiseÃ±o de Logotipos - Fragrance Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume Diseño de Logotipos - Fragrance Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1745,8 +1745,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muskfume - Fragrance Brand Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
-								<div class="preview-name">Belleza y CosmÃ©ticos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
+								<div class="preview-name">Belleza y Cosméticos</div>
 								<div class="preview-name">Branding de Lujo</div>
 								<div class="preview-name">Identidad de Fragancias</div>
 							</div>
@@ -1757,7 +1757,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit DiseÃ±o de Logotipos - Technology Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit Diseño de Logotipos - Technology Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1766,8 +1766,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Nexit - Technology Brand Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
-								<div class="preview-name">Branding TecnolÃ³gico</div>
+								<div class="preview-name">Diseño de Logotipos</div>
+								<div class="preview-name">Branding Tecnológico</div>
 								<div class="preview-name">Digital Identity</div>
 								<div class="preview-name">Startup Logo</div>
 							</div>
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth DiseÃ±o de Logotipos - Event Branding Identity" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth Diseño de Logotipos - Event Branding Identity" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="#" class="not-index">Ver proyecto</a>
 								</div>
@@ -1787,7 +1787,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="#">Booth - Event Branding Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Event Branding</div>
 								<div class="preview-name">Exhibition Design</div>
 								<div class="preview-name">Ferias Comerciales Identity</div>
@@ -1799,7 +1799,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil DiseÃ±o de Logotipos - Technology Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil Diseño de Logotipos - Technology Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../robophil/" class="not-index">Ver proyecto</a>
 								</div>
@@ -1808,10 +1808,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../robophil/">Robophil - Robotics Technology Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Technology Branding</div>
 								<div class="preview-name">Robotics Identity</div>
-								<div class="preview-name">InnovaciÃ³n Logo</div>
+								<div class="preview-name">Innovación Logo</div>
 							</div>
 						</div>
 					</div>
@@ -1820,7 +1820,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros DiseÃ±o de Logotipos - Soluciones de Algoritmos Brand" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Diseño de Logotipos - Soluciones de Algoritmos Brand" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../algopros/" class="not-index">Ver proyecto</a>
 								</div>
@@ -1829,8 +1829,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../algopros/">Algopros - Soluciones de Algoritmos Brand</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
-								<div class="preview-name">TecnologÃ­a Solutions</div>
+								<div class="preview-name">Diseño de Logotipos</div>
+								<div class="preview-name">Tecnología Solutions</div>
 								<div class="preview-name">Algorithm Branding</div>
 								<div class="preview-name">Software Identity</div>
 							</div>
@@ -1841,7 +1841,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro DiseÃ±o de Logotipos - Creative Identidad de Marca" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Diseño de Logotipos - Creative Identidad de Marca" loading="lazy" decoding="async" />
 								<div class="preview-action">
 									<a href="../feiro/" class="not-index">Ver proyecto</a>
 								</div>
@@ -1850,7 +1850,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview-name preview-name__caption">
 									<a href="../feiro/">Feiro - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">DiseÃ±o de Logotipos</div>
+								<div class="preview-name">Diseño de Logotipos</div>
 								<div class="preview-name">Branding Creativo</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Dynamic Logo</div>
@@ -1876,7 +1876,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contacto Aenfinite for Creative DiseÃ±o de Logotipos Servicios</h2>
+				<h2>Contacto Aenfinite for Creative Diseño de Logotipos Servicios</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1897,7 +1897,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrÃ³nico*" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrónico*" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" placeholder="Tell us about your design project" type="text" name="text-tell-project" />
@@ -1909,38 +1909,38 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="DiseÃ±o de Logotipos" id="logo-design" />
-					<label for="logo-design" class="list-item-label">DiseÃ±o de Logotipos</label>
+					<input type="checkbox" name="services" value="Diseño de Logotipos" id="logo-design" />
+					<label for="logo-design" class="list-item-label">Diseño de Logotipos</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Identidad de Marca Design" id="brand-identity" />
 					<label for="brand-identity" class="list-item-label">Identidad de Marca Design</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="DiseÃ±o UI/UX" id="ui-ux-design" />
-					<label for="ui-ux-design" class="list-item-label">DiseÃ±o UI/UX</label>
+					<input type="checkbox" name="services" value="Diseño UI/UX" id="ui-ux-design" />
+					<label for="ui-ux-design" class="list-item-label">Diseño UI/UX</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Materiales de Marketing" id="marketing-materials" />
 					<label for="marketing-materials" class="list-item-label">Materiales de Marketing</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Social Media GrÃ¡ficos" id="social-media" />
-					<label for="social-media" class="list-item-label">Social Media GrÃ¡ficos</label>
+					<input type="checkbox" name="services" value="Social Media Gráficos" id="social-media" />
+					<label for="social-media" class="list-item-label">Social Media Gráficos</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="DiseÃ±o de Empaques" id="packaging-design" />
-					<label for="packaging-design" class="list-item-label">DiseÃ±o de Empaques</label>
+					<input type="checkbox" name="services" value="Diseño de Empaques" id="packaging-design" />
+					<label for="packaging-design" class="list-item-label">Diseño de Empaques</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="Otro DiseÃ±o de Logotipos Servicios" id="other" />
-					<label for="other" class="list-item-label">Otro DiseÃ±o de Logotipos Servicios</label>
+					<input type="checkbox" name="services" value="Otro Diseño de Logotipos Servicios" id="other" />
+					<label for="other" class="list-item-label">Otro Diseño de Logotipos Servicios</label>
 				</span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="CuÃ©ntanos tu presupuesto aproximado" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Cuéntanos tu presupuesto aproximado" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1950,7 +1950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="select-option js-select-option">de $500 a $5,000</div>
                             <div class="select-option js-select-option">de $5,000 a $20,000</div>
                             <div class="select-option js-select-option">de $20,000 a $50,000</div>
-                            <div class="select-option js-select-option">mÃ¡s de $100,000</div>
+                            <div class="select-option js-select-option">más de $100,000</div>
                         </div>
 		</div>
 	</div>
@@ -1972,7 +1972,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>DiseÃ±o de Logotipos Expertise</h2>
+							<h2>Diseño de Logotipos Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1983,9 +1983,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom DiseÃ±o de Logotipos Desarrollo</div>
+						<div class="pane-title">Custom Diseño de Logotipos Desarrollo</div>
 						<div class="pane-subtitle">
-							<p>Aenfinite specializes in creating custom DiseÃ±o de Logotipos from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
+							<p>Aenfinite specializes in creating custom Diseño de Logotipos from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -1997,9 +1997,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">DiseÃ±o de Logotipos Integration</div>
+						<div class="pane-title">Diseño de Logotipos Integration</div>
 						<div class="pane-subtitle">
-							<p>Launch your Identidad de Marca with our comprehensive DiseÃ±o de Logotipos development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
+							<p>Launch your Identidad de Marca with our comprehensive Diseño de Logotipos development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -2013,7 +2013,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="pane-index"></div>
 						<div class="pane-title">Design Migration & Mantenimiento</div>
 						<div class="pane-subtitle">
-							<p>Seamlessly migrate your existing website to our graphic design platform or upgrade your current DiseÃ±o de ImpresiÃ³n. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your design projects running smoothly.</p>
+							<p>Seamlessly migrate your existing website to our graphic design platform or upgrade your current Diseño de Impresión. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your design projects running smoothly.</p>
 						</div>
 					</div>
 						
@@ -2025,7 +2025,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>DiseÃ±o de Logotipos Process</h2>
+					<h2>Diseño de Logotipos Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -2038,7 +2038,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Client Brief</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We start by understanding your brandâ€™s vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
+							<p>We start by understanding your brand's vision, goals, and audience. This includes analyzing your current visual identity, competitors, and design preferences to create a strong creative foundation.</p>
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
@@ -2162,7 +2162,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">DiseÃ±o de Logotipos</span> is the foundation of your brand identity. Portafolio with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Diseño de Logotipos</span> is the foundation of your brand identity. Portafolio with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
@@ -2172,7 +2172,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Professional DiseÃ±o de Logotipos Servicios</h2>
+					<h2>Professional Diseño de Logotipos Servicios</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2181,7 +2181,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Custom DiseÃ±o de Logotipos</div>
+							<div class="service-caption js-service-caption">Custom Diseño de Logotipos</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2244,7 +2244,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/es/contact/" class="redlink"><span>Saber MÃ¡s</span></a>
+									<a href="/es/contact/" class="redlink"><span>Saber Más</span></a>
 								</div>
 							</div>
 						</div>
@@ -2298,7 +2298,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Our partnership doesnâ€™t end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
+									<p>Our partnership doesn't end with deliverywe provide continuous support to keep your brand visuals fresh and effective.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our design support includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2364,10 +2364,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">DiseÃ±o Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">DiseÃ±o GrÃ¡fico</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Diseño Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Diseño Gráfico</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">DiseÃ±o de Empaques</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Diseño de Empaques</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2377,7 +2377,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -2386,7 +2386,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">DirecciÃ³n</div>
+								<div class="footer-col_caption">Dirección</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2449,7 +2449,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -2457,14 +2457,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2703,7 +2703,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2770,7 +2770,7 @@ document.addEventListener('keydown', function(event) {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2837,7 +2837,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2851,7 +2853,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2863,8 +2865,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Professional DiseÃ±o de Logotipos Agencia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Professional Diseño de Logotipos Agencia",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"es-ES"
     },
@@ -2874,7 +2876,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg",
       "width": 1200,
       "height": 630,
-      "caption": "AenfiniteÂ® DiseÃ±o de Logotipos Showcase",
+      "caption": "Aenfinite® Diseño de Logotipos Showcase",
       "inLanguage":"es-ES"
     },
     {
@@ -2883,14 +2885,14 @@ export default function Page() {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com/", "name": "Home" } },
         { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Servicios" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "DiseÃ±o de Logotipos" } }
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "Diseño de Logotipos" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/logo-design/#webpage",
       "url": "https://aenfinite.com/services/logo-design/",
-      "name": "Professional DiseÃ±o de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | AenfiniteÂ®",
+      "name": "Professional Diseño de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg" },
       "inLanguage":"es-ES",
@@ -2898,12 +2900,12 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional DiseÃ±o de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | AenfiniteÂ®",
-      "keywords": "DiseÃ±o de Logotipos, Identidad de Marca, Logo Creation, Visual Branding, Custom Logos, Creative Agencia",
+      "headline": "Professional Diseño de Logotipos Servicios | Custom Identidad de Marca & Logo Creation | Aenfinite®",
+      "keywords": "Diseño de Logotipos, Identidad de Marca, Logo Creation, Visual Branding, Custom Logos, Creative Agencia",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® provides professional logo design and brand identity services, creating impactful visual identities that drive recognition and business growth.",
+      "description": "Aenfinite® provides professional logo design and brand identity services, creating impactful visual identities that drive recognition and business growth.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg" },
       "inLanguage":"es-ES",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/logo-design/#webpage" }
@@ -2941,7 +2943,7 @@ export default function Page() {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2988,7 +2990,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional DiseÃ±o de Logotipos Servicios",
+      "name": "Professional Diseño de Logotipos Servicios",
       "item": "https://aenfinite.com/services/logo-design/"
     }
   ]

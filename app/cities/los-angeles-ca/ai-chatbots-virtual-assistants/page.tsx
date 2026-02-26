@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   keywords: "AI chatbots Los Angeles, virtual assistants LA, conversational AI Los Angeles CA, chatbot development LA, Aenfinite Los Angeles",
   alternates: { canonical: "https://aenfinite.com/services/ai-chatbots-virtual-assistants/" },
   openGraph: {"title":"AI Chatbots & Virtual Assistants Development in Los Angeles, CA | Conversational AI Solutions | Aenfinite","description":"Create next-gen AI chatbots and virtual assistants in Los Angeles, CA with Aenfinite. Our conversational AI solutions automate workflows and enhance customer experiences.","url":"https://aenfinite.com/services/ai-chatbots-virtual-assistants/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AI Chatbots & Virtual Assistants Development in Los Angeles, CA | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development in Los Angeles, CA â€” delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  twitter: {"card":"summary_large_image","title":"AI Chatbots & Virtual Assistants Development in Los Angeles, CA | Conversational AI Solutions | Aenfinite","description":"Aenfinite specializes in AI chatbot and virtual assistant development in Los Angeles, CA — delivering conversational AI solutions that improve customer experience and business efficiency.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2472,7 +2472,9 @@ document.addEventListener('keydown', function(event) {
 	
 	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2486,7 +2488,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",

@@ -5,10 +5,10 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite",
-  description: "AenfiniteÂ® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
+  description: "Aenfinite® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
   keywords: "UI UXãƒ‡ã‚¶ã‚¤ãƒ³, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/ui-ux-design/", languages: {"x-default":"https://aenfinite.com/services/ui-ux-design/","en":"https://aenfinite.com/services/ui-ux-design/","es":"https://aenfinite.com/es/services/ui-ux-design/","fr":"https://aenfinite.com/fr/services/ui-ux-design/","de":"https://aenfinite.com/de/services/ui-ux-design/","it":"https://aenfinite.com/it/services/ui-ux-design/","ar":"https://aenfinite.com/ar/services/ui-ux-design/","pt":"https://aenfinite.com/pt/services/ui-ux-design/","zh":"https://aenfinite.com/zh/services/ui-ux-design/","hi":"https://aenfinite.com/hi/services/ui-ux-design/","nl":"https://aenfinite.com/nl/services/ui-ux-design/","ja":"https://aenfinite.com/ja/services/ui-ux-design/","ko":"https://aenfinite.com/ko/services/ui-ux-design/"} },
-  openGraph: {"title":"UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite","description":"Explore Aenfiniteâ€™s expert UI/UX design services â€” from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/ja/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title":"UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/ja/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>client satisfaction rate with Aenfiniteâ€™s UI/UX design solutions and product experiences</div>
+							<div>client satisfaction rate with Aenfinite's UI/UX design solutions and product experiences</div>
 						</div>
 					</div>
 				</div>
@@ -2549,7 +2549,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2563,7 +2565,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [
@@ -2582,8 +2584,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Creative Digital ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Creative Digital ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ja-JP"
     },
@@ -2612,7 +2614,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/ui-ux-design/#webpage",
       "url": "https://aenfinite.com/services/ui-ux-design/",
-      "name": "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | AenfiniteÂ®",
+      "name": "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2622,7 +2624,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹"
+        "caption": "Aenfinite® UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹"
       },
       "breadcrumb": { "@id": "https://aenfinite.com/services/ui-ux-design/#breadcrumb" },
       "inLanguage":"ja-JP"
@@ -2630,9 +2632,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/ui-ux-design/#article",
-      "headline": "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | AenfiniteÂ®",
-      "description": "AenfiniteÂ® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "headline": "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ | Aenfinite®",
+      "description": "Aenfinite® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"ja-JP",

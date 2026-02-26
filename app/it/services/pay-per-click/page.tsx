@@ -5,11 +5,11 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite",
-  description: "AenfiniteÂ® offers expert PPC advertising services â€” including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.",
+  description: "Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.",
   keywords: "PPC advertising, pay per click, Google Ads, Bing Ads, PPC management, campaign optimization, conversion tracking, SEM, cost per click, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/it/services/pay-per-click/", languages: {"x-default":"https://aenfinite.com/services/pay-per-click/","en":"https://aenfinite.com/services/pay-per-click/","es":"https://aenfinite.com/es/services/pay-per-click/","fr":"https://aenfinite.com/fr/services/pay-per-click/","de":"https://aenfinite.com/de/services/pay-per-click/","it":"https://aenfinite.com/it/services/pay-per-click/","ar":"https://aenfinite.com/ar/services/pay-per-click/","pt":"https://aenfinite.com/pt/services/pay-per-click/","zh":"https://aenfinite.com/zh/services/pay-per-click/","hi":"https://aenfinite.com/hi/services/pay-per-click/","nl":"https://aenfinite.com/nl/services/pay-per-click/","ja":"https://aenfinite.com/ja/services/pay-per-click/","ko":"https://aenfinite.com/ko/services/pay-per-click/"} },
-  openGraph: {"title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"AenfiniteÂ® offers expert PPC advertising services â€” including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/it/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"AenfiniteÂ® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/it/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2363,7 +2363,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2377,7 +2379,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo-dark.png",
       "sameAs": [
@@ -2390,8 +2392,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - PPC & Marketing Digitale Agenzia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - PPC & Marketing Digitale Agenzia",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2422,7 +2424,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/pay-per-click-ppc/#webpage",
       "url": "https://aenfinite.com/services/pay-per-click-ppc/",
-      "name": "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | AenfiniteÂ®",
+      "name": "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "inLanguage":"it-IT",
       "breadcrumb": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/#breadcrumb" }

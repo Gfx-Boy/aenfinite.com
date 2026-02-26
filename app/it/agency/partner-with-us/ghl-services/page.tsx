@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
   alternates: { canonical: "https://aenfinite.com/it/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/ghl-services/","en":"https://aenfinite.com/agency/partner-with-us/ghl-services/","es":"https://aenfinite.com/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.com/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/ghl-services/"} },
   openGraph: {"title":"GoHighLevel Implementation & Automazione Servizi | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Automazione Servizi | Aenfinite","description":"Automate your agency workflows with Aenfiniteâ€™s GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Automazione Servizi | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -990,7 +990,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Al Servizio di Clienti negli USA, Canada e Oltre</span>
     <span class="marquee-line_text">Esperti in UI/UX, SEO e Marketing di Crescita</span>
     <span class="marquee-line_text">Scelti da Startup e Imprese Globali</span>
-    <span class="marquee-line_text">Team Qualificato â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Team Qualificato – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Processo di Sviluppo Agile e Basato sui Dati</span>
     <span class="marquee-line_text">Agenzia Globale con Radici nel Sud-Est Asiatico</span>
     <span class="marquee-line_text">Potenziare le Aziende con Soluzioni Scalabili</span>
@@ -1145,8 +1145,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">GHL Setup & Configuration</div>
             <div class="infobox-description">
-                <p>Our experts handle the complete GoHighLevel setup from scratch so you donâ€™t have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
-                <p>By the time weâ€™re done, youâ€™ll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
+                <p>Our experts handle the complete GoHighLevel setup from scratch so you don't have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
+                <p>By the time we're done, you'll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=GHL Setup Servizi" class="redlink">
@@ -1160,7 +1160,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">Funnel Design & Sviluppo</div>
             <div class="infobox-description">
-                <p>We create beautiful, high-converting funnels that donâ€™t just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
+                <p>We create beautiful, high-converting funnels that don't just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
                 <p>Our team combines conversion-focused design, copywriting, and automation to build a seamless experience from ad click to sale. Whether you need lead generation funnels, webinar registration, or product sales pages, we ensure that every step is optimized for engagement and ROI.</p>
                 <p>All funnels are mobile-responsive, speed-tested, and integrated with your CRM and automation workflows so nothing falls through the cracks.</p>
             </div>
@@ -1177,7 +1177,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="infobox-title">White Label Servizi GHL</div>
             <div class="infobox-description">
                 <p>Scale your agency without adding extra overhead. Our White Label GHL service let's you offer GoHighLevel setup, funnel building, and automation services under your own brand  while we do all the heavy lifting behind the scenes.</p>
-                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agencyâ€™s branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
+                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agency's branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
                 <p>This is perfect for agencies looking to expand service offerings quickly, increase monthly recurring revenue, and focus on client relationships while we handle fulfillment.</p>
             </div>
             <div class="infobox-action">
@@ -1307,7 +1307,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1787,7 +1787,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (

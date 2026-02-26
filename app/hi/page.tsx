@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® | à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ | à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—",
-  description: "AenfiniteÂ® is a professional à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤œà¥‹ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆ à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨ à¤¸à¤®à¤¾à¤§à¤¾à¤¨. à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤®à¥‡à¤‚ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾.",
+  title: "Aenfinite® | à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ | à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—",
+  description: "à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤œà¥‹ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆ à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨ à¤¸à¤®à¤¾à¤§à¤¾à¤¨. à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤®à¥‡à¤‚ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾.",
   keywords: "à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤à¤œà¥‡à¤‚à¤¸à¥€, à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€, à¤¡à¥‡à¤¨à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€, UI UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚, à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"AenfiniteÂ® | à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ | à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—","description":"AenfiniteÂ® is a professional à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤œà¥‹ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆ à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨ à¤¸à¤®à¤¾à¤§à¤¾à¤¨. à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤®à¥‡à¤‚ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾.","url":"https://aenfinite.com/hi/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® | à¤ªà¥à¤°à¤¸à¥à¤•à¤¾à¤°-à¤µà¤¿à¤œà¥‡à¤¤à¤¾ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€","description":"Aenfinite à¤•à¥‡ à¤¸à¤¾à¤¥ à¤…à¤ªà¤¨à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯ à¤•à¥‹ à¤¬à¤¦à¤²à¥‡à¤‚Â®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ | à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—","description":"à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤œà¥‹ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆ à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨ à¤¸à¤®à¤¾à¤§à¤¾à¤¨. à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤®à¥‡à¤‚ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾.","url":"https://aenfinite.com/hi/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | à¤ªà¥à¤°à¤¸à¥à¤•à¤¾à¤°-à¤µà¤¿à¤œà¥‡à¤¤à¤¾ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€","description":"Aenfinite® à¤•à¥‡ à¤¸à¤¾à¤¥ à¤…à¤ªà¤¨à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯ à¤•à¥‹ à¤¬à¤¦à¤²à¥‡à¤‚","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -859,7 +859,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by AenfiniteÂ® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1453,7 +1453,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">AenfiniteÂ® à¤à¤• à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¹à¥ˆ à¤œà¥‹ à¤…à¤¤à¥à¤¯à¤¾à¤§à¥à¤¨à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤”à¤° à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¤®à¤¾à¤§à¤¾à¤¨à¥‹à¤‚ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¬à¤¦à¤²à¤¤à¥€ à¤¹à¥ˆà¥¤ à¤¡à¥‡à¤¨à¤µà¤° à¤®à¥‡à¤‚ à¤¸à¥à¤¥à¤¿à¤¤ à¤”à¤° à¤¸à¤‚à¤¯à¥à¤•à¥à¤¤ à¤°à¤¾à¤œà¥à¤¯ à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤­à¤° à¤®à¥‡à¤‚ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤•à¤°à¤¤à¥‡ à¤¹à¥à¤, à¤¹à¤®à¤¾à¤°à¥€ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤Ÿà¥€à¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤Ÿà¥à¤°à¤¾à¤‚à¤¸à¤«à¥‰à¤°à¥à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤“à¤‚ à¤®à¥‡à¤‚ à¤…à¤¸à¤¾à¤§à¤¾à¤°à¤£ à¤ªà¤°à¤¿à¤£à¤¾à¤® à¤¦à¥‡à¤¤à¥€ à¤¹à¥ˆà¥¤</div>
+				<div class="textbox-content">Aenfinite® à¤à¤• à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¹à¥ˆ à¤œà¥‹ à¤…à¤¤à¥à¤¯à¤¾à¤§à¥à¤¨à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤”à¤° à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤¸à¤®à¤¾à¤§à¤¾à¤¨à¥‹à¤‚ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¬à¤¦à¤²à¤¤à¥€ à¤¹à¥ˆà¥¤ à¤¡à¥‡à¤¨à¤µà¤° à¤®à¥‡à¤‚ à¤¸à¥à¤¥à¤¿à¤¤ à¤”à¤° à¤¸à¤‚à¤¯à¥à¤•à¥à¤¤ à¤°à¤¾à¤œà¥à¤¯ à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾ à¤”à¤° à¤•à¤¨à¤¾à¤¡à¤¾ à¤­à¤° à¤®à¥‡à¤‚ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤•à¤°à¤¤à¥‡ à¤¹à¥à¤, à¤¹à¤®à¤¾à¤°à¥€ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤Ÿà¥€à¤® à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨, UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¤¿à¤•à¤¾à¤¸ à¤”à¤° à¤µà¥à¤¯à¤¾à¤ªà¤• à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤Ÿà¥à¤°à¤¾à¤‚à¤¸à¤«à¥‰à¤°à¥à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤“à¤‚ à¤®à¥‡à¤‚ à¤…à¤¸à¤¾à¤§à¤¾à¤°à¤£ à¤ªà¤°à¤¿à¤£à¤¾à¤® à¤¦à¥‡à¤¤à¥€ à¤¹à¥ˆà¥¤</div>
 									<div class="textbox-action">
 						<a href="/hi/work/" class="redlink">
 							<span>à¤¹à¤®à¤¾à¤°à¤¾ à¤•à¤¾à¤°à¥à¤¯ à¤¦à¥‡à¤–à¥‡à¤‚</span>
@@ -1472,7 +1472,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-<strong>à¤¸à¤«à¤² Aenfinite à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ â€“</strong> à¤°à¤£à¤¨à¥€à¤¤à¤¿à¤• à¤ªà¤¹à¤šà¤¾à¤¨ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤‰à¤šà¥à¤š-à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿà¥‹à¤‚ à¤”à¤° à¤ªà¥à¤°à¤­à¤¾à¤µà¤¶à¤¾à¤²à¥€ à¤‰à¤¤à¥à¤ªà¤¾à¤¦ à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤•à¥‡ à¤¸à¤¾à¤¥ à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤•à¥‹ à¤¬à¤¦à¤²à¤¨à¤¾à¥¤
+<strong>à¤¸à¤«à¤² Aenfinite à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ –</strong> à¤°à¤£à¤¨à¥€à¤¤à¤¿à¤• à¤ªà¤¹à¤šà¤¾à¤¨ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤‰à¤šà¥à¤š-à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿà¥‹à¤‚ à¤”à¤° à¤ªà¥à¤°à¤­à¤¾à¤µà¤¶à¤¾à¤²à¥€ à¤‰à¤¤à¥à¤ªà¤¾à¤¦ à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤•à¥‡ à¤¸à¤¾à¤¥ à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤•à¥‹ à¤¬à¤¦à¤²à¤¨à¤¾à¥¤
 																	</div>
 							</div>
 						</div>
@@ -1516,13 +1516,13 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>à¤…à¤ªà¤¨à¥‡ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤Ÿà¥à¤°à¤¾à¤‚à¤¸à¤«à¥‰à¤°à¥à¤®à¥‡à¤¶à¤¨ à¤•à¥‡ à¤²à¤¿à¤ AenfiniteÂ® à¤•à¥‹ à¤•à¥à¤¯à¥‹à¤‚ à¤šà¥à¤¨à¥‡à¤‚</h2>
+						<h2>à¤…à¤ªà¤¨à¥‡ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤Ÿà¥à¤°à¤¾à¤‚à¤¸à¤«à¥‰à¤°à¥à¤®à¥‡à¤¶à¤¨ à¤•à¥‡ à¤²à¤¿à¤ Aenfinite® à¤•à¥‹ à¤•à¥à¤¯à¥‹à¤‚ à¤šà¥à¤¨à¥‡à¤‚</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
     <h3><b>à¤¨à¤µà¥€à¤¨ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨</b></h3>
-    <p>AenfiniteÂ® à¤°à¤£à¤¨à¥€à¤¤à¤¿, à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤•à¥‹ à¤®à¤¿à¤²à¤¾à¤•à¤° à¤¨à¤¿à¤°à¥à¤¬à¤¾à¤§ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤…à¤¨à¥à¤­à¤µ à¤¬à¤¨à¤¾à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡ à¤²à¥‡à¤•à¤° à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤•à¤‚à¤¸à¤²à¥à¤Ÿà¤¿à¤‚à¤— à¤¤à¤•, à¤¹à¤® à¤¡à¥‡à¤Ÿà¤¾-à¤¸à¤‚à¤šà¤¾à¤²à¤¿à¤¤ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤œà¥‹ à¤®à¤¾à¤ªà¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯ à¤µà¥à¤¯à¤¾à¤µà¤¸à¤¾à¤¯à¤¿à¤• à¤µà¤¿à¤•à¤¾à¤¸ à¤•à¥‹ à¤¬à¤¢à¤¼à¤¾à¤µà¤¾ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
+    <p>Aenfinite® à¤°à¤£à¤¨à¥€à¤¤à¤¿, à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤•à¥‹ à¤®à¤¿à¤²à¤¾à¤•à¤° à¤¨à¤¿à¤°à¥à¤¬à¤¾à¤§ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤…à¤¨à¥à¤­à¤µ à¤¬à¤¨à¤¾à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡ à¤²à¥‡à¤•à¤° à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤•à¤‚à¤¸à¤²à¥à¤Ÿà¤¿à¤‚à¤— à¤¤à¤•, à¤¹à¤® à¤¡à¥‡à¤Ÿà¤¾-à¤¸à¤‚à¤šà¤¾à¤²à¤¿à¤¤ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤œà¥‹ à¤®à¤¾à¤ªà¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯ à¤µà¥à¤¯à¤¾à¤µà¤¸à¤¾à¤¯à¤¿à¤• à¤µà¤¿à¤•à¤¾à¤¸ à¤•à¥‹ à¤¬à¤¢à¤¼à¤¾à¤µà¤¾ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
   </div>
 </div>
 
@@ -1567,7 +1567,7 @@ recommend a service from 1-10</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/hi/services/web-design/" class="redlink">
@@ -1603,8 +1603,8 @@ recommend a service from 1-10</div>
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/hi/services/branding/" class="redlink">
@@ -1779,7 +1779,7 @@ recommend a service from 1-10</div>
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1889,7 +1889,7 @@ recommend a service from 1-10</div>
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>à¤…à¤ªà¤¨à¥€ à¤…à¤—à¤²à¥€ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¸à¥‡ à¤¸à¤‚à¤ªà¤°à¥à¤• à¤•à¤°à¥‡à¤‚ - AenfiniteÂ®</h2>
+				<h2>à¤…à¤ªà¤¨à¥€ à¤…à¤—à¤²à¥€ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¸à¥‡ à¤¸à¤‚à¤ªà¤°à¥à¤• à¤•à¤°à¥‡à¤‚ - Aenfinite®</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1906,7 +1906,7 @@ recommend a service from 1-10</div>
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="à¤¹à¤®à¥‡à¤‚ à¤…à¤ªà¤¨à¥‡ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥‡ à¤¬à¤¾à¤°à¥‡ à¤®à¥‡à¤‚ à¤¬à¤¤à¤¾à¤à¤‚â€¦" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="à¤¹à¤®à¥‡à¤‚ à¤…à¤ªà¤¨à¥‡ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥‡ à¤¬à¤¾à¤°à¥‡ à¤®à¥‡à¤‚ à¤¬à¤¤à¤¾à¤à¤‚…" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
@@ -1962,7 +1962,7 @@ recommend a service from 1-10</div>
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
     <span>
-        AenfiniteÂ® â€“ à¤…à¤¤à¥à¤¯à¤¾à¤§à¥à¤¨à¤¿à¤• IT à¤¸à¤®à¤¾à¤§à¤¾à¤¨, à¤°à¤šà¤¨à¤¾à¤¤à¥à¤®à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤Ÿà¤¾-à¤¸à¤‚à¤šà¤¾à¤²à¤¿à¤¤ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤°à¤£à¤¨à¥€à¤¤à¤¿ à¤•à¥‡ à¤¸à¤¾à¤¥ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¸à¤¶à¤•à¥à¤¤ à¤¬à¤¨à¤¾à¤¨à¤¾à¥¤
+        Aenfinite® – à¤…à¤¤à¥à¤¯à¤¾à¤§à¥à¤¨à¤¿à¤• IT à¤¸à¤®à¤¾à¤§à¤¾à¤¨, à¤°à¤šà¤¨à¤¾à¤¤à¥à¤®à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤Ÿà¤¾-à¤¸à¤‚à¤šà¤¾à¤²à¤¿à¤¤ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤°à¤£à¤¨à¥€à¤¤à¤¿ à¤•à¥‡ à¤¸à¤¾à¤¥ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¸à¤¶à¤•à¥à¤¤ à¤¬à¤¨à¤¾à¤¨à¤¾à¥¤
     </span>
 </div>
 
@@ -1975,7 +1975,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>AenfiniteÂ® à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤ªà¥‹à¤°à¥à¤Ÿà¤«à¥‹à¤²à¤¿à¤¯à¥‹</h2>
+						<h2>Aenfinite® à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤ªà¥‹à¤°à¥à¤Ÿà¤«à¥‹à¤²à¤¿à¤¯à¥‹</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2118,7 +2118,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>AenfiniteÂ® à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤…à¤•à¥à¤¸à¤° à¤ªà¥‚à¤›à¥‡ à¤œà¤¾à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤ªà¥à¤°à¤¶à¥à¤¨</h2>
+									<h2>Aenfinite® à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤…à¤•à¥à¤¸à¤° à¤ªà¥‚à¤›à¥‡ à¤œà¤¾à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤ªà¥à¤°à¤¶à¥à¤¨</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2126,7 +2126,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ® à¤•à¥Œà¤¨ à¤¸à¥‡ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ?</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite® à¤•à¥Œà¤¨ à¤¸à¥‡ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2134,7 +2134,7 @@ recommend a service from 1-10</div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
            
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® à¤à¤• à¤µà¥ˆà¤¶à¥à¤µà¤¿à¤• IT à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¹à¥ˆ à¤œà¥‹ à¤°à¤£à¤¨à¥€à¤¤à¤¿, à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¬à¤¢à¤¼à¤¨à¥‡ à¤®à¥‡à¤‚ à¤®à¤¦à¤¦ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¸à¤®à¤°à¥à¤ªà¤¿à¤¤ à¤¹à¥ˆà¥¤ à¤¹à¤® à¤‡à¤¨à¤®à¥‡à¤‚ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆà¤‚:</p>
+                <p>Aenfinite® à¤à¤• à¤µà¥ˆà¤¶à¥à¤µà¤¿à¤• IT à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤à¤œà¥‡à¤‚à¤¸à¥€ à¤¹à¥ˆ à¤œà¥‹ à¤°à¤£à¤¨à¥€à¤¤à¤¿, à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤•à¥‡ à¤®à¤¾à¤§à¥à¤¯à¤® à¤¸à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¬à¤¢à¤¼à¤¨à¥‡ à¤®à¥‡à¤‚ à¤®à¤¦à¤¦ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¸à¤®à¤°à¥à¤ªà¤¿à¤¤ à¤¹à¥ˆà¥¤ à¤¹à¤® à¤‡à¤¨à¤®à¥‡à¤‚ à¤µà¤¿à¤¶à¥‡à¤·à¤œà¥à¤ž à¤¹à¥ˆà¤‚:</p>
                 <p><b>à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤°à¤£à¤¨à¥€à¤¤à¤¿ à¤”à¤° à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨:</b> à¤ªà¥‚à¤°à¥à¤£ à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤ªà¥à¤°à¤£à¤¾à¤²à¤¿à¤¯à¤¾à¤‚, à¤²à¥‹à¤—à¥‹ à¤¨à¤¿à¤°à¥à¤®à¤¾à¤£ à¤”à¤° à¤¦à¤¿à¤¶à¤¾à¤¨à¤¿à¤°à¥à¤¦à¥‡à¤¶ à¤œà¥‹ à¤à¤• à¤¶à¤•à¥à¤¤à¤¿à¤¶à¤¾à¤²à¥€ à¤”à¤° à¤¸à¥à¤¸à¤‚à¤—à¤¤ à¤¦à¥ƒà¤¶à¥à¤¯ à¤‰à¤ªà¤¸à¥à¤¥à¤¿à¤¤à¤¿ à¤¸à¥à¤¥à¤¾à¤ªà¤¿à¤¤ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
                 <p><b>à¤µà¥‡à¤¬ à¤”à¤° à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ:</b> à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿà¥‡à¤‚, à¤°à¤¿à¤¸à¥à¤ªà¥‰à¤¨à¥à¤¸à¤¿à¤µ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤”à¤° à¤—à¤¤à¤¿ à¤”à¤° à¤°à¥‚à¤ªà¤¾à¤‚à¤¤à¤°à¤£ à¤•à¥‡ à¤²à¤¿à¤ à¤…à¤¨à¥à¤•à¥‚à¤²à¤¿à¤¤ à¤¸à¥à¤•à¥‡à¤²à¥‡à¤¬à¤² à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤²à¤¿à¤•à¥‡à¤¶à¤¨à¥¤</p>
                 <p><b>UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨:</b> à¤¶à¥‹à¤§-à¤¸à¤‚à¤šà¤¾à¤²à¤¿à¤¤ à¤‡à¤‚à¤Ÿà¤°à¤«à¤¼à¥‡à¤¸ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤µà¤¾à¤¯à¤°à¤«à¤¼à¥à¤°à¥‡à¤® à¤”à¤° à¤ªà¥à¤°à¥‹à¤Ÿà¥‹à¤Ÿà¤¾à¤‡à¤ª à¤œà¥‹ à¤¸à¤¹à¤œ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤¯à¤¾à¤¤à¥à¤°à¤¾ à¤”à¤° à¤‰à¤šà¥à¤š à¤œà¥à¤¡à¤¼à¤¾à¤µ à¤¸à¥à¤¨à¤¿à¤¶à¥à¤šà¤¿à¤¤ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
@@ -2148,7 +2148,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ® à¤¨à¤ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥ˆà¤¸à¥‡ à¤¸à¤‚à¤­à¤¾à¤²à¤¤à¤¾ à¤¹à¥ˆ?</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite® à¤¨à¤ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥ˆà¤¸à¥‡ à¤¸à¤‚à¤­à¤¾à¤²à¤¤à¤¾ à¤¹à¥ˆ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2158,7 +2158,7 @@ recommend a service from 1-10</div>
                 <p>à¤¹à¤® à¤à¤• à¤¸à¥à¤ªà¤·à¥à¤Ÿ, à¤¸à¤¹à¤¯à¥‹à¤—à¥€ à¤ªà¥à¤°à¤•à¥à¤°à¤¿à¤¯à¤¾ à¤•à¤¾ à¤ªà¤¾à¤²à¤¨ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤œà¥‹ à¤†à¤ªà¤•à¥‹ à¤¶à¤¾à¤®à¤¿à¤² à¤°à¤–à¤¤à¥€ à¤¹à¥ˆ à¤”à¤° à¤¹à¤° à¤šà¤°à¤£ à¤®à¥‡à¤‚ à¤—à¥à¤£à¤µà¤¤à¥à¤¤à¤¾ à¤¸à¥à¤¨à¤¿à¤¶à¥à¤šà¤¿à¤¤ à¤•à¤°à¤¤à¥€ à¤¹à¥ˆ:</p>
                 <p><b>1. à¤–à¥‹à¤œ à¤”à¤° à¤¯à¥‹à¤œà¤¨à¤¾:</b> à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤µà¥à¤¯à¤µà¤¸à¤¾à¤¯, à¤¦à¤°à¥à¤¶à¤•à¥‹à¤‚ à¤”à¤° à¤²à¤•à¥à¤·à¥à¤¯à¥‹à¤‚ à¤•à¥‡ à¤¬à¤¾à¤°à¥‡ à¤®à¥‡à¤‚ à¤œà¤¾à¤¨à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤¤à¤¾à¤•à¤¿ à¤à¤• à¤¸à¥à¤ªà¤·à¥à¤Ÿ à¤°à¤£à¤¨à¥€à¤¤à¤¿ à¤¬à¤¨à¤¾à¤ˆ à¤œà¤¾ à¤¸à¤•à¥‡à¥¤</p>
                 <p><b>2. à¤…à¤µà¤§à¤¾à¤°à¤£à¤¾ à¤”à¤° à¤¦à¤¿à¤¶à¤¾:</b> à¤¹à¤®à¤¾à¤°à¥‡ à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤®à¥‚à¤¡à¤¬à¥‹à¤°à¥à¤¡, à¤…à¤µà¤§à¤¾à¤°à¤£à¤¾à¤à¤‚ à¤”à¤° à¤†à¤ªà¤•à¥€ à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤¦à¥ƒà¤·à¥à¤Ÿà¤¿ à¤•à¥‡ à¤…à¤¨à¥à¤°à¥‚à¤ª à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¦à¤¿à¤¶à¤¾à¤à¤‚ à¤¤à¥ˆà¤¯à¤¾à¤° à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
-                <p><b>3. à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ:</b> Whether itâ€™s branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
                 <p><b>4. à¤•à¤¾à¤°à¥à¤¯à¤¾à¤¨à¥à¤µà¤¯à¤¨:</b> à¤¹à¤®à¤¾à¤°à¥€ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤Ÿà¥€à¤® à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤•à¥‹ à¤œà¥€à¤µà¤‚à¤¤ à¤¬à¤¨à¤¾à¤¤à¥€ à¤¹à¥ˆ, à¤‰à¤šà¥à¤š-à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‰à¤¤à¥à¤ªà¤¾à¤¦ à¤¯à¤¾ à¤ªà¥à¤°à¤¿à¤‚à¤Ÿ-à¤°à¥‡à¤¡à¥€ à¤à¤¸à¥‡à¤Ÿà¥à¤¸ à¤µà¤¿à¤¤à¤°à¤¿à¤¤ à¤•à¤°à¤¤à¥€ à¤¹à¥ˆà¥¤</p>
                 <p><b>5. à¤²à¥‰à¤¨à¥à¤š à¤”à¤° à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨:</b> à¤¹à¤® à¤¤à¥ˆà¤¨à¤¾à¤¤à¥€ à¤®à¥‡à¤‚ à¤¸à¤¹à¤¾à¤¯à¤¤à¤¾ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚, à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤ªà¤¡à¤¼à¤¨à¥‡ à¤ªà¤° à¤ªà¥à¤°à¤¶à¤¿à¤•à¥à¤·à¤£ à¤ªà¥à¤°à¤¦à¤¾à¤¨ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤”à¤° à¤¸à¥à¤§à¤¾à¤° à¤•à¥‡ à¤²à¤¿à¤ à¤²à¤—à¤¾à¤¤à¤¾à¤° à¤ªà¤°à¤¿à¤£à¤¾à¤®à¥‹à¤‚ à¤•à¥€ à¤¨à¤¿à¤—à¤°à¤¾à¤¨à¥€ à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2169,20 +2169,20 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">AenfiniteÂ® à¤•à¤¿à¤¨à¤•à¥‡ à¤¸à¤¾à¤¥ à¤•à¤¾à¤® à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ?</div>
+            <div class="faq-header-title" itemprop="name">Aenfinite® à¤•à¤¿à¤¨à¤•à¥‡ à¤¸à¤¾à¤¥ à¤•à¤¾à¤® à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
         </div>
         <div class="faq-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <div class="faq-content-text" itemprop="text">
-                <p>AenfiniteÂ® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
+                <p>Aenfinite® partners with businesses of all sizes  from ambitious startups to established enterprises  across multiple industries. Our experience spans:</p>
                 <ul>
-                    <li>à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤”à¤° SaaS â€“ à¤µà¥‡à¤¬ à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¥‰à¤°à¥à¤®, SaaS UI/UX à¤”à¤° à¤‰à¤¤à¥à¤ªà¤¾à¤¦ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
-                    <li>à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ à¤”à¤° à¤•à¤²à¥à¤¯à¤¾à¤£ â€“ à¤®à¥‡à¤¡à¤¿à¤•à¤² à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, à¤°à¥‹à¤—à¥€-à¤…à¤¨à¥à¤•à¥‚à¤² à¤‡à¤‚à¤Ÿà¤°à¤«à¤¼à¥‡à¤¸ à¤”à¤° à¤…à¤¨à¥à¤ªà¤¾à¤²à¤¨-à¤¤à¥ˆà¤¯à¤¾à¤° à¤¸à¤®à¤¾à¤§à¤¾à¤¨</li>
-                    <li>à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤”à¤° à¤¨à¤¿à¤°à¥à¤®à¤¾à¤£ â€“ à¤ªà¥à¤°à¥‰à¤ªà¤°à¥à¤Ÿà¥€ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤²à¥€à¤¡-à¤œà¤¨à¤°à¥‡à¤¶à¤¨ à¤…à¤­à¤¿à¤¯à¤¾à¤¨</li>
-                    <li>à¤°à¤¿à¤Ÿà¥‡à¤² à¤”à¤° à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ â€“ à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤—, à¤‘à¤¨à¤²à¤¾à¤‡à¤¨ à¤¸à¥à¤Ÿà¥‹à¤° à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤°à¥‚à¤ªà¤¾à¤‚à¤¤à¤°à¤£ à¤…à¤¨à¥à¤•à¥‚à¤²à¤¨</li>
-                    <li>à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¸à¥‡à¤µà¤¾à¤à¤‚ â€“ à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ, à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤”à¤° à¤•à¥à¤²à¤¾à¤‡à¤‚à¤Ÿ à¤ªà¥‹à¤°à¥à¤Ÿà¤²</li>
+                    <li>à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤”à¤° SaaS – à¤µà¥‡à¤¬ à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¥‰à¤°à¥à¤®, SaaS UI/UX à¤”à¤° à¤‰à¤¤à¥à¤ªà¤¾à¤¦ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                    <li>à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ à¤”à¤° à¤•à¤²à¥à¤¯à¤¾à¤£ – à¤®à¥‡à¤¡à¤¿à¤•à¤² à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, à¤°à¥‹à¤—à¥€-à¤…à¤¨à¥à¤•à¥‚à¤² à¤‡à¤‚à¤Ÿà¤°à¤«à¤¼à¥‡à¤¸ à¤”à¤° à¤…à¤¨à¥à¤ªà¤¾à¤²à¤¨-à¤¤à¥ˆà¤¯à¤¾à¤° à¤¸à¤®à¤¾à¤§à¤¾à¤¨</li>
+                    <li>à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤”à¤° à¤¨à¤¿à¤°à¥à¤®à¤¾à¤£ – à¤ªà¥à¤°à¥‰à¤ªà¤°à¥à¤Ÿà¥€ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤²à¥€à¤¡-à¤œà¤¨à¤°à¥‡à¤¶à¤¨ à¤…à¤­à¤¿à¤¯à¤¾à¤¨</li>
+                    <li>à¤°à¤¿à¤Ÿà¥‡à¤² à¤”à¤° à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ – à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤—, à¤‘à¤¨à¤²à¤¾à¤‡à¤¨ à¤¸à¥à¤Ÿà¥‹à¤° à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤°à¥‚à¤ªà¤¾à¤‚à¤¤à¤°à¤£ à¤…à¤¨à¥à¤•à¥‚à¤²à¤¨</li>
+                    <li>à¤ªà¥‡à¤¶à¥‡à¤µà¤° à¤¸à¥‡à¤µà¤¾à¤à¤‚ – à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ, à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤”à¤° à¤•à¥à¤²à¤¾à¤‡à¤‚à¤Ÿ à¤ªà¥‹à¤°à¥à¤Ÿà¤²</li>
                 </ul>
                 <p>à¤šà¤¾à¤¹à¥‡ à¤•à¥‹à¤ˆ à¤­à¥€ à¤‰à¤¦à¥à¤¯à¥‹à¤— à¤¹à¥‹, à¤¹à¤®à¤¾à¤°à¤¾ à¤²à¤•à¥à¤·à¥à¤¯ à¤à¤¸à¤¾ à¤•à¤¾à¤® à¤¬à¤¨à¤¾à¤¨à¤¾ à¤¹à¥ˆ à¤œà¥‹ à¤†à¤ªà¤•à¥‡ à¤¦à¤°à¥à¤¶à¤•à¥‹à¤‚ à¤•à¥‡ à¤¸à¤¾à¤¥ à¤œà¥à¤¡à¤¼à¥‡ à¤”à¤° à¤®à¤¾à¤ªà¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯ à¤µà¤¿à¤•à¤¾à¤¸ à¤•à¥‹ à¤¬à¤¢à¤¼à¤¾à¤µà¤¾ à¤¦à¥‡à¥¤</p>
             </div>
@@ -2202,9 +2202,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="contact/" class="redlink">
-									<span>Letâ€™s talk</span>
+									<span>Let's talk</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2290,7 +2290,7 @@ recommend a service from 1-10</div>
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="/hi/">
-										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -2762,7 +2762,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 </script>
-	`;
+	
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2870,7 +2872,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤‡à¤¨à¥‹à¤µà¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€",
-      "alternateName": "AenfiniteÂ®",
+      "alternateName": "Aenfinite®",
       "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"hi-IN",
@@ -2913,7 +2915,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® | Digital à¤¨à¤µà¤¾à¤šà¤¾à¤° à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "name": "Aenfinite® | Digital à¤¨à¤µà¤¾à¤šà¤¾à¤° à¤à¤œà¥‡à¤‚à¤¸à¥€",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "about": {"@id": "https://aenfinite.com/#organization"},
       "datePublished": "2017-01-01T00:00:00-00:00",

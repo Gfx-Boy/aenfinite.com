@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   keywords: "paid advertising, Google Ads management, Facebook Ads, PPC management, paid media, display advertising, remarketing, social media ads, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/services/paid-ads/", languages: {"x-default":"https://aenfinite.com/services/paid-ads/","en":"https://aenfinite.com/services/paid-ads/","es":"https://aenfinite.com/es/services/paid-ads/","fr":"https://aenfinite.com/fr/services/paid-ads/","de":"https://aenfinite.com/de/services/paid-ads/","it":"https://aenfinite.com/it/services/paid-ads/","ar":"https://aenfinite.com/ar/services/paid-ads/","pt":"https://aenfinite.com/pt/services/paid-ads/","zh":"https://aenfinite.com/zh/services/paid-ads/","hi":"https://aenfinite.com/hi/services/paid-ads/","nl":"https://aenfinite.com/nl/services/paid-ads/","ja":"https://aenfinite.com/ja/services/paid-ads/","ko":"https://aenfinite.com/ko/services/paid-ads/"} },
   openGraph: {"title":"Expert Paid Advertising Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Aenfinite is a performance-driven paid advertising agency that helps brands grow through precise targeting and optimized Google & Meta Ads campaigns.","url":"https://aenfinite.com/services/paid-advertising/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert Paid Advertising Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Grow your business with Aenfiniteâ€™s Paid Advertising Services. We specialize in Google Ads, Facebook Ads, and PPC management designed to deliver measurable ROI.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  twitter: {"card":"summary_large_image","title":"Expert Paid Advertising Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Grow your business with Aenfinite's Paid Advertising Services. We specialize in Google Ads, Facebook Ads, and PPC management designed to deliver measurable ROI.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2291,7 +2291,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2305,7 +2307,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2322,7 +2324,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
     },
@@ -2339,7 +2341,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/paid-advertising/#webpage",
       "url": "https://aenfinite.com/services/paid-advertising/",
-      "name": "Expert Paid Advertising Services | Google Ads & Facebook Ads Management | AenfiniteÂ®",
+      "name": "Expert Paid Advertising Services | Google Ads & Facebook Ads Management | Aenfinite®",
       "datePublished": "2023-08-10T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2349,8 +2351,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/paid-advertising/#article",
-      "headline": "Expert Paid Advertising Services | Google Ads & Facebook Ads Management | AenfiniteÂ®",
-      "description": "AenfiniteÂ® offers expert paid advertising and PPC management services for Google and Facebook Ads. We deliver measurable results through strategic ad campaigns and continuous optimization.",
+      "headline": "Expert Paid Advertising Services | Google Ads & Facebook Ads Management | Aenfinite®",
+      "description": "Aenfinite® offers expert paid advertising and PPC management services for Google and Facebook Ads. We deliver measurable results through strategic ad campaigns and continuous optimization.",
       "keywords": "Paid Advertising, Google Ads Management, Facebook Ads, PPC Campaigns, Performance Marketing, Conversion Optimization",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/paid-advertising/#webpage" },

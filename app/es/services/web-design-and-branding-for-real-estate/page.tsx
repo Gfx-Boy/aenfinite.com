@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios | Property DiseÃ±o de Sitios Web | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a leading real estate agencia de diseÃ±o web offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
+  title: "Bienes Raíces Diseño Web & Branding Servicios | Property Diseño de Sitios Web | Aenfinite®",
+  description: "Aenfinite® is a leading real estate agencia de diseño web offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
-  openGraph: {"title":"Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios | Property DiseÃ±o de Sitios Web | AenfiniteÂ®","description":"AenfiniteÂ® delivers top-tier real estate web design & branding services â€” from property showcase websites to agent branding and MLS integration â€” designed to drive leads and sales.","url":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios | Property DiseÃ±o de Sitios Web | AenfiniteÂ®","description":"AenfiniteÂ® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Bienes Raíces Diseño Web & Branding Servicios | Property Diseño de Sitios Web | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Bienes Raíces Diseño Web & Branding Servicios | Property Diseño de Sitios Web | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1121,17 +1121,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>									</ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+										<a href="#">Servicios de Diseño y Creatividad â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-											<li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+											<li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
 											
-											<li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
 									</li>
@@ -1139,7 +1139,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Soluciones de Marketing y Digitales â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-											<li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
 											<li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
 
@@ -1148,14 +1148,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+										<a href="#">Soluciones de IA y Tecnología â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-											<li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -1274,7 +1274,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Bienes RaÃ­ces DiseÃ±o Web & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Branding</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
+						<span>Bienes Raíces Diseño Web & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Branding</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
 													
 											</h1>
 									</div>
@@ -1353,10 +1353,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios</span>
+    <span class="marquee-line_text">Professional Bienes Raíces Diseño Web & Branding Servicios</span>
     <span class="marquee-line_text">Property Showcase Design, MLS Integration & Optimization</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
-    <span class="marquee-line_text">Specialists in Bienes RaÃ­ces DiseÃ±o Web & Experiencia de Usuario</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
+    <span class="marquee-line_text">Specialists in Bienes Raíces Diseño Web & Experiencia de Usuario</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for E-commerce Solutions</span>
     <span class="marquee-line_text">High-Converting Desarrollo de E-commerce & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
@@ -1373,7 +1373,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1381,10 +1381,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="01">
 											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">Business Servicios</div>
 																							<div class="preview-name">Marketing Digital</div>
-																							<div class="preview-name">Bienes RaÃ­ces Marketing</div>
+																							<div class="preview-name">Bienes Raíces Marketing</div>
 																					</div>
 									</div>
 								</div>
@@ -1394,7 +1394,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/robophil/">
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/robophil/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1402,9 +1402,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="/es/work/robophil/">RoboPhil</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
-																							<div class="preview-name">TecnologÃ­a Platform</div>
-																							<div class="preview-name">Property TecnologÃ­a</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
+																							<div class="preview-name">Tecnología Platform</div>
+																							<div class="preview-name">Property Tecnología</div>
 																							<div class="preview-name">AI Solutions</div>
 																					</div>
 									</div>
@@ -1415,7 +1415,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/husnohaya/">
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/husnohaya/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1423,7 +1423,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="/es/work/husnohaya/">Husnohaya</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Luxury Properties</div>
 																							<div class="preview-name">Premium Design</div>
@@ -1436,7 +1436,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1444,9 +1444,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="04">
 											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">Digital Solutions</div>
-																							<div class="preview-name">Bienes RaÃ­ces TecnologÃ­a</div>
+																							<div class="preview-name">Bienes Raíces Tecnología</div>
 																							<div class="preview-name">Plataforma de Marketing</div>
 																					</div>
 									</div>
@@ -1457,7 +1457,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/afropop/">
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/afropop/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1465,7 +1465,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="05">
 											<div class="preview-name preview-name__caption"><a href="../../work/afropop/">AfroPop</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">Brand Platform</div>
 																							<div class="preview-name">Creative Design</div>
 																							<div class="preview-name">Property Showcase</div>
@@ -1478,7 +1478,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1486,10 +1486,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="06">
 											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">E-commerce Design</div>
 																							<div class="preview-name">Property Listings</div>
-																							<div class="preview-name">Bienes RaÃ­ces Portal</div>
+																							<div class="preview-name">Bienes Raíces Portal</div>
 																					</div>
 									</div>
 								</div>
@@ -1499,7 +1499,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/amkiservice/">
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Servicios DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Servicios Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/amkiservice/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1507,10 +1507,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="07">
 											<div class="preview-name preview-name__caption"><a href="/es/work/amkiservice/">AM-KI Servicios</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">Business Servicios</div>
 																							<div class="preview-name">Professional Platform</div>
-																							<div class="preview-name">Soluciones para Bienes RaÃ­ces</div>
+																							<div class="preview-name">Soluciones para Bienes Raíces</div>
 																					</div>
 									</div>
 								</div>
@@ -1520,7 +1520,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/es/work/web-design-&-development/">
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick DiseÃ±o de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick Diseño de Sitios Web by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/es/work/web-design-&-development/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1528,7 +1528,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="08">
 											<div class="preview-name preview-name__caption"><a href="/es/work/web-design-&-development/">Luna Wick</a></div>
-																																		<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																																		<div class="preview-name">Diseño Web & Desarrollo</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Lifestyle Brand</div>
 																							<div class="preview-name">Property Design</div>
@@ -1549,7 +1549,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="section">
                 <div class="wrapper">
                     <div class="textbox appear js-aos">
-                        <div class="textbox-content">Aenfinite delivers Professional Bienes RaÃ­ces DiseÃ±o Web & Branding services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
+                        <div class="textbox-content">Aenfinite delivers Professional Bienes Raíces Diseño Web & Branding services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
                         <div class="textbox-action">
                             <a href="/es/contact/" class="redlink">
                                 <span>Trust the experts</span>
@@ -1591,7 +1591,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>client satisfaction rate with Aenfiniteâ€™s real estate web design and property listing solutions</div>
+							<div>client satisfaction rate with Aenfinite's real estate web design and property listing solutions</div>
 						</div>
 					</div>
 				</div>
@@ -1608,7 +1608,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Bienes RaÃ­ces DiseÃ±o Web Case Studies</h2>
+						<h2>Aenfinite Bienes Raíces Diseño Web Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,17 +1616,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/blue-vine-marketing/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">Business Servicios</div>
 																					<div class="preview-name">Marketing Digital</div>
-																					<div class="preview-name">Bienes RaÃ­ces Marketing</div>
+																					<div class="preview-name">Bienes Raíces Marketing</div>
 											
 									</div>
 								</div>
@@ -1634,16 +1634,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/robophil/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/robophil/">RoboPhil</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
-																					<div class="preview-name">TecnologÃ­a Platform</div>
-																					<div class="preview-name">Property TecnologÃ­a</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
+																					<div class="preview-name">Tecnología Platform</div>
+																					<div class="preview-name">Property Tecnología</div>
 																					<div class="preview-name">AI Solutions</div>
 											
 									</div>
@@ -1652,14 +1652,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/husnohaya/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Luxury Properties</div>
 																					<div class="preview-name">Premium Design</div>
@@ -1670,16 +1670,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/khatech/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">Digital Solutions</div>
-																					<div class="preview-name">Bienes RaÃ­ces TecnologÃ­a</div>
+																					<div class="preview-name">Bienes Raíces Tecnología</div>
 																					<div class="preview-name">Plataforma de Marketing</div>
 											
 									</div>
@@ -1688,14 +1688,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/afropop/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/afropop/">AfroPop</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">Brand Platform</div>
 																					<div class="preview-name">Creative Design</div>
 																					<div class="preview-name">Property Showcase</div>
@@ -1706,17 +1706,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/feiro/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">E-commerce Design</div>
 																					<div class="preview-name">Property Listings</div>
-																					<div class="preview-name">Bienes RaÃ­ces Portal</div>
+																					<div class="preview-name">Bienes Raíces Portal</div>
 											
 									</div>
 								</div>
@@ -1724,17 +1724,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Servicios DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Servicios Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/amkiservice/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/amkiservice/">AM-KI Servicios</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">Business Servicios</div>
 																					<div class="preview-name">Professional Platform</div>
-																					<div class="preview-name">Soluciones para Bienes RaÃ­ces</div>
+																					<div class="preview-name">Soluciones para Bienes Raíces</div>
 											
 									</div>
 								</div>
@@ -1742,14 +1742,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick DiseÃ±o de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick Diseño de Sitios Web by Aenfinite" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/es/work/web-design-&-development/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
 											<a href="/es/work/web-design-&-development/">Luna Wick</a>
 										</div>
-																					<div class="preview-name">DiseÃ±o Web & Desarrollo</div>
+																					<div class="preview-name">Diseño Web & Desarrollo</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Lifestyle Brand</div>
 																					<div class="preview-name">Property Design</div>
@@ -1772,7 +1772,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contacto Aenfinite for Bienes RaÃ­ces Website Solutions</h2>
+				<h2>Contacto Aenfinite for Bienes Raíces Website Solutions</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1790,7 +1790,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" value="" type="text" name="your-name" /></span>
-		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrÃ³nico*" value="" type="email" name="your-email" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrónico*" value="" type="email" name="your-email" /></span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your real estate website project" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
@@ -1798,18 +1798,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<strong>Estoy interesado en...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
-				<span class="list-item first"><input type="checkbox" name="services" value="Custom Bienes RaÃ­ces Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom Bienes RaÃ­ces Website</label></span>
+				<span class="list-item first"><input type="checkbox" name="services" value="Custom Bienes Raíces Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom Bienes Raíces Website</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Property Listing Integration" id="property-listing" /><label for="property-listing" class="list-item-label">Property Listing Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="IDX/MLS Integration" id="idx-mls" /><label for="idx-mls" class="list-item-label">IDX / MLS Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Lead Capture & CRM" id="lead-crm" /><label for="lead-crm" class="list-item-label">Lead Capture & CRM</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Mobile-Friendly Design" id="mobile-friendly" /><label for="mobile-friendly" class="list-item-label">Mobile-Friendly Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="SEO for Bienes RaÃ­ces" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for Bienes RaÃ­ces</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="Otro Soluciones para Bienes RaÃ­ces" id="other" /><label for="other" class="list-item-label">Otro Soluciones para Bienes RaÃ­ces</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="SEO for Bienes Raíces" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for Bienes Raíces</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="Otro Soluciones para Bienes Raíces" id="other" /><label for="other" class="list-item-label">Otro Soluciones para Bienes Raíces</label></span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="CuÃ©ntanos tu presupuesto aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Cuéntanos tu presupuesto aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1820,7 +1820,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="select-option js-select-option">de $500 a $5,000</div>
                             <div class="select-option js-select-option">de $5,000 a $20,000</div>
                             <div class="select-option js-select-option">de $20,000 a $50,000</div>
-                            <div class="select-option js-select-option">mÃ¡s de $100,000</div>
+                            <div class="select-option js-select-option">más de $100,000</div>
                         </div>
 		</div>
 	</div>
@@ -1841,7 +1841,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Bienes RaÃ­ces DiseÃ±o Web Expertise</h2>
+						<h2>Bienes Raíces Diseño Web Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1852,7 +1852,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom Bienes RaÃ­ces Websites</div>
+				<div class="pane-title">Custom Bienes Raíces Websites</div>
 				<div class="pane-subtitle">
 					<p>We design and develop fully customized real estate websites that showcase properties, neighborhoods, and agents. Each solution is tailored to your brand and optimized to generate leads, maximize visibility, and simplify property management.</p>
 				</div>
@@ -1892,7 +1892,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Headless Soluciones para Bienes RaÃ­ces</div>
+				<div class="pane-title">Headless Soluciones para Bienes Raíces</div>
 				<div class="pane-subtitle">
 					<p>For larger brokerages, we offer headless real estate website development using frameworks like React or Vue.js. This ensures ultra-fast performance, scalability, and flexibility across devices and platforms.</p>
 				</div>
@@ -1900,9 +1900,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Bienes RaÃ­ces OptimizaciÃ³n SEO</div>
+				<div class="pane-title">Bienes Raíces Optimización SEO</div>
 				<div class="pane-subtitle">
-					<p>We implement real estateâ€“specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
+					<p>We implement real estate–specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
 				</div>
 			</div>
 
@@ -1931,7 +1931,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Bienes RaÃ­ces Website Desarrollo Process</h2>
+					<h2>Bienes Raíces Website Desarrollo Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1950,7 +1950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Architecture Planning</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We design the siteâ€™s structure to highlight property listings, location-based searches, and lead capture tools. From navigation flow to data management, we plan everything to maximize user experience and conversions.</p>
+							<p>We design the site's structure to highlight property listings, location-based searches, and lead capture tools. From navigation flow to data management, we plan everything to maximize user experience and conversions.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Strategy</span>
@@ -2049,7 +2049,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Training & Support</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-4-3">
-							<p>Our team provides training for your staff on managing property listings, updating content, and handling leads through the websiteâ€™s dashboard.</p>
+							<p>Our team provides training for your staff on managing property listings, updating content, and handling leads through the website's dashboard.</p>
 						</div>
 						<div class="nlist-sensor js-switch-sensor"></div>
 					</div>
@@ -2065,7 +2065,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Bienes RaÃ­ces DiseÃ±o Web</span> is the perfect blend of stunning visuals and smart functionality. Portafolio with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Bienes Raíces Diseño Web</span> is the perfect blend of stunning visuals and smart functionality. Portafolio with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2076,7 +2076,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper">
       <div class="section-caption js-aos">
         <div class="section-caption_text">
-          <h2>Aenfinite Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios</h2>
+          <h2>Aenfinite Bienes Raíces Diseño Web & Branding Servicios</h2>
         </div>
       </div>
       <div class="service-grid">
@@ -2084,13 +2084,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
           <div class="service-list js-service-container fadein js-aos">
 
             <div class="service active js-service">
-              <div class="service-caption js-service-caption">Bienes RaÃ­ces DiseÃ±o Web</div>
+              <div class="service-caption js-service-caption">Bienes Raíces Diseño Web</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
                     <div class="chip"><a href="/es/contact/" class="chip-label">Property Listings</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Lead Generation</a></div>
-                    <div class="chip"><a href="/es/contact/" class="chip-label">DiseÃ±o Responsivo</a></div>
+                    <div class="chip"><a href="/es/contact/" class="chip-label">Diseño Responsivo</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">IDX Integration</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Agent Profiles</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Map Search</a></div>
@@ -2121,12 +2121,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Bienes RaÃ­ces Branding</div>
+              <div class="service-caption js-service-caption">Bienes Raíces Branding</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
                     <div class="chip"><a href="/es/contact/" class="chip-label">Identidad de Marca</a></div>
-                    <div class="chip"><a href="/es/contact/" class="chip-label">DiseÃ±o de Logotipos</a></div>
+                    <div class="chip"><a href="/es/contact/" class="chip-label">Diseño de Logotipos</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Color Palette</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Typography</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Visual Consistency</a></div>
@@ -2147,7 +2147,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Social media branding and online reputation alignment</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      We position your real estate brand as trusted, recognizable, and credible â€” helping you connect with clients emotionally and visually.
+                      We position your real estate brand as trusted, recognizable, and credible — helping you connect with clients emotionally and visually.
                     </p>
                   </div>
                 </div>
@@ -2162,10 +2162,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/es/contact/" class="chip-label">PÃ¡ginas de Aterrizaje</a></div>
+                    <div class="chip"><a href="/es/contact/" class="chip-label">Páginas de Aterrizaje</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Property Portfolios</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">CRM Integration</a></div>
-                    <div class="chip"><a href="/es/contact/" class="chip-label">AutomatizaciÃ³n</a></div>
+                    <div class="chip"><a href="/es/contact/" class="chip-label">Automatización</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Lead Funnels</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Analytics</a></div>
                     <div class="chip"><a href="/es/contact/" class="chip-label">Email Capture</a></div>
@@ -2173,7 +2173,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   </div>
                 </div>
                 <div class="service-text">
-                  <p>We design marketing-driven real estate websites optimized for conversion and client acquisition â€” ensuring every visitor becomes a potential lead.</p>
+                  <p>We design marketing-driven real estate websites optimized for conversion and client acquisition — ensuring every visitor becomes a potential lead.</p>
                   <div class="desktop-only" style="margin-top: 15px;">
                     <p><strong>Our development process includes:</strong></p>
                     <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2184,7 +2184,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Search engine friendly structure and analytics integration</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      Our focus is to create user-centered marketing sites that donâ€™t just look beautiful â€” they perform, attract, and convert.
+                      Our focus is to create user-centered marketing sites that don't just look beautiful — they perform, attract, and convert.
                     </p>
                   </div>
                 </div>
@@ -2221,7 +2221,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Backup systems, updates, and client training</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      We handle the technical side so you can focus on closing more deals â€” keeping your real estate presence sharp, secure, and scalable.
+                      We handle the technical side so you can focus on closing more deals — keeping your real estate presence sharp, secure, and scalable.
                     </p>
                   </div>
                 </div>
@@ -2274,10 +2274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">DiseÃ±o Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design-and-branding-for-real-estate/">Bienes RaÃ­ces DiseÃ±o Web & Branding</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Diseño Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design-and-branding-for-real-estate/">Bienes Raíces Diseño Web & Branding</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">DiseÃ±o de Empaques</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Diseño de Empaques</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2287,7 +2287,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -2296,7 +2296,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">DirecciÃ³n</div>
+								<div class="footer-col_caption">Dirección</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2359,7 +2359,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -2367,14 +2367,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2613,7 +2613,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2680,7 +2680,7 @@ document.addEventListener('keydown', function(event) {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2747,7 +2747,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2761,7 +2763,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2773,8 +2775,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Bienes RaÃ­ces DiseÃ±o Web Agencia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Bienes Raíces Diseño Web Agencia",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2786,7 +2788,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - Bienes RaÃ­ces DiseÃ±o Web Agencia",
+      "caption": "Aenfinite® - Bienes Raíces Diseño Web Agencia",
       "inLanguage":"es-ES"
     },
     {
@@ -2814,7 +2816,7 @@ export default function Page() {
           "position": 3,
           "item": {
             "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-            "name": "Bienes RaÃ­ces DiseÃ±o Web & Branding"
+            "name": "Bienes Raíces Diseño Web & Branding"
           }
         }
       ]
@@ -2823,7 +2825,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#webpage",
       "url": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-      "name": "Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios | Property DiseÃ±o de Sitios Web | AenfiniteÂ®",
+      "name": "Bienes Raíces Diseño Web & Branding Servicios | Property Diseño de Sitios Web | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": {
@@ -2840,12 +2842,12 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and Digital Strategist at AenfiniteÂ®",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and Digital Strategist at Aenfinite®",
       "image": {
         "@type": "ImageObject",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"es-ES"
       },
       "worksFor": {
@@ -2855,8 +2857,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#article",
-      "headline": "Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios | Property DiseÃ±o de Sitios Web | AenfiniteÂ®",
-      "keywords": "Bienes RaÃ­ces DiseÃ±o Web, Property DiseÃ±o de Sitios Web, MLS Integration, Bienes RaÃ­ces Branding, Realtor DiseÃ±o de Sitios Web, Lead Generation, Bienes RaÃ­ces Marketing",
+      "headline": "Bienes Raíces Diseño Web & Branding Servicios | Property Diseño de Sitios Web | Aenfinite®",
+      "keywords": "Bienes Raíces Diseño Web, Property Diseño de Sitios Web, MLS Integration, Bienes Raíces Branding, Realtor Diseño de Sitios Web, Lead Generation, Bienes Raíces Marketing",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": {
@@ -2865,7 +2867,7 @@ export default function Page() {
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
-      "description": "AenfiniteÂ® provides professional real estate web design and branding solutions, including property showcase design, MLS integration, realtor websites, and branding strategies to grow your real estate business.",
+      "description": "Aenfinite® provides professional real estate web design and branding solutions, including property showcase design, MLS integration, realtor websites, and branding strategies to grow your real estate business.",
       "image": {
         "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"
       },
@@ -2907,7 +2909,7 @@ export default function Page() {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2954,7 +2956,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Bienes RaÃ­ces DiseÃ±o Web & Branding Servicios",
+      "name": "Bienes Raíces Diseño Web & Branding Servicios",
       "item": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/"
     }
   ]

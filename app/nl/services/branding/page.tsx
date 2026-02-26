@@ -5,7 +5,7 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Professionele Merkontwerp Diensten | Logo-ontwerp & Merkidentiteit | Aenfinite",
-  description: "AenfiniteÂ® is a creative merkontwerp bureau offering logo design, brand identity, strategy, and guidelines. We help businesses build recognizable brands that inspire trust and growth.",
+  description: "Aenfinite® is a creative merkontwerp bureau offering logo design, brand identity, strategy, and guidelines. We help businesses build recognizable brands that inspire trust and growth.",
   keywords: "merkontwerp bureau, brand identity, brand strategy, brand guidelines, visual identity design, corporate branding, startup branding, rebranding, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/nl/services/branding/", languages: {"x-default":"https://aenfinite.com/services/branding/","en":"https://aenfinite.com/services/branding/","es":"https://aenfinite.com/es/services/branding/","fr":"https://aenfinite.com/fr/services/branding/","de":"https://aenfinite.com/de/services/branding/","it":"https://aenfinite.com/it/services/branding/","ar":"https://aenfinite.com/ar/services/branding/","pt":"https://aenfinite.com/pt/services/branding/","zh":"https://aenfinite.com/zh/services/branding/","hi":"https://aenfinite.com/hi/services/branding/","nl":"https://aenfinite.com/nl/services/branding/","ja":"https://aenfinite.com/ja/services/branding/","ko":"https://aenfinite.com/ko/services/branding/"} },
   openGraph: {"title":"Professionele Merkontwerp Diensten | Logo-ontwerp & Merkidentiteit | Aenfinite","description":"Aenfinite helps businesses craft meaningful brand identities with expert logo design, brand guidelines, and visual storytelling that connects with audiences.","url":"https://aenfinite.com/nl/services/branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1908,13 +1908,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Research & Insights</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brandâ€™s current position, values, and opportunities for growth.</p>
+							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brand's current position, values, and opportunities for growth.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
 							<span>Merkstrategie</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We define your brandâ€™s voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
+							<p>We define your brand's voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Positioning</span>
@@ -2695,7 +2695,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2709,7 +2711,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png",
       "sameAs": [
@@ -2722,7 +2724,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"nl-NL"
     },
@@ -2731,7 +2733,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/services/branding/#webpage",
       "url": "https://aenfinite.com/services/branding/",
       "name": "Professionele Merkontwerp Diensten | Logo-ontwerp & Merkidentiteit | Aenfinite",
-      "description": "AenfiniteÂ® offers creative branding solutions, including logo design, brand identity, brand strategy, and visual brand guidelines that make businesses unforgettable.",
+      "description": "Aenfinite® offers creative branding solutions, including logo design, brand identity, brand strategy, and visual brand guidelines that make businesses unforgettable.",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
         "@type": "BreadcrumbList",

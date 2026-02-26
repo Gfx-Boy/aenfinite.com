@@ -3,10 +3,10 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite",
-  description: "Boost your brand with Aenfiniteâ€™s expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
+  description: "Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
   keywords: "digital marketing, SEO, PPC, social media marketing, content marketing, email marketing, local marketing agency, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/services/social-media-marketing/" },
-  openGraph: {"title":"Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite","description":"Boost your brand with Aenfiniteâ€™s expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  openGraph: {"title":"Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite","description":"Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite","description":"Aenfinite delivers marketing and digital solutions in {{CITY}}, {{STATE}} that drive growth through SEO, PPC, social media marketing, content strategy, and data-driven digital campaigns.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -1858,7 +1858,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 											<li>Cross-platform consistency (FB, IG, LinkedIn, X)</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We ensure your brand voice remains strong and unified while adapting content for each platformâ€™s unique audience.
+											We ensure your brand voice remains strong and unified while adapting content for each platform's unique audience.
 										</p>
 									</div>
 								</div>
@@ -1954,7 +1954,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2453,7 +2453,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2467,7 +2469,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2479,8 +2481,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Social Media Marketing Agency",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Social Media Marketing Agency",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
     },
@@ -2497,7 +2499,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/social-media-marketing/#webpage",
       "url": "https://aenfinite.com/services/social-media-marketing/",
-      "name": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | AenfiniteÂ®",
+      "name": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2508,9 +2510,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/social-media-marketing/#richSnippet",
-      "headline": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | AenfiniteÂ®",
-      "description": "AenfiniteÂ® delivers expert social media marketing services including Instagram marketing, Facebook advertising, TikTok growth strategies, and community management to increase brand visibility and conversions.",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "headline": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
+      "description": "Aenfinite® delivers expert social media marketing services including Instagram marketing, Facebook advertising, TikTok growth strategies, and community management to increase brand visibility and conversions.",
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",

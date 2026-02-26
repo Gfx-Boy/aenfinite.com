@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a leading real estate Webdesign-Agentur offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
+  title: "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®",
+  description: "Aenfinite® is a leading real estate Webdesign-Agentur offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
-  openGraph: {"title":"Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | AenfiniteÂ®","description":"AenfiniteÂ® delivers top-tier real estate web design & branding services â€” from property showcase websites to agent branding and MLS integration â€” designed to drive leads and sales.","url":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | AenfiniteÂ®","description":"AenfiniteÂ® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1113,7 +1113,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1122,13 +1122,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1136,7 +1136,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1148,10 +1148,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1510,7 +1510,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">Business Dienstleistungen</div>
 																							<div class="preview-name">Professional Platform</div>
-																							<div class="preview-name">ImmobilienlÃ¶sungen</div>
+																							<div class="preview-name">Immobilienlösungen</div>
 																					</div>
 									</div>
 								</div>
@@ -1591,7 +1591,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>client satisfaction rate with Aenfiniteâ€™s real estate web design and property listing solutions</div>
+							<div>client satisfaction rate with Aenfinite's real estate web design and property listing solutions</div>
 						</div>
 					</div>
 				</div>
@@ -1734,7 +1734,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					<div class="preview-name">Webdesign & Entwicklung</div>
 																					<div class="preview-name">Business Dienstleistungen</div>
 																					<div class="preview-name">Professional Platform</div>
-																					<div class="preview-name">ImmobilienlÃ¶sungen</div>
+																					<div class="preview-name">Immobilienlösungen</div>
 											
 									</div>
 								</div>
@@ -1795,7 +1795,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong>
+		<strong>Ich interessiere mich für...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Custom Immobilien Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom Immobilien Website</label></span>
@@ -1804,12 +1804,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<span class="list-item"><input type="checkbox" name="services" value="Lead Capture & CRM" id="lead-crm" /><label for="lead-crm" class="list-item-label">Lead Capture & CRM</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Mobile-Friendly Design" id="mobile-friendly" /><label for="mobile-friendly" class="list-item-label">Mobile-Friendly Design</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="SEO for Immobilien" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for Immobilien</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="Sonstiges ImmobilienlÃ¶sungen" id="other" /><label for="other" class="list-item-label">Sonstiges ImmobilienlÃ¶sungen</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="Sonstiges Immobilienlösungen" id="other" /><label for="other" class="list-item-label">Sonstiges Immobilienlösungen</label></span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1820,7 +1820,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="select-option js-select-option">von 500 $ bis 5.000 $</div>
                             <div class="select-option js-select-option">von 5.000 $ bis 20.000 $</div>
                             <div class="select-option js-select-option">von 20.000 $ bis 50.000 $</div>
-                            <div class="select-option js-select-option">Ã¼ber 100.000 $</div>
+                            <div class="select-option js-select-option">über 100.000 $</div>
                         </div>
 		</div>
 	</div>
@@ -1892,7 +1892,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Headless ImmobilienlÃ¶sungen</div>
+				<div class="pane-title">Headless Immobilienlösungen</div>
 				<div class="pane-subtitle">
 					<p>For larger brokerages, we offer headless real estate website development using frameworks like React or Vue.js. This ensures ultra-fast performance, scalability, and flexibility across devices and platforms.</p>
 				</div>
@@ -1902,7 +1902,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Immobilien SEO-Optimierung</div>
 				<div class="pane-subtitle">
-					<p>We implement real estateâ€“specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
+					<p>We implement real estate–specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
 				</div>
 			</div>
 
@@ -1950,7 +1950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Architecture Planning</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We design the siteâ€™s structure to highlight property listings, location-based searches, and lead capture tools. From navigation flow to data management, we plan everything to maximize user experience and conversions.</p>
+							<p>We design the site's structure to highlight property listings, location-based searches, and lead capture tools. From navigation flow to data management, we plan everything to maximize user experience and conversions.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Strategy</span>
@@ -2049,7 +2049,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Training & Support</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-4-3">
-							<p>Our team provides training for your staff on managing property listings, updating content, and handling leads through the websiteâ€™s dashboard.</p>
+							<p>Our team provides training for your staff on managing property listings, updating content, and handling leads through the website's dashboard.</p>
 						</div>
 						<div class="nlist-sensor js-switch-sensor"></div>
 					</div>
@@ -2125,7 +2125,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/de/contact/" class="chip-label">MarkenidentitÃ¤t</a></div>
+                    <div class="chip"><a href="/de/contact/" class="chip-label">Markenidentität</a></div>
                     <div class="chip"><a href="/de/contact/" class="chip-label">Logodesign</a></div>
                     <div class="chip"><a href="/de/contact/" class="chip-label">Color Palette</a></div>
                     <div class="chip"><a href="/de/contact/" class="chip-label">Typography</a></div>
@@ -2147,7 +2147,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Social media branding and online reputation alignment</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      We position your real estate brand as trusted, recognizable, and credible â€” helping you connect with clients emotionally and visually.
+                      We position your real estate brand as trusted, recognizable, and credible — helping you connect with clients emotionally and visually.
                     </p>
                   </div>
                 </div>
@@ -2173,7 +2173,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   </div>
                 </div>
                 <div class="service-text">
-                  <p>We design marketing-driven real estate websites optimized for conversion and client acquisition â€” ensuring every visitor becomes a potential lead.</p>
+                  <p>We design marketing-driven real estate websites optimized for conversion and client acquisition — ensuring every visitor becomes a potential lead.</p>
                   <div class="desktop-only" style="margin-top: 15px;">
                     <p><strong>Our development process includes:</strong></p>
                     <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2184,7 +2184,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Search engine friendly structure and analytics integration</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      Our focus is to create user-centered marketing sites that donâ€™t just look beautiful â€” they perform, attract, and convert.
+                      Our focus is to create user-centered marketing sites that don't just look beautiful — they perform, attract, and convert.
                     </p>
                   </div>
                 </div>
@@ -2221,7 +2221,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                       <li>Backup systems, updates, and client training</li>
                     </ul>
                     <p style="margin-top: 15px; font-style: italic; color: #666;">
-                      We handle the technical side so you can focus on closing more deals â€” keeping your real estate presence sharp, secure, and scalable.
+                      We handle the technical side so you can focus on closing more deals — keeping your real estate presence sharp, secure, and scalable.
                     </p>
                   </div>
                 </div>
@@ -2250,7 +2250,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam GroÃŸartiges schaffen.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2374,7 +2374,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2613,7 +2613,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2747,7 +2747,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2761,7 +2763,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2773,8 +2775,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Immobilien Webdesign Agentur",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Immobilien Webdesign Agentur",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2786,7 +2788,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® - Immobilien Webdesign Agentur",
+      "caption": "Aenfinite® - Immobilien Webdesign Agentur",
       "inLanguage":"de-DE"
     },
     {
@@ -2823,7 +2825,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#webpage",
       "url": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-      "name": "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | AenfiniteÂ®",
+      "name": "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": {
@@ -2840,12 +2842,12 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Author and Digital Strategist at AenfiniteÂ®",
+      "name": "Anjelika Aenfinite®",
+      "description": "Author and Digital Strategist at Aenfinite®",
       "image": {
         "@type": "ImageObject",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"de-DE"
       },
       "worksFor": {
@@ -2855,7 +2857,7 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#article",
-      "headline": "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | AenfiniteÂ®",
+      "headline": "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®",
       "keywords": "Immobilien Webdesign, Property Website-Design, MLS Integration, Immobilien Markengestaltung, Realtor Website-Design, Lead Generation, Immobilien Marketing",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2865,7 +2867,7 @@ export default function Page() {
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
-      "description": "AenfiniteÂ® provides professional real estate web design and branding solutions, including property showcase design, MLS integration, realtor websites, and branding strategies to grow your real estate business.",
+      "description": "Aenfinite® provides professional real estate web design and branding solutions, including property showcase design, MLS integration, realtor websites, and branding strategies to grow your real estate business.",
       "image": {
         "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"
       },

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | AenfiniteÂ®",
-  description: "Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by AenfiniteÂ®.",
+  title: "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | Aenfinite®",
+  description: "Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by Aenfinite®.",
   keywords: "Algopros logo design, brand identity, graphic design studio, logo design case study, visual branding, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/ko/work/algopros/", languages: {"x-default":"https://aenfinite.com/work/algopros/","en":"https://aenfinite.com/work/algopros/","es":"https://aenfinite.com/es/work/algopros/","fr":"https://aenfinite.com/fr/work/algopros/","de":"https://aenfinite.com/de/work/algopros/","it":"https://aenfinite.com/it/work/algopros/","ar":"https://aenfinite.com/ar/work/algopros/","pt":"https://aenfinite.com/pt/work/algopros/","zh":"https://aenfinite.com/zh/work/algopros/","hi":"https://aenfinite.com/hi/work/algopros/","nl":"https://aenfinite.com/nl/work/algopros/","ja":"https://aenfinite.com/ja/work/algopros/","ko":"https://aenfinite.com/ko/work/algopros/"} },
-  openGraph: {"title":"Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | AenfiniteÂ®","description":"Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by AenfiniteÂ®.","url":"https://aenfinite.com/ko/work/algopros/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/05/social_media_image-3.webp"}]},
-  twitter: {"card":"summary_large_image","title":"Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | AenfiniteÂ®","description":"Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by AenfiniteÂ®.","images":["https://aenfinite.com/wp-content/uploads/2024/05/social_media_image-3.webp"]},
+  openGraph: {"title":"Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | Aenfinite®","description":"Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by Aenfinite®.","url":"https://aenfinite.com/ko/work/algopros/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/05/social_media_image-3.webp"}]},
+  twitter: {"card":"summary_large_image","title":"Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | Aenfinite®","description":"Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative design solutions developed by Aenfinite®.","images":["https://aenfinite.com/wp-content/uploads/2024/05/social_media_image-3.webp"]},
   robots: { index: true, follow: true },
 };
 
@@ -2451,7 +2451,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2465,7 +2467,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/digitaldesignny",
@@ -2478,8 +2480,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - ë¸Œëžœë”© & ì›¹ ë””ìžì¸ Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - ë¸Œëžœë”© & ì›¹ ë””ìžì¸ Division",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ko-KR"
     },
@@ -2487,7 +2489,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/work/algopros/#webpage",
       "url": "https://aenfinite.com/work/algopros",
-      "name": "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | AenfiniteÂ®",
+      "name": "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | Aenfinite®",
       "datePublished": "2025-09-06T16:30:42-04:00",
       "dateModified": "2025-09-06T10:17:27-04:00",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
@@ -2505,24 +2507,24 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/work/algopros/#author",
-      "name": "Vika AenfiniteÂ®",
-      "description": "Creative lead at AenfiniteÂ® responsible for Algopros project",
+      "name": "Vika Aenfinite®",
+      "description": "Creative lead at Aenfinite® responsible for Algopros project",
       "image": {
         "@type": "ImageObject",
         "url": "https://secure.gravatar.com/avatar/a7cc236ad2a5b591e8dc628e39a752ee?s=96&d=mm&r=g",
-        "caption": "Vika AenfiniteÂ®"
+        "caption": "Vika Aenfinite®"
       },
       "worksFor": {"@id": "https://aenfinite.com/#organization"}
     },
     {
       "@type": "BlogPosting",
-      "headline": "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | AenfiniteÂ®",
+      "headline": "Algopros - Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Studio | Aenfinite®",
       "keywords": "ë¡œê³  ë””ìžì¸, ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°, Visual ë¸Œëžœë”©",
       "datePublished": "2025-09-06T16:30:42-04:00",
       "dateModified": "2025-09-06T10:17:27-04:00",
       "author": {"@id": "https://aenfinite.com/work/algopros/#author"},
       "publisher": {"@id": "https://aenfinite.com/#organization"},
-      "description": "Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative solutions developed by AenfiniteÂ®.",
+      "description": "Award-winning graphic design studio specializing in logo design, brand identity, visual branding, and creative solutions developed by Aenfinite®.",
       "image": {
         "@type": "ImageObject",
         "url": "https://aenfinite.com/wp-content/uploads/2024/05/social_media_image-3.webp",

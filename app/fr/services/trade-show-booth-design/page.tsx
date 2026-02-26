@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1415,18 +1415,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 CrÃ©ation de Logo - IdentitÃ© de Marque Collection" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Création de Logo - Identité de Marque Collection" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 - CrÃ©ation de Logo Collection</a></div>
+											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 - Création de Logo Collection</a></div>
 																																		<div class="preview-name">Image de Marque</div>
-																							<div class="preview-name">CrÃ©ation de Logo</div>
-																							<div class="preview-name">IdentitÃ© de Marque</div>
-																							<div class="preview-name">IdentitÃ© Visuelle</div>
+																							<div class="preview-name">Création de Logo</div>
+																							<div class="preview-name">Identité de Marque</div>
+																							<div class="preview-name">Identité Visuelle</div>
 																					</div>
 									</div>
 								</div>
@@ -1447,7 +1447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Image de Marque</div>
 																							<div class="preview-name">Image de Marque de Luxe</div>
 																							<div class="preview-name">Fragrance Design</div>
-																							<div class="preview-name">IdentitÃ© de Marque</div>
+																							<div class="preview-name">Identité de Marque</div>
 																					</div>
 									</div>
 								</div>
@@ -1457,7 +1457,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - IdentitÃ© de Marque System" class="cover" loading="lazy" decoding="async" />
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Identité de Marque System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1466,8 +1466,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="preview-content" data-index="05">
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Professional Marketing Design</a></div>
 																																		<div class="preview-name">Image de Marque</div>
-																							<div class="preview-name">StratÃ©gie de Marque</div>
-																							<div class="preview-name">IdentitÃ© de Marque</div>
+																							<div class="preview-name">Stratégie de Marque</div>
+																							<div class="preview-name">Identité de Marque</div>
 																							<div class="preview-name">Supports Marketing</div>
 																					</div>
 									</div>
@@ -1478,7 +1478,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Charte Graphique Mockup - Professional IdentitÃ© de Marque System" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Charte Graphique Mockup - Professional Identité de Marque System" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1488,7 +1488,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Charte Graphique System</a></div>
 																																		<div class="preview-name">Image de Marque</div>
 																							<div class="preview-name">Charte Graphique</div>
-																							<div class="preview-name">IdentitÃ© Visuelle</div>
+																							<div class="preview-name">Identité Visuelle</div>
 																							<div class="preview-name">Brand System</div>
 																					</div>
 									</div>
@@ -1605,17 +1605,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 CrÃ©ation de Logo - IdentitÃ© de Marque Collection" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Création de Logo - Identité de Marque Collection" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">CycleThe6 - CrÃ©ation de Logo Collection</a>
+											<a href="../../work/branding/">CycleThe6 - Création de Logo Collection</a>
 										</div>
 																					<div class="preview-name">Image de Marque</div>
-																					<div class="preview-name">CrÃ©ation de Logo</div>
-																					<div class="preview-name">IdentitÃ© de Marque</div>
-																					<div class="preview-name">IdentitÃ© Visuelle</div>
+																					<div class="preview-name">Création de Logo</div>
+																					<div class="preview-name">Identité de Marque</div>
+																					<div class="preview-name">Identité Visuelle</div>
 											
 									</div>
 								</div>
@@ -1633,7 +1633,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					<div class="preview-name">Image de Marque</div>
 																					<div class="preview-name">Image de Marque de Luxe</div>
 																					<div class="preview-name">Fragrance Design</div>
-																					<div class="preview-name">IdentitÃ© de Marque</div>
+																					<div class="preview-name">Identité de Marque</div>
 											
 									</div>
 								</div>
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - IdentitÃ© de Marque System" loading="lazy" decoding="async" />
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Identité de Marque System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -1649,8 +1649,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<a href="../../work/branding/">Professional Marketing Design</a>
 										</div>
 																					<div class="preview-name">Image de Marque</div>
-																					<div class="preview-name">StratÃ©gie de Marque</div>
-																					<div class="preview-name">IdentitÃ© de Marque</div>
+																					<div class="preview-name">Stratégie de Marque</div>
+																					<div class="preview-name">Identité de Marque</div>
 																					<div class="preview-name">Supports Marketing</div>
 											
 									</div>
@@ -1659,7 +1659,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Charte Graphique Mockup - Professional IdentitÃ© de Marque System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Charte Graphique Mockup - Professional Identité de Marque System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
@@ -1668,7 +1668,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Image de Marque</div>
 																					<div class="preview-name">Charte Graphique</div>
-																					<div class="preview-name">IdentitÃ© Visuelle</div>
+																					<div class="preview-name">Identité Visuelle</div>
 																					<div class="preview-name">Brand System</div>
 											
 									</div>
@@ -1718,7 +1718,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong>
+		<strong>Je suis intéressé par...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Custom Booth Design" id="custom-booth-design" /><label for="custom-booth-design" class="list-item-label">Custom Booth Design</label></span>
@@ -1769,7 +1769,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox textbox__push js-aos appear">
 					<div class="textbox-content">
-						Aenfinite offers end-to-end trade show booth design solutions â€“ from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
+						Aenfinite offers end-to-end trade show booth design solutions – from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
 					</div>
 				</div>
 			</div>
@@ -1796,7 +1796,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">3D Visualization & Rendering</div>
 				<div class="pane-subtitle">
-					<p>See your booth before itâ€™s built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
+					<p>See your booth before it's built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
 				</div>
 			</div>
 
@@ -1912,7 +1912,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-content js-switch-copy"></div>
 				</div>
 
-				<!-- DÃ©veloppement / Build -->
+				<!-- Développement / Build -->
 				<div class="nlist-item appear js-aos js-switch">
 					<div class="nlist-caption">Build & Installation</div>
 					<div class="nlist-tabs js-switch-tabs">
@@ -1981,7 +1981,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Conception de Stands d'Exposition</span> is the perfect blend of creative innovation and strategic brand presentation. RÃ©alisations with a team that excels at crafting visually stunning booths and delivering unforgettable trade show experiences.					
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Conception de Stands d'Exposition</span> is the perfect blend of creative innovation and strategic brand presentation. Réalisations with a team that excels at crafting visually stunning booths and delivering unforgettable trade show experiences.					
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2040,7 +2040,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="chips">
 										<div class="chip"><a href="/fr/contact/" class="chip-label">Graphismes</a></div>
 										<div class="chip"><a href="/fr/contact/" class="chip-label">Brand Messaging</a></div>
-										<div class="chip"><a href="/fr/contact/" class="chip-label">IdentitÃ© Visuelle</a></div>
+										<div class="chip"><a href="/fr/contact/" class="chip-label">Identité Visuelle</a></div>
 										<div class="chip"><a href="/fr/contact/" class="chip-label">Event Image de Marque</a></div>
 										<div class="chip"><a href="/fr/contact/" class="chip-label">Typography</a></div>
 									</div>
@@ -2108,7 +2108,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We donâ€™t just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
+									<p>We don't just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our maintenance services include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2144,7 +2144,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Vous Avez un Projet en TÃªte ? Construisons Quelque Chose de Formidable Ensemble.</span>
+								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2157,7 +2157,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2245,7 +2245,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -2261,14 +2261,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2506,8 +2506,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2641,7 +2641,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2655,7 +2657,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2668,8 +2670,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Conception de Stands d'Exposition Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Conception de Stands d'Exposition Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2679,7 +2681,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Conception de Stands d'Exposition & Image de Marque",
+      "caption": "Aenfinite® Conception de Stands d'Exposition & Image de Marque",
       "inLanguage":"fr-FR"
     },
     {
@@ -2707,7 +2709,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage",
       "url": "https://aenfinite.com/services/trade-show-booth-design/",
-      "name": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | AenfiniteÂ®",
+      "name": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2718,27 +2720,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Official author profile for AenfiniteÂ® (Aenfinite.com)",
+      "name": "Anjelika Aenfinite®",
+      "description": "Official author profile for Aenfinite® (Aenfinite.com)",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage":"fr-FR"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | AenfiniteÂ®",
+      "headline": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | Aenfinite®",
       "keywords": "Conception de Stands d'Exposition, Exhibition Displays, Booth Construction, Event Image de Marque, Salon Professionnel Marketing, Event Design",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
-      "name": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
+      "name": "Professional Conception de Stands d'Exposition | Event Image de Marque & Booth Construction | Aenfinite®",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg" },

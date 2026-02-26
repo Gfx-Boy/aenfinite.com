@@ -1767,7 +1767,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox textbox__push js-aos appear">
 					<div class="textbox-content">
-						Aenfinite offers end-to-end trade show booth design solutions â€“ from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
+						Aenfinite offers end-to-end trade show booth design solutions – from concept creation and 3D visualization to booth construction, branding, and on-site setup. We help brands stand out at every exhibition and maximize event impact.
 					</div>
 				</div>
 			</div>
@@ -1794,7 +1794,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">3D Visualization & Rendering</div>
 				<div class="pane-subtitle">
-					<p>See your booth before itâ€™s built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
+					<p>See your booth before it's built with our high-quality 3D renderings. We provide realistic previews of layouts, materials, and branding elements to ensure your booth matches your vision.</p>
 				</div>
 			</div>
 
@@ -2106,7 +2106,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We donâ€™t just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
+									<p>We don't just design your booth  we ensure it runs smoothly from setup to teardown. Our ongoing support and maintenance services guarantee a hassle-free event experience.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our maintenance services include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2639,7 +2639,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2653,7 +2655,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2666,8 +2668,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Trade Show Booth Design Agency",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Trade Show Booth Design Agency",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
     },
@@ -2677,7 +2679,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Trade Show Booth Design & Branding",
+      "caption": "Aenfinite® Trade Show Booth Design & Branding",
       "inLanguage": "en-US"
     },
     {
@@ -2705,7 +2707,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage",
       "url": "https://aenfinite.com/services/trade-show-booth-design/",
-      "name": "Professional Trade Show Booth Design | Event Branding & Booth Construction | AenfiniteÂ®",
+      "name": "Professional Trade Show Booth Design | Event Branding & Booth Construction | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2716,27 +2718,27 @@ export default function Page() {
     {
       "@type": "Person",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#author",
-      "name": "Anjelika AenfiniteÂ®",
-      "description": "Official author profile for AenfiniteÂ® (Aenfinite.com)",
+      "name": "Anjelika Aenfinite®",
+      "description": "Official author profile for Aenfinite® (Aenfinite.com)",
       "image": {
         "@type": "ImageObject",
         "@id": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
         "url": "https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&d=mm&r=g",
-        "caption": "Anjelika AenfiniteÂ®",
+        "caption": "Anjelika Aenfinite®",
         "inLanguage": "en-US"
       },
       "worksFor": { "@id": "https://aenfinite.com/#organization" }
     },
     {
       "@type": "Article",
-      "headline": "Professional Trade Show Booth Design | Event Branding & Booth Construction | AenfiniteÂ®",
+      "headline": "Professional Trade Show Booth Design | Event Branding & Booth Construction | Aenfinite®",
       "keywords": "Trade Show Booth Design, Exhibition Displays, Booth Construction, Event Branding, Trade Show Marketing, Event Design",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
-      "name": "Professional Trade Show Booth Design | Event Branding & Booth Construction | AenfiniteÂ®",
+      "description": "Aenfinite® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
+      "name": "Professional Trade Show Booth Design | Event Branding & Booth Construction | Aenfinite®",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg" },

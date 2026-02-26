@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® â€“ Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions",
-  description: "AenfiniteÂ® is a global Digitalagentur based in Colorado, offering Webdesign, UI/UX, Markengestaltung, SEO, Digitales Marketing, GeschÃ¤ftsautomatisierung, and AI-powered solutions for modern brands worldwide.",
+  title: "Aenfinite® – Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions",
+  description: "Aenfinite® is a global Digitalagentur based in Colorado, offering Webdesign, UI/UX, Markengestaltung, SEO, Digitales Marketing, Geschäftsautomatisierung, and AI-powered solutions for modern brands worldwide.",
   keywords: "Digitalagentur, web design, branding, SEO, AI solutions, digital marketing, business automation, UI-UX-Design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"AenfiniteÂ® â€“ Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions","description":"AenfiniteÂ® delivers world-class Webdesign, Markengestaltung, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/de/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® â€“ Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions","description":"AenfiniteÂ® is a creative Digitalagentur offering Webdesign, Markengestaltung, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions","description":"Aenfinite® delivers world-class Webdesign, Markengestaltung, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/de/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions","description":"Aenfinite® is a creative Digitalagentur offering Webdesign, Markengestaltung, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -813,16 +813,16 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 MarkenidentitÃ¤t" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Markenidentität" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 â€“ MarkenidentitÃ¤t & Logo Collection</div>
+                <div class="card-name">CycleThe6 – Markenidentität & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>MarkenidentitÃ¤t</li>
+                        <li>Markenidentität</li>
                         <li>Logodesign</li>
                         <li>Sport-Markengestaltung</li>
                     </ul>
@@ -843,12 +843,12 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume â€“ Luxury Fragrance Markengestaltung</div>
+                <div class="card-name">Muskfume – Luxury Fragrance Markengestaltung</div>
                 <div class="card-tags">
                     <ul>
                         <li>Luxus-Markengestaltung</li>
-                        <li>SchÃ¶nheit und Kosmetik</li>
-                        <li>DuftidentitÃ¤t</li>
+                        <li>Schönheit und Kosmetik</li>
+                        <li>Duftidentität</li>
                     </ul>
                 </div>
             </div>
@@ -867,7 +867,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil â€“ AI Trading Platform & Technology Innovation</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology Innovation</div>
                 <div class="card-tags">
                     <ul>
                         <li>KI-Plattform</li>
@@ -891,11 +891,11 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Blue Vine Marketing â€“ Professional Business Platform</div>
+                <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketingplattform</li>
-                        <li>GeschÃ¤ftsentwicklung</li>
+                        <li>Geschäftsentwicklung</li>
                         <li>Professionelles Markengestaltung</li>
                     </ul>
                 </div>
@@ -915,7 +915,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">HusnOhaya â€“ E-commerce Platform & Shopping Solution</div>
+                <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>E-Commerce-Entwicklung</li>
@@ -933,18 +933,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros AlgorithmuslÃ¶sungen" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros Algorithmuslösungen" loading="lazy" decoding="async" />
                 <span>Projekt ansehen</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros â€“ AlgorithmuslÃ¶sungen & Technologie-Markengestaltung</div>
+                <div class="card-name">AlgoPros – Algorithmuslösungen & Technologie-Markengestaltung</div>
                 <div class="card-tags">
                     <ul>
                         <li>Technologie-Markengestaltung</li>
-                        <li>AlgorithmuslÃ¶sungen</li>
-                        <li>Startup-IdentitÃ¤t</li>
+                        <li>Algorithmuslösungen</li>
+                        <li>Startup-Identität</li>
                     </ul>
                 </div>
             </div>
@@ -963,7 +963,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AfroPop â€“ Collaboration Platform & Social Network</div>
+                <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
                         <li>Soziale Plattform</li>
@@ -987,7 +987,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech â€“ Marketingplattform & SaaS Solution</div>
+                <div class="card-name">KhaTech – Marketingplattform & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
@@ -1011,7 +1011,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI â€“ Compliance Dienstleistungen & Corporate Identity</div>
+                <div class="card-name">AM-KI – Compliance Dienstleistungen & Corporate Identity</div>
                 <div class="card-tags">
                     <ul>
                         <li>Corporate Identity</li>
@@ -1035,7 +1035,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick â€“ Kreatives Markengestaltung & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – Kreatives Markengestaltung & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
                         <li>Kreatives Markengestaltung</li>
@@ -1699,7 +1699,9 @@ var currentdate = new Date();
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 	<!-- Email Subscription Form Handler -->
 	<script src="/darkmode/email-subscription.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -1713,7 +1715,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
@@ -1726,7 +1728,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"de-DE"
     },
@@ -1734,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ® â€“ Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions",
-      "description": "AenfiniteÂ® is a global Digitalagentur offering creative Webdesign, UI/UX, Markengestaltung, SEO, Digitales Marketing, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital Agentur for Webdesign, Markengestaltung, SEO & AI Solutions",
+      "description": "Aenfinite® is a global Digitalagentur offering creative Webdesign, UI/UX, Markengestaltung, SEO, Digitales Marketing, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"de-DE",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

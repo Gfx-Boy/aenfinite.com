@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Complete Design & DÃ©veloppement Portfolio | All RÃ©alisations | AenfiniteÂ®",
+  title: "Complete Design & Développement Portfolio | All Réalisations | Aenfinite®",
   description: "Explore Aenfinite",
   keywords: "all projects, complete portfolio, design work, development projects, branding projects, app projects, Aenfinite case studies",
   alternates: { canonical: "https://aenfinite.com/fr/work/all/", languages: {"x-default":"https://aenfinite.com/work/all/","en":"https://aenfinite.com/work/all/","es":"https://aenfinite.com/es/work/all/","fr":"https://aenfinite.com/fr/work/all/","de":"https://aenfinite.com/de/work/all/","it":"https://aenfinite.com/it/work/all/","ar":"https://aenfinite.com/ar/work/all/","pt":"https://aenfinite.com/pt/work/all/","zh":"https://aenfinite.com/zh/work/all/","hi":"https://aenfinite.com/hi/work/all/","nl":"https://aenfinite.com/nl/work/all/","ja":"https://aenfinite.com/ja/work/all/","ko":"https://aenfinite.com/ko/work/all/"} },
-  openGraph: {"title":"Complete Design & DÃ©veloppement Portfolio | All RÃ©alisations | AenfiniteÂ®","description":"Explore Aenfinite","url":"https://aenfinite.com/fr/work/all/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Complete Design & DÃ©veloppement Portfolio | All RÃ©alisations | AenfiniteÂ®","description":"Explore Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Complete Design & Développement Portfolio | All Réalisations | Aenfinite®","description":"Explore Aenfinite","url":"https://aenfinite.com/fr/work/all/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Complete Design & Développement Portfolio | All Réalisations | Aenfinite®","description":"Explore Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -725,7 +725,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency">Agence</a>
@@ -734,35 +734,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions de DÃ©veloppement â€º</a>
+                                        <a href="#">Solutions de Développement â€º</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Services de Design et CrÃ©ation â€º</a>
+                                        <a href="#">Services de Design et Création â€º</a>
                                         <ul class="sub-menu">
                                             <li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-                                            <li><a href="/fr/services/custom-web-development/">DÃ©veloppement Web Sur Mesure</a></li>
-                                            <li><a href="/fr/services/e-commerce-websites/">DÃ©veloppement E-commerce</a></li>
+                                            <li><a href="/fr/services/custom-web-development/">Développement Web Sur Mesure</a></li>
+                                            <li><a href="/fr/services/e-commerce-websites/">Développement E-commerce</a></li>
                                             <li><a href="/fr/services/web-design/">Responsive Conception Web</a></li>
-                                            <li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Plateformes</a></li>
-                                            <li><a href="/fr/services/app-development/">Mobile DÃ©veloppement d'Applications</a></li>
+                                            <li><a href="/fr/services/software-&-platform-development/">Développement de Plateformes</a></li>
+                                            <li><a href="/fr/services/app-development/">Mobile Développement d'Applications</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Solutions Marketing et Digitales â€º</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+                                            <li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
                                             <li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-                                            <li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-                                            <li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+                                            <li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+                                            <li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
                                             
                                         </ul>
                                     </li>
@@ -905,7 +905,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -937,7 +937,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section fade-in-delay-1">
 				<div class="wrapper">
 					<div class="textbox-content normaltext">
-						<h1><strong>Complete Design & DÃ©veloppement Portfolio - All RÃ©alisations</strong></h1>
+						<h1><strong>Complete Design & Développement Portfolio - All Réalisations</strong></h1>
 <p>Discover Aenfinite's comprehensive portfolio showcasing our expertise across all design and development disciplines. From innovative branding and web design to mobile applications, packaging design, digital marketing campaigns, e-commerce solutions, UI/UX design, and custom development projects. We deliver end-to-end creative and technical solutions that transform brands, engage audiences, and drive business growth across every industry and platform.</p>
 					</div>
 				</div>
@@ -946,11 +946,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		<div class="section fade-in-delay-2" style="margin-top:0!important;">
 			<div class="wrapper">
-				<ul id="menu-work-page-categories-filter" class="projects-nav"><li id="menu-item-3197" class="menu-item projects-nav_item menu-item-object-category active menu-item-3197"><a href="/fr/work/all/" aria-current="page">All RÃ©alisations</a></li>
-<li id="menu-item-3730" class="menu-item menu-item-type-post_type projects-nav_item menu-item-3730"><a href="/fr/featured-work/">RÃ©alisations en Vedette</a></li>
+				<ul id="menu-work-page-categories-filter" class="projects-nav"><li id="menu-item-3197" class="menu-item projects-nav_item menu-item-object-category active menu-item-3197"><a href="/fr/work/all/" aria-current="page">All Réalisations</a></li>
+<li id="menu-item-3730" class="menu-item menu-item-type-post_type projects-nav_item menu-item-3730"><a href="/fr/featured-work/">Réalisations en Vedette</a></li>
 <li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="../branding/">Image de Marque</a></li>
-<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="../web-design-&-development/">Conception Web and DÃ©veloppement</a></li>
-<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">CrÃ©ation de Logo</a></li>
+<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="../web-design-&-development/">Conception Web and Développement</a></li>
+<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">Création de Logo</a></li>
 <li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="../graphic-design/">Design Graphique</a></li>
 <li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="../packaging-design/">Design d'Emballage</a></li>
 <li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="../mobile-apps/">Applications Mobiles</a></li>
@@ -968,10 +968,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="#">Corporate Image de Marque & Identity Design</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
-									<div class="preview-name"><a href="../branding/">IdentitÃ© de Marque</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
+									<div class="preview-name"><a href="../branding/">Identité de Marque</a></div>
 									<div class="preview-name"><a href="../branding/">Corporate Image de Marque</a></div>
-									<div class="preview-name"><a href="../logo-design/">CrÃ©ation de Logo</a></div>
+									<div class="preview-name"><a href="../logo-design/">Création de Logo</a></div>
 								</div>
 							</div>
 						</div>
@@ -980,16 +980,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="Booth-Mockup.webp" alt="E-commerce Website DÃ©veloppement" class="cover" loading="lazy" decoding="async" />
+									<img src="Booth-Mockup.webp" alt="E-commerce Website Développement" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
 								<div class="preview-content" data-index="02">
 									<div class="preview-name preview-name__caption">
-										<a href="#">E-commerce Website DÃ©veloppement</a>
+										<a href="#">E-commerce Website Développement</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
-									<div class="preview-name"><a href="../web-design-&-development/">DÃ©veloppement Web</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
+									<div class="preview-name"><a href="../web-design-&-development/">Développement Web</a></div>
 									<div class="preview-name"><a href="../web-design-&-development/">E-commerce Design</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Design UI/UX</a></div>
 								</div>
@@ -1000,18 +1000,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="mockup.webp" alt="Application Mobile Design & DÃ©veloppement" class="cover" loading="lazy" decoding="async" />
+									<img src="mockup.webp" alt="Application Mobile Design & Développement" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
 								<div class="preview-content" data-index="03">
 									<div class="preview-name preview-name__caption">
-										<a href="#">Application Mobile Design & DÃ©veloppement</a>
+										<a href="#">Application Mobile Design & Développement</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
 									<div class="preview-name"><a href="../mobile-apps/">Applications Mobiles</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">App Design</a></div>
-									<div class="preview-name"><a href="../app-development/">DÃ©veloppement d'Applications</a></div>
+									<div class="preview-name"><a href="../app-development/">Développement d'Applications</a></div>
 								</div>
 							</div>
 						</div>
@@ -1028,7 +1028,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="#">Marketing Digital Campaign Design</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
 									<div class="preview-name"><a href="../digital-marketing/">Marketing Digital</a></div>
 									<div class="preview-name"><a href="../graphic-design/">Campaign Design</a></div>
 									<div class="preview-name"><a href="../social-media-design/">Social Media</a></div>
@@ -1048,7 +1048,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="#">Luxury Product Design d'Emballage</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
 									<div class="preview-name"><a href="../packaging-design/">Luxury Emballage</a></div>
 									<div class="preview-name"><a href="../packaging-design/">Product Design</a></div>
 									<div class="preview-name"><a href="../branding/">Premium Image de Marque</a></div>
@@ -1060,17 +1060,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="cyclethe6-logo-01.webp" alt="Custom DÃ©veloppement Logiciel Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="cyclethe6-logo-01.webp" alt="Custom Développement Logiciel Platform" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Voir la collection (8 images)									</div>
 								</div>
 								<div class="preview-content" data-index="06">
 									<div class="preview-name preview-name__caption">
-										<a href="#">Custom DÃ©veloppement Logiciel Platform</a>
+										<a href="#">Custom Développement Logiciel Platform</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
-									<div class="preview-name"><a href="../software-&-platform-development/">DÃ©veloppement Logiciel</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">DÃ©veloppement Sur Mesure</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
+									<div class="preview-name"><a href="../software-&-platform-development/">Développement Logiciel</a></div>
+									<div class="preview-name"><a href="../custom-web-development/">Développement Sur Mesure</a></div>
 									<div class="preview-name"><a href="../ui-ux-design/">Platform Design</a></div>
 								</div>
 							</div>
@@ -1098,7 +1098,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="#">Motion Design & Video Production</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
 									<div class="preview-name"><a href="../motion-graphics/">Motion Design</a></div>
 									<div class="preview-name"><a href="../video-production/">Video Production</a></div>
 									<div class="preview-name"><a href="../branding/">Visual Image de Marque</a></div>
@@ -1125,7 +1125,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview-name preview-name__caption">
 										<a href="../algopros/">Design d'Impression & Supports Marketing</a>
 									</div>
-									<div class="preview-name"><a href="">All RÃ©alisations</a></div>
+									<div class="preview-name"><a href="">All Réalisations</a></div>
 									<div class="preview-name"><a href="../print-design/">Design d'Impression</a></div>
 									<div class="preview-name"><a href="../graphic-design/">Supports Marketing</a></div>
 									<div class="preview-name"><a href="../branding/">Supports de Marque</a></div>
@@ -1183,7 +1183,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/web-design/" class="redlink">
@@ -1193,24 +1193,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">Image de Marque et CrÃ©ation de Logo</div>
+								<div class="service-caption js-service-caption">Image de Marque et Création de Logo</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">IdentitÃ© de Marque</a>
+													<a href="/fr/services/branding/" class="chip-label">Identité de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/logo-design/" class="chip-label">CrÃ©ation de Logo</a>
+													<a href="/fr/services/logo-design/" class="chip-label">Création de Logo</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">StratÃ©gie de Marque</a>
+													<a href="/fr/services/branding/" class="chip-label">Stratégie de Marque</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/branding/" class="chip-label">Charte Graphique</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/branding/" class="chip-label">IdentitÃ© Corporate</a>
+													<a href="/fr/services/branding/" class="chip-label">Identité Corporate</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/branding/" class="chip-label">Rebranding</a>
@@ -1219,8 +1219,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/branding/" class="redlink">
@@ -1241,13 +1241,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/fr/services/search-engine-optimization/" class="chip-label">Marketing par E-mail</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/paid-ads/" class="chip-label">PublicitÃ© Payante</a>
+													<a href="/fr/services/paid-ads/" class="chip-label">Publicité Payante</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/Pay-per-click/" class="chip-label">Campagnes PPC</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/social-media-marketing/" class="chip-label">Marketing sur les RÃ©seaux Sociaux</a>
+													<a href="/fr/services/social-media-marketing/" class="chip-label">Marketing sur les Réseaux Sociaux</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/digital-marketing/" class="chip-label">Marketing de Contenu</a>
@@ -1270,7 +1270,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/e-commerce-websites/" class="chip-label">DÃ©veloppement Shopify</a>
+													<a href="/fr/services/e-commerce-websites/" class="chip-label">Développement Shopify</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">WooCommerce</a>
@@ -1279,7 +1279,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">Boutiques en Ligne</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/e-commerce-websites/" class="chip-label">IntÃ©gration de Paiement</a>
+													<a href="/fr/services/e-commerce-websites/" class="chip-label">Intégration de Paiement</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/e-commerce-websites/" class="chip-label">Catalogues de Produits</a>
@@ -1308,10 +1308,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/fr/services/wordpress-websites/" class="chip-label">WordPress Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/wordpress-websites/" class="chip-label">DÃ©veloppement de ThÃ¨mes</a>
+													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de ThÃ¨mes</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/wordpress-websites/" class="chip-label">DÃ©veloppement de Plugins</a>
+													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de Plugins</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/wordpress-websites/" class="chip-label">Solutions CMS</a>
@@ -1335,7 +1335,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement d'Applications</div>
+								<div class="service-caption js-service-caption">Développement d'Applications</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
@@ -1360,7 +1360,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile dÃ©veloppement d'applications and success.</p>
+										<p>Turn your innovative ideas into powerful mobile applications that engage users and drive business growth. Our expert development team creates native and cross-platform apps with stunning user interfaces and robust functionality. From concept to App Store launch, we guide  businesses through every step of mobile développement d'applications and success.</p>
 									</div>
 									<div class="service-action">
 										<a href="/fr/services/app-development/" class="redlink">
@@ -1395,7 +1395,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1414,10 +1414,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">Ã‰tiquette de Marque</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Étiquette de Marque</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">Ã‰tiquette de Produit</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Étiquette de Produit</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/packaging-design/" class="chip-label">Alimentation et Boissons</a>
@@ -1427,7 +1427,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/fr/services/packaging-design/" class="chip-label">Maquettes 3D</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/packaging-design/" class="chip-label">PrÃªt pour la Vente</a>
+													<a href="/fr/services/packaging-design/" class="chip-label">Prêt pour la Vente</a>
 												</div>
 																					</div>
 									</div>
@@ -1444,15 +1444,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 							</div>
 													<div class="service  js-service">
-								<div class="service-caption js-service-caption">DÃ©veloppement Sur Mesure</div>
+								<div class="service-caption js-service-caption">Développement Sur Mesure</div>
 								<div class="service-content js-service-content">
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="/fr/services/custom-web-development/" class="chip-label">DÃ©veloppement Web Sur Mesure</a>
+													<a href="/fr/services/custom-web-development/" class="chip-label">Développement Web Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/software-&-platform-development/" class="chip-label">DÃ©veloppement Logiciel</a>
+													<a href="/fr/services/software-&-platform-development/" class="chip-label">Développement Logiciel</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation Commerciale</a>
@@ -1461,7 +1461,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/fr/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots IA</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/custom-web-development/" class="chip-label">DÃ©veloppement de Plateformes</a>
+													<a href="/fr/services/custom-web-development/" class="chip-label">Développement de Plateformes</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation des Processus</a>
@@ -1515,7 +1515,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="IdentitÃ© de Marque & CrÃ©ation de Logo" id="brand-identity" /><label for="brand-identity" class="list-item-label">IdentitÃ© de Marque & CrÃ©ation de Logo</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web & DÃ©veloppement" id="web-development" /><label for="web-development" class="list-item-label">Conception Web & DÃ©veloppement</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile DÃ©veloppement d'Applications" id="mobile-apps" /><label for="mobile-apps" class="list-item-label">Mobile DÃ©veloppement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce Solutions" id="ecommerce" /><label for="ecommerce" class="list-item-label">E-commerce Solutions</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux" /><label for="ui-ux" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Design d'Emballage" id="packaging" /><label for="packaging" class="list-item-label">Design d'Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Custom DÃ©veloppement Logiciel" id="software-dev" /><label for="software-dev" class="list-item-label">Custom DÃ©veloppement Logiciel</label></span><span class="list-item"><input type="checkbox" name="services" value="Motion Design & Video" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">Motion Design & Video</label></span><span class="list-item last"><input type="checkbox" name="services" value="Design d'Impression & Supports Marketing" id="print-design" /><label for="print-design" class="list-item-label">Design d'Impression & Supports Marketing</label></span></span></span>
+		<strong>Je suis intéressé par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Identité de Marque & Création de Logo" id="brand-identity" /><label for="brand-identity" class="list-item-label">Identité de Marque & Création de Logo</label></span><span class="list-item"><input type="checkbox" name="services" value="Conception Web & Développement" id="web-development" /><label for="web-development" class="list-item-label">Conception Web & Développement</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile Développement d'Applications" id="mobile-apps" /><label for="mobile-apps" class="list-item-label">Mobile Développement d'Applications</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce Solutions" id="ecommerce" /><label for="ecommerce" class="list-item-label">E-commerce Solutions</label></span><span class="list-item"><input type="checkbox" name="services" value="Design UI/UX" id="ui-ux" /><label for="ui-ux" class="list-item-label">Design UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Marketing Digital</label></span><span class="list-item"><input type="checkbox" name="services" value="Design d'Emballage" id="packaging" /><label for="packaging" class="list-item-label">Design d'Emballage</label></span><span class="list-item"><input type="checkbox" name="services" value="Custom Développement Logiciel" id="software-dev" /><label for="software-dev" class="list-item-label">Custom Développement Logiciel</label></span><span class="list-item"><input type="checkbox" name="services" value="Motion Design & Video" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">Motion Design & Video</label></span><span class="list-item last"><input type="checkbox" name="services" value="Design d'Impression & Supports Marketing" id="print-design" /><label for="print-design" class="list-item-label">Design d'Impression & Supports Marketing</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Indiquez votre budget approximatif" value="" readonly name="budget" />
@@ -1571,7 +1571,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1584,7 +1584,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
@@ -1669,7 +1669,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
@@ -1685,14 +1685,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2280,8 +2280,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2828,7 +2828,9 @@ document.addEventListener('DOMContentLoaded', function() {
 			});
 		});
 	</script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2842,7 +2844,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/aenfinitee",
@@ -2855,8 +2857,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Complete Design & DÃ©veloppement Studio",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Complete Design & Développement Studio",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2872,7 +2874,7 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/work/all/", "name": "All RÃ©alisations" }
+          "item": { "@id": "https://aenfinite.com/work/all/", "name": "All Réalisations" }
         }
       ]
     },
@@ -2880,7 +2882,7 @@ export default function Page() {
       "@type": "CollectionPage",
       "@id": "https://aenfinite.com/work/all/#webpage",
       "url": "https://aenfinite.com/work/all/",
-      "name": "Complete Design & DÃ©veloppement Portfolio | AenfiniteÂ®",
+      "name": "Complete Design & Développement Portfolio | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": { "@id": "https://aenfinite.com/work/all/#breadcrumb" },
       "inLanguage":"fr-FR"
@@ -2904,13 +2906,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "RÃ©alisations",
+      "name": "Réalisations",
       "item": "https://aenfinite.com/work/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Complete Design & DÃ©veloppement Portfolio",
+      "name": "Complete Design & Développement Portfolio",
       "item": "https://aenfinite.com/work/all/"
     }
   ]

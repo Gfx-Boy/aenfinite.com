@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
+  title: "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | Aenfinite®",
+  description: "Aenfinite® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
   keywords: "digital marketing, social media marketing, content marketing, email marketing, online marketing, digital advertising, brand management, marketing strategy, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/digital-marketing/", languages: {"x-default":"https://aenfinite.com/services/digital-marketing/","en":"https://aenfinite.com/services/digital-marketing/","es":"https://aenfinite.com/es/services/digital-marketing/","fr":"https://aenfinite.com/fr/services/digital-marketing/","de":"https://aenfinite.com/de/services/digital-marketing/","it":"https://aenfinite.com/it/services/digital-marketing/","ar":"https://aenfinite.com/ar/services/digital-marketing/","pt":"https://aenfinite.com/pt/services/digital-marketing/","zh":"https://aenfinite.com/zh/services/digital-marketing/","hi":"https://aenfinite.com/hi/services/digital-marketing/","nl":"https://aenfinite.com/nl/services/digital-marketing/","ja":"https://aenfinite.com/ja/services/digital-marketing/","ko":"https://aenfinite.com/ko/services/digital-marketing/"} },
-  openGraph: {"title":"Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | AenfiniteÂ®","description":"AenfiniteÂ® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.com/fr/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | AenfiniteÂ®","description":"AenfiniteÂ® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | Aenfinite®","description":"Aenfinite® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.com/fr/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | Aenfinite®","description":"Aenfinite® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement â€º</a>
+										<a href="#">Solutions de Développement â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation â€º</a>
+										<a href="#">Services de Design et Création â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1354,7 +1354,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="js-runner-content">
 													<div class="marquee-line">
     <span class="marquee-line_text">Expert Marketing Digital Services</span>
-    <span class="marquee-line_text">Marketing sur les RÃ©seaux Sociaux, Content & Email Campaigns</span>
+    <span class="marquee-line_text">Marketing sur les Réseaux Sociaux, Content & Email Campaigns</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
     <span class="marquee-line_text">Specialists in Organic Rankings & Search Visibility</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Digital Results</span>
@@ -1449,7 +1449,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Marketing sur les RÃ©seaux Sociaux" id="social-media-marketing" /><label for="social-media-marketing" class="list-item-label">Marketing sur les RÃ©seaux Sociaux</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing de Contenu Strategy" id="content-marketing" /><label for="content-marketing" class="list-item-label">Marketing de Contenu Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing par E-mail Campaigns" id="email-marketing" /><label for="email-marketing" class="list-item-label">Marketing par E-mail Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Online Brand Management" id="brand-management" /><label for="brand-management" class="list-item-label">Online Brand Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital Analytics" id="digital-analytics" /><label for="digital-analytics" class="list-item-label">Marketing Digital Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Social Media Advertising" id="social-advertising" /><label for="social-advertising" class="list-item-label">Social Media Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Influencer Marketing" id="influencer-marketing" /><label for="influencer-marketing" class="list-item-label">Influencer Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Campaign Management" id="campaign-management" /><label for="campaign-management" class="list-item-label">Digital Campaign Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital Consultation" id="digital-consultation" /><label for="digital-consultation" class="list-item-label">Marketing Digital Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre Marketing Digital Services" id="other" /><label for="other" class="list-item-label">Autre Marketing Digital Services</label></span></span></span>
+		<strong>Je suis intéressé par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Marketing sur les Réseaux Sociaux" id="social-media-marketing" /><label for="social-media-marketing" class="list-item-label">Marketing sur les Réseaux Sociaux</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing de Contenu Strategy" id="content-marketing" /><label for="content-marketing" class="list-item-label">Marketing de Contenu Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing par E-mail Campaigns" id="email-marketing" /><label for="email-marketing" class="list-item-label">Marketing par E-mail Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Online Brand Management" id="brand-management" /><label for="brand-management" class="list-item-label">Online Brand Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital Analytics" id="digital-analytics" /><label for="digital-analytics" class="list-item-label">Marketing Digital Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Social Media Advertising" id="social-advertising" /><label for="social-advertising" class="list-item-label">Social Media Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Influencer Marketing" id="influencer-marketing" /><label for="influencer-marketing" class="list-item-label">Influencer Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Campaign Management" id="campaign-management" /><label for="campaign-management" class="list-item-label">Digital Campaign Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Marketing Digital Consultation" id="digital-consultation" /><label for="digital-consultation" class="list-item-label">Marketing Digital Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre Marketing Digital Services" id="other" /><label for="other" class="list-item-label">Autre Marketing Digital Services</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Indiquez votre budget approximatif" value="" readonly name="budget" />
@@ -1536,7 +1536,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">Marketing sur les RÃ©seaux Sociaux</div> 						
+        <div class="pane-title">Marketing sur les Réseaux Sociaux</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Build brand awareness and engage your audience across platforms like Instagram, Facebook, LinkedIn, and TikTok. We craft tailored strategies, creative content, and targeted campaigns to grow followers, generate leads, and foster brand loyalty.
@@ -1612,7 +1612,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Marketing Digital</span> is the perfect blend of creative content strategy and data-driven campaign management. RÃ©alisations with a team that excels at both building brand awareness and delivering exceptional digital marketing performance.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Marketing Digital</span> is the perfect blend of creative content strategy and data-driven campaign management. Réalisations with a team that excels at both building brand awareness and delivering exceptional digital marketing performance.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1630,9 +1630,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div>
                     <div class="service-list js-service-container fadein js-aos">
 
-                        <!-- Marketing sur les RÃ©seaux Sociaux -->
+                        <!-- Marketing sur les Réseaux Sociaux -->
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Marketing sur les RÃ©seaux Sociaux</div>
+                            <div class="service-caption js-service-caption">Marketing sur les Réseaux Sociaux</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -1698,9 +1698,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             </div>
                         </div>
 
-                        <!-- PublicitÃ© Payante -->
+                        <!-- Publicité Payante -->
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">PublicitÃ© Payante (PPC)</div>
+                            <div class="service-caption js-service-caption">Publicité Payante (PPC)</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -1785,7 +1785,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1798,7 +1798,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -1886,7 +1886,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -1902,14 +1902,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2147,8 +2147,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2293,7 +2293,9 @@ document.addEventListener('keydown', function(event) {
 	
 	<!-- Universal Button and Checkbox Highlighting Script -->
 	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2307,7 +2309,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2319,8 +2321,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - SEO & Marketing Digital Agence",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - SEO & Marketing Digital Agence",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2330,7 +2332,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Brand - Marketing Digital Agence",
+      "caption": "Aenfinite® Brand - Marketing Digital Agence",
       "inLanguage":"fr-FR"
     },
     {
@@ -2346,7 +2348,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/digital-marketing/#webpage",
       "url": "https://aenfinite.com/services/digital-marketing/",
-      "name": "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | AenfiniteÂ®",
+      "name": "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2356,13 +2358,13 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | AenfiniteÂ®",
+      "headline": "Expert Marketing Digital Services | Social Media, Content & Marketing par E-mail | Aenfinite®",
       "keywords": "Marketing Digital, Social Media, Marketing par E-mail, Content Strategy, Online Image de Marque, Marketing Agence",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "description": "AenfiniteÂ® delivers expert digital marketing solutions â€” from social media management and content marketing to email automation and branding strategies designed for growth.",
+      "description": "Aenfinite® delivers expert digital marketing solutions — from social media management and content marketing to email automation and branding strategies designed for growth.",
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage":"fr-FR",
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/digital-marketing/#webpage" }

@@ -5,11 +5,11 @@ import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite",
-  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives transformaciÃ³n digital and business growth.",
-  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, transformaciÃ³n digital, Aenfinite",
+  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives transformación digital and business growth.",
+  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, transformación digital, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/es/services/software-and-platform-development/", languages: {"x-default":"https://aenfinite.com/services/software-and-platform-development/","en":"https://aenfinite.com/services/software-and-platform-development/","es":"https://aenfinite.com/es/services/software-and-platform-development/","fr":"https://aenfinite.com/fr/services/software-and-platform-development/","de":"https://aenfinite.com/de/services/software-and-platform-development/","it":"https://aenfinite.com/it/services/software-and-platform-development/","ar":"https://aenfinite.com/ar/services/software-and-platform-development/","pt":"https://aenfinite.com/pt/services/software-and-platform-development/","zh":"https://aenfinite.com/zh/services/software-and-platform-development/","hi":"https://aenfinite.com/hi/services/software-and-platform-development/","nl":"https://aenfinite.com/nl/services/software-and-platform-development/","ja":"https://aenfinite.com/ja/services/software-and-platform-development/","ko":"https://aenfinite.com/ko/services/software-and-platform-development/"} },
-  openGraph: {"title":"Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable desarrollo de aplicaciones, we power transformaciÃ³n digital.","url":"https://aenfinite.com/es/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for transformaciÃ³n digital.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable desarrollo de aplicaciones, we power transformación digital.","url":"https://aenfinite.com/es/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for transformación digital.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1121,17 +1121,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>									</ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+										<a href="#">Servicios de Diseño y Creatividad â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-											<li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+											<li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
 											
-											<li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
 									</li>
@@ -1139,7 +1139,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Soluciones de Marketing y Digitales â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-											<li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
 											<li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
 
@@ -1148,14 +1148,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+										<a href="#">Soluciones de IA y Tecnología â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-											<li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -1274,7 +1274,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1314,7 +1314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="header-wrapper">
                   				<div class="title title__main js-header-title">
 					<h1>
-						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Desarrollo</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives transformaciÃ³n digital.</span>
+						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Desarrollo</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives transformación digital.</span>
 													
 											</h1>
 									</div>
@@ -1354,7 +1354,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div class="marquee-line">
     <span class="marquee-line_text">Professional Desarrollo de Software y Plataformas Servicios</span>
     <span class="marquee-line_text">Enterprise Architecture, System Integration & Optimization</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
     <span class="marquee-line_text">Specialists in Software Performance & Experiencia de Usuario</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Software Soluciones de Desarrollo</span>
     <span class="marquee-line_text">High-Performance Desarrollo de Software & Security</span>
@@ -1426,7 +1426,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
 																																		<div class="preview-name">Business Software</div>
 																							<div class="preview-name">CRM Integration</div>
-																							<div class="preview-name">AutomatizaciÃ³n de Flujos de Trabajo</div>
+																							<div class="preview-name">Automatización de Flujos de Trabajo</div>
 																							<div class="preview-name">Lead Management</div>
 																							<div class="preview-name">Analytics Platform</div>
 																					</div>
@@ -1448,7 +1448,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Neural Platform</a></div>
 																																		<div class="preview-name">Neural Software</div>
 																							<div class="preview-name">AI Integration</div>
-																							<div class="preview-name">AnÃ¡lisis de Datos</div>
+																							<div class="preview-name">Análisis de Datos</div>
 																							<div class="preview-name">Machine Learning</div>
 																							<div class="preview-name">Platform Architecture</div>
 																					</div>
@@ -1513,7 +1513,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional Desarrollo de Software y Plataformas services that create powerful, scalable enterprise solutions and drive transformaciÃ³n digital. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Desarrollo de Software y Plataformas services that create powerful, scalable enterprise solutions and drive transformación digital. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/es/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1622,7 +1622,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Business Software</div>
 																					<div class="preview-name">CRM Integration</div>
-																					<div class="preview-name">AutomatizaciÃ³n de Flujos de Trabajo</div>
+																					<div class="preview-name">Automatización de Flujos de Trabajo</div>
 																					<div class="preview-name">Lead Management</div>
 																					<div class="preview-name">Analytics Platform</div>
 											
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</div>
 																					<div class="preview-name">Neural Software</div>
 																					<div class="preview-name">AI Integration</div>
-																					<div class="preview-name">AnÃ¡lisis de Datos</div>
+																					<div class="preview-name">Análisis de Datos</div>
 																					<div class="preview-name">Machine Learning</div>
 																					<div class="preview-name">Platform Architecture</div>
 											
@@ -1722,7 +1722,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrÃ³nico*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrónico*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your software or platform project" value="" type="text" name="text-tell-project" />
@@ -1753,8 +1753,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<label for="cloud-platform" class="list-item-label">Cloud Platform Solutions</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="DiseÃ±o UI/UX for Platforms" id="uiux-platform" />
-					<label for="uiux-platform" class="list-item-label">DiseÃ±o UI/UX for Platforms</label>
+					<input type="checkbox" name="services" value="Diseño UI/UX for Platforms" id="uiux-platform" />
+					<label for="uiux-platform" class="list-item-label">Diseño UI/UX for Platforms</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="System Modernization & Migration" id="system-migration" />
@@ -1768,7 +1768,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="CuÃ©ntanos tu presupuesto aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Cuéntanos tu presupuesto aproximado" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="select-option js-select-option">de $500 a $5,000</div>
 				<div class="select-option js-select-option">de $5,000 a $20,000</div>
 				<div class="select-option js-select-option">de $20,000 a $50,000</div>
-				<div class="select-option js-select-option">mÃ¡s de $100,000</div>
+				<div class="select-option js-select-option">más de $100,000</div>
 			</div>
 		</div>
 	</div>
@@ -1908,7 +1908,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <span>Architecture Planning</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-2">
-                            <p>Our architects design the most efficient and scalable system architecture, defining database schemas, API structures, technology stack, and security measures to support your softwareâ€™s future growth.</p>
+                            <p>Our architects design the most efficient and scalable system architecture, defining database schemas, API structures, technology stack, and security measures to support your software's future growth.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
                             <span>Project Strategy</span>
@@ -1922,7 +1922,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">DiseÃ±o UI/UX</div>
+                    <div class="nlist-caption">Diseño UI/UX</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
                             <span>Wireframing & Prototyping</span>
@@ -2013,7 +2013,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Desarrollo de Software y Plataformas</span> is the perfect blend of technical innovation and strategic planning. Portafolio with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and transformaciÃ³n digital.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Desarrollo de Software y Plataformas</span> is the perfect blend of technical innovation and strategic planning. Portafolio with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and transformación digital.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2041,7 +2041,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Cloud Applications</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">APIs</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Microservices</a></div>
-                                        <div class="chip"><a href="/es/contact/" class="chip-label">AutomatizaciÃ³n</a></div>
+                                        <div class="chip"><a href="/es/contact/" class="chip-label">Automatización</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Custom Dashboards</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Scalable Architecture</a></div>
                                     </div>
@@ -2113,12 +2113,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <div class="chip"><a href="/es/contact/" class="chip-label">REST & GraphQL APIs</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Third-Party Integrations</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Webhooks</a></div>
-                                        <div class="chip"><a href="/es/contact/" class="chip-label">AutomatizaciÃ³n Scripts</a></div>
+                                        <div class="chip"><a href="/es/contact/" class="chip-label">Automatización Scripts</a></div>
                                         <div class="chip"><a href="/es/contact/" class="chip-label">Custom Plugins</a></div>
                                     </div>
                                 </div>
                                 <div class="service-text">
-                                    <p>Extend your softwareâ€™s capabilities with robust APIs, SDKs, and integrations that connect seamlessly with your ecosystem.</p>
+                                    <p>Extend your software's capabilities with robust APIs, SDKs, and integrations that connect seamlessly with your ecosystem.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
                                         <p><strong>We deliver:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2217,10 +2217,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">DiseÃ±o de Empaques</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Diseño de Empaques</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2230,7 +2230,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -2239,7 +2239,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">DirecciÃ³n</div>
+								<div class="footer-col_caption">Dirección</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2302,7 +2302,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -2310,14 +2310,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2556,7 +2556,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2622,7 +2622,7 @@ document.addEventListener('keydown', function(event) {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2689,7 +2689,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2703,7 +2705,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2715,8 +2717,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Desarrollo de Software Agencia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Desarrollo de Software Agencia",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"es-ES"
     },
@@ -2733,7 +2735,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage",
       "url": "https://aenfinite.com/services/software-and-platform-development/",
-      "name": "Professional Desarrollo de Software y Plataformas | Enterprise Solutions | AenfiniteÂ®",
+      "name": "Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2744,10 +2746,10 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#richSnippet",
-      "headline": "Professional Desarrollo de Software y Plataformas | Enterprise Solutions | AenfiniteÂ®",
-      "description": "AenfiniteÂ® provides full-cycle software and platform development â€” from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
+      "headline": "Professional Desarrollo de Software y Plataformas | Enterprise Solutions | Aenfinite®",
+      "description": "Aenfinite® provides full-cycle software and platform development — from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
       "keywords": "Desarrollo de Software, Platform Architecture, Enterprise Solutions, SaaS Desarrollo, API Integration, Digital Transformation, System Architecture",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2787,7 +2789,7 @@ export default function Page() {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],

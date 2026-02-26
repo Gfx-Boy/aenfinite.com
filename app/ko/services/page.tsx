@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | AenfiniteÂ®",
-  description: "AenfiniteÂ® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
+  title: "Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | Aenfinite®",
+  description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, SEO ì„œë¹„ìŠ¤, ì•± ê°œë°œ, ë§žì¶¤í˜• ì›¹ ê°œë°œ, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
-  openGraph: {"title":"Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | AenfiniteÂ®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.com/ko/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | AenfiniteÂ®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | Aenfinite®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.com/ko/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | Aenfinite®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -897,7 +897,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
     <span class="marquee-line_text">UI/UX, SEO ë° ê·¸ë¡œìŠ¤ ë§ˆì¼€íŒ… ì „ë¬¸ê°€</span>
     <span class="marquee-line_text">ìŠ¤íƒ€íŠ¸ì—… ë° ê¸€ë¡œë²Œ ê¸°ì—…ì˜ ì‹ ë¢°ë¥¼ ë°›ëŠ” íŒŒíŠ¸ë„ˆ</span>
-    <span class="marquee-line_text">ìˆ™ë ¨ëœ íŒ€ â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">ìˆ™ë ¨ëœ íŒ€ – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">ì• ìžì¼ ë° ë°ì´í„° ê¸°ë°˜ ê°œë°œ í”„ë¡œì„¸ìŠ¤</span>
     <span class="marquee-line_text">ë™ë‚¨ì•„ì‹œì•„ì— ë¿Œë¦¬ë¥¼ ë‘” ê¸€ë¡œë²Œ ì—ì´ì „ì‹œ</span>
     <span class="marquee-line_text">í™•ìž¥ ê°€ëŠ¥í•œ ì†”ë£¨ì…˜ìœ¼ë¡œ ë¹„ì¦ˆë‹ˆìŠ¤ ê°•í™”</span>
@@ -1490,7 +1490,7 @@ from our clients</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2050,7 +2050,9 @@ document.addEventListener('keydown', function(event) {
 
 	<script src="/js/button-highlights.js"></script>
 
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2064,7 +2066,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2077,7 +2079,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "alternateName": "Aenfinite - ë””ì§€í„¸ í˜ì‹  ì—ì´ì „ì‹œ",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ko-KR"
@@ -2086,7 +2088,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/#webpage",
       "url": "https://aenfinite.com/services/",
-      "name": "ì„œë¹„ìŠ¤ | AenfiniteÂ®",
+      "name": "ì„œë¹„ìŠ¤ | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2095,7 +2097,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® - Digital ì—ì´ì „ì‹œ ì„œë¹„ìŠ¤"
+        "caption": "Aenfinite® - Digital ì—ì´ì „ì‹œ ì„œë¹„ìŠ¤"
       },
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
@@ -2111,9 +2113,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/#article",
-      "headline": "Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | AenfiniteÂ®",
+      "headline": "Professional ì›¹ ë””ìžì¸ & ë””ì§€í„¸ ë§ˆì¼€íŒ… ì„œë¹„ìŠ¤ | ë¡œê³  ë””ìžì¸ & ë¸Œëžœë”© | Aenfinite®",
       "keywords": "ì›¹ ë””ìžì¸, ë¡œê³  ë””ìžì¸, ë¸Œëžœë”©, ë””ì§€í„¸ ë§ˆì¼€íŒ…, SEO, Creative ì—ì´ì „ì‹œ, Website ê°œë°œ",
-      "description": "Aenfinite delivers professional design and marketing solutions â€” from websites and logos to SEO and branding strategies that drive measurable results.",
+      "description": "Aenfinite delivers professional design and marketing solutions — from websites and logos to SEO and branding strategies that drive measurable results.",
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2140,7 +2142,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "https://aenfinite.com/#business",
-  "name": "AenfiniteÂ®",
+  "name": "Aenfinite®",
   "description": "Professional web design, branding, and digital marketing agency specializing in custom websites, SEO, and creative solutions for businesses.",
   "url": "https://aenfinite.com",
   "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",

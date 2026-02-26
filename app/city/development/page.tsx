@@ -1906,7 +1906,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <span>Architecture Planning</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-2">
-                            <p>Our architects design the most efficient and scalable system architecture, defining database schemas, API structures, technology stack, and security measures to support your softwareâ€™s future growth.</p>
+                            <p>Our architects design the most efficient and scalable system architecture, defining database schemas, API structures, technology stack, and security measures to support your software's future growth.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
                             <span>Project Strategy</span>
@@ -2116,7 +2116,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     </div>
                                 </div>
                                 <div class="service-text">
-                                    <p>Extend your softwareâ€™s capabilities with robust APIs, SDKs, and integrations that connect seamlessly with your ecosystem.</p>
+                                    <p>Extend your software's capabilities with robust APIs, SDKs, and integrations that connect seamlessly with your ecosystem.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
                                         <p><strong>We deliver:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
@@ -2687,7 +2687,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2701,7 +2703,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2713,8 +2715,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Software Development Agency",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Software Development Agency",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage": "en-US"
     },
@@ -2731,7 +2733,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage",
       "url": "https://aenfinite.com/services/software-and-platform-development/",
-      "name": "Professional Software & Platform Development | Enterprise Solutions | AenfiniteÂ®",
+      "name": "Professional Software & Platform Development | Enterprise Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2742,10 +2744,10 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#richSnippet",
-      "headline": "Professional Software & Platform Development | Enterprise Solutions | AenfiniteÂ®",
-      "description": "AenfiniteÂ® provides full-cycle software and platform development â€” from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
+      "headline": "Professional Software & Platform Development | Enterprise Solutions | Aenfinite®",
+      "description": "Aenfinite® provides full-cycle software and platform development — from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
       "keywords": "Software Development, Platform Architecture, Enterprise Solutions, SaaS Development, API Integration, Digital Transformation, System Architecture",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",

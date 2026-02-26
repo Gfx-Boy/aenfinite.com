@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert PublicitÃ© Payante Services | Google Ads & Facebook Ads Management | Aenfinite",
+  title: "Expert Publicité Payante Services | Google Ads & Facebook Ads Management | Aenfinite",
   description: "Aenfinite provides expert paid advertising services including Google Ads, Facebook Ads, and PPC management. We design data-driven campaigns that increase conversions and maximize ROI.",
   keywords: "paid advertising, Google Ads management, Facebook Ads, PPC management, paid media, display advertising, remarketing, social media ads, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/paid-ads/", languages: {"x-default":"https://aenfinite.com/services/paid-ads/","en":"https://aenfinite.com/services/paid-ads/","es":"https://aenfinite.com/es/services/paid-ads/","fr":"https://aenfinite.com/fr/services/paid-ads/","de":"https://aenfinite.com/de/services/paid-ads/","it":"https://aenfinite.com/it/services/paid-ads/","ar":"https://aenfinite.com/ar/services/paid-ads/","pt":"https://aenfinite.com/pt/services/paid-ads/","zh":"https://aenfinite.com/zh/services/paid-ads/","hi":"https://aenfinite.com/hi/services/paid-ads/","nl":"https://aenfinite.com/nl/services/paid-ads/","ja":"https://aenfinite.com/ja/services/paid-ads/","ko":"https://aenfinite.com/ko/services/paid-ads/"} },
-  openGraph: {"title":"Expert PublicitÃ© Payante Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Aenfinite is a performance-driven paid advertising agency that helps brands grow through precise targeting and optimized Google & Meta Ads campaigns.","url":"https://aenfinite.com/fr/services/paid-ads/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert PublicitÃ© Payante Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Grow your business with Aenfiniteâ€™s PublicitÃ© Payante Services. We specialize in Google Ads, Facebook Ads, and PPC management designed to deliver measurable ROI.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert Publicité Payante Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Aenfinite is a performance-driven paid advertising agency that helps brands grow through precise targeting and optimized Google & Meta Ads campaigns.","url":"https://aenfinite.com/fr/services/paid-ads/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert Publicité Payante Services | Google Ads & Facebook Ads Management | Aenfinite","description":"Grow your business with Aenfinite's Publicité Payante Services. We specialize in Google Ads, Facebook Ads, and PPC management designed to deliver measurable ROI.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/featured-work/">RÃ©alisations</a>
+								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
@@ -1113,35 +1113,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/fr/services/">Services</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de DÃ©veloppement </a>
+										<a href="#">Solutions de Développement </a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">DÃ©veloppement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">DÃ©veloppement de Logiciels et Plateformes</a></li>
-											<li><a href="/fr/services/app-development/">DÃ©veloppement d'Applications</a></li>
-											<li><a href="/fr/services/web-design/">Conception et DÃ©veloppement de Sites Web</a></li>
+											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
+											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
 											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et CrÃ©ation </a>
+										<a href="#">Services de Design et Création </a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/fr/services/branding/">IdentitÃ© de Marque et StratÃ©gie</a></li>
-											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">CrÃ©ation de Logo</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
 											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-											<li><a href="/fr/services/conference-branding/">Image de Marque de ConfÃ©rence</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Solutions Marketing et Digitales </a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/digital-marketing/">StratÃ©gie de Marketing Digital</a></li>
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">PublicitÃ© au CoÃ»t par Clic (PPC)</a></li>
-											<li><a href="/fr/services/social-media-marketing/">Marketing sur les RÃ©seaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">PublicitÃ© Payante</a></li>
+											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
 									</li>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si vous ne trouvez pas le service dont vous avez besoin, Ã©crivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si vous ne trouvez pas le service dont vous avez besoin, écrivez-nous et nous trouverons une solution <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1355,14 +1355,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert PublicitÃ© Payante Services</span>
+    <span class="marquee-line_text">Expert Publicité Payante Services</span>
     <span class="marquee-line_text">Google Ads, Facebook Ads & Campagnes PPC</span>
     <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
     <span class="marquee-line_text">Specialists in ROI Maximization & Conversion Optimization</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Advertising Results</span>
     <span class="marquee-line_text">Data-Driven Advertising Strategies & Analytics</span>
     <span class="marquee-line_text">Local PPC & Global Advertising Campaign Management</span>
-    <span class="marquee-line_text">Professional PublicitÃ© Payante Agence with Proven Results</span>
+    <span class="marquee-line_text">Professional Publicité Payante Agence with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Ad Campaign Audits & Optimization</span>
     <span class="marquee-line_text">Custom Advertising Solutions for Every Industry</span>
     <span class="marquee-line_text">Ad Copy Optimization & Campaign Performance</span>
@@ -1429,7 +1429,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite for Expert PublicitÃ© Payante Services</h2>
+				<h2>Contact Aenfinite for Expert Publicité Payante Services</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1450,7 +1450,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Je suis intÃ©ressÃ© par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook Ads Campaigns" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook Ads Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Instagram Ads Management" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">Instagram Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="LinkedIn Ads Strategy" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">LinkedIn Ads Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="Ad Copy & Creative DÃ©veloppement" id="ad-copy" /><label for="ad-copy" class="list-item-label">Ad Copy & Creative DÃ©veloppement</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre PublicitÃ© Payante Services" id="other" /><label for="other" class="list-item-label">Autre PublicitÃ© Payante Services</label></span></span></span>
+		<strong>Je suis intéressé par...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook Ads Campaigns" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook Ads Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Instagram Ads Management" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">Instagram Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="LinkedIn Ads Strategy" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">LinkedIn Ads Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="Ad Copy & Creative Développement" id="ad-copy" /><label for="ad-copy" class="list-item-label">Ad Copy & Creative Développement</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Autre Publicité Payante Services" id="other" /><label for="other" class="list-item-label">Autre Publicité Payante Services</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Indiquez votre budget approximatif" value="" readonly name="budget" />
@@ -1504,7 +1504,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="inner-wrapper"> 					
         <div class="section-caption js-aos"> 						
           <div class="section-caption_text"> 							
-            <h2>PublicitÃ© Payante Expertise</h2> 						
+            <h2>Publicité Payante Expertise</h2> 						
           </div> 					
         </div> 					
         <div class="textbox textbox__push js-aos appear"> 						
@@ -1615,7 +1615,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">PublicitÃ© Payante</span> is the perfect blend of strategic targeting and data-driven campaign optimization. RÃ©alisations with a team that excels at both maximizing ROI and delivering exceptional advertising performance.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Publicité Payante</span> is the perfect blend of strategic targeting and data-driven campaign optimization. Réalisations with a team that excels at both maximizing ROI and delivering exceptional advertising performance.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1626,7 +1626,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite PublicitÃ© Payante Services</h2>
+					<h2>Aenfinite Publicité Payante Services</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1807,7 +1807,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -1895,7 +1895,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">RÃ©alisations</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
 
@@ -1911,14 +1911,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une RÃ©union</a>
+				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Planifiez Votre RÃ©union d'Affaires</h3>
+			<h3>Planifiez Votre Réunion d'Affaires</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2156,8 +2156,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour amÃ©liorer votre expÃ©rience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de ConfidentialitÃ©</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2293,7 +2293,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2307,7 +2309,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2324,7 +2326,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"fr-FR"
     },
@@ -2334,14 +2336,14 @@ export default function Page() {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com/", "name": "Home" }},
         { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" }},
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/paid-advertising/", "name": "PublicitÃ© Payante" }}
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/paid-advertising/", "name": "Publicité Payante" }}
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/paid-advertising/#webpage",
       "url": "https://aenfinite.com/services/paid-advertising/",
-      "name": "Expert PublicitÃ© Payante Services | Google Ads & Facebook Ads Management | AenfiniteÂ®",
+      "name": "Expert Publicité Payante Services | Google Ads & Facebook Ads Management | Aenfinite®",
       "datePublished": "2023-08-10T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2351,9 +2353,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/paid-advertising/#article",
-      "headline": "Expert PublicitÃ© Payante Services | Google Ads & Facebook Ads Management | AenfiniteÂ®",
-      "description": "AenfiniteÂ® offers expert paid advertising and PPC management services for Google and Facebook Ads. We deliver measurable results through strategic ad campaigns and continuous optimization.",
-      "keywords": "PublicitÃ© Payante, Google Ads Management, Facebook Ads, Campagnes PPC, Performance Marketing, Conversion Optimization",
+      "headline": "Expert Publicité Payante Services | Google Ads & Facebook Ads Management | Aenfinite®",
+      "description": "Aenfinite® offers expert paid advertising and PPC management services for Google and Facebook Ads. We deliver measurable results through strategic ad campaigns and continuous optimization.",
+      "keywords": "Publicité Payante, Google Ads Management, Facebook Ads, Campagnes PPC, Performance Marketing, Conversion Optimization",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/paid-advertising/#webpage" },
       "inLanguage":"fr-FR"
@@ -2440,7 +2442,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert PublicitÃ© Payante Services",
+      "name": "Expert Publicité Payante Services",
       "item": "https://aenfinite.com/services/paid-ads/"
     }
   ]

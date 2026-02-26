@@ -4,19 +4,19 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | AenfiniteÂ®",
+  title: "Workflow- und Geschäftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite®",
   description: "Aenfinite offers expert workflow and business automation services, including process optimization, digitale Transformation, and workflow automation solutions that enhance efficiency and productivity.",
   keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, digitale Transformation, CRM automation, marketing automation, Zapier integration, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/workflow-and-business-automation/", languages: {"x-default":"https://aenfinite.com/services/workflow-and-business-automation/","en":"https://aenfinite.com/services/workflow-and-business-automation/","es":"https://aenfinite.com/es/services/workflow-and-business-automation/","fr":"https://aenfinite.com/fr/services/workflow-and-business-automation/","de":"https://aenfinite.com/de/services/workflow-and-business-automation/","it":"https://aenfinite.com/it/services/workflow-and-business-automation/","ar":"https://aenfinite.com/ar/services/workflow-and-business-automation/","pt":"https://aenfinite.com/pt/services/workflow-and-business-automation/","zh":"https://aenfinite.com/zh/services/workflow-and-business-automation/","hi":"https://aenfinite.com/hi/services/workflow-and-business-automation/","nl":"https://aenfinite.com/nl/services/workflow-and-business-automation/","ja":"https://aenfinite.com/ja/services/workflow-and-business-automation/","ko":"https://aenfinite.com/ko/services/workflow-and-business-automation/"} },
-  openGraph: {"title":"Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/de/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite","description":"Boost efficiency with Aenfiniteâ€™s expert workflow automation services â€” streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Workflow- und Geschäftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/de/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Workflow- und Geschäftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
-/* =====Professional Workflow- und GeschÃ¤ftsautomatisierung Entwicklung | Workflow & Process Automatisierung Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* =====Professional Workflow- und Geschäftsautomatisierung Entwicklung | Workflow & Process Automatisierung Solutions | Aenfinite SERVICES SECTION CSS ===== */
 /* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
@@ -975,7 +975,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional Workflow- und GeschÃ¤ftsautomatisierung Entwicklung | Workflow & Process Automatisierung Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional Workflow- und Geschäftsautomatisierung Entwicklung | Workflow & Process Automatisierung Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1115,7 +1115,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">EntwicklungslÃ¶sungen â€º</a>
+										<a href="#">Entwicklungslösungen â€º</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
@@ -1124,13 +1124,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-LÃ¶sungen fÃ¼r Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-											<li><a href="/de/services/branding/">MarkenidentitÃ¤t und Strategie</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
 											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
@@ -1138,7 +1138,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale LÃ¶sungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
@@ -1150,10 +1150,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und TechnologielÃ¶sungen â€º</a>
+										<a href="#">KI- und Technologielösungen â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und GeschÃ¤ftsautomatisierung</a></li>
+											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Wenn Sie den benÃ¶tigten Service nicht finden, schreiben Sie uns und wir finden eine LÃ¶sung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Wenn Sie den benötigten Service nicht finden, schreiben Sie uns und wir finden eine Lösung <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Workflow- und GeschÃ¤ftsautomatisierung</span>
+    <span class="marquee-line_text">Professional Workflow- und Geschäftsautomatisierung</span>
     <span class="marquee-line_text">Process Optimization, Workflow-Automatisierung & Business Efficiency</span>
     <span class="marquee-line_text">Kunden in den USA, Kanada und weltweit</span>
     <span class="marquee-line_text">Specialists in Process Automatisierung & Operational Excellence</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for GeschÃ¤ftsautomatisierung Solutions</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Geschäftsautomatisierung Solutions</span>
     <span class="marquee-line_text">Intelligent Business Process Entwicklung & Analytics</span>
     <span class="marquee-line_text">Local Process Optimization & Global Workflow-Automatisierung</span>
-    <span class="marquee-line_text">Professional GeschÃ¤ftsautomatisierung Agentur with Proven Solutions</span>
+    <span class="marquee-line_text">Professional Geschäftsautomatisierung Agentur with Proven Solutions</span>
     <span class="marquee-line_text">Comprehensive Process Training & Workflow Optimization</span>
-    <span class="marquee-line_text">Custom GeschÃ¤ftsautomatisierung Solutions for Every Industry</span>
+    <span class="marquee-line_text">Custom Geschäftsautomatisierung Solutions for Every Industry</span>
     <span class="marquee-line_text">Process Flow Optimization & Automatisierung Performance</span>
-    <span class="marquee-line_text">Sustainable GeschÃ¤ftsautomatisierung & Long-term Efficiency</span>
+    <span class="marquee-line_text">Sustainable Geschäftsautomatisierung & Long-term Efficiency</span>
 </div>
 						                    </div>
                 </div>
@@ -1428,7 +1428,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Kontakt Professional Workflow- und GeschÃ¤ftsautomatisierung Entwicklung | Aenfinite for Professional Workflow- und GeschÃ¤ftsautomatisierung</h2>
+				<h2>Kontakt Professional Workflow- und Geschäftsautomatisierung Entwicklung | Aenfinite for Professional Workflow- und Geschäftsautomatisierung</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1445,14 +1445,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ErzÃ¤hlen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ihr Name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ihre E-Mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Erzählen Sie uns von Ihrem Projekt" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ich interessiere mich fÃ¼r...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process Automatisierung" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & Entwicklung" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & Entwicklung</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & Automatisierung" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process Automatisierung" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="Nutzererlebnis Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">Nutzererlebnis Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen" id="other" /><label for="other" class="list-item-label">Sonstiges Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen</label></span></span></span>
+		<strong>Ich interessiere mich für...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process Automatisierung" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & Entwicklung" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & Entwicklung</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & Automatisierung" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process Automatisierung" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process Automatisierung</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="Nutzererlebnis Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">Nutzererlebnis Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Sonstiges Workflow- und Geschäftsautomatisierung Dienstleistungen" id="other" /><label for="other" class="list-item-label">Sonstiges Workflow- und Geschäftsautomatisierung Dienstleistungen</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefÃ¤hres Budget" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Nennen Sie uns Ihr ungefähres Budget" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1476,7 +1476,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ã¼ber 100.000 $
+					über 100.000 $
 					
 				</div>
 			</div>		</div>
@@ -1501,7 +1501,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Workflow- und GeschÃ¤ftsautomatisierung</span> is the perfect blend of intelligent automation and customer experience enhancement. Projekte with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Workflow- und Geschäftsautomatisierung</span> is the perfect blend of intelligent automation and customer experience enhancement. Projekte with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen</h2>
+					<h2>Aenfinite Workflow- und Geschäftsautomatisierung Dienstleistungen</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1804,7 +1804,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Vereinbaren Sie Ihr GeschÃ¤ftstreffen</h3>
+			<h3>Vereinbaren Sie Ihr Geschäftstreffen</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2045,7 +2045,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">DatenschutzerklÃ¤rung</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2126,7 +2126,7 @@ document.addEventListener('keydown', function(event) {
 					"
 					""
 				  ],
-				  "description": "Expert Workflow- und GeschÃ¤ftsautomatisierung agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert Workflow- und Geschäftsautomatisierung agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2181,7 +2181,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2195,7 +2197,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2208,8 +2210,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "Aenfinite - Workflow- und GeschÃ¤ftsautomatisierung Agentur",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite - Workflow- und Geschäftsautomatisierung Agentur",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"de-DE"
     },
@@ -2217,7 +2219,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#webpage",
       "url": "https://aenfinite.com/services/workflow-business-automation/",
-      "name": "Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | AenfiniteÂ®",
+      "name": "Workflow- und Geschäftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2236,16 +2238,16 @@ export default function Page() {
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
           { "@type": "ListItem", "position": 2, "name": "Dienstleistungen", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "Workflow- und GeschÃ¤ftsautomatisierung", "item": "https://aenfinite.com/services/workflow-business-automation/" }
+          { "@type": "ListItem", "position": 3, "name": "Workflow- und Geschäftsautomatisierung", "item": "https://aenfinite.com/services/workflow-business-automation/" }
         ]
       }
     },
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#article",
-      "headline": "Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | AenfiniteÂ®",
+      "headline": "Workflow- und Geschäftsautomatisierung Dienstleistungen | Process Optimization & Automatisierung Solutions | Aenfinite®",
       "keywords": "Workflow-Automatisierung, Business Process Optimization, Process Automatisierung, Digital Transformation, Business Efficiency, Operational Excellence",
-      "description": "Aenfinite delivers intelligent workflow automation services â€” from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
+      "description": "Aenfinite delivers intelligent workflow automation services — from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2309,7 +2311,7 @@ export default function Page() {
 					"
 					""
 				  ],
-				  "description": "Expert Workflow- und GeschÃ¤ftsautomatisierung agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert Workflow- und Geschäftsautomatisierung agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2344,7 +2346,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Workflow- und GeschÃ¤ftsautomatisierung Dienstleistungen",
+      "name": "Workflow- und Geschäftsautomatisierung Dienstleistungen",
       "item": "https://aenfinite.com/services/workflow-and-business-automation/"
     }
   ]

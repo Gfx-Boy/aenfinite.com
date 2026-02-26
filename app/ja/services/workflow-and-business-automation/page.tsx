@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | AenfiniteÂ®",
+  title: "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite®",
   description: "Aenfinite offers expert workflow and business automation services, including process optimization, ãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³, and workflow automation solutions that enhance efficiency and productivity.",
   keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, ãƒ‡ã‚¸ã‚¿ãƒ«ãƒˆãƒ©ãƒ³ã‚¹ãƒ•ã‚©ãƒ¼ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³, CRM automation, marketing automation, Zapier integration, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/workflow-and-business-automation/", languages: {"x-default":"https://aenfinite.com/services/workflow-and-business-automation/","en":"https://aenfinite.com/services/workflow-and-business-automation/","es":"https://aenfinite.com/es/services/workflow-and-business-automation/","fr":"https://aenfinite.com/fr/services/workflow-and-business-automation/","de":"https://aenfinite.com/de/services/workflow-and-business-automation/","it":"https://aenfinite.com/it/services/workflow-and-business-automation/","ar":"https://aenfinite.com/ar/services/workflow-and-business-automation/","pt":"https://aenfinite.com/pt/services/workflow-and-business-automation/","zh":"https://aenfinite.com/zh/services/workflow-and-business-automation/","hi":"https://aenfinite.com/hi/services/workflow-and-business-automation/","nl":"https://aenfinite.com/nl/services/workflow-and-business-automation/","ja":"https://aenfinite.com/ja/services/workflow-and-business-automation/","ko":"https://aenfinite.com/ko/services/workflow-and-business-automation/"} },
   openGraph: {"title":"ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/ja/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite","description":"Boost efficiency with Aenfiniteâ€™s expert workflow automation services â€” streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  twitter: {"card":"summary_large_image","title":"ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -2181,7 +2181,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2195,7 +2197,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2208,7 +2210,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "alternateName": "Aenfinite - ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ja-JP"
@@ -2217,7 +2219,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#webpage",
       "url": "https://aenfinite.com/services/workflow-business-automation/",
-      "name": "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | AenfiniteÂ®",
+      "name": "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2243,9 +2245,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#article",
-      "headline": "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | AenfiniteÂ®",
+      "headline": "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ– ã‚µãƒ¼ãƒ“ã‚¹ | Process Optimization & è‡ªå‹•åŒ– Solutions | Aenfinite®",
       "keywords": "ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼è‡ªå‹•åŒ–, Business Process Optimization, Process è‡ªå‹•åŒ–, Digital Transformation, Business Efficiency, Operational Excellence",
-      "description": "Aenfinite delivers intelligent workflow automation services â€” from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
+      "description": "Aenfinite delivers intelligent workflow automation services — from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },

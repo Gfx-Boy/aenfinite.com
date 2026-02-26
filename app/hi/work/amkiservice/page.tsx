@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | AenfiniteÂ®",
-  description: "Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by AenfiniteÂ®",
+  title: "AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | Aenfinite®",
+  description: "Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by Aenfinite®",
   keywords: "AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚, business compliance, licensing platform, corporate consulting website, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/hi/work/amkiservice/", languages: {"x-default":"https://aenfinite.com/work/amkiservice/","en":"https://aenfinite.com/work/amkiservice/","es":"https://aenfinite.com/es/work/amkiservice/","fr":"https://aenfinite.com/fr/work/amkiservice/","de":"https://aenfinite.com/de/work/amkiservice/","it":"https://aenfinite.com/it/work/amkiservice/","ar":"https://aenfinite.com/ar/work/amkiservice/","pt":"https://aenfinite.com/pt/work/amkiservice/","zh":"https://aenfinite.com/zh/work/amkiservice/","hi":"https://aenfinite.com/hi/work/amkiservice/","nl":"https://aenfinite.com/nl/work/amkiservice/","ja":"https://aenfinite.com/ja/work/amkiservice/","ko":"https://aenfinite.com/ko/work/amkiservice/"} },
-  openGraph: {"title":"AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | AenfiniteÂ®","description":"Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by AenfiniteÂ®","url":"https://aenfinite.com/hi/work/amkiservice/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif"}]},
-  twitter: {"card":"summary_large_image","title":"AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | AenfiniteÂ®","description":"Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by AenfiniteÂ®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif"]},
+  openGraph: {"title":"AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | Aenfinite®","description":"Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by Aenfinite®","url":"https://aenfinite.com/hi/work/amkiservice/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif"}]},
+  twitter: {"card":"summary_large_image","title":"AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | Aenfinite®","description":"Professional business compliance platform featuring licensing, permits, and regulatory solutions with comprehensive corporate consulting services designed by Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif"]},
   robots: { index: true, follow: true },
 };
 
@@ -1050,7 +1050,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div>
 <div class="pt-0.5 juice:pt-0">
 <div class="gizmo-bot-avatar flex h-6 w-6 items-center justify-center overflow-hidden rounded-full juice:h-8 juice:w-8">
-<div class="relative p-1 rounded-sm flex items-center justify-content-center bg-token-main-surface-primary text-token-text-primary h-8 w-8">AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ is a comprehensive business compliance platform designed to simplify the complexities of business registration, licensing, and regulatory requirements. Our team at AenfiniteÂ® created an intuitive digital experience featuring business license management, permit applications, zoning consultations, and regulatory compliance tools that help entrepreneurs and businesses navigate federal, state, and local requirements with expert guidance.</div>
+<div class="relative p-1 rounded-sm flex items-center justify-content-center bg-token-main-surface-primary text-token-text-primary h-8 w-8">AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ is a comprehensive business compliance platform designed to simplify the complexities of business registration, licensing, and regulatory requirements. Our team at Aenfinite® created an intuitive digital experience featuring business license management, permit applications, zoning consultations, and regulatory compliance tools that help entrepreneurs and businesses navigate federal, state, and local requirements with expert guidance.</div>
 </div>
 </div>
 </div>
@@ -1066,7 +1066,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 								<div class="tagslist">
-									<b>AenfiniteÂ® Scope of à¤•à¤¾à¤°à¥à¤¯:</b>
+									<b>Aenfinite® Scope of à¤•à¤¾à¤°à¥à¤¯:</b>
 									<ul>
 										<li>Business Compliance Platform UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</li><li>License Management System</li><li>Permit Application Portal</li><li>Corporate à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & Identity</li><li>Regulatory Database Integration</li><li>Client Consultation Platform</li><li>Document Management System</li><li>Zoning Compliance Tools</li>									</ul>
 								</div>
@@ -1120,12 +1120,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<span itemprop="name" class="name-project">AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Platform UI/UX & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span>
 					<div class="wrapper">
 						<div class="inner-wrapper">
-						  	<h2>AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ Client Testimonial for AenfiniteÂ®</h2>
+						  	<h2>AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ Client Testimonial for Aenfinite®</h2>
 						  	<div class="container">
 								<div class="con-stats">
 							  		<div class="con-tittle" itemprop="reviewBody">
 										<p>
-											"AenfiniteÂ® transformed our business compliance vision into a professional, user-friendly platform. Their expertise in UI/UX design made complex regulatory processes simple and accessible. The intuitive interface has streamlined our client consultations and significantly improved our business operations. Outstanding results!"										</p>
+											"Aenfinite® transformed our business compliance vision into a professional, user-friendly platform. Their expertise in UI/UX design made complex regulatory processes simple and accessible. The intuitive interface has streamlined our client consultations and significantly improved our business operations. Outstanding results!"										</p>
 							  		</div>
 							  		<div class="con-par">
 										<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -1618,8 +1618,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
-        Our mobile-first, SEO-friendly websites are built to performâ€”optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        Our mobile-first, SEO-friendly websites are built to perform—optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand's authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/hi/contact/" class="redlink">
@@ -1655,8 +1655,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you're launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you'll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/hi/contact/" class="redlink">
@@ -1829,7 +1829,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals â€” itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals — it's a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1866,7 +1866,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>we create packaging that does more than protect a product â€” it tells a story and grabs attention on the shelf. 
+										<p>we create packaging that does more than protect a product — it tells a story and grabs attention on the shelf. 
     Our team blends creative design with production-ready solutions, ensuring your packaging not only looks stunning but is practical and cost-effective to manufacture. 
     From innovative concepts for new startups to reimagining established product lines, we craft packaging that stands out, builds emotional connection, and turns casual shoppers into loyal customers.</p>
 									</div>
@@ -2085,7 +2085,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2569,7 +2569,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2583,7 +2585,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/digitaldesignny",
@@ -2596,8 +2598,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Division",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2621,7 +2623,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/work/am-ki-services/#webpage",
       "url": "https://aenfinite.com/work/am-ki-services/",
-      "name": "AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | AenfiniteÂ®",
+      "name": "AM-KI à¤¸à¥‡à¤µà¤¾à¤à¤‚ - Business Compliance & Licensing Solutions | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {
         "@type": "ImageObject",

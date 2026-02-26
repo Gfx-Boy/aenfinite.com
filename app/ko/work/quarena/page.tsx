@@ -2932,7 +2932,9 @@ document.addEventListener('keydown', function(event) {
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2946,7 +2948,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2960,8 +2962,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - ë¸Œëžœë”© & ì›¹ ë””ìžì¸ Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - ë¸Œëžœë”© & ì›¹ ë””ìžì¸ Division",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ko-KR"
     },
@@ -2977,7 +2979,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/work/quarena/#webpage",
       "url": "https://aenfinite.com/work/quarena/",
-      "name": "Quarena - Advanced Trading App UI/UX & ê°œë°œ | AenfiniteÂ®",
+      "name": "Quarena - Advanced Trading App UI/UX & ê°œë°œ | Aenfinite®",
       "description": "Revolutionary cryptocurrency and stock trading platform with intuitive UI/UX design and mobile ì•± ê°œë°œ for seamless trading experiences by Aenfinite",
       "isPartOf": {"@id": "https://aenfinite.com/#website"},
       "breadcrumb": {"@id": "https://aenfinite.com/work/quarena/#breadcrumb"},

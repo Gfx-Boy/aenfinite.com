@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "Aenfinite offers custom packaging design services that elevate your brand. From product box design to premium packaging concepts, we craft designs that attract customers and enhance your brand presence.",
   keywords: "packaging design, product packaging, box design, label design, custom packaging, retail packaging, premium packaging design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/packaging-design/", languages: {"x-default":"https://aenfinite.com/services/packaging-design/","en":"https://aenfinite.com/services/packaging-design/","es":"https://aenfinite.com/es/services/packaging-design/","fr":"https://aenfinite.com/fr/services/packaging-design/","de":"https://aenfinite.com/de/services/packaging-design/","it":"https://aenfinite.com/it/services/packaging-design/","ar":"https://aenfinite.com/ar/services/packaging-design/","pt":"https://aenfinite.com/pt/services/packaging-design/","zh":"https://aenfinite.com/zh/services/packaging-design/","hi":"https://aenfinite.com/hi/services/packaging-design/","nl":"https://aenfinite.com/nl/services/packaging-design/","ja":"https://aenfinite.com/ja/services/packaging-design/","ko":"https://aenfinite.com/ko/services/packaging-design/"} },
-  openGraph: {"title":"Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | Aenfinite","description":"Discover Aenfiniteâ€™s creative packaging design services that transform how customers experience your brand. We design packaging that sells and inspires.","url":"https://aenfinite.com/hi/services/packaging-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title":"Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | Aenfinite","description":"Discover Aenfinite's creative packaging design services that transform how customers experience your brand. We design packaging that sells and inspires.","url":"https://aenfinite.com/hi/services/packaging-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | Aenfinite","description":"Aenfinite crafts premium packaging designs that elevate your product and brand. From retail packaging to custom box designs, we create visuals that captivate.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -1907,13 +1907,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Research & Insights</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brandâ€™s current position, values, and opportunities for growth.</p>
+							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brand's current position, values, and opportunities for growth.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
 							<span>à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤°à¤£à¤¨à¥€à¤¤à¤¿</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We define your brandâ€™s voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
+							<p>We define your brand's voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Positioning</span>
@@ -2695,7 +2695,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2709,7 +2711,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2726,7 +2728,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2743,7 +2745,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/packaging-design/#webpage",
       "url": "https://aenfinite.com/services/packaging-design/",
-      "name": "Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | AenfiniteÂ®",
+      "name": "Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | Aenfinite®",
       "datePublished": "2023-08-10T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2753,8 +2755,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/packaging-design/#article",
-      "headline": "Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | AenfiniteÂ®",
-      "description": "AenfiniteÂ® provides professional packaging design services that combine strategy, creativity, and market insight. Our custom designs enhance shelf appeal and brand loyalty.",
+      "headline": "Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— & Box Design | Aenfinite®",
+      "description": "Aenfinite® provides professional packaging design services that combine strategy, creativity, and market insight. Our custom designs enhance shelf appeal and brand loyalty.",
       "keywords": "à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, Product à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤—, Box Design, Label Design, Retail à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤—, Custom à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤—",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "mainEntityOfPage": { "@id": "https://aenfinite.com/services/packaging-design/#webpage" },

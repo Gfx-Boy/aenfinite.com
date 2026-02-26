@@ -1121,17 +1121,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
-											<li><a href="/es/services/web-design/">DiseÃ±o y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes RaÃ­ces</a></li>									</ul>
+											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servicios de DiseÃ±o y Creatividad â€º</a>
+										<a href="#">Servicios de Diseño y Creatividad â€º</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ui-ux-design/">DiseÃ±o UI/UX</a></li>
+											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
-											<li><a href="/es/services/graphic-design/">DiseÃ±o GrÃ¡fico</a></li> <li><a href="/es/services/logo-design/">DiseÃ±o de Logotipos</a></li>
+											<li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
 											
-											<li><a href="/es/services/trade-show-booth-design/">DiseÃ±o de Stands para Ferias</a></li>
+											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
 									</li>
@@ -1139,7 +1139,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Soluciones de Marketing y Digitales â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
-											<li><a href="/es/services/search-engine-optimization/">OptimizaciÃ³n para Motores de BÃºsqueda (SEO)</a></li>
+											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
 											<li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
 
@@ -1148,14 +1148,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de IA y TecnologÃ­a â€º</a>
+										<a href="#">Soluciones de IA y Tecnología â€º</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-											<li><a href="/es/services/workflow-&-business-automation/">AutomatizaciÃ³n de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - AsÃ³ciate con Nosotros Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - Asóciate con Nosotros Style */
 .menu-item-has-children {
     position: relative;
 }
@@ -1274,7 +1274,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
 						<a href="/es/contact/" class="topbar-contact_button">Contacto</a>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Si no encuentras el servicio que necesitas, escrÃ­benos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							Si no encuentras el servicio que necesitas, escríbenos y lo resolveremos <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1354,12 +1354,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="js-runner-content">
 													<div class="marquee-line">
     <span class="marquee-line_text">Branding Profesional Servicios Servicios</span>
-    <span class="marquee-line_text">Identidad de Marca, DiseÃ±o de Logotipos & Visual Strategy</span>
-    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., CanadÃ¡ y MÃ¡s AllÃ¡</span>
+    <span class="marquee-line_text">Identidad de Marca, Diseño de Logotipos & Visual Strategy</span>
+    <span class="marquee-line_text">Sirviendo a Clientes en EE.UU., Canadá y Más Allá</span>
     <span class="marquee-line_text">Specialists in Identidad de Marca & Creative Design</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Branding Solutions</span>
-    <span class="marquee-line_text">High-Impact DiseÃ±o de Marca & Identity Desarrollo</span>
-    <span class="marquee-line_text">Branding Profesional y DiseÃ±o de Logotipo Solutions</span>
+    <span class="marquee-line_text">High-Impact Diseño de Marca & Identity Desarrollo</span>
+    <span class="marquee-line_text">Branding Profesional y Diseño de Logotipo Solutions</span>
     <span class="marquee-line_text">Branding Profesional Agencia with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Estrategia de Marca & Design Support</span>
     <span class="marquee-line_text">Custom Branding Solutions for Every Industry</span>
@@ -1415,7 +1415,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference DiseÃ±o de Logotipos - Professional Event Branding" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference Diseño de Logotipos - Professional Event Branding" class="cover" loading="lazy" decoding="async" />
 									    <a href="../../work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1423,7 +1423,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 Event Branding</a></div>
-																																		<div class="preview-name">Event DiseÃ±o de Logotipos</div>
+																																		<div class="preview-name">Event Diseño de Logotipos</div>
 																							<div class="preview-name">Conference Identity</div>
 																							<div class="preview-name">Brand Desarrollo</div>
 																							<div class="preview-name">Identidad Visual</div>
@@ -1447,7 +1447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																																		<div class="preview-name">Event Stationery</div>
 																							<div class="preview-name">Material de Marca</div>
 																							<div class="preview-name">Conference Materials</div>
-																							<div class="preview-name">DiseÃ±o de ImpresiÃ³n</div>
+																							<div class="preview-name">Diseño de Impresión</div>
 																					</div>
 									</div>
 								</div>
@@ -1610,14 +1610,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference DiseÃ±o de Logotipos - Professional Event Branding" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference Diseño de Logotipos - Professional Event Branding" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
 											<a href="../../work/branding/">CycleThe6 Event Branding</a>
 										</div>
-																					<div class="preview-name">Event DiseÃ±o de Logotipos</div>
+																					<div class="preview-name">Event Diseño de Logotipos</div>
 																					<div class="preview-name">Conference Identity</div>
 																					<div class="preview-name">Brand Desarrollo</div>
 																					<div class="preview-name">Identidad Visual</div>
@@ -1638,7 +1638,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					<div class="preview-name">Event Stationery</div>
 																					<div class="preview-name">Material de Marca</div>
 																					<div class="preview-name">Conference Materials</div>
-																					<div class="preview-name">DiseÃ±o de ImpresiÃ³n</div>
+																					<div class="preview-name">Diseño de Impresión</div>
 											
 									</div>
 								</div>
@@ -1716,7 +1716,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Tu nombre*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrÃ³nico*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Tu correo electrónico*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your branding project" value="" type="text" name="text-tell-project" />
@@ -1728,8 +1728,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="DiseÃ±o de Logotipos" id="logo-design" />
-					<label for="logo-design" class="list-item-label">DiseÃ±o de Logotipos</label>
+					<input type="checkbox" name="services" value="Diseño de Logotipos" id="logo-design" />
+					<label for="logo-design" class="list-item-label">Diseño de Logotipos</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Identidad de Marca Desarrollo" id="brand-identity" />
@@ -1763,7 +1763,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="CuÃ©ntanos tu presupuesto aproximado" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="Cuéntanos tu presupuesto aproximado" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1772,7 +1772,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="select-option js-select-option">de $500 a $5,000</div>
                             <div class="select-option js-select-option">de $5,000 a $20,000</div>
                             <div class="select-option js-select-option">de $20,000 a $50,000</div>
-                            <div class="select-option js-select-option">mÃ¡s de $100,000</div>
+                            <div class="select-option js-select-option">más de $100,000</div>
                         </div>
 		</div>
 	</div>
@@ -1794,11 +1794,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Conference DiseÃ±o de Marca Expertise</h2>
+						<h2>Conference Diseño de Marca Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
-					<div class="textbox-content">Aenfinite delivers complete conference branding solutions â€” from event identity design and visual systems to on-site and digital brand activation. We craft immersive, cohesive brand experiences that elevate your conferenceâ€™s visibility and engagement.</div>
+					<div class="textbox-content">Aenfinite delivers complete conference branding solutions — from event identity design and visual systems to on-site and digital brand activation. We craft immersive, cohesive brand experiences that elevate your conference's visibility and engagement.</div>
 				</div>
 			</div>
 		</div>
@@ -1806,9 +1806,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference DiseÃ±o de Logotipos</div>
+				<div class="pane-title">Conference Diseño de Logotipos</div>
 				<div class="pane-subtitle">
-					<p>We create distinctive conference logos that represent your eventâ€™s theme, mission, and personality. Each logo is designed to be memorable, adaptable across print and digital media, and reflective of the eventâ€™s professional identity.</p>
+					<p>We create distinctive conference logos that represent your event's theme, mission, and personality. Each logo is designed to be memorable, adaptable across print and digital media, and reflective of the event's professional identity.</p>
 				</div>
 			</div>
 
@@ -1816,7 +1816,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Event Identidad de Marca Design</div>
 				<div class="pane-subtitle">
-					<p>Our team develops cohesive event brand identities â€” from typography and color palettes to imagery and layouts â€” that unify your conference materials, digital presence, and on-site experience under a single recognizable brand.</p>
+					<p>Our team develops cohesive event brand identities — from typography and color palettes to imagery and layouts — that unify your conference materials, digital presence, and on-site experience under a single recognizable brand.</p>
 				</div>
 			</div>
 
@@ -1824,7 +1824,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Conference Directrices de Marca</div>
 				<div class="pane-subtitle">
-					<p>We provide comprehensive brand guideline documents detailing logo usage, color systems, type hierarchy, and visual standards to ensure consistency across all touchpoints â€” from marketing materials to event signage.</p>
+					<p>We provide comprehensive brand guideline documents detailing logo usage, color systems, type hierarchy, and visual standards to ensure consistency across all touchpoints — from marketing materials to event signage.</p>
 				</div>
 			</div>
 
@@ -1832,7 +1832,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Visual Systems for Events</div>
 				<div class="pane-subtitle">
-					<p>Our designers craft unified visual systems that include stage backdrops, banners, presentation templates, and attendee materials. Every element is designed to reinforce your conferenceâ€™s visual identity across physical and digital spaces.</p>
+					<p>Our designers craft unified visual systems that include stage backdrops, banners, presentation templates, and attendee materials. Every element is designed to reinforce your conference's visual identity across physical and digital spaces.</p>
 				</div>
 			</div>
 
@@ -1840,7 +1840,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Brand Implementation & Activation</div>
 				<div class="pane-subtitle">
-					<p>We bring your conference brand to life through complete implementation â€” including venue branding, digital assets, signage, and interactive displays. Our activation plans ensure a seamless and memorable event experience.</p>
+					<p>We bring your conference brand to life through complete implementation — including venue branding, digital assets, signage, and interactive displays. Our activation plans ensure a seamless and memorable event experience.</p>
 				</div>
 			</div>
 
@@ -1848,7 +1848,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Conference Estrategia de Marca</div>
 				<div class="pane-subtitle">
-					<p>Our strategic approach defines your conferenceâ€™s positioning, tone, and messaging framework. We analyze audience insights and event objectives to create a strategy that enhances attendee connection and sponsor engagement.</p>
+					<p>Our strategic approach defines your conference's positioning, tone, and messaging framework. We analyze audience insights and event objectives to create a strategy that enhances attendee connection and sponsor engagement.</p>
 				</div>
 			</div>
 
@@ -1856,7 +1856,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Brand Messaging & Communication</div>
 				<div class="pane-subtitle">
-					<p>We develop compelling messaging and visual narratives for your conference â€” from taglines and social media tone to marketing campaigns â€” ensuring every communication reflects the eventâ€™s values and inspires participation.</p>
+					<p>We develop compelling messaging and visual narratives for your conference — from taglines and social media tone to marketing campaigns — ensuring every communication reflects the event's values and inspires participation.</p>
 				</div>
 			</div>
 
@@ -1864,7 +1864,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Brand Consistency & Experience Design</div>
 				<div class="pane-subtitle">
-					<p>We ensure consistent application of your brand across all mediums â€” from pre-event promotions to post-event recaps. Our experience design maintains visual and emotional continuity that strengthens brand recall and trust.</p>
+					<p>We ensure consistent application of your brand across all mediums — from pre-event promotions to post-event recaps. Our experience design maintains visual and emotional continuity that strengthens brand recall and trust.</p>
 				</div>
 			</div>
 
@@ -1898,19 +1898,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Research & Insights</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We start by analyzing your conference goals, audience demographics, and industry landscape. This research helps us uncover insights that define the eventâ€™s purpose, tone, and visual direction.</p>
+							<p>We start by analyzing your conference goals, audience demographics, and industry landscape. This research helps us uncover insights that define the event's purpose, tone, and visual direction.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
 							<span>Event Estrategia de Marca</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We develop a strategic foundation for your conference brand â€” including its mission, messaging framework, and positioning. This ensures your event communicates a unified message across all touchpoints.</p>
+							<p>We develop a strategic foundation for your conference brand — including its mission, messaging framework, and positioning. This ensures your event communicates a unified message across all touchpoints.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
 							<span>Positioning & Theme</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-3">
-							<p>We craft a strong thematic direction and visual narrative that distinguishes your conference in the market â€” ensuring it resonates with attendees, sponsors, and partners alike.</p>
+							<p>We craft a strong thematic direction and visual narrative that distinguishes your conference in the market — ensuring it resonates with attendees, sponsors, and partners alike.</p>
 						</div>
 						<div class="nlist-sensor js-switch-sensor"></div>
 					</div>
@@ -1922,10 +1922,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Conference Design</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
-							<span>Conference DiseÃ±o de Logotipos</span>
+							<span>Conference Diseño de Logotipos</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-2-1">
-							<p>We design a distinctive conference logo that embodies your eventâ€™s essence, ensuring itâ€™s recognizable, versatile, and visually engaging across all digital and physical formats.</p>
+							<p>We design a distinctive conference logo that embodies your event's essence, ensuring it's recognizable, versatile, and visually engaging across all digital and physical formats.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
 							<span>Identidad Visual System</span>
@@ -1943,7 +1943,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Directrices de Marca</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-4">
-							<p>We compile a complete brand guide detailing logo usage, color schemes, and layout principles â€” ensuring consistent brand execution before, during, and after the conference.</p>
+							<p>We compile a complete brand guide detailing logo usage, color schemes, and layout principles — ensuring consistent brand execution before, during, and after the conference.</p>
 						</div>
 						<div class="nlist-sensor js-switch-sensor"></div>
 					</div>
@@ -1958,7 +1958,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>On-Site Branding</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-3-1">
-							<p>We bring your brand to life at the venue through stage backdrops, booth graphics, signage, and wayfinding systems â€” creating a seamless branded environment for attendees.</p>
+							<p>We bring your brand to life at the venue through stage backdrops, booth graphics, signage, and wayfinding systems — creating a seamless branded environment for attendees.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
 							<span>Digital Campaigns</span>
@@ -1970,13 +1970,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Attendee Experience</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-3-3">
-							<p>We design branded materials and touchpoints that enhance the attendee journey â€” from registration visuals and lanyards to stage screens and event apps.</p>
+							<p>We design branded materials and touchpoints that enhance the attendee journey — from registration visuals and lanyards to stage screens and event apps.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-4">
 							<span>Conference Launch</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-3-4">
-							<p>We coordinate your conferenceâ€™s visual rollout, ensuring every branded element â€” digital and physical â€” aligns perfectly for a polished, high-impact launch.</p>
+							<p>We coordinate your conference's visual rollout, ensuring every branded element — digital and physical — aligns perfectly for a polished, high-impact launch.</p>
 						</div>
 						<div class="nlist-sensor js-switch-sensor"></div>
 					</div>
@@ -2044,7 +2044,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/es/contact/" class="chip-label">DiseÃ±o de Logotipos</a></div>
+										<div class="chip"><a href="/es/contact/" class="chip-label">Diseño de Logotipos</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Color Palette</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Typography</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Iconography</a></div>
@@ -2143,7 +2143,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/es/contact/" class="chip-label">DiseÃ±o de Empaques</a></div>
+										<div class="chip"><a href="/es/contact/" class="chip-label">Diseño de Empaques</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Marketing Collateral</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Digital Branding</a></div>
 										<div class="chip"><a href="/es/contact/" class="chip-label">Environmental Branding</a></div>
@@ -2214,10 +2214,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">DiseÃ±o Web</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Diseño Web</a></li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Branding</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">DiseÃ±o de Empaques</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Diseño de Empaques</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2227,7 +2227,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">AsÃ³ciate con nosotros</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
 <li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
 <li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
 <li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
@@ -2236,7 +2236,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">DirecciÃ³n</div>
+								<div class="footer-col_caption">Dirección</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2299,7 +2299,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </ul>						</div>
 						<div class="menu-footer">
 							<a class="menu-contact" href="../../contact/">Contacto</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">EnvÃ­anos un correo</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
 				</div>
@@ -2307,14 +2307,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una ReuniÃ³n</a>
+				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Agenda Tu ReuniÃ³n de Negocios</h3>
+			<h3>Agenda Tu Reunión de Negocios</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2553,7 +2553,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">PolÃ­tica de Privacidad</a>.
+						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2620,7 +2620,7 @@ document.addEventListener('keydown', function(event) {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],
@@ -2687,7 +2687,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
@@ -2701,7 +2703,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.com/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2713,8 +2715,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Creative Digital Agencia",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Creative Digital Agencia",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2726,7 +2728,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Branding para Conferencias & Event Identity Design",
+      "caption": "Aenfinite® Branding para Conferencias & Event Identity Design",
       "inLanguage":"es-ES"
     },
     {
@@ -2763,7 +2765,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/conference-branding/#webpage",
       "url": "https://aenfinite.com/services/conference-branding/",
-      "name": "Premier Branding para Conferencias & Event Identity Design Servicios | AenfiniteÂ®",
+      "name": "Premier Branding para Conferencias & Event Identity Design Servicios | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": {
@@ -2779,19 +2781,19 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Premier Branding para Conferencias & Event Identity Design Servicios | AenfiniteÂ®",
+      "headline": "Premier Branding para Conferencias & Event Identity Design Servicios | Aenfinite®",
       "keywords": "Branding para Conferencias, Event Identity Design, Stage Design, Event Signage, Conference Estrategia de Marca, Event Marketing, Visual Branding",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": {
         "@id": "https://aenfinite.com/#organization",
-        "name": "AenfiniteÂ®"
+        "name": "Aenfinite®"
       },
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
-      "description": "AenfiniteÂ® crafts powerful conference branding and event identity design systems for businesses and organizations. From logo and stage visuals to attendee engagement materials, our designs ensure memorable event experiences.",
-      "name": "Premier Branding para Conferencias & Event Identity Design Servicios | AenfiniteÂ®",
+      "description": "Aenfinite® crafts powerful conference branding and event identity design systems for businesses and organizations. From logo and stage visuals to attendee engagement materials, our designs ensure memorable event experiences.",
+      "name": "Premier Branding para Conferencias & Event Identity Design Servicios | Aenfinite®",
       "@id": "https://aenfinite.com/services/conference-branding/#richSnippet",
       "isPartOf": {
         "@id": "https://aenfinite.com/services/conference-branding/#webpage"
@@ -2837,7 +2839,7 @@ export default function Page() {
 					"dayOfWeek": [
 					  "Lunes",
 					  "Martes",
-					  "MiÃ©rcoles",
+					  "Miércoles",
 					  "Jueves",
 					  "Viernes"
 					],

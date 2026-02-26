@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Aenfinite® | Professional Digital Innovation Agency',
     template: '%s | Aenfinite®',
   },
-  description: 'Aenfinite® is a professional digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions.',
+  description: 'digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions.',
   icons: {
     icon: [
       { url: '/wp-content/themes/aenfinite.com/favicon/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
