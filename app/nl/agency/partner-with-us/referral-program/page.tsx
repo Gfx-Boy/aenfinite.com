@@ -868,8 +868,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/nl/services/custom-web-development">Op Maat Gemaakte Webontwikkeling</a></li>
-											<li><a href="/nl/services/software-&-platform-development/">Software- & Platformontwikkeling</a></li>
+											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
+											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>                                      </ul>
@@ -891,7 +891,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-                                            <li><a href="/nl/services/pay-per-click">Pay-Per-Click (PPC) Adverteren</a></li>
+                                            <li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
                                             <li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li>
                                             <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
                                         </ul>
@@ -899,8 +899,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">AI- & Technologische Oplossingen </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/nl/services/ai-chatbots-&-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-                                            <li><a href="/nl/services/workflow-&-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+                                            <li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+                                            <li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1023,10 +1023,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">Word Partner</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/">Word Partner</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">Contact</a>
+						<a href="/contact/?linkcontact=top-contact-button" class="topbar-contact_button">Contact</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1107,7 +1107,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Agile & Datagedreven Ontwikkelproces</span>
     <span class="marquee-line_text">Internationaal Bureau met Zuidoost-Aziatische Wortels</span>
     <span class="marquee-line_text">Bedrijven Versterken met Schaalbare Oplossingen</span>
-    <span class="marquee-line_text">Op Maat Gemaakte StrategieÃ«n voor Elke Sector</span>
+    <span class="marquee-line_text">Op Maat Gemaakte Strategieën voor Elke Sector</span>
     <span class="marquee-line_text">Experts in Web-, Mobiele en SaaS-ontwikkeling</span>
     <span class="marquee-line_text">Resultaatgerichte Digitale Marketingoplossingen</span>
 </div>
@@ -1386,7 +1386,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/nl/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1398,12 +1398,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Bedrijf</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Bureau</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/nl/agency/partner-with-us/">Bureau</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1424,7 +1424,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Word Partner</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/nl/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1473,7 +1473,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../../">
+									<a href="/nl/agency/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="aenfinite.com" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1481,14 +1481,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Bureau</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/nl/agency/partner-with-us/">Bureau</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contact</a>
+							<a class="menu-contact" href="/nl/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com.com">E-mail ons</a>
 						</div>
 					</div>
@@ -1497,7 +1497,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
+				<a href="/nl/contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1742,7 +1742,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wij gebruiken cookies om uw gebruikerservaring te verbeteren. Door op ACCEPTEREN te klikken of verder te bladeren, stemt u in met ons
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
+						<a href="/nl/privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepteren</button>

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
-  description: "Aenfinite® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© based in Colorado, offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, Ø£ØªÙ…ØªØ© Ø§Ù„Ø£Ø¹Ù…Ø§Ù„, and AI-powered solutions for modern brands worldwide.",
-  keywords: "ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ©, web design, branding, SEO, AI solutions, digital marketing, business automation, ØªØµÙ…ÙŠÙ… UI UX, Aenfinite",
+  title: "Aenfinite® – Global Digital الوكالة for تصميم المواقع, العلامات التجارية, SEO & AI Solutions",
+  description: "Aenfinite® is a global وكالة رقمية based in Colorado, offering تصميم المواقع, UI/UX, العلامات التجارية, SEO, التسويق الرقمي, أتمتة الأعمال, and AI-powered solutions for modern brands worldwide.",
+  keywords: "وكالة رقمية, web design, branding, SEO, AI solutions, digital marketing, business automation, تصميم UI UX, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"Aenfinite® delivers world-class ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ar/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions","description":"Aenfinite® is a creative ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital الوكالة for تصميم المواقع, العلامات التجارية, SEO & AI Solutions","description":"Aenfinite® delivers world-class تصميم المواقع, العلامات التجارية, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ar/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital الوكالة for تصميم المواقع, العلامات التجارية, SEO & AI Solutions","description":"Aenfinite® is a creative وكالة رقمية offering تصميم المواقع, العلامات التجارية, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/ar/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
-								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/ar/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -573,26 +573,26 @@ from &nbsp;the&nbsp;Mile-High City</h1>
   <div class="services-grid">
     <div class="services-caption">
       <div class="section-caption_text">
-        <h2>Our Core Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+        <h2>Our Core الخدمات</h2>
       </div>
     </div>
 
     <div class="services-list">
 
-      <!-- ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ -->
+      <!-- تصميم المواقع -->
       <div class="servicebox">
         <div class="service active">
           <div class="service-title">
-            <span class="service-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</span>
+            <span class="service-name">تصميم المواقع</span>
           </div>
           <div class="service-content">
             <div class="service-tags">
               <div class="chips">
-                <div class="chip"><a href="/ar/services/web-design/">ØµÙØ­Ø§Øª Ø§Ù„Ù‡Ø¨ÙˆØ·</a></div>
-                <div class="chip"><a href="/ar/services/web-design">Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</a></div>
-                <div class="chip"><a href="/ar/services/web-design">ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ</a></div>
-                <div class="chip"><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… Ù…ØªØ¬Ø§ÙˆØ¨</a></div>
-                <div class="chip"><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></div>
+                <div class="chip"><a href="/ar/services/web-design/">صفحات الهبوط</a></div>
+                <div class="chip"><a href="/ar/services/web-design/">المواقع المؤسسية</a></div>
+                <div class="chip"><a href="/ar/services/web-design/">تصميم مواقع مخصص</a></div>
+                <div class="chip"><a href="/ar/services/ui-ux-design/">تصميم متجاوب</a></div>
+                <div class="chip"><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></div>
               </div>
             </div>
             <div class="service-text">
@@ -606,18 +606,18 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø± -->
+      <!-- العلامة التجارية وتصميم الشعار -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±</span>
+          <span class="service-name">العلامة التجارية وتصميم الشعار</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ar/services/branding/">Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</a></div>
+              <div class="chip"><a href="/ar/services/branding/">الهوية المؤسسية</a></div>
               <div class="chip"><a href="/ar/services/logo-design/">Logo Creation</a></div>
-              <div class="chip"><a href="/ar/services/branding/">Re-Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></div>
-              <div class="chip"><a href="/ar/services/conference-branding/">Ø¥Ø±Ø´Ø§Ø¯Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></div>
+              <div class="chip"><a href="/ar/services/branding/">Re-العلامات التجارية</a></div>
+              <div class="chip"><a href="/ar/services/conference-branding/">إرشادات العلامة التجارية</a></div>
             </div>
           </div>
           <div class="service-text">
@@ -629,17 +629,17 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ -->
+      <!-- التسويق الرقمي -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</span>
+          <span class="service-name">التسويق الرقمي</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† SEO</a></div>
-              <div class="chip"><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></div>
-              <div class="chip"><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></div>
+              <div class="chip"><a href="/ar/services/search-engine-optimization/">تحسين SEO</a></div>
+              <div class="chip"><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></div>
+              <div class="chip"><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></div>
               <div class="chip"><a href="/ar/services/pay-per-click/">PPC Advertising</a></div>
             </div>
           </div>
@@ -652,10 +652,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© -->
+      <!-- مواقع التجارة الإلكترونية -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</span>
+          <span class="service-name">مواقع التجارة الإلكترونية</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -674,16 +674,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ù…ÙˆØ§Ù‚Ø¹ WordPress -->
+      <!-- مواقع WordPress -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ù…ÙˆØ§Ù‚Ø¹ WordPress</span>
+          <span class="service-name">مواقع WordPress</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/ar/services/e-commerce-websites/">Custom Themes</a></div>
-              <div class="chip"><a href="/ar/services/e-commerce-websites/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª</a></div>
+              <div class="chip"><a href="/ar/services/e-commerce-websites/">تطوير الإضافات</a></div>
               <div class="chip"><a href="/ar/services/e-commerce-websites/">CMS Setup</a></div>
             </div>
           </div>
@@ -696,10 +696,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª -->
+      <!-- تطوير التطبيقات -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</span>
+          <span class="service-name">تطوير التطبيقات</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -719,16 +719,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ -->
+      <!-- التصميم الجرافيكي -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</span>
+          <span class="service-name">التصميم الجرافيكي</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ar/services/graphic-design/">Social Media Ø§Ù„Ø±Ø³ÙˆÙ…Ø§Øª</a></div>
-              <div class="chip"><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></div>
+              <div class="chip"><a href="/ar/services/graphic-design/">Social Media الرسومات</a></div>
+              <div class="chip"><a href="/ar/services/logo-design/">تصميم الشعارات</a></div>
               <div class="chip"><a href="/ar/services/graphic-design/">Print Materials</a></div>
               <div class="chip"><a href="/ar/services/graphic-design/">Pitch Decks</a></div>
             </div>
@@ -742,10 +742,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª -->
+      <!-- تصميم العبوات -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</span>
+          <span class="service-name">تصميم العبوات</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -764,10 +764,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- Ø§Ù„ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ø®ØµØµ -->
+      <!-- التطوير المخصص -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">Ø§Ù„ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ø®ØµØµ</span>
+          <span class="service-name">التطوير المخصص</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -813,18 +813,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 هوية العلامة التجارية" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 – Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Logo Collection</div>
+                <div class="card-name">CycleThe6 – هوية العلامة التجارية & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
-                        <li>ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</li>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</li>
+                        <li>هوية العلامة التجارية</li>
+                        <li>تصميم الشعارات</li>
+                        <li>العلامة التجارية الرياضية</li>
                     </ul>
                 </div>
             </div>
@@ -837,18 +837,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance العلامات التجارية" loading="lazy" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume – Luxury Fragrance Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</div>
+                <div class="card-name">Muskfume – Luxury Fragrance العلامات التجارية</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ÙØ§Ø®Ø±Ø©</li>
-                        <li>Ø§Ù„Ø¬Ù…Ø§Ù„ ÙˆÙ…Ø³ØªØ­Ø¶Ø±Ø§Øª Ø§Ù„ØªØ¬Ù…ÙŠÙ„</li>
-                        <li>Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ø·ÙˆØ±</li>
+                        <li>العلامة التجارية الفاخرة</li>
+                        <li>الجمال ومستحضرات التجميل</li>
+                        <li>هوية العطور</li>
                     </ul>
                 </div>
             </div>
@@ -862,17 +862,17 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil AI Trading Platform" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil – AI Trading Platform & Technology Ø§Ù„Ø§Ø¨ØªÙƒØ§Ø±</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology الابتكار</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ù…Ù†ØµØ© Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ</li>
-                        <li>ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨</li>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</li>
+                        <li>منصة الذكاء الاصطناعي</li>
+                        <li>تطوير الويب</li>
+                        <li>العلامة التجارية التقنية</li>
                     </ul>
                 </div>
             </div>
@@ -885,8 +885,8 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine منصة التسويق" loading="lazy" decoding="async" />
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -894,9 +894,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚</li>
-                        <li>ØªØ·ÙˆÙŠØ± Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</li>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø§Ø­ØªØ±Ø§ÙÙŠØ©</li>
+                        <li>منصة التسويق</li>
+                        <li>تطوير الأعمال</li>
+                        <li>العلامة التجارية الاحترافية</li>
                     </ul>
                 </div>
             </div>
@@ -910,7 +910,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya E-commerce Platform" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -918,9 +918,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</li>
-                        <li>Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙ‚</li>
-                        <li>ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</li>
+                        <li>تطوير التجارة الإلكترونية</li>
+                        <li>منصة التسوق</li>
+                        <li>تجربة المستخدم</li>
                     </ul>
                 </div>
             </div>
@@ -933,18 +933,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros Ø­Ù„ÙˆÙ„ Ø§Ù„Ø®ÙˆØ§Ø±Ø²Ù…ÙŠØ§Øª" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros حلول الخوارزميات" loading="lazy" decoding="async" />
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros – Ø­Ù„ÙˆÙ„ Ø§Ù„Ø®ÙˆØ§Ø±Ø²Ù…ÙŠØ§Øª & Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
+                <div class="card-name">AlgoPros – حلول الخوارزميات & العلامة التجارية التقنية</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„ØªÙ‚Ù†ÙŠØ©</li>
-                        <li>Ø­Ù„ÙˆÙ„ Ø§Ù„Ø®ÙˆØ§Ø±Ø²Ù…ÙŠØ§Øª</li>
-                        <li>Ù‡ÙˆÙŠØ© Ø§Ù„Ø´Ø±ÙƒØ§Øª Ø§Ù„Ù†Ø§Ø´Ø¦Ø©</li>
+                        <li>العلامة التجارية التقنية</li>
+                        <li>حلول الخوارزميات</li>
+                        <li>هوية الشركات الناشئة</li>
                     </ul>
                 </div>
             </div>
@@ -958,7 +958,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -966,14 +966,14 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ø§Ù„Ù…Ù†ØµØ© Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠØ©</li>
-                        <li>Ø£Ø¯ÙˆØ§Øª Ø§Ù„ØªØ¹Ø§ÙˆÙ†</li>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ©</li>
+                        <li>المنصة الاجتماعية</li>
+                        <li>أدوات التعاون</li>
+                        <li>العلامة التجارية الإبداعية</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/ar/work/afropop/">View Project</a>
+                <a href="/ar/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -981,18 +981,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech منصة التسويق" loading="lazy" decoding="async" />
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech – Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ & SaaS Solution</div>
+                <div class="card-name">KhaTech – منصة التسويق & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
-                        <li>ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</li>
-                        <li>B2B Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
+                        <li>تطوير المنصات</li>
+                        <li>B2B العلامات التجارية</li>
                     </ul>
                 </div>
             </div>
@@ -1005,18 +1005,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance Ø§Ù„Ø®Ø¯Ù…Ø§Øª" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance الخدمات" loading="lazy" decoding="async" />
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI – Compliance Ø§Ù„Ø®Ø¯Ù…Ø§Øª & Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</div>
+                <div class="card-name">AM-KI – Compliance الخدمات & الهوية المؤسسية</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ù…Ø¤Ø³Ø³ÙŠØ©</li>
-                        <li>Professional Ø§Ù„Ø®Ø¯Ù…Ø§Øª</li>
-                        <li>Business Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</li>
+                        <li>الهوية المؤسسية</li>
+                        <li>Professional الخدمات</li>
+                        <li>Business العلامات التجارية</li>
                     </ul>
                 </div>
             </div>
@@ -1029,23 +1029,23 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ©" loading="lazy" decoding="async" />
-                <span>Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick العلامة التجارية الإبداعية" loading="lazy" decoding="async" />
+                <span>عرض المشروع</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick – Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ© & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – العلامة التجارية الإبداعية & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
-                        <li>Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ÙŠØ©</li>
+                        <li>العلامة التجارية الإبداعية</li>
                         <li>Artistic Design</li>
                         <li>Brand Excellence</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/ar/work/web-design-&-development/">View Project</a>
+                <a href="/ar/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1097,7 +1097,7 @@ websites &amp; apps on beast mode.</h2>
 												<div class="num-text">
 													<div>
 														successful cases <br class="desktop" />
-in Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ &amp;&nbsp;Apps																											</div>
+in العلامات التجارية, تصميم المواقع &amp;&nbsp;Apps																											</div>
 												</div>
 											</div>
 										</div>
@@ -1137,14 +1137,14 @@ with clients																											</div>
 				<div class="marquee js-runner">
     <div class="marquee-line js-runner-content">
         <div class="marquee-line_text">Aenfinite Digital Wizards</div>
-        <div class="marquee-line_text">Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµØ© & Apps</div>
-        <div class="marquee-line_text">Bold Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Design</div>
-        <div class="marquee-line_text">Smart Ø§Ù„Ø£ØªÙ…ØªØ© & AI</div>
+        <div class="marquee-line_text">مواقع مخصصة & Apps</div>
+        <div class="marquee-line_text">Bold العلامات التجارية & Design</div>
+        <div class="marquee-line_text">Smart الأتمتة & AI</div>
         <div class="marquee-line_text">3D & Motion Experiences</div>
-        <div class="marquee-line_text">Creative + Ø§Ù„ØªÙ‚Ù†ÙŠØ© Synergy</div>
+        <div class="marquee-line_text">Creative + التقنية Synergy</div>
         <div class="marquee-line_text">Global Clients, Local Roots</div>
         <div class="marquee-line_text">Made-to-Measure Solutions</div>
-        <div class="marquee-line_text">Shopify & Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© Experts</div>
+        <div class="marquee-line_text">Shopify & التجارة الإلكترونية Experts</div>
         <div class="marquee-line_text">Next-Level UX/UI Strategy</div>
         <div class="marquee-line_text">Aenfinite  Ideas Into Reality</div>
     </div>
@@ -1176,7 +1176,7 @@ with clients																											</div>
 						
 <div class="wpcf7" id="wpcf7-f1502-o1" lang="en-US" dir="ltr" data-wpcf7-id="1502">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="اتصل بنا form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1502" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1214,7 +1214,7 @@ with clients																											</div>
 </div>
 
 						<div class="footer-grid_address">
-    <div class="footer-title">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+    <div class="footer-title">العنوان</div>
     <div class="footer-text">
         1500 Grant Street<br />
         Denver, CO 80203<br />
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ù…Ø®ØµØµ</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">Ø§Ù„ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ø®ØµØµ</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
-        <li class="menu-item"><a href="../services/branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© &amp; ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-        <li class="menu-item"><a href="../services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
+        <li class="menu-item"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+        <li class="menu-item"><a href="/ar/services/custom-web-development/">تصميم مواقع مخصص</a></li>
+        <li class="menu-item"><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+        <li class="menu-item"><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+        <li class="menu-item"><a href="/ar/services/custom-web-development/">التطوير المخصص</a></li>
+        <li class="menu-item"><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
+        <li class="menu-item"><a href="/ar/services/branding/">العلامات التجارية &amp; تصميم الشعارات</a></li>
+        <li class="menu-item"><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li>
+        <li class="menu-item"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+        <li class="menu-item"><a href="/ar/services/digital-marketing/">التسويق الرقمي</a></li>
+        <li class="menu-item"><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ar/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/ar/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">
@@ -1736,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "Aenfinite® – Global Digital Ø§Ù„ÙˆÙƒØ§Ù„Ø© for ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO & AI Solutions",
-      "description": "Aenfinite® is a global ÙˆÙƒØ§Ù„Ø© Ø±Ù‚Ù…ÙŠØ© offering creative ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, UI/UX, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, SEO, Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital الوكالة for تصميم المواقع, العلامات التجارية, SEO & AI Solutions",
+      "description": "Aenfinite® is a global وكالة رقمية offering creative تصميم المواقع, UI/UX, العلامات التجارية, SEO, التسويق الرقمي, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"ar-SA",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Top Design & Merkontwerp Bureau in Denver | Web, App & Verpakkingsontwerp | Aenfinite",
+  title: "Top Design & Merkontwerp Bureau in Denver | Web, App & Verpakkingsontwerp",
   description: "Aenfinite is a full-service digitaal bureau in Denver specializing in website design, branding, packaging, UI/UX, and app-ontwikkeling. Since 2017, we've helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Denver, merkontwerp bureau, webdesign bureau, app-ontwikkeling agency, packaging design agency, digitaal bureau, Aenfinite about",
   alternates: { canonical: "https://aenfinite.com/nl/agency/", languages: {"x-default":"https://aenfinite.com/agency/","en":"https://aenfinite.com/agency/","es":"https://aenfinite.com/es/agency/","fr":"https://aenfinite.com/fr/agency/","de":"https://aenfinite.com/de/agency/","it":"https://aenfinite.com/it/agency/","ar":"https://aenfinite.com/ar/agency/","pt":"https://aenfinite.com/pt/agency/","zh":"https://aenfinite.com/zh/agency/","hi":"https://aenfinite.com/hi/agency/","nl":"https://aenfinite.com/nl/agency/","ja":"https://aenfinite.com/ja/agency/","ko":"https://aenfinite.com/ko/agency/"} },
@@ -1402,8 +1402,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                             
 											<li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/nl/services/custom-web-development">Op Maat Gemaakte Webontwikkeling</a></li>
-											<li><a href="/nl/services/software-&-platform-development/">Software- & Platformontwikkeling</a></li>
+											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
+											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>                                      </ul>
@@ -1425,7 +1425,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-                                            <li><a href="/nl/services/pay-per-click">Pay-Per-Click (PPC) Adverteren</a></li>
+                                            <li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
                                             <li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li> <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
                                             
                                         </ul>
@@ -1433,8 +1433,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">AI- & Technologische Oplossingen </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/nl/services/ai-chatbots-&-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-                                            <li><a href="/nl/services/workflow-&-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+                                            <li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+                                            <li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1891,7 +1891,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/nl/services/paid-ads/" class="chip-label">Betaald Adverteren</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/Pay-per-click/" class="chip-label">PPC-campagnes</a>
+													<a href="/nl/services/pay-per-click/" class="chip-label">PPC-campagnes</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/social-media-marketing/" class="chip-label">Socialmediamarketing</a>
@@ -2028,7 +2028,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/nl/services/graphic-design/" class="chip-label">Drukwerkontwerp</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/print-design/" class="chip-label">Visitekaartjes</a>
+													<a href="/nl/services/graphic-design/" class="chip-label">Visitekaartjes</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/graphic-design/" class="chip-label">Brochures</a>
@@ -2037,7 +2037,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/nl/services/graphic-design/" class="chip-label">Digitale Grafische Producties</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/social-media-design/" class="chip-label">Contentontwerp</a>
+													<a href="/nl/services/social-media-marketing/" class="chip-label">Contentontwerp</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/graphic-design/" class="chip-label">Marketingmateriaal</a>
@@ -2102,19 +2102,19 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/nl/services/custom-web-development/" class="chip-label">Op Maat Gemaakte Webontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/software-&-platform-development/" class="chip-label">Softwareontwikkeling</a>
+													<a href="/nl/services/software-and-platform-development/" class="chip-label">Softwareontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/workflow-&-business-automation/" class="chip-label">Bedrijfsautomatisering</a>
+													<a href="/nl/services/workflow-and-business-automation/" class="chip-label">Bedrijfsautomatisering</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/ai-chatbots-&-virtual-assistants/" class="chip-label">AI-chatbots</a>
+													<a href="/nl/services/ai-chatbots-and-virtual-assistants/" class="chip-label">AI-chatbots</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/custom-web-development/" class="chip-label">Platformontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/workflow-&-business-automation/" class="chip-label">Workflowautomatisering</a>
+													<a href="/nl/services/workflow-and-business-automation/" class="chip-label">Workflowautomatisering</a>
 												</div>
 																					</div>
 									</div>
@@ -2256,7 +2256,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ik ben geÃ¯nteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Merkontwerp" id="branding" /><label for="branding" class="list-item-label">Merkontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="Webdesign" id="web-design" /><label for="web-design" class="list-item-label">Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Digitale Marketing" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Digitale Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce Oplossingen" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">E-Commerce Oplossingen</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-ontwerp" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX-ontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="App-ontwikkeling" id="app-development" /><label for="app-development" class="list-item-label">App-ontwikkeling</label></span><span class="list-item"><input type="checkbox" name="services" value="Verpakking" id="packaging" /><label for="packaging" class="list-item-label">Verpakking</label></span><span class="list-item"><input type="checkbox" name="services" value="Grafisch Ontwerp" id="graphic-design" /><label for="graphic-design" class="list-item-label">Grafisch Ontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Websites" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress Websites</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig" id="other" /><label for="other" class="list-item-label">Overig</label></span></span></span>
+		<strong>Ik ben geïnteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Merkontwerp" id="branding" /><label for="branding" class="list-item-label">Merkontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="Webdesign" id="web-design" /><label for="web-design" class="list-item-label">Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Digitale Marketing" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Digitale Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce Oplossingen" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">E-Commerce Oplossingen</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-ontwerp" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX-ontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="App-ontwikkeling" id="app-development" /><label for="app-development" class="list-item-label">App-ontwikkeling</label></span><span class="list-item"><input type="checkbox" name="services" value="Verpakking" id="packaging" /><label for="packaging" class="list-item-label">Verpakking</label></span><span class="list-item"><input type="checkbox" name="services" value="Grafisch Ontwerp" id="graphic-design" /><label for="graphic-design" class="list-item-label">Grafisch Ontwerp</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Websites" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress Websites</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig" id="other" /><label for="other" class="list-item-label">Overig</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Vertel ons uw geschatte budget" value="" readonly name="budget" />
@@ -2396,7 +2396,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Heeft u een Project in Gedachten? Laten We Samen Iets Geweldigs Bouwen.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/nl/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2410,19 +2410,19 @@ Our white-label services enable agencies and consultants to expand their offerin
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">Bureau</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Diensten</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Diensten</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Webdesign</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">WordPress Websites</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Merkontwerp</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Verpakkingsontwerp</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Grafisch Ontwerp</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/nl/services/web-design/">Webdesign</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/nl/services/branding/">Merkontwerp</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/nl/services/packaging-design/">Verpakkingsontwerp</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/nl/services/graphic-design/">Grafisch Ontwerp</a></li>
 
 </ul>														</div>
 							</div>
@@ -2432,12 +2432,12 @@ Our white-label services enable agencies and consultants to expand their offerin
 									<ul id="menu-footer-connect" class="menuss">
 <li id="menu-item-4965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4965"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.linkedin.com/company/aenfinite/">LinkedIn</a></li>
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="partner-with-us/">Word Partner</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/white-label-services/">White Label Diensten</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/ghl-services/">GHL-diensten</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/">Word Partner</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/nl/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2486,23 +2486,23 @@ Our white-label services enable agencies and consultants to expand their offerin
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/nl/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
 						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
-						<link rel="canonical" href="https://aenfinite.com/services/branding/" />
+						<link rel="canonical" href="/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">Bureau</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Diensten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">Contact</a>
+							<a class="menu-contact" href="/nl/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">E-mail ons</a>
 						</div>
 					</div>
@@ -2759,7 +2759,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 			}
 		</style>
 
-				<a href="contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
+				<a href="/nl/contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -2991,7 +2991,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wij gebruiken cookies om uw gebruikerservaring te verbeteren. Door op ACCEPTEREN te klikken of verder te bladeren, stemt u in met ons
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
+						<a href="/nl/privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepteren</button>

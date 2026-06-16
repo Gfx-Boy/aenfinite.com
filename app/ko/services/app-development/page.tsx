@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ì•± ê°œë°œ ì„œë¹„ìŠ¤ | Mobile & Web Application Experts | Aenfinite",
+  title: "앱 개발 서비스 | Mobile & Web Application Experts",
   description: "Aenfinite develops custom mobile and web applications that are fast, secure, and scalable. We specialize in native, cross-platform, and full-stack app solutions built for growth and engagement.",
-  keywords: "ì•± ê°œë°œ, mobile ì•± ê°œë°œ, iOS ì•± ê°œë°œ, Android ì•± ê°œë°œ, cross-platform app, React Native, Flutter, full-stack ì•± ê°œë°œ, Aenfinite",
+  keywords: "앱 개발, mobile 앱 개발, iOS 앱 개발, Android 앱 개발, cross-platform app, React Native, Flutter, full-stack 앱 개발, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/app-development/", languages: {"x-default":"https://aenfinite.com/services/app-development/","en":"https://aenfinite.com/services/app-development/","es":"https://aenfinite.com/es/services/app-development/","fr":"https://aenfinite.com/fr/services/app-development/","de":"https://aenfinite.com/de/services/app-development/","it":"https://aenfinite.com/it/services/app-development/","ar":"https://aenfinite.com/ar/services/app-development/","pt":"https://aenfinite.com/pt/services/app-development/","zh":"https://aenfinite.com/zh/services/app-development/","hi":"https://aenfinite.com/hi/services/app-development/","nl":"https://aenfinite.com/nl/services/app-development/","ja":"https://aenfinite.com/ja/services/app-development/","ko":"https://aenfinite.com/ko/services/app-development/"} },
-  openGraph: {"title":"ì•± ê°œë°œ ì„œë¹„ìŠ¤ | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/ko/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ì•± ê°œë°œ ì„œë¹„ìŠ¤ | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"앱 개발 서비스 | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/ko/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"앱 개발 서비스 | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 											
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1356,18 +1356,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Mobile & Web ì•± ê°œë°œ ì„œë¹„ìŠ¤</span>
+    <span class="marquee-line_text">Professional Mobile & Web 앱 개발 서비스</span>
     <span class="marquee-line_text">Native Apps, Cross-Platform Solutions & Optimization</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Specialists in App Performance & ì‚¬ìš©ìž ê²½í—˜</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">Specialists in App Performance & 사용자 경험</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for App Solutions</span>
-    <span class="marquee-line_text">High-Performance ì•± ê°œë°œ & Security</span>
+    <span class="marquee-line_text">High-Performance 앱 개발 & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce ì—ì´ì „ì‹œ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce ìœ ì§€ë³´ìˆ˜ & Support</span>
+    <span class="marquee-line_text">Professional E-commerce 에이전시 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce 유지보수 & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable 이커머스 개발 & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1375,18 +1375,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/fiscoclic/">
+									<a href="/ko/work/fiscoclic/">
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/fiscoclic/" class="shiftbox-link"> </a>
+									    <a href="/ko/work/fiscoclic/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">Business Apps</div>
-																							<div class="preview-name">ëª¨ë°”ì¼ UI/UX</div>
+																							<div class="preview-name">모바일 UI/UX</div>
 																							<div class="preview-name">Cloud Integration</div>
 																					</div>
 									</div>
@@ -1396,17 +1396,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart ì›°ë‹ˆìŠ¤ & Light Therapy ëª¨ë°”ì¼ ì•±" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
+									<a href="/ko/work/lumea/">
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart 웰니스 & Light Therapy 모바일 앱" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Smart ì›°ë‹ˆìŠ¤ & Light Therapy ëª¨ë°”ì¼ ì•±</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
-																							<div class="preview-name">ì›°ë‹ˆìŠ¤ Apps</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/lumea/">Lumea - Smart 웰니스 & Light Therapy 모바일 앱</a></div>
+																																		<div class="preview-name">모바일 앱</div>
+																							<div class="preview-name">웰니스 Apps</div>
 																							<div class="preview-name">Health UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
 																					</div>
@@ -1417,18 +1417,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - ì •ì‹  ê±´ê°• & Fitness App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/ko/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - 정신 건강 & Fitness App" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - ì •ì‹  ê±´ê°• & Fitness App</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/mindfit/">Mindfit - 정신 건강 & Fitness App</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">Fitness Apps</div>
-																							<div class="preview-name">ì›°ë‹ˆìŠ¤ UI/UX</div>
+																							<div class="preview-name">웰니스 UI/UX</div>
 																							<div class="preview-name">Mental Health</div>
 																					</div>
 									</div>
@@ -1438,16 +1438,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
+									<a href="/ko/work/neocert/">
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									    <a href="/ko/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">Event Apps</div>
 																							<div class="preview-name">Entertainment UI/UX</div>
 																							<div class="preview-name">Booking Systems</div>
@@ -1459,17 +1459,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & ì‹ ê²½ê¸°ìˆ  Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/ko/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & 신경기술 Platform" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & ì‹ ê²½ê¸°ìˆ  Platform</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
-																							<div class="preview-name">ì‹ ê²½ê¸°ìˆ </div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/neurolinker/">Neurolinker - Brain-Computer Interface & 신경기술 Platform</a></div>
+																																		<div class="preview-name">모바일 앱</div>
+																							<div class="preview-name">신경기술</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain-Computer Interface</div>
 																					</div>
@@ -1480,16 +1480,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity ëª¨ë°”ì¼ ì•±" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/olly/" class="shiftbox-link"> </a>
+									<a href="/ko/work/olly/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity 모바일 앱" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity ëª¨ë°”ì¼ ì•±</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/olly/">Olly - Smart Personal Assistant & Productivity 모바일 앱</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">AI Assistant</div>
 																							<div class="preview-name">Productivity UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
@@ -1501,16 +1501,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/quarena/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ì•± ê°œë°œ" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/quarena/" class="shiftbox-link"> </a>
+									<a href="/ko/work/quarena/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & 앱 개발" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/quarena/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & ì•± ê°œë°œ</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/quarena/">Quarena - Advanced Trading Platform UI/UX & 앱 개발</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">Trading Apps</div>
 																							<div class="preview-name">Financial UI/UX</div>
 																							<div class="preview-name">Cryptocurrency</div>
@@ -1522,16 +1522,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/ansu/">
+									<a href="/ko/work/ansu/">
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/ansu/" class="shiftbox-link"> </a>
+									    <a href="/ko/work/ansu/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
+																																		<div class="preview-name">모바일 앱</div>
 																							<div class="preview-name">Neural Technology</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain Technology</div>
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional ì•± ê°œë°œ services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional 앱 개발 services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/ko/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1581,7 +1581,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     </div>
                     <div class="numbers-title">
                         <div>
-                            <div>years of expertise in native, cross-platform, and progressive web ì•± ê°œë°œ, delivering high-performing, user-centric solutions</div>
+                            <div>years of expertise in native, cross-platform, and progressive web 앱 개발, delivering high-performing, user-centric solutions</div>
                         </div>
                     </div>
                 </div>
@@ -1607,7 +1607,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Mobile ì•± ê°œë°œ Portfolio</h2>
+						<h2>Aenfinite Mobile 앱 개발 Portfolio</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,15 +1616,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/fiscoclic/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<div class="preview-action"><a href="/ko/work/fiscoclic/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
+											<a href="/ko/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">Business Apps</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ UI/UX</div>
+																					<div class="preview-name">모바일 UI/UX</div>
 																					<div class="preview-name">Cloud Integration</div>
 											
 									</div>
@@ -1633,15 +1633,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart ì›°ë‹ˆìŠ¤ & Light Therapy ëª¨ë°”ì¼ ì•±" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/lumea/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart 웰니스 & Light Therapy 모바일 앱" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/lumea/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart ì›°ë‹ˆìŠ¤ & Light Therapy ëª¨ë°”ì¼ ì•±</a>
+											<a href="/ko/work/lumea/">Lumea - Smart 웰니스 & Light Therapy 모바일 앱</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
-																					<div class="preview-name">ì›°ë‹ˆìŠ¤ Apps</div>
+																					<div class="preview-name">모바일 앱</div>
+																					<div class="preview-name">웰니스 Apps</div>
 																					<div class="preview-name">Health UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
 											
@@ -1651,16 +1651,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - ì •ì‹  ê±´ê°• & Fitness App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - 정신 건강 & Fitness App" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/mindfit/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit - ì •ì‹  ê±´ê°• & Fitness App</a>
+											<a href="/ko/work/mindfit/">Mindfit - 정신 건강 & Fitness App</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">Fitness Apps</div>
-																					<div class="preview-name">ì›°ë‹ˆìŠ¤ UI/UX</div>
+																					<div class="preview-name">웰니스 UI/UX</div>
 																					<div class="preview-name">Mental Health</div>
 											
 									</div>
@@ -1670,13 +1670,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<div class="preview-action"><a href="/ko/work/neocert/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a>
+											<a href="/ko/work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">Event Apps</div>
 																					<div class="preview-name">Entertainment UI/UX</div>
 																					<div class="preview-name">Booking Systems</div>
@@ -1687,15 +1687,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & ì‹ ê²½ê¸°ìˆ  Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & 신경기술 Platform" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/neurolinker/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & ì‹ ê²½ê¸°ìˆ  Platform</a>
+											<a href="/ko/work/neurolinker/">Neurolinker - Brain-Computer Interface & 신경기술 Platform</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
-																					<div class="preview-name">ì‹ ê²½ê¸°ìˆ </div>
+																					<div class="preview-name">모바일 앱</div>
+																					<div class="preview-name">신경기술</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain-Computer Interface</div>
 											
@@ -1705,14 +1705,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity ëª¨ë°”ì¼ ì•±" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/olly/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity 모바일 앱" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/olly/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity ëª¨ë°”ì¼ ì•±</a>
+											<a href="/ko/work/olly/">Olly - Smart Personal Assistant & Productivity 모바일 앱</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">AI Assistant</div>
 																					<div class="preview-name">Productivity UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
@@ -1723,14 +1723,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ì•± ê°œë°œ" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/quarena/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & 앱 개발" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/quarena/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & ì•± ê°œë°œ</a>
+											<a href="/ko/work/quarena/">Quarena - Advanced Trading Platform UI/UX & 앱 개발</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">Trading Apps</div>
 																					<div class="preview-name">Financial UI/UX</div>
 																					<div class="preview-name">Cryptocurrency</div>
@@ -1742,13 +1742,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/ansu/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<div class="preview-action"><a href="/ko/work/ansu/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
+											<a href="/ko/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 										</div>
-																					<div class="preview-name">ëª¨ë°”ì¼ ì•±</div>
+																					<div class="preview-name">모바일 앱</div>
 																					<div class="preview-name">Neural Technology</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain Technology</div>
@@ -1759,8 +1759,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
-						<span>ëª¨ë“  í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+					<a href="/ko/work/mobile-apps/" class="redlink">
+						<span>모든 프로젝트 보기</span>
 					</a>
 				</div>
 			</div>
@@ -1771,12 +1771,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="block formss">
         <div class="center">
             <div class="formss-wrap">
-                <h2>ë¬¸ì˜ Aenfinite for Expert ì•± ê°œë°œ ì„œë¹„ìŠ¤</h2>
+                <h2>문의 Aenfinite for Expert 앱 개발 서비스</h2>
                 <div class="toggle-formss">
                     
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1789,10 +1789,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
     <div class="inputs">
         <span class="wpcf7-form-control-wrap" data-name="your-name">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="your-email">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="text-tell-project">
             <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your app idea or project" value="" type="text" name="text-tell-project" />
@@ -1800,23 +1800,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="checkbox-select">
-        <strong>ê´€ì‹¬ ë¶„ì•¼...</strong>
+        <strong>관심 분야...</strong>
         <span class="form-control-wrap" data-name="checkbox-select">
             <span class="form-control checkbox-group" style="padding-bottom: 50px">
-                <span class="list-item first"><input type="checkbox" name="services" value="iOS ì•± ê°œë°œ" id="ios-app" /><label for="ios-app" class="list-item-label">iOS ì•± ê°œë°œ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Android ì•± ê°œë°œ" id="android-app" /><label for="android-app" class="list-item-label">Android ì•± ê°œë°œ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Cross-í”Œëž«í¼ ê°œë°œ" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-í”Œëž«í¼ ê°œë°œ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Web ì•± ê°œë°œ" id="web-app" /><label for="web-app" class="list-item-label">Web ì•± ê°œë°œ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="UI/UX ë””ìžì¸" id="uiux" /><label for="uiux" class="list-item-label">UI/UX ë””ìžì¸</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="API ê°œë°œ & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API ê°œë°œ & Integration</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="App ìœ ì§€ë³´ìˆ˜ & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App ìœ ì§€ë³´ìˆ˜ & Support</label></span>
+                <span class="list-item first"><input type="checkbox" name="services" value="iOS 앱 개발" id="ios-app" /><label for="ios-app" class="list-item-label">iOS 앱 개발</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Android 앱 개발" id="android-app" /><label for="android-app" class="list-item-label">Android 앱 개발</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Cross-플랫폼 개발" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-플랫폼 개발</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Web 앱 개발" id="web-app" /><label for="web-app" class="list-item-label">Web 앱 개발</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="UI/UX 디자인" id="uiux" /><label for="uiux" class="list-item-label">UI/UX 디자인</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="API 개발 & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API 개발 & Integration</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="App 유지보수 & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App 유지보수 & Support</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="App Migration & Upgrades" id="app-migration" /><label for="app-migration" class="list-item-label">App Migration & Upgrades</label></span>
                 <span class="list-item last"><input type="checkbox" name="services" value="Custom App Consultation" id="app-consultation" /><label for="app-consultation" class="list-item-label">Custom App Consultation</label></span>
             </span>
         </span>
 
         <div class="selectbox js-select">
-            <input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+            <input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
             <div class="selectbox-suffix">
                 <svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
             </div>
@@ -1835,7 +1835,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <!-- Hidden fields stay same -->
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1851,12 +1851,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="inner-wrapper">
                 <div class="section-caption js-aos">
                     <div class="section-caption_text">
-                        <h2>ì•± ê°œë°œ Expertise</h2>
+                        <h2>앱 개발 Expertise</h2>
                     </div>
                 </div>
                 <div class="textbox textbox__push js-aos appear">
                     <div class="textbox-content">
-                        Aenfinite delivers end-to-end ì•± ê°œë°œ solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your ë””ì§€í„¸ ì „í™˜ and business growth.
+                        Aenfinite delivers end-to-end 앱 개발 solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your 디지털 전환 and business growth.
                     </div>
                 </div>
             </div>
@@ -1864,30 +1864,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="panes">
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Custom Mobile ì•± ê°œë°œ</div>
+                <div class="pane-title">Custom Mobile 앱 개발</div>
                 <div class="pane-subtitle">
                     <p>We build fully customized mobile applications tailored to your business needs. From concept to deployment, our team crafts native iOS, Android, and hybrid apps that are secure, scalable, and performance-optimized.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">UI/UX ë””ìžì¸ for Apps</div>
+                <div class="pane-title">UI/UX 디자인 for Apps</div>
                 <div class="pane-subtitle">
                     <p>Our design team creates intuitive and engaging app interfaces that deliver a seamless user experience. We focus on usability, accessibility, and brand consistency to ensure your app stands out and keeps users engaged.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">API & Backend ê°œë°œ</div>
+                <div class="pane-title">API & Backend 개발</div>
                 <div class="pane-subtitle">
                     <p>Power your applications with secure and scalable backend systems. We specialize in building robust APIs, database architecture, and cloud integrations that ensure smooth functionality and seamless data flow.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Cross-í”Œëž«í¼ ê°œë°œ</div>
+                <div class="pane-title">Cross-플랫폼 개발</div>
                 <div class="pane-subtitle">
-                    <p>Save time and cost with our cross-platform ì•± ê°œë°œ expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
+                    <p>Save time and cost with our cross-platform 앱 개발 expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -1913,7 +1913,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">ìœ ì§€ë³´ìˆ˜ & Support</div>
+                <div class="pane-title">유지보수 & Support</div>
                 <div class="pane-subtitle">
                     <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
@@ -1933,7 +1933,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>ì•± ê°œë°œ Process</h2>
+                    <h2>앱 개발 Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>Our team designs a scalable architecture for your app, defining database structures, APIs, and backend workflows. We ensure the solution is secure, maintainable, and optimized for performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-                            <span>ê°œë°œ Roadmap</span>
+                            <span>개발 Roadmap</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-3">
                             <p>We create a clear roadmap with milestones, sprints, and timelines. This keeps you informed throughout the development cycle and ensures alignment with your business objectives.</p>
@@ -1992,9 +1992,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-content js-switch-copy"></div>
                 </div>
 
-                <!-- ê°œë°œ -->
+                <!-- 개발 -->
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">ì•± ê°œë°œ</div>
+                    <div class="nlist-caption">앱 개발</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
                             <span>Backend & API</span>
@@ -2030,7 +2030,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-caption">Support</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>ìœ ì§€ë³´ìˆ˜ & Updates</span>
+                            <span>유지보수 & Updates</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-4-1">
                             <p>We provide ongoing support, regular updates, and security patches to keep your app running smoothly and up-to-date.</p>
@@ -2061,7 +2061,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ì•± ê°œë°œ</span> is the perfect blend of technical expertise and user-focused design. í¬íŠ¸í´ë¦¬ì˜¤ with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">앱 개발</span> is the perfect blend of technical expertise and user-focused design. 포트폴리오 with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2072,7 +2072,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite ì•± ê°œë°œ ì„œë¹„ìŠ¤</h2>
+                    <h2>Aenfinite 앱 개발 서비스</h2>
                 </div>
             </div>
             <div class="service-grid">
@@ -2080,7 +2080,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="service-list js-service-container fadein js-aos">
 
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom ì•± ê°œë°œ</div>
+                            <div class="service-caption js-service-caption">Custom 앱 개발</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2096,7 +2096,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="service-text">
                                     <p>We build robust, scalable, and high-performance mobile and web applications tailored to your business goals and user needs.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our custom ì•± ê°œë°œ process includes:</strong></p>
+                                        <p><strong>Our custom 앱 개발 process includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
                                             <li>Requirement gathering and solution architecture</li>
                                             <li>Custom API and database design</li>
@@ -2116,7 +2116,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">UI/UX ë””ìžì¸</div>
+                            <div class="service-caption js-service-caption">UI/UX 디자인</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2182,7 +2182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">App ìœ ì§€ë³´ìˆ˜ & Support</div>
+                            <div class="service-caption js-service-caption">App 유지보수 & Support</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2231,8 +2231,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>í”„ë¡œì íŠ¸ê°€ ìžˆìœ¼ì‹ ê°€ìš”? í•¨ê»˜ ë©‹ì§„ ê²ƒì„ ë§Œë“¤ì–´ ë´…ì‹œë‹¤.</span>
-								<a href="../../contact/" class="redlink">
+								<span>프로젝트가 있으신가요? 함께 멋진 것을 만들어 봅시다.</span>
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2242,42 +2242,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../app-development/">ì•± ê°œë°œ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/app-development/">앱 개발</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2332,15 +2332,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2348,14 +2348,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2593,11 +2593,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2659,11 +2659,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2727,7 +2727,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2757,28 +2757,28 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/app-development/#webpage",
       "url": "https://aenfinite.com/services/app-development/",
-      "name": "ì•± ê°œë°œ ì„œë¹„ìŠ¤ | Mobile & Web Application Experts | Aenfinite",
-      "description": "Aenfinite provides professional ì•± ê°œë°œ services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
+      "name": "앱 개발 서비스 | Mobile & Web Application Experts | Aenfinite",
+      "description": "Aenfinite provides professional 앱 개발 services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
       "inLanguage":"ko-KR",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "ì„œë¹„ìŠ¤", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "ì•± ê°œë°œ", "item": "https://aenfinite.com/services/app-development/" }
+          { "@type": "ListItem", "position": 2, "name": "서비스", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 3, "name": "앱 개발", "item": "https://aenfinite.com/services/app-development/" }
         ]
       }
     },
     {
       "@type": "Service",
-      "serviceType": "ì•± ê°œë°œ",
+      "serviceType": "앱 개발",
       "provider": { "@id": "https://aenfinite.com/#organization" },
       "areaServed": {
         "@type": "Place",
         "name": "Denver, Colorado"
       },
-      "description": "Custom mobile and web ì•± ê°œë°œ, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
+      "description": "Custom mobile and web 앱 개발, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
     }
   ]
 }` }}
@@ -2811,11 +2811,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2854,13 +2854,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ì•± ê°œë°œ ì„œë¹„ìŠ¤",
+      "name": "앱 개발 서비스",
       "item": "https://aenfinite.com/services/app-development/"
     }
   ]

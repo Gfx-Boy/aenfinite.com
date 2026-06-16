@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤ | Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ | Aenfinite®",
-  description: "Aenfinite® is a leading real estate ì›¹ ë””ìžì¸ ì—ì´ì „ì‹œ offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
+  title: "부동산 웹 디자인 & 브랜딩 서비스 | Property 웹사이트 디자인",
+  description: "Aenfinite® is a leading real estate 웹 디자인 에이전시 offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
-  openGraph: {"title":"ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤ | Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤ | Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"부동산 웹 디자인 & 브랜딩 서비스 | Property 웹사이트 디자인 | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"부동산 웹 디자인 & 브랜딩 서비스 | Property 웹사이트 디자인 | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 											
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ë¸Œëžœë”©</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
+						<span>부동산 웹 디자인 & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">브랜딩</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
 													
 											</h1>
 									</div>
@@ -1353,18 +1353,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤</span>
+    <span class="marquee-line_text">Professional 부동산 웹 디자인 & 브랜딩 서비스</span>
     <span class="marquee-line_text">Property Showcase Design, MLS Integration & Optimization</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Specialists in ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ì‚¬ìš©ìž ê²½í—˜</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">Specialists in 부동산 웹 디자인 & 사용자 경험</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for E-commerce Solutions</span>
-    <span class="marquee-line_text">High-Converting ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ & Security</span>
+    <span class="marquee-line_text">High-Converting 이커머스 개발 & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce ì—ì´ì „ì‹œ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce ìœ ì§€ë³´ìˆ˜ & Support</span>
+    <span class="marquee-line_text">Professional E-commerce 에이전시 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce 유지보수 & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable 이커머스 개발 & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,19 +1372,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									<a href="/ko/work/blue-vine-marketing/">
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																							<div class="preview-name">Business ì„œë¹„ìŠ¤</div>
-																							<div class="preview-name">ë””ì§€í„¸ ë§ˆì¼€íŒ…</div>
-																							<div class="preview-name">ë¶€ë™ì‚° Marketing</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
+																							<div class="preview-name">Business 서비스</div>
+																							<div class="preview-name">디지털 마케팅</div>
+																							<div class="preview-name">부동산 Marketing</div>
 																					</div>
 									</div>
 								</div>
@@ -1394,7 +1394,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ko/work/robophil/">
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/robophil/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1402,9 +1402,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="/ko/work/robophil/">RoboPhil</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																							<div class="preview-name">í…Œí¬ Platform</div>
-																							<div class="preview-name">Property í…Œí¬</div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
+																							<div class="preview-name">테크 Platform</div>
+																							<div class="preview-name">Property 테크</div>
 																							<div class="preview-name">AI Solutions</div>
 																					</div>
 									</div>
@@ -1415,7 +1415,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ko/work/husnohaya/">
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/husnohaya/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1423,7 +1423,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="/ko/work/husnohaya/">Husnohaya</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Luxury Properties</div>
 																							<div class="preview-name">Premium Design</div>
@@ -1436,18 +1436,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ko/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/khatech/">KhaTech</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
 																							<div class="preview-name">Digital Solutions</div>
-																							<div class="preview-name">ë¶€ë™ì‚° í…Œí¬</div>
-																							<div class="preview-name">ë§ˆì¼€íŒ… í”Œëž«í¼</div>
+																							<div class="preview-name">부동산 테크</div>
+																							<div class="preview-name">마케팅 플랫폼</div>
 																					</div>
 									</div>
 								</div>
@@ -1456,16 +1456,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/ko/work/afropop/">
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/ko/work/afropop/" class="shiftbox-link"> </a>
+									<a href="/ko/work/afropopup/">
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/afropopup/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/afropop/">AfroPop</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/afropopup/">AfroPop</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
 																							<div class="preview-name">Brand Platform</div>
 																							<div class="preview-name">Creative Design</div>
 																							<div class="preview-name">Property Showcase</div>
@@ -1478,18 +1478,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ko/work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/feiro/">Feiro</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
 																							<div class="preview-name">E-commerce Design</div>
 																							<div class="preview-name">Property Listings</div>
-																							<div class="preview-name">ë¶€ë™ì‚° Portal</div>
+																							<div class="preview-name">부동산 Portal</div>
 																					</div>
 									</div>
 								</div>
@@ -1499,18 +1499,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ko/work/amkiservice/">
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI ì„œë¹„ìŠ¤ ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI 서비스 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ko/work/amkiservice/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="/ko/work/amkiservice/">AM-KI ì„œë¹„ìŠ¤</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																							<div class="preview-name">Business ì„œë¹„ìŠ¤</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/amkiservice/">AM-KI 서비스</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
+																							<div class="preview-name">Business 서비스</div>
 																							<div class="preview-name">Professional Platform</div>
-																							<div class="preview-name">ë¶€ë™ì‚° ì†”ë£¨ì…˜</div>
+																							<div class="preview-name">부동산 솔루션</div>
 																					</div>
 									</div>
 								</div>
@@ -1519,16 +1519,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/ko/work/web-design-&-development/">
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/ko/work/web-design-&-development/" class="shiftbox-link"> </a>
+									<a href="/ko/work/web-design-and-development/">
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick 웹사이트 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/web-design-and-development/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="/ko/work/web-design-&-development/">Luna Wick</a></div>
-																																		<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/web-design-and-development/">Luna Wick</a></div>
+																																		<div class="preview-name">웹 디자인 & 개발</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Lifestyle Brand</div>
 																							<div class="preview-name">Property Design</div>
@@ -1549,7 +1549,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="section">
                 <div class="wrapper">
                     <div class="textbox appear js-aos">
-                        <div class="textbox-content">Aenfinite delivers Professional ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
+                        <div class="textbox-content">Aenfinite delivers Professional 부동산 웹 디자인 & 브랜딩 services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
                         <div class="textbox-action">
                             <a href="/ko/contact/" class="redlink">
                                 <span>Trust the experts</span>
@@ -1608,7 +1608,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite ë¶€ë™ì‚° ì›¹ ë””ìžì¸ Case Studies</h2>
+						<h2>Aenfinite 부동산 웹 디자인 Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,17 +1616,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/blue-vine-marketing/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/blue-vine-marketing/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																					<div class="preview-name">Business ì„œë¹„ìŠ¤</div>
-																					<div class="preview-name">ë””ì§€í„¸ ë§ˆì¼€íŒ…</div>
-																					<div class="preview-name">ë¶€ë™ì‚° Marketing</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
+																					<div class="preview-name">Business 서비스</div>
+																					<div class="preview-name">디지털 마케팅</div>
+																					<div class="preview-name">부동산 Marketing</div>
 											
 									</div>
 								</div>
@@ -1634,16 +1634,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/robophil/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/robophil/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
 											<a href="/ko/work/robophil/">RoboPhil</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																					<div class="preview-name">í…Œí¬ Platform</div>
-																					<div class="preview-name">Property í…Œí¬</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
+																					<div class="preview-name">테크 Platform</div>
+																					<div class="preview-name">Property 테크</div>
 																					<div class="preview-name">AI Solutions</div>
 											
 									</div>
@@ -1652,14 +1652,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/husnohaya/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/husnohaya/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
 											<a href="/ko/work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Luxury Properties</div>
 																					<div class="preview-name">Premium Design</div>
@@ -1670,17 +1670,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/khatech/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/khatech/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="/ko/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
 																					<div class="preview-name">Digital Solutions</div>
-																					<div class="preview-name">ë¶€ë™ì‚° í…Œí¬</div>
-																					<div class="preview-name">ë§ˆì¼€íŒ… í”Œëž«í¼</div>
+																					<div class="preview-name">부동산 테크</div>
+																					<div class="preview-name">마케팅 플랫폼</div>
 											
 									</div>
 								</div>
@@ -1688,14 +1688,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/afropop/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/afropopup/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="/ko/work/afropop/">AfroPop</a>
+											<a href="/ko/work/afropopup/">AfroPop</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
 																					<div class="preview-name">Brand Platform</div>
 																					<div class="preview-name">Creative Design</div>
 																					<div class="preview-name">Property Showcase</div>
@@ -1706,17 +1706,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/feiro/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/feiro/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="/ko/work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
 																					<div class="preview-name">E-commerce Design</div>
 																					<div class="preview-name">Property Listings</div>
-																					<div class="preview-name">ë¶€ë™ì‚° Portal</div>
+																					<div class="preview-name">부동산 Portal</div>
 											
 									</div>
 								</div>
@@ -1724,17 +1724,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI ì„œë¹„ìŠ¤ ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/amkiservice/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI 서비스 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/amkiservice/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="/ko/work/amkiservice/">AM-KI ì„œë¹„ìŠ¤</a>
+											<a href="/ko/work/amkiservice/">AM-KI 서비스</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-																					<div class="preview-name">Business ì„œë¹„ìŠ¤</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
+																					<div class="preview-name">Business 서비스</div>
 																					<div class="preview-name">Professional Platform</div>
-																					<div class="preview-name">ë¶€ë™ì‚° ì†”ë£¨ì…˜</div>
+																					<div class="preview-name">부동산 솔루션</div>
 											
 									</div>
 								</div>
@@ -1742,14 +1742,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ko/work/web-design-&-development/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick 웹사이트 디자인 by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/web-design-and-development/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="/ko/work/web-design-&-development/">Luna Wick</a>
+											<a href="/ko/work/web-design-and-development/">Luna Wick</a>
 										</div>
-																					<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
+																					<div class="preview-name">웹 디자인 & 개발</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Lifestyle Brand</div>
 																					<div class="preview-name">Property Design</div>
@@ -1760,8 +1760,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="/ko/work/web-design-&-development/" class="redlink">
-						<span>ëª¨ë“  í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+					<a href="/ko/work/web-design-and-development/" class="redlink">
+						<span>모든 프로젝트 보기</span>
 					</a>
 				</div>
 			</div>
@@ -1772,12 +1772,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ë¬¸ì˜ Aenfinite for ë¶€ë™ì‚° Website Solutions</h2>
+				<h2>문의 Aenfinite for 부동산 Website Solutions</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1789,27 +1789,27 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" /></span>
-		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" /></span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your real estate website project" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong>
+		<strong>관심 분야...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
-				<span class="list-item first"><input type="checkbox" name="services" value="Custom ë¶€ë™ì‚° Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom ë¶€ë™ì‚° Website</label></span>
+				<span class="list-item first"><input type="checkbox" name="services" value="Custom 부동산 Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom 부동산 Website</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Property Listing Integration" id="property-listing" /><label for="property-listing" class="list-item-label">Property Listing Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="IDX/MLS Integration" id="idx-mls" /><label for="idx-mls" class="list-item-label">IDX / MLS Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Lead Capture & CRM" id="lead-crm" /><label for="lead-crm" class="list-item-label">Lead Capture & CRM</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Mobile-Friendly Design" id="mobile-friendly" /><label for="mobile-friendly" class="list-item-label">Mobile-Friendly Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="SEO for ë¶€ë™ì‚°" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for ë¶€ë™ì‚°</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="ê¸°íƒ€ ë¶€ë™ì‚° ì†”ë£¨ì…˜" id="other" /><label for="other" class="list-item-label">ê¸°íƒ€ ë¶€ë™ì‚° ì†”ë£¨ì…˜</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="SEO for 부동산" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for 부동산</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="기타 부동산 솔루션" id="other" /><label for="other" class="list-item-label">기타 부동산 솔루션</label></span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1826,7 +1826,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1841,7 +1841,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>ë¶€ë™ì‚° ì›¹ ë””ìžì¸ Expertise</h2>
+						<h2>부동산 웹 디자인 Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1852,7 +1852,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom ë¶€ë™ì‚° Websites</div>
+				<div class="pane-title">Custom 부동산 Websites</div>
 				<div class="pane-subtitle">
 					<p>We design and develop fully customized real estate websites that showcase properties, neighborhoods, and agents. Each solution is tailored to your brand and optimized to generate leads, maximize visibility, and simplify property management.</p>
 				</div>
@@ -1884,7 +1884,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Migration & ìœ ì§€ë³´ìˆ˜</div>
+				<div class="pane-title">Migration & 유지보수</div>
 				<div class="pane-subtitle">
 					<p>We can seamlessly migrate your existing real estate website to a modern platform while ensuring zero downtime. Our maintenance services include updates, backups, security monitoring, and ongoing support to keep your site running smoothly.</p>
 				</div>
@@ -1892,7 +1892,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Headless ë¶€ë™ì‚° ì†”ë£¨ì…˜</div>
+				<div class="pane-title">Headless 부동산 솔루션</div>
 				<div class="pane-subtitle">
 					<p>For larger brokerages, we offer headless real estate website development using frameworks like React or Vue.js. This ensures ultra-fast performance, scalability, and flexibility across devices and platforms.</p>
 				</div>
@@ -1900,7 +1900,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ë¶€ë™ì‚° SEO ìµœì í™”</div>
+				<div class="pane-title">부동산 SEO 최적화</div>
 				<div class="pane-subtitle">
 					<p>We implement real estate–specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
 				</div>
@@ -1916,7 +1916,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Interactive Media & ì• ë‹ˆë©”ì´ì…˜</div>
+				<div class="pane-title">Interactive Media & 애니메이션</div>
 				<div class="pane-subtitle">
 					<p>We elevate your brand with interactive property tours, video backgrounds, and smooth animations. These modern design features help capture attention, engage users, and set your real estate business apart from the competition.</p>
 				</div>
@@ -1931,7 +1931,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>ë¶€ë™ì‚° Website ê°œë°œ Process</h2>
+					<h2>부동산 Website 개발 Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1974,7 +1974,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We create stunning, user-friendly layouts that highlight property images, features, and location maps. The design ensures intuitive browsing for buyers and sellers while reflecting your real estate brand identity.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>ì‚¬ìš©ìž ê²½í—˜ (UX)</span>
+							<span>사용자 경험 (UX)</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>Through wireframes and flowcharts, we define how users will search, filter, and view properties. The goal is to simplify navigation while maximizing lead conversions with strategically placed CTAs.</p>
@@ -1996,9 +1996,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-content js-switch-copy"></div>
 				</div>
 				
-				<!-- ê°œë°œ -->
+				<!-- 개발 -->
 				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">ê°œë°œ</div>
+					<div class="nlist-caption">개발</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
 							<span>Property Listing System</span>
@@ -2034,7 +2034,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Support</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>ìœ ì§€ë³´ìˆ˜ & Updates</span>
+							<span>유지보수 & Updates</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We provide ongoing maintenance including security checks, hosting management, property listing updates, and performance improvements to keep your real estate website running smoothly.</p>
@@ -2065,7 +2065,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ë¶€ë™ì‚° ì›¹ ë””ìžì¸</span> is the perfect blend of stunning visuals and smart functionality. í¬íŠ¸í´ë¦¬ì˜¤ with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">부동산 웹 디자인</span> is the perfect blend of stunning visuals and smart functionality. 포트폴리오 with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2076,7 +2076,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper">
       <div class="section-caption js-aos">
         <div class="section-caption_text">
-          <h2>Aenfinite ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤</h2>
+          <h2>Aenfinite 부동산 웹 디자인 & 브랜딩 서비스</h2>
         </div>
       </div>
       <div class="service-grid">
@@ -2084,18 +2084,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
           <div class="service-list js-service-container fadein js-aos">
 
             <div class="service active js-service">
-              <div class="service-caption js-service-caption">ë¶€ë™ì‚° ì›¹ ë””ìžì¸</div>
+              <div class="service-caption js-service-caption">부동산 웹 디자인</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Property Listings</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Lead Generation</a></div>
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ë°˜ì‘í˜• ë””ìžì¸</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">반응형 디자인</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">IDX Integration</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Agent Profiles</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Map Search</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Virtual Tours</a></div>
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ì‚¬ìš©ìž ê²½í—˜</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">사용자 경험</a></div>
                   </div>
                 </div>
                 <div class="service-text">
@@ -2121,18 +2121,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">ë¶€ë™ì‚° ë¸Œëžœë”©</div>
+              <div class="service-caption js-service-caption">부동산 브랜딩</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</a></div>
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ë¡œê³  ë””ìžì¸</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">브랜드 아이덴티티</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">로고 디자인</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Color Palette</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Typography</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Visual Consistency</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Marketing Collateral</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Social Presence</a></div>
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">브랜드 가이드라인</a></div>
                   </div>
                 </div>
                 <div class="service-text">
@@ -2158,14 +2158,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Marketing Website ê°œë°œ</div>
+              <div class="service-caption js-service-caption">Marketing Website 개발</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ëžœë”© íŽ˜ì´ì§€</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">랜딩 페이지</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Property Portfolios</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">CRM Integration</a></div>
-                    <div class="chip"><a href="/ko/contact/" class="chip-label">ìžë™í™”</a></div>
+                    <div class="chip"><a href="/ko/contact/" class="chip-label">자동화</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Lead Funnels</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Analytics</a></div>
                     <div class="chip"><a href="/ko/contact/" class="chip-label">Email Capture</a></div>
@@ -2195,7 +2195,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Ongoing ìœ ì§€ë³´ìˆ˜ & Support</div>
+              <div class="service-caption js-service-caption">Ongoing 유지보수 & Support</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
@@ -2250,8 +2250,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>í”„ë¡œì íŠ¸ê°€ ìžˆìœ¼ì‹ ê°€ìš”? í•¨ê»˜ ë©‹ì§„ ê²ƒì„ ë§Œë“¤ì–´ ë´…ì‹œë‹¤.</span>
-								<a href="../../contact/" class="redlink">
+								<span>프로젝트가 있으신가요? 함께 멋진 것을 만들어 봅시다.</span>
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2261,42 +2261,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”©</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 디자인 & 브랜딩</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2351,15 +2351,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2367,14 +2367,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2612,11 +2612,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2678,11 +2678,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2746,7 +2746,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2776,7 +2776,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - ë¶€ë™ì‚° ì›¹ ë””ìžì¸ ì—ì´ì „ì‹œ",
+      "alternateName": "Aenfinite® - 부동산 웹 디자인 에이전시",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2788,7 +2788,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® - ë¶€ë™ì‚° ì›¹ ë””ìžì¸ ì—ì´ì „ì‹œ",
+      "caption": "Aenfinite® - 부동산 웹 디자인 에이전시",
       "inLanguage":"ko-KR"
     },
     {
@@ -2808,7 +2808,7 @@ export default function Page() {
           "position": 2,
           "item": {
             "@id": "https://aenfinite.com/services/",
-            "name": "ì„œë¹„ìŠ¤"
+            "name": "서비스"
           }
         },
         {
@@ -2816,7 +2816,7 @@ export default function Page() {
           "position": 3,
           "item": {
             "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-            "name": "ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”©"
+            "name": "부동산 웹 디자인 & 브랜딩"
           }
         }
       ]
@@ -2825,7 +2825,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#webpage",
       "url": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-      "name": "ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤ | Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ | Aenfinite®",
+      "name": "부동산 웹 디자인 & 브랜딩 서비스 | Property 웹사이트 디자인 | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": {
@@ -2857,8 +2857,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#article",
-      "headline": "ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤ | Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ | Aenfinite®",
-      "keywords": "ë¶€ë™ì‚° ì›¹ ë””ìžì¸, Property ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸, MLS Integration, ë¶€ë™ì‚° ë¸Œëžœë”©, Realtor ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸, Lead Generation, ë¶€ë™ì‚° Marketing",
+      "headline": "부동산 웹 디자인 & 브랜딩 서비스 | Property 웹사이트 디자인 | Aenfinite®",
+      "keywords": "부동산 웹 디자인, Property 웹사이트 디자인, MLS Integration, 부동산 브랜딩, Realtor 웹사이트 디자인, Lead Generation, 부동산 Marketing",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": {
@@ -2907,11 +2907,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2950,13 +2950,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ë¶€ë™ì‚° ì›¹ ë””ìžì¸ & ë¸Œëžœë”© ì„œë¹„ìŠ¤",
+      "name": "부동산 웹 디자인 & 브랜딩 서비스",
       "item": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/"
     }
   ]

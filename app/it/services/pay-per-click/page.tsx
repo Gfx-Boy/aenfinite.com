@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite",
+  title: "Expert Pubblicità Pay-Per-Click (PPC) Servizi | Google Ads Management",
   description: "Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.",
   keywords: "PPC advertising, pay per click, Google Ads, Bing Ads, PPC management, campaign optimization, conversion tracking, SEM, cost per click, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/it/services/pay-per-click/", languages: {"x-default":"https://aenfinite.com/services/pay-per-click/","en":"https://aenfinite.com/services/pay-per-click/","es":"https://aenfinite.com/es/services/pay-per-click/","fr":"https://aenfinite.com/fr/services/pay-per-click/","de":"https://aenfinite.com/de/services/pay-per-click/","it":"https://aenfinite.com/it/services/pay-per-click/","ar":"https://aenfinite.com/ar/services/pay-per-click/","pt":"https://aenfinite.com/pt/services/pay-per-click/","zh":"https://aenfinite.com/zh/services/pay-per-click/","hi":"https://aenfinite.com/hi/services/pay-per-click/","nl":"https://aenfinite.com/nl/services/pay-per-click/","ja":"https://aenfinite.com/ja/services/pay-per-click/","ko":"https://aenfinite.com/ko/services/pay-per-click/"} },
-  openGraph: {"title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/it/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert Pubblicità Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/it/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert Pubblicità Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite","description":"Aenfinite® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1118,17 +1118,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											                                            
 											<li><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
 <li><a href="/it/services/e-commerce-websites/">Siti Web E-Commerce</a></li>
-											<li><a href="/it/services/custom-web-development">Sviluppo Web Personalizzato</a></li>
-											<li><a href="/it/services/software-&-platform-development/">Sviluppo Software e Piattaforme</a></li>
+											<li><a href="/it/services/custom-web-development/">Sviluppo Web Personalizzato</a></li>
+											<li><a href="/it/services/software-and-platform-development/">Sviluppo Software e Piattaforme</a></li>
 											<li><a href="/it/services/app-development/">Sviluppo di Applicazioni</a></li>
 											<li><a href="/it/services/web-design/">Design e Sviluppo di Siti Web</a></li>
 											<li><a href="/it/services/web-design-and-branding-for-real-estate/">Soluzioni Web per il Settore Immobiliare</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servizi di Design e CreativitÃ  </a>
+										<a href="#">Servizi di Design e Creatività </a>
 										<ul class="sub-menu">
 											<li><a href="/it/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/it/services/branding/">IdentitÃ  di Marca e Strategia</a></li>
+											<li><a href="/it/services/branding/">Identità di Marca e Strategia</a></li>
 											<li><a href="/it/services/graphic-design/">Graphic Design</a></li> <li><a href="/it/services/logo-design/">Design del Logo</a></li>
 											
 											<li><a href="/it/services/trade-show-booth-design/">Design di Stand per Fiere</a></li>
@@ -1140,8 +1140,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/it/services/digital-marketing/">Strategia di Marketing Digitale</a></li>
 											<li><a href="/it/services/search-engine-optimization/">Ottimizzazione per i Motori di Ricerca (SEO)</a></li>
-											<li><a href="/it/services/pay-per-click">PubblicitÃ  Pay-Per-Click (PPC)</a></li>
-											<li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">PubblicitÃ  a Pagamento</a></li>
+											<li><a href="/it/services/pay-per-click/">Pubblicità Pay-Per-Click (PPC)</a></li>
+											<li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">Pubblicità a Pagamento</a></li>
 
 										</ul>
 									</li>
@@ -1150,8 +1150,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="menu-item menu-item-has-children">
 										<a href="#">Soluzioni di IA e Tecnologia </a>
 										<ul class="sub-menu">
-											<li><a href="/it/services/ai-chatbots-&-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
-											<li><a href="/it/services/workflow-&-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
+											<li><a href="/it/services/ai-chatbots-and-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
+											<li><a href="/it/services/workflow-and-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1359,7 +1359,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Specialists in PPC ROI & Conversion Optimization</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for PPC Results</span>
     <span class="marquee-line_text">Data-Driven PPC Strategies & Performance Analytics</span>
-    <span class="marquee-line_text">Local & International PubblicitÃ  a Pagamento Campaigns</span>
+    <span class="marquee-line_text">Local & International Pubblicità a Pagamento Campaigns</span>
     <span class="marquee-line_text">Professional PPC Agenzia with Proven ROI</span>
     <span class="marquee-line_text">Comprehensive Campaign Audits & Optimization</span>
     <span class="marquee-line_text">Custom PPC Solutions for Every Industry</span>
@@ -1622,7 +1622,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite PubblicitÃ  Pay-Per-Click (PPC) Servizi</h2>
+						<h2>Aenfinite Pubblicità Pay-Per-Click (PPC) Servizi</h2>
 					</div>
 				</div>
 				<div class="service-grid">
@@ -1865,7 +1865,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/it/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1877,21 +1877,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Azienda</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agenzia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Servizi</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/it/agency/">Agenzia</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/it/services/">Servizi</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Servizi</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">Siti Web WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Design del Packaging</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/it/services/web-design/">Web Design</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/it/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/it/services/packaging-design/">Design del Packaging</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -1901,12 +1901,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Collabora con noi</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servizi White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programma di Referral</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servizi GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/">Collabora con noi</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/white-label-services/">Servizi White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/referral-program/">Programma di Referral</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/ghl-services/">Servizi GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contatto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/it/contact/">Contatto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1965,14 +1965,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agenzia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Servizi</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/it/agency/">Agenzia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/it/services/">Servizi</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contatto</a>
+							<a class="menu-contact" href="/it/contact/">Contatto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Scrivici un'email</a>
 						</div>
 					</div>
@@ -1981,7 +1981,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
+				<a href="/it/contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2227,7 +2227,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Utilizziamo i cookie per migliorare la tua esperienza utente. Cliccando ACCETTA o continuando a navigare, accetti la nostra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
+						<a href="/it/privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accetta</button>
@@ -2292,11 +2292,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "LunedÃ¬",
-					  "MartedÃ¬",
-					  "MercoledÃ¬",
-					  "GiovedÃ¬",
-					  "VenerdÃ¬"
+					  "Lunedì",
+					  "Martedì",
+					  "Mercoledì",
+					  "Giovedì",
+					  "Venerdì"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2362,7 +2362,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2416,7 +2416,7 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/", "name": "PubblicitÃ  Pay-Per-Click (PPC)" }
+          "item": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/", "name": "Pubblicità Pay-Per-Click (PPC)" }
         }
       ]
     },
@@ -2424,7 +2424,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/pay-per-click-ppc/#webpage",
       "url": "https://aenfinite.com/services/pay-per-click-ppc/",
-      "name": "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite®",
+      "name": "Expert Pubblicità Pay-Per-Click (PPC) Servizi | Google Ads Management | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "inLanguage":"it-IT",
       "breadcrumb": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/#breadcrumb" }
@@ -2460,11 +2460,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "LunedÃ¬",
-					  "MartedÃ¬",
-					  "MercoledÃ¬",
-					  "GiovedÃ¬",
-					  "VenerdÃ¬"
+					  "Lunedì",
+					  "Martedì",
+					  "Mercoledì",
+					  "Giovedì",
+					  "Venerdì"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2511,7 +2511,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert PubblicitÃ  Pay-Per-Click (PPC) Servizi",
+      "name": "Expert Pubblicità Pay-Per-Click (PPC) Servizi",
       "item": "https://aenfinite.com/services/pay-per-click/"
     }
   ]

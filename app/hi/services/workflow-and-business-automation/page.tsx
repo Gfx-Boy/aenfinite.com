@@ -4,19 +4,19 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Process Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite®",
-  description: "Aenfinite offers expert workflow and business automation services, including process optimization, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨, and workflow automation solutions that enhance efficiency and productivity.",
-  keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨, CRM automation, marketing automation, Zapier integration, Aenfinite",
+  title: "वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं | Process Optimization & ऑटोमेशन Solutions",
+  description: "Aenfinite offers expert workflow and business automation services, including process optimization, डिजिटल परिवर्तन, and workflow automation solutions that enhance efficiency and productivity.",
+  keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, डिजिटल परिवर्तन, CRM automation, marketing automation, Zapier integration, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/workflow-and-business-automation/", languages: {"x-default":"https://aenfinite.com/services/workflow-and-business-automation/","en":"https://aenfinite.com/services/workflow-and-business-automation/","es":"https://aenfinite.com/es/services/workflow-and-business-automation/","fr":"https://aenfinite.com/fr/services/workflow-and-business-automation/","de":"https://aenfinite.com/de/services/workflow-and-business-automation/","it":"https://aenfinite.com/it/services/workflow-and-business-automation/","ar":"https://aenfinite.com/ar/services/workflow-and-business-automation/","pt":"https://aenfinite.com/pt/services/workflow-and-business-automation/","zh":"https://aenfinite.com/zh/services/workflow-and-business-automation/","hi":"https://aenfinite.com/hi/services/workflow-and-business-automation/","nl":"https://aenfinite.com/nl/services/workflow-and-business-automation/","ja":"https://aenfinite.com/ja/services/workflow-and-business-automation/","ko":"https://aenfinite.com/ko/services/workflow-and-business-automation/"} },
-  openGraph: {"title":"à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Process Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/hi/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Process Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं | Process Optimization & ऑटोमेशन Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/hi/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं | Process Optimization & ऑटोमेशन Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
-/* =====Professional à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Workflow & Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* =====Professional वर्कफ़्लो और बिज़नेस ऑटोमेशन डेवलपमेंट | Workflow & Process ऑटोमेशन Solutions | Aenfinite SERVICES SECTION CSS ===== */
 /* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
@@ -975,7 +975,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Workflow & Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional वर्कफ़्लो और बिज़नेस ऑटोमेशन डेवलपमेंट | Workflow & Process ऑटोमेशन Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1106,63 +1106,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a>
+								<a href="/hi/agency/">एजेंसी</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/hi/services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a>
+                                <a href="/hi/services/">सेवाएं</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">डेवलपमेंट समाधान ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/hi/services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li><a href="/hi/services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/custom-web-development">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/software-&-platform-development/">à¤¸à¥‰à¤«à¥à¤Ÿà¤µà¥‡à¤¯à¤° à¤”à¤° à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤µà¥‡à¤¬ à¤¸à¤®à¤¾à¤§à¤¾à¤¨</a></li>									</ul>
+											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
+											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
+											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¸à¥‡à¤µà¤¾à¤à¤‚ â€º</a>
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤”à¤° à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li> <li><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
 											
-											<li><a href="/hi/services/trade-show-booth-design/">à¤Ÿà¥à¤°à¥‡à¤¡ à¤¶à¥‹ à¤¬à¥‚à¤¥ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/conference-branding/">à¤•à¥‰à¤¨à¥à¤«à¥à¤°à¥‡à¤‚à¤¸ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">मार्केटिंग और डिजिटल समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/search-engine-optimization/">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)</a></li>
-											<li><a href="/hi/services/pay-per-click">à¤ªà¥‡-à¤ªà¤°-à¤•à¥à¤²à¤¿à¤• (PPC) à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
-											<li><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></li> <li><a href="/hi/services/paid-ads/">à¤¸à¤¶à¥à¤²à¥à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ai-chatbots-&-virtual-assistants/">AI à¤šà¥ˆà¤Ÿà¤¬à¥‰à¤Ÿ à¤”à¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤…à¤¸à¤¿à¤¸à¥à¤Ÿà¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/workflow-&-business-automation/">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</a></li>
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from à¤¸à¥‡à¤µà¤¾à¤à¤‚ menu - adaptive styling */
+/* Main dropdown from सेवाएं menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1276,10 +1276,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/hi/contact/" class="topbar-contact_button">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
+						<a href="/hi/contact/" class="topbar-contact_button">संपर्क</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¥€, à¤¤à¥‹ à¤¹à¤®à¥‡à¤‚ à¤²à¤¿à¤–à¥‡à¤‚ à¤”à¤° à¤¹à¤® à¤•à¥‹à¤ˆ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤¨à¤¿à¤•à¤¾à¤²à¥‡à¤‚à¤—à¥‡ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							अगर आपको अपनी ज़रूरत की सेवा नहीं मिलती, तो हमें लिखें और हम कोई समाधान निकालेंगे <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1317,7 +1317,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Workflow <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</span> and business process optimization that streamline operations, improve <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">efficiency</span>, and drive organizational growth.</span>
+						<span>Workflow <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ऑटोमेशन</span> and business process optimization that streamline operations, improve <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">efficiency</span>, and drive organizational growth.</span>
 													
 											</h1>
 									</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</span>
-    <span class="marquee-line_text">Process Optimization, à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ & Business Efficiency</span>
-    <span class="marquee-line_text">à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾, à¤•à¤¨à¤¾à¤¡à¤¾ à¤”à¤° à¤‰à¤¸à¤¸à¥‡ à¤†à¤—à¥‡ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾</span>
-    <span class="marquee-line_text">Specialists in Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ & Operational Excellence</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions</span>
-    <span class="marquee-line_text">Intelligent Business Process à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Analytics</span>
-    <span class="marquee-line_text">Local Process Optimization & Global à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</span>
-    <span class="marquee-line_text">Professional à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ with Proven Solutions</span>
+    <span class="marquee-line_text">Professional वर्कफ़्लो और बिज़नेस ऑटोमेशन</span>
+    <span class="marquee-line_text">Process Optimization, वर्कफ़्लो ऑटोमेशन & Business Efficiency</span>
+    <span class="marquee-line_text">अमेरिका, कनाडा और उससे आगे ग्राहकों की सेवा</span>
+    <span class="marquee-line_text">Specialists in Process ऑटोमेशन & Operational Excellence</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for बिज़नेस ऑटोमेशन Solutions</span>
+    <span class="marquee-line_text">Intelligent Business Process डेवलपमेंट & Analytics</span>
+    <span class="marquee-line_text">Local Process Optimization & Global वर्कफ़्लो ऑटोमेशन</span>
+    <span class="marquee-line_text">Professional बिज़नेस ऑटोमेशन एजेंसी with Proven Solutions</span>
     <span class="marquee-line_text">Comprehensive Process Training & Workflow Optimization</span>
-    <span class="marquee-line_text">Custom à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions for Every Industry</span>
-    <span class="marquee-line_text">Process Flow Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Performance</span>
-    <span class="marquee-line_text">Sustainable à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ & Long-term Efficiency</span>
+    <span class="marquee-line_text">Custom बिज़नेस ऑटोमेशन Solutions for Every Industry</span>
+    <span class="marquee-line_text">Process Flow Optimization & ऑटोमेशन Performance</span>
+    <span class="marquee-line_text">Sustainable बिज़नेस ऑटोमेशन & Long-term Efficiency</span>
 </div>
 						                    </div>
                 </div>
@@ -1428,12 +1428,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>à¤¸à¤‚à¤ªà¤°à¥à¤• Professional à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite for Professional à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</h2>
+				<h2>संपर्क Professional वर्कफ़्लो और बिज़नेस ऑटोमेशन डेवलपमेंट | Aenfinite for Professional वर्कफ़्लो और बिज़नेस ऑटोमेशन</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1445,14 +1445,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="à¤¹à¤®à¥‡à¤‚ à¤…à¤ªà¤¨à¥‡ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥‡ à¤¬à¤¾à¤°à¥‡ à¤®à¥‡à¤‚ à¤¬à¤¤à¤¾à¤à¤‚" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="आपका नाम*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="आपका ई-मेल*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="हमें अपने प्रोजेक्ट के बारे में बताएं" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>à¤®à¥à¤à¥‡ à¤‡à¤¸à¤®à¥‡à¤‚ à¤°à¥à¤šà¤¿ à¤¹à¥ˆ...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="à¤…à¤¨à¥à¤¯ à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚" id="other" /><label for="other" class="list-item-label">à¤…à¤¨à¥à¤¯ à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</label></span></span></span>
+		<strong>मुझे इसमें रुचि है...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process ऑटोमेशन" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process ऑटोमेशन</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & डेवलपमेंट" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & डेवलपमेंट</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & ऑटोमेशन" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & ऑटोमेशन</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process ऑटोमेशन" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process ऑटोमेशन</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="उपयोगकर्ता अनुभव Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">उपयोगकर्ता अनुभव Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="अन्य वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं" id="other" /><label for="other" class="list-item-label">अन्य वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="à¤…à¤ªà¤¨à¤¾ à¤…à¤¨à¥à¤®à¤¾à¤¨à¤¿à¤¤ à¤¬à¤œà¤Ÿ à¤¬à¤¤à¤¾à¤à¤‚" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="अपना अनुमानित बजट बताएं" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1460,23 +1460,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					$100 à¤¸à¥‡ à¤¶à¥à¤°à¥‚
+					$100 से शुरू
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500 à¤¸à¥‡ $5,000 à¤¤à¤•
+					$500 से $5,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000 à¤¸à¥‡ $20,000 à¤¤à¤•
+					$5,000 से $20,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000 à¤¸à¥‡ $50,000 à¤¤à¤•
+					$20,000 से $50,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$100,000 à¤¸à¥‡ à¤…à¤§à¤¿à¤•
+					$100,000 से अधिक
 					
 				</div>
 			</div>		</div>
@@ -1486,7 +1486,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="à¤­à¥‡à¤œà¥‡à¤‚" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="भेजें" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1501,7 +1501,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</span> is the perfect blend of intelligent automation and customer experience enhancement. à¤•à¤¾à¤°à¥à¤¯ with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">वर्कफ़्लो और बिज़नेस ऑटोमेशन</span> is the perfect blend of intelligent automation and customer experience enhancement. कार्य with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+					<h2>Aenfinite वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1526,7 +1526,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="chips">
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Process Design</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Workflow Systems</a></div>
-										<div class="chip"><a href="/hi/contact/" class="chip-label">à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Pipelines</a></div>
+										<div class="chip"><a href="/hi/contact/" class="chip-label">ऑटोमेशन Pipelines</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Efficiency Optimization</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Process Targeting</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Progress Tracking</a></div>
@@ -1681,7 +1681,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1691,42 +1691,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤•à¤‚à¤ªà¤¨à¥€</div>
+								<div class="footer-col_caption">कंपनी</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+								<div class="footer-col_caption">सेवाएं</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ब्रांडिंग</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">à¤•à¤¨à¥‡à¤•à¥à¤Ÿ</div>
+								<div class="footer-col_caption">कनेक्ट</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">à¤µà¥à¤¹à¤¾à¤‡à¤Ÿ à¤²à¥‡à¤¬à¤² à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">à¤°à¥‡à¤«à¤°à¤² à¤ªà¥à¤°à¥‹à¤—à¥à¤°à¤¾à¤®</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/white-label-services/">व्हाइट लेबल सेवाएं</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/referral-program/">रेफरल प्रोग्राम</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/ghl-services/">GHL सेवाएं</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/hi/contact/">संपर्क</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">à¤ªà¤¤à¤¾</div>
+								<div class="footer-col_caption">पता</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -1781,15 +1781,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">à¤¹à¤®à¥‡à¤‚ à¤ˆà¤®à¥‡à¤² à¤•à¤°à¥‡à¤‚</a>
+							<a class="menu-contact" href="/hi/contact/">संपर्क</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">हमें ईमेल करें</a>
 						</div>
 					</div>
 				</div>
@@ -1797,14 +1797,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">à¤¨à¤¯à¤¾ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</a>
+				<a href="/hi/contact/" class="to-contact">नया प्रोजेक्ट?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">मीटिंग शेड्यूल करें</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>à¤…à¤ªà¤¨à¥€ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</h3>
+			<h3>अपनी बिज़नेस मीटिंग शेड्यूल करें</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2044,11 +2044,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤•à¥€à¤œà¤¼ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤ à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¤•à¥‡ à¤¯à¤¾ à¤¬à¥à¤°à¤¾à¤‰à¤œà¤¼ à¤•à¤°à¤¨à¤¾ à¤œà¤¾à¤°à¥€ à¤°à¤–à¤•à¤°, à¤†à¤ª à¤¹à¤®à¤¾à¤°à¥€ à¤¸à¤¹à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">à¤—à¥‹à¤ªà¤¨à¥€à¤¯à¤¤à¤¾ à¤¨à¥€à¤¤à¤¿</a>.
+						हम आपके उपयोगकर्ता अनुभव को बेहतर बनाने के लिए कुकीज़ का उपयोग करते हैं। स्वीकार पर क्लिक करके या ब्राउज़ करना जारी रखकर, आप हमारी सहमति देते हैं
+						<a href="/hi/privacy-policy/" class="cookie-banner__link" target="_blank">गोपनीयता नीति</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤•à¤°à¥‡à¤‚</button>
+				<button class="cookie-banner__button">स्वीकार करें</button>
 			</div>
 		</div>
 
@@ -2110,11 +2110,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2126,7 +2126,7 @@ document.addEventListener('keydown', function(event) {
 					"
 					""
 				  ],
-				  "description": "Expert à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert वर्कफ़्लो और बिज़नेस ऑटोमेशन agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2180,7 +2180,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2211,7 +2211,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite - à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "alternateName": "Aenfinite - वर्कफ़्लो और बिज़नेस ऑटोमेशन एजेंसी",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2219,7 +2219,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#webpage",
       "url": "https://aenfinite.com/services/workflow-business-automation/",
-      "name": "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Process Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite®",
+      "name": "वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं | Process Optimization & ऑटोमेशन Solutions | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2228,7 +2228,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "Aenfinite à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨"
+        "caption": "Aenfinite वर्कफ़्लो ऑटोमेशन"
       },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
@@ -2237,16 +2237,16 @@ export default function Page() {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨", "item": "https://aenfinite.com/services/workflow-business-automation/" }
+          { "@type": "ListItem", "position": 2, "name": "सेवाएं", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 3, "name": "वर्कफ़्लो और बिज़नेस ऑटोमेशन", "item": "https://aenfinite.com/services/workflow-business-automation/" }
         ]
       }
     },
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#article",
-      "headline": "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Process Optimization & à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ Solutions | Aenfinite®",
-      "keywords": "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨, Business Process Optimization, Process à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨, Digital Transformation, Business Efficiency, Operational Excellence",
+      "headline": "वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं | Process Optimization & ऑटोमेशन Solutions | Aenfinite®",
+      "keywords": "वर्कफ़्लो ऑटोमेशन, Business Process Optimization, Process ऑटोमेशन, Digital Transformation, Business Efficiency, Operational Excellence",
       "description": "Aenfinite delivers intelligent workflow automation services — from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
@@ -2295,11 +2295,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2311,7 +2311,7 @@ export default function Page() {
 					"
 					""
 				  ],
-				  "description": "Expert à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert वर्कफ़्लो और बिज़नेस ऑटोमेशन agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2340,13 +2340,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "सेवाएं",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "वर्कफ़्लो और बिज़नेस ऑटोमेशन सेवाएं",
       "item": "https://aenfinite.com/services/workflow-and-business-automation/"
     }
   ]

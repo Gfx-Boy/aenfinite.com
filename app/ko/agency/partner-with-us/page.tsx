@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Partner with Aenfinite | White Label & ì—ì´ì „ì‹œ Partnership Opportunities",
-  description: "Partner with Aenfinite — a creative ë””ì§€í„¸ ì—ì´ì „ì‹œ based in Denver. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
+  title: "Partner with Aenfinite | White Label & 에이전시 Partnership Opportunities",
+  description: "Partner with Aenfinite — a creative 디지털 에이전시 based in Denver. Explore our white label, referral, and strategic partnership opportunities to expand your services with expert design, branding, and web development solutions.",
   keywords: "agency partnership, white label partnership, referral program, strategic partnership, agency collaboration, Aenfinite partner",
   alternates: { canonical: "https://aenfinite.com/ko/agency/partner-with-us/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/","en":"https://aenfinite.com/agency/partner-with-us/","es":"https://aenfinite.com/es/agency/partner-with-us/","fr":"https://aenfinite.com/fr/agency/partner-with-us/","de":"https://aenfinite.com/de/agency/partner-with-us/","it":"https://aenfinite.com/it/agency/partner-with-us/","ar":"https://aenfinite.com/ar/agency/partner-with-us/","pt":"https://aenfinite.com/pt/agency/partner-with-us/","zh":"https://aenfinite.com/zh/agency/partner-with-us/","hi":"https://aenfinite.com/hi/agency/partner-with-us/","nl":"https://aenfinite.com/nl/agency/partner-with-us/","ja":"https://aenfinite.com/ja/agency/partner-with-us/","ko":"https://aenfinite.com/ko/agency/partner-with-us/"} },
-  openGraph: {"title":"Partner with Aenfinite | White Label & ì—ì´ì „ì‹œ Partnership Opportunities","description":"Collaborate with Aenfinite to scale your services through white label and referral partnerships. We help agencies deliver creative, web, and digital solutions under their own brand.","url":"https://aenfinite.com/ko/agency/partner-with-us/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Partner with Aenfinite | Expand Your ì—ì´ì „ì‹œ","description":"Join forces with Aenfinite for white label, referral, and strategic partnerships. Deliver world-class design and development solutions under your brand.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Partner with Aenfinite | White Label & 에이전시 Partnership Opportunities","description":"Collaborate with Aenfinite to scale your services through white label and referral partnerships. We help agencies deliver creative, web, and digital solutions under their own brand.","url":"https://aenfinite.com/ko/agency/partner-with-us/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Partner with Aenfinite | Expand Your 에이전시","description":"Join forces with Aenfinite for white label, referral, and strategic partnerships. Deliver world-class design and development solutions under your brand.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -269,7 +269,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 			padding-top: 20px;
 		}
 		
-		/* Mobile First ë°˜ì‘í˜• ë””ìžì¸ */
+		/* Mobile First 반응형 디자인 */
 		@media screen and (max-width: 768px) {
 			.infobox-grid.infobox-grid__2,
 			.infobox-grid.infobox-grid__3 {
@@ -880,62 +880,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ê°œë°œ ì†”ë£¨ì…˜ </a>
+                                        <a href="#">개발 솔루션 </a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>                                      </ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ </a>
+                                        <a href="#">디자인 및 크리에이티브 서비스 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
 
-                                            <li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+                                            <li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
                                             
-                                            <li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-                                            <li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+                                            <li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+                                            <li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ </a>
+                                        <a href="#">마케팅 및 디지털 솔루션 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-                                            <li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-                                            <li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+                                            <li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+                                            <li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+                                            <li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+                                            <li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ </a>
+                                        <a href="#">AI 및 기술 솔루션 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-                                            <li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+                                            <li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+                                            <li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1049,10 +1049,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1061,7 +1061,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1090,7 +1090,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Partner with <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Aenfinite</span> - Premier Digital ì—ì´ì „ì‹œ Partnerships</span>
+						<span>Partner with <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Aenfinite</span> - Premier Digital 에이전시 Partnerships</span>
 												
 											</h1>
 									</div>
@@ -1125,18 +1125,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">í˜ì‹ ì ì¸ ë””ìžì¸ ë° ê°œë°œ ì—ì´ì „ì‹œ</span>
-    <span class="marquee-line_text">ë§žì¶¤í˜• ì›¹ì‚¬ì´íŠ¸, ì•± ë° ë¸Œëžœë“œ ê²½í—˜</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">UI/UX, SEO ë° ê·¸ë¡œìŠ¤ ë§ˆì¼€íŒ… ì „ë¬¸ê°€</span>
-    <span class="marquee-line_text">ìŠ¤íƒ€íŠ¸ì—… ë° ê¸€ë¡œë²Œ ê¸°ì—…ì˜ ì‹ ë¢°ë¥¼ ë°›ëŠ” íŒŒíŠ¸ë„ˆ</span>
+    <span class="marquee-line_text">혁신적인 디자인 및 개발 에이전시</span>
+    <span class="marquee-line_text">맞춤형 웹사이트, 앱 및 브랜드 경험</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">UI/UX, SEO 및 그로스 마케팅 전문가</span>
+    <span class="marquee-line_text">스타트업 및 글로벌 기업의 신뢰를 받는 파트너</span>
     <span class="marquee-line_text">Skilled Team  React, WordPress, Firebase, Figma</span>
-    <span class="marquee-line_text">ì• ìžì¼ ë° ë°ì´í„° ê¸°ë°˜ ê°œë°œ í”„ë¡œì„¸ìŠ¤</span>
-    <span class="marquee-line_text">ë™ë‚¨ì•„ì‹œì•„ì— ë¿Œë¦¬ë¥¼ ë‘” ê¸€ë¡œë²Œ ì—ì´ì „ì‹œ</span>
-    <span class="marquee-line_text">í™•ìž¥ ê°€ëŠ¥í•œ ì†”ë£¨ì…˜ìœ¼ë¡œ ë¹„ì¦ˆë‹ˆìŠ¤ ê°•í™”</span>
-    <span class="marquee-line_text">ëª¨ë“  ì‚°ì—…ì„ ìœ„í•œ ë§žì¶¤í˜• ì „ëžµ</span>
-    <span class="marquee-line_text">ì›¹, ëª¨ë°”ì¼, SaaS ê°œë°œ ì „ë¬¸ê°€</span>
-    <span class="marquee-line_text">ì„±ê³¼ ì¤‘ì‹¬ì˜ ë””ì§€í„¸ ë§ˆì¼€íŒ… ì†”ë£¨ì…˜</span>
+    <span class="marquee-line_text">애자일 및 데이터 기반 개발 프로세스</span>
+    <span class="marquee-line_text">동남아시아에 뿌리를 둔 글로벌 에이전시</span>
+    <span class="marquee-line_text">확장 가능한 솔루션으로 비즈니스 강화</span>
+    <span class="marquee-line_text">모든 산업을 위한 맞춤형 전략</span>
+    <span class="marquee-line_text">웹, 모바일, SaaS 개발 전문가</span>
+    <span class="marquee-line_text">성과 중심의 디지털 마케팅 솔루션</span>
 </div>
 									</div>
 			</div>
@@ -1147,12 +1147,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h2>Aenfinite ì†Œê°œ - ë””ì§€í„¸ í˜ì‹  ì—ì´ì „ì‹œ</h2> 						
+          <h2>Aenfinite 소개 - 디지털 혁신 에이전시</h2> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
-          <strong>Aenfinite</strong> is a ë‹¤ìŒì„ ì „ë¬¸ìœ¼ë¡œ í•˜ëŠ” ë””ì§€í„¸ í˜ì‹  ì—ì´ì „ì‹œ transforming businesses through strategic digital solutions. Founded in 2017 and headquartered in Denver, Colorado, we've established ourselves as a reliable partner in <strong>web design, mobile ì•± ê°œë°œ, branding, digital marketing, UI/UX design, and e-commerce solutions</strong>.
+          <strong>Aenfinite</strong> is a 다음을 전문으로 하는 디지털 혁신 에이전시 transforming businesses through strategic digital solutions. Founded in 2017 and headquartered in Denver, Colorado, we've established ourselves as a reliable partner in <strong>web design, mobile 앱 개발, branding, digital marketing, UI/UX design, and e-commerce solutions</strong>.
           <br /><br />
           Our experienced team has successfully delivered <strong>300+ projects</strong> for clients ranging from Fortune 150 companies to innovative startups across healthcare, real estate, technology, and retail industries. We combine creative excellence with cutting-edge technology to deliver exceptional results.
           <br /><br />
@@ -1186,7 +1186,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" >
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async" /></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async" /></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized ì—ì´ì „ì‹œ" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized 에이전시" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1196,7 +1196,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 									<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>Aenfinite ì—ì´ì „ì‹œ Performance & Industry Recognition</h2>
+							<h2>Aenfinite 에이전시 Performance & Industry Recognition</h2>
 						</div>
 					</div>
 								<div class="keynumbers">
@@ -1219,7 +1219,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<span>07</span>
 							</div>
 							<div class="keynumber-description">
-								<p>Our agency operates 7 specialized departments: ì›¹ ë””ìžì¸ & ê°œë°œ, Mobile ì•± ê°œë°œ, ë¸Œëžœë”© & Identity, ë””ì§€í„¸ ë§ˆì¼€íŒ…, UI/UX ë””ìžì¸ & AI ìžë™í™”. This structure ensures expert-level service delivery across all digital touchpoints for comprehensive brand experiences.</p>
+								<p>Our agency operates 7 specialized departments: 웹 디자인 & 개발, Mobile 앱 개발, 브랜딩 & Identity, 디지털 마케팅, UI/UX 디자인 & AI 자동화. This structure ensures expert-level service delivery across all digital touchpoints for comprehensive brand experiences.</p>
 							</div>
 						</div>
 											<div class="keynumber js-aos">
@@ -1240,9 +1240,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Partner with Aenfinite - Industry-Leading Digital ì—ì´ì „ì‹œ</strong></h2>
+			<h2><strong>Why Partner with Aenfinite - Industry-Leading Digital 에이전시</strong></h2>
 <p>&nbsp;</p>
-<p>Partnering with <strong>Aenfinite</strong> means collaborating with a reliable <strong>digital innovation agency</strong> that combines creative excellence with strategic innovation. Established in 2017, we bring <strong>8+ years of experience</strong> delivering <strong>web development, WordPress and e-commerce websites, custom software and platform development, mobile ì•± ê°œë°œ, UI/UX design, brand identity, graphic design, motion graphics, digital marketing, SEO, PPC advertising, social media campaigns, AI chatbots, and workflow automation solutions</strong> for startups, agencies, and enterprises worldwide. Our focus is on building <strong>long-term strategic partnerships</strong> that drive measurable growth, enhance user experience, and maximize ROI.</p>
+<p>Partnering with <strong>Aenfinite</strong> means collaborating with a reliable <strong>digital innovation agency</strong> that combines creative excellence with strategic innovation. Established in 2017, we bring <strong>8+ years of experience</strong> delivering <strong>web development, WordPress and e-commerce websites, custom software and platform development, mobile 앱 개발, UI/UX design, brand identity, graphic design, motion graphics, digital marketing, SEO, PPC advertising, social media campaigns, AI chatbots, and workflow automation solutions</strong> for startups, agencies, and enterprises worldwide. Our focus is on building <strong>long-term strategic partnerships</strong> that drive measurable growth, enhance user experience, and maximize ROI.</p>
 
 <p>With a proven track record of over <strong>300 successful projects</strong> and a <strong>90%+ client retention rate</strong>, Aenfinite combines founder-led strategy with a trusted network of global experts to deliver <strong>scalable, innovative, and cost-efficient digital solutions</strong>. Whether youre a startup, agency, or enterprise, we tailor our services to meet your goals and ensure measurable results across industries, helping businesses transform digitally and stay ahead in a competitive landscape.</p>
 <p><strong>Heres why you'll love partnering with us:</strong></p>
@@ -1254,7 +1254,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</ul>
 			<p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Ready to explore partnership opportunities? ë¬¸ì˜ us at <a href="mailto:partnerships@aenfinite.com" target="_blank" rel="noopener">partnerships@aenfinite.com</a> to discuss how we can help scale your business through strategic collaboration.</p>
+<p>Ready to explore partnership opportunities? 문의 us at <a href="mailto:partnerships@aenfinite.com" target="_blank" rel="noopener">partnerships@aenfinite.com</a> to discuss how we can help scale your business through strategic collaboration.</p>
 		</div>
 	</div>
 </div>
@@ -1268,7 +1268,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox appear js-aos">
 					<div class="textbox-content">
-						Expand your agency's capabilities and revenue potential through <strong>strategic partnerships with Aenfinite</strong>. As a trusted ë””ì§€í„¸ ì—ì´ì „ì‹œ, we offer comprehensive partnership models designed to help agencies, consultants, and businesses scale their digital offerings. Our proven partnership programs include <strong>white label services, referral programs, and collaborative opportunities</strong> that maintain your brand identity while delivering world-class digital solutions to your clients.
+						Expand your agency's capabilities and revenue potential through <strong>strategic partnerships with Aenfinite</strong>. As a trusted 디지털 에이전시, we offer comprehensive partnership models designed to help agencies, consultants, and businesses scale their digital offerings. Our proven partnership programs include <strong>white label services, referral programs, and collaborative opportunities</strong> that maintain your brand identity while delivering world-class digital solutions to your clients.
 					</div>
 				</div>
 				<div class="infobox-grid infobox-grid__3">
@@ -1280,8 +1280,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Scale your agency with Aenfinite's comprehensive white label  and development services. From branding and web design to mobile apps and e-commerce solutions, deliver premium digital experiences under your agency's brand with our expert team as your invisible partner.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="white-label-services/" class="redlink">
-										<span>Explore í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</span>
+									<a href="/ko/agency/partner-with-us/white-label-services/" class="redlink">
+										<span>Explore 화이트 라벨 서비스</span>
 									</a>
 								</div>
 							</div>
@@ -1293,21 +1293,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Leverage Aenfinite's certified GoHighLevel expertise for complete CRM setup, funnel optimization, automation workflows, and white label GHL services. Our team provides end-to-end implementation and ongoing support for agencies looking to offer comprehensive marketing automation solutions.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="ghl-services/" class="redlink">
-										<span>Discover GHL ì„œë¹„ìŠ¤</span>
+									<a href="/ko/agency/partner-with-us/ghl-services/" class="redlink">
+										<span>Discover GHL 서비스</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">ì¶”ì²œ í”„ë¡œê·¸ëž¨ & Commission Partnership</div>
+								<div class="infobox-title">추천 프로그램 & Commission Partnership</div>
 								<div class="infobox-description">
 									<p>Earn substantial commissions by referring clients to Aenfinite. Our competitive referral program offers up to 15-20% commission on successful project completions, with ongoing support and marketing materials to help you succeed as a trusted partner.</p>
 								</div>
 								<div class="infobox-action">
 									<a href="/ko/agency/partner-with-us/referral-program/" class="redlink">
-										<span>Join ì¶”ì²œ í”„ë¡œê·¸ëž¨</span>
+										<span>Join 추천 프로그램</span>
 									</a>
 								</div>
 							</div>
@@ -1332,11 +1332,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="section">
 		<div class="wrapper">
 			<div class="title title__default">
-				<h2>ë¬¸ì˜í•˜ê¸° with Aenfinite</h2>
+				<h2>문의하기 with Aenfinite</h2>
 			</div>
 			<div class="textbox appear js-aos" style="padding-top: 30px;">
 				<div class="textbox-content">
-					Ready to explore partnership opportunities with Aenfinite? Whether you're interested in our <strong>white label services, GoHighLevel implementation, referral programs, or custom collaboration models</strong>, our partnership team is here to help you scale your business. As a <strong>ë””ì§€í„¸ ì—ì´ì „ì‹œ with 8+ years of proven success since 2017</strong>, we're committed to building long-term strategic partnerships that deliver exceptional value to your clients and sustainable growth for your business.
+					Ready to explore partnership opportunities with Aenfinite? Whether you're interested in our <strong>white label services, GoHighLevel implementation, referral programs, or custom collaboration models</strong>, our partnership team is here to help you scale your business. As a <strong>디지털 에이전시 with 8+ years of proven success since 2017</strong>, we're committed to building long-term strategic partnerships that deliver exceptional value to your clients and sustainable growth for your business.
 				</div>
 			</div>
 			<div class="infobox-grid infobox-grid__3" style="margin-top: 40px;">
@@ -1389,12 +1389,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="block formss">
 				<div class="center">
 					<div class="formss-wrap">
-						<h2>ë¬¸ì˜í•˜ê¸° with Aenfinite</h2>
+						<h2>문의하기 with Aenfinite</h2>
 						<div class="toggle-formss">
 							
 		<div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 		<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-		<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+		<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 		<div style="display: none;">
 		<input type="hidden" name="_wpcf7" value="1252" />
 		<input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1406,14 +1406,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 		<div class="cell">
 			<div class="inputs">
-				<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="í”„ë¡œì íŠ¸ì— ëŒ€í•´ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" type="text" name="text-tell-project" /></span>
+				<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="프로젝트에 대해 알려주십시오" value="" type="text" name="text-tell-project" /></span>
 				
 			</div>
 			<div class="checkbox-select">
-				<strong>ê´€ì‹¬ ë¶„ì•¼...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="ë¸Œëžœë”©" id="branding" /><label for="branding" class="list-item-label">ë¸Œëžœë”©</label></span><span class="list-item"><input type="checkbox" name="services" value="ì›¹ ë””ìžì¸" id="web-design" /><label for="web-design" class="list-item-label">ì›¹ ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="ë””ì§€í„¸ ë§ˆì¼€íŒ…" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">ë””ì§€í„¸ ë§ˆì¼€íŒ…</label></span><span class="list-item"><input type="checkbox" name="services" value="ì´ì»¤ë¨¸ìŠ¤ ì†”ë£¨ì…˜" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">ì´ì»¤ë¨¸ìŠ¤ ì†”ë£¨ì…˜</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX ë””ìžì¸" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="ì•± ê°œë°œ" id="app-development" /><label for="app-development" class="list-item-label">ì•± ê°œë°œ</label></span><span class="list-item"><input type="checkbox" name="services" value="íŒ¨í‚¤ì§•" id="packaging" /><label for="packaging" class="list-item-label">íŒ¨í‚¤ì§•</label></span><span class="list-item"><input type="checkbox" name="services" value="ê·¸ëž˜í”½ ë””ìžì¸" id="graphic-design" /><label for="graphic-design" class="list-item-label">ê·¸ëž˜í”½ ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress ì›¹ì‚¬ì´íŠ¸" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress ì›¹ì‚¬ì´íŠ¸</label></span><span class="list-item last"><input type="checkbox" name="services" value="ê¸°íƒ€" id="other" /><label for="other" class="list-item-label">ê¸°íƒ€</label></span></span></span>
+				<strong>관심 분야...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="브랜딩" id="branding" /><label for="branding" class="list-item-label">브랜딩</label></span><span class="list-item"><input type="checkbox" name="services" value="웹 디자인" id="web-design" /><label for="web-design" class="list-item-label">웹 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="디지털 마케팅" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">디지털 마케팅</label></span><span class="list-item"><input type="checkbox" name="services" value="이커머스 솔루션" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">이커머스 솔루션</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX 디자인" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="앱 개발" id="app-development" /><label for="app-development" class="list-item-label">앱 개발</label></span><span class="list-item"><input type="checkbox" name="services" value="패키징" id="packaging" /><label for="packaging" class="list-item-label">패키징</label></span><span class="list-item"><input type="checkbox" name="services" value="그래픽 디자인" id="graphic-design" /><label for="graphic-design" class="list-item-label">그래픽 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress 웹사이트" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress 웹사이트</label></span><span class="list-item last"><input type="checkbox" name="services" value="기타" id="other" /><label for="other" class="list-item-label">기타</label></span></span></span>
 				
 				<div class="selectbox js-select">
-					<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+					<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 					
 					<div class="selectbox-suffix">
 						<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1447,7 +1447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 			
 		</div>
-		<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+		<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 		<div class="wpcf7-response-output" aria-hidden="true"></div>
 		</form>
 		</div>
@@ -1466,8 +1466,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
-									<span>ìƒë‹´í•˜ê¸°</span>
+								<a href="/ko/contact/" class="redlink">
+									<span>상담하기</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -1476,41 +1476,41 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ko/services/graphic-design/">그래픽 디자인</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">ì£¼ì†Œ</div>
+									<div class="footer-col_caption">주소</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1562,15 +1562,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -1580,13 +1580,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1822,11 +1822,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -1923,7 +1923,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/agency/partner-with-us/",
-  "name": "Partner with Aenfinite | White Label & ì—ì´ì „ì‹œ Partnership Opportunities",
+  "name": "Partner with Aenfinite | White Label & 에이전시 Partnership Opportunities",
   "description": "Partner with Aenfinite to expand your agency's offerings with white label, referral, and strategic partnership programs. We provide professional design, development, and digital solutions from Denver, Colorado.",
   "publisher": {
     "@type": "Organization",
@@ -1946,12 +1946,12 @@ export default function Page() {
     "itemListElement": [
       {
         "@type": "Offer",
-        "name": "í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤",
+        "name": "화이트 라벨 서비스",
         "url": "https://aenfinite.com/agency/partner-with-us/white-label-services/"
       },
       {
         "@type": "Offer",
-        "name": "ì¶”ì²œ í”„ë¡œê·¸ëž¨",
+        "name": "추천 프로그램",
         "url": "https://aenfinite.com/agency/partner-with-us/referral-program/"
       },
       {
@@ -1983,7 +1983,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì—ì´ì „ì‹œ",
+      "name": "에이전시",
       "item": "https://aenfinite.com/agency/"
     },
     {

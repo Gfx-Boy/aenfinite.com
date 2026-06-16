@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡ | Google Ads Management | Aenfinite",
+  title: "Expert 按点击付费（PPC）广告 服务 | Google Ads Management",
   description: "Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.",
   keywords: "PPC advertising, pay per click, Google Ads, Bing Ads, PPC management, campaign optimization, conversion tracking, SEM, cost per click, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/pay-per-click/", languages: {"x-default":"https://aenfinite.com/services/pay-per-click/","en":"https://aenfinite.com/services/pay-per-click/","es":"https://aenfinite.com/es/services/pay-per-click/","fr":"https://aenfinite.com/fr/services/pay-per-click/","de":"https://aenfinite.com/de/services/pay-per-click/","it":"https://aenfinite.com/it/services/pay-per-click/","ar":"https://aenfinite.com/ar/services/pay-per-click/","pt":"https://aenfinite.com/pt/services/pay-per-click/","zh":"https://aenfinite.com/zh/services/pay-per-click/","hi":"https://aenfinite.com/hi/services/pay-per-click/","nl":"https://aenfinite.com/nl/services/pay-per-click/","ja":"https://aenfinite.com/ja/services/pay-per-click/","ko":"https://aenfinite.com/ko/services/pay-per-click/"} },
-  openGraph: {"title":"Expert æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡ | Google Ads Management | Aenfinite","description":"Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/zh/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡ | Google Ads Management | Aenfinite","description":"Aenfinite® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert 按点击付费（PPC）广告 服务 | Google Ads Management | Aenfinite","description":"Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.","url":"https://aenfinite.com/zh/services/pay-per-click/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert 按点击付费（PPC）广告 服务 | Google Ads Management | Aenfinite","description":"Aenfinite® delivers high-performing PPC advertising and Google Ads management that maximize ROI and attract qualified leads through data-driven strategies.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency/">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ </a>
+										<a href="#">开发解决方案 </a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>									</ul>
+											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ </a>
+										<a href="#">设计与创意服务 </a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
-											<li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-											<li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+											<li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
+											<li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+											<li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
 											
-											<li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-											<li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+											<li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+											<li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ </a>
+										<a href="#">营销与数字解决方案 </a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-											<li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-											<li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+											<li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+											<li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+											<li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+											<li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ </a>
+										<a href="#">AI与技术解决方案 </a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-											<li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+											<li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+											<li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,14 +1353,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert Pay-Per-Click Advertising æœåŠ¡</span>
+    <span class="marquee-line_text">Expert Pay-Per-Click Advertising 服务</span>
     <span class="marquee-line_text">Google Ads, Facebook Ads & Campaign Management</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
     <span class="marquee-line_text">Specialists in PPC ROI & Conversion Optimization</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for PPC Results</span>
     <span class="marquee-line_text">Data-Driven PPC Strategies & Performance Analytics</span>
-    <span class="marquee-line_text">Local & International ä»˜è´¹å¹¿å‘Š Campaigns</span>
-    <span class="marquee-line_text">Professional PPC æœºæž„ with Proven ROI</span>
+    <span class="marquee-line_text">Local & International 付费广告 Campaigns</span>
+    <span class="marquee-line_text">Professional PPC 机构 with Proven ROI</span>
     <span class="marquee-line_text">Comprehensive Campaign Audits & Optimization</span>
     <span class="marquee-line_text">Custom PPC Solutions for Every Industry</span>
     <span class="marquee-line_text">Ad Copy Optimization & Landing Page Performance</span>
@@ -1427,12 +1427,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>è”ç³»æˆ‘ä»¬ Aenfinite for Expert PPC Advertising æœåŠ¡</h2>
+				<h2>联系我们 Aenfinite for Expert PPC Advertising 服务</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="联系我们 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1444,14 +1444,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„å§“å*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„ç”µå­é‚®ä»¶*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„é¡¹ç›®" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="您的姓名*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="您的电子邮件*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="告诉我们您的项目" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>æˆ‘å¯¹ä»¥ä¸‹å†…å®¹æ„Ÿå…´è¶£...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook & Instagram Ads" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook & Instagram Ads</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="campaign-optimization" /><label for="campaign-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="YouTube Advertising" id="youtube-ads" /><label for="youtube-ads" class="list-item-label">YouTube Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Shopping Campaigns" id="shopping-campaigns" /><label for="shopping-campaigns" class="list-item-label">Shopping Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Display Advertising" id="display-ads" /><label for="display-ads" class="list-item-label">Display Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="å…¶ä»– PPC æœåŠ¡" id="other" /><label for="other" class="list-item-label">å…¶ä»– PPC æœåŠ¡</label></span></span></span>
+		<strong>我对以下内容感兴趣...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook & Instagram Ads" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook & Instagram Ads</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="campaign-optimization" /><label for="campaign-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="YouTube Advertising" id="youtube-ads" /><label for="youtube-ads" class="list-item-label">YouTube Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Shopping Campaigns" id="shopping-campaigns" /><label for="shopping-campaigns" class="list-item-label">Shopping Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Display Advertising" id="display-ads" /><label for="display-ads" class="list-item-label">Display Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="其他 PPC 服务" id="other" /><label for="other" class="list-item-label">其他 PPC 服务</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„å¤§æ¦‚é¢„ç®—" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="告诉我们您的大概预算" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1459,23 +1459,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					èµ·ä»·$100
+					起价$100
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500è‡³$5,000
+					$500至$5,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000è‡³$20,000
+					$5,000至$20,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000è‡³$50,000
+					$20,000至$50,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					è¶…è¿‡$100,000
+					超过$100,000
 					
 				</div>
 			</div>		</div>
@@ -1485,7 +1485,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="å‘é€" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="发送" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1565,7 +1565,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">Shopping & ç”µå­å•†åŠ¡ Ads</div> 						
+        <div class="pane-title">Shopping & 电子商务 Ads</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Boost product sales with optimized shopping campaigns. We manage product feeds, bidding strategies, and ad creative to increase visibility and revenue for online stores.
@@ -1611,7 +1611,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Pay-Per-Click Advertising</span> is the perfect blend of strategic targeting and performance optimization. ä½œå“ with a team that excels at both maximizing ROI and delivering exceptional PPC campaign performance.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Pay-Per-Click Advertising</span> is the perfect blend of strategic targeting and performance optimization. 作品 with a team that excels at both maximizing ROI and delivering exceptional PPC campaign performance.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1622,7 +1622,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡</h2>
+						<h2>Aenfinite 按点击付费（PPC）广告 服务</h2>
 					</div>
 				</div>
 				<div class="service-grid">
@@ -1865,7 +1865,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1875,42 +1875,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">å“ç‰Œç­–åˆ’</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">品牌策划</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/white-label-services/">白标服务</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/referral-program/">推荐计划</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/ghl-services/">GHL服务</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">åœ°å€</div>
+								<div class="footer-col_caption">地址</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -1965,15 +1965,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -1981,14 +1981,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2226,11 +2226,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -2292,11 +2292,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2362,7 +2362,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2393,7 +2393,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - PPC & æ•°å­—è¥é”€ æœºæž„",
+      "alternateName": "Aenfinite® - PPC & 数字营销 机构",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2411,12 +2411,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "æœåŠ¡" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "服务" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/", "name": "æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š" }
+          "item": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/", "name": "按点击付费（PPC）广告" }
         }
       ]
     },
@@ -2424,7 +2424,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/pay-per-click-ppc/#webpage",
       "url": "https://aenfinite.com/services/pay-per-click-ppc/",
-      "name": "Expert æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡ | Google Ads Management | Aenfinite®",
+      "name": "Expert 按点击付费（PPC）广告 服务 | Google Ads Management | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "inLanguage":"zh-CN",
       "breadcrumb": { "@id": "https://aenfinite.com/services/pay-per-click-ppc/#breadcrumb" }
@@ -2460,11 +2460,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2505,13 +2505,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœåŠ¡",
+      "name": "服务",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š æœåŠ¡",
+      "name": "Expert 按点击付费（PPC）广告 服务",
       "item": "https://aenfinite.com/services/pay-per-click/"
     }
   ]

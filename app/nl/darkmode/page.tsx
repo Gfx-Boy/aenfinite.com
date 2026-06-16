@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/nl/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
 								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">Bureau</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">Diensten</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/nl/agency/">Bureau</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -589,8 +589,8 @@ from &nbsp;the&nbsp;Mile-High City</h1>
             <div class="service-tags">
               <div class="chips">
                 <div class="chip"><a href="/nl/services/web-design/">Landingspagina's</a></div>
-                <div class="chip"><a href="/nl/services/web-design">Bedrijfswebsites</a></div>
-                <div class="chip"><a href="/nl/services/web-design">Op Maat Gemaakt Websiteontwerp</a></div>
+                <div class="chip"><a href="/nl/services/web-design/">Bedrijfswebsites</a></div>
+                <div class="chip"><a href="/nl/services/web-design/">Op Maat Gemaakt Websiteontwerp</a></div>
                 <div class="chip"><a href="/nl/services/ui-ux-design/">Responsief Ontwerp</a></div>
                 <div class="chip"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
               </div>
@@ -973,7 +973,7 @@ websites &amp; apps on beast mode.</h2>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/nl/work/afropop/">View Project</a>
+                <a href="/nl/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -1045,7 +1045,7 @@ websites &amp; apps on beast mode.</h2>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/nl/work/web-design-&-development/">View Project</a>
+                <a href="/nl/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">Webdesign</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">Op Maat Gemaakt Websiteontwerp</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">E-Commerce Websites</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">WordPress Websites</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">Maatwerkontwikkeling</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">UI/UX-ontwerp</a></li>
-        <li class="menu-item"><a href="../services/branding/">Merkontwerp &amp; Logo-ontwerp</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">Grafisch Ontwerp</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">Verpakkingsontwerp</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">Digitale Marketing</a></li>
-        <li class="menu-item"><a href="../services/app-development/">App-ontwikkeling</a></li>
+        <li class="menu-item"><a href="/nl/services/web-design/">Webdesign</a></li>
+        <li class="menu-item"><a href="/nl/services/custom-web-development/">Op Maat Gemaakt Websiteontwerp</a></li>
+        <li class="menu-item"><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
+        <li class="menu-item"><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
+        <li class="menu-item"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></li>
+        <li class="menu-item"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></li>
+        <li class="menu-item"><a href="/nl/services/branding/">Merkontwerp &amp; Logo-ontwerp</a></li>
+        <li class="menu-item"><a href="/nl/services/graphic-design/">Grafisch Ontwerp</a></li>
+        <li class="menu-item"><a href="/nl/services/packaging-design/">Verpakkingsontwerp</a></li>
+        <li class="menu-item"><a href="/nl/services/digital-marketing/">Digitale Marketing</a></li>
+        <li class="menu-item"><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/nl/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">Webdesign</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">Merkontwerp</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">Verpakkingsontwerp</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/nl/services/web-design/">Webdesign</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/nl/services/branding/">Merkontwerp</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/nl/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/nl/services/packaging-design/">Verpakkingsontwerp</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">

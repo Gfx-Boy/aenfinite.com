@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Lumea - Smart Wohlbefinden & Light Therapy Mobile App | Aenfinite",
+  title: "Lumea - Smart Wohlbefinden & Light Therapy Mobile App",
   description: "Innovative wellness mobile app featuring smart light therapy, circadian rhythm optimization, and personalized wellness tracking with beautiful UI/UX design by Aenfinite",
   keywords: "Lumea wellness app, light therapy app, circadian rhythm, wellness tracking, mobile app UI UX, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/de/work/lumea/", languages: {"x-default":"https://aenfinite.com/work/lumea/","en":"https://aenfinite.com/work/lumea/","es":"https://aenfinite.com/es/work/lumea/","fr":"https://aenfinite.com/fr/work/lumea/","de":"https://aenfinite.com/de/work/lumea/","it":"https://aenfinite.com/it/work/lumea/","ar":"https://aenfinite.com/ar/work/lumea/","pt":"https://aenfinite.com/pt/work/lumea/","zh":"https://aenfinite.com/zh/work/lumea/","hi":"https://aenfinite.com/hi/work/lumea/","nl":"https://aenfinite.com/nl/work/lumea/","ja":"https://aenfinite.com/ja/work/lumea/","ko":"https://aenfinite.com/ko/work/lumea/"} },
@@ -635,7 +635,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/de/featured-work/">Projekte</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/de/agency">Agentur</a>
+								<a href="/de/agency/">Agentur</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/de/services/">Dienstleistungen</a>
@@ -646,8 +646,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                             
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
 <li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
-											<li><a href="/de/services/custom-web-development">Individuelle Webentwicklung</a></li>
-											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
+											<li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
+											<li><a href="/de/services/software-and-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
 											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>                                      </ul>
@@ -669,7 +669,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
-                                            <li><a href="/de/services/pay-per-click">Pay-Per-Click (PPC) Werbung</a></li>
+                                            <li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
                                             <li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
                                             
                                         </ul>
@@ -677,8 +677,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">KI- und Technologielösungen </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+                                            <li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
+                                            <li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -982,11 +982,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="service-tags tagswork" style="display:none;">
 									<div class="chips">
-																					<div class="chip"><a class="chip-label" href="../ui-ux-design/">UI/UX-Design</a></div>
-																					<div class="chip"><a class="chip-label" href="../app-development/">App-Entwicklung</a></div>
-																					<div class="chip"><a class="chip-label" href="../web-design/">Mobile Entwicklung</a></div>
-																					<div class="chip"><a class="chip-label" href="../branding/">Wohlbefinden Markengestaltung</a></div>
-																					<div class="chip"><a class="chip-label" href="../software-&-platform-development/">Health Technologie Platform</a></div>
+																					<div class="chip"><a class="chip-label" href="/de/services/ui-ux-design/">UI/UX-Design</a></div>
+																					<div class="chip"><a class="chip-label" href="/de/services/app-development/">App-Entwicklung</a></div>
+																					<div class="chip"><a class="chip-label" href="/de/services/web-design/">Mobile Entwicklung</a></div>
+																					<div class="chip"><a class="chip-label" href="/de/work/branding/">Wohlbefinden Markengestaltung</a></div>
+																					<div class="chip"><a class="chip-label" href="/de/services/software-and-platform-development/">Health Technologie Platform</a></div>
 																			</div>
 								</div>
 								<div class="tagslist">
@@ -1949,19 +1949,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/web-design/" class="chip-label">Individuelles Website-Design</a>
+													<a href="/de/services/web-design/" class="chip-label">Individuelles Website-Design</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/web-design/" class="chip-label">Responsives Design</a>
+													<a href="/de/services/web-design/" class="chip-label">Responsives Design</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/web-design/" class="chip-label">Landing-Pages</a>
+													<a href="/de/services/web-design/" class="chip-label">Landing-Pages</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/web-design/" class="chip-label">Unternehmenswebsites</a>
+													<a href="/de/services/web-design/" class="chip-label">Unternehmenswebsites</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/ui-ux-design/" class="chip-label">UI/UX-Design</a>
+													<a href="/de/services/ui-ux-design/" class="chip-label">UI/UX-Design</a>
 												</div>
 																							
 																					</div>
@@ -1984,22 +1984,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">Markenidentität</a>
+													<a href="/de/services/branding/" class="chip-label">Markenidentität</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/logo-design/" class="chip-label">Logodesign</a>
+													<a href="/de/services/logo-design/" class="chip-label">Logodesign</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">Markenstrategie</a>
+													<a href="/de/services/branding/" class="chip-label">Markenstrategie</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">Markenrichtlinien</a>
+													<a href="/de/services/branding/" class="chip-label">Markenrichtlinien</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">Corporate Identity</a>
+													<a href="/de/services/branding/" class="chip-label">Corporate Identity</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/branding/" class="chip-label">Rebranding</a>
+													<a href="/de/services/branding/" class="chip-label">Rebranding</a>
 												</div>
 																					</div>
 									</div>
@@ -2021,20 +2021,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/search-engine-optimization/" class="chip-label">SEO-Optimierung</a>
+													<a href="/de/services/search-engine-optimization/" class="chip-label">SEO-Optimierung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/digital-marketing/" class="chip-label">E-Mail-Marketing</a>
+													<a href="/de/services/digital-marketing/" class="chip-label">E-Mail-Marketing</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/paid-ads/" class="chip-label">Bezahlte Werbung</a>
+													<a href="/de/services/paid-ads/" class="chip-label">Bezahlte Werbung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/Pay-per-click/" class="chip-label">PPC-Kampagnen</a>
+													<a href="/de/services/pay-per-click/" class="chip-label">PPC-Kampagnen</a>
 												</div>
 																						
 																							<div class="chip">
-													<a href="../../services/digital-marketing/" class="chip-label">Content-Marketing</a>
+													<a href="/de/services/digital-marketing/" class="chip-label">Content-Marketing</a>
 												</div>
 																					</div>
 									</div>
@@ -2054,22 +2054,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">Shopify-Entwicklung</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">Shopify-Entwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">WooCommerce</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">WooCommerce</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">Online-Shops</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">Online-Shops</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">Zahlungsintegration</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">Zahlungsintegration</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">Produktkataloge</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">Produktkataloge</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/e-commerce-websites/" class="chip-label">Mobile Commerce</a>
+													<a href="/de/services/e-commerce-websites/" class="chip-label">Mobile Commerce</a>
 												</div>
 																					</div>
 									</div>
@@ -2089,22 +2089,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">Individuelles WordPress</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">Individuelles WordPress</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">Theme-Entwicklung</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">Theme-Entwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">Plugin-Entwicklung</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">Plugin-Entwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">CMS-Lösungen</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">CMS-Lösungen</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">Website-Optimierung</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">Website-Optimierung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/wordpress-websites/" class="chip-label">Wartung</a>
+													<a href="/de/services/wordpress-websites/" class="chip-label">Wartung</a>
 												</div>
 																					</div>
 									</div>
@@ -2124,22 +2124,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">iOS-Apps</a>
+													<a href="/de/services/app-development/" class="chip-label">iOS-Apps</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">Android-Apps</a>
+													<a href="/de/services/app-development/" class="chip-label">Android-Apps</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">React Native</a>
+													<a href="/de/services/app-development/" class="chip-label">React Native</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">Progressive Web Apps</a>
+													<a href="/de/services/app-development/" class="chip-label">Progressive Web Apps</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">Plattformübergreifend</a>
+													<a href="/de/services/app-development/" class="chip-label">Plattformübergreifend</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/app-development/" class="chip-label">App-Store-Launch</a>
+													<a href="/de/services/app-development/" class="chip-label">App-Store-Launch</a>
 												</div>
 																					</div>
 									</div>
@@ -2159,22 +2159,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Druckdesign</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Druckdesign</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Visitenkarten</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Visitenkarten</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Broschüren</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Broschüren</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Digitale Grafiken</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Digitale Grafiken</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Content-Design</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Content-Design</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/graphic-design/" class="chip-label">Marketingmaterialien</a>
+													<a href="/de/services/graphic-design/" class="chip-label">Marketingmaterialien</a>
 												</div>
 																					</div>
 									</div>
@@ -2198,20 +2198,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Markenetikett</a>
+													<a href="/de/services/packaging-design/" class="chip-label">Markenetikett</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Produktetikett</a>
+													<a href="/de/services/packaging-design/" class="chip-label">Produktetikett</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Lebensmittel und Getränke</a>
+													<a href="/de/services/packaging-design/" class="chip-label">Lebensmittel und Getränke</a>
 												</div>
 													
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">3D-Mockups</a>
+													<a href="/de/services/packaging-design/" class="chip-label">3D-Mockups</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/packaging-design/" class="chip-label">Einzelhandelsbereit</a>
+													<a href="/de/services/packaging-design/" class="chip-label">Einzelhandelsbereit</a>
 												</div>
 																					</div>
 									</div>
@@ -2233,22 +2233,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-tags">
 										<div class="chips">
 																							<div class="chip">
-													<a href="../../services/Custom-Web-Entwicklung/" class="chip-label">Individuelle Webentwicklung</a>
+													<a href="/de/services/custom-web-development/" class="chip-label">Individuelle Webentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/software-&-platform-development/" class="chip-label">Softwareentwicklung</a>
+													<a href="/de/services/software-and-platform-development/" class="chip-label">Softwareentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/workflow-&-business-automation/" class="chip-label">Geschäftsautomatisierung</a>
+													<a href="/de/services/workflow-and-business-automation/" class="chip-label">Geschäftsautomatisierung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/ai-chatbots-&-virtual-assistants/" class="chip-label">KI-Chatbots</a>
+													<a href="/de/services/ai-chatbots-and-virtual-assistants/" class="chip-label">KI-Chatbots</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/Custom-Web-Entwicklung/" class="chip-label">Plattformentwicklung</a>
+													<a href="/de/services/custom-web-development/" class="chip-label">Plattformentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="../../services/workflow-&-business-automation/" class="chip-label">Workflow-Automatisierung</a>
+													<a href="/de/services/workflow-and-business-automation/" class="chip-label">Workflow-Automatisierung</a>
 												</div>
 																					</div>
 									</div>
@@ -2286,11 +2286,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/fiscoclic/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/fiscoclic/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
+											<a href="/de/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Business Apps</div>
@@ -2304,11 +2304,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Wohlbefinden & Light Therapy Mobile App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/lumea/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart Wohlbefinden & Light Therapy Mobile App</a>
+											<a href="/de/work/lumea/">Lumea - Smart Wohlbefinden & Light Therapy Mobile App</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Wohlbefinden Apps</div>
@@ -2322,11 +2322,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Mentales Wohlbefinden & Fitness App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/mindfit/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit - Mentales Wohlbefinden & Fitness App</a>
+											<a href="/de/work/mindfit/">Mindfit - Mentales Wohlbefinden & Fitness App</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Fitness Apps</div>
@@ -2340,11 +2340,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/neocert/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a>
+											<a href="/de/work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Event Apps</div>
@@ -2358,11 +2358,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & Neurotechnologie Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/neurolinker/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & Neurotechnologie Platform</a>
+											<a href="/de/work/neurolinker/">Neurolinker - Brain-Computer Interface & Neurotechnologie Platform</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Neurotechnologie</div>
@@ -2376,11 +2376,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity Mobile App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/olly/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/olly/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity Mobile App</a>
+											<a href="/de/work/olly/">Olly - Smart Personal Assistant & Productivity Mobile App</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">AI Assistant</div>
@@ -2394,11 +2394,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & App-Entwicklung" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/quarena/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/quarena/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & App-Entwicklung</a>
+											<a href="/de/work/quarena/">Quarena - Advanced Trading Platform UI/UX & App-Entwicklung</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Trading Apps</div>
@@ -2412,11 +2412,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/ansu/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/ansu/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
+											<a href="/de/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 										</div>
 																					<div class="preview-name">Mobile Apps</div>
 																					<div class="preview-name">Neural Technology</div>
@@ -2429,7 +2429,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
+					<a href="/de/work/mobile-apps/" class="redlink">
 						<span>Alle Projekte ansehen</span>
 					</a>
 				</div>
@@ -2447,7 +2447,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2459,22 +2459,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Unternehmen</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Projekte</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Dienstleistungen</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/de/featured-work/">Projekte</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Dienstleistungen</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../../services/web-design/">Webdesign</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../../services/wordpress-websites/">WordPress-Websites</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../../services/branding/">Markengestaltung</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../../services/packaging-design/">Verpackungsdesign</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../../services/graphic-design/">Grafikdesign</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/de/services/web-design/">Webdesign</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/de/services/branding/">Markengestaltung</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/de/services/packaging-design/">Verpackungsdesign</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/de/services/graphic-design/">Grafikdesign</a></li>
 
 </ul>														</div>
 							</div>
@@ -2483,12 +2483,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Partner werden</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/">Partner werden</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Kontakt</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/de/contact/">Kontakt</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2545,14 +2545,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Projekte</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Dienstleistungen</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/de/featured-work/">Projekte</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Kontakt</a>
+							<a class="menu-contact" href="/de/contact/">Kontakt</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Schreiben Sie uns</a>
 						</div>
 					</div>
@@ -2561,7 +2561,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
+				<a href="/de/contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2930,7 +2930,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
+						<a href="/de/privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -3011,7 +3011,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

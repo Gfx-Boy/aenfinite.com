@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ | Aenfinite®",
-  description: "Aenfinite® is a leading real estate ÙˆÙƒØ§Ù„Ø© ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
+  title: "العقارات تصميم المواقع & العلامات التجارية الخدمات | Property تصميم المواقع",
+  description: "Aenfinite® is a leading real estate وكالة تصميم مواقع offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
-  openGraph: {"title":"Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"العقارات تصميم المواقع & العلامات التجارية الخدمات | Property تصميم المواقع | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"العقارات تصميم المواقع & العلامات التجارية الخدمات | Property تصميم المواقع | Aenfinite®","description":"Aenfinite® specializes in high-performance real estate web design and branding. We create property websites, integrate MLS listings, and help real estate professionals grow their brand.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a>
+								<a href="/ar/featured-work/">الأعمال</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a>
+								<a href="/ar/agency/">الوكالة</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+                                <a href="/ar/services/">الخدمات</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± â€º</a>
+										<a href="#">حلول التطوير ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-											<li><a href="/ar/services/custom-web-development">ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ</a></li>
-											<li><a href="/ar/services/software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-											<li><a href="/ar/services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-											<li><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">Ø­Ù„ÙˆÙ„ Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ø¹Ù‚Ø§Ø±ÙŠØ©</a></li>									</ul>
+											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
+											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ â€º</a>
+										<a href="#">خدمات التصميم والإبداع ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
-											<li><a href="/ar/services/branding/">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ©</a></li>
-											<li><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li> <li><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
+											<li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
+											<li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
 											
-											<li><a href="/ar/services/trade-show-booth-design/">ØªØµÙ…ÙŠÙ… Ø£Ø¬Ù†Ø­Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ø¶ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-											<li><a href="/ar/services/conference-branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ù„Ù„Ù…Ø¤ØªÙ…Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
+											<li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© â€º</a>
+										<a href="#">حلول التسويق والحلول الرقمية ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/digital-marketing/">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-											<li><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† Ù…Ø­Ø±ÙƒØ§Øª Ø§Ù„Ø¨Ø­Ø« (SEO)</a></li>
-											<li><a href="/ar/services/pay-per-click">Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ø¯ÙØ¹ Ù„ÙƒÙ„ Ù†Ù‚Ø±Ø© (PPC)</a></li>
-											<li><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></li> <li><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></li>
+											<li><a href="/ar/services/digital-marketing/">استراتيجية التسويق الرقمي</a></li>
+											<li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
+											<li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
+											<li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ â€º</a>
+										<a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ai-chatbots-&-virtual-assistants/">Ø±ÙˆØ¨ÙˆØªØ§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒÙŠØ© ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯ÙˆÙ† Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠÙˆÙ†</a></li>
-											<li><a href="/ar/services/workflow-&-business-automation/">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
+											<li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
+											<li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - شاركنا العمل Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from Ø§Ù„Ø®Ø¯Ù…Ø§Øª menu - adaptive styling */
+/* Main dropdown from الخدمات menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ar/contact/" class="topbar-contact_button">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+						<a href="/ar/contact/" class="topbar-contact_button">اتصل بنا</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Ø¥Ø°Ø§ Ù„Ù… ØªØ¬Ø¯ Ø§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„ØªÙŠ ØªØ­ØªØ§Ø¬Ù‡Ø§ØŒ Ø§ÙƒØªØ¨ Ø¥Ù„ÙŠÙ†Ø§ ÙˆØ³Ù†Ø¬Ø¯ Ø­Ù„Ø§Ù‹ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							إذا لم تجد الخدمة التي تحتاجها، اكتب إلينا وسنجد حلاً <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
+						<span>العقارات تصميم المواقع & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">العلامات التجارية</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
 													
 											</h1>
 									</div>
@@ -1353,18 +1353,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª</span>
+    <span class="marquee-line_text">Professional العقارات تصميم المواقع & العلامات التجارية الخدمات</span>
     <span class="marquee-line_text">Property Showcase Design, MLS Integration & Optimization</span>
-    <span class="marquee-line_text">Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ ÙˆØ®Ø§Ø±Ø¬Ù‡Ø§</span>
-    <span class="marquee-line_text">Specialists in Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</span>
+    <span class="marquee-line_text">خدمة العملاء عبر الولايات المتحدة وكندا وخارجها</span>
+    <span class="marquee-line_text">Specialists in العقارات تصميم المواقع & تجربة المستخدم</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for E-commerce Solutions</span>
-    <span class="marquee-line_text">High-Converting ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© & Security</span>
+    <span class="marquee-line_text">High-Converting تطوير التجارة الإلكترونية & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce Ø§Ù„ÙˆÙƒØ§Ù„Ø© with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</span>
+    <span class="marquee-line_text">Professional E-commerce الوكالة with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce الصيانة & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable تطوير التجارة الإلكترونية & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,19 +1372,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									<a href="/ar/work/blue-vine-marketing/">
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																							<div class="preview-name">Business Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
-																							<div class="preview-name">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</div>
-																							<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Marketing</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/blue-vine-marketing/">Blue Vine Marketing</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
+																							<div class="preview-name">Business الخدمات</div>
+																							<div class="preview-name">التسويق الرقمي</div>
+																							<div class="preview-name">العقارات Marketing</div>
 																					</div>
 									</div>
 								</div>
@@ -1394,7 +1394,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ar/work/robophil/">
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/robophil/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1402,9 +1402,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="/ar/work/robophil/">RoboPhil</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																							<div class="preview-name">Ø§Ù„ØªÙ‚Ù†ÙŠØ© Platform</div>
-																							<div class="preview-name">Property Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
+																							<div class="preview-name">التقنية Platform</div>
+																							<div class="preview-name">Property التقنية</div>
 																							<div class="preview-name">AI Solutions</div>
 																					</div>
 									</div>
@@ -1415,7 +1415,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ar/work/husnohaya/">
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/husnohaya/" class="shiftbox-link"> </a>
 									</a>
 								</div>
@@ -1423,7 +1423,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="/ar/work/husnohaya/">Husnohaya</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Luxury Properties</div>
 																							<div class="preview-name">Premium Design</div>
@@ -1436,18 +1436,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ar/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/khatech/">KhaTech</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
 																							<div class="preview-name">Digital Solutions</div>
-																							<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
-																							<div class="preview-name">Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚</div>
+																							<div class="preview-name">العقارات التقنية</div>
+																							<div class="preview-name">منصة التسويق</div>
 																					</div>
 									</div>
 								</div>
@@ -1456,16 +1456,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/ar/work/afropop/">
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/ar/work/afropop/" class="shiftbox-link"> </a>
+									<a href="/ar/work/afropopup/">
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/afropopup/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/afropop/">AfroPop</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/afropopup/">AfroPop</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
 																							<div class="preview-name">Brand Platform</div>
 																							<div class="preview-name">Creative Design</div>
 																							<div class="preview-name">Property Showcase</div>
@@ -1478,18 +1478,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ar/work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/feiro/">Feiro</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
 																							<div class="preview-name">E-commerce Design</div>
 																							<div class="preview-name">Property Listings</div>
-																							<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Portal</div>
+																							<div class="preview-name">العقارات Portal</div>
 																					</div>
 									</div>
 								</div>
@@ -1499,18 +1499,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ar/work/amkiservice/">
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Ø§Ù„Ø®Ø¯Ù…Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI الخدمات تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ar/work/amkiservice/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="/ar/work/amkiservice/">AM-KI Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																							<div class="preview-name">Business Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/amkiservice/">AM-KI الخدمات</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
+																							<div class="preview-name">Business الخدمات</div>
 																							<div class="preview-name">Professional Platform</div>
-																							<div class="preview-name">Ø­Ù„ÙˆÙ„ Ø¹Ù‚Ø§Ø±ÙŠØ©</div>
+																							<div class="preview-name">حلول عقارية</div>
 																					</div>
 									</div>
 								</div>
@@ -1519,16 +1519,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/ar/work/web-design-&-development/">
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/ar/work/web-design-&-development/" class="shiftbox-link"> </a>
+									<a href="/ar/work/web-design-and-development/">
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick تصميم المواقع by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/web-design-and-development/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="/ar/work/web-design-&-development/">Luna Wick</a></div>
-																																		<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/web-design-and-development/">Luna Wick</a></div>
+																																		<div class="preview-name">تصميم المواقع & التطوير</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Lifestyle Brand</div>
 																							<div class="preview-name">Property Design</div>
@@ -1549,7 +1549,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="section">
                 <div class="wrapper">
                     <div class="textbox appear js-aos">
-                        <div class="textbox-content">Aenfinite delivers Professional Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
+                        <div class="textbox-content">Aenfinite delivers Professional العقارات تصميم المواقع & العلامات التجارية services that create powerful, lead-generating property websites and drive real estate success. We manage comprehensive real estate solutions, custom property showcase design, MLS integration, and optimization services that generate exceptional client experiences and long-term growth.</div>
                         <div class="textbox-action">
                             <a href="/ar/contact/" class="redlink">
                                 <span>Trust the experts</span>
@@ -1608,7 +1608,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Case Studies</h2>
+						<h2>Aenfinite العقارات تصميم المواقع Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,17 +1616,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/blue-vine-marketing/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/blue-vine-marketing/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="/ar/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																					<div class="preview-name">Business Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
-																					<div class="preview-name">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</div>
-																					<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Marketing</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
+																					<div class="preview-name">Business الخدمات</div>
+																					<div class="preview-name">التسويق الرقمي</div>
+																					<div class="preview-name">العقارات Marketing</div>
 											
 									</div>
 								</div>
@@ -1634,16 +1634,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/robophil/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/robophil/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
 											<a href="/ar/work/robophil/">RoboPhil</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																					<div class="preview-name">Ø§Ù„ØªÙ‚Ù†ÙŠØ© Platform</div>
-																					<div class="preview-name">Property Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
+																					<div class="preview-name">التقنية Platform</div>
+																					<div class="preview-name">Property التقنية</div>
 																					<div class="preview-name">AI Solutions</div>
 											
 									</div>
@@ -1652,14 +1652,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/husnohaya/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/husnohaya/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
 											<a href="/ar/work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Luxury Properties</div>
 																					<div class="preview-name">Premium Design</div>
@@ -1670,17 +1670,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/khatech/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/khatech/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="/ar/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
 																					<div class="preview-name">Digital Solutions</div>
-																					<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Ø§Ù„ØªÙ‚Ù†ÙŠØ©</div>
-																					<div class="preview-name">Ù…Ù†ØµØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚</div>
+																					<div class="preview-name">العقارات التقنية</div>
+																					<div class="preview-name">منصة التسويق</div>
 											
 									</div>
 								</div>
@@ -1688,14 +1688,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/afropop/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/afropopup/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="/ar/work/afropop/">AfroPop</a>
+											<a href="/ar/work/afropopup/">AfroPop</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
 																					<div class="preview-name">Brand Platform</div>
 																					<div class="preview-name">Creative Design</div>
 																					<div class="preview-name">Property Showcase</div>
@@ -1706,17 +1706,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/feiro/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/feiro/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="/ar/work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
 																					<div class="preview-name">E-commerce Design</div>
 																					<div class="preview-name">Property Listings</div>
-																					<div class="preview-name">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Portal</div>
+																					<div class="preview-name">العقارات Portal</div>
 											
 									</div>
 								</div>
@@ -1724,17 +1724,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Ø§Ù„Ø®Ø¯Ù…Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/amkiservice/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI الخدمات تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/amkiservice/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="/ar/work/amkiservice/">AM-KI Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+											<a href="/ar/work/amkiservice/">AM-KI الخدمات</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
-																					<div class="preview-name">Business Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
+																					<div class="preview-name">Business الخدمات</div>
 																					<div class="preview-name">Professional Platform</div>
-																					<div class="preview-name">Ø­Ù„ÙˆÙ„ Ø¹Ù‚Ø§Ø±ÙŠØ©</div>
+																					<div class="preview-name">حلول عقارية</div>
 											
 									</div>
 								</div>
@@ -1742,14 +1742,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/web-design-&-development/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick تصميم المواقع by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/web-design-and-development/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="/ar/work/web-design-&-development/">Luna Wick</a>
+											<a href="/ar/work/web-design-and-development/">Luna Wick</a>
 										</div>
-																					<div class="preview-name">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+																					<div class="preview-name">تصميم المواقع & التطوير</div>
 																					<div class="preview-name">E-commerce Platform</div>
 																					<div class="preview-name">Lifestyle Brand</div>
 																					<div class="preview-name">Property Design</div>
@@ -1760,8 +1760,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="/ar/work/web-design-&-development/" class="redlink">
-						<span>Ø¹Ø±Ø¶ Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹</span>
+					<a href="/ar/work/web-design-and-development/" class="redlink">
+						<span>عرض جميع المشاريع</span>
 					</a>
 				</div>
 			</div>
@@ -1772,12 +1772,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite for Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Website Solutions</h2>
+				<h2>اتصل بنا Aenfinite for العقارات Website Solutions</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="اتصل بنا form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1789,44 +1789,44 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" /></span>
-		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="اسمك*" value="" type="text" name="your-name" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="بريدك الإلكتروني*" value="" type="email" name="your-email" /></span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your real estate website project" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ø£Ù†Ø§ Ù…Ù‡ØªÙ… Ø¨Ù€...</strong>
+		<strong>أنا مهتم بـ...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
-				<span class="list-item first"><input type="checkbox" name="services" value="Custom Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Website</label></span>
+				<span class="list-item first"><input type="checkbox" name="services" value="Custom العقارات Website" id="custom-realestate-site" /><label for="custom-realestate-site" class="list-item-label">Custom العقارات Website</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Property Listing Integration" id="property-listing" /><label for="property-listing" class="list-item-label">Property Listing Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="IDX/MLS Integration" id="idx-mls" /><label for="idx-mls" class="list-item-label">IDX / MLS Integration</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Lead Capture & CRM" id="lead-crm" /><label for="lead-crm" class="list-item-label">Lead Capture & CRM</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Mobile-Friendly Design" id="mobile-friendly" /><label for="mobile-friendly" class="list-item-label">Mobile-Friendly Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="SEO for Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="Ø£Ø®Ø±Ù‰ Ø­Ù„ÙˆÙ„ Ø¹Ù‚Ø§Ø±ÙŠØ©" id="other" /><label for="other" class="list-item-label">Ø£Ø®Ø±Ù‰ Ø­Ù„ÙˆÙ„ Ø¹Ù‚Ø§Ø±ÙŠØ©</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="SEO for العقارات" id="realestate-seo" /><label for="realestate-seo" class="list-item-label">SEO for العقارات</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="أخرى حلول عقارية" id="other" /><label for="other" class="list-item-label">أخرى حلول عقارية</label></span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¨Ù…ÙŠØ²Ø§Ù†ÙŠØªÙƒ Ø§Ù„ØªÙ‚Ø±ÙŠØ¨ÙŠØ©" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="أخبرنا بميزانيتك التقريبية" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">Ø¨Ø¯Ø¡Ø§Ù‹ Ù…Ù† $100</div>
-                            <div class="select-option js-select-option">Ù…Ù† $500 Ø¥Ù„Ù‰ $5,000</div>
-                            <div class="select-option js-select-option">Ù…Ù† $5,000 Ø¥Ù„Ù‰ $20,000</div>
-                            <div class="select-option js-select-option">Ù…Ù† $20,000 Ø¥Ù„Ù‰ $50,000</div>
-                            <div class="select-option js-select-option">Ø£ÙƒØ«Ø± Ù…Ù† $100,000</div>
+                            <div class="select-option js-select-option">بدءاً من $100</div>
+                            <div class="select-option js-select-option">من $500 إلى $5,000</div>
+                            <div class="select-option js-select-option">من $5,000 إلى $20,000</div>
+                            <div class="select-option js-select-option">من $20,000 إلى $50,000</div>
+                            <div class="select-option js-select-option">أكثر من $100,000</div>
                         </div>
 		</div>
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Ø¥Ø±Ø³Ø§Ù„" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="إرسال" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1841,7 +1841,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Expertise</h2>
+						<h2>العقارات تصميم المواقع Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1852,7 +1852,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Websites</div>
+				<div class="pane-title">Custom العقارات Websites</div>
 				<div class="pane-subtitle">
 					<p>We design and develop fully customized real estate websites that showcase properties, neighborhoods, and agents. Each solution is tailored to your brand and optimized to generate leads, maximize visibility, and simplify property management.</p>
 				</div>
@@ -1884,7 +1884,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Migration & Ø§Ù„ØµÙŠØ§Ù†Ø©</div>
+				<div class="pane-title">Migration & الصيانة</div>
 				<div class="pane-subtitle">
 					<p>We can seamlessly migrate your existing real estate website to a modern platform while ensuring zero downtime. Our maintenance services include updates, backups, security monitoring, and ongoing support to keep your site running smoothly.</p>
 				</div>
@@ -1892,7 +1892,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Headless Ø­Ù„ÙˆÙ„ Ø¹Ù‚Ø§Ø±ÙŠØ©</div>
+				<div class="pane-title">Headless حلول عقارية</div>
 				<div class="pane-subtitle">
 					<p>For larger brokerages, we offer headless real estate website development using frameworks like React or Vue.js. This ensures ultra-fast performance, scalability, and flexibility across devices and platforms.</p>
 				</div>
@@ -1900,7 +1900,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØ­Ø³ÙŠÙ† SEO</div>
+				<div class="pane-title">العقارات تحسين SEO</div>
 				<div class="pane-subtitle">
 					<p>We implement real estate–specific SEO strategies, optimizing property pages, local search visibility, and site performance to drive organic traffic and capture buyers actively searching in your area.</p>
 				</div>
@@ -1916,7 +1916,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Interactive Media & Ø§Ù„Ø±Ø³ÙˆÙ… Ø§Ù„Ù…ØªØ­Ø±ÙƒØ©</div>
+				<div class="pane-title">Interactive Media & الرسوم المتحركة</div>
 				<div class="pane-subtitle">
 					<p>We elevate your brand with interactive property tours, video backgrounds, and smooth animations. These modern design features help capture attention, engage users, and set your real estate business apart from the competition.</p>
 				</div>
@@ -1931,7 +1931,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Website Ø§Ù„ØªØ·ÙˆÙŠØ± Process</h2>
+					<h2>العقارات Website التطوير Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1974,7 +1974,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We create stunning, user-friendly layouts that highlight property images, features, and location maps. The design ensures intuitive browsing for buyers and sellers while reflecting your real estate brand identity.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… (UX)</span>
+							<span>تجربة المستخدم (UX)</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>Through wireframes and flowcharts, we define how users will search, filter, and view properties. The goal is to simplify navigation while maximizing lead conversions with strategically placed CTAs.</p>
@@ -1996,9 +1996,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-content js-switch-copy"></div>
 				</div>
 				
-				<!-- Ø§Ù„ØªØ·ÙˆÙŠØ± -->
+				<!-- التطوير -->
 				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+					<div class="nlist-caption">التطوير</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
 							<span>Property Listing System</span>
@@ -2034,7 +2034,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Support</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>Ø§Ù„ØµÙŠØ§Ù†Ø© & Updates</span>
+							<span>الصيانة & Updates</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We provide ongoing maintenance including security checks, hosting management, property listing updates, and performance improvements to keep your real estate website running smoothly.</p>
@@ -2065,7 +2065,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</span> is the perfect blend of stunning visuals and smart functionality. Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">العقارات تصميم المواقع</span> is the perfect blend of stunning visuals and smart functionality. الأعمال with a team that builds property-focused websites designed to attract buyers, showcase listings beautifully, and generate high-quality leads for your business.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2076,7 +2076,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper">
       <div class="section-caption js-aos">
         <div class="section-caption_text">
-          <h2>Aenfinite Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+          <h2>Aenfinite العقارات تصميم المواقع & العلامات التجارية الخدمات</h2>
         </div>
       </div>
       <div class="service-grid">
@@ -2084,18 +2084,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
           <div class="service-list js-service-container fadein js-aos">
 
             <div class="service active js-service">
-              <div class="service-caption js-service-caption">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</div>
+              <div class="service-caption js-service-caption">العقارات تصميم المواقع</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Property Listings</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Lead Generation</a></div>
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">ØªØµÙ…ÙŠÙ… Ù…ØªØ¬Ø§ÙˆØ¨</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">تصميم متجاوب</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">IDX Integration</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Agent Profiles</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Map Search</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Virtual Tours</a></div>
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">تجربة المستخدم</a></div>
                   </div>
                 </div>
                 <div class="service-text">
@@ -2121,18 +2121,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</div>
+              <div class="service-caption js-service-caption">العقارات العلامات التجارية</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></div>
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">هوية العلامة التجارية</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">تصميم الشعارات</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Color Palette</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Typography</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Visual Consistency</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Marketing Collateral</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Social Presence</a></div>
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">Ø¥Ø±Ø´Ø§Ø¯Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">إرشادات العلامة التجارية</a></div>
                   </div>
                 </div>
                 <div class="service-text">
@@ -2158,14 +2158,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Marketing Website Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+              <div class="service-caption js-service-caption">Marketing Website التطوير</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">ØµÙØ­Ø§Øª Ø§Ù„Ù‡Ø¨ÙˆØ·</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">صفحات الهبوط</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Property Portfolios</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">CRM Integration</a></div>
-                    <div class="chip"><a href="/ar/contact/" class="chip-label">Ø§Ù„Ø£ØªÙ…ØªØ©</a></div>
+                    <div class="chip"><a href="/ar/contact/" class="chip-label">الأتمتة</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Lead Funnels</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Analytics</a></div>
                     <div class="chip"><a href="/ar/contact/" class="chip-label">Email Capture</a></div>
@@ -2195,7 +2195,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
 
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Ongoing Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</div>
+              <div class="service-caption js-service-caption">Ongoing الصيانة & Support</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
@@ -2250,8 +2250,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Ù‡Ù„ Ù„Ø¯ÙŠÙƒ Ù…Ø´Ø±ÙˆØ¹ ÙÙŠ Ø°Ù‡Ù†ÙƒØŸ Ù„Ù†Ø¨Ù†Ù Ø´ÙŠØ¦Ø§Ù‹ Ø¹Ø¸ÙŠÙ…Ø§Ù‹ Ù…Ø¹Ø§Ù‹.</span>
-								<a href="../../contact/" class="redlink">
+								<span>هل لديك مشروع في ذهنك؟ لنبنِ شيئاً عظيماً معاً.</span>
+								<a href="/ar/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2261,42 +2261,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø´Ø±ÙƒØ©</div>
+								<div class="footer-col_caption">الشركة</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+								<div class="footer-col_caption">الخدمات</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design-and-branding-for-real-estate/">Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/web-design-and-branding-for-real-estate/">العقارات تصميم المواقع & العلامات التجارية</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">العلامات التجارية</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ØªÙˆØ§ØµÙ„</div>
+								<div class="footer-col_caption">تواصل</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø¥Ø­Ø§Ù„Ø©</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Ø®Ø¯Ù…Ø§Øª GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/white-label-services/">خدمات العلامة البيضاء</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/referral-program/">برنامج الإحالة</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/ghl-services/">خدمات GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ar/contact/">اتصل بنا</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+								<div class="footer-col_caption">العنوان</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2351,15 +2351,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">Ø£Ø±Ø³Ù„ Ù„Ù†Ø§ Ø¨Ø±ÙŠØ¯Ø§Ù‹ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ§Ù‹</a>
+							<a class="menu-contact" href="/ar/contact/">اتصل بنا</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">أرسل لنا بريداً إلكترونياً</a>
 						</div>
 					</div>
 				</div>
@@ -2367,14 +2367,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Ù…Ø´Ø±ÙˆØ¹ Ø¬Ø¯ÙŠØ¯ØŸ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹</a>
+				<a href="/ar/contact/" class="to-contact">مشروع جديد؟</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">حدد موعد اجتماع</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹Ùƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠ</h3>
+			<h3>حدد موعد اجتماعك التجاري</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2612,11 +2612,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Ù†Ø³ØªØ®Ø¯Ù… Ù…Ù„ÙØ§Øª ØªØ¹Ø±ÙŠÙ Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø· Ù„ØªØ­Ø³ÙŠÙ† ØªØ¬Ø±Ø¨ØªÙƒ. Ø¨Ø§Ù„Ù†Ù‚Ø± Ø¹Ù„Ù‰ Ù‚Ø¨ÙˆÙ„ Ø£Ùˆ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØµÙØ­ØŒ ÙØ¥Ù†Ùƒ ØªÙˆØ§ÙÙ‚ Ø¹Ù„Ù‰
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</a>.
+						نستخدم ملفات تعريف الارتباط لتحسين تجربتك. بالنقر على قبول أو متابعة التصفح، فإنك توافق على
+						<a href="/ar/privacy-policy/" class="cookie-banner__link" target="_blank">سياسة الخصوصية</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">Ù‚Ø¨ÙˆÙ„</button>
+				<button class="cookie-banner__button">قبول</button>
 			</div>
 		</div>
 
@@ -2678,11 +2678,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2746,7 +2746,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2776,7 +2776,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "alternateName": "Aenfinite® - العقارات تصميم المواقع الوكالة",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2788,7 +2788,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® - Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "caption": "Aenfinite® - العقارات تصميم المواقع الوكالة",
       "inLanguage":"ar-SA"
     },
     {
@@ -2808,7 +2808,7 @@ export default function Page() {
           "position": 2,
           "item": {
             "@id": "https://aenfinite.com/services/",
-            "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª"
+            "name": "الخدمات"
           }
         },
         {
@@ -2816,7 +2816,7 @@ export default function Page() {
           "position": 3,
           "item": {
             "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-            "name": "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©"
+            "name": "العقارات تصميم المواقع & العلامات التجارية"
           }
         }
       ]
@@ -2825,7 +2825,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#webpage",
       "url": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/",
-      "name": "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ | Aenfinite®",
+      "name": "العقارات تصميم المواقع & العلامات التجارية الخدمات | Property تصميم المواقع | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": {
@@ -2857,8 +2857,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/#article",
-      "headline": "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ | Aenfinite®",
-      "keywords": "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Property ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, MLS Integration, Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©, Realtor ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Lead Generation, Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª Marketing",
+      "headline": "العقارات تصميم المواقع & العلامات التجارية الخدمات | Property تصميم المواقع | Aenfinite®",
+      "keywords": "العقارات تصميم المواقع, Property تصميم المواقع, MLS Integration, العقارات العلامات التجارية, Realtor تصميم المواقع, Lead Generation, العقارات Marketing",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": {
@@ -2907,11 +2907,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2950,13 +2950,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "الخدمات",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Ø§Ù„Ø¹Ù‚Ø§Ø±Ø§Øª ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "العقارات تصميم المواقع & العلامات التجارية الخدمات",
       "item": "https://aenfinite.com/services/web-design-and-branding-for-real-estate/"
     }
   ]

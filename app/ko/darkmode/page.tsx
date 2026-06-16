@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® – Global Digital ì—ì´ì „ì‹œ for ì›¹ ë””ìžì¸, ë¸Œëžœë”©, SEO & AI Solutions",
-  description: "Aenfinite® is a global ë””ì§€í„¸ ì—ì´ì „ì‹œ based in Colorado, offering ì›¹ ë””ìžì¸, UI/UX, ë¸Œëžœë”©, SEO, ë””ì§€í„¸ ë§ˆì¼€íŒ…, ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”, and AI-powered solutions for modern brands worldwide.",
-  keywords: "ë””ì§€í„¸ ì—ì´ì „ì‹œ, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX ë””ìžì¸, Aenfinite",
+  title: "Aenfinite® – Global Digital 에이전시 for 웹 디자인, 브랜딩, SEO & AI Solutions",
+  description: "Aenfinite® is a global 디지털 에이전시 based in Colorado, offering 웹 디자인, UI/UX, 브랜딩, SEO, 디지털 마케팅, 비즈니스 자동화, and AI-powered solutions for modern brands worldwide.",
+  keywords: "디지털 에이전시, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX 디자인, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"Aenfinite® – Global Digital ì—ì´ì „ì‹œ for ì›¹ ë””ìžì¸, ë¸Œëžœë”©, SEO & AI Solutions","description":"Aenfinite® delivers world-class ì›¹ ë””ìžì¸, ë¸Œëžœë”©, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ko/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital ì—ì´ì „ì‹œ for ì›¹ ë””ìžì¸, ë¸Œëžœë”©, SEO & AI Solutions","description":"Aenfinite® is a creative ë””ì§€í„¸ ì—ì´ì „ì‹œ offering ì›¹ ë””ìžì¸, ë¸Œëžœë”©, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital 에이전시 for 웹 디자인, 브랜딩, SEO & AI Solutions","description":"Aenfinite® delivers world-class 웹 디자인, 브랜딩, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/ko/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital 에이전시 for 웹 디자인, 브랜딩, SEO & AI Solutions","description":"Aenfinite® is a creative 디지털 에이전시 offering 웹 디자인, 브랜딩, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/ko/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
-								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">ì„œë¹„ìŠ¤</a></li>
+								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -573,26 +573,26 @@ from &nbsp;the&nbsp;Mile-High City</h1>
   <div class="services-grid">
     <div class="services-caption">
       <div class="section-caption_text">
-        <h2>Our Core ì„œë¹„ìŠ¤</h2>
+        <h2>Our Core 서비스</h2>
       </div>
     </div>
 
     <div class="services-list">
 
-      <!-- ì›¹ ë””ìžì¸ -->
+      <!-- 웹 디자인 -->
       <div class="servicebox">
         <div class="service active">
           <div class="service-title">
-            <span class="service-name">ì›¹ ë””ìžì¸</span>
+            <span class="service-name">웹 디자인</span>
           </div>
           <div class="service-content">
             <div class="service-tags">
               <div class="chips">
-                <div class="chip"><a href="/ko/services/web-design/">ëžœë”© íŽ˜ì´ì§€</a></div>
-                <div class="chip"><a href="/ko/services/web-design">ê¸°ì—… ì›¹ì‚¬ì´íŠ¸</a></div>
-                <div class="chip"><a href="/ko/services/web-design">ë§žì¶¤í˜• ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸</a></div>
-                <div class="chip"><a href="/ko/services/ui-ux-design/">ë°˜ì‘í˜• ë””ìžì¸</a></div>
-                <div class="chip"><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></div>
+                <div class="chip"><a href="/ko/services/web-design/">랜딩 페이지</a></div>
+                <div class="chip"><a href="/ko/services/web-design/">기업 웹사이트</a></div>
+                <div class="chip"><a href="/ko/services/web-design/">맞춤형 웹사이트 디자인</a></div>
+                <div class="chip"><a href="/ko/services/ui-ux-design/">반응형 디자인</a></div>
+                <div class="chip"><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></div>
               </div>
             </div>
             <div class="service-text">
@@ -606,18 +606,18 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ë¸Œëžœë”© ë° ë¡œê³  ë””ìžì¸ -->
+      <!-- 브랜딩 및 로고 디자인 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ë¸Œëžœë”© ë° ë¡œê³  ë””ìžì¸</span>
+          <span class="service-name">브랜딩 및 로고 디자인</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ko/services/branding/">ê¸°ì—… ì•„ì´ë´í‹°í‹°</a></div>
+              <div class="chip"><a href="/ko/services/branding/">기업 아이덴티티</a></div>
               <div class="chip"><a href="/ko/services/logo-design/">Logo Creation</a></div>
-              <div class="chip"><a href="/ko/services/branding/">Re-ë¸Œëžœë”©</a></div>
-              <div class="chip"><a href="/ko/services/conference-branding/">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</a></div>
+              <div class="chip"><a href="/ko/services/branding/">Re-브랜딩</a></div>
+              <div class="chip"><a href="/ko/services/conference-branding/">브랜드 가이드라인</a></div>
             </div>
           </div>
           <div class="service-text">
@@ -629,17 +629,17 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ë””ì§€í„¸ ë§ˆì¼€íŒ… -->
+      <!-- 디지털 마케팅 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ë””ì§€í„¸ ë§ˆì¼€íŒ…</span>
+          <span class="service-name">디지털 마케팅</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ko/services/search-engine-optimization/">SEO ìµœì í™”</a></div>
-              <div class="chip"><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></div>
-              <div class="chip"><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></div>
+              <div class="chip"><a href="/ko/services/search-engine-optimization/">SEO 최적화</a></div>
+              <div class="chip"><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></div>
+              <div class="chip"><a href="/ko/services/paid-ads/">유료 광고</a></div>
               <div class="chip"><a href="/ko/services/pay-per-click/">PPC Advertising</a></div>
             </div>
           </div>
@@ -652,10 +652,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸ -->
+      <!-- 이커머스 웹사이트 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</span>
+          <span class="service-name">이커머스 웹사이트</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -674,16 +674,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- WordPress ì›¹ì‚¬ì´íŠ¸ -->
+      <!-- WordPress 웹사이트 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">WordPress ì›¹ì‚¬ì´íŠ¸</span>
+          <span class="service-name">WordPress 웹사이트</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/ko/services/e-commerce-websites/">Custom Themes</a></div>
-              <div class="chip"><a href="/ko/services/e-commerce-websites/">í”ŒëŸ¬ê·¸ì¸ ê°œë°œ</a></div>
+              <div class="chip"><a href="/ko/services/e-commerce-websites/">플러그인 개발</a></div>
               <div class="chip"><a href="/ko/services/e-commerce-websites/">CMS Setup</a></div>
             </div>
           </div>
@@ -696,10 +696,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ì•± ê°œë°œ -->
+      <!-- 앱 개발 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ì•± ê°œë°œ</span>
+          <span class="service-name">앱 개발</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -719,16 +719,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ê·¸ëž˜í”½ ë””ìžì¸ -->
+      <!-- 그래픽 디자인 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ê·¸ëž˜í”½ ë””ìžì¸</span>
+          <span class="service-name">그래픽 디자인</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/ko/services/graphic-design/">Social Media ê·¸ëž˜í”½</a></div>
-              <div class="chip"><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></div>
+              <div class="chip"><a href="/ko/services/graphic-design/">Social Media 그래픽</a></div>
+              <div class="chip"><a href="/ko/services/logo-design/">로고 디자인</a></div>
               <div class="chip"><a href="/ko/services/graphic-design/">Print Materials</a></div>
               <div class="chip"><a href="/ko/services/graphic-design/">Pitch Decks</a></div>
             </div>
@@ -742,10 +742,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- íŒ¨í‚¤ì§€ ë””ìžì¸ -->
+      <!-- 패키지 디자인 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">íŒ¨í‚¤ì§€ ë””ìžì¸</span>
+          <span class="service-name">패키지 디자인</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -764,10 +764,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ë§žì¶¤í˜• ê°œë°œ -->
+      <!-- 맞춤형 개발 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ë§žì¶¤í˜• ê°œë°œ</span>
+          <span class="service-name">맞춤형 개발</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -813,18 +813,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 브랜드 아이덴티티" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 – ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Collection</div>
+                <div class="card-name">CycleThe6 – 브랜드 아이덴티티 & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</li>
-                        <li>ë¡œê³  ë””ìžì¸</li>
-                        <li>ìŠ¤í¬ì¸  ë¸Œëžœë”©</li>
+                        <li>브랜드 아이덴티티</li>
+                        <li>로고 디자인</li>
+                        <li>스포츠 브랜딩</li>
                     </ul>
                 </div>
             </div>
@@ -837,18 +837,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ë¸Œëžœë”©" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance 브랜딩" loading="lazy" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume – Luxury Fragrance ë¸Œëžœë”©</div>
+                <div class="card-name">Muskfume – Luxury Fragrance 브랜딩</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ëŸ­ì…”ë¦¬ ë¸Œëžœë”©</li>
-                        <li>ë·°í‹° ë° í™”ìž¥í’ˆ</li>
-                        <li>í–¥ìˆ˜ ì•„ì´ë´í‹°í‹°</li>
+                        <li>럭셔리 브랜딩</li>
+                        <li>뷰티 및 화장품</li>
+                        <li>향수 아이덴티티</li>
                     </ul>
                 </div>
             </div>
@@ -862,17 +862,17 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil AI Trading Platform" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil – AI Trading Platform & Technology í˜ì‹ </div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology 혁신</div>
                 <div class="card-tags">
                     <ul>
-                        <li>AI í”Œëž«í¼</li>
-                        <li>ì›¹ ê°œë°œ</li>
-                        <li>í…Œí¬ ë¸Œëžœë”©</li>
+                        <li>AI 플랫폼</li>
+                        <li>웹 개발</li>
+                        <li>테크 브랜딩</li>
                     </ul>
                 </div>
             </div>
@@ -885,8 +885,8 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine ë§ˆì¼€íŒ… í”Œëž«í¼" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine 마케팅 플랫폼" loading="lazy" decoding="async" />
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -894,9 +894,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ë§ˆì¼€íŒ… í”Œëž«í¼</li>
-                        <li>ë¹„ì¦ˆë‹ˆìŠ¤ ê°œë°œ</li>
-                        <li>ì „ë¬¸ ë¸Œëžœë”©</li>
+                        <li>마케팅 플랫폼</li>
+                        <li>비즈니스 개발</li>
+                        <li>전문 브랜딩</li>
                     </ul>
                 </div>
             </div>
@@ -910,7 +910,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya E-commerce Platform" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -918,9 +918,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ</li>
-                        <li>ì‡¼í•‘ í”Œëž«í¼</li>
-                        <li>ì‚¬ìš©ìž ê²½í—˜</li>
+                        <li>이커머스 개발</li>
+                        <li>쇼핑 플랫폼</li>
+                        <li>사용자 경험</li>
                     </ul>
                 </div>
             </div>
@@ -933,18 +933,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros 알고리즘 솔루션" loading="lazy" decoding="async" />
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros – ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜ & í…Œí¬ ë¸Œëžœë”©</div>
+                <div class="card-name">AlgoPros – 알고리즘 솔루션 & 테크 브랜딩</div>
                 <div class="card-tags">
                     <ul>
-                        <li>í…Œí¬ ë¸Œëžœë”©</li>
-                        <li>ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜</li>
-                        <li>ìŠ¤íƒ€íŠ¸ì—… ì•„ì´ë´í‹°í‹°</li>
+                        <li>테크 브랜딩</li>
+                        <li>알고리즘 솔루션</li>
+                        <li>스타트업 아이덴티티</li>
                     </ul>
                 </div>
             </div>
@@ -958,7 +958,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -966,14 +966,14 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ì†Œì…œ í”Œëž«í¼</li>
-                        <li>í˜‘ì—… ë„êµ¬</li>
-                        <li>í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</li>
+                        <li>소셜 플랫폼</li>
+                        <li>협업 도구</li>
+                        <li>크리에이티브 브랜딩</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/ko/work/afropop/">View Project</a>
+                <a href="/ko/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -981,18 +981,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech ë§ˆì¼€íŒ… í”Œëž«í¼" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech 마케팅 플랫폼" loading="lazy" decoding="async" />
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech – ë§ˆì¼€íŒ… í”Œëž«í¼ & SaaS Solution</div>
+                <div class="card-name">KhaTech – 마케팅 플랫폼 & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
-                        <li>í”Œëž«í¼ ê°œë°œ</li>
-                        <li>B2B ë¸Œëžœë”©</li>
+                        <li>플랫폼 개발</li>
+                        <li>B2B 브랜딩</li>
                     </ul>
                 </div>
             </div>
@@ -1005,18 +1005,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance ì„œë¹„ìŠ¤" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance 서비스" loading="lazy" decoding="async" />
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI – Compliance ì„œë¹„ìŠ¤ & ê¸°ì—… ì•„ì´ë´í‹°í‹°</div>
+                <div class="card-name">AM-KI – Compliance 서비스 & 기업 아이덴티티</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ê¸°ì—… ì•„ì´ë´í‹°í‹°</li>
-                        <li>Professional ì„œë¹„ìŠ¤</li>
-                        <li>Business ë¸Œëžœë”©</li>
+                        <li>기업 아이덴티티</li>
+                        <li>Professional 서비스</li>
+                        <li>Business 브랜딩</li>
                     </ul>
                 </div>
             </div>
@@ -1029,23 +1029,23 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©" loading="lazy" decoding="async" />
-                <span>í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick 크리에이티브 브랜딩" loading="lazy" decoding="async" />
+                <span>프로젝트 보기</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick – í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”© & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – 크리에이티브 브랜딩 & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
-                        <li>í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</li>
+                        <li>크리에이티브 브랜딩</li>
                         <li>Artistic Design</li>
                         <li>Brand Excellence</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/ko/work/web-design-&-development/">View Project</a>
+                <a href="/ko/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1097,7 +1097,7 @@ websites &amp; apps on beast mode.</h2>
 												<div class="num-text">
 													<div>
 														successful cases <br class="desktop" />
-in ë¸Œëžœë”©, ì›¹ ë””ìžì¸ &amp;&nbsp;Apps																											</div>
+in 브랜딩, 웹 디자인 &amp;&nbsp;Apps																											</div>
 												</div>
 											</div>
 										</div>
@@ -1137,14 +1137,14 @@ with clients																											</div>
 				<div class="marquee js-runner">
     <div class="marquee-line js-runner-content">
         <div class="marquee-line_text">Aenfinite Digital Wizards</div>
-        <div class="marquee-line_text">ë§žì¶¤í˜• ì›¹ì‚¬ì´íŠ¸ & Apps</div>
-        <div class="marquee-line_text">Bold ë¸Œëžœë”© & Design</div>
-        <div class="marquee-line_text">Smart ìžë™í™” & AI</div>
+        <div class="marquee-line_text">맞춤형 웹사이트 & Apps</div>
+        <div class="marquee-line_text">Bold 브랜딩 & Design</div>
+        <div class="marquee-line_text">Smart 자동화 & AI</div>
         <div class="marquee-line_text">3D & Motion Experiences</div>
-        <div class="marquee-line_text">Creative + í…Œí¬ Synergy</div>
+        <div class="marquee-line_text">Creative + 테크 Synergy</div>
         <div class="marquee-line_text">Global Clients, Local Roots</div>
         <div class="marquee-line_text">Made-to-Measure Solutions</div>
-        <div class="marquee-line_text">Shopify & ì´ì»¤ë¨¸ìŠ¤ Experts</div>
+        <div class="marquee-line_text">Shopify & 이커머스 Experts</div>
         <div class="marquee-line_text">Next-Level UX/UI Strategy</div>
         <div class="marquee-line_text">Aenfinite  Ideas Into Reality</div>
     </div>
@@ -1176,7 +1176,7 @@ with clients																											</div>
 						
 <div class="wpcf7" id="wpcf7-f1502-o1" lang="en-US" dir="ltr" data-wpcf7-id="1502">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1502" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1214,7 +1214,7 @@ with clients																											</div>
 </div>
 
 						<div class="footer-grid_address">
-    <div class="footer-title">ì£¼ì†Œ</div>
+    <div class="footer-title">주소</div>
     <div class="footer-text">
         1500 Grant Street<br />
         Denver, CO 80203<br />
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">ì›¹ ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">ë§žì¶¤í˜• ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">ë§žì¶¤í˜• ê°œë°œ</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/branding/">ë¸Œëžœë”© &amp; ë¡œê³  ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ…</a></li>
-        <li class="menu-item"><a href="../services/app-development/">ì•± ê°œë°œ</a></li>
+        <li class="menu-item"><a href="/ko/services/web-design/">웹 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/custom-web-development/">맞춤형 웹사이트 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+        <li class="menu-item"><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+        <li class="menu-item"><a href="/ko/services/custom-web-development/">맞춤형 개발</a></li>
+        <li class="menu-item"><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/branding/">브랜딩 &amp; 로고 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/graphic-design/">그래픽 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+        <li class="menu-item"><a href="/ko/services/digital-marketing/">디지털 마케팅</a></li>
+        <li class="menu-item"><a href="/ko/services/app-development/">앱 개발</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ko/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">ì›¹ ë””ìžì¸</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">ë¸Œëžœë”©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/ko/services/branding/">브랜딩</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/ko/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">
@@ -1736,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "Aenfinite® – Global Digital ì—ì´ì „ì‹œ for ì›¹ ë””ìžì¸, ë¸Œëžœë”©, SEO & AI Solutions",
-      "description": "Aenfinite® is a global ë””ì§€í„¸ ì—ì´ì „ì‹œ offering creative ì›¹ ë””ìžì¸, UI/UX, ë¸Œëžœë”©, SEO, ë””ì§€í„¸ ë§ˆì¼€íŒ…, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital 에이전시 for 웹 디자인, 브랜딩, SEO & AI Solutions",
+      "description": "Aenfinite® is a global 디지털 에이전시 offering creative 웹 디자인, UI/UX, 브랜딩, SEO, 디지털 마케팅, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"ko-KR",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients",
-  description: "Join the Aenfinite æŽ¨èè®¡åˆ’ — earn rewards for referring clients to our creative æ•°å­—æœºæž„. Help businesses connect with top-tier design, branding, and web development solutions from Denver's Aenfinite.",
+  title: "Aenfinite 推荐计划 | Earn Rewards by Referring Clients",
+  description: "Join the Aenfinite 推荐计划 — earn rewards for referring clients to our creative 数字机构. Help businesses connect with top-tier design, branding, and web development solutions from Denver's Aenfinite.",
   keywords: "referral program, refer clients, earn rewards, agency referral, client referral program, Aenfinite referral",
   alternates: { canonical: "https://aenfinite.com/zh/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/referral-program/","en":"https://aenfinite.com/agency/partner-with-us/referral-program/","es":"https://aenfinite.com/es/agency/partner-with-us/referral-program/","fr":"https://aenfinite.com/fr/agency/partner-with-us/referral-program/","de":"https://aenfinite.com/de/agency/partner-with-us/referral-program/","it":"https://aenfinite.com/it/agency/partner-with-us/referral-program/","ar":"https://aenfinite.com/ar/agency/partner-with-us/referral-program/","pt":"https://aenfinite.com/pt/agency/partner-with-us/referral-program/","zh":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","hi":"https://aenfinite.com/hi/agency/partner-with-us/referral-program/","nl":"https://aenfinite.com/nl/agency/partner-with-us/referral-program/","ja":"https://aenfinite.com/ja/agency/partner-with-us/referral-program/","ko":"https://aenfinite.com/ko/agency/partner-with-us/referral-program/"} },
-  openGraph: {"title":"Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients","description":"Refer clients to Aenfinite and earn commissions. Join our creative agency referral program and get rewarded for helping others grow their brand.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Aenfinite 推荐计划 | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.com/zh/agency/partner-with-us/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite 推荐计划 | Earn Rewards by Referring Clients","description":"Refer clients to Aenfinite and earn commissions. Join our creative agency referral program and get rewarded for helping others grow their brand.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -344,7 +344,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 			outline: none !important;
 		}
 
-		/* è”ç³»æˆ‘ä»¬ button specific hover override */
+		/* 联系我们 button specific hover override */
 		.topbar-contact_button:hover {
 			box-shadow: none !important;
 			transform: none !important;
@@ -838,7 +838,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">196.25.124.178</div>
-			<div class="url">ä¸Žæˆ‘ä»¬åˆä½œ</div>
+			<div class="url">与我们合作</div>
 			<div class="urlback">https://aenfinite.com/services/web-design/</div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">9-55 am</div>
@@ -855,61 +855,61 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency/">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">开发解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>                                      </ul>
+                                            <li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ </a>
+                                        <a href="#">设计与创意服务 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
+                                            <li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
 
-                                            <li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+                                            <li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+                                            <li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
                                             
-                                            <li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-                                            <li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+                                            <li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+                                            <li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">营销与数字解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-                                            <li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-                                            <li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li>
-                                            <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+                                            <li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+                                            <li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+                                            <li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+                                            <li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li>
+                                            <li><a href="/zh/services/paid-ads/">付费广告</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">AI与技术解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-                                            <li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+                                            <li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+                                            <li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1023,10 +1023,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/contact/?linkcontact=top-contact-button" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1035,7 +1035,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1098,18 +1098,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">åˆ›æ–°è®¾è®¡ä¸Žå¼€å‘æœºæž„</span>
-    <span class="marquee-line_text">å®šåˆ¶ç½‘ç«™ã€åº”ç”¨ä¸Žå“ç‰Œä½“éªŒ</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
-    <span class="marquee-line_text">UI/UXã€SEOä¸Žå¢žé•¿è¥é”€ä¸“å®¶</span>
-    <span class="marquee-line_text">èŽ·åˆåˆ›ä¼ä¸šå’Œå…¨çƒä¼ä¸šä¿¡èµ–</span>
+    <span class="marquee-line_text">创新设计与开发机构</span>
+    <span class="marquee-line_text">定制网站、应用与品牌体验</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
+    <span class="marquee-line_text">UI/UX、SEO与增长营销专家</span>
+    <span class="marquee-line_text">获初创企业和全球企业信赖</span>
     <span class="marquee-line_text">Skilled Team  React, WordPress, Firebase, Figma</span>
-    <span class="marquee-line_text">æ•æ·ä¸Žæ•°æ®é©±åŠ¨çš„å¼€å‘æµç¨‹</span>
-    <span class="marquee-line_text">æ ¹æ¤ä¸œå—äºšçš„å…¨çƒæœºæž„</span>
-    <span class="marquee-line_text">ä»¥å¯æ‰©å±•è§£å†³æ–¹æ¡ˆèµ‹èƒ½ä¼ä¸š</span>
-    <span class="marquee-line_text">ä¸ºæ¯ä¸ªè¡Œä¸šé‡èº«å®šåˆ¶ç­–ç•¥</span>
-    <span class="marquee-line_text">Webã€ç§»åŠ¨å’ŒSaaSå¼€å‘ä¸“å®¶</span>
-    <span class="marquee-line_text">ä»¥ç»“æžœä¸ºå¯¼å‘çš„æ•°å­—è¥é”€è§£å†³æ–¹æ¡ˆ</span>
+    <span class="marquee-line_text">敏捷与数据驱动的开发流程</span>
+    <span class="marquee-line_text">根植东南亚的全球机构</span>
+    <span class="marquee-line_text">以可扩展解决方案赋能企业</span>
+    <span class="marquee-line_text">为每个行业量身定制策略</span>
+    <span class="marquee-line_text">Web、移动和SaaS开发专家</span>
+    <span class="marquee-line_text">以结果为导向的数字营销解决方案</span>
 </div>
 									</div>
 			</div>
@@ -1120,13 +1120,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h2>å…³äºŽAenfinite</h2> 						
+          <h2>关于Aenfinite</h2> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Aenfinite is a global digital innovation agency dedicated to transforming ideas into impactful experiences. 
-          We specialize in <strong>UI/UX design, web and åº”ç”¨å¼€å‘, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
+          We specialize in <strong>UI/UX design, web and 应用开发, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
           <br /><br />
           Founded on creativity and innovation, our team blends design and technology to deliver solutions that inspire, engage, and perform. 
           From startups to established enterprises, we empower brands to grow through strategy-driven design and development. 
@@ -1164,7 +1164,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" style="padding: 30px;">
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async" /></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async"/></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized æœºæž„" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized 机构" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1219,9 +1219,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Join the Aenfinite æŽ¨èè®¡åˆ’?</strong></h2>
+			<h2><strong>Why Join the Aenfinite 推荐计划?</strong></h2>
 			<p>&nbsp;</p>
-			<p>At <strong>Aenfinite</strong>, we believe growth is even better when its shared. Thats why we've created a referral program that rewards you for connecting us with businesses and individuals who can benefit from our <strong>web design, åº”ç”¨å¼€å‘, branding, and digital marketing services</strong>. </p>
+			<p>At <strong>Aenfinite</strong>, we believe growth is even better when its shared. Thats why we've created a referral program that rewards you for connecting us with businesses and individuals who can benefit from our <strong>web design, 应用开发, branding, and digital marketing services</strong>. </p>
 			<p>&nbsp;</p>
 			<p>By joining our referral program, you're not just recommending an agency you're helping brands experience innovation and quality that set new industry standards. Every successful referral earns you exclusive rewards, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
 			<p>&nbsp;</p>
@@ -1233,7 +1233,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<li>Simple, transparent, and value-driven program</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Interested in becoming a referral partner? å‘é€é‚®ä»¶ at 
+			<p>Interested in becoming a referral partner? 发送邮件 at 
 				<a href="mailto:partners@aenfinite.com" target="_blank" rel="noopener">partners@aenfinite.com</a> 
 				to get started today.</p>
 		</div>
@@ -1245,7 +1245,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>æŽ¨èè®¡åˆ’</h2>
+						<h2>推荐计划</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos" style="margin-bottom: 80px;">
@@ -1262,7 +1262,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Earn 20% commission on all successful referrals. No limit on earnings - the more quality clients you refer, the more you earn.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=æŽ¨èè®¡åˆ’ - Commission Details" class="redlink">
+									<a href="mailto:partnerships@aenfinite.com?subject=推荐计划 - Commission Details" class="redlink">
 										<span>Join</span>
 									</a>
 								</div>
@@ -1275,7 +1275,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Receive your commission within 30 days of project completion. Simple tracking dashboard and monthly payment schedule.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=æŽ¨èè®¡åˆ’ - Payout Process" class="redlink">
+									<a href="mailto:partnerships@aenfinite.com?subject=推荐计划 - Payout Process" class="redlink">
 										<span>Join Program</span>
 									</a>
 								</div>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Earn additional bonuses for repeat clients and long-term relationships. Premium referrers get exclusive perks and higher commission rates.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=æŽ¨èè®¡åˆ’ - Premium Benefits" class="redlink">
+									<a href="mailto:partnerships@aenfinite.com?subject=推荐计划 - Premium Benefits" class="redlink">
 										<span>Join Program</span>
 									</a>
 								</div>
@@ -1304,7 +1304,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>How our æŽ¨èè®¡åˆ’ Works</h2>
+                    <h2>How our 推荐计划 Works</h2>
                 </div>
             </div>
             <div class="infobox-grid infobox-grid__4">
@@ -1386,7 +1386,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1396,39 +1396,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/zh/agency/partner-with-us/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/zh/services/graphic-design/">平面设计</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">与我们合作</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">åœ°å€</div>
+									<div class="footer-col_caption">地址</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1473,7 +1473,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../../">
+									<a href="/zh/agency/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="aenfinite.com" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1481,15 +1481,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/zh/agency/partner-with-us/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -1497,13 +1497,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1741,11 +1741,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -1828,8 +1828,8 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/referral-program/",
-  "name": "Aenfinite æŽ¨èè®¡åˆ’ | Earn Rewards by Referring Clients",
-  "description": "Aenfinite's referral program rewards individuals and partners who refer clients for our creative æ•°å­—æœºæž„ services in design, branding, and web development.",
+  "name": "Aenfinite 推荐计划 | Earn Rewards by Referring Clients",
+  "description": "Aenfinite's referral program rewards individuals and partners who refer clients for our creative 数字机构 services in design, branding, and web development.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",
@@ -1846,7 +1846,7 @@ export default function Page() {
   },
   "mainEntity": {
     "@type": "Offer",
-    "name": "Aenfinite æŽ¨èè®¡åˆ’",
+    "name": "Aenfinite 推荐计划",
     "category": "Referral and Partnership",
     "description": "Earn rewards and commissions for referring new clients to Aenfinite's creative digital services.",
     "provider": {
@@ -1877,19 +1877,19 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœºæž„",
+      "name": "机构",
       "item": "https://aenfinite.com/agency/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ä¸Žæˆ‘ä»¬åˆä½œ",
+      "name": "与我们合作",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "Aenfinite æŽ¨èè®¡åˆ’",
+      "name": "Aenfinite 推荐计划",
       "item": "https://aenfinite.com/agency/partner-with-us/referral-program/"
     }
   ]

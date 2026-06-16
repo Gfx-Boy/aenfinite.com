@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤ | User Interface & Experience Design ì—ì´ì „ì‹œ | Aenfinite",
+  title: "UI/UX 디자인 서비스 | User Interface & Experience Design 에이전시",
   description: "Aenfinite® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
-  keywords: "UI UX ë””ìžì¸, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
+  keywords: "UI UX 디자인, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/ui-ux-design/", languages: {"x-default":"https://aenfinite.com/services/ui-ux-design/","en":"https://aenfinite.com/services/ui-ux-design/","es":"https://aenfinite.com/es/services/ui-ux-design/","fr":"https://aenfinite.com/fr/services/ui-ux-design/","de":"https://aenfinite.com/de/services/ui-ux-design/","it":"https://aenfinite.com/it/services/ui-ux-design/","ar":"https://aenfinite.com/ar/services/ui-ux-design/","pt":"https://aenfinite.com/pt/services/ui-ux-design/","zh":"https://aenfinite.com/zh/services/ui-ux-design/","hi":"https://aenfinite.com/hi/services/ui-ux-design/","nl":"https://aenfinite.com/nl/services/ui-ux-design/","ja":"https://aenfinite.com/ja/services/ui-ux-design/","ko":"https://aenfinite.com/ko/services/ui-ux-design/"} },
-  openGraph: {"title":"UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤ | User Interface & Experience Design ì—ì´ì „ì‹œ | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/ko/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤ | User Interface & Experience Design ì—ì´ì „ì‹œ | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"UI/UX 디자인 서비스 | User Interface & Experience Design 에이전시 | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/ko/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"UI/UX 디자인 서비스 | User Interface & Experience Design 에이전시 | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 											
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,18 +1353,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤</span>
+    <span class="marquee-line_text">Professional UI/UX 디자인 서비스</span>
     <span class="marquee-line_text">User Research, Wireframing & Prototyping</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
     <span class="marquee-line_text">Specialists in User Interface & Experience Design</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for UI/UX ë””ìžì¸</span>
-    <span class="marquee-line_text">High-Converting ì‚¬ìš©ìž ê²½í—˜ & Interface Design</span>
-    <span class="marquee-line_text">Professional UI/UX ë””ìžì¸ & Research Solutions</span>
-    <span class="marquee-line_text">Professional UI/UX ë””ìžì¸ ì—ì´ì „ì‹œ with Proven Results</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for UI/UX 디자인</span>
+    <span class="marquee-line_text">High-Converting 사용자 경험 & Interface Design</span>
+    <span class="marquee-line_text">Professional UI/UX 디자인 & Research Solutions</span>
+    <span class="marquee-line_text">Professional UI/UX 디자인 에이전시 with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Design System & Usability Support</span>
-    <span class="marquee-line_text">Custom UI/UX ë””ìžì¸ Solutions for Every Industry</span>
-    <span class="marquee-line_text">Interface Optimization & ì‚¬ìš©ìž ê²½í—˜ Testing</span>
-    <span class="marquee-line_text">Scalable UI/UX ë””ìžì¸ & Long-term User Engagement</span>
+    <span class="marquee-line_text">Custom UI/UX 디자인 Solutions for Every Industry</span>
+    <span class="marquee-line_text">Interface Optimization & 사용자 경험 Testing</span>
+    <span class="marquee-line_text">Scalable UI/UX 디자인 & Long-term User Engagement</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,19 +1372,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/fiscoclic/">
-										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Mobile Investment App UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/fiscoclic/" class="shiftbox-link"> </a>
+									<a href="/ko/work/fiscoclic/">
+										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Mobile Investment App UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/fiscoclic/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/fiscoclic/">FiscoClic - Mobile Investment App</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ UI/UX</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/fiscoclic/">FiscoClic - Mobile Investment App</a></div>
+																																		<div class="preview-name">모바일 UI/UX</div>
 																							<div class="preview-name">Financial Design</div>
 																							<div class="preview-name">Investment Platform</div>
-																							<div class="preview-name">ì‚¬ìš©ìž ê²½í—˜</div>
+																							<div class="preview-name">사용자 경험</div>
 																					</div>
 									</div>
 								</div>
@@ -1393,20 +1393,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Entertainment App UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
+									<a href="/ko/work/lumea/">
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Entertainment App UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Entertainment App</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/lumea/">Lumea - Entertainment App</a></div>
 																																		<div class="preview-name">Entertainment UI/UX</div>
 																							<div class="preview-name">Mobile Experience</div>
 																							<div class="preview-name">Interactive Design</div>
 																							<div class="preview-name">User Engagement</div>
-																							<div class="preview-name">ì•± ê°œë°œ</div>
+																							<div class="preview-name">앱 개발</div>
 																					</div>
 									</div>
 								</div>
@@ -1415,17 +1415,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Health & ì›°ë‹ˆìŠ¤ App UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/ko/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Health & 웰니스 App UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Health & ì›°ë‹ˆìŠ¤ App</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/mindfit/">Mindfit - Health & 웰니스 App</a></div>
 																																		<div class="preview-name">Health UI/UX</div>
-																							<div class="preview-name">ì›°ë‹ˆìŠ¤ Design</div>
+																							<div class="preview-name">웰니스 Design</div>
 																							<div class="preview-name">User Engagement</div>
 																							<div class="preview-name">Mobile Experience</div>
 																					</div>
@@ -1436,20 +1436,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Certification Platform UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									<a href="/ko/work/neocert/">
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Certification Platform UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">NeoCert - Certification Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/neocert/">NeoCert - Certification Platform</a></div>
 																																		<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Education Platform</div>
 																							<div class="preview-name">Certification Design</div>
 																							<div class="preview-name">Learning Experience</div>
-																							<div class="preview-name">í”Œëž«í¼ ê°œë°œ</div>
+																							<div class="preview-name">플랫폼 개발</div>
 																					</div>
 									</div>
 								</div>
@@ -1458,15 +1458,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Neural Network Platform UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/ko/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Neural Network Platform UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Neural Network Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/neurolinker/">Neurolinker - Neural Network Platform</a></div>
 																																		<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Neural Networks</div>
 																							<div class="preview-name">Data Visualization</div>
@@ -1480,19 +1480,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive ëª¨ë°”ì¼ ì•± UI/UX ë””ìžì¸ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/olly/" class="shiftbox-link"> </a>
+									<a href="/ko/work/olly/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive 모바일 앱 UI/UX 디자인 by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/Olly/">Olly - Interactive ëª¨ë°”ì¼ ì•±</a></div>
-																																		<div class="preview-name">ëª¨ë°”ì¼ UI/UX</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/olly/">Olly - Interactive 모바일 앱</a></div>
+																																		<div class="preview-name">모바일 UI/UX</div>
 																							<div class="preview-name">Interactive Design</div>
 																							<div class="preview-name">User Engagement</div>
-																							<div class="preview-name">ì•± ê°œë°œ</div>
+																							<div class="preview-name">앱 개발</div>
 																					</div>
 									</div>
 								</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional UI/UX ë””ìžì¸ services that create intuitive, user-centered digital experiences and drive engagement success. We manage comprehensive user research, wireframing, prototyping, interface design, and usability testing services that generate exceptional user experiences and long-term customer satisfaction.</div>
+				<div class="textbox-content">Aenfinite delivers Professional UI/UX 디자인 services that create intuitive, user-centered digital experiences and drive engagement success. We manage comprehensive user research, wireframing, prototyping, interface design, and usability testing services that generate exceptional user experiences and long-term customer satisfaction.</div>
 									<div class="textbox-action">
 						<a href="/ko/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1571,12 +1571,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ë¬¸ì˜ Aenfinite for Expert UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤</h2>
+				<h2>문의 Aenfinite for Expert UI/UX 디자인 서비스</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1589,10 +1589,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your UI/UX project" value="" type="text" name="text-tell-project" />
@@ -1600,21 +1600,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong>
+		<strong>관심 분야...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Website UI Design" id="ui-design" /><label for="ui-design" class="list-item-label">Website UI Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="ëª¨ë°”ì¼ ì•± UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">ëª¨ë°”ì¼ ì•± UI/UX</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="모바일 앱 UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">모바일 앱 UI/UX</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Wireframing & Prototyping" id="wireframing" /><label for="wireframing" class="list-item-label">Wireframing & Prototyping</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="User Research & Testing" id="user-research" /><label for="user-research" class="list-item-label">User Research & Testing</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Dashboard & SaaS Design" id="dashboard-design" /><label for="dashboard-design" class="list-item-label">Dashboard & SaaS Design</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="UX Strategy Consultation" id="ux-strategy" /><label for="ux-strategy" class="list-item-label">UX Strategy Consultation</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="ê¸°íƒ€ UI/UX ì„œë¹„ìŠ¤" id="other-uiux" /><label for="other-uiux" class="list-item-label">ê¸°íƒ€ UI/UX ì„œë¹„ìŠ¤</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="기타 UI/UX 서비스" id="other-uiux" /><label for="other-uiux" class="list-item-label">기타 UI/UX 서비스</label></span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1629,7 +1629,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1645,7 +1645,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>UI/UX ë””ìžì¸ Expertise</h2>
+							<h2>UI/UX 디자인 Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1656,9 +1656,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ</div>
+						<div class="pane-title">Custom 이커머스 개발</div>
 						<div class="pane-subtitle">
-							<p>Aenfinite specializes in building custom UI/UX ë””ìžì¸ from the ground up. Our expert developers create bespoke online store designs, custom shopping cart solutions, and tailored functionality that perfectly aligns with your business objectives. We ensure your e-commerce site is scalable, secure, and optimized for performance.</p>
+							<p>Aenfinite specializes in building custom UI/UX 디자인 from the ground up. Our expert developers create bespoke online store designs, custom shopping cart solutions, and tailored functionality that perfectly aligns with your business objectives. We ensure your e-commerce site is scalable, secure, and optimized for performance.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -1677,7 +1677,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">ì‚¬ìš©ìž ê²½í—˜ Research</div>
+						<div class="pane-title">사용자 경험 Research</div>
 						<div class="pane-subtitle">
 							<p>Understand your users deeply with comprehensive user experience research services. We conduct user interviews, usability testing, persona development, journey mapping, and behavioral analysis that inform design decisions and enhance digital experiences.</p>
 						</div>
@@ -1691,7 +1691,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Design System ê°œë°œ</div>
+						<div class="pane-title">Design System 개발</div>
 						<div class="pane-subtitle">
 							<p>Create consistent, scalable design experiences with comprehensive design systems. We develop component libraries, style guides, pattern documentation, and design tokens that ensure cohesive user interfaces across all digital touchpoints and platforms.</p>
 						</div>
@@ -1725,7 +1725,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>UI/UX ë””ìžì¸ Process</h2>
+					<h2>UI/UX 디자인 Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1742,7 +1742,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>Persona ê°œë°œ</span>
+							<span>Persona 개발</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
 							<p>Our team creates detailed user personas and journey maps to visualize user motivations, behaviors, and pain points. These insights guide every design decision to ensure usability and relevance.</p>
@@ -1862,7 +1862,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">UI/UX ë””ìžì¸</span> is the perfect blend of creativity, usability, and functionality. í¬íŠ¸í´ë¦¬ì˜¤ with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">UI/UX 디자인</span> is the perfect blend of creativity, usability, and functionality. 포트폴리오 with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1873,7 +1873,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤</h2>
+					<h2>Aenfinite UI/UX 디자인 서비스</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1882,7 +1882,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">UI/UX ë””ìžì¸ Research & Strategy</div>
+							<div class="service-caption js-service-caption">UI/UX 디자인 Research & Strategy</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -1968,8 +1968,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Color Palettes</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Components</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Iconography</a></div>
-										<div class="chip"><a href="/ko/contact/" class="chip-label">ë°˜ì‘í˜• ë””ìžì¸</a></div>
-										<div class="chip"><a href="/ko/contact/" class="chip-label">ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">반응형 디자인</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">비주얼 아이덴티티</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -2053,8 +2053,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>í”„ë¡œì íŠ¸ê°€ ìžˆìœ¼ì‹ ê°€ìš”? í•¨ê»˜ ë©‹ì§„ ê²ƒì„ ë§Œë“¤ì–´ ë´…ì‹œë‹¤.</span>
-								<a href="../../contact/" class="redlink">
+								<span>프로젝트가 있으신가요? 함께 멋진 것을 만들어 봅시다.</span>
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2064,42 +2064,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">UI/UX ë””ìžì¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/e-commerce-websites/">UI/UX 디자인</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2154,15 +2154,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2170,14 +2170,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2415,11 +2415,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2480,11 +2480,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2548,7 +2548,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2585,7 +2585,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Creative Digital ì—ì´ì „ì‹œ",
+      "alternateName": "Aenfinite® - Creative Digital 에이전시",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ko-KR"
     },
@@ -2601,12 +2601,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "ì„œë¹„ìŠ¤" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "서비스" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/ui-ux-design/", "name": "UI/UX ë””ìžì¸" }
+          "item": { "@id": "https://aenfinite.com/services/ui-ux-design/", "name": "UI/UX 디자인" }
         }
       ]
     },
@@ -2614,7 +2614,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/ui-ux-design/#webpage",
       "url": "https://aenfinite.com/services/ui-ux-design/",
-      "name": "UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤ | User Interface & Experience Design ì—ì´ì „ì‹œ | Aenfinite®",
+      "name": "UI/UX 디자인 서비스 | User Interface & Experience Design 에이전시 | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2624,7 +2624,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "Aenfinite® UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤"
+        "caption": "Aenfinite® UI/UX 디자인 서비스"
       },
       "breadcrumb": { "@id": "https://aenfinite.com/services/ui-ux-design/#breadcrumb" },
       "inLanguage":"ko-KR"
@@ -2632,7 +2632,7 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/ui-ux-design/#article",
-      "headline": "UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤ | User Interface & Experience Design ì—ì´ì „ì‹œ | Aenfinite®",
+      "headline": "UI/UX 디자인 서비스 | User Interface & Experience Design 에이전시 | Aenfinite®",
       "description": "Aenfinite® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
       "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2641,7 +2641,7 @@ export default function Page() {
       "isPartOf": { "@id": "https://aenfinite.com/services/ui-ux-design/#webpage" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
-      "keywords": "UI Design, UX Design, ì‚¬ìš©ìž ê²½í—˜, Wireframes, Prototyping, Usability Testing, Interface Design"
+      "keywords": "UI Design, UX Design, 사용자 경험, Wireframes, Prototyping, Usability Testing, Interface Design"
     }
   ]
 }` }}
@@ -2673,11 +2673,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2716,13 +2716,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "UI/UX ë””ìžì¸ ì„œë¹„ìŠ¤",
+      "name": "UI/UX 디자인 서비스",
       "item": "https://aenfinite.com/services/ui-ux-design/"
     }
   ]

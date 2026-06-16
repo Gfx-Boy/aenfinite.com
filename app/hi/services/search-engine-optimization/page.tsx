@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite",
+  title: "Expert सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं | Organic Traffic Growth",
   description: "Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
-  keywords: "SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚, search engine optimization, keyword research, on-page SEO, technical SEO, link building, local SEO, organic traffic, SERP ranking, Aenfinite",
+  keywords: "SEO सेवाएं, search engine optimization, keyword research, on-page SEO, technical SEO, link building, local SEO, organic traffic, SERP ranking, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/search-engine-optimization/", languages: {"x-default":"https://aenfinite.com/services/search-engine-optimization/","en":"https://aenfinite.com/services/search-engine-optimization/","es":"https://aenfinite.com/es/services/search-engine-optimization/","fr":"https://aenfinite.com/fr/services/search-engine-optimization/","de":"https://aenfinite.com/de/services/search-engine-optimization/","it":"https://aenfinite.com/it/services/search-engine-optimization/","ar":"https://aenfinite.com/ar/services/search-engine-optimization/","pt":"https://aenfinite.com/pt/services/search-engine-optimization/","zh":"https://aenfinite.com/zh/services/search-engine-optimization/","hi":"https://aenfinite.com/hi/services/search-engine-optimization/","nl":"https://aenfinite.com/nl/services/search-engine-optimization/","ja":"https://aenfinite.com/ja/services/search-engine-optimization/","ko":"https://aenfinite.com/ko/services/search-engine-optimization/"} },
-  openGraph: {"title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/hi/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite","description":"Aenfinite® offers SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚ focused on data-driven keyword research, on-page optimization, technical SEO, and link building — helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं | Organic Traffic Growth | Aenfinite","description":"Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.","url":"https://aenfinite.com/hi/services/search-engine-optimization/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं | Organic Traffic Growth | Aenfinite","description":"Aenfinite® offers SEO सेवाएं focused on data-driven keyword research, on-page optimization, technical SEO, and link building — helping brands grow through organic traffic.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1093,7 +1093,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						
-			<div class="url">SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+			<div class="url">SEO सेवाएं</div>
 			<div class="urlback">https://aenfinite.com/services/search-engine-optimization/</div>
 			
 		</div>	
@@ -1109,63 +1109,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a>
+								<a href="/hi/agency/">एजेंसी</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/hi/services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a>
+                                <a href="/hi/services/">सेवाएं</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ </a>
+										<a href="#">डेवलपमेंट समाधान </a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/hi/services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li><a href="/hi/services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/custom-web-development">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/software-&-platform-development/">à¤¸à¥‰à¤«à¥à¤Ÿà¤µà¥‡à¤¯à¤° à¤”à¤° à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤µà¥‡à¤¬ à¤¸à¤®à¤¾à¤§à¤¾à¤¨</a></li>									</ul>
+											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
+											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
+											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¸à¥‡à¤µà¤¾à¤à¤‚ </a>
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं </a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤”à¤° à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li> <li><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
 											
-											<li><a href="/hi/services/trade-show-booth-design/">à¤Ÿà¥à¤°à¥‡à¤¡ à¤¶à¥‹ à¤¬à¥‚à¤¥ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/conference-branding/">à¤•à¥‰à¤¨à¥à¤«à¥à¤°à¥‡à¤‚à¤¸ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨ </a>
+										<a href="#">मार्केटिंग और डिजिटल समाधान </a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/search-engine-optimization/">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)</a></li>
-											<li><a href="/hi/services/pay-per-click">à¤ªà¥‡-à¤ªà¤°-à¤•à¥à¤²à¤¿à¤• (PPC) à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
-											<li><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></li> <li><a href="/hi/services/paid-ads/">à¤¸à¤¶à¥à¤²à¥à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ </a>
+										<a href="#">AI और प्रौद्योगिकी समाधान </a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ai-chatbots-&-virtual-assistants/">AI à¤šà¥ˆà¤Ÿà¤¬à¥‰à¤Ÿ à¤”à¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤…à¤¸à¤¿à¤¸à¥à¤Ÿà¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/workflow-&-business-automation/">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</a></li>
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from à¤¸à¥‡à¤µà¤¾à¤à¤‚ menu - adaptive styling */
+/* Main dropdown from सेवाएं menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1279,10 +1279,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/hi/contact/" class="topbar-contact_button">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
+						<a href="/hi/contact/" class="topbar-contact_button">संपर्क</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1291,7 +1291,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¥€, à¤¤à¥‹ à¤¹à¤®à¥‡à¤‚ à¤²à¤¿à¤–à¥‡à¤‚ à¤”à¤° à¤¹à¤® à¤•à¥‹à¤ˆ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤¨à¤¿à¤•à¤¾à¤²à¥‡à¤‚à¤—à¥‡ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							अगर आपको अपनी ज़रूरत की सेवा नहीं मिलती, तो हमें लिखें और हम कोई समाधान निकालेंगे <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1358,14 +1358,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</span>
+    <span class="marquee-line_text">Expert सर्च इंजन ऑप्टिमाइज़ेशन सेवाएं</span>
     <span class="marquee-line_text">Keyword Research, On-Page & Technical SEO</span>
-    <span class="marquee-line_text">à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾, à¤•à¤¨à¤¾à¤¡à¤¾ à¤”à¤° à¤‰à¤¸à¤¸à¥‡ à¤†à¤—à¥‡ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾</span>
+    <span class="marquee-line_text">अमेरिका, कनाडा और उससे आगे ग्राहकों की सेवा</span>
     <span class="marquee-line_text">Specialists in Organic Rankings & Search Visibility</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for SEO Results</span>
     <span class="marquee-line_text">Data-Driven SEO Strategies & Analytics</span>
     <span class="marquee-line_text">Local SEO & International Search Optimization</span>
-    <span class="marquee-line_text">Professional SEO à¤à¤œà¥‡à¤‚à¤¸à¥€ with Proven Results</span>
+    <span class="marquee-line_text">Professional SEO एजेंसी with Proven Results</span>
     <span class="marquee-line_text">Comprehensive SEO Audits & Link Building</span>
     <span class="marquee-line_text">Custom SEO Solutions for Every Industry</span>
     <span class="marquee-line_text">Content Optimization & Search Performance</span>
@@ -1432,12 +1432,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>à¤¸à¤‚à¤ªà¤°à¥à¤• Aenfinite for Expert SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+				<h2>संपर्क Aenfinite for Expert SEO सेवाएं</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1449,14 +1449,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="à¤¹à¤®à¥‡à¤‚ à¤…à¤ªà¤¨à¥‡ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤•à¥‡ à¤¬à¤¾à¤°à¥‡ à¤®à¥‡à¤‚ à¤¬à¤¤à¤¾à¤à¤‚" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="आपका नाम*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="आपका ई-मेल*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="हमें अपने प्रोजेक्ट के बारे में बताएं" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>à¤®à¥à¤à¥‡ à¤‡à¤¸à¤®à¥‡à¤‚ à¤°à¥à¤šà¤¿ à¤¹à¥ˆ...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="à¤…à¤¨à¥à¤¯ SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚" id="other" /><label for="other" class="list-item-label">à¤…à¤¨à¥à¤¯ SEO à¤¸à¥‡à¤µà¤¾à¤à¤‚</label></span></span></span>
+		<strong>मुझे इसमें रुचि है...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO ऑप्टिमाइज़ेशन" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO ऑप्टिमाइज़ेशन</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO ऑप्टिमाइज़ेशन" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO ऑप्टिमाइज़ेशन</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="अन्य SEO सेवाएं" id="other" /><label for="other" class="list-item-label">अन्य SEO सेवाएं</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="à¤…à¤ªà¤¨à¤¾ à¤…à¤¨à¥à¤®à¤¾à¤¨à¤¿à¤¤ à¤¬à¤œà¤Ÿ à¤¬à¤¤à¤¾à¤à¤‚" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="अपना अनुमानित बजट बताएं" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1464,23 +1464,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					$100 à¤¸à¥‡ à¤¶à¥à¤°à¥‚
+					$100 से शुरू
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500 à¤¸à¥‡ $5,000 à¤¤à¤•
+					$500 से $5,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000 à¤¸à¥‡ $20,000 à¤¤à¤•
+					$5,000 से $20,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000 à¤¸à¥‡ $50,000 à¤¤à¤•
+					$20,000 से $50,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$100,000 à¤¸à¥‡ à¤…à¤§à¤¿à¤•
+					$100,000 से अधिक
 					
 				</div>
 			</div>		</div>
@@ -1490,7 +1490,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="à¤­à¥‡à¤œà¥‡à¤‚" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="भेजें" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1507,7 +1507,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="inner-wrapper"> 					
         <div class="section-caption js-aos"> 						
           <div class="section-caption_text"> 							
-            <h2>à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ Expertise</h2> 						
+            <h2>सर्च इंजन ऑप्टिमाइज़ेशन Expertise</h2> 						
           </div> 					
         </div> 					
         <div class="textbox textbox__push js-aos appear"> 						
@@ -1581,7 +1581,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       
       <div class="pane js-aos fadein"> 						
         <div class="pane-index"></div> 						
-        <div class="pane-title">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ SEO</div> 						
+        <div class="pane-title">ई-कॉमर्स SEO</div> 						
         <div class="pane-subtitle"> 							
           <p>
             Drive product sales with advanced e-commerce SEO. We optimize category pages, product descriptions, site speed, and structured data to improve rankings and conversions for online stores.
@@ -1618,7 +1618,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</span> is the perfect blend of technical expertise and strategic content marketing. à¤•à¤¾à¤°à¥à¤¯ with a team that excels at both improving organic rankings and delivering exceptional SEO performance.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">सर्च इंजन ऑप्टिमाइज़ेशन</span> is the perfect blend of technical expertise and strategic content marketing. कार्य with a team that excels at both improving organic rankings and delivering exceptional SEO performance.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1629,7 +1629,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+						<h2>Aenfinite सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं</h2>
 					</div>
 				</div>
 				<div class="service-grid">
@@ -1690,7 +1690,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">On-Page SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</div>
+									<div class="service-caption js-service-caption">On-Page SEO ऑप्टिमाइज़ेशन</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
@@ -1872,7 +1872,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1882,42 +1882,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤•à¤‚à¤ªà¤¨à¥€</div>
+								<div class="footer-col_caption">कंपनी</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+								<div class="footer-col_caption">सेवाएं</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ब्रांडिंग</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">à¤•à¤¨à¥‡à¤•à¥à¤Ÿ</div>
+								<div class="footer-col_caption">कनेक्ट</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">à¤µà¥à¤¹à¤¾à¤‡à¤Ÿ à¤²à¥‡à¤¬à¤² à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">à¤°à¥‡à¤«à¤°à¤² à¤ªà¥à¤°à¥‹à¤—à¥à¤°à¤¾à¤®</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/white-label-services/">व्हाइट लेबल सेवाएं</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/referral-program/">रेफरल प्रोग्राम</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/ghl-services/">GHL सेवाएं</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/hi/contact/">संपर्क</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">à¤ªà¤¤à¤¾</div>
+								<div class="footer-col_caption">पता</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -1972,15 +1972,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">à¤¹à¤®à¥‡à¤‚ à¤ˆà¤®à¥‡à¤² à¤•à¤°à¥‡à¤‚</a>
+							<a class="menu-contact" href="/hi/contact/">संपर्क</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">हमें ईमेल करें</a>
 						</div>
 					</div>
 				</div>
@@ -1988,14 +1988,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">à¤¨à¤¯à¤¾ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</a>
+				<a href="/hi/contact/" class="to-contact">नया प्रोजेक्ट?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">मीटिंग शेड्यूल करें</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>à¤…à¤ªà¤¨à¥€ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</h3>
+			<h3>अपनी बिज़नेस मीटिंग शेड्यूल करें</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2233,11 +2233,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤•à¥€à¤œà¤¼ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤ à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¤•à¥‡ à¤¯à¤¾ à¤¬à¥à¤°à¤¾à¤‰à¤œà¤¼ à¤•à¤°à¤¨à¤¾ à¤œà¤¾à¤°à¥€ à¤°à¤–à¤•à¤°, à¤†à¤ª à¤¹à¤®à¤¾à¤°à¥€ à¤¸à¤¹à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">à¤—à¥‹à¤ªà¤¨à¥€à¤¯à¤¤à¤¾ à¤¨à¥€à¤¤à¤¿</a>.
+						हम आपके उपयोगकर्ता अनुभव को बेहतर बनाने के लिए कुकीज़ का उपयोग करते हैं। स्वीकार पर क्लिक करके या ब्राउज़ करना जारी रखकर, आप हमारी सहमति देते हैं
+						<a href="/hi/privacy-policy/" class="cookie-banner__link" target="_blank">गोपनीयता नीति</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤•à¤°à¥‡à¤‚</button>
+				<button class="cookie-banner__button">स्वीकार करें</button>
 			</div>
 		</div>
 
@@ -2299,11 +2299,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2369,7 +2369,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2400,7 +2400,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - SEO & à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "alternateName": "Aenfinite® - SEO & डिजिटल मार्केटिंग एजेंसी",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2418,12 +2418,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "सेवाएं" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/search-engine-optimization/", "name": "à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)" }
+          "item": { "@id": "https://aenfinite.com/services/search-engine-optimization/", "name": "सर्च इंजन ऑप्टिमाइज़ेशन (SEO)" }
         }
       ]
     },
@@ -2431,7 +2431,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/search-engine-optimization/#webpage",
       "url": "https://aenfinite.com/services/search-engine-optimization/",
-      "name": "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Organic Traffic Growth | Aenfinite®",
+      "name": "Expert सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं | Organic Traffic Growth | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2469,11 +2469,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2514,13 +2514,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "सेवाएं",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO) à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "Expert सर्च इंजन ऑप्टिमाइज़ेशन (SEO) सेवाएं",
       "item": "https://aenfinite.com/services/search-engine-optimization/"
     }
   ]

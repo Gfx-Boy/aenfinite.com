@@ -4,11 +4,11 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "éšç§æ”¿ç­– | Aenfinite",
-  description: "éšç§æ”¿ç­– for Aenfinite - Denver",
+  title: "隐私政策",
+  description: "隐私政策 for Aenfinite - Denver",
   keywords: "privacy policy, data protection, cookies policy, GDPR, user privacy, Aenfinite privacy",
-  openGraph: {"title":"éšç§æ”¿ç­– | Aenfinite","description":"éšç§æ”¿ç­– for Aenfinite - Denver","url":"https://aenfinite.com/zh/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"éšç§æ”¿ç­– | Aenfinite","description":"éšç§æ”¿ç­– for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"隐私政策 | Aenfinite","description":"隐私政策 for Aenfinite - Denver","url":"https://aenfinite.com/zh/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"隐私政策 | Aenfinite","description":"隐私政策 for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -646,7 +646,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">3.14.82.216</div>
-			<div class="url">éšç§æ”¿ç­–</div>
+			<div class="url">隐私政策</div>
 			<div class="urlback"></div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">7-16 am</div>
@@ -663,61 +663,61 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">开发解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>                                      </ul>
+                                            <li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ </a>
+                                        <a href="#">设计与创意服务 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
+                                            <li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
 
-                                            <li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+                                            <li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+                                            <li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
                                             
-                                            <li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-                                            <li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+                                            <li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+                                            <li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">营销与数字解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-                                            <li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-                                            <li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li>
-                                            <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+                                            <li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+                                            <li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+                                            <li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+                                            <li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li>
+                                            <li><a href="/zh/services/paid-ads/">付费广告</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ </a>
+                                        <a href="#">AI与技术解决方案 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-                                            <li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+                                            <li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+                                            <li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -831,10 +831,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -843,7 +843,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -874,10 +874,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="wrapper">
 				<div class="textbox-content normaltext">
 					
-<h2 class="wp-block-heading"><strong>éšç§æ”¿ç­–</strong></h2>
+<h2 class="wp-block-heading"><strong>隐私政策</strong></h2>
 
 <p>Effective Date: August 23, 2025<br />Aenfinite LLC (Aenfinite)</p>
-<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This éšç§æ”¿ç­– explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
+<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This 隐私政策 explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
 <p><br />By using our site, you agree to the practices outlined below.</p>
 <p><br /></p>
 <p><br /><strong>1. Information We Collect</strong></p>
@@ -923,14 +923,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <p><br /><strong>10. International Users</strong></p>
 <p><br />If you are accessing our website from outside the United States, please be aware your information may be transferred to and processed in the U.S. or other jurisdictions. By using our site, you consent to this transfer in accordance with applicable data protection laws.</p>
 <p><br /></p>
-<p><br /><strong>11. Updates to This éšç§æ”¿ç­–</strong></p>
-<p><br />We may update this éšç§æ”¿ç­– periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
+<p><br /><strong>11. Updates to This 隐私政策</strong></p>
+<p><br />We may update this 隐私政策 periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
 <p><br /></p>
-<p><br /><strong>12. è”ç³»æˆ‘ä»¬</strong></p>
+<p><br /><strong>12. 联系我们</strong></p>
 <p><br />For any questions, concerns, or requests regarding your privacy or this policy, please contact:</p>
 <p><br />Aenfinite<br />Aenfinite LLC<br />Denver, Colorado<br />?? privacy@aenfinite.com<br />?? +1 (469) 267-7487<br />?? https://aenfinite.com</p>
 <p><br /></p>
-<p><br /> 2025 Aenfinite LLC. ç‰ˆæƒæ‰€æœ‰.</p>
+<p><br /> 2025 Aenfinite LLC. 版权所有.</p>
 	
 				</div>
 			</div>
@@ -943,7 +943,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -953,41 +953,41 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">å¹³é¢è®¾è®¡</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/zh/services/graphic-design/">平面设计</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/white-label-services/">白标服务</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/referral-program/">推荐计划</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/ghl-services/">GHL服务</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">åœ°å€</div>
+									<div class="footer-col_caption">地址</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1031,7 +1031,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/zh/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="aenfinite.com" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1039,15 +1039,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -1055,14 +1055,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1301,11 +1301,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -1406,7 +1406,7 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 </script><!-- wp-polyfill removed -->
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -1417,7 +1417,7 @@ export default function Page() {
         <script
           key="schema-0"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Denver's Premier Digital åˆ›æ–° æœºæž„","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"zh-CN"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Denver's Premier Digital åˆ›æ–° æœºæž„","inLanguage":"zh-CN"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"éšç§æ”¿ç­–"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"éšç§æ”¿ç­– | Aenfinite®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"zh-CN","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"zh-CN"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"éšç§æ”¿ç­– | Aenfinite®","keywords":"éšç§æ”¿ç­–","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"éšç§æ”¿ç­– for Aenfinite® - Denver's premier ä¸“æ³¨äºŽä»¥ä¸‹é¢†åŸŸçš„æ•°å­—åˆ›æ–°æœºæž„ï¼š branding, web design, user interface (UI), and user experience (UX).","name":"éšç§æ”¿ç­– | Aenfinite®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"zh-CN","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
+          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Denver's Premier Digital 创新 机构","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"zh-CN"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Denver's Premier Digital 创新 机构","inLanguage":"zh-CN"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"隐私政策"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"隐私政策 | Aenfinite®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"zh-CN","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"zh-CN"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"隐私政策 | Aenfinite®","keywords":"隐私政策","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"隐私政策 for Aenfinite® - Denver's premier 专注于以下领域的数字创新机构： branding, web design, user interface (UI), and user experience (UX).","name":"隐私政策 | Aenfinite®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"zh-CN","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
         />
         <script
           key="schema-1"
@@ -1435,7 +1435,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "éšç§æ”¿ç­–",
+      "name": "隐私政策",
       "item": "https://aenfinite.com/privacy-policy/"
     }
   ]

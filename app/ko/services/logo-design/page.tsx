@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤ | Custom ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Creation | Aenfinite",
+  title: "Professional 로고 디자인 서비스 | Custom 브랜드 아이덴티티 & Logo Creation",
   description: "Aenfinite is a creative agency specializing in professional logo design, custom brand identity, and visual identity systems. We craft distinctive logos that elevate brand recognition and drive long-term business success.",
   keywords: "logo design, custom logo, brand identity design, logo creation, wordmark logo, emblem logo, minimalist logo, professional logo design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/logo-design/", languages: {"x-default":"https://aenfinite.com/services/logo-design/","en":"https://aenfinite.com/services/logo-design/","es":"https://aenfinite.com/es/services/logo-design/","fr":"https://aenfinite.com/fr/services/logo-design/","de":"https://aenfinite.com/de/services/logo-design/","it":"https://aenfinite.com/it/services/logo-design/","ar":"https://aenfinite.com/ar/services/logo-design/","pt":"https://aenfinite.com/pt/services/logo-design/","zh":"https://aenfinite.com/zh/services/logo-design/","hi":"https://aenfinite.com/hi/services/logo-design/","nl":"https://aenfinite.com/nl/services/logo-design/","ja":"https://aenfinite.com/ja/services/logo-design/","ko":"https://aenfinite.com/ko/services/logo-design/"} },
-  openGraph: {"title":"Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤ | Custom ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services — from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/ko/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤ | Custom ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional 로고 디자인 서비스 | Custom 브랜드 아이덴티티 & Logo Creation | Aenfinite","description":"Aenfinite delivers high-quality logo design services — from custom brand identity to visual branding systems that leave a lasting impact.","url":"https://aenfinite.com/ko/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional 로고 디자인 서비스 | Custom 브랜드 아이덴티티 & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1105,44 +1105,44 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
 
 										</ul>
 									</li>
@@ -1151,19 +1151,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 
 .menu-item-has-children {
     position: relative;
 }
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1277,10 +1277,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1289,7 +1289,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1318,7 +1318,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ë¡œê³  ë””ìžì¸</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
+						<span>Professional <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">로고 디자인</span> that creates memorable, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">brand symbols</span>, and drives instant recognition.</span>
 											</h1>
 									</div>
 			</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Custom Logo Creation, Brand Marks & ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹° Solutions</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Specialists in ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Creation</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for ë¡œê³  ë””ìžì¸ Solutions</span>
-    <span class="marquee-line_text">High-Impact ë¡œê³  ë””ìžì¸ & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ê°œë°œ</span>
-    <span class="marquee-line_text">Professional ë¡œê³  ë””ìžì¸ & Brand Mark Creation</span>
-    <span class="marquee-line_text">Professional ë¡œê³  ë””ìžì¸ ì—ì´ì „ì‹œ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Variations Support</span>
-    <span class="marquee-line_text">Custom ë¡œê³  ë””ìžì¸ Solutions for Every Industry</span>
-    <span class="marquee-line_text">Logo Optimization & ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Consistency</span>
-    <span class="marquee-line_text">Scalable ë¡œê³  ë””ìžì¸ & Long-term Brand Growth</span>
+    <span class="marquee-line_text">Professional 로고 디자인 & 브랜드 아이덴티티 서비스</span>
+    <span class="marquee-line_text">Custom Logo Creation, Brand Marks & 비주얼 아이덴티티 Solutions</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">Specialists in 로고 디자인 & 브랜드 아이덴티티 Creation</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for 로고 디자인 Solutions</span>
+    <span class="marquee-line_text">High-Impact 로고 디자인 & 브랜드 아이덴티티 개발</span>
+    <span class="marquee-line_text">Professional 로고 디자인 & Brand Mark Creation</span>
+    <span class="marquee-line_text">Professional 로고 디자인 에이전시 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive 브랜드 아이덴티티 & Logo Variations Support</span>
+    <span class="marquee-line_text">Custom 로고 디자인 Solutions for Every Industry</span>
+    <span class="marquee-line_text">Logo Optimization & 브랜드 아이덴티티 Consistency</span>
+    <span class="marquee-line_text">Scalable 로고 디자인 & Long-term Brand Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1377,16 +1377,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo ë¡œê³  ë””ìžì¸ - Modern ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo 로고 디자인 - Modern 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="01">
-					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery ë¡œê³  ë””ìžì¸</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</div>
-					<div class="preview-name">ì‹ìŒë£Œ</div>
-					<div class="preview-name">Bakery ë¸Œëžœë”©</div>
+					<div class="preview-name preview-name__caption"><a href="#">Cakeo - Modern Bakery 로고 디자인</a></div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">브랜드 아이덴티티</div>
+					<div class="preview-name">식음료</div>
+					<div class="preview-name">Bakery 브랜딩</div>
 				</div>
 			</div>
 		</div>
@@ -1397,14 +1397,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 ë¡œê³  ë””ìžì¸ - Athletic ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 로고 디자인 - Athletic 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="02">
 					<div class="preview-name preview-name__caption"><a href="#">CycleThe6 - Athletic Brand Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">Sports ë¸Œëžœë”©</div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">Sports 브랜딩</div>
 					<div class="preview-name">Athletic Identity</div>
 					<div class="preview-name">Fitness Logo</div>
 				</div>
@@ -1417,16 +1417,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting ë¡œê³  ë””ìžì¸ - Corporate ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting 로고 디자인 - Corporate 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="03">
 					<div class="preview-name preview-name__caption"><a href="#">Dynamic Consulting - Corporate Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">ê¸°ì—… ì•„ì´ë´í‹°í‹°</div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">기업 아이덴티티</div>
 					<div class="preview-name">Business Consulting</div>
-					<div class="preview-name">Professional ì„œë¹„ìŠ¤</div>
+					<div class="preview-name">Professional 서비스</div>
 				</div>
 			</div>
 		</div>
@@ -1437,14 +1437,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco ë¡œê³  ë””ìžì¸ - Creative ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco 로고 디자인 - Creative 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="04">
 					<div class="preview-name preview-name__caption"><a href="#">Muraaco - Creative Brand Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">크리에이티브 브랜딩</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Abstract Design</div>
 				</div>
@@ -1457,16 +1457,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume ë¡œê³  ë””ìžì¸ - Fragrance ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume 로고 디자인 - Fragrance 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="05">
 					<div class="preview-name preview-name__caption"><a href="#">Muskfume - Fragrance Brand Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">ë·°í‹° ë° í™”ìž¥í’ˆ</div>
-					<div class="preview-name">ëŸ­ì…”ë¦¬ ë¸Œëžœë”©</div>
-					<div class="preview-name">í–¥ìˆ˜ ì•„ì´ë´í‹°í‹°</div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">뷰티 및 화장품</div>
+					<div class="preview-name">럭셔리 브랜딩</div>
+					<div class="preview-name">향수 아이덴티티</div>
 				</div>
 			</div>
 		</div>
@@ -1477,14 +1477,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit ë¡œê³  ë””ìžì¸ - Technology ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit 로고 디자인 - Technology 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="06">
 					<div class="preview-name preview-name__caption"><a href="#">Nexit - Technology Brand Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">í…Œí¬ ë¸Œëžœë”©</div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">테크 브랜딩</div>
 					<div class="preview-name">Digital Identity</div>
 					<div class="preview-name">Startup Logo</div>
 				</div>
@@ -1497,16 +1497,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="#" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth ë¡œê³  ë””ìžì¸ - Event ë¸Œëžœë”© Identity" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth 로고 디자인 - Event 브랜딩 Identity" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="07">
-					<div class="preview-name preview-name__caption"><a href="#">Booth - Event ë¸Œëžœë”© Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">Event ë¸Œëžœë”©</div>
+					<div class="preview-name preview-name__caption"><a href="#">Booth - Event 브랜딩 Logo</a></div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">Event 브랜딩</div>
 					<div class="preview-name">Exhibition Design</div>
-					<div class="preview-name">ì „ì‹œíšŒ Identity</div>
+					<div class="preview-name">전시회 Identity</div>
 				</div>
 			</div>
 		</div>
@@ -1516,17 +1516,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div>
 		<div class="shiftbox">
 			<div class="shiftbox-image">
-				<a href="../robophil/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil ë¡œê³  ë””ìžì¸ - Technology ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+				<a href="/ko/work/robophil/" class="shiftbox-link">
+					<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil 로고 디자인 - Technology 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="08">
-					<div class="preview-name preview-name__caption"><a href="../robophil/">Robophil - Robotics Technology Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">Technology ë¸Œëžœë”©</div>
+					<div class="preview-name preview-name__caption"><a href="/ko/work/robophil/">Robophil - Robotics Technology Logo</a></div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">Technology 브랜딩</div>
 					<div class="preview-name">Robotics Identity</div>
-					<div class="preview-name">í˜ì‹  Logo</div>
+					<div class="preview-name">혁신 Logo</div>
 				</div>
 			</div>
 		</div>
@@ -1536,16 +1536,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div>
 		<div class="shiftbox">
 			<div class="shiftbox-image">
-				<a href="../algopros/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros ë¡œê³  ë””ìžì¸ - ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜ Brand" class="cover" loading="lazy" decoding="async" />
+				<a href="/ko/work/algopros/" class="shiftbox-link">
+					<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros 로고 디자인 - 알고리즘 솔루션 Brand" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="09">
-					<div class="preview-name preview-name__caption"><a href="../algopros/">Algopros - ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜ Brand</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">í…Œí¬ Solutions</div>
-					<div class="preview-name">Algorithm ë¸Œëžœë”©</div>
+					<div class="preview-name preview-name__caption"><a href="/ko/work/algopros/">Algopros - 알고리즘 솔루션 Brand</a></div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">테크 Solutions</div>
+					<div class="preview-name">Algorithm 브랜딩</div>
 					<div class="preview-name">Software Identity</div>
 				</div>
 			</div>
@@ -1556,15 +1556,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div>
 		<div class="shiftbox">
 			<div class="shiftbox-image">
-				<a href="../feiro/" class="shiftbox-link">
-					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ë¡œê³  ë””ìžì¸ - Creative ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" class="cover" loading="lazy" decoding="async" />
+				<a href="/ko/work/feiro/" class="shiftbox-link">
+					<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro 로고 디자인 - Creative 브랜드 아이덴티티" class="cover" loading="lazy" decoding="async" />
 				</a>
 			</div>
 			<div class="shiftbox-content">
 				<div class="preview-content" data-index="10">
-					<div class="preview-name preview-name__caption"><a href="../feiro/">Feiro - Creative Brand Logo</a></div>
-					<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-					<div class="preview-name">í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</div>
+					<div class="preview-name preview-name__caption"><a href="/ko/work/feiro/">Feiro - Creative Brand Logo</a></div>
+					<div class="preview-name">로고 디자인</div>
+					<div class="preview-name">크리에이티브 브랜딩</div>
 					<div class="preview-name">Modern Identity</div>
 					<div class="preview-name">Dynamic Logo</div>
 				</div>
@@ -1588,7 +1588,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional ë¡œê³  ë””ìžì¸ services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional 로고 디자인 services that create memorable brand marks, distinctive visual identities, and impactful brand recognition systems. We manage comprehensive logo design solutions, brand identity creation, symbol development, and visual brand systems that generate exceptional brand recognition and long-term business success.</div>
 									<div class="textbox-action">
 						<a href="/ko/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1641,7 +1641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite ë¡œê³  ë””ìžì¸ Case Studies</h2>
+					<h2>Aenfinite 로고 디자인 Case Studies</h2>
 				</div>
 			</div>
 
@@ -1652,19 +1652,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo ë¡œê³  ë””ìžì¸ - Modern ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Cakeo 로고 디자인 - Modern 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="01">
 								<div class="preview-name preview-name__caption">
-									<a href="#">Cakeo - Modern Bakery ë¡œê³  ë””ìžì¸</a>
+									<a href="#">Cakeo - Modern Bakery 로고 디자인</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</div>
-								<div class="preview-name">ì‹ìŒë£Œ</div>
-								<div class="preview-name">Bakery ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">브랜드 아이덴티티</div>
+								<div class="preview-name">식음료</div>
+								<div class="preview-name">Bakery 브랜딩</div>
 							</div>
 						</div>
 					</div>
@@ -1673,17 +1673,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 ë¡œê³  ë””ìžì¸ - Athletic ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-02.avif" alt="CycleThe6 로고 디자인 - Athletic 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="02">
 								<div class="preview-name preview-name__caption">
 									<a href="#">CycleThe6 - Athletic Brand Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">Sports ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">Sports 브랜딩</div>
 								<div class="preview-name">Athletic Identity</div>
 								<div class="preview-name">Fitness Logo</div>
 							</div>
@@ -1694,19 +1694,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting ë¡œê³  ë””ìžì¸ - Corporate ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/dynamic consulting.avif" alt="Dynamic Consulting 로고 디자인 - Corporate 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="03">
 								<div class="preview-name preview-name__caption">
 									<a href="#">Dynamic Consulting - Corporate Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">ê¸°ì—… ì•„ì´ë´í‹°í‹°</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">기업 아이덴티티</div>
 								<div class="preview-name">Business Consulting</div>
-								<div class="preview-name">Professional ì„œë¹„ìŠ¤</div>
+								<div class="preview-name">Professional 서비스</div>
 							</div>
 						</div>
 					</div>
@@ -1715,17 +1715,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco ë¡œê³  ë””ìžì¸ - Creative ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muraaco-6.avif" alt="Muraaco 로고 디자인 - Creative 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="04">
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muraaco - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">크리에이티브 브랜딩</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Abstract Design</div>
 							</div>
@@ -1736,19 +1736,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume ë¡œê³  ë””ìžì¸ - Fragrance ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="Muskfume 로고 디자인 - Fragrance 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="05">
 								<div class="preview-name preview-name__caption">
 									<a href="#">Muskfume - Fragrance Brand Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">ë·°í‹° ë° í™”ìž¥í’ˆ</div>
-								<div class="preview-name">ëŸ­ì…”ë¦¬ ë¸Œëžœë”©</div>
-								<div class="preview-name">í–¥ìˆ˜ ì•„ì´ë´í‹°í‹°</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">뷰티 및 화장품</div>
+								<div class="preview-name">럭셔리 브랜딩</div>
+								<div class="preview-name">향수 아이덴티티</div>
 							</div>
 						</div>
 					</div>
@@ -1757,17 +1757,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit ë¡œê³  ë””ìžì¸ - Technology ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/nexit.avif" alt="Nexit 로고 디자인 - Technology 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="06">
 								<div class="preview-name preview-name__caption">
 									<a href="#">Nexit - Technology Brand Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">í…Œí¬ ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">테크 브랜딩</div>
 								<div class="preview-name">Digital Identity</div>
 								<div class="preview-name">Startup Logo</div>
 							</div>
@@ -1778,19 +1778,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth ë¡œê³  ë””ìžì¸ - Event ë¸Œëžœë”© Identity" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Booth 로고 디자인 - Event 브랜딩 Identity" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="#" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="#" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="07">
 								<div class="preview-name preview-name__caption">
-									<a href="#">Booth - Event ë¸Œëžœë”© Logo</a>
+									<a href="#">Booth - Event 브랜딩 Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">Event ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">Event 브랜딩</div>
 								<div class="preview-name">Exhibition Design</div>
-								<div class="preview-name">ì „ì‹œíšŒ Identity</div>
+								<div class="preview-name">전시회 Identity</div>
 							</div>
 						</div>
 					</div>
@@ -1799,19 +1799,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil ë¡œê³  ë””ìžì¸ - Technology ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="Robophil 로고 디자인 - Technology 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="../robophil/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="/ko/work/robophil/" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="08">
 								<div class="preview-name preview-name__caption">
-									<a href="../robophil/">Robophil - Robotics Technology Logo</a>
+									<a href="/ko/work/robophil/">Robophil - Robotics Technology Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">Technology ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">Technology 브랜딩</div>
 								<div class="preview-name">Robotics Identity</div>
-								<div class="preview-name">í˜ì‹  Logo</div>
+								<div class="preview-name">혁신 Logo</div>
 							</div>
 						</div>
 					</div>
@@ -1820,18 +1820,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros ë¡œê³  ë””ìžì¸ - ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜ Brand" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros 로고 디자인 - 알고리즘 솔루션 Brand" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="../algopros/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="/ko/work/algopros/" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="09">
 								<div class="preview-name preview-name__caption">
-									<a href="../algopros/">Algopros - ì•Œê³ ë¦¬ì¦˜ ì†”ë£¨ì…˜ Brand</a>
+									<a href="/ko/work/algopros/">Algopros - 알고리즘 솔루션 Brand</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">í…Œí¬ Solutions</div>
-								<div class="preview-name">Algorithm ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">테크 Solutions</div>
+								<div class="preview-name">Algorithm 브랜딩</div>
 								<div class="preview-name">Software Identity</div>
 							</div>
 						</div>
@@ -1841,17 +1841,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="preview">
 							<div class="preview-media">
-								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro ë¡œê³  ë””ìžì¸ - Creative ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro 로고 디자인 - Creative 브랜드 아이덴티티" loading="lazy" decoding="async" />
 								<div class="preview-action">
-									<a href="../feiro/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a>
+									<a href="/ko/work/feiro/" class="not-index">프로젝트 보기</a>
 								</div>
 							</div>
 							<div class="preview-content" data-index="10">
 								<div class="preview-name preview-name__caption">
-									<a href="../feiro/">Feiro - Creative Brand Logo</a>
+									<a href="/ko/work/feiro/">Feiro - Creative Brand Logo</a>
 								</div>
-								<div class="preview-name">ë¡œê³  ë””ìžì¸</div>
-								<div class="preview-name">í¬ë¦¬ì—ì´í‹°ë¸Œ ë¸Œëžœë”©</div>
+								<div class="preview-name">로고 디자인</div>
+								<div class="preview-name">크리에이티브 브랜딩</div>
 								<div class="preview-name">Modern Identity</div>
 								<div class="preview-name">Dynamic Logo</div>
 							</div>
@@ -1862,8 +1862,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 
 			<div class="section-footer js-aos appear">
-				<a href="../../work/logo-design/" class="redlink">
-					<span>ëª¨ë“  í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+				<a href="/ko/work/logo-design/" class="redlink">
+					<span>모든 프로젝트 보기</span>
 				</a>
 			</div>
 		</div>
@@ -1876,12 +1876,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ë¬¸ì˜ Aenfinite for Creative ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤</h2>
+				<h2>문의 Aenfinite for Creative 로고 디자인 서비스</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1894,10 +1894,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" placeholder="Tell us about your design project" type="text" name="text-tell-project" />
@@ -1905,42 +1905,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong>
+		<strong>관심 분야...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="ë¡œê³  ë””ìžì¸" id="logo-design" />
-					<label for="logo-design" class="list-item-label">ë¡œê³  ë””ìžì¸</label>
+					<input type="checkbox" name="services" value="로고 디자인" id="logo-design" />
+					<label for="logo-design" class="list-item-label">로고 디자인</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Design" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Design</label>
+					<input type="checkbox" name="services" value="브랜드 아이덴티티 Design" id="brand-identity" />
+					<label for="brand-identity" class="list-item-label">브랜드 아이덴티티 Design</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="UI/UX ë””ìžì¸" id="ui-ux-design" />
-					<label for="ui-ux-design" class="list-item-label">UI/UX ë””ìžì¸</label>
+					<input type="checkbox" name="services" value="UI/UX 디자인" id="ui-ux-design" />
+					<label for="ui-ux-design" class="list-item-label">UI/UX 디자인</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ë§ˆì¼€íŒ… ìžë£Œ" id="marketing-materials" />
-					<label for="marketing-materials" class="list-item-label">ë§ˆì¼€íŒ… ìžë£Œ</label>
+					<input type="checkbox" name="services" value="마케팅 자료" id="marketing-materials" />
+					<label for="marketing-materials" class="list-item-label">마케팅 자료</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Social Media ê·¸ëž˜í”½" id="social-media" />
-					<label for="social-media" class="list-item-label">Social Media ê·¸ëž˜í”½</label>
+					<input type="checkbox" name="services" value="Social Media 그래픽" id="social-media" />
+					<label for="social-media" class="list-item-label">Social Media 그래픽</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="íŒ¨í‚¤ì§€ ë””ìžì¸" id="packaging-design" />
-					<label for="packaging-design" class="list-item-label">íŒ¨í‚¤ì§€ ë””ìžì¸</label>
+					<input type="checkbox" name="services" value="패키지 디자인" id="packaging-design" />
+					<label for="packaging-design" class="list-item-label">패키지 디자인</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="ê¸°íƒ€ ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤" id="other" />
-					<label for="other" class="list-item-label">ê¸°íƒ€ ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤</label>
+					<input type="checkbox" name="services" value="기타 로고 디자인 서비스" id="other" />
+					<label for="other" class="list-item-label">기타 로고 디자인 서비스</label>
 				</span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1956,7 +1956,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1972,7 +1972,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>ë¡œê³  ë””ìžì¸ Expertise</h2>
+							<h2>로고 디자인 Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1983,9 +1983,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom ë¡œê³  ë””ìžì¸ ê°œë°œ</div>
+						<div class="pane-title">Custom 로고 디자인 개발</div>
 						<div class="pane-subtitle">
-							<p>Aenfinite specializes in creating custom ë¡œê³  ë””ìžì¸ from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
+							<p>Aenfinite specializes in creating custom 로고 디자인 from the ground up. Our expert designers create bespoke brand marks, custom logo solutions, and tailored visual identity systems that perfectly align with your business objectives. We ensure your logo designs are scalable, professional, and optimized for maximum brand impact.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -1997,9 +1997,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">ë¡œê³  ë””ìžì¸ Integration</div>
+						<div class="pane-title">로고 디자인 Integration</div>
 						<div class="pane-subtitle">
-							<p>Launch your ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° with our comprehensive ë¡œê³  ë””ìžì¸ development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
+							<p>Launch your 브랜드 아이덴티티 with our comprehensive 로고 디자인 development services. We create feature-rich logo systems with custom brand mark variations, Logo Asset Integration, Brand Asset Management, and scalable brand recognition solutions.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -2011,9 +2011,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Design Migration & ìœ ì§€ë³´ìˆ˜</div>
+						<div class="pane-title">Design Migration & 유지보수</div>
 						<div class="pane-subtitle">
-							<p>Seamlessly migrate your existing website to our graphic design platform or upgrade your current ì¸ì‡„ ë””ìžì¸. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your design projects running smoothly.</p>
+							<p>Seamlessly migrate your existing website to our graphic design platform or upgrade your current 인쇄 디자인. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your design projects running smoothly.</p>
 						</div>
 					</div>
 						
@@ -2025,7 +2025,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>ë¡œê³  ë””ìžì¸ Process</h2>
+					<h2>로고 디자인 Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -2071,7 +2071,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</span>
+							<span>비주얼 아이덴티티</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>We define the color palette, typography, logo concepts, and brand guidelines  ensuring every design element reflects your unique identity and story.</p>
@@ -2162,7 +2162,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ë¡œê³  ë””ìžì¸</span> is the foundation of your brand identity. í¬íŠ¸í´ë¦¬ì˜¤ with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">로고 디자인</span> is the foundation of your brand identity. 포트폴리오 with our expert designers to create a distinctive logo that captures your brand essence and makes a lasting impression on your audience.</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
@@ -2172,7 +2172,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤</h2>
+					<h2>Professional 로고 디자인 서비스</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2181,7 +2181,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Custom ë¡œê³  ë””ìžì¸</div>
+							<div class="service-caption js-service-caption">Custom 로고 디자인</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2209,7 +2209,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/ko/contact/" class="redlink"><span>ì‹œìž‘í•˜ê¸°</span></a>
+									<a href="/ko/contact/" class="redlink"><span>시작하기</span></a>
 								</div>
 							</div>
 						</div>
@@ -2244,7 +2244,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/ko/contact/" class="redlink"><span>ë” ì•Œì•„ë³´ê¸°</span></a>
+									<a href="/ko/contact/" class="redlink"><span>더 알아보기</span></a>
 								</div>
 							</div>
 						</div>
@@ -2294,7 +2294,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Creative Support</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Asset Management</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Training</a></div>
-										<div class="chip"><a href="/ko/contact/" class="chip-label">Design ìœ ì§€ë³´ìˆ˜</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">Design 유지보수</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -2340,8 +2340,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>í”„ë¡œì íŠ¸ê°€ ìžˆìœ¼ì‹ ê°€ìš”? í•¨ê»˜ ë©‹ì§„ ê²ƒì„ ë§Œë“¤ì–´ ë´…ì‹œë‹¤.</span>
-								<a href="../../contact/" class="redlink">
+								<span>프로젝트가 있으신가요? 함께 멋진 것을 만들어 봅시다.</span>
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2351,42 +2351,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">ê·¸ëž˜í”½ ë””ìžì¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/e-commerce-websites/">그래픽 디자인</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2441,15 +2441,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2457,14 +2457,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2702,11 +2702,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2768,11 +2768,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2836,7 +2836,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2866,7 +2866,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Professional ë¡œê³  ë””ìžì¸ ì—ì´ì „ì‹œ",
+      "alternateName": "Aenfinite® - Professional 로고 디자인 에이전시",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ko-KR"
     },
@@ -2876,7 +2876,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg",
       "width": 1200,
       "height": 630,
-      "caption": "Aenfinite® ë¡œê³  ë””ìžì¸ Showcase",
+      "caption": "Aenfinite® 로고 디자인 Showcase",
       "inLanguage":"ko-KR"
     },
     {
@@ -2884,15 +2884,15 @@ export default function Page() {
       "@id": "https://aenfinite.com/services/logo-design/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com/", "name": "Home" } },
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "ì„œë¹„ìŠ¤" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "ë¡œê³  ë””ìžì¸" } }
+        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "서비스" } },
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/logo-design/", "name": "로고 디자인" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/logo-design/#webpage",
       "url": "https://aenfinite.com/services/logo-design/",
-      "name": "Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤ | Custom ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Creation | Aenfinite®",
+      "name": "Professional 로고 디자인 서비스 | Custom 브랜드 아이덴티티 & Logo Creation | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/logo-design-share.jpg" },
       "inLanguage":"ko-KR",
@@ -2900,8 +2900,8 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤ | Custom ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Logo Creation | Aenfinite®",
-      "keywords": "ë¡œê³  ë””ìžì¸, ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°, Logo Creation, Visual ë¸Œëžœë”©, Custom Logos, Creative ì—ì´ì „ì‹œ",
+      "headline": "Professional 로고 디자인 서비스 | Custom 브랜드 아이덴티티 & Logo Creation | Aenfinite®",
+      "keywords": "로고 디자인, 브랜드 아이덴티티, Logo Creation, Visual 브랜딩, Custom Logos, Creative 에이전시",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2941,11 +2941,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2984,13 +2984,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional ë¡œê³  ë””ìžì¸ ì„œë¹„ìŠ¤",
+      "name": "Professional 로고 디자인 서비스",
       "item": "https://aenfinite.com/services/logo-design/"
     }
   ]

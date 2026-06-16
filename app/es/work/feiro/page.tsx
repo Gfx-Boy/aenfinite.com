@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Feiro - Modern Business Solutions & Identidad de Marca | Aenfinite",
+  title: "Feiro - Modern Business Solutions & Identidad de Marca",
   description: "Comprehensive brand identity and business solutions for Feiro, featuring innovative design, strategic branding, and professional business development services developed and designed by Aenfinite.",
   keywords: "Feiro brand identity, business solutions, branding design, strategic branding, Aenfinite project",
   alternates: { canonical: "https://aenfinite.com/es/work/feiro/", languages: {"x-default":"https://aenfinite.com/work/feiro/","en":"https://aenfinite.com/work/feiro/","es":"https://aenfinite.com/es/work/feiro/","fr":"https://aenfinite.com/fr/work/feiro/","de":"https://aenfinite.com/de/work/feiro/","it":"https://aenfinite.com/it/work/feiro/","ar":"https://aenfinite.com/ar/work/feiro/","pt":"https://aenfinite.com/pt/work/feiro/","zh":"https://aenfinite.com/zh/work/feiro/","hi":"https://aenfinite.com/hi/work/feiro/","nl":"https://aenfinite.com/nl/work/feiro/","ja":"https://aenfinite.com/ja/work/feiro/","ko":"https://aenfinite.com/ko/work/feiro/"} },
@@ -566,7 +566,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/es/featured-work/">Portafolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/es/agency">Agencia</a>
+								<a href="/es/agency/">Agencia</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/es/services/">Servicios</a>
@@ -577,8 +577,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                             
 											<li><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li><a href="/es/services/e-commerce-websites/">Sitios Web de E-Commerce</a></li>
-											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
-											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
+											<li><a href="/es/services/custom-web-development/">Desarrollo Web Personalizado</a></li>
+											<li><a href="/es/services/software-and-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
 											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
 											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
@@ -600,7 +600,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
                                             <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
-                                            <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
+                                            <li><a href="/es/services/pay-per-click/">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                             
                                         </ul>
@@ -608,8 +608,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Soluciones de IA y Tecnología </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
+                                            <li><a href="/es/services/workflow-and-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -913,11 +913,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="service-tags tagswork" style="display:none;">
 									<div class="chips">
-																					<div class="chip"><a class="chip-label" href="../branding/">Identidad de Marca</a></div>
-																					<div class="chip"><a class="chip-label" href="../business-consulting/">Business Consulting</a></div>
-																					<div class="chip"><a class="chip-label" href="../ui-ux-design/">Diseño UI/UX</a></div>
-																					<div class="chip"><a class="chip-label" href="../web-development/">Desarrollo Web</a></div>
-																					<div class="chip"><a class="chip-label" href="../digital-strategy/">Digital Strategy</a></div>
+																					<div class="chip"><a class="chip-label" href="/es/work/branding/">Identidad de Marca</a></div>
+																					<div class="chip"><a class="chip-label" href="/es/services/digital-marketing/">Business Consulting</a></div>
+																					<div class="chip"><a class="chip-label" href="/es/services/ui-ux-design/">Diseño UI/UX</a></div>
+																					<div class="chip"><a class="chip-label" href="/es/services/custom-web-development/">Desarrollo Web</a></div>
+																					<div class="chip"><a class="chip-label" href="/es/services/digital-marketing/">Digital Strategy</a></div>
 																			</div>
 								</div>
 								<div class="tagslist">
@@ -1367,11 +1367,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros Professional Diseño de Logotipos & Identidad de Marca Studio" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/algopros/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/algopros/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/algopros/">AlgoPros</a>
+											<a href="/es/work/algopros/">AlgoPros</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Diseño de Logotipos</div>
@@ -1385,11 +1385,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display Branding" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ASC Media Wall</a>
+											<a href="/es/work/branding/">ASC Media Wall</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Ferias Comerciales Design</div>
@@ -1403,11 +1403,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Diseño de Stands para Ferias Mockup - Professional Exhibition Display" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Diseño de Stands para Ferias</a>
+											<a href="/es/work/branding/">Diseño de Stands para Ferias</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Booth Design</div>
@@ -1421,11 +1421,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="Professional Brand Mockup Design - Identidad Visual Presentation" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Brand Mockup Design</a>
+											<a href="/es/work/branding/">Brand Mockup Design</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Identidad Visual</div>
@@ -1439,11 +1439,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Identidad de Marca System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Marketing Design System</a>
+											<a href="/es/work/branding/">Marketing Design System</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Marketing Design</div>
@@ -1457,11 +1457,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Creative Diseño de Marca - Modern Identidad Visual" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver proyecto</a></div>										
+										<div class="preview-action"><a href="/es/work/branding/" class="not-index">Ver proyecto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Creative Diseño de Marca</a>
+											<a href="/es/work/branding/">Creative Diseño de Marca</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Creative Design</div>
@@ -1474,7 +1474,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/logo-design/" class="redlink">
+					<a href="/es/work/logo-design/" class="redlink">
 						<span>Ver todos los proyectos</span>
 					</a>
 				</div>
@@ -1492,7 +1492,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/es/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1504,22 +1504,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portafolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agencia</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Servicios</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/es/agency/">Agencia</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contacto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../../services/web-design/">Diseño Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../../services/wordpress-websites/">Sitios Web WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../../services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../../services/packaging-design/">Diseño de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../../services/graphic-design/">Diseño Gráfico</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">Diseño Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/es/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">Diseño Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1528,12 +1528,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Asóciate con nosotros</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contacto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/es/contact/">Contacto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1590,14 +1590,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portafolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agencia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../../services/">Servicios</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/es/agency/">Agencia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contacto</a>
+							<a class="menu-contact" href="/es/contact/">Contacto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
@@ -1606,7 +1606,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
+				<a href="/es/contact/" class="to-contact">¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -1975,7 +1975,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
+						<a href="/es/privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>
@@ -2056,7 +2056,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

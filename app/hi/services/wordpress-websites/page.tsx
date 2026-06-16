@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Custom Themes & à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite®",
+  title: "Expert WordPress Website डेवलपमेंट | Custom Themes & प्लगइन डेवलपमेंट",
   description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
   keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
-  openGraph: {"title":"Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Custom Themes & à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/hi/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Custom Themes & à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert WordPress Website डेवलपमेंट | Custom Themes & प्लगइन डेवलपमेंट | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/hi/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert WordPress Website डेवलपमेंट | Custom Themes & प्लगइन डेवलपमेंट | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1090,7 +1090,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">49.36.188.249</div>
-			<div class="url">WordPress à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+			<div class="url">WordPress सेवाएं</div>
 			<div class="urlback">https://Aenfinite.com/services/wordpress-websites/</div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">9-38 am</div>
@@ -1107,44 +1107,44 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a>
+								<a href="/hi/agency/">एजेंसी</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a>
+                                <a href="/hi/services/">सेवाएं</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">डेवलपमेंट समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/custom-web-development">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/software-&-platform-development/">à¤¸à¥‰à¤«à¥à¤Ÿà¤µà¥‡à¤¯à¤° à¤”à¤° à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤µà¥‡à¤¬ à¤¸à¤®à¤¾à¤§à¤¾à¤¨</a></li>									</ul>
+											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+											<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
+											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
+											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¸à¥‡à¤µà¤¾à¤à¤‚ â€º</a>
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/website-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤”à¤° à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li> <li><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/motion-graphics/">à¤®à¥‹à¤¶à¤¨ à¤—à¥à¤°à¤¾à¤«à¤¿à¤•à¥à¤¸</a></li>
-											<li><a href="/hi/services/trade-show-booth-design/">à¤Ÿà¥à¤°à¥‡à¤¡ à¤¶à¥‹ à¤¬à¥‚à¤¥ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/conference-branding/">à¤•à¥‰à¤¨à¥à¤«à¥à¤°à¥‡à¤‚à¤¸ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
+											<li><a href="/hi/services/graphic-design/">मोशन ग्राफिक्स</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">मार्केटिंग और डिजिटल समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/search-engine-optimization/">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)</a></li>
-											<li><a href="/hi/services/pay-per-click">à¤ªà¥‡-à¤ªà¤°-à¤•à¥à¤²à¤¿à¤• (PPC) à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
-											<li><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></
 
 										</ul>
 									</li>
@@ -1154,19 +1154,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ai-chatbots-&-virtual-assistants/">AI à¤šà¥ˆà¤Ÿà¤¬à¥‰à¤Ÿ à¤”à¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤…à¤¸à¤¿à¤¸à¥à¤Ÿà¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/workflow-&-business-automation/">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</a></li>
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from à¤¸à¥‡à¤µà¤¾à¤à¤‚ menu - adaptive styling */
+/* Main dropdown from सेवाएं menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1280,10 +1280,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/hi/contact/" class="topbar-contact_button">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
+						<a href="/hi/contact/" class="topbar-contact_button">संपर्क</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1292,7 +1292,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¥€, à¤¤à¥‹ à¤¹à¤®à¥‡à¤‚ à¤²à¤¿à¤–à¥‡à¤‚ à¤”à¤° à¤¹à¤® à¤•à¥‹à¤ˆ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤¨à¤¿à¤•à¤¾à¤²à¥‡à¤‚à¤—à¥‡ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							अगर आपको अपनी ज़रूरत की सेवा नहीं मिलती, तो हमें लिखें और हम कोई समाधान निकालेंगे <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1321,7 +1321,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
+						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">डेवलपमेंट</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
 													
 											</h1>
 									</div>
@@ -1359,18 +1359,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚</span>
-    <span class="marquee-line_text">Custom Themes, à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Optimization</span>
-    <span class="marquee-line_text">à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾, à¤•à¤¨à¤¾à¤¡à¤¾ à¤”à¤° à¤‰à¤¸à¤¸à¥‡ à¤†à¤—à¥‡ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾</span>
-    <span class="marquee-line_text">Specialists in WordPress Performance & à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ</span>
+    <span class="marquee-line_text">Expert WordPress Website डेवलपमेंट सेवाएं</span>
+    <span class="marquee-line_text">Custom Themes, प्लगइन डेवलपमेंट & Optimization</span>
+    <span class="marquee-line_text">अमेरिका, कनाडा और उससे आगे ग्राहकों की सेवा</span>
+    <span class="marquee-line_text">Specialists in WordPress Performance & उपयोगकर्ता अनुभव</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for WordPress Solutions</span>
-    <span class="marquee-line_text">Performance-Driven WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Security</span>
+    <span class="marquee-line_text">Performance-Driven WordPress डेवलपमेंट & Security</span>
     <span class="marquee-line_text">E-commerce WordPress & Business Website Solutions</span>
-    <span class="marquee-line_text">Professional WordPress à¤à¤œà¥‡à¤‚à¤¸à¥€ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive WordPress à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</span>
-    <span class="marquee-line_text">à¤•à¤¸à¥à¤Ÿà¤® WordPress Solutions for Every Industry</span>
+    <span class="marquee-line_text">Professional WordPress एजेंसी with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive WordPress रखरखाव & Support</span>
+    <span class="marquee-line_text">कस्टम WordPress Solutions for Every Industry</span>
     <span class="marquee-line_text">WordPress Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable WordPress डेवलपमेंट & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1380,7 +1380,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/hi/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€ Website" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - डिजिटल मार्केटिंग एजेंसी Website" class="cover" loading="lazy" decoding="async" />
 					<a href="/hi/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1388,10 +1388,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="01">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/blue-vine-marketing/">Blue Vine Marketing</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">कस्टम डेवलपमेंट</div>
+						<div class="preview-name">प्लेटफ़ॉर्म डेवलपमेंट</div>
 					</div>
 				</div>
 			</div>
@@ -1411,10 +1411,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="02">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/robophil/">RoboPhil - AI Trading Platform</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">प्लेटफ़ॉर्म डेवलपमेंट</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">कस्टम डेवलपमेंट</div>
 					</div>
 				</div>
 			</div>
@@ -1434,10 +1434,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="03">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/husnohaya/">HusnOhaya Women</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">ई-कॉमर्स डेवलपमेंट</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">कस्टम डेवलपमेंट</div>
 					</div>
 				</div>
 			</div>
@@ -1449,7 +1449,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/hi/work/khatech/">
-					<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— Solutions Platform" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° डिजिटल मार्केटिंग Solutions Platform" class="cover" loading="lazy" decoding="async" />
 					<a href="/hi/work/khatech/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1457,10 +1457,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="04">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/khatech/">KhaTtech</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">डिजिटल मार्केटिंग</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">कस्टम डेवलपमेंट</div>
 					</div>
 				</div>
 			</div>
@@ -1480,10 +1480,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="05">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/afropopup/">AfroPop</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & Identity</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">ई-कॉमर्स डेवलपमेंट</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">ब्रांडिंग & Identity</div>
 					</div>
 				</div>
 			</div>
@@ -1495,7 +1495,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/hi/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€ & Growth Solutions" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - डिजिटल मार्केटिंग एजेंसी & Growth Solutions" class="cover" loading="lazy" decoding="async" />
 					<a href="/hi/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1503,10 +1503,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="06">
 						<div class="preview-name preview-name__caption"><a href="/hi/work/blue-vine-marketing/">Blue Vine Marketing – Growth Solutions</a></div>
-						<div class="preview-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
-						<div class="preview-name">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</div>
-						<div class="preview-name">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
-						<div class="preview-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="preview-name">वेब डिज़ाइन & डेवलपमेंट</div>
+						<div class="preview-name">डिजिटल मार्केटिंग</div>
+						<div class="preview-name">UI/UX डिज़ाइन</div>
+						<div class="preview-name">कस्टम डेवलपमेंट</div>
 					</div>
 				</div>
 			</div>
@@ -1600,18 +1600,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="preview">
                                 <a href="/hi/work/blue-vine-marketing/" class="a-preview"></a>
                                 <div class="preview-media">
-                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€ Website" class="cover" loading="lazy" decoding="async" />
+                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - डिजिटल मार्केटिंग एजेंसी Website" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚									</div>
+                                        प्रोजेक्ट देखें									</div>
                                 </div>
                                 <div class="preview-content" data-index="01">
                                     <div class="preview-name preview-name__caption">
-                                        <a href="/hi/work/blue-vine-marketing/">Blue Vine Marketing - à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤à¤œà¥‡à¤‚à¤¸à¥€ Website</a>
+                                        <a href="/hi/work/blue-vine-marketing/">Blue Vine Marketing - डिजिटल मार्केटिंग एजेंसी Website</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Theme Design</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></div>
-                                    <div class="preview-name"><a href="../software-&-platform-development/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— Features</a></div>
+                                    <div class="preview-name"><a href="/hi/services/ui-ux-design/">Custom Theme Design</a></div>
+                                    <div class="preview-name"><a href="/hi/services/custom-web-development/">कस्टम डेवलपमेंट</a></div>
+                                    <div class="preview-name"><a href="/hi/services/software-and-platform-development/">डिजिटल मार्केटिंग Features</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1622,16 +1622,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="preview-media">
                                     <img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil - AI Trading Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚									</div>
+                                        प्रोजेक्ट देखें									</div>
                                 </div>
                                 <div class="preview-content" data-index="02">
                                     <div class="preview-name preview-name__caption">
                                         <a href="/hi/work/robophil/">RoboPhil - AI Trading Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../software-&-platform-development/">Advanced Features</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom UI/UX</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">Platform Integration</a></div>
+                                    <div class="preview-name"><a href="/hi/services/software-and-platform-development/">Advanced Features</a></div>
+                                    <div class="preview-name"><a href="/hi/services/ui-ux-design/">Custom UI/UX</a></div>
+                                    <div class="preview-name"><a href="/hi/services/custom-web-development/">Platform Integration</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1642,16 +1642,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="preview-media">
                                     <img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya Women - Premium Hijab E-commerce Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚									</div>
+                                        प्रोजेक्ट देखें									</div>
                                 </div>
                                 <div class="preview-content" data-index="03">
                                     <div class="preview-name preview-name__caption">
                                         <a href="/hi/work/husnohaya/">HusnOhaya Women - Premium Hijab E-commerce Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../e-commerce-websites/">WooCommerce Store</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Theme</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">E-commerce Features</a></div>
+                                    <div class="preview-name"><a href="/hi/services/e-commerce-websites/">WooCommerce Store</a></div>
+                                    <div class="preview-name"><a href="/hi/services/ui-ux-design/">Custom Theme</a></div>
+                                    <div class="preview-name"><a href="/hi/services/custom-web-development/">E-commerce Features</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1660,25 +1660,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="preview">
                                 <a href="/hi/work/khatech/" class="a-preview"></a>
                                 <div class="preview-media">
-                                    <img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— Solutions Platform" class="cover" loading="lazy" decoding="async" />
+                                    <img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° डिजिटल मार्केटिंग Solutions Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚									</div>
+                                        प्रोजेक्ट देखें									</div>
                                 </div>
                                 <div class="preview-content" data-index="04">
                                     <div class="preview-name preview-name__caption">
-                                        <a href="/hi/work/khatech/">KhaTtech - 360Â° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— Solutions Platform</a>
+                                        <a href="/hi/work/khatech/">KhaTtech - 360° डिजिटल मार्केटिंग Solutions Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../digital-marketing/">Marketing Features</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Design</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">Advanced Integration</a></div>
+                                    <div class="preview-name"><a href="/hi/services/digital-marketing/">Marketing Features</a></div>
+                                    <div class="preview-name"><a href="/hi/services/ui-ux-design/">Custom Design</a></div>
+                                    <div class="preview-name"><a href="/hi/services/custom-web-development/">Advanced Integration</a></div>
                                 </div>
                             </div>
                         </div>
                 </div>
             </div>
             <div class="section-footer js-aos appear">
-                <a href="../../work/web-design-&-development/" class="redlink">
+                <a href="/hi/work/web-design-and-development/" class="redlink">
                     <span>View all WordPress Projects</span>
                 </a>
             </div>
@@ -1691,12 +1691,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>à¤¸à¤‚à¤ªà¤°à¥à¤• Aenfinite for Expert WordPress à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+				<h2>संपर्क Aenfinite for Expert WordPress सेवाएं</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1708,14 +1708,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your SEO project" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="आपका नाम*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="आपका ई-मेल*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your SEO project" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>à¤®à¥à¤à¥‡ à¤‡à¤¸à¤®à¥‡à¤‚ à¤°à¥à¤šà¤¿ à¤¹à¥ˆ...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="à¤•à¤¸à¥à¤Ÿà¤® WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">à¤•à¤¸à¥à¤Ÿà¤® WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="plugin-development" /><label for="plugin-development" class="list-item-label">à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress à¤°à¤–à¤°à¤–à¤¾à¤µ" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress à¤°à¤–à¤°à¤–à¤¾à¤µ</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="à¤…à¤¨à¥à¤¯ WordPress à¤¸à¥‡à¤µà¤¾à¤à¤‚" id="other" /><label for="other" class="list-item-label">à¤…à¤¨à¥à¤¯ WordPress à¤¸à¥‡à¤µà¤¾à¤à¤‚</label></span></span></span>
+		<strong>मुझे इसमें रुचि है...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="कस्टम WordPress डेवलपमेंट" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">कस्टम WordPress डेवलपमेंट</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="प्लगइन डेवलपमेंट" id="plugin-development" /><label for="plugin-development" class="list-item-label">प्लगइन डेवलपमेंट</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress रखरखाव" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress रखरखाव</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="अन्य WordPress सेवाएं" id="other" /><label for="other" class="list-item-label">अन्य WordPress सेवाएं</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="à¤…à¤ªà¤¨à¤¾ à¤…à¤¨à¥à¤®à¤¾à¤¨à¤¿à¤¤ à¤¬à¤œà¤Ÿ à¤¬à¤¤à¤¾à¤à¤‚" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="अपना अनुमानित बजट बताएं" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1723,23 +1723,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					$100 à¤¸à¥‡ à¤¶à¥à¤°à¥‚
+					$100 से शुरू
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500 à¤¸à¥‡ $5,000 à¤¤à¤•
+					$500 से $5,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000 à¤¸à¥‡ $20,000 à¤¤à¤•
+					$5,000 से $20,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000 à¤¸à¥‡ $50,000 à¤¤à¤•
+					$20,000 से $50,000 तक
 					
 				</div>
 				<div class="select-option js-select-option">
-					$100,000 à¤¸à¥‡ à¤…à¤§à¤¿à¤•
+					$100,000 से अधिक
 					
 				</div>
 			</div>		</div>
@@ -1749,7 +1749,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="à¤­à¥‡à¤œà¥‡à¤‚" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="भेजें" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1765,7 +1765,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Expertise</h2>
+							<h2>WordPress डेवलपमेंट Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1776,14 +1776,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">à¤•à¤¸à¥à¤Ÿà¤® WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">कस्टम WordPress डेवलपमेंट</div>
 						<div class="pane-subtitle">
 							<p>Aenfinite specializes in building custom WordPress websites from the ground up. Our expert developers create bespoke WordPress themes, custom plugins, and tailored functionality that perfectly aligns with your business objectives. We ensure your WordPress site is scalable, secure, and optimized for performance.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress à¤¥à¥€à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">WordPress थीम डेवलपमेंट</div>
 						<div class="pane-subtitle">
 							<p>Transform your vision into reality with our custom WordPress theme development services. Our designers and developers collaborate to create pixel-perfect, responsive WordPress themes that capture your brand essence while providing exceptional user experience across all devices and browsers.</p>
 						</div>
@@ -1797,28 +1797,28 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">WordPress प्लगइन डेवलपमेंट</div>
 						<div class="pane-subtitle">
 							<p>Extend your WordPress website's functionality with custom plugin development. Our developers create tailored WordPress plugins that integrate seamlessly with your site, adding specific features and capabilities that enhance user engagement and streamline business processes.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress Migration & à¤°à¤–à¤°à¤–à¤¾à¤µ</div>
+						<div class="pane-title">WordPress Migration & रखरखाव</div>
 						<div class="pane-subtitle">
 							<p>Seamlessly migrate your existing website to WordPress or upgrade your current WordPress installation. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your WordPress site running smoothly.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Headless WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">Headless WordPress डेवलपमेंट</div>
 						<div class="pane-subtitle">
 							<p>Experience the future of WordPress with our headless CMS solutions. We decouple your WordPress backend from the frontend, enabling faster load times, enhanced security, and the flexibility to deliver content across multiple platforms and devices with modern frameworks like React or Vue.js.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</div>
+						<div class="pane-title">WordPress SEO ऑप्टिमाइज़ेशन</div>
 						<div class="pane-subtitle">
 							<p>Maximize your WordPress website's search engine visibility with our comprehensive SEO optimization services. We implement WordPress-specific SEO best practices, optimize site structure, improve page speed, and ensure your content is properly structured for search engines to drive organic traffic growth.</p>
 						</div>
@@ -1845,7 +1845,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Process</h2>
+						<h2>WordPress डेवलपमेंट Process</h2>
 					</div>
 				</div>
 				<div class="nlist">
@@ -1906,7 +1906,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="nlist-content js-switch-copy"></div>
 						</div>
 											<div class="nlist-item appear js-aos js-switch">
-							<div class="nlist-caption">WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+							<div class="nlist-caption">WordPress डेवलपमेंट</div>
 							<div class="nlist-tabs js-switch-tabs">
 																	<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
 										<span>WordPress Coding</span>
@@ -1940,7 +1940,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="nlist-caption">Support</div>
 							<div class="nlist-tabs js-switch-tabs">
 																	<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-										<span>à¤°à¤–à¤°à¤–à¤¾à¤µ and Updates</span>
+										<span>रखरखाव and Updates</span>
 									</div>
 									<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 										<p><span style="font-weight: 400;">The relationship between a web design company and its clients should not end with the launch of a website. We ensure that your site continues working for you by maintaining secure hosting and providing daily data backups and security scans. We are also available for any updates, improvements, or expansions of your website.</span></p>
@@ -1969,7 +1969,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</span> are the perfect blend of design flexibility and powerful functionality. à¤•à¤¾à¤°à¥à¤¯ with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">WordPress वेबसाइट</span> are the perfect blend of design flexibility and powerful functionality. कार्य with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1980,19 +1980,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite WordPress Sites à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+						<h2>Aenfinite WordPress Sites सेवाएं</h2>
 					</div>
 				</div>
 				<div class="service-grid">
 					<div>
 						<div class="service-list js-service-container fadein js-aos">
 															<div class="service active js-service">
-									<div class="service-caption js-service-caption">à¤•à¤¸à¥à¤Ÿà¤® WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+									<div class="service-caption js-service-caption">कस्टम WordPress डेवलपमेंट</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/hi/contact/" class="chip-label">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a>
+														<a href="/hi/contact/" class="chip-label">डेवलपमेंट</a>
 													</div>
 																									<div class="chip">
 														<a href="/hi/contact/" class="chip-label">Custom Themes</a>
@@ -2007,13 +2007,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 														<a href="/hi/contact/" class="chip-label">Performance</a>
 													</div>
 																									<div class="chip">
-														<a href="/hi/contact/" class="chip-label">à¤°à¤¿à¤¸à¥à¤ªà¥‰à¤¨à¥à¤¸à¤¿à¤µ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a>
+														<a href="/hi/contact/" class="chip-label">रिस्पॉन्सिव डिज़ाइन</a>
 													</div>
 																									<div class="chip">
 														<a href="/hi/contact/" class="chip-label">Database Design</a>
 													</div>
 																									<div class="chip">
-														<a href="/hi/contact/" class="chip-label">à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ</a>
+														<a href="/hi/contact/" class="chip-label">उपयोगकर्ता अनुभव</a>
 													</div>
 																							</div>
 										</div>
@@ -2095,12 +2095,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+									<div class="service-caption js-service-caption">प्लगइन डेवलपमेंट</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/hi/contact/" class="chip-label">à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a>
+														<a href="/hi/contact/" class="chip-label">प्लगइन डेवलपमेंट</a>
 													</div>
 																									<div class="chip">
 														<a href="/hi/contact/" class="chip-label">Speed Optimization</a>
@@ -2150,12 +2150,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">WordPress à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</div>
+									<div class="service-caption js-service-caption">WordPress रखरखाव & Support</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/hi/contact/" class="chip-label">à¤°à¤–à¤°à¤–à¤¾à¤µ</a>
+														<a href="/hi/contact/" class="chip-label">रखरखाव</a>
 													</div>
 																									<div class="chip">
 														<a href="/hi/contact/" class="chip-label">Support</a>
@@ -2223,7 +2223,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2233,42 +2233,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤•à¤‚à¤ªà¤¨à¥€</div>
+								<div class="footer-col_caption">कंपनी</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+								<div class="footer-col_caption">सेवाएं</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ब्रांडिंग</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">à¤•à¤¨à¥‡à¤•à¥à¤Ÿ</div>
+								<div class="footer-col_caption">कनेक्ट</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">à¤µà¥à¤¹à¤¾à¤‡à¤Ÿ à¤²à¥‡à¤¬à¤² à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">à¤°à¥‡à¤«à¤°à¤² à¤ªà¥à¤°à¥‹à¤—à¥à¤°à¤¾à¤®</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/white-label-services/">व्हाइट लेबल सेवाएं</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/referral-program/">रेफरल प्रोग्राम</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/ghl-services/">GHL सेवाएं</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/hi/contact/">संपर्क</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">à¤ªà¤¤à¤¾</div>
+								<div class="footer-col_caption">पता</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2314,7 +2314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../../">
+									<a href="/hi/">
 										<object data="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" type="image/svg+xml" class="logo-dark nav-logo">
 											<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="lazy" decoding="async">
 										</object>
@@ -2324,15 +2324,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">à¤¹à¤®à¥‡à¤‚ à¤ˆà¤®à¥‡à¤² à¤•à¤°à¥‡à¤‚</a>
+							<a class="menu-contact" href="/hi/contact/">संपर्क</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">हमें ईमेल करें</a>
 						</div>
 					</div>
 				</div>
@@ -2340,14 +2340,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">à¤¨à¤¯à¤¾ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</a>
+				<a href="/hi/contact/" class="to-contact">नया प्रोजेक्ट?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">मीटिंग शेड्यूल करें</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>à¤…à¤ªà¤¨à¥€ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</h3>
+			<h3>अपनी बिज़नेस मीटिंग शेड्यूल करें</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2585,11 +2585,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤•à¥€à¤œà¤¼ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤ à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¤•à¥‡ à¤¯à¤¾ à¤¬à¥à¤°à¤¾à¤‰à¤œà¤¼ à¤•à¤°à¤¨à¤¾ à¤œà¤¾à¤°à¥€ à¤°à¤–à¤•à¤°, à¤†à¤ª à¤¹à¤®à¤¾à¤°à¥€ à¤¸à¤¹à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">à¤—à¥‹à¤ªà¤¨à¥€à¤¯à¤¤à¤¾ à¤¨à¥€à¤¤à¤¿</a>.
+						हम आपके उपयोगकर्ता अनुभव को बेहतर बनाने के लिए कुकीज़ का उपयोग करते हैं। स्वीकार पर क्लिक करके या ब्राउज़ करना जारी रखकर, आप हमारी सहमति देते हैं
+						<a href="/hi/privacy-policy/" class="cookie-banner__link" target="_blank">गोपनीयता नीति</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤•à¤°à¥‡à¤‚</button>
+				<button class="cookie-banner__button">स्वीकार करें</button>
 			</div>
 		</div>
 
@@ -2650,11 +2650,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2707,7 +2707,7 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wp-polyfill removed -->
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2739,7 +2739,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "alternateName": "Aenfinite® - WordPress डेवलपमेंट एजेंसी",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2749,7 +2749,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® - WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "caption": "Aenfinite® - WordPress डेवलपमेंट एजेंसी",
       "inLanguage":"hi-IN"
     },
     {
@@ -2764,12 +2764,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "सेवाएं" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/wordpress-websites/", "name": "WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ" }
+          "item": { "@id": "https://aenfinite.com/services/wordpress-websites/", "name": "WordPress वेबसाइट" }
         }
       ]
     },
@@ -2777,7 +2777,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/wordpress-websites/#webpage",
       "url": "https://aenfinite.com/services/wordpress-websites/",
-      "name": "Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Custom Themes & à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite®",
+      "name": "Expert WordPress Website डेवलपमेंट | Custom Themes & प्लगइन डेवलपमेंट | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2801,8 +2801,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/wordpress-websites/#article",
-      "headline": "Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Custom Themes & à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ | Aenfinite®",
-      "keywords": "WordPress à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, à¤•à¤¸à¥à¤Ÿà¤® WordPress Themes, à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, WooCommerce à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, WordPress à¤°à¤–à¤°à¤–à¤¾à¤µ, WordPress Security, Website Optimization",
+      "headline": "Expert WordPress Website डेवलपमेंट | Custom Themes & प्लगइन डेवलपमेंट | Aenfinite®",
+      "keywords": "WordPress डेवलपमेंट, कस्टम WordPress Themes, प्लगइन डेवलपमेंट, WooCommerce डेवलपमेंट, WordPress रखरखाव, WordPress Security, Website Optimization",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/wordpress-websites/#author" },
@@ -2842,11 +2842,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2885,13 +2885,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "सेवाएं",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert WordPress Website à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ",
+      "name": "Expert WordPress Website डेवलपमेंट",
       "item": "https://aenfinite.com/services/wordpress-websites/"
     }
   ]

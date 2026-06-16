@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "White Label Agenzia Partnerships | Design & Sviluppo Outsourcing | Aenfinite",
+  title: "White Label Agenzia Partnerships | Design & Sviluppo Outsourcing",
   description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services — delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
   keywords: "white label services, white label web design, white label development, agency outsourcing, white label digital marketing, Aenfinite white label",
   alternates: { canonical: "https://aenfinite.com/it/agency/partner-with-us/white-label-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/white-label-services/","en":"https://aenfinite.com/agency/partner-with-us/white-label-services/","es":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/white-label-services/","de":"https://aenfinite.com/de/agency/partner-with-us/white-label-services/","it":"https://aenfinite.com/it/agency/partner-with-us/white-label-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/white-label-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/white-label-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/white-label-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/white-label-services/"} },
@@ -741,7 +741,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by aenfinite.comwith ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by aenfinite.comwith ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -881,23 +881,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/it/services/">Servizi</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di Sviluppo â€º</a>
+                                        <a href="#">Soluzioni di Sviluppo ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
 <li><a href="/it/services/e-commerce-websites/">Siti Web E-Commerce</a></li>
-											<li><a href="/it/services/custom-web-development">Sviluppo Web Personalizzato</a></li>
-											<li><a href="/it/services/software-&-platform-development/">Sviluppo Software e Piattaforme</a></li>
+											<li><a href="/it/services/custom-web-development/">Sviluppo Web Personalizzato</a></li>
+											<li><a href="/it/services/software-and-platform-development/">Sviluppo Software e Piattaforme</a></li>
 											<li><a href="/it/services/app-development/">Sviluppo di Applicazioni</a></li>
 											<li><a href="/it/services/web-design/">Design e Sviluppo di Siti Web</a></li>
 											<li><a href="/it/services/web-design-and-branding-for-real-estate/">Soluzioni Web per il Settore Immobiliare</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Servizi di Design e CreativitÃ  â€º</a>
+                                        <a href="#">Servizi di Design e Creatività ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/it/services/ui-ux-design/">Design UI/UX</a></li>
 
-                                            <li><a href="/it/services/branding/">IdentitÃ  di Marca e Strategia</a></li>
+                                            <li><a href="/it/services/branding/">Identità di Marca e Strategia</a></li>
                                             <li><a href="/it/services/graphic-design/">Graphic Design</a></li> <li><a href="/it/services/logo-design/">Design del Logo</a></li>
                                             
                                             <li><a href="/it/services/trade-show-booth-design/">Design di Stand per Fiere</a></li>
@@ -905,20 +905,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di Marketing e Digitali â€º</a>
+                                        <a href="#">Soluzioni di Marketing e Digitali ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/it/services/digital-marketing/">Strategia di Marketing Digitale</a></li>
                                             <li><a href="/it/services/search-engine-optimization/">Ottimizzazione per i Motori di Ricerca (SEO)</a></li>
-                                            <li><a href="/it/services/pay-per-click">PubblicitÃ  Pay-Per-Click (PPC)</a></li>
-                                            <li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">PubblicitÃ  a Pagamento</a></li>
+                                            <li><a href="/it/services/pay-per-click/">Pubblicità Pay-Per-Click (PPC)</a></li>
+                                            <li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">Pubblicità a Pagamento</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di IA e Tecnologia â€º</a>
+                                        <a href="#">Soluzioni di IA e Tecnologia ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/it/services/ai-chatbots-&-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
-                                            <li><a href="/it/services/workflow-&-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
+                                            <li><a href="/it/services/ai-chatbots-and-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
+                                            <li><a href="/it/services/workflow-and-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1048,10 +1048,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">Collabora con noi</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/">Collabora con noi</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">Contatto</a>
+						<a href="/contact/?linkcontact=top-contact-button" class="topbar-contact_button">Contatto</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1262,8 +1262,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Complete website design and development services, from WordPress to custom applications. All delivered under your branding with post-paid terms.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/web-design/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/web-design/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1275,8 +1275,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Complete brand identity systems including logos, brand guidelines, and marketing collateral. Professional branding solutions for your agency clients.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/branding/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/branding/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1288,8 +1288,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>SEO optimization, social media management, and digital advertising campaigns. Complete digital marketing solutions delivered as white label services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/digital-marketing/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/digital-marketing/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1301,8 +1301,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Native and cross-platform mobile applications for iOS and Android. Complete sviluppo di applicazioni lifecycle from concept to app store deployment.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/app-development/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/app-development/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1314,8 +1314,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Complete e-commerce platforms including Shopify, WooCommerce, and custom solutions. Online store design, development, and optimization services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/e-commerce-websites/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/e-commerce-websites/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1327,8 +1327,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>User interface and experience design for web and mobile applications. Comprehensive design research, prototyping, and user testing services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/ui-ux-design/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/ui-ux-design/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1340,8 +1340,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Complete graphic design services including marketing materials, packaging, print collateral, and promotional graphics for all media channels.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/graphic-design/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/graphic-design/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1353,8 +1353,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Bespoke software solutions including SaaS platforms, business applications, and integration services tailored to your clients' specific needs.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/software-&-platform-development/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/software-and-platform-development/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1366,8 +1366,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Every digital experience your agency needs - from video production and animation to AR/VR solutions and emerging technologies. Complete digital ecosystem coverage.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+									<a href="/it/services/" class="redlink">
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1519,7 +1519,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox appear js-aos" style="text-align: center; margin: 40px auto 0 auto; display: flex; justify-content: center; width: 100%;">
 					<a href="mailto:whitelabel@aenfinite.com?subject=White Label - Payment Terms Inquiry" class="redlink" style="padding-bottom: 100px; margin: 0 auto;">
-						<span>Scopri di PiÃ¹</span>
+						<span>Scopri di Più</span>
 					</a>
 				</div>
 			</div>
@@ -1532,7 +1532,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/it/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1544,12 +1544,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Azienda</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agenzia</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/it/agency/partner-with-us/">Agenzia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/it/services/">Servizi</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1570,7 +1570,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Collabora con noi</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contatto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/it/contact/">Contatto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1627,14 +1627,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agenzia</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/it/agency/partner-with-us/">Agenzia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/it/services/">Servizi</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contatto</a>
+							<a class="menu-contact" href="/it/contact/">Contatto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com.com">Scrivici un'email</a>
 						</div>
 					</div>
@@ -1643,7 +1643,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
+				<a href="/it/contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1979,7 +1979,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Utilizziamo i cookie per migliorare la tua esperienza utente. Cliccando ACCETTA o continuando a navigare, accetti la nostra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
+						<a href="/it/privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accetta</button>

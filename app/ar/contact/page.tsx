@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
-  description: "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
+  title: "اتصل بنا Aenfinite® | Creative Digital Web الوكالة in Denver | تصميم المواقع & Marketing Experts",
+  description: "اتصل بنا Aenfinite®, a creative digital web agency based in Denver. Let",
   keywords: "contact Aenfinite, Denver web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
   alternates: { canonical: "https://aenfinite.com/ar/contact/", languages: {"x-default":"https://aenfinite.com/contact/","en":"https://aenfinite.com/contact/","es":"https://aenfinite.com/es/contact/","fr":"https://aenfinite.com/fr/contact/","de":"https://aenfinite.com/de/contact/","it":"https://aenfinite.com/it/contact/","ar":"https://aenfinite.com/ar/contact/","pt":"https://aenfinite.com/pt/contact/","zh":"https://aenfinite.com/zh/contact/","hi":"https://aenfinite.com/hi/contact/","nl":"https://aenfinite.com/nl/contact/","ja":"https://aenfinite.com/ja/contact/","ko":"https://aenfinite.com/ko/contact/"} },
-  openGraph: {"title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ar/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹, Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
+  openGraph: {"title":"اتصل بنا Aenfinite® | Creative Digital Web الوكالة in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ar/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"اتصل بنا Aenfinite® | تصميم المواقع, العلامات التجارية & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -573,62 +573,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a>
+								<a href="/ar/featured-work/">الأعمال</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/agency">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a>
+								<a href="/ar/agency/">الوكالة</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+                                <a href="/ar/services/">الخدمات</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± â€º</a>
+                                        <a href="#">حلول التطوير ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-											<li><a href="/ar/services/custom-web-development">ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ</a></li>
-											<li><a href="/ar/services/software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-											<li><a href="/ar/services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-											<li><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">Ø­Ù„ÙˆÙ„ Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ø¹Ù‚Ø§Ø±ÙŠØ©</a></li>                                      </ul>
+											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
+											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ â€º</a>
+                                        <a href="#">خدمات التصميم والإبداع ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
+                                            <li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
 
-                                            <li><a href="/ar/services/branding/">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ©</a></li>
-                                            <li><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li> <li><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
+                                            <li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
+                                            <li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
                                             
-                                            <li><a href="/ar/services/trade-show-booth-design/">ØªØµÙ…ÙŠÙ… Ø£Ø¬Ù†Ø­Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ø¶ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-                                            <li><a href="/ar/services/conference-branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ù„Ù„Ù…Ø¤ØªÙ…Ø±Ø§Øª</a></li>
+                                            <li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
+                                            <li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© â€º</a>
+                                        <a href="#">حلول التسويق والحلول الرقمية ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/digital-marketing/">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-                                            <li><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† Ù…Ø­Ø±ÙƒØ§Øª Ø§Ù„Ø¨Ø­Ø« (SEO)</a></li>
-                                            <li><a href="/ar/services/pay-per-click">Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ø¯ÙØ¹ Ù„ÙƒÙ„ Ù†Ù‚Ø±Ø© (PPC)</a></li>
-                                            <li><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></li> <li><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></li>
+                                            <li><a href="/ar/services/digital-marketing/">استراتيجية التسويق الرقمي</a></li>
+                                            <li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
+                                            <li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
+                                            <li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ â€º</a>
+                                        <a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/ai-chatbots-&-virtual-assistants/">Ø±ÙˆØ¨ÙˆØªØ§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒÙŠØ© ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯ÙˆÙ† Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠÙˆÙ†</a></li>
-                                            <li><a href="/ar/services/workflow-&-business-automation/">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
+                                            <li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
+                                            <li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - شاركنا العمل Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from Ø§Ù„Ø®Ø¯Ù…Ø§Øª menu - adaptive styling */
+/* Main dropdown from الخدمات menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -742,10 +742,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ar/contact/" class="topbar-contact_button">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+						<a href="/ar/contact/" class="topbar-contact_button">اتصل بنا</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -754,7 +754,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Ø¥Ø°Ø§ Ù„Ù… ØªØ¬Ø¯ Ø§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„ØªÙŠ ØªØ­ØªØ§Ø¬Ù‡Ø§ØŒ Ø§ÙƒØªØ¨ Ø¥Ù„ÙŠÙ†Ø§ ÙˆØ³Ù†Ø¬Ø¯ Ø­Ù„Ø§Ù‹ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							إذا لم تجد الخدمة التي تحتاجها، اكتب إلينا وسنجد حلاً <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -782,13 +782,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</a>
         <div class="main">
 
-            <main class="section" role="main" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ Page Content">
+            <main class="section" role="main" aria-label="اتصل بنا Page Content">
 				
-				<!-- Ø§ØªØµÙ„ Ø¨Ù†Ø§ Header Section -->
+				<!-- اتصل بنا Header Section -->
 				<div class="section fade-in-delay-1">
 					<div class="wrapper">
 						<div class="textbox-content normaltext" style="text-align: center;">
-							<h1 style><strong>ØªÙˆØ§ØµÙ„ Ù…Ø¹ Aenfiniteâ„¢</strong></h1>						</div>
+							<h1 style><strong>تواصل مع Aenfinite™</strong></h1>						</div>
 					</div>
 				</div>
 				
@@ -797,11 +797,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<section class="formss-wrap">
 							
 							
-							<section class="toggle-formss" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ Form">
+							<section class="toggle-formss" aria-label="اتصل بنا Form">
 								
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="اتصل بنا form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -813,14 +813,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¹Ù† Ù…Ø´Ø±ÙˆØ¹Ùƒ" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="اسمك*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="بريدك الإلكتروني*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="أخبرنا عن مشروعك" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ø£Ù†Ø§ Ù…Ù‡ØªÙ… Ø¨Ù€...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©" id="branding" /><label for="branding" class="list-item-label">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</label></span><span class="list-item"><input type="checkbox" name="services" value="ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹" id="web-design" /><label for="web-design" class="list-item-label">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</label></span><span class="list-item"><input type="checkbox" name="services" value="Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</label></span><span class="list-item"><input type="checkbox" name="services" value="Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</label></span><span class="list-item"><input type="checkbox" name="services" value="ØªØµÙ…ÙŠÙ… UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">ØªØµÙ…ÙŠÙ… UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" id="app-development" /><label for="app-development" class="list-item-label">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</label></span><span class="list-item"><input type="checkbox" name="services" value="Ø§Ù„ØªØºÙ„ÙŠÙ" id="packaging" /><label for="packaging" class="list-item-label">Ø§Ù„ØªØºÙ„ÙŠÙ</label></span><span class="list-item"><input type="checkbox" name="services" value="Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ" id="graphic-design" /><label for="graphic-design" class="list-item-label">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</label></span><span class="list-item"><input type="checkbox" name="services" value="Ù…ÙˆØ§Ù‚Ø¹ WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">Ù…ÙˆØ§Ù‚Ø¹ WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="Ø£Ø®Ø±Ù‰" id="other" /><label for="other" class="list-item-label">Ø£Ø®Ø±Ù‰</label></span></span></span>
+		<strong>أنا مهتم بـ...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="العلامات التجارية" id="branding" /><label for="branding" class="list-item-label">العلامات التجارية</label></span><span class="list-item"><input type="checkbox" name="services" value="تصميم المواقع" id="web-design" /><label for="web-design" class="list-item-label">تصميم المواقع</label></span><span class="list-item"><input type="checkbox" name="services" value="التسويق الرقمي" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">التسويق الرقمي</label></span><span class="list-item"><input type="checkbox" name="services" value="حلول التجارة الإلكترونية" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">حلول التجارة الإلكترونية</label></span><span class="list-item"><input type="checkbox" name="services" value="تصميم UI/UX" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">تصميم UI/UX</label></span><span class="list-item"><input type="checkbox" name="services" value="تطوير التطبيقات" id="app-development" /><label for="app-development" class="list-item-label">تطوير التطبيقات</label></span><span class="list-item"><input type="checkbox" name="services" value="التغليف" id="packaging" /><label for="packaging" class="list-item-label">التغليف</label></span><span class="list-item"><input type="checkbox" name="services" value="التصميم الجرافيكي" id="graphic-design" /><label for="graphic-design" class="list-item-label">التصميم الجرافيكي</label></span><span class="list-item"><input type="checkbox" name="services" value="مواقع WordPress" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">مواقع WordPress</label></span><span class="list-item last"><input type="checkbox" name="services" value="أخرى" id="other" /><label for="other" class="list-item-label">أخرى</label></span></span></span>
 		
 		<div class="selectbox budget-dropdown js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¨Ù…ÙŠØ²Ø§Ù†ÙŠØªÙƒ Ø§Ù„ØªÙ‚Ø±ÙŠØ¨ÙŠØ©" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="أخبرنا بميزانيتك التقريبية" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -828,23 +828,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					Ø¨Ø¯Ø¡Ø§Ù‹ Ù…Ù† $100
+					بدءاً من $100
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ù…Ù† $500 Ø¥Ù„Ù‰ $5,000
+					من $500 إلى $5,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ù…Ù† $5,000 Ø¥Ù„Ù‰ $20,000
+					من $5,000 إلى $20,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ù…Ù† $20,000 Ø¥Ù„Ù‰ $50,000
+					من $20,000 إلى $50,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					Ø£ÙƒØ«Ø± Ù…Ù† $100,000
+					أكثر من $100,000
 					
 				</div>
 			</div>		</div>
@@ -854,13 +854,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="top-contact-button" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Ø¥Ø±Ø³Ø§Ù„" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="إرسال" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 
 <!-- Social Media Section -->
 <div class="social-media-connect" style="margin-top: 50px; text-align: center; padding: 30px 20px;">
-    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">ØªÙˆØ§ØµÙ„ Ù…Ø¹Ù†Ø§</h3>
+    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">تواصل معنا</h3>
     
     <div class="social-icons" style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/aenfinite" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px; text-decoration: none; color: #227bf3; transition: transform 0.3s ease;">
@@ -882,7 +882,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="contact-phone" style="margin-top: 30px;">
-        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">Ø§ØªØµÙ„ Ø¨Ù†Ø§</h4>
+        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">اتصل بنا</h4>
         <a href="tel:+13034199782" style="text-decoration: none; color: #227bf3; font-size: 24px; font-weight: bold;">
             <i class="fas fa-phone" style="margin-right: 10px;"></i>1-303-419-9782
         </a>
@@ -928,7 +928,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" alt="Heart" class="icon" loading="lazy" decoding="async">
                                             </div>
                                         </div>
-                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">Ø§ØªØ¨Ø¹ Ø±Ø¤ÙŠØªÙƒ</a>
+                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">اتبع رؤيتك</a>
                                     </div>
                                 </div>
                             </div>
@@ -1072,7 +1072,7 @@ Denver County, USA
 		</style>
 
 		<style>
-			/* Ø§ØªØµÙ„ Ø¨Ù†Ø§ Page SEO Enhancement Styles */
+			/* اتصل بنا Page SEO Enhancement Styles */
 			.contact-intro {
 				max-width: 800px;
 				margin: 30px auto 40px;
@@ -1150,7 +1150,7 @@ Denver County, USA
 				}
 			}
 			
-			/* Ø§ØªØµÙ„ Ø¨Ù†Ø§ Methods Section */
+			/* اتصل بنا Methods Section */
 			.contact-methods {
 				background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 				border-radius: 15px;
@@ -1247,46 +1247,46 @@ Denver County, USA
 			}
 		</style>
 
-		<!-- Ø§ØªØµÙ„ Ø¨Ù†Ø§ Page FAQ Section for SEO -->
-		<section class="contact-faq" id="faq" aria-label="Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø©">
+		<!-- اتصل بنا Page FAQ Section for SEO -->
+		<section class="contact-faq" id="faq" aria-label="الأسئلة الشائعة">
 			<div class="wrapper">
 				<div class="faq-container">
-					<h2>Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø©</h2>
+					<h2>الأسئلة الشائعة</h2>
 					<div class="faq-grid">
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Ù…Ø§ Ù…Ø¯Ù‰ Ø³Ø±Ø¹Ø© Ø§Ø³ØªØ¬Ø§Ø¨ØªÙƒÙ… Ù„Ø§Ø³ØªÙØ³Ø§Ø±Ø§Øª Ø§Ù„ØªÙˆØ§ØµÙ„ØŸ</h3>
+							<h3 itemprop="name">ما مدى سرعة استجابتكم لاستفسارات التواصل؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Ø¹Ø§Ø¯Ø©Ù‹ Ù…Ø§ Ù†Ø±Ø¯ Ø¹Ù„Ù‰ Ø¬Ù…ÙŠØ¹ Ø§Ø³ØªÙØ³Ø§Ø±Ø§Øª Ø§Ù„ØªÙˆØ§ØµÙ„ Ø®Ù„Ø§Ù„ 24 Ø³Ø§Ø¹Ø© ÙÙŠ Ø£ÙŠØ§Ù… Ø§Ù„Ø¹Ù…Ù„. Ù„Ø§Ø­ØªÙŠØ§Ø¬Ø§Øª Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„Ø¹Ø§Ø¬Ù„Ø©ØŒ Ù†Ù‚Ø¯Ù… Ø®ÙŠØ§Ø±Ø§Øª Ø§Ù„Ø±Ø¯ ÙÙŠ Ù†ÙØ³ Ø§Ù„ÙŠÙˆÙ….</p>
+								<p itemprop="text">عادةً ما نرد على جميع استفسارات التواصل خلال 24 ساعة في أيام العمل. لاحتياجات المشاريع العاجلة، نقدم خيارات الرد في نفس اليوم.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Ù…Ø§ Ø§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªÙŠ ÙŠÙ‚Ø¯Ù…Ù‡Ø§ AenfiniteØŸ</h3>
+							<h3 itemprop="name">ما الخدمات التي يقدمها Aenfinite؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Aenfinite ÙŠÙ‚Ø¯Ù… Ø®Ø¯Ù…Ø§Øª Ø±Ù‚Ù…ÙŠØ© Ø´Ø§Ù…Ù„Ø© ØªØ´Ù…Ù„ ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ÙˆØ§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ ÙˆSEO ÙˆØ£ØªÙ…ØªØ© Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ ÙˆØ­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ø®ØµØµ Ù„Ù„Ø´Ø±ÙƒØ§Øª ÙÙŠ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§.</p>
+								<p itemprop="text">Aenfinite يقدم خدمات رقمية شاملة تشمل تصميم المواقع والعلامة التجارية والتسويق الرقمي وSEO وأتمتة الأعمال وحلول التطوير المخصص للشركات في الولايات المتحدة وكندا.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Ù‡Ù„ ØªØ¹Ù…Ù„ÙˆÙ† Ù…Ø¹ Ø´Ø±ÙƒØ§Øª Ø®Ø§Ø±Ø¬ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ØŸ</h3>
+							<h3 itemprop="name">هل تعملون مع شركات خارج الولايات المتحدة وكندا؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Ø¨ÙŠÙ†Ù…Ø§ Ù†Ø±ÙƒØ² Ø¨Ø´ÙƒÙ„ Ø£Ø³Ø§Ø³ÙŠ Ø¹Ù„Ù‰ Ø£Ø³ÙˆØ§Ù‚ Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ØŒ Ù†Ø¹Ù…Ù„ Ù…Ø¹ Ø¹Ù…Ù„Ø§Ø¡ Ø¯ÙˆÙ„ÙŠÙŠÙ† Ù…Ø®ØªØ§Ø±ÙŠÙ†. ÙŠØ±Ø¬Ù‰ Ø§Ù„ØªÙˆØ§ØµÙ„ Ù…Ø¹Ù†Ø§ Ù„Ù…Ù†Ø§Ù‚Ø´Ø© Ù…ØªØ·Ù„Ø¨Ø§Øª Ù…Ø´Ø±ÙˆØ¹Ùƒ Ø§Ù„Ù…Ø­Ø¯Ø¯Ø© ÙˆÙ…ÙˆÙ‚Ø¹Ùƒ.</p>
+								<p itemprop="text">بينما نركز بشكل أساسي على أسواق الولايات المتحدة وكندا، نعمل مع عملاء دوليين مختارين. يرجى التواصل معنا لمناقشة متطلبات مشروعك المحددة وموقعك.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Ù…Ø§ Ù‡Ùˆ Ø§Ù„Ø¬Ø¯ÙˆÙ„ Ø§Ù„Ø²Ù…Ù†ÙŠ Ø§Ù„Ù†Ù…ÙˆØ°Ø¬ÙŠ Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ÙƒÙ…ØŸ</h3>
+							<h3 itemprop="name">ما هو الجدول الزمني النموذجي لمشاريعكم؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ØªØ®ØªÙ„Ù Ø§Ù„Ø¬Ø¯Ø§ÙˆÙ„ Ø§Ù„Ø²Ù…Ù†ÙŠØ© Ù„Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø¨Ù†Ø§Ø¡Ù‹ Ø¹Ù„Ù‰ Ø§Ù„Ù†Ø·Ø§Ù‚ ÙˆØ§Ù„ØªØ¹Ù‚ÙŠØ¯. Ù…Ø´Ø§Ø±ÙŠØ¹ ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ ØªØ³ØªØºØ±Ù‚ Ø¹Ø§Ø¯Ø©Ù‹ Ù…Ù† 4 Ø¥Ù„Ù‰ 8 Ø£Ø³Ø§Ø¨ÙŠØ¹ØŒ Ø¨ÙŠÙ†Ù…Ø§ Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ø§Ù„Ø´Ø§Ù…Ù„Ø© Ù‚Ø¯ ØªØ³ØªØºØ±Ù‚ Ù…Ù† 6 Ø¥Ù„Ù‰ 12 Ø£Ø³Ø¨ÙˆØ¹Ø§Ù‹. Ù†Ù‚Ø¯Ù… Ø¬Ø¯Ø§ÙˆÙ„ Ø²Ù…Ù†ÙŠØ© Ù…ÙØµÙ„Ø© Ø®Ù„Ø§Ù„ Ø§Ø³ØªØ´Ø§Ø±ØªÙ†Ø§ Ø§Ù„Ø£ÙˆÙ„ÙŠØ©.</p>
+								<p itemprop="text">تختلف الجداول الزمنية للمشاريع بناءً على النطاق والتعقيد. مشاريع تصميم المواقع تستغرق عادةً من 4 إلى 8 أسابيع، بينما مشاريع العلامة التجارية الشاملة قد تستغرق من 6 إلى 12 أسبوعاً. نقدم جداول زمنية مفصلة خلال استشارتنا الأولية.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Ù‡Ù„ ØªÙ‚Ø¯Ù…ÙˆÙ† Ø¯Ø¹Ù…Ø§Ù‹ Ù…Ø³ØªÙ…Ø±Ø§Ù‹ Ø¨Ø¹Ø¯ Ø¥ÙƒÙ…Ø§Ù„ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹ØŸ</h3>
+							<h3 itemprop="name">هل تقدمون دعماً مستمراً بعد إكمال المشروع؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Ù†Ø¹Ù…ØŒ Ù†Ù‚Ø¯Ù… Ø­Ø²Ù… Ø¯Ø¹Ù… ÙˆØµÙŠØ§Ù†Ø© Ù…Ø³ØªÙ…Ø±Ø© Ø´Ø§Ù…Ù„Ø© Ù„Ø¶Ù…Ø§Ù† Ø§Ø³ØªÙ…Ø±Ø§Ø± Ø£Ø¯Ø§Ø¦Ùƒ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø¨Ø´ÙƒÙ„ Ù…Ø«Ø§Ù„ÙŠ. ØªØ´Ù…Ù„ Ø®ÙŠØ§Ø±Ø§Øª Ø§Ù„Ø¯Ø¹Ù… ØªØ­Ø¯ÙŠØ«Ø§Øª Ø§Ù„Ù…ÙˆÙ‚Ø¹ ÙˆÙ…Ø±Ø§Ù‚Ø¨Ø© SEO ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯Ø© Ø§Ù„ØªÙ‚Ù†ÙŠØ©.</p>
+								<p itemprop="text">نعم، نقدم حزم دعم وصيانة مستمرة شاملة لضمان استمرار أدائك الرقمي بشكل مثالي. تشمل خيارات الدعم تحديثات الموقع ومراقبة SEO والمساعدة التقنية.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ÙƒÙŠÙ ØªØ­Ø¯Ø¯ÙˆÙ† Ø£Ø³Ø¹Ø§Ø± Ø®Ø¯Ù…Ø§ØªÙƒÙ…ØŸ</h3>
+							<h3 itemprop="name">كيف تحددون أسعار خدماتكم؟</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Ù†Ù‚Ø¯Ù… Ø¹Ø±ÙˆØ¶ Ø£Ø³Ø¹Ø§Ø± Ù…Ø®ØµØµØ© Ø¨Ù†Ø§Ø¡Ù‹ Ø¹Ù„Ù‰ Ù†Ø·Ø§Ù‚ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹ ÙˆØ§Ù„Ø¬Ø¯ÙˆÙ„ Ø§Ù„Ø²Ù…Ù†ÙŠ ÙˆØ§Ù„Ù…ØªØ·Ù„Ø¨Ø§Øª Ø§Ù„Ù…Ø­Ø¯Ø¯Ø©. Ø£Ø³Ø¹Ø§Ø±Ù†Ø§ Ø´ÙØ§ÙØ© ÙˆØªÙ†Ø§ÙØ³ÙŠØ©ØŒ Ù…Ø¹ Ø­Ø²Ù… ØªØ¨Ø¯Ø£ Ù…Ù† $2,500 Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ Ùˆ$1,500 Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©.</p>
+								<p itemprop="text">نقدم عروض أسعار مخصصة بناءً على نطاق المشروع والجدول الزمني والمتطلبات المحددة. أسعارنا شفافة وتنافسية، مع حزم تبدأ من $2,500 لتصميم المواقع و$1,500 لمشاريع العلامة التجارية.</p>
 							</div>
 						</div>
 					</div>
@@ -1295,7 +1295,7 @@ Denver County, USA
 		</section>
 
 		<style>
-			/* Ø§ØªØµÙ„ Ø¨Ù†Ø§ FAQ Section Styles */
+			/* اتصل بنا FAQ Section Styles */
 			.contact-faq {
 				background: #f8f9fa;
 				padding: 80px 0;
@@ -1398,38 +1398,38 @@ Denver County, USA
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø´Ø±ÙƒØ©</div>
+								<div class="footer-col_caption">الشركة</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">اتصل بنا</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+								<div class="footer-col_caption">الخدمات</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ØªÙˆØ§ØµÙ„</div>
+								<div class="footer-col_caption">تواصل</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">اتصل بنا</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+									<div class="footer-col_caption">العنوان</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1474,7 +1474,7 @@ Denver County, USA
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ar/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1482,15 +1482,15 @@ Denver County, USA
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">الأعمال</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">اتصل بنا</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">Ø£Ø±Ø³Ù„ Ù„Ù†Ø§ Ø¨Ø±ÙŠØ¯Ø§Ù‹ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ§Ù‹</a>
+							<a class="menu-contact" href="">اتصل بنا</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">أرسل لنا بريداً إلكترونياً</a>
 						</div>
 					</div>
 				</div>
@@ -1500,13 +1500,13 @@ Denver County, USA
 
 		                
 
-				<a href="contact/" class="to-contact">Ù…Ø´Ø±ÙˆØ¹ Ø¬Ø¯ÙŠØ¯ØŸ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹</a>
+				<a href="/ar/contact/" class="to-contact">مشروع جديد؟</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">حدد موعد اجتماع</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹Ùƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠ</h3>
+			<h3>حدد موعد اجتماعك التجاري</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1743,11 +1743,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Ù†Ø³ØªØ®Ø¯Ù… Ù…Ù„ÙØ§Øª ØªØ¹Ø±ÙŠÙ Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø· Ù„ØªØ­Ø³ÙŠÙ† ØªØ¬Ø±Ø¨ØªÙƒ. Ø¨Ø§Ù„Ù†Ù‚Ø± Ø¹Ù„Ù‰ Ù‚Ø¨ÙˆÙ„ Ø£Ùˆ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØµÙØ­ØŒ ÙØ¥Ù†Ùƒ ØªÙˆØ§ÙÙ‚ Ø¹Ù„Ù‰
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</a>.
+						نستخدم ملفات تعريف الارتباط لتحسين تجربتك. بالنقر على قبول أو متابعة التصفح، فإنك توافق على
+						<a href="/ar/privacy-policy/" class="cookie-banner__link" target="_blank">سياسة الخصوصية</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">Ù‚Ø¨ÙˆÙ„</button>
+				<button class="cookie-banner__button">قبول</button>
 			</div>
 		</div>
 
@@ -1843,7 +1843,7 @@ document.addEventListener('keydown', function(event) {
 
 
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -1859,7 +1859,7 @@ export default function Page() {
   "@type": "LocalBusiness",
   "name": "Aenfinite",
   "url": "https://aenfinite.com",
-  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
+  "description": "اتصل بنا Aenfinite®, a creative digital web agency based in Denver. Let",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Denver",
@@ -1889,8 +1889,8 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite® | Creative Digital Web Ø§Ù„ÙˆÙƒØ§Ù„Ø© in Denver | ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹ & Marketing Experts",
-  "description": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®, a creative digital web agency based in Denver. Let",
+  "name": "اتصل بنا Aenfinite® | Creative Digital Web الوكالة in Denver | تصميم المواقع & Marketing Experts",
+  "description": "اتصل بنا Aenfinite®, a creative digital web agency based in Denver. Let",
   "url": "https://aenfinite.com/contact/",
   "publisher": {
     "@type": "Organization",
@@ -1919,7 +1919,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite®",
+      "name": "اتصل بنا Aenfinite®",
       "item": "https://aenfinite.com/contact/"
     }
   ]

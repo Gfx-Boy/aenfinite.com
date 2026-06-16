@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Mobile & Web Application Experts | Aenfinite",
+  title: "تطوير التطبيقات الخدمات | Mobile & Web Application Experts",
   description: "Aenfinite develops custom mobile and web applications that are fast, secure, and scalable. We specialize in native, cross-platform, and full-stack app solutions built for growth and engagement.",
-  keywords: "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, mobile ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, iOS ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, Android ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, cross-platform app, React Native, Flutter, full-stack ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, Aenfinite",
+  keywords: "تطوير التطبيقات, mobile تطوير التطبيقات, iOS تطوير التطبيقات, Android تطوير التطبيقات, cross-platform app, React Native, Flutter, full-stack تطوير التطبيقات, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/services/app-development/", languages: {"x-default":"https://aenfinite.com/services/app-development/","en":"https://aenfinite.com/services/app-development/","es":"https://aenfinite.com/es/services/app-development/","fr":"https://aenfinite.com/fr/services/app-development/","de":"https://aenfinite.com/de/services/app-development/","it":"https://aenfinite.com/it/services/app-development/","ar":"https://aenfinite.com/ar/services/app-development/","pt":"https://aenfinite.com/pt/services/app-development/","zh":"https://aenfinite.com/zh/services/app-development/","hi":"https://aenfinite.com/hi/services/app-development/","nl":"https://aenfinite.com/nl/services/app-development/","ja":"https://aenfinite.com/ja/services/app-development/","ko":"https://aenfinite.com/ko/services/app-development/"} },
-  openGraph: {"title":"ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/ar/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"تطوير التطبيقات الخدمات | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/ar/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"تطوير التطبيقات الخدمات | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a>
+								<a href="/ar/featured-work/">الأعمال</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a>
+								<a href="/ar/agency/">الوكالة</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+                                <a href="/ar/services/">الخدمات</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± â€º</a>
+										<a href="#">حلول التطوير ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-											<li><a href="/ar/services/custom-web-development">ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ</a></li>
-											<li><a href="/ar/services/software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-											<li><a href="/ar/services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-											<li><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">Ø­Ù„ÙˆÙ„ Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ø¹Ù‚Ø§Ø±ÙŠØ©</a></li>									</ul>
+											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
+											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ â€º</a>
+										<a href="#">خدمات التصميم والإبداع ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
-											<li><a href="/ar/services/branding/">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ©</a></li>
-											<li><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li> <li><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
+											<li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
+											<li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
 											
-											<li><a href="/ar/services/trade-show-booth-design/">ØªØµÙ…ÙŠÙ… Ø£Ø¬Ù†Ø­Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ø¶ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-											<li><a href="/ar/services/conference-branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ù„Ù„Ù…Ø¤ØªÙ…Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
+											<li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© â€º</a>
+										<a href="#">حلول التسويق والحلول الرقمية ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/digital-marketing/">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-											<li><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† Ù…Ø­Ø±ÙƒØ§Øª Ø§Ù„Ø¨Ø­Ø« (SEO)</a></li>
-											<li><a href="/ar/services/pay-per-click">Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ø¯ÙØ¹ Ù„ÙƒÙ„ Ù†Ù‚Ø±Ø© (PPC)</a></li>
-											<li><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></li> <li><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></li>
+											<li><a href="/ar/services/digital-marketing/">استراتيجية التسويق الرقمي</a></li>
+											<li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
+											<li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
+											<li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ â€º</a>
+										<a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ai-chatbots-&-virtual-assistants/">Ø±ÙˆØ¨ÙˆØªØ§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒÙŠØ© ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯ÙˆÙ† Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠÙˆÙ†</a></li>
-											<li><a href="/ar/services/workflow-&-business-automation/">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
+											<li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
+											<li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - شاركنا العمل Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from Ø§Ù„Ø®Ø¯Ù…Ø§Øª menu - adaptive styling */
+/* Main dropdown from الخدمات menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ar/contact/" class="topbar-contact_button">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+						<a href="/ar/contact/" class="topbar-contact_button">اتصل بنا</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Ø¥Ø°Ø§ Ù„Ù… ØªØ¬Ø¯ Ø§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„ØªÙŠ ØªØ­ØªØ§Ø¬Ù‡Ø§ØŒ Ø§ÙƒØªØ¨ Ø¥Ù„ÙŠÙ†Ø§ ÙˆØ³Ù†Ø¬Ø¯ Ø­Ù„Ø§Ù‹ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							إذا لم تجد الخدمة التي تحتاجها، اكتب إلينا وسنجد حلاً <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1356,18 +1356,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Mobile & Web ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª</span>
+    <span class="marquee-line_text">Professional Mobile & Web تطوير التطبيقات الخدمات</span>
     <span class="marquee-line_text">Native Apps, Cross-Platform Solutions & Optimization</span>
-    <span class="marquee-line_text">Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ ÙˆØ®Ø§Ø±Ø¬Ù‡Ø§</span>
-    <span class="marquee-line_text">Specialists in App Performance & ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</span>
+    <span class="marquee-line_text">خدمة العملاء عبر الولايات المتحدة وكندا وخارجها</span>
+    <span class="marquee-line_text">Specialists in App Performance & تجربة المستخدم</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for App Solutions</span>
-    <span class="marquee-line_text">High-Performance ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª & Security</span>
+    <span class="marquee-line_text">High-Performance تطوير التطبيقات & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce Ø§Ù„ÙˆÙƒØ§Ù„Ø© with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</span>
+    <span class="marquee-line_text">Professional E-commerce الوكالة with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce الصيانة & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable تطوير التجارة الإلكترونية & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1375,18 +1375,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/fiscoclic/">
+									<a href="/ar/work/fiscoclic/">
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/fiscoclic/" class="shiftbox-link"> </a>
+									    <a href="/ar/work/fiscoclic/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">Business Apps</div>
-																							<div class="preview-name">UI/UX Ù„Ù„Ø¬ÙˆØ§Ù„</div>
+																							<div class="preview-name">UI/UX للجوال</div>
 																							<div class="preview-name">Cloud Integration</div>
 																					</div>
 									</div>
@@ -1396,17 +1396,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Ø§Ù„Ø¹Ø§ÙÙŠØ© & Light Therapy ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
+									<a href="/ar/work/lumea/">
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart العافية & Light Therapy تطبيق الجوال" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Smart Ø§Ù„Ø¹Ø§ÙÙŠØ© & Light Therapy ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
-																							<div class="preview-name">Ø§Ù„Ø¹Ø§ÙÙŠØ© Apps</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/lumea/">Lumea - Smart العافية & Light Therapy تطبيق الجوال</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
+																							<div class="preview-name">العافية Apps</div>
 																							<div class="preview-name">Health UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
 																					</div>
@@ -1417,18 +1417,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Ø§Ù„ØµØ­Ø© Ø§Ù„Ù†ÙØ³ÙŠØ© & Fitness App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/ar/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - الصحة النفسية & Fitness App" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Ø§Ù„ØµØ­Ø© Ø§Ù„Ù†ÙØ³ÙŠØ© & Fitness App</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/mindfit/">Mindfit - الصحة النفسية & Fitness App</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">Fitness Apps</div>
-																							<div class="preview-name">Ø§Ù„Ø¹Ø§ÙÙŠØ© UI/UX</div>
+																							<div class="preview-name">العافية UI/UX</div>
 																							<div class="preview-name">Mental Health</div>
 																					</div>
 									</div>
@@ -1438,16 +1438,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
+									<a href="/ar/work/neocert/">
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									    <a href="/ar/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">Event Apps</div>
 																							<div class="preview-name">Entertainment UI/UX</div>
 																							<div class="preview-name">Booking Systems</div>
@@ -1459,17 +1459,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ© Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/ar/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & التكنولوجيا العصبية Platform" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ© Platform</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
-																							<div class="preview-name">Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ©</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/neurolinker/">Neurolinker - Brain-Computer Interface & التكنولوجيا العصبية Platform</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
+																							<div class="preview-name">التكنولوجيا العصبية</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain-Computer Interface</div>
 																					</div>
@@ -1480,16 +1480,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/olly/" class="shiftbox-link"> </a>
+									<a href="/ar/work/olly/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity تطبيق الجوال" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/olly/">Olly - Smart Personal Assistant & Productivity تطبيق الجوال</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">AI Assistant</div>
 																							<div class="preview-name">Productivity UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
@@ -1501,16 +1501,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/quarena/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/quarena/" class="shiftbox-link"> </a>
+									<a href="/ar/work/quarena/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & تطوير التطبيقات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/quarena/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/quarena/">Quarena - Advanced Trading Platform UI/UX & تطوير التطبيقات</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">Trading Apps</div>
 																							<div class="preview-name">Financial UI/UX</div>
 																							<div class="preview-name">Cryptocurrency</div>
@@ -1522,16 +1522,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/ansu/">
+									<a href="/ar/work/ansu/">
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/ansu/" class="shiftbox-link"> </a>
+									    <a href="/ar/work/ansu/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
-																																		<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
+																																		<div class="preview-name">تطبيقات الجوال</div>
 																							<div class="preview-name">Neural Technology</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain Technology</div>
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional تطوير التطبيقات services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/ar/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1581,7 +1581,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     </div>
                     <div class="numbers-title">
                         <div>
-                            <div>years of expertise in native, cross-platform, and progressive web ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, delivering high-performing, user-centric solutions</div>
+                            <div>years of expertise in native, cross-platform, and progressive web تطوير التطبيقات, delivering high-performing, user-centric solutions</div>
                         </div>
                     </div>
                 </div>
@@ -1607,7 +1607,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Mobile ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Portfolio</h2>
+						<h2>Aenfinite Mobile تطوير التطبيقات Portfolio</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,15 +1616,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/fiscoclic/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<div class="preview-action"><a href="/ar/work/fiscoclic/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
+											<a href="/ar/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">Business Apps</div>
-																					<div class="preview-name">UI/UX Ù„Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">UI/UX للجوال</div>
 																					<div class="preview-name">Cloud Integration</div>
 											
 									</div>
@@ -1633,15 +1633,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart Ø§Ù„Ø¹Ø§ÙÙŠØ© & Light Therapy ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/lumea/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart العافية & Light Therapy تطبيق الجوال" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/lumea/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart Ø§Ù„Ø¹Ø§ÙÙŠØ© & Light Therapy ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„</a>
+											<a href="/ar/work/lumea/">Lumea - Smart العافية & Light Therapy تطبيق الجوال</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
-																					<div class="preview-name">Ø§Ù„Ø¹Ø§ÙÙŠØ© Apps</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
+																					<div class="preview-name">العافية Apps</div>
 																					<div class="preview-name">Health UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
 											
@@ -1651,16 +1651,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Ø§Ù„ØµØ­Ø© Ø§Ù„Ù†ÙØ³ÙŠØ© & Fitness App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - الصحة النفسية & Fitness App" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/mindfit/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit - Ø§Ù„ØµØ­Ø© Ø§Ù„Ù†ÙØ³ÙŠØ© & Fitness App</a>
+											<a href="/ar/work/mindfit/">Mindfit - الصحة النفسية & Fitness App</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">Fitness Apps</div>
-																					<div class="preview-name">Ø§Ù„Ø¹Ø§ÙÙŠØ© UI/UX</div>
+																					<div class="preview-name">العافية UI/UX</div>
 																					<div class="preview-name">Mental Health</div>
 											
 									</div>
@@ -1670,13 +1670,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<div class="preview-action"><a href="/ar/work/neocert/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a>
+											<a href="/ar/work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">Event Apps</div>
 																					<div class="preview-name">Entertainment UI/UX</div>
 																					<div class="preview-name">Booking Systems</div>
@@ -1687,15 +1687,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ© Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & التكنولوجيا العصبية Platform" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/neurolinker/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ© Platform</a>
+											<a href="/ar/work/neurolinker/">Neurolinker - Brain-Computer Interface & التكنولوجيا العصبية Platform</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
-																					<div class="preview-name">Ø§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ Ø§Ù„Ø¹ØµØ¨ÙŠØ©</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
+																					<div class="preview-name">التكنولوجيا العصبية</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain-Computer Interface</div>
 											
@@ -1705,14 +1705,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/olly/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity تطبيق الجوال" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/olly/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity ØªØ·Ø¨ÙŠÙ‚ Ø§Ù„Ø¬ÙˆØ§Ù„</a>
+											<a href="/ar/work/olly/">Olly - Smart Personal Assistant & Productivity تطبيق الجوال</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">AI Assistant</div>
 																					<div class="preview-name">Productivity UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
@@ -1723,14 +1723,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/quarena/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & تطوير التطبيقات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/quarena/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a>
+											<a href="/ar/work/quarena/">Quarena - Advanced Trading Platform UI/UX & تطوير التطبيقات</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">Trading Apps</div>
 																					<div class="preview-name">Financial UI/UX</div>
 																					<div class="preview-name">Cryptocurrency</div>
@@ -1742,13 +1742,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/ansu/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<div class="preview-action"><a href="/ar/work/ansu/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
+											<a href="/ar/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 										</div>
-																					<div class="preview-name">ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø¬ÙˆØ§Ù„</div>
+																					<div class="preview-name">تطبيقات الجوال</div>
 																					<div class="preview-name">Neural Technology</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain Technology</div>
@@ -1759,8 +1759,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
-						<span>Ø¹Ø±Ø¶ Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹</span>
+					<a href="/ar/work/mobile-apps/" class="redlink">
+						<span>عرض جميع المشاريع</span>
 					</a>
 				</div>
 			</div>
@@ -1771,12 +1771,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="block formss">
         <div class="center">
             <div class="formss-wrap">
-                <h2>Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite for Expert ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+                <h2>اتصل بنا Aenfinite for Expert تطوير التطبيقات الخدمات</h2>
                 <div class="toggle-formss">
                     
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="اتصل بنا form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1789,10 +1789,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
     <div class="inputs">
         <span class="wpcf7-form-control-wrap" data-name="your-name">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="اسمك*" value="" type="text" name="your-name" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="your-email">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="بريدك الإلكتروني*" value="" type="email" name="your-email" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="text-tell-project">
             <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your app idea or project" value="" type="text" name="text-tell-project" />
@@ -1800,32 +1800,32 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="checkbox-select">
-        <strong>Ø£Ù†Ø§ Ù…Ù‡ØªÙ… Ø¨Ù€...</strong>
+        <strong>أنا مهتم بـ...</strong>
         <span class="form-control-wrap" data-name="checkbox-select">
             <span class="form-control checkbox-group" style="padding-bottom: 50px">
-                <span class="list-item first"><input type="checkbox" name="services" value="iOS ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" id="ios-app" /><label for="ios-app" class="list-item-label">iOS ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Android ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" id="android-app" /><label for="android-app" class="list-item-label">Android ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Cross-ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Web ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª" id="web-app" /><label for="web-app" class="list-item-label">Web ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="ØªØµÙ…ÙŠÙ… UI/UX" id="uiux" /><label for="uiux" class="list-item-label">ØªØµÙ…ÙŠÙ… UI/UX</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="API Ø§Ù„ØªØ·ÙˆÙŠØ± & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API Ø§Ù„ØªØ·ÙˆÙŠØ± & Integration</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="App Ø§Ù„ØµÙŠØ§Ù†Ø© & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</label></span>
+                <span class="list-item first"><input type="checkbox" name="services" value="iOS تطوير التطبيقات" id="ios-app" /><label for="ios-app" class="list-item-label">iOS تطوير التطبيقات</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Android تطوير التطبيقات" id="android-app" /><label for="android-app" class="list-item-label">Android تطوير التطبيقات</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Cross-تطوير المنصات" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-تطوير المنصات</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Web تطوير التطبيقات" id="web-app" /><label for="web-app" class="list-item-label">Web تطوير التطبيقات</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="تصميم UI/UX" id="uiux" /><label for="uiux" class="list-item-label">تصميم UI/UX</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="API التطوير & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API التطوير & Integration</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="App الصيانة & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App الصيانة & Support</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="App Migration & Upgrades" id="app-migration" /><label for="app-migration" class="list-item-label">App Migration & Upgrades</label></span>
                 <span class="list-item last"><input type="checkbox" name="services" value="Custom App Consultation" id="app-consultation" /><label for="app-consultation" class="list-item-label">Custom App Consultation</label></span>
             </span>
         </span>
 
         <div class="selectbox js-select">
-            <input class="selectbox-input js-select-holder" type="text" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¨Ù…ÙŠØ²Ø§Ù†ÙŠØªÙƒ Ø§Ù„ØªÙ‚Ø±ÙŠØ¨ÙŠØ©" value="" readonly name="budget" />
+            <input class="selectbox-input js-select-holder" type="text" placeholder="أخبرنا بميزانيتك التقريبية" value="" readonly name="budget" />
             <div class="selectbox-suffix">
                 <svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
             </div>
             <div class="select js-select-list">
-                <div class="select-option js-select-option">Ø¨Ø¯Ø¡Ø§Ù‹ Ù…Ù† $100</div>
-                <div class="select-option js-select-option">Ù…Ù† $500 Ø¥Ù„Ù‰ $5,000</div>
-                <div class="select-option js-select-option">Ù…Ù† $5,000 Ø¥Ù„Ù‰ $20,000</div>
-                <div class="select-option js-select-option">Ù…Ù† $20,000 Ø¥Ù„Ù‰ $50,000</div>
-                <div class="select-option js-select-option">Ø£ÙƒØ«Ø± Ù…Ù† $100,000</div>
+                <div class="select-option js-select-option">بدءاً من $100</div>
+                <div class="select-option js-select-option">من $500 إلى $5,000</div>
+                <div class="select-option js-select-option">من $5,000 إلى $20,000</div>
+                <div class="select-option js-select-option">من $20,000 إلى $50,000</div>
+                <div class="select-option js-select-option">أكثر من $100,000</div>
             </div>
         </div>
     </div>
@@ -1835,7 +1835,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <!-- Hidden fields stay same -->
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Ø¥Ø±Ø³Ø§Ù„" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="إرسال" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1851,12 +1851,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="inner-wrapper">
                 <div class="section-caption js-aos">
                     <div class="section-caption_text">
-                        <h2>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Expertise</h2>
+                        <h2>تطوير التطبيقات Expertise</h2>
                     </div>
                 </div>
                 <div class="textbox textbox__push js-aos appear">
                     <div class="textbox-content">
-                        Aenfinite delivers end-to-end ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ and business growth.
+                        Aenfinite delivers end-to-end تطوير التطبيقات solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your التحول الرقمي and business growth.
                     </div>
                 </div>
             </div>
@@ -1864,30 +1864,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="panes">
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Custom Mobile ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</div>
+                <div class="pane-title">Custom Mobile تطوير التطبيقات</div>
                 <div class="pane-subtitle">
                     <p>We build fully customized mobile applications tailored to your business needs. From concept to deployment, our team crafts native iOS, Android, and hybrid apps that are secure, scalable, and performance-optimized.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">ØªØµÙ…ÙŠÙ… UI/UX for Apps</div>
+                <div class="pane-title">تصميم UI/UX for Apps</div>
                 <div class="pane-subtitle">
                     <p>Our design team creates intuitive and engaging app interfaces that deliver a seamless user experience. We focus on usability, accessibility, and brand consistency to ensure your app stands out and keeps users engaged.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">API & Backend Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+                <div class="pane-title">API & Backend التطوير</div>
                 <div class="pane-subtitle">
                     <p>Power your applications with secure and scalable backend systems. We specialize in building robust APIs, database architecture, and cloud integrations that ensure smooth functionality and seamless data flow.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Cross-ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</div>
+                <div class="pane-title">Cross-تطوير المنصات</div>
                 <div class="pane-subtitle">
-                    <p>Save time and cost with our cross-platform ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
+                    <p>Save time and cost with our cross-platform تطوير التطبيقات expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -1913,7 +1913,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</div>
+                <div class="pane-title">الصيانة & Support</div>
                 <div class="pane-subtitle">
                     <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
@@ -1933,7 +1933,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Process</h2>
+                    <h2>تطوير التطبيقات Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>Our team designs a scalable architecture for your app, defining database structures, APIs, and backend workflows. We ensure the solution is secure, maintainable, and optimized for performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-                            <span>Ø§Ù„ØªØ·ÙˆÙŠØ± Roadmap</span>
+                            <span>التطوير Roadmap</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-3">
                             <p>We create a clear roadmap with milestones, sprints, and timelines. This keeps you informed throughout the development cycle and ensures alignment with your business objectives.</p>
@@ -1992,9 +1992,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-content js-switch-copy"></div>
                 </div>
 
-                <!-- Ø§Ù„ØªØ·ÙˆÙŠØ± -->
+                <!-- التطوير -->
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</div>
+                    <div class="nlist-caption">تطوير التطبيقات</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
                             <span>Backend & API</span>
@@ -2030,7 +2030,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-caption">Support</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>Ø§Ù„ØµÙŠØ§Ù†Ø© & Updates</span>
+                            <span>الصيانة & Updates</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-4-1">
                             <p>We provide ongoing support, regular updates, and security patches to keep your app running smoothly and up-to-date.</p>
@@ -2061,7 +2061,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</span> is the perfect blend of technical expertise and user-focused design. Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">تطوير التطبيقات</span> is the perfect blend of technical expertise and user-focused design. الأعمال with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2072,7 +2072,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+                    <h2>Aenfinite تطوير التطبيقات الخدمات</h2>
                 </div>
             </div>
             <div class="service-grid">
@@ -2080,7 +2080,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="service-list js-service-container fadein js-aos">
 
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</div>
+                            <div class="service-caption js-service-caption">Custom تطوير التطبيقات</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2096,7 +2096,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="service-text">
                                     <p>We build robust, scalable, and high-performance mobile and web applications tailored to your business goals and user needs.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our custom ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª process includes:</strong></p>
+                                        <p><strong>Our custom تطوير التطبيقات process includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
                                             <li>Requirement gathering and solution architecture</li>
                                             <li>Custom API and database design</li>
@@ -2116,7 +2116,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">ØªØµÙ…ÙŠÙ… UI/UX</div>
+                            <div class="service-caption js-service-caption">تصميم UI/UX</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2182,7 +2182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">App Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</div>
+                            <div class="service-caption js-service-caption">App الصيانة & Support</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2231,8 +2231,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Ù‡Ù„ Ù„Ø¯ÙŠÙƒ Ù…Ø´Ø±ÙˆØ¹ ÙÙŠ Ø°Ù‡Ù†ÙƒØŸ Ù„Ù†Ø¨Ù†Ù Ø´ÙŠØ¦Ø§Ù‹ Ø¹Ø¸ÙŠÙ…Ø§Ù‹ Ù…Ø¹Ø§Ù‹.</span>
-								<a href="../../contact/" class="redlink">
+								<span>هل لديك مشروع في ذهنك؟ لنبنِ شيئاً عظيماً معاً.</span>
+								<a href="/ar/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2242,42 +2242,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø´Ø±ÙƒØ©</div>
+								<div class="footer-col_caption">الشركة</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+								<div class="footer-col_caption">الخدمات</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">العلامات التجارية</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ØªÙˆØ§ØµÙ„</div>
+								<div class="footer-col_caption">تواصل</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø¥Ø­Ø§Ù„Ø©</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Ø®Ø¯Ù…Ø§Øª GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/white-label-services/">خدمات العلامة البيضاء</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/referral-program/">برنامج الإحالة</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/ghl-services/">خدمات GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ar/contact/">اتصل بنا</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+								<div class="footer-col_caption">العنوان</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2332,15 +2332,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">Ø£Ø±Ø³Ù„ Ù„Ù†Ø§ Ø¨Ø±ÙŠØ¯Ø§Ù‹ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ§Ù‹</a>
+							<a class="menu-contact" href="/ar/contact/">اتصل بنا</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">أرسل لنا بريداً إلكترونياً</a>
 						</div>
 					</div>
 				</div>
@@ -2348,14 +2348,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Ù…Ø´Ø±ÙˆØ¹ Ø¬Ø¯ÙŠØ¯ØŸ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹</a>
+				<a href="/ar/contact/" class="to-contact">مشروع جديد؟</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">حدد موعد اجتماع</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹Ùƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠ</h3>
+			<h3>حدد موعد اجتماعك التجاري</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2593,11 +2593,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Ù†Ø³ØªØ®Ø¯Ù… Ù…Ù„ÙØ§Øª ØªØ¹Ø±ÙŠÙ Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø· Ù„ØªØ­Ø³ÙŠÙ† ØªØ¬Ø±Ø¨ØªÙƒ. Ø¨Ø§Ù„Ù†Ù‚Ø± Ø¹Ù„Ù‰ Ù‚Ø¨ÙˆÙ„ Ø£Ùˆ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØµÙØ­ØŒ ÙØ¥Ù†Ùƒ ØªÙˆØ§ÙÙ‚ Ø¹Ù„Ù‰
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</a>.
+						نستخدم ملفات تعريف الارتباط لتحسين تجربتك. بالنقر على قبول أو متابعة التصفح، فإنك توافق على
+						<a href="/ar/privacy-policy/" class="cookie-banner__link" target="_blank">سياسة الخصوصية</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">Ù‚Ø¨ÙˆÙ„</button>
+				<button class="cookie-banner__button">قبول</button>
 			</div>
 		</div>
 
@@ -2659,11 +2659,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2727,7 +2727,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2757,28 +2757,28 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/app-development/#webpage",
       "url": "https://aenfinite.com/services/app-development/",
-      "name": "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Mobile & Web Application Experts | Aenfinite",
-      "description": "Aenfinite provides professional ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
+      "name": "تطوير التطبيقات الخدمات | Mobile & Web Application Experts | Aenfinite",
+      "description": "Aenfinite provides professional تطوير التطبيقات services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
       "inLanguage":"ar-SA",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª", "item": "https://aenfinite.com/services/app-development/" }
+          { "@type": "ListItem", "position": 2, "name": "الخدمات", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 3, "name": "تطوير التطبيقات", "item": "https://aenfinite.com/services/app-development/" }
         ]
       }
     },
     {
       "@type": "Service",
-      "serviceType": "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª",
+      "serviceType": "تطوير التطبيقات",
       "provider": { "@id": "https://aenfinite.com/#organization" },
       "areaServed": {
         "@type": "Place",
         "name": "Denver, Colorado"
       },
-      "description": "Custom mobile and web ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
+      "description": "Custom mobile and web تطوير التطبيقات, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
     }
   ]
 }` }}
@@ -2811,11 +2811,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2854,13 +2854,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "الخدمات",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "تطوير التطبيقات الخدمات",
       "item": "https://aenfinite.com/services/app-development/"
     }
   ]

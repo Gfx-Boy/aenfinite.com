@@ -91,69 +91,84 @@ const nextConfig: NextConfig = {
         destination: '/cities/san-diego-ca/web-design-marketing-agency/',
         permanent: true,
       },
-      // Work Ansu case fix
-      {
-        source: '/work/Ansu/',
-        destination: '/work/ansu/',
-        permanent: true,
-      },
-      // Work case-sensitive fixes
-      {
-        source: '/work/Cimeo-Vision/',
-        destination: '/work/cimeo-vision/',
-        permanent: true,
-      },
-      {
-        source: '/work/Fiscoclic/',
-        destination: '/work/fiscoclic/',
-        permanent: true,
-      },
-      {
-        source: '/work/Global-Design-Solution/',
-        destination: '/work/global-design-solution/',
-        permanent: true,
-      },
-      {
-        source: '/work/Husnohaya/',
-        destination: '/work/husnohaya/',
-        permanent: true,
-      },
-      {
-        source: '/work/Neocert/',
-        destination: '/work/neocert/',
-        permanent: true,
-      },
-      {
-        source: '/work/Neurolinker/',
-        destination: '/work/neurolinker/',
-        permanent: true,
-      },
-      {
-        source: '/work/Olly/',
-        destination: '/work/olly/',
-        permanent: true,
-      },
-      {
-        source: '/work/RoboPhil/',
-        destination: '/work/robophil/',
-        permanent: true,
-      },
-      // Services case-sensitive and old URL fixes
-      {
-        source: '/services/Custom-Web-Development/',
-        destination: '/services/custom-web-development/',
-        permanent: true,
-      },
-      {
-        source: '/services/Pay-per-click/',
-        destination: '/services/pay-per-click/',
-        permanent: true,
-      },
+      // NOTE: case-fix redirects (e.g. /work/Olly/ -> /work/olly/) were removed.
+      // Next.js matches redirect sources case-INsensitively, so each of those
+      // rules also matched its own destination and caused an infinite 308 loop,
+      // making the pages unreachable. Case normalization now lives in middleware.ts.
+      // Services old URL fixes
       {
         source: '/services/website-design/',
         destination: '/services/web-design/',
         permanent: true,
       },
+      // Services that never existed -> closest real page (old SEO/external links)
+      {
+        source: '/services/motion-graphics/',
+        destination: '/services/graphic-design/',
+        permanent: true,
+      },
+      {
+        source: '/services/print-design/',
+        destination: '/services/graphic-design/',
+        permanent: true,
+      },
+      {
+        source: '/services/3d-design/',
+        destination: '/services/graphic-design/',
+        permanent: true,
+      },
+      {
+        source: '/services/photography/',
+        destination: '/services/graphic-design/',
+        permanent: true,
+      },
+      {
+        source: '/services/video-production/',
+        destination: '/services/graphic-design/',
+        permanent: true,
+      },
+      {
+        source: '/services/social-media-design/',
+        destination: '/services/social-media-marketing/',
+        permanent: true,
+      },
+      {
+        source: '/services/custom-development/',
+        destination: '/services/custom-web-development/',
+        permanent: true,
+      },
+      // Renamed work item
+      {
+        source: '/work/afropop/',
+        destination: '/work/afropopup/',
+        permanent: true,
+      },
+      // Old top-level partner-with-us URLs
+      {
+        source: '/partner-with-us/:path*',
+        destination: '/agency/partner-with-us/:path*',
+        permanent: true,
+      },
+      // Blog posts that were never migrated -> blog index
+      {
+        source: '/blog/:slug+',
+        destination: '/blog/',
+        permanent: false,
+      },
+      // Legacy URLs still in Google's index (from old site versions)
+      { source: '/about', destination: '/agency/', permanent: true },
+      { source: '/portfolio', destination: '/featured-work/', permanent: true },
+      { source: '/privacy', destination: '/privacy-policy/', permanent: true },
+      { source: '/terms', destination: '/privacy-policy/', permanent: true },
+      { source: '/sitemap', destination: '/sitemap.xml', permanent: true },
+      { source: '/Aenfinite', destination: '/', permanent: true },
+      { source: '/services/e-commerce', destination: '/services/e-commerce-websites/', permanent: true },
+      { source: '/services/web-development', destination: '/services/custom-web-development/', permanent: true },
+      { source: '/services/mobile-development', destination: '/services/app-development/', permanent: true },
+      { source: '/services/seo', destination: '/services/search-engine-optimization/', permanent: true },
+      { source: '/services/content-creation', destination: '/services/digital-marketing/', permanent: true },
+      { source: '/work/global-design-solutions/', destination: '/work/global-design-solution/', permanent: true },
+      { source: '/work/services/', destination: '/services/', permanent: true },
     ];
   },
 

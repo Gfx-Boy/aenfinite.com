@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª | Enterprise Solutions | Aenfinite",
-  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ and business growth.",
-  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ, Aenfinite",
+  title: "Professional تطوير البرمجيات والمنصات | Enterprise Solutions",
+  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives التحول الرقمي and business growth.",
+  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, التحول الرقمي, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/services/software-and-platform-development/", languages: {"x-default":"https://aenfinite.com/services/software-and-platform-development/","en":"https://aenfinite.com/services/software-and-platform-development/","es":"https://aenfinite.com/es/services/software-and-platform-development/","fr":"https://aenfinite.com/fr/services/software-and-platform-development/","de":"https://aenfinite.com/de/services/software-and-platform-development/","it":"https://aenfinite.com/it/services/software-and-platform-development/","ar":"https://aenfinite.com/ar/services/software-and-platform-development/","pt":"https://aenfinite.com/pt/services/software-and-platform-development/","zh":"https://aenfinite.com/zh/services/software-and-platform-development/","hi":"https://aenfinite.com/hi/services/software-and-platform-development/","nl":"https://aenfinite.com/nl/services/software-and-platform-development/","ja":"https://aenfinite.com/ja/services/software-and-platform-development/","ko":"https://aenfinite.com/ko/services/software-and-platform-development/"} },
-  openGraph: {"title":"Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, we power Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ.","url":"https://aenfinite.com/ar/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Professional تطوير البرمجيات والمنصات | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable تطوير التطبيقات, we power التحول الرقمي.","url":"https://aenfinite.com/ar/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional تطوير البرمجيات والمنصات | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for التحول الرقمي.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a>
+								<a href="/ar/featured-work/">الأعمال</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a>
+								<a href="/ar/agency/">الوكالة</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+                                <a href="/ar/services/">الخدمات</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± â€º</a>
+										<a href="#">حلول التطوير ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-											<li><a href="/ar/services/custom-web-development">ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ</a></li>
-											<li><a href="/ar/services/software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-											<li><a href="/ar/services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-											<li><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">Ø­Ù„ÙˆÙ„ Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ø¹Ù‚Ø§Ø±ÙŠØ©</a></li>									</ul>
+											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
+											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ â€º</a>
+										<a href="#">خدمات التصميم والإبداع ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
-											<li><a href="/ar/services/branding/">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ©</a></li>
-											<li><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li> <li><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
+											<li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
+											<li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
 											
-											<li><a href="/ar/services/trade-show-booth-design/">ØªØµÙ…ÙŠÙ… Ø£Ø¬Ù†Ø­Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ø¶ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-											<li><a href="/ar/services/conference-branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ù„Ù„Ù…Ø¤ØªÙ…Ø±Ø§Øª</a></li>
+											<li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
+											<li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© â€º</a>
+										<a href="#">حلول التسويق والحلول الرقمية ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/digital-marketing/">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-											<li><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† Ù…Ø­Ø±ÙƒØ§Øª Ø§Ù„Ø¨Ø­Ø« (SEO)</a></li>
-											<li><a href="/ar/services/pay-per-click">Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ø¯ÙØ¹ Ù„ÙƒÙ„ Ù†Ù‚Ø±Ø© (PPC)</a></li>
-											<li><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></li> <li><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></li>
+											<li><a href="/ar/services/digital-marketing/">استراتيجية التسويق الرقمي</a></li>
+											<li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
+											<li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
+											<li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ â€º</a>
+										<a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ai-chatbots-&-virtual-assistants/">Ø±ÙˆØ¨ÙˆØªØ§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒÙŠØ© ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯ÙˆÙ† Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠÙˆÙ†</a></li>
-											<li><a href="/ar/services/workflow-&-business-automation/">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
+											<li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
+											<li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - شاركنا العمل Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from Ø§Ù„Ø®Ø¯Ù…Ø§Øª menu - adaptive styling */
+/* Main dropdown from الخدمات menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ar/contact/" class="topbar-contact_button">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+						<a href="/ar/contact/" class="topbar-contact_button">اتصل بنا</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Ø¥Ø°Ø§ Ù„Ù… ØªØ¬Ø¯ Ø§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„ØªÙŠ ØªØ­ØªØ§Ø¬Ù‡Ø§ØŒ Ø§ÙƒØªØ¨ Ø¥Ù„ÙŠÙ†Ø§ ÙˆØ³Ù†Ø¬Ø¯ Ø­Ù„Ø§Ù‹ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							إذا لم تجد الخدمة التي تحتاجها، اكتب إلينا وسنجد حلاً <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1314,7 +1314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="header-wrapper">
                   				<div class="title title__main js-header-title">
 					<h1>
-						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Ø§Ù„ØªØ·ÙˆÙŠØ±</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ.</span>
+						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">التطوير</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives التحول الرقمي.</span>
 													
 											</h1>
 									</div>
@@ -1352,18 +1352,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª</span>
+    <span class="marquee-line_text">Professional تطوير البرمجيات والمنصات الخدمات</span>
     <span class="marquee-line_text">Enterprise Architecture, System Integration & Optimization</span>
-    <span class="marquee-line_text">Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ ÙˆØ®Ø§Ø±Ø¬Ù‡Ø§</span>
-    <span class="marquee-line_text">Specialists in Software Performance & ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for Software Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ±</span>
-    <span class="marquee-line_text">High-Performance ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª & Security</span>
+    <span class="marquee-line_text">خدمة العملاء عبر الولايات المتحدة وكندا وخارجها</span>
+    <span class="marquee-line_text">Specialists in Software Performance & تجربة المستخدم</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Software حلول التطوير</span>
+    <span class="marquee-line_text">High-Performance تطوير البرمجيات & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª Ø§Ù„ÙˆÙƒØ§Ù„Ø© with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Software Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</span>
-    <span class="marquee-line_text">Custom Software Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± for Every Industry</span>
+    <span class="marquee-line_text">Professional تطوير البرمجيات الوكالة with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Software الصيانة & Support</span>
+    <span class="marquee-line_text">Custom Software حلول التطوير for Every Industry</span>
     <span class="marquee-line_text">Software Performance Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable تطوير البرمجيات & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1371,16 +1371,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/khatech/" class="shiftbox-link"> </a>
+									<a href="/ar/work/khatech/">
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software تطوير المنصات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech - Technology Platform</a></div>
-																																		<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/khatech/">KhaTech - Technology Platform</a></div>
+																																		<div class="preview-name">تطوير البرمجيات</div>
 																							<div class="preview-name">Platform Architecture</div>
 																							<div class="preview-name">API Integration</div>
 																							<div class="preview-name">User Management</div>
@@ -1393,16 +1393,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/algopros/">
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/algopros/" class="shiftbox-link"> </a>
+									<a href="/ar/work/algopros/">
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm تطوير المنصات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/algopros/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/algopros/">Algopros - Algorithm Platform</a></div>
-																																		<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/algopros/">Algopros - Algorithm Platform</a></div>
+																																		<div class="preview-name">تطوير المنصات</div>
 																							<div class="preview-name">Algorithm Integration</div>
 																							<div class="preview-name">Data Processing</div>
 																							<div class="preview-name">Analytics Dashboard</div>
@@ -1415,18 +1415,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/blue-vine-marketing/">
+									<a href="/ar/work/blue-vine-marketing/">
 										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/blue-vine-marketing/" class="shiftbox-link"> </a>
+									    <a href="/ar/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
 																																		<div class="preview-name">Business Software</div>
 																							<div class="preview-name">CRM Integration</div>
-																							<div class="preview-name">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„</div>
+																							<div class="preview-name">أتمتة سير العمل</div>
 																							<div class="preview-name">Lead Management</div>
 																							<div class="preview-name">Analytics Platform</div>
 																					</div>
@@ -1437,18 +1437,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/ar/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software تطوير المنصات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Neural Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/neurolinker/">Neurolinker - Neural Platform</a></div>
 																																		<div class="preview-name">Neural Software</div>
 																							<div class="preview-name">AI Integration</div>
-																							<div class="preview-name">ØªØ­Ù„ÙŠÙ„ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª</div>
+																							<div class="preview-name">تحليل البيانات</div>
 																							<div class="preview-name">Machine Learning</div>
 																							<div class="preview-name">Platform Architecture</div>
 																					</div>
@@ -1459,17 +1459,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/ar/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App تطوير المنصات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Ø§Ù„Ø¹Ø§ÙÙŠØ© Platform</a></div>
-																																		<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</div>
-																							<div class="preview-name">ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/mindfit/">Mindfit - العافية Platform</a></div>
+																																		<div class="preview-name">تطوير التطبيقات</div>
+																							<div class="preview-name">تجربة المستخدم</div>
 																							<div class="preview-name">Health Analytics</div>
 																							<div class="preview-name">Cross-Platform</div>
 																							<div class="preview-name">Data Security</div>
@@ -1481,15 +1481,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									<a href="/ar/work/neocert/">
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification تطوير المنصات" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ar/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">Neocert - Certification Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ar/work/neocert/">Neocert - Certification Platform</a></div>
 																																		<div class="preview-name">Certification Software</div>
 																							<div class="preview-name">Learning Management</div>
 																							<div class="preview-name">Assessment Tools</div>
@@ -1513,7 +1513,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª services that create powerful, scalable enterprise solutions and drive Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional تطوير البرمجيات والمنصات services that create powerful, scalable enterprise solutions and drive التحول الرقمي. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/ar/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1567,7 +1567,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª Case Studies</h2>
+						<h2>Aenfinite تطوير البرمجيات والمنصات Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1575,14 +1575,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/khatech/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software تطوير المنصات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/khatech/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/khatech/">KhaTech</a>
+											<a href="/ar/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</div>
+																					<div class="preview-name">تطوير البرمجيات</div>
 																					<div class="preview-name">Platform Architecture</div>
 																					<div class="preview-name">API Integration</div>
 																					<div class="preview-name">User Management</div>
@@ -1594,14 +1594,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/algopros/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm تطوير المنصات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/algopros/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/algopros/">Algopros</a>
+											<a href="/ar/work/algopros/">Algopros</a>
 										</div>
-																					<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</div>
+																					<div class="preview-name">تطوير المنصات</div>
 																					<div class="preview-name">Algorithm Integration</div>
 																					<div class="preview-name">Data Processing</div>
 																					<div class="preview-name">Analytics Dashboard</div>
@@ -1614,15 +1614,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/blue-vine-marketing/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<div class="preview-action"><a href="/ar/work/blue-vine-marketing/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a>
+											<a href="/ar/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
 																					<div class="preview-name">Business Software</div>
 																					<div class="preview-name">CRM Integration</div>
-																					<div class="preview-name">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„</div>
+																					<div class="preview-name">أتمتة سير العمل</div>
 																					<div class="preview-name">Lead Management</div>
 																					<div class="preview-name">Analytics Platform</div>
 											
@@ -1632,16 +1632,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software تطوير المنصات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/neurolinker/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker</a>
+											<a href="/ar/work/neurolinker/">Neurolinker</a>
 										</div>
 																					<div class="preview-name">Neural Software</div>
 																					<div class="preview-name">AI Integration</div>
-																					<div class="preview-name">ØªØ­Ù„ÙŠÙ„ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª</div>
+																					<div class="preview-name">تحليل البيانات</div>
 																					<div class="preview-name">Machine Learning</div>
 																					<div class="preview-name">Platform Architecture</div>
 											
@@ -1651,15 +1651,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App تطوير المنصات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/mindfit/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit</a>
+											<a href="/ar/work/mindfit/">Mindfit</a>
 										</div>
-																					<div class="preview-name">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</div>
-																					<div class="preview-name">ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…</div>
+																					<div class="preview-name">تطوير التطبيقات</div>
+																					<div class="preview-name">تجربة المستخدم</div>
 																					<div class="preview-name">Health Analytics</div>
 																					<div class="preview-name">Cross-Platform</div>
 																					<div class="preview-name">Data Security</div>
@@ -1670,12 +1670,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø´Ø±ÙˆØ¹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification تطوير المنصات" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ar/work/neocert/" class="not-index">عرض المشروع</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">Neocert</a>
+											<a href="/ar/work/neocert/">Neocert</a>
 										</div>
 																					<div class="preview-name">Certification Software</div>
 																					<div class="preview-name">Learning Management</div>
@@ -1689,8 +1689,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
-						<span>Ø¹Ø±Ø¶ Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹</span>
+					<a href="/ar/work/mobile-apps/" class="redlink">
+						<span>عرض جميع المشاريع</span>
 					</a>
 				</div>
 			</div>
@@ -1701,12 +1701,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Ø§ØªØµÙ„ Ø¨Ù†Ø§ Aenfinite for ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</h2>
+				<h2>اتصل بنا Aenfinite for تطوير البرمجيات والمنصات</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="Ø§ØªØµÙ„ Ø¨Ù†Ø§ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="اتصل بنا form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1719,72 +1719,72 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Ø§Ø³Ù…Ùƒ*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="اسمك*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Ø¨Ø±ÙŠØ¯Ùƒ Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠ*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="بريدك الإلكتروني*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your software or platform project" value="" type="text" name="text-tell-project" />
 		</span>
 	</div>
 	<div class="checkbox-select">
-		<strong>Ø£Ù†Ø§ Ù…Ù‡ØªÙ… Ø¨Ù€...</strong>
+		<strong>أنا مهتم بـ...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="Custom ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª" id="custom-software" />
-					<label for="custom-software" class="list-item-label">Custom ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</label>
+					<input type="checkbox" name="services" value="Custom تطوير البرمجيات" id="custom-software" />
+					<label for="custom-software" class="list-item-label">Custom تطوير البرمجيات</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Web ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª" id="web-platform" />
-					<label for="web-platform" class="list-item-label">Web ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</label>
+					<input type="checkbox" name="services" value="Web تطوير المنصات" id="web-platform" />
+					<label for="web-platform" class="list-item-label">Web تطوير المنصات</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="SaaS Ø§Ù„ØªØ·ÙˆÙŠØ±" id="saas-development" />
-					<label for="saas-development" class="list-item-label">SaaS Ø§Ù„ØªØ·ÙˆÙŠØ±</label>
+					<input type="checkbox" name="services" value="SaaS التطوير" id="saas-development" />
+					<label for="saas-development" class="list-item-label">SaaS التطوير</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="API Ø§Ù„ØªØ·ÙˆÙŠØ± & Integrations" id="api-development" />
-					<label for="api-development" class="list-item-label">API Ø§Ù„ØªØ·ÙˆÙŠØ± & Integrations</label>
+					<input type="checkbox" name="services" value="API التطوير & Integrations" id="api-development" />
+					<label for="api-development" class="list-item-label">API التطوير & Integrations</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Cloud Platform Solutions" id="cloud-platform" />
 					<label for="cloud-platform" class="list-item-label">Cloud Platform Solutions</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ØªØµÙ…ÙŠÙ… UI/UX for Platforms" id="uiux-platform" />
-					<label for="uiux-platform" class="list-item-label">ØªØµÙ…ÙŠÙ… UI/UX for Platforms</label>
+					<input type="checkbox" name="services" value="تصميم UI/UX for Platforms" id="uiux-platform" />
+					<label for="uiux-platform" class="list-item-label">تصميم UI/UX for Platforms</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="System Modernization & Migration" id="system-migration" />
 					<label for="system-migration" class="list-item-label">System Modernization & Migration</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="Ø£Ø®Ø±Ù‰ Custom Solutions" id="other" />
-					<label for="other" class="list-item-label">Ø£Ø®Ø±Ù‰ Custom Solutions</label>
+					<input type="checkbox" name="services" value="أخرى Custom Solutions" id="other" />
+					<label for="other" class="list-item-label">أخرى Custom Solutions</label>
 				</span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="Ø£Ø®Ø¨Ø±Ù†Ø§ Ø¨Ù…ÙŠØ²Ø§Ù†ÙŠØªÙƒ Ø§Ù„ØªÙ‚Ø±ÙŠØ¨ÙŠØ©" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="أخبرنا بميزانيتك التقريبية" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-				<div class="select-option js-select-option">Ø¨Ø¯Ø¡Ø§Ù‹ Ù…Ù† $100</div>
-				<div class="select-option js-select-option">Ù…Ù† $500 Ø¥Ù„Ù‰ $5,000</div>
-				<div class="select-option js-select-option">Ù…Ù† $5,000 Ø¥Ù„Ù‰ $20,000</div>
-				<div class="select-option js-select-option">Ù…Ù† $20,000 Ø¥Ù„Ù‰ $50,000</div>
-				<div class="select-option js-select-option">Ø£ÙƒØ«Ø± Ù…Ù† $100,000</div>
+				<div class="select-option js-select-option">بدءاً من $100</div>
+				<div class="select-option js-select-option">من $500 إلى $5,000</div>
+				<div class="select-option js-select-option">من $5,000 إلى $20,000</div>
+				<div class="select-option js-select-option">من $20,000 إلى $50,000</div>
+				<div class="select-option js-select-option">أكثر من $100,000</div>
 			</div>
 		</div>
 	</div>
 </div>
 <!-- hidden tracking fields remain unchanged -->
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Ø¥Ø±Ø³Ø§Ù„" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="إرسال" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1800,7 +1800,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª Expertise</h2>
+						<h2>تطوير البرمجيات والمنصات Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1813,7 +1813,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="panes">
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</div>
+				<div class="pane-title">Custom تطوير البرمجيات</div>
 				<div class="pane-subtitle">
 					<p>We design and develop bespoke software tailored to your exact business needs. Our expert developers create scalable, secure, and maintainable applications that automate workflows and drive operational efficiency.</p>
 				</div>
@@ -1821,7 +1821,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Web & Mobile ØªØ·ÙˆÙŠØ± Ø§Ù„Ù…Ù†ØµØ§Øª</div>
+				<div class="pane-title">Web & Mobile تطوير المنصات</div>
 				<div class="pane-subtitle">
 					<p>Build powerful, user-friendly platforms with Aenfinite. We create responsive web portals, mobile apps, and cross-platform solutions that deliver a seamless experience for users and administrators alike.</p>
 				</div>
@@ -1829,7 +1829,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">API Ø§Ù„ØªØ·ÙˆÙŠØ± & System Integration</div>
+				<div class="pane-title">API التطوير & System Integration</div>
 				<div class="pane-subtitle">
 					<p>Enable smooth communication between your systems with custom API development. We integrate third-party services, connect internal tools, and ensure your platform ecosystem works as one cohesive solution.</p>
 				</div>
@@ -1877,7 +1877,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… & Interface Design</div>
+				<div class="pane-title">تجربة المستخدم & Interface Design</div>
 				<div class="pane-subtitle">
 					<p>Deliver intuitive, engaging user experiences with our UI/UX design services. We craft clean interfaces and seamless user flows to maximize adoption and satisfaction.</p>
 				</div>
@@ -1891,7 +1891,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª Process</h2>
+                    <h2>تطوير البرمجيات Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1922,7 +1922,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">ØªØµÙ…ÙŠÙ… UI/UX</div>
+                    <div class="nlist-caption">تصميم UI/UX</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
                             <span>Wireframing & Prototyping</span>
@@ -1931,7 +1931,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>We create detailed wireframes and interactive prototypes to visualize how users will navigate and interact with your software. This ensures we build with clarity and user needs in mind.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-                            <span>ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Design</span>
+                            <span>تجربة المستخدم Design</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-2-2">
                             <p>Our UX team optimizes every screen and interaction for usability and accessibility, ensuring your platform is intuitive, efficient, and enjoyable for users.</p>
@@ -1948,10 +1948,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">Ø§Ù„ØªØ·ÙˆÙŠØ± & Testing</div>
+                    <div class="nlist-caption">التطوير & Testing</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-                            <span>Agile Ø§Ù„ØªØ·ÙˆÙŠØ±</span>
+                            <span>Agile التطوير</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
                             <p>Our engineers follow agile methodologies, delivering software in sprints. We focus on writing clean, maintainable code and implementing the latest technologies for scalability and performance.</p>
@@ -1983,7 +1983,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-caption">Support & Growth</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>Ongoing Ø§Ù„ØµÙŠØ§Ù†Ø©</span>
+                            <span>Ongoing الصيانة</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-4-1">
                             <p>We provide continuous monitoring, bug fixes, security updates, and feature enhancements to keep your platform running efficiently.</p>
@@ -2013,7 +2013,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</span> is the perfect blend of technical innovation and strategic planning. Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and Ø§Ù„ØªØ­ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠ.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">تطوير البرمجيات والمنصات</span> is the perfect blend of technical innovation and strategic planning. الأعمال with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and التحول الرقمي.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2024,16 +2024,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+                    <h2>Aenfinite تطوير البرمجيات والمنصات الخدمات</h2>
                 </div>
             </div>
             <div class="service-grid">
                 <div>
                     <div class="service-list js-service-container fadein js-aos">
                         
-                        <!-- Custom ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª -->
+                        <!-- Custom تطوير البرمجيات -->
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</div>
+                            <div class="service-caption js-service-caption">Custom تطوير البرمجيات</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2041,7 +2041,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Cloud Applications</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">APIs</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Microservices</a></div>
-                                        <div class="chip"><a href="/ar/contact/" class="chip-label">Ø§Ù„Ø£ØªÙ…ØªØ©</a></div>
+                                        <div class="chip"><a href="/ar/contact/" class="chip-label">الأتمتة</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Custom Dashboards</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Scalable Architecture</a></div>
                                     </div>
@@ -2104,16 +2104,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             </div>
                         </div>
 
-                        <!-- API & ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª -->
+                        <!-- API & تطوير الإضافات -->
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">API & ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª</div>
+                            <div class="service-caption js-service-caption">API & تطوير الإضافات</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">REST & GraphQL APIs</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Third-Party Integrations</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Webhooks</a></div>
-                                        <div class="chip"><a href="/ar/contact/" class="chip-label">Ø§Ù„Ø£ØªÙ…ØªØ© Scripts</a></div>
+                                        <div class="chip"><a href="/ar/contact/" class="chip-label">الأتمتة Scripts</a></div>
                                         <div class="chip"><a href="/ar/contact/" class="chip-label">Custom Plugins</a></div>
                                     </div>
                                 </div>
@@ -2139,9 +2139,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             </div>
                         </div>
 
-                        <!-- Ø§Ù„ØµÙŠØ§Ù†Ø© & Support -->
+                        <!-- الصيانة & Support -->
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">Ongoing Ø§Ù„ØµÙŠØ§Ù†Ø© & Support</div>
+                            <div class="service-caption js-service-caption">Ongoing الصيانة & Support</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2193,8 +2193,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Ù‡Ù„ Ù„Ø¯ÙŠÙƒ Ù…Ø´Ø±ÙˆØ¹ ÙÙŠ Ø°Ù‡Ù†ÙƒØŸ Ù„Ù†Ø¨Ù†Ù Ø´ÙŠØ¦Ø§Ù‹ Ø¹Ø¸ÙŠÙ…Ø§Ù‹ Ù…Ø¹Ø§Ù‹.</span>
-								<a href="../../contact/" class="redlink">
+								<span>هل لديك مشروع في ذهنك؟ لنبنِ شيئاً عظيماً معاً.</span>
+								<a href="/ar/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2204,42 +2204,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø´Ø±ÙƒØ©</div>
+								<div class="footer-col_caption">الشركة</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+								<div class="footer-col_caption">الخدمات</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">العلامات التجارية</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ØªÙˆØ§ØµÙ„</div>
+								<div class="footer-col_caption">تواصل</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Ø®Ø¯Ù…Ø§Øª Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø¥Ø­Ø§Ù„Ø©</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Ø®Ø¯Ù…Ø§Øª GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/white-label-services/">خدمات العلامة البيضاء</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/referral-program/">برنامج الإحالة</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/ghl-services/">خدمات GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ar/contact/">اتصل بنا</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+								<div class="footer-col_caption">العنوان</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2294,15 +2294,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">الأعمال</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">Ø£Ø±Ø³Ù„ Ù„Ù†Ø§ Ø¨Ø±ÙŠØ¯Ø§Ù‹ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ§Ù‹</a>
+							<a class="menu-contact" href="/ar/contact/">اتصل بنا</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">أرسل لنا بريداً إلكترونياً</a>
 						</div>
 					</div>
 				</div>
@@ -2310,14 +2310,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Ù…Ø´Ø±ÙˆØ¹ Ø¬Ø¯ÙŠØ¯ØŸ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹</a>
+				<a href="/ar/contact/" class="to-contact">مشروع جديد؟</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">حدد موعد اجتماع</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹Ùƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠ</h3>
+			<h3>حدد موعد اجتماعك التجاري</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2555,11 +2555,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Ù†Ø³ØªØ®Ø¯Ù… Ù…Ù„ÙØ§Øª ØªØ¹Ø±ÙŠÙ Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø· Ù„ØªØ­Ø³ÙŠÙ† ØªØ¬Ø±Ø¨ØªÙƒ. Ø¨Ø§Ù„Ù†Ù‚Ø± Ø¹Ù„Ù‰ Ù‚Ø¨ÙˆÙ„ Ø£Ùˆ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØµÙØ­ØŒ ÙØ¥Ù†Ùƒ ØªÙˆØ§ÙÙ‚ Ø¹Ù„Ù‰
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</a>.
+						نستخدم ملفات تعريف الارتباط لتحسين تجربتك. بالنقر على قبول أو متابعة التصفح، فإنك توافق على
+						<a href="/ar/privacy-policy/" class="cookie-banner__link" target="_blank">سياسة الخصوصية</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">Ù‚Ø¨ÙˆÙ„</button>
+				<button class="cookie-banner__button">قبول</button>
 			</div>
 		</div>
 
@@ -2620,11 +2620,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2688,7 +2688,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2718,7 +2718,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "alternateName": "Aenfinite® - تطوير البرمجيات الوكالة",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ar-SA"
     },
@@ -2727,15 +2727,15 @@ export default function Page() {
       "@id": "https://aenfinite.com/services/software-and-platform-development/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/software-and-platform-development/", "name": "ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª" } }
+        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "الخدمات" } },
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/software-and-platform-development/", "name": "تطوير البرمجيات والمنصات" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage",
       "url": "https://aenfinite.com/services/software-and-platform-development/",
-      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª | Enterprise Solutions | Aenfinite®",
+      "name": "Professional تطوير البرمجيات والمنصات | Enterprise Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2746,9 +2746,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#richSnippet",
-      "headline": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª | Enterprise Solutions | Aenfinite®",
+      "headline": "Professional تطوير البرمجيات والمنصات | Enterprise Solutions | Aenfinite®",
       "description": "Aenfinite® provides full-cycle software and platform development — from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
-      "keywords": "ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª, Platform Architecture, Enterprise Solutions, SaaS Ø§Ù„ØªØ·ÙˆÙŠØ±, API Integration, Digital Transformation, System Architecture",
+      "keywords": "تطوير البرمجيات, Platform Architecture, Enterprise Solutions, SaaS التطوير, API Integration, Digital Transformation, System Architecture",
       "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
@@ -2787,11 +2787,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "Ø§Ù„Ø¥Ø«Ù†ÙŠÙ†",
-					  "Ø§Ù„Ø«Ù„Ø§Ø«Ø§Ø¡",
-					  "Ø§Ù„Ø£Ø±Ø¨Ø¹Ø§Ø¡",
-					  "Ø§Ù„Ø®Ù…ÙŠØ³",
-					  "Ø§Ù„Ø¬Ù…Ø¹Ø©"
+					  "الإثنين",
+					  "الثلاثاء",
+					  "الأربعاء",
+					  "الخميس",
+					  "الجمعة"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2830,13 +2830,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "الخدمات",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª",
+      "name": "Professional تطوير البرمجيات والمنصات",
       "item": "https://aenfinite.com/services/software-and-platform-development/"
     }
   ]

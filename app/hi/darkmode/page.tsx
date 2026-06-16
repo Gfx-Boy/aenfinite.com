@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® – Global Digital à¤à¤œà¥‡à¤‚à¤¸à¥€ for à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO & AI Solutions",
-  description: "Aenfinite® is a global à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤à¤œà¥‡à¤‚à¤¸à¥€ based in Colorado, offering à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, UI/UX, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨, and AI-powered solutions for modern brands worldwide.",
-  keywords: "à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤à¤œà¥‡à¤‚à¤¸à¥€, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, Aenfinite",
+  title: "Aenfinite® – Global Digital एजेंसी for वेब डिज़ाइन, ब्रांडिंग, SEO & AI Solutions",
+  description: "Aenfinite® is a global डिजिटल एजेंसी based in Colorado, offering वेब डिज़ाइन, UI/UX, ब्रांडिंग, SEO, डिजिटल मार्केटिंग, बिज़नेस ऑटोमेशन, and AI-powered solutions for modern brands worldwide.",
+  keywords: "डिजिटल एजेंसी, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX डिज़ाइन, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"Aenfinite® – Global Digital à¤à¤œà¥‡à¤‚à¤¸à¥€ for à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO & AI Solutions","description":"Aenfinite® delivers world-class à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/hi/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital à¤à¤œà¥‡à¤‚à¤¸à¥€ for à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO & AI Solutions","description":"Aenfinite® is a creative à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤à¤œà¥‡à¤‚à¤¸à¥€ offering à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital एजेंसी for वेब डिज़ाइन, ब्रांडिंग, SEO & AI Solutions","description":"Aenfinite® delivers world-class वेब डिज़ाइन, ब्रांडिंग, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/hi/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital एजेंसी for वेब डिज़ाइन, ब्रांडिंग, SEO & AI Solutions","description":"Aenfinite® is a creative डिजिटल एजेंसी offering वेब डिज़ाइन, ब्रांडिंग, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/hi/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
-								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -573,26 +573,26 @@ from &nbsp;the&nbsp;Mile-High City</h1>
   <div class="services-grid">
     <div class="services-caption">
       <div class="section-caption_text">
-        <h2>Our Core à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+        <h2>Our Core सेवाएं</h2>
       </div>
     </div>
 
     <div class="services-list">
 
-      <!-- à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ -->
+      <!-- वेब डिज़ाइन -->
       <div class="servicebox">
         <div class="service active">
           <div class="service-title">
-            <span class="service-name">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span>
+            <span class="service-name">वेब डिज़ाइन</span>
           </div>
           <div class="service-content">
             <div class="service-tags">
               <div class="chips">
-                <div class="chip"><a href="/hi/services/web-design/">à¤²à¥ˆà¤‚à¤¡à¤¿à¤‚à¤— à¤ªà¥‡à¤œ</a></div>
-                <div class="chip"><a href="/hi/services/web-design">à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></div>
-                <div class="chip"><a href="/hi/services/web-design">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></div>
-                <div class="chip"><a href="/hi/services/ui-ux-design/">à¤°à¤¿à¤¸à¥à¤ªà¥‰à¤¨à¥à¤¸à¤¿à¤µ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></div>
-                <div class="chip"><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></div>
+                <div class="chip"><a href="/hi/services/web-design/">लैंडिंग पेज</a></div>
+                <div class="chip"><a href="/hi/services/web-design/">कॉर्पोरेट वेबसाइट</a></div>
+                <div class="chip"><a href="/hi/services/web-design/">कस्टम वेबसाइट डिज़ाइन</a></div>
+                <div class="chip"><a href="/hi/services/ui-ux-design/">रिस्पॉन्सिव डिज़ाइन</a></div>
+                <div class="chip"><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></div>
               </div>
             </div>
             <div class="service-text">
@@ -606,18 +606,18 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ -->
+      <!-- ब्रांडिंग और लोगो डिज़ाइन -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— à¤”à¤° à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span>
+          <span class="service-name">ब्रांडिंग और लोगो डिज़ाइन</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/hi/services/branding/">à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤ªà¤¹à¤šà¤¾à¤¨</a></div>
+              <div class="chip"><a href="/hi/services/branding/">कॉर्पोरेट पहचान</a></div>
               <div class="chip"><a href="/hi/services/logo-design/">Logo Creation</a></div>
-              <div class="chip"><a href="/hi/services/branding/">Re-à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></div>
-              <div class="chip"><a href="/hi/services/conference-branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤¦à¤¿à¤¶à¤¾à¤¨à¤¿à¤°à¥à¤¦à¥‡à¤¶</a></div>
+              <div class="chip"><a href="/hi/services/branding/">Re-ब्रांडिंग</a></div>
+              <div class="chip"><a href="/hi/services/conference-branding/">ब्रांड दिशानिर्देश</a></div>
             </div>
           </div>
           <div class="service-text">
@@ -629,17 +629,17 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— -->
+      <!-- डिजिटल मार्केटिंग -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</span>
+          <span class="service-name">डिजिटल मार्केटिंग</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/hi/services/search-engine-optimization/">SEO à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</a></div>
-              <div class="chip"><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></div>
-              <div class="chip"><a href="/hi/services/paid-ads/">à¤¸à¤¶à¥à¤²à¥à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></div>
+              <div class="chip"><a href="/hi/services/search-engine-optimization/">SEO ऑप्टिमाइज़ेशन</a></div>
+              <div class="chip"><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></div>
+              <div class="chip"><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></div>
               <div class="chip"><a href="/hi/services/pay-per-click/">PPC Advertising</a></div>
             </div>
           </div>
@@ -652,10 +652,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ -->
+      <!-- ई-कॉमर्स वेबसाइट -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</span>
+          <span class="service-name">ई-कॉमर्स वेबसाइट</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -674,16 +674,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ -->
+      <!-- WordPress वेबसाइट -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</span>
+          <span class="service-name">WordPress वेबसाइट</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/hi/services/e-commerce-websites/">Custom Themes</a></div>
-              <div class="chip"><a href="/hi/services/e-commerce-websites/">à¤ªà¥à¤²à¤—à¤‡à¤¨ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></div>
+              <div class="chip"><a href="/hi/services/e-commerce-websites/">प्लगइन डेवलपमेंट</a></div>
               <div class="chip"><a href="/hi/services/e-commerce-websites/">CMS Setup</a></div>
             </div>
           </div>
@@ -696,10 +696,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ -->
+      <!-- ऐप डेवलपमेंट -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span>
+          <span class="service-name">ऐप डेवलपमेंट</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -719,16 +719,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ -->
+      <!-- ग्राफिक डिज़ाइन -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span>
+          <span class="service-name">ग्राफिक डिज़ाइन</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/hi/services/graphic-design/">Social Media à¤—à¥à¤°à¤¾à¤«à¤¿à¤•à¥à¤¸</a></div>
-              <div class="chip"><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></div>
+              <div class="chip"><a href="/hi/services/graphic-design/">Social Media ग्राफिक्स</a></div>
+              <div class="chip"><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></div>
               <div class="chip"><a href="/hi/services/graphic-design/">Print Materials</a></div>
               <div class="chip"><a href="/hi/services/graphic-design/">Pitch Decks</a></div>
             </div>
@@ -742,10 +742,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ -->
+      <!-- पैकेजिंग डिज़ाइन -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span>
+          <span class="service-name">पैकेजिंग डिज़ाइन</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -764,10 +764,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ -->
+      <!-- कस्टम डेवलपमेंट -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span>
+          <span class="service-name">कस्टम डेवलपमेंट</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -813,18 +813,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ब्रांड पहचान" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 – à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ & Logo Collection</div>
+                <div class="card-name">CycleThe6 – ब्रांड पहचान & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨</li>
-                        <li>à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</li>
-                        <li>à¤à¤¥à¤²à¥‡à¤Ÿà¤¿à¤• à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>ब्रांड पहचान</li>
+                        <li>लोगो डिज़ाइन</li>
+                        <li>एथलेटिक ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
@@ -837,18 +837,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ब्रांडिंग" loading="lazy" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume – Luxury Fragrance à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</div>
+                <div class="card-name">Muskfume – Luxury Fragrance ब्रांडिंग</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤²à¤•à¥à¤œà¤¼à¤°à¥€ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
-                        <li>à¤¸à¥Œà¤‚à¤¦à¤°à¥à¤¯ à¤”à¤° à¤•à¥‰à¤¸à¥à¤®à¥‡à¤Ÿà¤¿à¤•à¥à¤¸</li>
-                        <li>à¤«à¥à¤°à¥‡à¤—à¤°à¥‡à¤‚à¤¸ à¤ªà¤¹à¤šà¤¾à¤¨</li>
+                        <li>लक्ज़री ब्रांडिंग</li>
+                        <li>सौंदर्य और कॉस्मेटिक्स</li>
+                        <li>फ्रेगरेंस पहचान</li>
                     </ul>
                 </div>
             </div>
@@ -862,17 +862,17 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil AI Trading Platform" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil – AI Trading Platform & Technology à¤¨à¤µà¤¾à¤šà¤¾à¤°</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology नवाचार</div>
                 <div class="card-tags">
                     <ul>
-                        <li>AI à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®</li>
-                        <li>à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</li>
-                        <li>à¤Ÿà¥‡à¤• à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>AI प्लेटफ़ॉर्म</li>
+                        <li>वेब डेवलपमेंट</li>
+                        <li>टेक ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
@@ -885,8 +885,8 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine मार्केटिंग प्लेटफ़ॉर्म" loading="lazy" decoding="async" />
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -894,9 +894,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®</li>
-                        <li>à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</li>
-                        <li>à¤ªà¥à¤°à¥‹à¤«à¥‡à¤¶à¤¨à¤² à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>मार्केटिंग प्लेटफ़ॉर्म</li>
+                        <li>बिज़नेस डेवलपमेंट</li>
+                        <li>प्रोफेशनल ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
@@ -910,7 +910,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya E-commerce Platform" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -918,9 +918,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</li>
-                        <li>à¤¶à¥‰à¤ªà¤¿à¤‚à¤— à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®</li>
-                        <li>à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ</li>
+                        <li>ई-कॉमर्स डेवलपमेंट</li>
+                        <li>शॉपिंग प्लेटफ़ॉर्म</li>
+                        <li>उपयोगकर्ता अनुभव</li>
                     </ul>
                 </div>
             </div>
@@ -933,18 +933,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros à¤à¤²à¥à¤—à¥‹à¤°à¤¿à¤¥à¤® à¤¸à¤®à¤¾à¤§à¤¾à¤¨" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros एल्गोरिथम समाधान" loading="lazy" decoding="async" />
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros – à¤à¤²à¥à¤—à¥‹à¤°à¤¿à¤¥à¤® à¤¸à¤®à¤¾à¤§à¤¾à¤¨ & à¤Ÿà¥‡à¤• à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</div>
+                <div class="card-name">AlgoPros – एल्गोरिथम समाधान & टेक ब्रांडिंग</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤Ÿà¥‡à¤• à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
-                        <li>à¤à¤²à¥à¤—à¥‹à¤°à¤¿à¤¥à¤® à¤¸à¤®à¤¾à¤§à¤¾à¤¨</li>
-                        <li>à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿà¤…à¤ª à¤ªà¤¹à¤šà¤¾à¤¨</li>
+                        <li>टेक ब्रांडिंग</li>
+                        <li>एल्गोरिथम समाधान</li>
+                        <li>स्टार्टअप पहचान</li>
                     </ul>
                 </div>
             </div>
@@ -958,7 +958,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -966,14 +966,14 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤¸à¥‹à¤¶à¤² à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®</li>
-                        <li>à¤¸à¤¹à¤¯à¥‹à¤— à¤‰à¤ªà¤•à¤°à¤£</li>
-                        <li>à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>सोशल प्लेटफ़ॉर्म</li>
+                        <li>सहयोग उपकरण</li>
+                        <li>क्रिएटिव ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/hi/work/afropop/">View Project</a>
+                <a href="/hi/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -981,18 +981,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤®" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech मार्केटिंग प्लेटफ़ॉर्म" loading="lazy" decoding="async" />
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech – à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® & SaaS Solution</div>
+                <div class="card-name">KhaTech – मार्केटिंग प्लेटफ़ॉर्म & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
-                        <li>à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</li>
-                        <li>B2B à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>प्लेटफ़ॉर्म डेवलपमेंट</li>
+                        <li>B2B ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
@@ -1005,18 +1005,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance à¤¸à¥‡à¤µà¤¾à¤à¤‚" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance सेवाएं" loading="lazy" decoding="async" />
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI – Compliance à¤¸à¥‡à¤µà¤¾à¤à¤‚ & à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤ªà¤¹à¤šà¤¾à¤¨</div>
+                <div class="card-name">AM-KI – Compliance सेवाएं & कॉर्पोरेट पहचान</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤•à¥‰à¤°à¥à¤ªà¥‹à¤°à¥‡à¤Ÿ à¤ªà¤¹à¤šà¤¾à¤¨</li>
-                        <li>Professional à¤¸à¥‡à¤µà¤¾à¤à¤‚</li>
-                        <li>Business à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>कॉर्पोरेट पहचान</li>
+                        <li>Professional सेवाएं</li>
+                        <li>Business ब्रांडिंग</li>
                     </ul>
                 </div>
             </div>
@@ -1029,23 +1029,23 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—" loading="lazy" decoding="async" />
-                <span>à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick क्रिएटिव ब्रांडिंग" loading="lazy" decoding="async" />
+                <span>प्रोजेक्ट देखें</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick – à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – क्रिएटिव ब्रांडिंग & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
-                        <li>à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</li>
+                        <li>क्रिएटिव ब्रांडिंग</li>
                         <li>Artistic Design</li>
                         <li>Brand Excellence</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/hi/work/web-design-&-development/">View Project</a>
+                <a href="/hi/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1097,7 +1097,7 @@ websites &amp; apps on beast mode.</h2>
 												<div class="num-text">
 													<div>
 														successful cases <br class="desktop" />
-in à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ &amp;&nbsp;Apps																											</div>
+in ब्रांडिंग, वेब डिज़ाइन &amp;&nbsp;Apps																											</div>
 												</div>
 											</div>
 										</div>
@@ -1137,14 +1137,14 @@ with clients																											</div>
 				<div class="marquee js-runner">
     <div class="marquee-line js-runner-content">
         <div class="marquee-line_text">Aenfinite Digital Wizards</div>
-        <div class="marquee-line_text">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ & Apps</div>
-        <div class="marquee-line_text">Bold à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— & Design</div>
-        <div class="marquee-line_text">Smart à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨ & AI</div>
+        <div class="marquee-line_text">कस्टम वेबसाइट & Apps</div>
+        <div class="marquee-line_text">Bold ब्रांडिंग & Design</div>
+        <div class="marquee-line_text">Smart ऑटोमेशन & AI</div>
         <div class="marquee-line_text">3D & Motion Experiences</div>
-        <div class="marquee-line_text">Creative + à¤Ÿà¥‡à¤• Synergy</div>
+        <div class="marquee-line_text">Creative + टेक Synergy</div>
         <div class="marquee-line_text">Global Clients, Local Roots</div>
         <div class="marquee-line_text">Made-to-Measure Solutions</div>
-        <div class="marquee-line_text">Shopify & à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ Experts</div>
+        <div class="marquee-line_text">Shopify & ई-कॉमर्स Experts</div>
         <div class="marquee-line_text">Next-Level UX/UI Strategy</div>
         <div class="marquee-line_text">Aenfinite  Ideas Into Reality</div>
     </div>
@@ -1176,7 +1176,7 @@ with clients																											</div>
 						
 <div class="wpcf7" id="wpcf7-f1502-o1" lang="en-US" dir="ltr" data-wpcf7-id="1502">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1502" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1214,7 +1214,7 @@ with clients																											</div>
 </div>
 
 						<div class="footer-grid_address">
-    <div class="footer-title">à¤ªà¤¤à¤¾</div>
+    <div class="footer-title">पता</div>
     <div class="footer-text">
         1500 Grant Street<br />
         Denver, CO 80203<br />
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">à¤•à¤¸à¥à¤Ÿà¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤— &amp; à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></li>
-        <li class="menu-item"><a href="../services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
+        <li class="menu-item"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/custom-web-development/">कस्टम वेबसाइट डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+        <li class="menu-item"><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+        <li class="menu-item"><a href="/hi/services/custom-web-development/">कस्टम डेवलपमेंट</a></li>
+        <li class="menu-item"><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/branding/">ब्रांडिंग &amp; लोगो डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+        <li class="menu-item"><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग</a></li>
+        <li class="menu-item"><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/hi/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/hi/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">
@@ -1736,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "Aenfinite® – Global Digital à¤à¤œà¥‡à¤‚à¤¸à¥€ for à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO & AI Solutions",
-      "description": "Aenfinite® is a global à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤à¤œà¥‡à¤‚à¤¸à¥€ offering creative à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, UI/UX, à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—, SEO, à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital एजेंसी for वेब डिज़ाइन, ब्रांडिंग, SEO & AI Solutions",
+      "description": "Aenfinite® is a global डिजिटल एजेंसी offering creative वेब डिज़ाइन, UI/UX, ब्रांडिंग, SEO, डिजिटल मार्केटिंग, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"hi-IN",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

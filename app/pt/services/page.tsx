@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Web Design & Marketing Digital Serviços | Design de Logotipo & Branding | Aenfinite®",
+  title: "Professional Web Design & Marketing Digital Serviços | Design de Logotipo & Branding",
   description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, serviços de SEO, desenvolvimento de aplicativos, desenvolvimento web personalizado, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
@@ -644,25 +644,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/pt/featured-work/">Portfólio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="../agency/">Agência</a>
+								<a href="/pt/agency/">Agência</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-								<a href="../services/">Serviços</a>
+								<a href="/pt/services/">Serviços</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/pt/services/e-commerce-websites/">Sites de E-Commerce</a></li>
-											<li><a href="/pt/services/custom-web-development">Desenvolvimento Web Personalizado</a></li>
-											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
+											<li><a href="/pt/services/custom-web-development/">Desenvolvimento Web Personalizado</a></li>
+											<li><a href="/pt/services/software-and-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
 											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Serviços de Design e Criação â€º</a>
+										<a href="#">Serviços de Design e Criação ›</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
 											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
@@ -673,11 +673,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais ›</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
 											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
-											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
+											<li><a href="/pt/services/pay-per-click/">Publicidade Pay-Per-Click (PPC)</a></li>
 											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
 
 										</ul>
@@ -685,10 +685,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia ›</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
+											<li><a href="/pt/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
+											<li><a href="/pt/services/workflow-and-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -813,10 +813,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/">Seja Nosso Parceiro</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../contact/" class="topbar-contact_button">Contato</a>
+						<a href="/pt/contact/" class="topbar-contact_button">Contato</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -898,7 +898,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Especialistas em UI/UX, SEO e Marketing de Crescimento</span>
     <span class="marquee-line_text">Confiança de Startups e Empresas Globais</span>
     <span class="marquee-line_text">Equipe Qualificada – React, WordPress, Firebase, Figma</span>
-    <span class="marquee-line_text">Processo de Desenvolvimento Ãgil e Baseado em Dados</span>
+    <span class="marquee-line_text">Processo de Desenvolvimento Ágil e Baseado em Dados</span>
     <span class="marquee-line_text">Agência Global com Raízes no Sudeste Asiático</span>
     <span class="marquee-line_text">Capacitando Negócios com Soluções Escaláveis</span>
     <span class="marquee-line_text">Estratégias Sob Medida para Cada Indústria</span>
@@ -941,7 +941,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   <div class="chips">
                     <div class="chip"><a href="/pt/services/e-commerce-websites/" class="chip-label">E-Commerce</a></div>
                     <div class="chip"><a href="/pt/services/custom-web-development/" class="chip-label">Sites Personalizados</a></div>
-                    <div class="chip"><a href="/pt/services/software-&-platform-development/" class="chip-label">Software e Plataformas</a></div>
+                    <div class="chip"><a href="/pt/services/software-and-platform-development/" class="chip-label">Software e Plataformas</a></div>
                     <div class="chip"><a href="/pt/services/app-development/" class="chip-label">Aplicativos Móveis</a></div>
                     <div class="chip"><a href="/pt/services/web-design/" class="chip-label">Design de Sites</a></div>
                     <div class="chip"><a href="/pt/services/web-design-and-branding-for-real-estate/" class="chip-label">Soluções Imobiliárias</a></div>
@@ -992,7 +992,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   <div class="chips">
                     <div class="chip"><a href="/pt/services/digital-marketing/" class="chip-label">Estratégia de Marketing Digital</a></div>
                     <div class="chip"><a href="/pt/services/search-engine-optimization/" class="chip-label">SEO</a></div>
-                    <div class="chip"><a href="/pt/services/Pay-per-click/" class="chip-label">PPC</a></div>
+                    <div class="chip"><a href="/pt/services/pay-per-click/" class="chip-label">PPC</a></div>
 					 <div class="chip"><a href="/pt/services/paid-ads/" class="chip-label">Anúncios Pagos</a></div>
                     <div class="chip"><a href="/pt/services/social-media-marketing/" class="chip-label">Marketing em Mídias Sociais</a></div>
                   </div>
@@ -1014,12 +1014,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/pt/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots de IA</a></div>
-                    <div class="chip"><a href="/pt/services/workflow-&-business-automation/" class="chip-label">Automação</a></div>
+                    <div class="chip"><a href="/pt/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots de IA</a></div>
+                    <div class="chip"><a href="/pt/services/workflow-and-business-automation/" class="chip-label">Automação</a></div>
                   </div>
                 </div>
                 <div class="service-text">
-                  <p>Fique Ã  frente da curva com nossas soluções alimentadas por IA e ferramentas de automação empresarial. Construímos chatbots, assistentes virtuais e workflows inteligentes que economizam tempo, reduzem custos e escalam operações. A Aenfinite ajuda empresas a abraçar o futuro da tecnologia com facilidade e confiança.</p>
+                  <p>Fique à frente da curva com nossas soluções alimentadas por IA e ferramentas de automação empresarial. Construímos chatbots, assistentes virtuais e workflows inteligentes que economizam tempo, reduzem custos e escalam operações. A Aenfinite ajuda empresas a abraçar o futuro da tecnologia com facilidade e confiança.</p>
                 </div>
                 <div class="service-action">
                   <a href="/pt/contact/" class="redlink">
@@ -1198,7 +1198,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-Criamos soluções de design e tecnologia de alto impacto baseadas em dados que impulsionam o crescimento. Associe-se Ã  Aenfinite para construir, escalar e se destacar.</span>				</div>
+Criamos soluções de design e tecnologia de alto impacto baseadas em dados que impulsionam o crescimento. Associe-se à Aenfinite para construir, escalar e se destacar.</span>				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
@@ -1347,12 +1347,12 @@ Criamos soluções de design e tecnologia de alto impacto baseadas em dados que 
               <div class="preview-media">
                 <img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform - Social Network Design" loading="lazy" decoding="async" />
                 <div class="preview-action">
-                  <a href="/pt/work/afropop/" class="not-index">Ver projeto</a>
+                  <a href="/pt/work/afropopup/" class="not-index">Ver projeto</a>
                 </div>
               </div>
               <div class="preview-content" data-index="07">
                 <div class="preview-name preview-name__caption">
-                  <a href="/pt/work/afropop/">AfroPop - Collaboration Platform & Social Network</a>
+                  <a href="/pt/work/afropopup/">AfroPop - Collaboration Platform & Social Network</a>
                 </div>
                 <div class="preview-name">Trabalhos em Destaque</div>
                 <div class="preview-name">Plataforma Social</div>
@@ -1410,12 +1410,12 @@ Criamos soluções de design e tecnologia de alto impacto baseadas em dados que 
               <div class="preview-media">
                 <img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Branding Criativo - Artistic Design Excellence" loading="lazy" decoding="async" />
                 <div class="preview-action">
-                  <a href="/pt/work/web-design-&-development/" class="not-index">Ver projeto</a>
+                  <a href="/pt/work/web-design-and-development/" class="not-index">Ver projeto</a>
                 </div>
               </div>
               <div class="preview-content" data-index="10">
                 <div class="preview-name preview-name__caption">
-                  <a href="/pt/work/web-design-&-development/">Luna Wick - Branding Criativo & Artistic Excellence</a>
+                  <a href="/pt/work/web-design-and-development/">Luna Wick - Branding Criativo & Artistic Excellence</a>
                 </div>
                 <div class="preview-name">Trabalhos em Destaque</div>
                 <div class="preview-name">Branding Criativo</div>
@@ -1429,7 +1429,7 @@ Criamos soluções de design e tecnologia de alto impacto baseadas em dados que 
       </div>
 
       <div class="section-footer js-aos appear">
-        <a href="../work/" class="redlink">
+        <a href="/pt/work/" class="redlink">
           <span>Ver todos os projetos</span>
         </a>
       </div>
@@ -1491,7 +1491,7 @@ from our clients</div>
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/pt/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1504,20 +1504,20 @@ from our clients</div>
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/pt/featured-work/">Portfólio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agência</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/pt/agency/">Agência</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">Serviços</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contato</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/pt/contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Sites WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Design de Embalagens</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Design Gráfico</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/pt/services/web-design/">Web Design</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/pt/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/pt/services/packaging-design/">Design de Embalagens</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/pt/services/graphic-design/">Design Gráfico</a></li>
 
 </ul>														</div>
 							</div>
@@ -1526,12 +1526,12 @@ from our clients</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/">Seja Nosso Parceiro</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">Contato</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/pt/contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1580,7 +1580,7 @@ from our clients</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/pt/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1589,13 +1589,13 @@ from our clients</div>
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/pt/featured-work/">Portfólio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/pt/agency/">Agência</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">Serviços</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contato</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/pt/contact/">Contato</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">Contato</a>
+							<a class="menu-contact" href="/pt/contact/">Contato</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envie-nos um e-mail</a>
 						</div>
 					</div>
@@ -1604,7 +1604,7 @@ from our clients</div>
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
+				<a href="/pt/contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1847,7 +1847,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
+						<a href="/pt/privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>

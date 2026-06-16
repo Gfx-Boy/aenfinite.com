@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | User Interface & Experience Design à¤à¤œà¥‡à¤‚à¤¸à¥€ | Aenfinite",
+  title: "UI/UX डिज़ाइन सेवाएं | User Interface & Experience Design एजेंसी",
   description: "Aenfinite® offers professional UI/UX design services focused on user research, wireframing, prototyping, and usability testing. We design digital experiences that are functional, aesthetic, and conversion-driven for businesses worldwide.",
-  keywords: "UI UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
+  keywords: "UI UX डिज़ाइन, user interface design, user experience design, wireframing, prototyping, usability testing, interaction design, UX research, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/ui-ux-design/", languages: {"x-default":"https://aenfinite.com/services/ui-ux-design/","en":"https://aenfinite.com/services/ui-ux-design/","es":"https://aenfinite.com/es/services/ui-ux-design/","fr":"https://aenfinite.com/fr/services/ui-ux-design/","de":"https://aenfinite.com/de/services/ui-ux-design/","it":"https://aenfinite.com/it/services/ui-ux-design/","ar":"https://aenfinite.com/ar/services/ui-ux-design/","pt":"https://aenfinite.com/pt/services/ui-ux-design/","zh":"https://aenfinite.com/zh/services/ui-ux-design/","hi":"https://aenfinite.com/hi/services/ui-ux-design/","nl":"https://aenfinite.com/nl/services/ui-ux-design/","ja":"https://aenfinite.com/ja/services/ui-ux-design/","ko":"https://aenfinite.com/ko/services/ui-ux-design/"} },
-  openGraph: {"title":"UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | User Interface & Experience Design à¤à¤œà¥‡à¤‚à¤¸à¥€ | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/hi/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | User Interface & Experience Design à¤à¤œà¥‡à¤‚à¤¸à¥€ | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"UI/UX डिज़ाइन सेवाएं | User Interface & Experience Design एजेंसी | Aenfinite","description":"Explore Aenfinite's expert UI/UX design services — from UX strategy and wireframes to interactive prototypes and testing. Build intuitive, user-centered digital experiences with us.","url":"https://aenfinite.com/hi/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"UI/UX डिज़ाइन सेवाएं | User Interface & Experience Design एजेंसी | Aenfinite","description":"Aenfinite specializes in UI/UX design services including research, wireframes, prototypes, and user testing. We create seamless and impactful digital experiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a>
+								<a href="/hi/agency/">एजेंसी</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/hi/services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a>
+                                <a href="/hi/services/">सेवाएं</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">डेवलपमेंट समाधान ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/hi/services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li><a href="/hi/services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/custom-web-development">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/software-&-platform-development/">à¤¸à¥‰à¤«à¥à¤Ÿà¤µà¥‡à¤¯à¤° à¤”à¤° à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤µà¥‡à¤¬ à¤¸à¤®à¤¾à¤§à¤¾à¤¨</a></li>									</ul>
+											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
+											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
+											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¸à¥‡à¤µà¤¾à¤à¤‚ â€º</a>
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤”à¤° à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li> <li><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
 											
-											<li><a href="/hi/services/trade-show-booth-design/">à¤Ÿà¥à¤°à¥‡à¤¡ à¤¶à¥‹ à¤¬à¥‚à¤¥ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/conference-branding/">à¤•à¥‰à¤¨à¥à¤«à¥à¤°à¥‡à¤‚à¤¸ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">मार्केटिंग और डिजिटल समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/search-engine-optimization/">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)</a></li>
-											<li><a href="/hi/services/pay-per-click">à¤ªà¥‡-à¤ªà¤°-à¤•à¥à¤²à¤¿à¤• (PPC) à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
-											<li><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></li> <li><a href="/hi/services/paid-ads/">à¤¸à¤¶à¥à¤²à¥à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ai-chatbots-&-virtual-assistants/">AI à¤šà¥ˆà¤Ÿà¤¬à¥‰à¤Ÿ à¤”à¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤…à¤¸à¤¿à¤¸à¥à¤Ÿà¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/workflow-&-business-automation/">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</a></li>
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from à¤¸à¥‡à¤µà¤¾à¤à¤‚ menu - adaptive styling */
+/* Main dropdown from सेवाएं menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/hi/contact/" class="topbar-contact_button">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
+						<a href="/hi/contact/" class="topbar-contact_button">संपर्क</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¥€, à¤¤à¥‹ à¤¹à¤®à¥‡à¤‚ à¤²à¤¿à¤–à¥‡à¤‚ à¤”à¤° à¤¹à¤® à¤•à¥‹à¤ˆ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤¨à¤¿à¤•à¤¾à¤²à¥‡à¤‚à¤—à¥‡ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							अगर आपको अपनी ज़रूरत की सेवा नहीं मिलती, तो हमें लिखें और हम कोई समाधान निकालेंगे <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1353,18 +1353,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</span>
+    <span class="marquee-line_text">Professional UI/UX डिज़ाइन सेवाएं</span>
     <span class="marquee-line_text">User Research, Wireframing & Prototyping</span>
-    <span class="marquee-line_text">à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾, à¤•à¤¨à¤¾à¤¡à¤¾ à¤”à¤° à¤‰à¤¸à¤¸à¥‡ à¤†à¤—à¥‡ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾</span>
+    <span class="marquee-line_text">अमेरिका, कनाडा और उससे आगे ग्राहकों की सेवा</span>
     <span class="marquee-line_text">Specialists in User Interface & Experience Design</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span>
-    <span class="marquee-line_text">High-Converting à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ & Interface Design</span>
-    <span class="marquee-line_text">Professional UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & Research Solutions</span>
-    <span class="marquee-line_text">Professional UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤à¤œà¥‡à¤‚à¤¸à¥€ with Proven Results</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for UI/UX डिज़ाइन</span>
+    <span class="marquee-line_text">High-Converting उपयोगकर्ता अनुभव & Interface Design</span>
+    <span class="marquee-line_text">Professional UI/UX डिज़ाइन & Research Solutions</span>
+    <span class="marquee-line_text">Professional UI/UX डिज़ाइन एजेंसी with Proven Results</span>
     <span class="marquee-line_text">Comprehensive Design System & Usability Support</span>
-    <span class="marquee-line_text">Custom UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Solutions for Every Industry</span>
-    <span class="marquee-line_text">Interface Optimization & à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ Testing</span>
-    <span class="marquee-line_text">Scalable UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ & Long-term User Engagement</span>
+    <span class="marquee-line_text">Custom UI/UX डिज़ाइन Solutions for Every Industry</span>
+    <span class="marquee-line_text">Interface Optimization & उपयोगकर्ता अनुभव Testing</span>
+    <span class="marquee-line_text">Scalable UI/UX डिज़ाइन & Long-term User Engagement</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,19 +1372,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/fiscoclic/">
-										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Mobile Investment App UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/fiscoclic/" class="shiftbox-link"> </a>
+									<a href="/hi/work/fiscoclic/">
+										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Mobile Investment App UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/fiscoclic/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/fiscoclic/">FiscoClic - Mobile Investment App</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² UI/UX</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/fiscoclic/">FiscoClic - Mobile Investment App</a></div>
+																																		<div class="preview-name">मोबाइल UI/UX</div>
 																							<div class="preview-name">Financial Design</div>
 																							<div class="preview-name">Investment Platform</div>
-																							<div class="preview-name">à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ</div>
+																							<div class="preview-name">उपयोगकर्ता अनुभव</div>
 																					</div>
 									</div>
 								</div>
@@ -1393,20 +1393,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Entertainment App UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
+									<a href="/hi/work/lumea/">
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Entertainment App UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Entertainment App</a></div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/lumea/">Lumea - Entertainment App</a></div>
 																																		<div class="preview-name">Entertainment UI/UX</div>
 																							<div class="preview-name">Mobile Experience</div>
 																							<div class="preview-name">Interactive Design</div>
 																							<div class="preview-name">User Engagement</div>
-																							<div class="preview-name">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+																							<div class="preview-name">ऐप डेवलपमेंट</div>
 																					</div>
 									</div>
 								</div>
@@ -1415,17 +1415,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Health & à¤•à¤²à¥à¤¯à¤¾à¤£ App UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/hi/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - Health & कल्याण App UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - Health & à¤•à¤²à¥à¤¯à¤¾à¤£ App</a></div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/mindfit/">Mindfit - Health & कल्याण App</a></div>
 																																		<div class="preview-name">Health UI/UX</div>
-																							<div class="preview-name">à¤•à¤²à¥à¤¯à¤¾à¤£ Design</div>
+																							<div class="preview-name">कल्याण Design</div>
 																							<div class="preview-name">User Engagement</div>
 																							<div class="preview-name">Mobile Experience</div>
 																					</div>
@@ -1436,20 +1436,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Certification Platform UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									<a href="/hi/work/neocert/">
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Certification Platform UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">NeoCert - Certification Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/neocert/">NeoCert - Certification Platform</a></div>
 																																		<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Education Platform</div>
 																							<div class="preview-name">Certification Design</div>
 																							<div class="preview-name">Learning Experience</div>
-																							<div class="preview-name">à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+																							<div class="preview-name">प्लेटफ़ॉर्म डेवलपमेंट</div>
 																					</div>
 									</div>
 								</div>
@@ -1458,15 +1458,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Neural Network Platform UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/hi/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Neural Network Platform UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Neural Network Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/neurolinker/">Neurolinker - Neural Network Platform</a></div>
 																																		<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Neural Networks</div>
 																							<div class="preview-name">Data Visualization</div>
@@ -1480,19 +1480,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/olly/" class="shiftbox-link"> </a>
+									<a href="/hi/work/olly/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Interactive मोबाइल ऐप UI/UX डिज़ाइन by Aenfinite" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/Olly/">Olly - Interactive à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² UI/UX</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/olly/">Olly - Interactive मोबाइल ऐप</a></div>
+																																		<div class="preview-name">मोबाइल UI/UX</div>
 																							<div class="preview-name">Interactive Design</div>
 																							<div class="preview-name">User Engagement</div>
-																							<div class="preview-name">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+																							<div class="preview-name">ऐप डेवलपमेंट</div>
 																					</div>
 									</div>
 								</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ services that create intuitive, user-centered digital experiences and drive engagement success. We manage comprehensive user research, wireframing, prototyping, interface design, and usability testing services that generate exceptional user experiences and long-term customer satisfaction.</div>
+				<div class="textbox-content">Aenfinite delivers Professional UI/UX डिज़ाइन services that create intuitive, user-centered digital experiences and drive engagement success. We manage comprehensive user research, wireframing, prototyping, interface design, and usability testing services that generate exceptional user experiences and long-term customer satisfaction.</div>
 									<div class="textbox-action">
 						<a href="/hi/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1571,12 +1571,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>à¤¸à¤‚à¤ªà¤°à¥à¤• Aenfinite for Expert UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+				<h2>संपर्क Aenfinite for Expert UI/UX डिज़ाइन सेवाएं</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1589,10 +1589,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="आपका नाम*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="आपका ई-मेल*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your UI/UX project" value="" type="text" name="text-tell-project" />
@@ -1600,36 +1600,36 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>à¤®à¥à¤à¥‡ à¤‡à¤¸à¤®à¥‡à¤‚ à¤°à¥à¤šà¤¿ à¤¹à¥ˆ...</strong>
+		<strong>मुझे इसमें रुचि है...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Website UI Design" id="ui-design" /><label for="ui-design" class="list-item-label">Website UI Design</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª UI/UX</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="मोबाइल ऐप UI/UX" id="mobile-uiux" /><label for="mobile-uiux" class="list-item-label">मोबाइल ऐप UI/UX</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Wireframing & Prototyping" id="wireframing" /><label for="wireframing" class="list-item-label">Wireframing & Prototyping</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="User Research & Testing" id="user-research" /><label for="user-research" class="list-item-label">User Research & Testing</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Dashboard & SaaS Design" id="dashboard-design" /><label for="dashboard-design" class="list-item-label">Dashboard & SaaS Design</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="UX Strategy Consultation" id="ux-strategy" /><label for="ux-strategy" class="list-item-label">UX Strategy Consultation</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="à¤…à¤¨à¥à¤¯ UI/UX à¤¸à¥‡à¤µà¤¾à¤à¤‚" id="other-uiux" /><label for="other-uiux" class="list-item-label">à¤…à¤¨à¥à¤¯ UI/UX à¤¸à¥‡à¤µà¤¾à¤à¤‚</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="अन्य UI/UX सेवाएं" id="other-uiux" /><label for="other-uiux" class="list-item-label">अन्य UI/UX सेवाएं</label></span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="à¤…à¤ªà¤¨à¤¾ à¤…à¤¨à¥à¤®à¤¾à¤¨à¤¿à¤¤ à¤¬à¤œà¤Ÿ à¤¬à¤¤à¤¾à¤à¤‚" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="अपना अनुमानित बजट बताएं" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">$100 à¤¸à¥‡ à¤¶à¥à¤°à¥‚</div>
-                            <div class="select-option js-select-option">$500 à¤¸à¥‡ $5,000 à¤¤à¤•</div>
-                            <div class="select-option js-select-option">$5,000 à¤¸à¥‡ $20,000 à¤¤à¤•</div>
-                            <div class="select-option js-select-option">$20,000 à¤¸à¥‡ $50,000 à¤¤à¤•</div>
-                            <div class="select-option js-select-option">$100,000 à¤¸à¥‡ à¤…à¤§à¤¿à¤•</div>
+                            <div class="select-option js-select-option">$100 से शुरू</div>
+                            <div class="select-option js-select-option">$500 से $5,000 तक</div>
+                            <div class="select-option js-select-option">$5,000 से $20,000 तक</div>
+                            <div class="select-option js-select-option">$20,000 से $50,000 तक</div>
+                            <div class="select-option js-select-option">$100,000 से अधिक</div>
                         </div>
 		</div>
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="à¤­à¥‡à¤œà¥‡à¤‚" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="भेजें" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1645,7 +1645,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Expertise</h2>
+							<h2>UI/UX डिज़ाइन Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1656,9 +1656,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Custom à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">Custom ई-कॉमर्स डेवलपमेंट</div>
 						<div class="pane-subtitle">
-							<p>Aenfinite specializes in building custom UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ from the ground up. Our expert developers create bespoke online store designs, custom shopping cart solutions, and tailored functionality that perfectly aligns with your business objectives. We ensure your e-commerce site is scalable, secure, and optimized for performance.</p>
+							<p>Aenfinite specializes in building custom UI/UX डिज़ाइन from the ground up. Our expert developers create bespoke online store designs, custom shopping cart solutions, and tailored functionality that perfectly aligns with your business objectives. We ensure your e-commerce site is scalable, secure, and optimized for performance.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
@@ -1677,7 +1677,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ Research</div>
+						<div class="pane-title">उपयोगकर्ता अनुभव Research</div>
 						<div class="pane-subtitle">
 							<p>Understand your users deeply with comprehensive user experience research services. We conduct user interviews, usability testing, persona development, journey mapping, and behavioral analysis that inform design decisions and enhance digital experiences.</p>
 						</div>
@@ -1691,7 +1691,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Design System à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+						<div class="pane-title">Design System डेवलपमेंट</div>
 						<div class="pane-subtitle">
 							<p>Create consistent, scalable design experiences with comprehensive design systems. We develop component libraries, style guides, pattern documentation, and design tokens that ensure cohesive user interfaces across all digital touchpoints and platforms.</p>
 						</div>
@@ -1725,7 +1725,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Process</h2>
+					<h2>UI/UX डिज़ाइन Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1742,7 +1742,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>Persona à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span>
+							<span>Persona डेवलपमेंट</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
 							<p>Our team creates detailed user personas and journey maps to visualize user motivations, behaviors, and pain points. These insights guide every design decision to ensure usability and relevance.</p>
@@ -1862,7 +1862,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</span> is the perfect blend of creativity, usability, and functionality. à¤•à¤¾à¤°à¥à¤¯ with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">UI/UX डिज़ाइन</span> is the perfect blend of creativity, usability, and functionality. कार्य with a team that excels at crafting intuitive interfaces and delivering seamless user experiences that keep your audience engaged and satisfied.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1873,7 +1873,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+					<h2>Aenfinite UI/UX डिज़ाइन सेवाएं</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1882,7 +1882,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ Research & Strategy</div>
+							<div class="service-caption js-service-caption">UI/UX डिज़ाइन Research & Strategy</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -1968,8 +1968,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Color Palettes</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Components</a></div>
 										<div class="chip"><a href="/hi/contact/" class="chip-label">Iconography</a></div>
-										<div class="chip"><a href="/hi/contact/" class="chip-label">à¤°à¤¿à¤¸à¥à¤ªà¥‰à¤¨à¥à¤¸à¤¿à¤µ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></div>
-										<div class="chip"><a href="/hi/contact/" class="chip-label">à¤µà¤¿à¤œà¤¼à¥à¤…à¤² à¤ªà¤¹à¤šà¤¾à¤¨</a></div>
+										<div class="chip"><a href="/hi/contact/" class="chip-label">रिस्पॉन्सिव डिज़ाइन</a></div>
+										<div class="chip"><a href="/hi/contact/" class="chip-label">विज़ुअल पहचान</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -2053,8 +2053,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>à¤¦à¤¿à¤®à¤¾à¤— à¤®à¥‡à¤‚ à¤•à¥‹à¤ˆ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¹à¥ˆ? à¤†à¤‡à¤ à¤¸à¤¾à¤¥ à¤®à¤¿à¤²à¤•à¤° à¤•à¥à¤› à¤¶à¤¾à¤¨à¤¦à¤¾à¤° à¤¬à¤¨à¤¾à¤à¤‚à¥¤</span>
-								<a href="../../contact/" class="redlink">
+								<span>दिमाग में कोई प्रोजेक्ट है? आइए साथ मिलकर कुछ शानदार बनाएं।</span>
+								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2064,42 +2064,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤•à¤‚à¤ªà¤¨à¥€</div>
+								<div class="footer-col_caption">कंपनी</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+								<div class="footer-col_caption">सेवाएं</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/hi/services/e-commerce-websites/">UI/UX डिज़ाइन</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ब्रांडिंग</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">à¤•à¤¨à¥‡à¤•à¥à¤Ÿ</div>
+								<div class="footer-col_caption">कनेक्ट</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">à¤µà¥à¤¹à¤¾à¤‡à¤Ÿ à¤²à¥‡à¤¬à¤² à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">à¤°à¥‡à¤«à¤°à¤² à¤ªà¥à¤°à¥‹à¤—à¥à¤°à¤¾à¤®</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/white-label-services/">व्हाइट लेबल सेवाएं</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/referral-program/">रेफरल प्रोग्राम</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/ghl-services/">GHL सेवाएं</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/hi/contact/">संपर्क</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">à¤ªà¤¤à¤¾</div>
+								<div class="footer-col_caption">पता</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2154,15 +2154,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">कार्य</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">à¤¹à¤®à¥‡à¤‚ à¤ˆà¤®à¥‡à¤² à¤•à¤°à¥‡à¤‚</a>
+							<a class="menu-contact" href="/hi/contact/">संपर्क</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">हमें ईमेल करें</a>
 						</div>
 					</div>
 				</div>
@@ -2170,14 +2170,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">à¤¨à¤¯à¤¾ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</a>
+				<a href="/hi/contact/" class="to-contact">नया प्रोजेक्ट?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">मीटिंग शेड्यूल करें</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>à¤…à¤ªà¤¨à¥€ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</h3>
+			<h3>अपनी बिज़नेस मीटिंग शेड्यूल करें</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2415,11 +2415,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤•à¥€à¤œà¤¼ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤ à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¤•à¥‡ à¤¯à¤¾ à¤¬à¥à¤°à¤¾à¤‰à¤œà¤¼ à¤•à¤°à¤¨à¤¾ à¤œà¤¾à¤°à¥€ à¤°à¤–à¤•à¤°, à¤†à¤ª à¤¹à¤®à¤¾à¤°à¥€ à¤¸à¤¹à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">à¤—à¥‹à¤ªà¤¨à¥€à¤¯à¤¤à¤¾ à¤¨à¥€à¤¤à¤¿</a>.
+						हम आपके उपयोगकर्ता अनुभव को बेहतर बनाने के लिए कुकीज़ का उपयोग करते हैं। स्वीकार पर क्लिक करके या ब्राउज़ करना जारी रखकर, आप हमारी सहमति देते हैं
+						<a href="/hi/privacy-policy/" class="cookie-banner__link" target="_blank">गोपनीयता नीति</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤•à¤°à¥‡à¤‚</button>
+				<button class="cookie-banner__button">स्वीकार करें</button>
 			</div>
 		</div>
 
@@ -2480,11 +2480,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2548,7 +2548,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2585,7 +2585,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com/",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Creative Digital à¤à¤œà¥‡à¤‚à¤¸à¥€",
+      "alternateName": "Aenfinite® - Creative Digital एजेंसी",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"hi-IN"
     },
@@ -2601,12 +2601,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "सेवाएं" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/ui-ux-design/", "name": "UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨" }
+          "item": { "@id": "https://aenfinite.com/services/ui-ux-design/", "name": "UI/UX डिज़ाइन" }
         }
       ]
     },
@@ -2614,7 +2614,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/ui-ux-design/#webpage",
       "url": "https://aenfinite.com/services/ui-ux-design/",
-      "name": "UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | User Interface & Experience Design à¤à¤œà¥‡à¤‚à¤¸à¥€ | Aenfinite®",
+      "name": "UI/UX डिज़ाइन सेवाएं | User Interface & Experience Design एजेंसी | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
@@ -2624,7 +2624,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "Aenfinite® UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚"
+        "caption": "Aenfinite® UI/UX डिज़ाइन सेवाएं"
       },
       "breadcrumb": { "@id": "https://aenfinite.com/services/ui-ux-design/#breadcrumb" },
       "inLanguage":"hi-IN"
@@ -2632,7 +2632,7 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/ui-ux-design/#article",
-      "headline": "UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | User Interface & Experience Design à¤à¤œà¥‡à¤‚à¤¸à¥€ | Aenfinite®",
+      "headline": "UI/UX डिज़ाइन सेवाएं | User Interface & Experience Design एजेंसी | Aenfinite®",
       "description": "Aenfinite® provides expert UI/UX design services, specializing in research, wireframes, prototypes, and usability testing. We help brands craft engaging, user-centered digital products.",
       "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
@@ -2641,7 +2641,7 @@ export default function Page() {
       "isPartOf": { "@id": "https://aenfinite.com/services/ui-ux-design/#webpage" },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
-      "keywords": "UI Design, UX Design, à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ, Wireframes, Prototyping, Usability Testing, Interface Design"
+      "keywords": "UI Design, UX Design, उपयोगकर्ता अनुभव, Wireframes, Prototyping, Usability Testing, Interface Design"
     }
   ]
 }` }}
@@ -2673,11 +2673,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2716,13 +2716,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "सेवाएं",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "UI/UX डिज़ाइन सेवाएं",
       "item": "https://aenfinite.com/services/ui-ux-design/"
     }
   ]

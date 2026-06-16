@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website ê°œë°œ | Custom Themes & í”ŒëŸ¬ê·¸ì¸ ê°œë°œ | Aenfinite®",
+  title: "Expert WordPress Website 개발 | Custom Themes & 플러그인 개발",
   description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
   keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
-  openGraph: {"title":"Expert WordPress Website ê°œë°œ | Custom Themes & í”ŒëŸ¬ê·¸ì¸ ê°œë°œ | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/ko/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert WordPress Website ê°œë°œ | Custom Themes & í”ŒëŸ¬ê·¸ì¸ ê°œë°œ | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Expert WordPress Website 개발 | Custom Themes & 플러그인 개발 | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/ko/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert WordPress Website 개발 | Custom Themes & 플러그인 개발 | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1090,7 +1090,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">49.36.188.249</div>
-			<div class="url">WordPress ì„œë¹„ìŠ¤</div>
+			<div class="url">WordPress 서비스</div>
 			<div class="urlback">https://Aenfinite.com/services/wordpress-websites/</div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">9-38 am</div>
@@ -1107,44 +1107,44 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+											<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/website-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
-											<li><a href="/ko/services/motion-graphics/">ëª¨ì…˜ ê·¸ëž˜í”½</a></li>
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
+											<li><a href="/ko/services/graphic-design/">모션 그래픽</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></
 
 										</ul>
 									</li>
@@ -1154,19 +1154,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1280,10 +1280,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1292,7 +1292,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1321,7 +1321,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ê°œë°œ</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
+						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">개발</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
 													
 											</h1>
 									</div>
@@ -1359,18 +1359,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert WordPress Website ê°œë°œ ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Custom Themes, í”ŒëŸ¬ê·¸ì¸ ê°œë°œ & Optimization</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Specialists in WordPress Performance & ì‚¬ìš©ìž ê²½í—˜</span>
+    <span class="marquee-line_text">Expert WordPress Website 개발 서비스</span>
+    <span class="marquee-line_text">Custom Themes, 플러그인 개발 & Optimization</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">Specialists in WordPress Performance & 사용자 경험</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for WordPress Solutions</span>
-    <span class="marquee-line_text">Performance-Driven WordPress ê°œë°œ & Security</span>
+    <span class="marquee-line_text">Performance-Driven WordPress 개발 & Security</span>
     <span class="marquee-line_text">E-commerce WordPress & Business Website Solutions</span>
-    <span class="marquee-line_text">Professional WordPress ì—ì´ì „ì‹œ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive WordPress ìœ ì§€ë³´ìˆ˜ & Support</span>
-    <span class="marquee-line_text">ë§žì¶¤í˜• WordPress Solutions for Every Industry</span>
+    <span class="marquee-line_text">Professional WordPress 에이전시 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive WordPress 유지보수 & Support</span>
+    <span class="marquee-line_text">맞춤형 WordPress Solutions for Every Industry</span>
     <span class="marquee-line_text">WordPress Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable WordPress ê°œë°œ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable WordPress 개발 & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1380,7 +1380,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/ko/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - ë””ì§€í„¸ ë§ˆì¼€íŒ… ì—ì´ì „ì‹œ Website" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - 디지털 마케팅 에이전시 Website" class="cover" loading="lazy" decoding="async" />
 					<a href="/ko/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1388,10 +1388,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="01">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë§žì¶¤í˜• ê°œë°œ</div>
-						<div class="preview-name">í”Œëž«í¼ ê°œë°œ</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">맞춤형 개발</div>
+						<div class="preview-name">플랫폼 개발</div>
 					</div>
 				</div>
 			</div>
@@ -1411,10 +1411,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="02">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/robophil/">RoboPhil - AI Trading Platform</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">í”Œëž«í¼ ê°œë°œ</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë§žì¶¤í˜• ê°œë°œ</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">플랫폼 개발</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">맞춤형 개발</div>
 					</div>
 				</div>
 			</div>
@@ -1434,10 +1434,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="03">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/husnohaya/">HusnOhaya Women</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë§žì¶¤í˜• ê°œë°œ</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">이커머스 개발</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">맞춤형 개발</div>
 					</div>
 				</div>
 			</div>
@@ -1449,7 +1449,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/ko/work/khatech/">
-					<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° ë””ì§€í„¸ ë§ˆì¼€íŒ… Solutions Platform" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° 디지털 마케팅 Solutions Platform" class="cover" loading="lazy" decoding="async" />
 					<a href="/ko/work/khatech/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1457,10 +1457,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="04">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/khatech/">KhaTtech</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">ë””ì§€í„¸ ë§ˆì¼€íŒ…</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë§žì¶¤í˜• ê°œë°œ</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">디지털 마케팅</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">맞춤형 개발</div>
 					</div>
 				</div>
 			</div>
@@ -1480,10 +1480,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="05">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/afropopup/">AfroPop</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">ì´ì»¤ë¨¸ìŠ¤ ê°œë°œ</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë¸Œëžœë”© & Identity</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">이커머스 개발</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">브랜딩 & Identity</div>
 					</div>
 				</div>
 			</div>
@@ -1495,7 +1495,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="shiftbox">
 			<div class="shiftbox-image">
 				<a href="/ko/work/blue-vine-marketing/">
-					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - ë””ì§€í„¸ ë§ˆì¼€íŒ… ì—ì´ì „ì‹œ & Growth Solutions" class="cover" loading="lazy" decoding="async" />
+					<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - 디지털 마케팅 에이전시 & Growth Solutions" class="cover" loading="lazy" decoding="async" />
 					<a href="/ko/work/blue-vine-marketing/" class="shiftbox-link"></a>
 				</a>
 			</div>
@@ -1503,10 +1503,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="preview">
 					<div class="preview-content" data-index="06">
 						<div class="preview-name preview-name__caption"><a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing – Growth Solutions</a></div>
-						<div class="preview-name">ì›¹ ë””ìžì¸ & ê°œë°œ</div>
-						<div class="preview-name">ë””ì§€í„¸ ë§ˆì¼€íŒ…</div>
-						<div class="preview-name">UI/UX ë””ìžì¸</div>
-						<div class="preview-name">ë§žì¶¤í˜• ê°œë°œ</div>
+						<div class="preview-name">웹 디자인 & 개발</div>
+						<div class="preview-name">디지털 마케팅</div>
+						<div class="preview-name">UI/UX 디자인</div>
+						<div class="preview-name">맞춤형 개발</div>
 					</div>
 				</div>
 			</div>
@@ -1600,18 +1600,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="preview">
                                 <a href="/ko/work/blue-vine-marketing/" class="a-preview"></a>
                                 <div class="preview-media">
-                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - ë””ì§€í„¸ ë§ˆì¼€íŒ… ì—ì´ì „ì‹œ Website" class="cover" loading="lazy" decoding="async" />
+                                    <img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - 디지털 마케팅 에이전시 Website" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        í”„ë¡œì íŠ¸ ë³´ê¸°									</div>
+                                        프로젝트 보기									</div>
                                 </div>
                                 <div class="preview-content" data-index="01">
                                     <div class="preview-name preview-name__caption">
-                                        <a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing - ë””ì§€í„¸ ë§ˆì¼€íŒ… ì—ì´ì „ì‹œ Website</a>
+                                        <a href="/ko/work/blue-vine-marketing/">Blue Vine Marketing - 디지털 마케팅 에이전시 Website</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Theme Design</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">ë§žì¶¤í˜• ê°œë°œ</a></div>
-                                    <div class="preview-name"><a href="../software-&-platform-development/">ë””ì§€í„¸ ë§ˆì¼€íŒ… Features</a></div>
+                                    <div class="preview-name"><a href="/ko/services/ui-ux-design/">Custom Theme Design</a></div>
+                                    <div class="preview-name"><a href="/ko/services/custom-web-development/">맞춤형 개발</a></div>
+                                    <div class="preview-name"><a href="/ko/services/software-and-platform-development/">디지털 마케팅 Features</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1622,16 +1622,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="preview-media">
                                     <img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil - AI Trading Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        í”„ë¡œì íŠ¸ ë³´ê¸°									</div>
+                                        프로젝트 보기									</div>
                                 </div>
                                 <div class="preview-content" data-index="02">
                                     <div class="preview-name preview-name__caption">
                                         <a href="/ko/work/robophil/">RoboPhil - AI Trading Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../software-&-platform-development/">Advanced Features</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom UI/UX</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">Platform Integration</a></div>
+                                    <div class="preview-name"><a href="/ko/services/software-and-platform-development/">Advanced Features</a></div>
+                                    <div class="preview-name"><a href="/ko/services/ui-ux-design/">Custom UI/UX</a></div>
+                                    <div class="preview-name"><a href="/ko/services/custom-web-development/">Platform Integration</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1642,16 +1642,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="preview-media">
                                     <img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya Women - Premium Hijab E-commerce Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        í”„ë¡œì íŠ¸ ë³´ê¸°									</div>
+                                        프로젝트 보기									</div>
                                 </div>
                                 <div class="preview-content" data-index="03">
                                     <div class="preview-name preview-name__caption">
                                         <a href="/ko/work/husnohaya/">HusnOhaya Women - Premium Hijab E-commerce Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../e-commerce-websites/">WooCommerce Store</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Theme</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">E-commerce Features</a></div>
+                                    <div class="preview-name"><a href="/ko/services/e-commerce-websites/">WooCommerce Store</a></div>
+                                    <div class="preview-name"><a href="/ko/services/ui-ux-design/">Custom Theme</a></div>
+                                    <div class="preview-name"><a href="/ko/services/custom-web-development/">E-commerce Features</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1660,25 +1660,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="preview">
                                 <a href="/ko/work/khatech/" class="a-preview"></a>
                                 <div class="preview-media">
-                                    <img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° ë””ì§€í„¸ ë§ˆì¼€íŒ… Solutions Platform" class="cover" loading="lazy" decoding="async" />
+                                    <img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° 디지털 마케팅 Solutions Platform" class="cover" loading="lazy" decoding="async" />
                                     <div class="preview-action">
-                                        í”„ë¡œì íŠ¸ ë³´ê¸°									</div>
+                                        프로젝트 보기									</div>
                                 </div>
                                 <div class="preview-content" data-index="04">
                                     <div class="preview-name preview-name__caption">
-                                        <a href="/ko/work/khatech/">KhaTtech - 360Â° ë””ì§€í„¸ ë§ˆì¼€íŒ… Solutions Platform</a>
+                                        <a href="/ko/work/khatech/">KhaTtech - 360° 디지털 마케팅 Solutions Platform</a>
                                     </div>
                                     <div class="preview-name"><a href="">WordPress Website</a></div>
-                                    <div class="preview-name"><a href="../digital-marketing/">Marketing Features</a></div>
-                                    <div class="preview-name"><a href="../ui-ux-design/">Custom Design</a></div>
-                                    <div class="preview-name"><a href="../custom-web-development/">Advanced Integration</a></div>
+                                    <div class="preview-name"><a href="/ko/services/digital-marketing/">Marketing Features</a></div>
+                                    <div class="preview-name"><a href="/ko/services/ui-ux-design/">Custom Design</a></div>
+                                    <div class="preview-name"><a href="/ko/services/custom-web-development/">Advanced Integration</a></div>
                                 </div>
                             </div>
                         </div>
                 </div>
             </div>
             <div class="section-footer js-aos appear">
-                <a href="../../work/web-design-&-development/" class="redlink">
+                <a href="/ko/work/web-design-and-development/" class="redlink">
                     <span>View all WordPress Projects</span>
                 </a>
             </div>
@@ -1691,12 +1691,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ë¬¸ì˜ Aenfinite for Expert WordPress ì„œë¹„ìŠ¤</h2>
+				<h2>문의 Aenfinite for Expert WordPress 서비스</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1708,14 +1708,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your SEO project" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your SEO project" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="ë§žì¶¤í˜• WordPress ê°œë°œ" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">ë§žì¶¤í˜• WordPress ê°œë°œ</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="í”ŒëŸ¬ê·¸ì¸ ê°œë°œ" id="plugin-development" /><label for="plugin-development" class="list-item-label">í”ŒëŸ¬ê·¸ì¸ ê°œë°œ</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress ìœ ì§€ë³´ìˆ˜" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress ìœ ì§€ë³´ìˆ˜</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="ê¸°íƒ€ WordPress ì„œë¹„ìŠ¤" id="other" /><label for="other" class="list-item-label">ê¸°íƒ€ WordPress ì„œë¹„ìŠ¤</label></span></span></span>
+		<strong>관심 분야...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group"><span class="list-item first"><input type="checkbox" name="services" value="맞춤형 WordPress 개발" id="custom-wordpress-dev" /><label for="custom-wordpress-dev" class="list-item-label">맞춤형 WordPress 개발</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Theme Design" id="wordpress-theme-design" /><label for="wordpress-theme-design" class="list-item-label">WordPress Theme Design</label></span><span class="list-item"><input type="checkbox" name="services" value="플러그인 개발" id="plugin-development" /><label for="plugin-development" class="list-item-label">플러그인 개발</label></span><span class="list-item"><input type="checkbox" name="services" value="WooCommerce E-commerce" id="woocommerce-ecommerce" /><label for="woocommerce-ecommerce" class="list-item-label">WooCommerce E-commerce</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress 유지보수" id="wordpress-maintenance" /><label for="wordpress-maintenance" class="list-item-label">WordPress 유지보수</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Migration" id="wordpress-migration" /><label for="wordpress-migration" class="list-item-label">WordPress Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Security & Performance" id="wordpress-security" /><label for="wordpress-security" class="list-item-label">WordPress Security & Performance</label></span><span class="list-item"><input type="checkbox" name="services" value="Headless WordPress" id="headless-wordpress" /><label for="headless-wordpress" class="list-item-label">Headless WordPress</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Consultation" id="wordpress-consultation" /><label for="wordpress-consultation" class="list-item-label">WordPress Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="기타 WordPress 서비스" id="other" /><label for="other" class="list-item-label">기타 WordPress 서비스</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1749,7 +1749,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1765,7 +1765,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="inner-wrapper">
 					<div class="section-caption js-aos">
 						<div class="section-caption_text">
-							<h2>WordPress ê°œë°œ Expertise</h2>
+							<h2>WordPress 개발 Expertise</h2>
 						</div>
 					</div>
 					<div class="textbox textbox__push js-aos appear">
@@ -1776,14 +1776,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="panes">
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">ë§žì¶¤í˜• WordPress ê°œë°œ</div>
+						<div class="pane-title">맞춤형 WordPress 개발</div>
 						<div class="pane-subtitle">
 							<p>Aenfinite specializes in building custom WordPress websites from the ground up. Our expert developers create bespoke WordPress themes, custom plugins, and tailored functionality that perfectly aligns with your business objectives. We ensure your WordPress site is scalable, secure, and optimized for performance.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress í…Œë§ˆ ê°œë°œ</div>
+						<div class="pane-title">WordPress 테마 개발</div>
 						<div class="pane-subtitle">
 							<p>Transform your vision into reality with our custom WordPress theme development services. Our designers and developers collaborate to create pixel-perfect, responsive WordPress themes that capture your brand essence while providing exceptional user experience across all devices and browsers.</p>
 						</div>
@@ -1797,28 +1797,28 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress í”ŒëŸ¬ê·¸ì¸ ê°œë°œ</div>
+						<div class="pane-title">WordPress 플러그인 개발</div>
 						<div class="pane-subtitle">
 							<p>Extend your WordPress website's functionality with custom plugin development. Our developers create tailored WordPress plugins that integrate seamlessly with your site, adding specific features and capabilities that enhance user engagement and streamline business processes.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress Migration & ìœ ì§€ë³´ìˆ˜</div>
+						<div class="pane-title">WordPress Migration & 유지보수</div>
 						<div class="pane-subtitle">
 							<p>Seamlessly migrate your existing website to WordPress or upgrade your current WordPress installation. Our comprehensive maintenance services include security updates, performance optimization, regular backups, and ongoing technical support to keep your WordPress site running smoothly.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">Headless WordPress ê°œë°œ</div>
+						<div class="pane-title">Headless WordPress 개발</div>
 						<div class="pane-subtitle">
 							<p>Experience the future of WordPress with our headless CMS solutions. We decouple your WordPress backend from the frontend, enabling faster load times, enhanced security, and the flexibility to deliver content across multiple platforms and devices with modern frameworks like React or Vue.js.</p>
 						</div>
 					</div>
 									<div class="pane js-aos fadein">
 						<div class="pane-index"></div>
-						<div class="pane-title">WordPress SEO ìµœì í™”</div>
+						<div class="pane-title">WordPress SEO 최적화</div>
 						<div class="pane-subtitle">
 							<p>Maximize your WordPress website's search engine visibility with our comprehensive SEO optimization services. We implement WordPress-specific SEO best practices, optimize site structure, improve page speed, and ensure your content is properly structured for search engines to drive organic traffic growth.</p>
 						</div>
@@ -1845,7 +1845,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>WordPress ê°œë°œ Process</h2>
+						<h2>WordPress 개발 Process</h2>
 					</div>
 				</div>
 				<div class="nlist">
@@ -1906,7 +1906,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="nlist-content js-switch-copy"></div>
 						</div>
 											<div class="nlist-item appear js-aos js-switch">
-							<div class="nlist-caption">WordPress ê°œë°œ</div>
+							<div class="nlist-caption">WordPress 개발</div>
 							<div class="nlist-tabs js-switch-tabs">
 																	<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
 										<span>WordPress Coding</span>
@@ -1940,7 +1940,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="nlist-caption">Support</div>
 							<div class="nlist-tabs js-switch-tabs">
 																	<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-										<span>ìœ ì§€ë³´ìˆ˜ and Updates</span>
+										<span>유지보수 and Updates</span>
 									</div>
 									<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 										<p><span style="font-weight: 400;">The relationship between a web design company and its clients should not end with the launch of a website. We ensure that your site continues working for you by maintaining secure hosting and providing daily data backups and security scans. We are also available for any updates, improvements, or expansions of your website.</span></p>
@@ -1969,7 +1969,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">WordPress ì›¹ì‚¬ì´íŠ¸</span> are the perfect blend of design flexibility and powerful functionality. í¬íŠ¸í´ë¦¬ì˜¤ with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">WordPress 웹사이트</span> are the perfect blend of design flexibility and powerful functionality. 포트폴리오 with a team that excels at creating custom, responsive, and high-performing WordPress sites tailored to your business needs.</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1980,19 +1980,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite WordPress Sites ì„œë¹„ìŠ¤</h2>
+						<h2>Aenfinite WordPress Sites 서비스</h2>
 					</div>
 				</div>
 				<div class="service-grid">
 					<div>
 						<div class="service-list js-service-container fadein js-aos">
 															<div class="service active js-service">
-									<div class="service-caption js-service-caption">ë§žì¶¤í˜• WordPress ê°œë°œ</div>
+									<div class="service-caption js-service-caption">맞춤형 WordPress 개발</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/ko/contact/" class="chip-label">ê°œë°œ</a>
+														<a href="/ko/contact/" class="chip-label">개발</a>
 													</div>
 																									<div class="chip">
 														<a href="/ko/contact/" class="chip-label">Custom Themes</a>
@@ -2007,13 +2007,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 														<a href="/ko/contact/" class="chip-label">Performance</a>
 													</div>
 																									<div class="chip">
-														<a href="/ko/contact/" class="chip-label">ë°˜ì‘í˜• ë””ìžì¸</a>
+														<a href="/ko/contact/" class="chip-label">반응형 디자인</a>
 													</div>
 																									<div class="chip">
 														<a href="/ko/contact/" class="chip-label">Database Design</a>
 													</div>
 																									<div class="chip">
-														<a href="/ko/contact/" class="chip-label">ì‚¬ìš©ìž ê²½í—˜</a>
+														<a href="/ko/contact/" class="chip-label">사용자 경험</a>
 													</div>
 																							</div>
 										</div>
@@ -2095,12 +2095,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">í”ŒëŸ¬ê·¸ì¸ ê°œë°œ</div>
+									<div class="service-caption js-service-caption">플러그인 개발</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/ko/contact/" class="chip-label">í”ŒëŸ¬ê·¸ì¸ ê°œë°œ</a>
+														<a href="/ko/contact/" class="chip-label">플러그인 개발</a>
 													</div>
 																									<div class="chip">
 														<a href="/ko/contact/" class="chip-label">Speed Optimization</a>
@@ -2150,12 +2150,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 															<div class="service js-service">
-									<div class="service-caption js-service-caption">WordPress ìœ ì§€ë³´ìˆ˜ & Support</div>
+									<div class="service-caption js-service-caption">WordPress 유지보수 & Support</div>
 									<div class="service-content js-service-content">
 										<div class="service-tags">
 											<div class="chips">
 																									<div class="chip">
-														<a href="/ko/contact/" class="chip-label">ìœ ì§€ë³´ìˆ˜</a>
+														<a href="/ko/contact/" class="chip-label">유지보수</a>
 													</div>
 																									<div class="chip">
 														<a href="/ko/contact/" class="chip-label">Support</a>
@@ -2223,7 +2223,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2233,42 +2233,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2314,7 +2314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../../">
+									<a href="/ko/">
 										<object data="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" type="image/svg+xml" class="logo-dark nav-logo">
 											<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="lazy" decoding="async">
 										</object>
@@ -2324,15 +2324,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="../../featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2340,14 +2340,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2585,11 +2585,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2650,11 +2650,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2707,7 +2707,7 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 <!-- wp-polyfill removed -->
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2739,7 +2739,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - WordPress ê°œë°œ ì—ì´ì „ì‹œ",
+      "alternateName": "Aenfinite® - WordPress 개발 에이전시",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ko-KR"
     },
@@ -2749,7 +2749,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® - WordPress ê°œë°œ ì—ì´ì „ì‹œ",
+      "caption": "Aenfinite® - WordPress 개발 에이전시",
       "inLanguage":"ko-KR"
     },
     {
@@ -2764,12 +2764,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "ì„œë¹„ìŠ¤" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "서비스" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/wordpress-websites/", "name": "WordPress ì›¹ì‚¬ì´íŠ¸" }
+          "item": { "@id": "https://aenfinite.com/services/wordpress-websites/", "name": "WordPress 웹사이트" }
         }
       ]
     },
@@ -2777,7 +2777,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/wordpress-websites/#webpage",
       "url": "https://aenfinite.com/services/wordpress-websites/",
-      "name": "Expert WordPress Website ê°œë°œ | Custom Themes & í”ŒëŸ¬ê·¸ì¸ ê°œë°œ | Aenfinite®",
+      "name": "Expert WordPress Website 개발 | Custom Themes & 플러그인 개발 | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2801,8 +2801,8 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/wordpress-websites/#article",
-      "headline": "Expert WordPress Website ê°œë°œ | Custom Themes & í”ŒëŸ¬ê·¸ì¸ ê°œë°œ | Aenfinite®",
-      "keywords": "WordPress ê°œë°œ, ë§žì¶¤í˜• WordPress Themes, í”ŒëŸ¬ê·¸ì¸ ê°œë°œ, WooCommerce ê°œë°œ, WordPress ìœ ì§€ë³´ìˆ˜, WordPress Security, Website Optimization",
+      "headline": "Expert WordPress Website 개발 | Custom Themes & 플러그인 개발 | Aenfinite®",
+      "keywords": "WordPress 개발, 맞춤형 WordPress Themes, 플러그인 개발, WooCommerce 개발, WordPress 유지보수, WordPress Security, Website Optimization",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/wordpress-websites/#author" },
@@ -2842,11 +2842,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2885,13 +2885,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Expert WordPress Website ê°œë°œ",
+      "name": "Expert WordPress Website 개발",
       "item": "https://aenfinite.com/services/wordpress-websites/"
     }
   ]

@@ -4,11 +4,11 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite",
-  description: "ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ for Aenfinite - Denver",
+  title: "개인정보 처리방침",
+  description: "개인정보 처리방침 for Aenfinite - Denver",
   keywords: "privacy policy, data protection, cookies policy, GDPR, user privacy, Aenfinite privacy",
-  openGraph: {"title":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite","description":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ for Aenfinite - Denver","url":"https://aenfinite.com/ko/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite","description":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"개인정보 처리방침 | Aenfinite","description":"개인정보 처리방침 for Aenfinite - Denver","url":"https://aenfinite.com/ko/privacy-policy/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"개인정보 처리방침 | Aenfinite","description":"개인정보 처리방침 for Aenfinite - Denver","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -646,7 +646,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</svg>
 		<div style="display:none!important;">
 						<div class="ip">3.14.82.216</div>
-			<div class="url">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</div>
+			<div class="url">개인정보 처리방침</div>
 			<div class="urlback"></div>
 			<div class="datas">08.15.2025</div>
 			<div class="times">7-16 am</div>
@@ -663,61 +663,61 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ê°œë°œ ì†”ë£¨ì…˜ </a>
+                                        <a href="#">개발 솔루션 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>                                      </ul>
+                                            <li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ </a>
+                                        <a href="#">디자인 및 크리에이티브 서비스 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
 
-                                            <li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+                                            <li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
                                             
-                                            <li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-                                            <li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+                                            <li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+                                            <li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ </a>
+                                        <a href="#">마케팅 및 디지털 솔루션 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-                                            <li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-                                            <li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li>
-                                            <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+                                            <li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+                                            <li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+                                            <li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+                                            <li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li>
+                                            <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ </a>
+                                        <a href="#">AI 및 기술 솔루션 </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-                                            <li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+                                            <li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+                                            <li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -831,10 +831,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -843,7 +843,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -874,10 +874,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="wrapper">
 				<div class="textbox-content normaltext">
 					
-<h2 class="wp-block-heading"><strong>ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</strong></h2>
+<h2 class="wp-block-heading"><strong>개인정보 처리방침</strong></h2>
 
 <p>Effective Date: August 23, 2025<br />Aenfinite LLC (Aenfinite)</p>
-<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
+<p><br />Aenfinite respects your privacy and is committed to protecting the personal information you share with us. This 개인정보 처리방침 explains how we collect, use, disclose, and safeguard your information when you visit our website (https://Aenfinite), contact us, or engage with our services.</p>
 <p><br />By using our site, you agree to the practices outlined below.</p>
 <p><br /></p>
 <p><br /><strong>1. Information We Collect</strong></p>
@@ -923,14 +923,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <p><br /><strong>10. International Users</strong></p>
 <p><br />If you are accessing our website from outside the United States, please be aware your information may be transferred to and processed in the U.S. or other jurisdictions. By using our site, you consent to this transfer in accordance with applicable data protection laws.</p>
 <p><br /></p>
-<p><br /><strong>11. Updates to This ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</strong></p>
-<p><br />We may update this ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
+<p><br /><strong>11. Updates to This 개인정보 처리방침</strong></p>
+<p><br />We may update this 개인정보 처리방침 periodically. When we do, we will revise the Effective Date above. Material changes will be clearly communicated on our website. Your continued use of the site constitutes your acceptance of the updated policy.</p>
 <p><br /></p>
-<p><br /><strong>12. ë¬¸ì˜í•˜ê¸°</strong></p>
+<p><br /><strong>12. 문의하기</strong></p>
 <p><br />For any questions, concerns, or requests regarding your privacy or this policy, please contact:</p>
 <p><br />Aenfinite<br />Aenfinite LLC<br />Denver, Colorado<br />?? privacy@aenfinite.com<br />?? +1 (469) 267-7487<br />?? https://aenfinite.com</p>
 <p><br /></p>
-<p><br /> 2025 Aenfinite LLC. ëª¨ë“  ê¶Œë¦¬ ë³´ìœ .</p>
+<p><br /> 2025 Aenfinite LLC. 모든 권리 보유.</p>
 	
 				</div>
 			</div>
@@ -943,7 +943,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -953,41 +953,41 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ko/services/graphic-design/">그래픽 디자인</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">ì£¼ì†Œ</div>
+									<div class="footer-col_caption">주소</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1031,7 +1031,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ko/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="aenfinite.com" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1039,15 +1039,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -1055,14 +1055,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1301,11 +1301,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -1406,7 +1406,7 @@ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );
 </script><!-- wp-polyfill removed -->
 <!-- wpcf7 recaptcha config removed -->
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -1417,7 +1417,7 @@ export default function Page() {
         <script
           key="schema-0"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Denver's Premier Digital í˜ì‹  ì—ì´ì „ì‹œ","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"ko-KR"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Denver's Premier Digital í˜ì‹  ì—ì´ì „ì‹œ","inLanguage":"ko-KR"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"ko-KR","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"ko-KR"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite®","keywords":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ for Aenfinite® - Denver's premier ë‹¤ìŒì„ ì „ë¬¸ìœ¼ë¡œ í•˜ëŠ” ë””ì§€í„¸ í˜ì‹  ì—ì´ì „ì‹œ branding, web design, user interface (UI), and user experience (UX).","name":"ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨ | Aenfinite®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"ko-KR","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
+          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://Aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://Aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Denver's Premier Digital 혁신 에이전시","publisher":{"@id":"https://Aenfinite.com/#organization"},"inLanguage":"ko-KR"},{"@type":"ImageObject","@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Denver's Premier Digital 혁신 에이전시","inLanguage":"ko-KR"},{"@type":"BreadcrumbList","@id":"https://Aenfinite.com/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://Aenfinite.com/privacy-policy/","name":"개인정보 처리방침"}}]},{"@type":"WebPage","@id":"https://Aenfinite.com/privacy-policy/#webpage","url":"https://Aenfinite.com/privacy-policy/","name":"개인정보 처리방침 | Aenfinite®","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","isPartOf":{"@id":"https://Aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"ko-KR","breadcrumb":{"@id":"https://Aenfinite.com/privacy-policy/#breadcrumb"}},{"@type":"Person","@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8c8aedc0733a5c125a2e5bd464e0b587?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"ko-KR"},"worksFor":{"@id":"https://Aenfinite.com/#organization"}},{"@type":"Article","headline":"개인정보 처리방침 | Aenfinite®","keywords":"개인정보 처리방침","datePublished":"2022-07-11T14:03:50-04:00","dateModified":"2025-08-23T12:03:38-04:00","author":{"@id":"https://Aenfinite.com/privacy-policy/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://Aenfinite.com/#organization"},"description":"개인정보 처리방침 for Aenfinite® - Denver's premier 다음을 전문으로 하는 디지털 혁신 에이전시 branding, web design, user interface (UI), and user experience (UX).","name":"개인정보 처리방침 | Aenfinite®","@id":"https://Aenfinite.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"},"image":{"@id":"https://Aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"ko-KR","mainEntityOfPage":{"@id":"https://Aenfinite.com/privacy-policy/#webpage"}}]}` }}
         />
         <script
           key="schema-1"
@@ -1435,7 +1435,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨",
+      "name": "개인정보 처리방침",
       "item": "https://aenfinite.com/privacy-policy/"
     }
   ]

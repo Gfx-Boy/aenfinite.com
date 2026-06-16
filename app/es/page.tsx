@@ -859,7 +859,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with â¤ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite® with ❤️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 			// Advanced Cursor Implementation
 			function initAdvancedCursor() {
@@ -1128,24 +1128,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/es/featured-work/">Portafolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/es/agency">Agencia</a>
+								<a href="/es/agency/">Agencia</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/es/services/">Servicios</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de Desarrollo â€º</a>
+										<a href="#">Soluciones de Desarrollo ›</a>
 										<ul class="sub-menu">											                                            
 											<li><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li><a href="/es/services/e-commerce-websites/">Sitios Web de E-Commerce</a></li>
-											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
-											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
+											<li><a href="/es/services/custom-web-development/">Desarrollo Web Personalizado</a></li>
+											<li><a href="/es/services/software-and-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
 											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
 											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servicios de Diseño y Creatividad â€º</a>
+										<a href="#">Servicios de Diseño y Creatividad ›</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
@@ -1156,11 +1156,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de Marketing y Digitales â€º</a>
+										<a href="#">Soluciones de Marketing y Digitales ›</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
 											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
-											<li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
+											<li><a href="/es/services/pay-per-click/">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
 
 										</ul>
@@ -1168,10 +1168,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluciones de IA y Tecnología â€º</a>
+										<a href="#">Soluciones de IA y Tecnología ›</a>
 										<ul class="sub-menu">
-											<li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-											<li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
+											<li><a href="/es/services/workflow-and-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1225,7 +1225,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="heart">
 								<img src="/wp-content/themes/aenfinite.com/images/heart.svg" alt="Heart" class="icon" loading="lazy" decoding="async" />
 							</div>
-							<a href="/es/darkmode" class="header-link"></a>
+							<a href="/es/darkmode/" class="header-link"></a>
 						</div>
 									</div>
 			</div>
@@ -1271,7 +1271,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 															<span class="marquee-line_text">Soluciones Expertas en UI/UX y Marketing Digital</span>
 															<span class="marquee-line_text">Reseñas de 5 Estrellas y Calificación en Clutch</span>
 															<span class="marquee-line_text">Equipo Experto - Adobe, Figma, Desarrollo Personalizado</span>
-															<span class="marquee-line_text">Proceso Ãgil de Desarrollo y Diseño</span>
+															<span class="marquee-line_text">Proceso Ágil de Desarrollo y Diseño</span>
 															<span class="marquee-line_text">Agencia Digital con Sede en Denver</span>
 															<span class="marquee-line_text">Servicios Profesionales de Innovación Digital</span>
 															<span class="marquee-line_text">Soluciones Personalizadas para Cada Negocio</span>
@@ -1502,7 +1502,7 @@ recommend a service from 1-10</div>
 						</div>
 									</div>
 									<div class="section-footer js-aos appear">
-						<a href="agency/" class="redlink">
+						<a href="/es/agency/" class="redlink">
 							<span>Acerca de Aenfinite</span>
 						</a>
 					</div>
@@ -1628,7 +1628,7 @@ recommend a service from 1-10</div>
 													<a href="/es/services/paid-ads/" class="chip-label">Publicidad Pagada</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/Pay-per-click/" class="chip-label">Campañas PPC</a>
+													<a href="/es/services/pay-per-click/" class="chip-label">Campañas PPC</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/social-media-marketing/" class="chip-label">Marketing en Redes Sociales</a>
@@ -1762,7 +1762,7 @@ recommend a service from 1-10</div>
 													<a href="/es/services/graphic-design/" class="chip-label">Diseño de Impresión</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/print-design/" class="chip-label">Tarjetas de Presentación</a>
+													<a href="/es/services/graphic-design/" class="chip-label">Tarjetas de Presentación</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/graphic-design/" class="chip-label">Folletos</a>
@@ -1771,7 +1771,7 @@ recommend a service from 1-10</div>
 													<a href="/es/services/graphic-design/" class="chip-label">Gráficos Digitales</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/social-media-design/" class="chip-label">Diseño de Contenido</a>
+													<a href="/es/services/social-media-marketing/" class="chip-label">Diseño de Contenido</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/graphic-design/" class="chip-label">Materiales de Marketing</a>
@@ -1836,19 +1836,19 @@ recommend a service from 1-10</div>
 													<a href="/es/services/custom-web-development/" class="chip-label">Desarrollo Web Personalizado</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/software-&-platform-development/" class="chip-label">Desarrollo de Software</a>
+													<a href="/es/services/software-and-platform-development/" class="chip-label">Desarrollo de Software</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/workflow-&-business-automation/" class="chip-label">Automatización Empresarial</a>
+													<a href="/es/services/workflow-and-business-automation/" class="chip-label">Automatización Empresarial</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots de IA</a>
+													<a href="/es/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots de IA</a>
 												</div>
 																							<div class="chip">
 													<a href="/es/services/custom-web-development/" class="chip-label">Desarrollo de Plataformas</a>
 												</div>
 																							<div class="chip">
-													<a href="/es/services/workflow-&-business-automation/" class="chip-label">Automatización de Flujos de Trabajo</a>
+													<a href="/es/services/workflow-and-business-automation/" class="chip-label">Automatización de Flujos de Trabajo</a>
 												</div>
 																					</div>
 									</div>
@@ -2004,7 +2004,7 @@ recommend a service from 1-10</div>
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/ivywise-education-consultancy/">AfroPopup - Merging Pop with Art and Culture</a>
+											<a href="/es/featured-work/">AfroPopup - Merging Pop with Art and Culture</a>
 										</div>
 																					<div class="preview-name">Branding</div>
 																					<div class="preview-name">Material de Marca</div>
@@ -2094,7 +2094,7 @@ recommend a service from 1-10</div>
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="/es/work/khatech/">KhaTtech - 360Â° Marketing Digital Solutions & SEO Agencia </a>
+											<a href="/es/work/khatech/">KhaTtech - 360° Marketing Digital Solutions & SEO Agencia </a>
 										</div>
 																					<div class="preview-name">Gráficos en Movimiento</div>
 																					<div class="preview-name">Diseño Web</div>
@@ -2106,7 +2106,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="../../work/" class="redlink">
+					<a href="/work/" class="redlink">
 						<span>Ver todos los proyectos</span>
 					</a>
 				</div>
@@ -2126,7 +2126,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 1 -->
     <div class="faq-item active" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Â¿Qué soluciones ofrece Aenfinite®?</div>
+            <div class="faq-header-title" itemprop="name">¿Qué soluciones ofrece Aenfinite®?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2148,7 +2148,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 2 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Â¿Cómo maneja Aenfinite® los nuevos proyectos?</div>
+            <div class="faq-header-title" itemprop="name">¿Cómo maneja Aenfinite® los nuevos proyectos?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2169,7 +2169,7 @@ recommend a service from 1-10</div>
     <!-- FAQ 3 -->
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
         <div class="faq-header">
-            <div class="faq-header-title" itemprop="name">Â¿Con quién trabaja Aenfinite®?</div>
+            <div class="faq-header-title" itemprop="name">¿Con quién trabaja Aenfinite®?</div>
             <div class="faq-header-icon">
                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" class="faq-heart-icon" alt="FAQ icon" loading="lazy" decoding="async">
             </div>
@@ -2203,7 +2203,7 @@ recommend a service from 1-10</div>
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="contact/" class="redlink">
+								<a href="/es/contact/" class="redlink">
 									<span>Let's talk</span>
 								</a>
 							</div>
@@ -2216,19 +2216,19 @@ recommend a service from 1-10</div>
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">Agencia</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/es/agency/">Agencia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">Contacto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Servicios</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="services/web-design/">Diseño Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="services/wordpress-websites/">Sitios Web WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="services/packaging-design/">Diseño de Empaques</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="services/graphic-design/">Diseño Gráfico</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/es/services/web-design/">Diseño Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/es/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/es/services/packaging-design/">Diseño de Empaques</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/es/services/graphic-design/">Diseño Gráfico</a></li>
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
@@ -2237,11 +2237,11 @@ recommend a service from 1-10</div>
 <li id="menu-item-4964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4964"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.linkedin.com/company/aenfinite">LinkedIn</a></li>
 <li id="menu-item-4964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4964"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/white-label-services/">Servicios de Marca Blanca</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/referral-program/">Programa de Referencias</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/ghl-services/">Servicios GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="contact/">Contacto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/es/contact/">Contacto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2298,12 +2298,12 @@ recommend a service from 1-10</div>
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="agency/">Agencia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/es/agency/">Agencia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="contact/">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="contact/">Contacto</a>
+							<a class="menu-contact" href="/es/contact/">Contacto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envíanos un correo</a>
 						</div>
 					</div>
@@ -2312,7 +2312,7 @@ recommend a service from 1-10</div>
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
+				<a href="/es/contact/" class="to-contact">¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -2625,7 +2625,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
+						<a href="/es/privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>

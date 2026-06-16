@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite",
+  title: "Professional 展示会ブースデザイン | Event ブランディング & Booth Construction",
   description: "Aenfinite is a leading trade show booth design agency specializing in custom exhibition displays, booth construction, event branding, and trade show marketing. We deliver high-impact trade show booths that drive engagement, visibility, and brand recognition.",
   keywords: "trade show booth design, exhibition booth, trade show display, booth construction, event branding, trade show marketing, exhibition design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/trade-show-booth-design/", languages: {"x-default":"https://aenfinite.com/services/trade-show-booth-design/","en":"https://aenfinite.com/services/trade-show-booth-design/","es":"https://aenfinite.com/es/services/trade-show-booth-design/","fr":"https://aenfinite.com/fr/services/trade-show-booth-design/","de":"https://aenfinite.com/de/services/trade-show-booth-design/","it":"https://aenfinite.com/it/services/trade-show-booth-design/","ar":"https://aenfinite.com/ar/services/trade-show-booth-design/","pt":"https://aenfinite.com/pt/services/trade-show-booth-design/","zh":"https://aenfinite.com/zh/services/trade-show-booth-design/","hi":"https://aenfinite.com/hi/services/trade-show-booth-design/","nl":"https://aenfinite.com/nl/services/trade-show-booth-design/","ja":"https://aenfinite.com/ja/services/trade-show-booth-design/","ko":"https://aenfinite.com/ko/services/trade-show-booth-design/"} },
-  openGraph: {"title":"Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including custom exhibition displays, event branding, and trade show marketing. Specializing in high-impact trade show solutions that drive engagement and brand recognition.","url":"https://aenfinite.com/ja/services/trade-show-booth-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including exhibition displays, event branding, and booth construction. Specializing in high-impact trade show solutions that enhance visibility and business growth.","images":["https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"]},
+  openGraph: {"title":"Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including custom exhibition displays, event branding, and trade show marketing. Specializing in high-impact trade show solutions that drive engagement and brand recognition.","url":"https://aenfinite.com/ja/services/trade-show-booth-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including exhibition displays, event branding, and booth construction. Specializing in high-impact trade show solutions that enhance visibility and business growth.","images":["https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/featured-work/">å®Ÿç¸¾</a>
+								<a href="/ja/featured-work/">実績</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a>
+								<a href="/ja/agency/">エージェンシー</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a>
+                                <a href="/ja/services/">サービス</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">é–‹ç™ºã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">開発ソリューション ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ja/services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li><a href="/ja/services/e-commerce-websites/">Eã‚³ãƒžãƒ¼ã‚¹Webã‚µã‚¤ãƒˆ</a></li>
-											<li><a href="/ja/services/custom-web-development">ã‚«ã‚¹ã‚¿ãƒ Webé–‹ç™º</a></li>
-											<li><a href="/ja/services/software-&-platform-development/">ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ï¼†ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</a></li>
-											<li><a href="/ja/services/app-development/">ã‚¢ãƒ—ãƒªé–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design/">Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">ä¸å‹•ç”£Webã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</a></li>									</ul>
+											<li><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
+											<li><a href="/ja/services/custom-web-development/">カスタムWeb開発</a></li>
+											<li><a href="/ja/services/software-and-platform-development/">ソフトウェア＆プラットフォーム開発</a></li>
+											<li><a href="/ja/services/app-development/">アプリ開発</a></li>
+											<li><a href="/ja/services/web-design/">Webサイトデザイン＆開発</a></li>
+											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚µãƒ¼ãƒ“ã‚¹ â€º</a>
+										<a href="#">デザイン＆クリエイティブサービス ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/ui-ux-design/">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-											<li><a href="/ja/services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ï¼†æˆ¦ç•¥</a></li>
-											<li><a href="/ja/services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li> <li><a href="/ja/services/logo-design/">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+											<li><a href="/ja/services/ui-ux-design/">UI/UXデザイン</a></li>
+											<li><a href="/ja/services/branding/">ブランドアイデンティティ＆戦略</a></li>
+											<li><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li> <li><a href="/ja/services/logo-design/">ロゴデザイン</a></li>
 											
-											<li><a href="/ja/services/trade-show-booth-design/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-											<li><a href="/ja/services/conference-branding/">ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+											<li><a href="/ja/services/trade-show-booth-design/">展示会ブースデザイン</a></li>
+											<li><a href="/ja/services/conference-branding/">カンファレンスブランディング</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">マーケティング＆デジタルソリューション ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/digital-marketing/">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°æˆ¦ç•¥</a></li>
-											<li><a href="/ja/services/search-engine-optimization/">æ¤œç´¢ã‚¨ãƒ³ã‚¸ãƒ³æœ€é©åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/ja/services/pay-per-click">ãƒšã‚¤ãƒ»ãƒ‘ãƒ¼ãƒ»ã‚¯ãƒªãƒƒã‚¯ï¼ˆPPCï¼‰åºƒå‘Š</a></li>
-											<li><a href="/ja/services/social-media-marketing/">ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ¡ãƒ‡ã‚£ã‚¢ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</a></li> <li><a href="/ja/services/paid-ads/">æœ‰æ–™åºƒå‘Š</a></li>
+											<li><a href="/ja/services/digital-marketing/">デジタルマーケティング戦略</a></li>
+											<li><a href="/ja/services/search-engine-optimization/">検索エンジン最適化（SEO）</a></li>
+											<li><a href="/ja/services/pay-per-click/">ペイ・パー・クリック（PPC）広告</a></li>
+											<li><a href="/ja/services/social-media-marketing/">ソーシャルメディアマーケティング</a></li> <li><a href="/ja/services/paid-ads/">有料広告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIï¼†ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">AI＆テクノロジーソリューション ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/ai-chatbots-&-virtual-assistants/">AIãƒãƒ£ãƒƒãƒˆãƒœãƒƒãƒˆï¼†ãƒãƒ¼ãƒãƒ£ãƒ«ã‚¢ã‚·ã‚¹ã‚¿ãƒ³ãƒˆ</a></li>
-											<li><a href="/ja/services/workflow-&-business-automation/">ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ–</a></li>
+											<li><a href="/ja/services/ai-chatbots-and-virtual-assistants/">AIチャットボット＆バーチャルアシスタント</a></li>
+											<li><a href="/ja/services/workflow-and-business-automation/">ワークフロー＆ビジネス自動化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›† Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - パートナー募集 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ã‚µãƒ¼ãƒ“ã‚¹ menu - adaptive styling */
+/* Main dropdown from サービス menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ja/contact/" class="topbar-contact_button">ãŠå•ã„åˆã‚ã›</a>
+						<a href="/ja/contact/" class="topbar-contact_button">お問い合わせ</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¿…è¦ãªã‚µãƒ¼ãƒ“ã‚¹ãŒè¦‹ã¤ã‹ã‚‰ãªã„å ´åˆã¯ã€ãŠæ°—è»½ã«ãŠå•ã„åˆã‚ã›ãã ã•ã„ã€‚æœ€é©ãªè§£æ±ºç­–ã‚’ã”ææ¡ˆã„ãŸã—ã¾ã™ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							必要なサービスが見つからない場合は、お気軽にお問い合わせください。最適な解決策をご提案いたします <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>å±•ç¤ºä¼š Booth <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design</span> that creates impactful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">exhibition displays</span>, and drives brand engagement.</span>
+						<span>展示会 Booth <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design</span> that creates impactful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">exhibition displays</span>, and drives brand engagement.</span>
 													
 											</h1>
 									</div>
@@ -1353,18 +1353,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹</span>
-    <span class="marquee-line_text">Exhibition Displays, Booth Construction & Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</span>
-    <span class="marquee-line_text">ç±³å›½ã€ã‚«ãƒŠãƒ€ã€ãã®å…ˆã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›</span>
-    <span class="marquee-line_text">Specialists in å±•ç¤ºä¼š Impact & Brand Engagement</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for å±•ç¤ºä¼š Solutions</span>
-    <span class="marquee-line_text">High-Impact å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ & Construction</span>
-    <span class="marquee-line_text">Professional å±•ç¤ºä¼š & Exhibition Display Solutions</span>
-    <span class="marquee-line_text">Professional å±•ç¤ºä¼š Design ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Event Support & Booth ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹</span>
-    <span class="marquee-line_text">Custom å±•ç¤ºä¼š Solutions for Every Industry</span>
-    <span class="marquee-line_text">å±•ç¤ºä¼š Optimization & Brand Responsiveness</span>
-    <span class="marquee-line_text">Scalable å±•ç¤ºä¼š Solutions & Long-term Growth</span>
+    <span class="marquee-line_text">Professional 展示会ブースデザイン サービス</span>
+    <span class="marquee-line_text">Exhibition Displays, Booth Construction & Event ブランディング</span>
+    <span class="marquee-line_text">米国、カナダ、その先のクライアントにサービスを提供</span>
+    <span class="marquee-line_text">Specialists in 展示会 Impact & Brand Engagement</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for 展示会 Solutions</span>
+    <span class="marquee-line_text">High-Impact 展示会ブースデザイン & Construction</span>
+    <span class="marquee-line_text">Professional 展示会 & Exhibition Display Solutions</span>
+    <span class="marquee-line_text">Professional 展示会 Design エージェンシー with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Event Support & Booth メンテナンス</span>
+    <span class="marquee-line_text">Custom 展示会 Solutions for Every Industry</span>
+    <span class="marquee-line_text">展示会 Optimization & Brand Responsiveness</span>
+    <span class="marquee-line_text">Scalable 展示会 Solutions & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,17 +1372,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ Mockup - Professional Exhibition Display ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="展示会ブースデザイン Mockup - Professional Exhibition Display ブランディング" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">展示会ブースデザイン</a></div>
 																																		<div class="preview-name">Booth Design</div>
-																							<div class="preview-name">Exhibition ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+																							<div class="preview-name">Exhibition ブランディング</div>
 																							<div class="preview-name">3D Mockup</div>
 																							<div class="preview-name">Visual Display</div>
 																					</div>
@@ -1393,17 +1393,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display å±•ç¤ºä¼š ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display 展示会 ブランディング" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ASC Media Wall Display</a></div>
-																																		<div class="preview-name">å±•ç¤ºä¼š Design</div>
-																							<div class="preview-name">Media Wall ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">ASC Media Wall Display</a></div>
+																																		<div class="preview-name">展示会 Design</div>
+																							<div class="preview-name">Media Wall ブランディング</div>
 																							<div class="preview-name">Exhibition Display</div>
 																							<div class="preview-name">Visual Communication</div>
 																					</div>
@@ -1414,19 +1414,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³ - ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ Collection" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ロゴデザイン - ブランドアイデンティティ Collection" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 - ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³ Collection</a></div>
-																																		<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																							<div class="preview-name">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
-																							<div class="preview-name">ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">CycleThe6 - ロゴデザイン Collection</a></div>
+																																		<div class="preview-name">ブランディング</div>
+																							<div class="preview-name">ロゴデザイン</div>
+																							<div class="preview-name">ブランドアイデンティティ</div>
+																							<div class="preview-name">ビジュアルアイデンティティ</div>
 																					</div>
 									</div>
 								</div>
@@ -1435,19 +1435,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ãƒ–ãƒ©ãƒ³ãƒ‰ãƒ‡ã‚¶ã‚¤ãƒ³ - Luxury Perfume Collection" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ブランドデザイン - Luxury Perfume Collection" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Muskfume - Luxury Fragrance ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></div>
-																																		<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																							<div class="preview-name">ãƒ©ã‚°ã‚¸ãƒ¥ã‚¢ãƒªãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">Muskfume - Luxury Fragrance ブランディング</a></div>
+																																		<div class="preview-name">ブランディング</div>
+																							<div class="preview-name">ラグジュアリーブランディング</div>
 																							<div class="preview-name">Fragrance Design</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+																							<div class="preview-name">ブランドアイデンティティ</div>
 																					</div>
 									</div>
 								</div>
@@ -1456,19 +1456,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - ブランドアイデンティティ System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Professional Marketing Design</a></div>
-																																		<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰æˆ¦ç•¥</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
-																							<div class="preview-name">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°è³‡æ–™</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">Professional Marketing Design</a></div>
+																																		<div class="preview-name">ブランディング</div>
+																							<div class="preview-name">ブランド戦略</div>
+																							<div class="preview-name">ブランドアイデンティティ</div>
+																							<div class="preview-name">マーケティング資料</div>
 																					</div>
 									</div>
 								</div>
@@ -1477,18 +1477,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ Mockup - Professional ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ja/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ブランドガイドライン Mockup - Professional ブランドアイデンティティ System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ja/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ System</a></div>
-																																		<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³</div>
-																							<div class="preview-name">ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/branding/">ブランドガイドライン System</a></div>
+																																		<div class="preview-name">ブランディング</div>
+																							<div class="preview-name">ブランドガイドライン</div>
+																							<div class="preview-name">ビジュアルアイデンティティ</div>
 																							<div class="preview-name">Brand System</div>
 																					</div>
 									</div>
@@ -1508,7 +1508,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ services that create impactful, memorable exhibition displays and drive brand engagement. We manage comprehensive booth construction, custom exhibition design, event branding, and marketing services that generate exceptional trade show experiences and long-term business success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional 展示会ブースデザイン services that create impactful, memorable exhibition displays and drive brand engagement. We manage comprehensive booth construction, custom exhibition design, event branding, and marketing services that generate exceptional trade show experiences and long-term business success.</div>
 									<div class="textbox-action">
 						<a href="/ja/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1561,7 +1561,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ Case Studies</h2>
+						<h2>Aenfinite 展示会ブースデザイン Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1569,15 +1569,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ Mockup - Professional Exhibition Display ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="展示会ブースデザイン Mockup - Professional Exhibition Display ブランディング" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a>
+											<a href="/ja/work/branding/">展示会ブースデザイン</a>
 										</div>
 																					<div class="preview-name">Booth Design</div>
-																					<div class="preview-name">Exhibition ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+																					<div class="preview-name">Exhibition ブランディング</div>
 																					<div class="preview-name">3D Mockup</div>
 																					<div class="preview-name">Visual Display</div>
 											
@@ -1587,15 +1587,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display å±•ç¤ºä¼š ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display 展示会 ブランディング" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ASC Media Wall Display</a>
+											<a href="/ja/work/branding/">ASC Media Wall Display</a>
 										</div>
-																					<div class="preview-name">å±•ç¤ºä¼š Design</div>
-																					<div class="preview-name">Media Wall ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+																					<div class="preview-name">展示会 Design</div>
+																					<div class="preview-name">Media Wall ブランディング</div>
 																					<div class="preview-name">Exhibition Display</div>
 																					<div class="preview-name">Visual Communication</div>
 											
@@ -1605,17 +1605,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³ - ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ Collection" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 ロゴデザイン - ブランドアイデンティティ Collection" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">CycleThe6 - ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³ Collection</a>
+											<a href="/ja/work/branding/">CycleThe6 - ロゴデザイン Collection</a>
 										</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																					<div class="preview-name">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
-																					<div class="preview-name">ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+																					<div class="preview-name">ブランディング</div>
+																					<div class="preview-name">ロゴデザイン</div>
+																					<div class="preview-name">ブランドアイデンティティ</div>
+																					<div class="preview-name">ビジュアルアイデンティティ</div>
 											
 									</div>
 								</div>
@@ -1623,17 +1623,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ãƒ–ãƒ©ãƒ³ãƒ‰ãƒ‡ã‚¶ã‚¤ãƒ³ - Luxury Perfume Collection" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance ブランドデザイン - Luxury Perfume Collection" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Muskfume - Luxury Fragrance ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a>
+											<a href="/ja/work/branding/">Muskfume - Luxury Fragrance ブランディング</a>
 										</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																					<div class="preview-name">ãƒ©ã‚°ã‚¸ãƒ¥ã‚¢ãƒªãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+																					<div class="preview-name">ブランディング</div>
+																					<div class="preview-name">ラグジュアリーブランディング</div>
 																					<div class="preview-name">Fragrance Design</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+																					<div class="preview-name">ブランドアイデンティティ</div>
 											
 									</div>
 								</div>
@@ -1641,17 +1641,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - ブランドアイデンティティ System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Professional Marketing Design</a>
+											<a href="/ja/work/branding/">Professional Marketing Design</a>
 										</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰æˆ¦ç•¥</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
-																					<div class="preview-name">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°è³‡æ–™</div>
+																					<div class="preview-name">ブランディング</div>
+																					<div class="preview-name">ブランド戦略</div>
+																					<div class="preview-name">ブランドアイデンティティ</div>
+																					<div class="preview-name">マーケティング資料</div>
 											
 									</div>
 								</div>
@@ -1659,16 +1659,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ Mockup - Professional ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ブランドガイドライン Mockup - Professional ブランドアイデンティティ System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/branding/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ System</a>
+											<a href="/ja/work/branding/">ブランドガイドライン System</a>
 										</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
-																					<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³</div>
-																					<div class="preview-name">ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</div>
+																					<div class="preview-name">ブランディング</div>
+																					<div class="preview-name">ブランドガイドライン</div>
+																					<div class="preview-name">ビジュアルアイデンティティ</div>
 																					<div class="preview-name">Brand System</div>
 											
 									</div>
@@ -1677,8 +1677,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/graphic-design/" class="redlink">
-						<span>ã™ã¹ã¦ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</span>
+					<a href="/ja/work/graphic-design/" class="redlink">
+						<span>すべてのプロジェクトを見る</span>
 					</a>
 				</div>
 			</div>
@@ -1689,12 +1689,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ãŠå•ã„åˆã‚ã› Aenfinite for Expert å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</h2>
+				<h2>お問い合わせ Aenfinite for Expert 展示会ブースデザイン</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ãŠå•ã„åˆã‚ã› form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="お問い合わせ form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1707,10 +1707,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ãŠåå‰*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="お名前*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="メールアドレス*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your booth design project" value="" type="text" name="text-tell-project" />
@@ -1718,37 +1718,37 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>èˆˆå‘³ã®ã‚ã‚‹ã‚µãƒ¼ãƒ“ã‚¹...</strong>
+		<strong>興味のあるサービス...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first"><input type="checkbox" name="services" value="Custom Booth Design" id="custom-booth-design" /><label for="custom-booth-design" class="list-item-label">Custom Booth Design</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="3D Visualization" id="3d-visualization" /><label for="3d-visualization" class="list-item-label">3D Visualization</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Modular Booth Construction" id="modular-construction" /><label for="modular-construction" class="list-item-label">Modular Booth Construction</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹" id="event-branding" /><label for="event-branding" class="list-item-label">Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="Event ブランディング & グラフィックス" id="event-branding" /><label for="event-branding" class="list-item-label">Event ブランディング & グラフィックス</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="On-site Installation" id="on-site-installation" /><label for="on-site-installation" class="list-item-label">On-site Installation</label></span>
-				<span class="list-item"><input type="checkbox" name="services" value="Booth ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹" id="booth-maintenance" /><label for="booth-maintenance" class="list-item-label">Booth ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹</label></span>
+				<span class="list-item"><input type="checkbox" name="services" value="Booth メンテナンス" id="booth-maintenance" /><label for="booth-maintenance" class="list-item-label">Booth メンテナンス</label></span>
 				<span class="list-item"><input type="checkbox" name="services" value="Logistics & Storage" id="logistics-storage" /><label for="logistics-storage" class="list-item-label">Logistics & Storage</label></span>
-				<span class="list-item last"><input type="checkbox" name="services" value="ãã®ä»– Booth Design ã‚µãƒ¼ãƒ“ã‚¹" id="other" /><label for="other" class="list-item-label">ãã®ä»– Booth Design ã‚µãƒ¼ãƒ“ã‚¹</label></span>
+				<span class="list-item last"><input type="checkbox" name="services" value="その他 Booth Design サービス" id="other" /><label for="other" class="list-item-label">その他 Booth Design サービス</label></span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ãŠãŠã‚ˆãã®ã”äºˆç®—ã‚’ãŠçŸ¥ã‚‰ã›ãã ã•ã„" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="おおよそのご予算をお知らせください" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-				<div class="select-option js-select-option">$100ã‹ã‚‰</div>
-				<div class="select-option js-select-option">$500ã€œ$5,000</div>
-				<div class="select-option js-select-option">$5,000ã€œ$20,000</div>
-				<div class="select-option js-select-option">$20,000ã€œ$50,000</div>
-				<div class="select-option js-select-option">$100,000ä»¥ä¸Š</div>
+				<div class="select-option js-select-option">$100から</div>
+				<div class="select-option js-select-option">$500〜$5,000</div>
+				<div class="select-option js-select-option">$5,000〜$20,000</div>
+				<div class="select-option js-select-option">$20,000〜$50,000</div>
+				<div class="select-option js-select-option">$100,000以上</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="é€ä¿¡" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="送信" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1764,7 +1764,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ Expertise</h2>
+						<h2>展示会ブースデザイン Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="panes">
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</div>
+				<div class="pane-title">Custom 展示会ブースデザイン</div>
 				<div class="pane-subtitle">
 					<p>Our team creates fully customized trade show booths that reflect your brand identity. From modern modular systems to one-of-a-kind designs, we deliver booths that attract, engage, and convert visitors.</p>
 				</div>
@@ -1810,7 +1810,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹</div>
+				<div class="pane-title">Event ブランディング & グラフィックス</div>
 				<div class="pane-subtitle">
 					<p>We create impactful graphics, signage, and branded environments that make your booth stand out. Our design team ensures every element communicates your message clearly and powerfully.</p>
 				</div>
@@ -1826,7 +1826,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ & Storage Solutions</div>
+				<div class="pane-title">メンテナンス & Storage Solutions</div>
 				<div class="pane-subtitle">
 					<p>Extend the life of your booth with our maintenance and secure storage services. We handle cleaning, repairs, and inventory management to keep your booth ready for future events.</p>
 				</div>
@@ -1847,7 +1847,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ Process</h2>
+					<h2>展示会ブースデザイン Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1912,7 +1912,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-content js-switch-copy"></div>
 				</div>
 
-				<!-- é–‹ç™º / Build -->
+				<!-- 開発 / Build -->
 				<div class="nlist-item appear js-aos js-switch">
 					<div class="nlist-caption">Build & Installation</div>
 					<div class="nlist-tabs js-switch-tabs">
@@ -1950,7 +1950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Support & Post-Event</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ & Storage</span>
+							<span>メンテナンス & Storage</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We provide booth storage, repairs, and refurbishing services so your setup is always ready for future events.</p>
@@ -1981,7 +1981,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</span> is the perfect blend of creative innovation and strategic brand presentation. å®Ÿç¸¾ with a team that excels at crafting visually stunning booths and delivering unforgettable trade show experiences.					
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">展示会ブースデザイン</span> is the perfect blend of creative innovation and strategic brand presentation. 実績 with a team that excels at crafting visually stunning booths and delivering unforgettable trade show experiences.					
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1992,7 +1992,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹</h2>
+					<h2>Aenfinite 展示会ブースデザイン サービス</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2007,7 +2007,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="chips">
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Booth Design</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Exhibition Display</a></div>
-										<div class="chip"><a href="/ja/contact/" class="chip-label">Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">Event ブランディング</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Portable Booths</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Premium Materials</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Visitor Experience</a></div>
@@ -2034,14 +2034,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						
 						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Booth ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹ & ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+							<div class="service-caption js-service-caption">Booth グラフィックス & ブランディング</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/ja/contact/" class="chip-label">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">グラフィックス</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Brand Messaging</a></div>
-										<div class="chip"><a href="/ja/contact/" class="chip-label">ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</a></div>
-										<div class="chip"><a href="/ja/contact/" class="chip-label">Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">ビジュアルアイデンティティ</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">Event ブランディング</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Typography</a></div>
 									</div>
 								</div>
@@ -2097,11 +2097,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						
 						<!-- Service 4 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Booth Setup & ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹</div>
+							<div class="service-caption js-service-caption">Booth Setup & メンテナンス</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/ja/contact/" class="chip-label">ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">メンテナンス</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Setup</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Storage</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Support</a></div>
@@ -2144,8 +2144,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ãŠè€ƒãˆã§ã™ã‹ï¼Ÿä¸€ç·’ã«ç´ æ™´ã‚‰ã—ã„ã‚‚ã®ã‚’å‰µã‚Šã¾ã—ã‚‡ã†ã€‚</span>
-								<a href="../../contact/" class="redlink">
+								<span>プロジェクトをお考えですか？一緒に素晴らしいものを創りましょう。</span>
+								<a href="/ja/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2155,42 +2155,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">ä¼šç¤¾æƒ…å ±</div>
+								<div class="footer-col_caption">会社情報</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">å®Ÿç¸¾</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">実績</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ja/services/">サービス</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ã‚µãƒ¼ãƒ“ã‚¹</div>
+								<div class="footer-col_caption">サービス</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Webãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ja/services/web-design/">Webデザイン</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ja/services/e-commerce-websites/">展示会ブースデザイン</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ja/services/branding/">ブランディング</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ja/services/packaging-design/">パッケージデザイン</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ブランディング</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ã¤ãªãŒã‚‹</div>
+								<div class="footer-col_caption">つながる</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ãƒ›ãƒ¯ã‚¤ãƒˆãƒ©ãƒ™ãƒ«ã‚µãƒ¼ãƒ“ã‚¹</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ç´¹ä»‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ </a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHLã‚µãƒ¼ãƒ“ã‚¹</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/white-label-services/">ホワイトラベルサービス</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/referral-program/">紹介プログラム</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/ghl-services/">GHLサービス</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ja/contact/">お問い合わせ</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">æ‰€åœ¨åœ°</div>
+								<div class="footer-col_caption">所在地</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2245,15 +2245,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">å®Ÿç¸¾</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">実績</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ja/services/">サービス</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ãŠå•ã„åˆã‚ã›</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ãƒ¡ãƒ¼ãƒ«ã§ãŠå•ã„åˆã‚ã›</a>
+							<a class="menu-contact" href="/ja/contact/">お問い合わせ</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">メールでお問い合わせ</a>
 						</div>
 					</div>
 				</div>
@@ -2261,14 +2261,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°ã—ã„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</a>
+				<a href="/ja/contact/" class="to-contact">新しいプロジェクト？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ミーティングを予約する</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ãƒ“ã‚¸ãƒã‚¹ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</h3>
+			<h3>ビジネスミーティングを予約する</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2506,11 +2506,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ãƒ¦ãƒ¼ã‚¶ãƒ¼ä½“é¨“å‘ä¸Šã®ãŸã‚ã«Cookieã‚’ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚ã€ŒåŒæ„ã™ã‚‹ã€ã‚’ã‚¯ãƒªãƒƒã‚¯ã¾ãŸã¯é–²è¦§ã‚’ç¶šã‘ã‚‹ã“ã¨ã§ã€å½“ç¤¾ã®
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼</a>.
+						ユーザー体験向上のためにCookieを使用しております。「同意する」をクリックまたは閲覧を続けることで、当社の
+						<a href="/ja/privacy-policy/" class="cookie-banner__link" target="_blank">プライバシーポリシー</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">åŒæ„ã™ã‚‹</button>
+				<button class="cookie-banner__button">同意する</button>
 			</div>
 		</div>
 
@@ -2572,11 +2572,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æœˆæ›œæ—¥",
-					  "ç«æ›œæ—¥",
-					  "æ°´æ›œæ—¥",
-					  "æœ¨æ›œæ—¥",
-					  "é‡‘æ›œæ—¥"
+					  "月曜日",
+					  "火曜日",
+					  "水曜日",
+					  "木曜日",
+					  "金曜日"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2640,7 +2640,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2671,7 +2671,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "alternateName": "Aenfinite® - 展示会ブースデザイン エージェンシー",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"ja-JP"
     },
@@ -2681,7 +2681,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ & ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°",
+      "caption": "Aenfinite® 展示会ブースデザイン & ブランディング",
       "inLanguage":"ja-JP"
     },
     {
@@ -2696,12 +2696,12 @@ export default function Page() {
         {
           "@type": "ListItem",
           "position": 2,
-          "item": { "@id": "https://aenfinite.com/services/", "name": "ã‚µãƒ¼ãƒ“ã‚¹" }
+          "item": { "@id": "https://aenfinite.com/services/", "name": "サービス" }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "item": { "@id": "https://aenfinite.com/services/trade-show-booth-design/", "name": "å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³" }
+          "item": { "@id": "https://aenfinite.com/services/trade-show-booth-design/", "name": "展示会ブースデザイン" }
         }
       ]
     },
@@ -2709,7 +2709,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage",
       "url": "https://aenfinite.com/services/trade-show-booth-design/",
-      "name": "Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite®",
+      "name": "Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2733,14 +2733,14 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite®",
-      "keywords": "å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³, Exhibition Displays, Booth Construction, Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°, å±•ç¤ºä¼š Marketing, Event Design",
+      "headline": "Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite®",
+      "keywords": "展示会ブースデザイン, Exhibition Displays, Booth Construction, Event ブランディング, 展示会 Marketing, Event Design",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#author" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "description": "Aenfinite® delivers professional trade show booth design services, including exhibition displays, booth construction, event branding, and trade show marketing. Specializing in high-impact trade show solutions that enhance brand engagement and business growth.",
-      "name": "Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³ | Event ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Booth Construction | Aenfinite®",
+      "name": "Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite®",
       "@id": "https://aenfinite.com/services/trade-show-booth-design/#richSnippet",
       "isPartOf": { "@id": "https://aenfinite.com/services/trade-show-booth-design/#webpage" },
       "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg" },
@@ -2778,11 +2778,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æœˆæ›œæ—¥",
-					  "ç«æ›œæ—¥",
-					  "æ°´æ›œæ—¥",
-					  "æœ¨æ›œæ—¥",
-					  "é‡‘æ›œæ—¥"
+					  "月曜日",
+					  "火曜日",
+					  "水曜日",
+					  "木曜日",
+					  "金曜日"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2821,13 +2821,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ã‚µãƒ¼ãƒ“ã‚¹",
+      "name": "サービス",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³",
+      "name": "Professional 展示会ブースデザイン",
       "item": "https://aenfinite.com/services/trade-show-booth-design/"
     }
   ]

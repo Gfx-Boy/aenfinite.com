@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "White Label ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Partnerships | Design & é–‹ç™º Outsourcing | Aenfinite",
+  title: "White Label エージェンシー Partnerships | Design & 開発 Outsourcing",
   description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services — delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
   keywords: "white label services, white label web design, white label development, agency outsourcing, white label digital marketing, Aenfinite white label",
   alternates: { canonical: "https://aenfinite.com/ja/agency/partner-with-us/white-label-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/white-label-services/","en":"https://aenfinite.com/agency/partner-with-us/white-label-services/","es":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/white-label-services/","de":"https://aenfinite.com/de/agency/partner-with-us/white-label-services/","it":"https://aenfinite.com/it/agency/partner-with-us/white-label-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/white-label-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/white-label-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/white-label-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/white-label-services/"} },
-  openGraph: {"title":"White Label ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Partnerships | Scale Your Creative ã‚µãƒ¼ãƒ“ã‚¹ | Aenfinite","description":"Grow your agency's capabilities with Aenfinite's white label design, branding, and web development services — all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"White Label Partnerships | Scale Your ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ with Aenfinite","description":"Partner with Aenfinite and offer professional design, branding, and development under your agency name. Post-paid options available.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"White Label エージェンシー Partnerships | Scale Your Creative サービス | Aenfinite","description":"Grow your agency's capabilities with Aenfinite's white label design, branding, and web development services — all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"White Label Partnerships | Scale Your エージェンシー with Aenfinite","description":"Partner with Aenfinite and offer professional design, branding, and development under your agency name. Post-paid options available.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -344,7 +344,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 			outline: none !important;
 		}
 
-		/* ãŠå•ã„åˆã‚ã› button specific hover override */
+		/* お問い合わせ button specific hover override */
 		.topbar-contact_button:hover {
 			box-shadow: none !important;
 			transform: none !important;
@@ -741,7 +741,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by aenfinite.comwith ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by aenfinite.comwith ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -872,64 +872,64 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/featured-work/">å®Ÿç¸¾</a>
+								<a href="/ja/featured-work/">実績</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a>
+								<a href="/ja/agency/">エージェンシー</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a>
+                                <a href="/ja/services/">サービス</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">é–‹ç™ºã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">開発ソリューション ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ja/services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li><a href="/ja/services/e-commerce-websites/">Eã‚³ãƒžãƒ¼ã‚¹Webã‚µã‚¤ãƒˆ</a></li>
-											<li><a href="/ja/services/custom-web-development">ã‚«ã‚¹ã‚¿ãƒ Webé–‹ç™º</a></li>
-											<li><a href="/ja/services/software-&-platform-development/">ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ï¼†ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</a></li>
-											<li><a href="/ja/services/app-development/">ã‚¢ãƒ—ãƒªé–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design/">Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">ä¸å‹•ç”£Webã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</a></li>                                      </ul>
+											<li><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
+											<li><a href="/ja/services/custom-web-development/">カスタムWeb開発</a></li>
+											<li><a href="/ja/services/software-and-platform-development/">ソフトウェア＆プラットフォーム開発</a></li>
+											<li><a href="/ja/services/app-development/">アプリ開発</a></li>
+											<li><a href="/ja/services/web-design/">Webサイトデザイン＆開発</a></li>
+											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚µãƒ¼ãƒ“ã‚¹ â€º</a>
+                                        <a href="#">デザイン＆クリエイティブサービス ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/ui-ux-design/">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+                                            <li><a href="/ja/services/ui-ux-design/">UI/UXデザイン</a></li>
 
-                                            <li><a href="/ja/services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ï¼†æˆ¦ç•¥</a></li>
-                                            <li><a href="/ja/services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li> <li><a href="/ja/services/logo-design/">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+                                            <li><a href="/ja/services/branding/">ブランドアイデンティティ＆戦略</a></li>
+                                            <li><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li> <li><a href="/ja/services/logo-design/">ロゴデザイン</a></li>
                                             
-                                            <li><a href="/ja/services/trade-show-booth-design/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-                                            <li><a href="/ja/services/conference-branding/">ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+                                            <li><a href="/ja/services/trade-show-booth-design/">展示会ブースデザイン</a></li>
+                                            <li><a href="/ja/services/conference-branding/">カンファレンスブランディング</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">マーケティング＆デジタルソリューション ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/digital-marketing/">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°æˆ¦ç•¥</a></li>
-                                            <li><a href="/ja/services/search-engine-optimization/">æ¤œç´¢ã‚¨ãƒ³ã‚¸ãƒ³æœ€é©åŒ–ï¼ˆSEOï¼‰</a></li>
-                                            <li><a href="/ja/services/pay-per-click">ãƒšã‚¤ãƒ»ãƒ‘ãƒ¼ãƒ»ã‚¯ãƒªãƒƒã‚¯ï¼ˆPPCï¼‰åºƒå‘Š</a></li>
-                                            <li><a href="/ja/services/social-media-marketing/">ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ¡ãƒ‡ã‚£ã‚¢ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</a></li> <li><a href="/ja/services/paid-ads/">æœ‰æ–™åºƒå‘Š</a></li>
+                                            <li><a href="/ja/services/digital-marketing/">デジタルマーケティング戦略</a></li>
+                                            <li><a href="/ja/services/search-engine-optimization/">検索エンジン最適化（SEO）</a></li>
+                                            <li><a href="/ja/services/pay-per-click/">ペイ・パー・クリック（PPC）広告</a></li>
+                                            <li><a href="/ja/services/social-media-marketing/">ソーシャルメディアマーケティング</a></li> <li><a href="/ja/services/paid-ads/">有料広告</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AIï¼†ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">AI＆テクノロジーソリューション ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/ai-chatbots-&-virtual-assistants/">AIãƒãƒ£ãƒƒãƒˆãƒœãƒƒãƒˆï¼†ãƒãƒ¼ãƒãƒ£ãƒ«ã‚¢ã‚·ã‚¹ã‚¿ãƒ³ãƒˆ</a></li>
-                                            <li><a href="/ja/services/workflow-&-business-automation/">ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ–</a></li>
+                                            <li><a href="/ja/services/ai-chatbots-and-virtual-assistants/">AIチャットボット＆バーチャルアシスタント</a></li>
+                                            <li><a href="/ja/services/workflow-and-business-automation/">ワークフロー＆ビジネス自動化</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›† Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - パートナー募集 Style */
 .menu-item-has-children {
     position: relative;
 }
 
 		/* Dotted Grid Background for Main Content Area */
 		
-/* Main dropdown from ã‚µãƒ¼ãƒ“ã‚¹ menu - adaptive styling */
+/* Main dropdown from サービス menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1048,10 +1048,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">ãŠå•ã„åˆã‚ã›</a>
+						<a href="/contact/?linkcontact=top-contact-button" class="topbar-contact_button">お問い合わせ</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1060,7 +1060,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¿…è¦ãªã‚µãƒ¼ãƒ“ã‚¹ãŒè¦‹ã¤ã‹ã‚‰ãªã„å ´åˆã¯ã€ãŠæ°—è»½ã«ãŠå•ã„åˆã‚ã›ãã ã•ã„ã€‚æœ€é©ãªè§£æ±ºç­–ã‚’ã”ææ¡ˆã„ãŸã—ã¾ã™ <a href="mailto:hello@aenfinite.com.com">hello@aenfinite.com</a>
+							必要なサービスが見つからない場合は、お気軽にお問い合わせください。最適な解決策をご提案いたします <a href="mailto:hello@aenfinite.com.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1089,7 +1089,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>White Label <span style="background: #227bf3; color: white; text-align: center;">ã‚µãƒ¼ãƒ“ã‚¹</span></span>
+						<span>White Label <span style="background: #227bf3; color: white; text-align: center;">サービス</span></span>
 													<span></span>	
 											</h1>
 									</div>
@@ -1124,18 +1124,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">ã‚¤ãƒŽãƒ™ãƒ¼ãƒ†ã‚£ãƒ–ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™ºã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</span>
-    <span class="marquee-line_text">ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆã€ã‚¢ãƒ—ãƒªï¼†ãƒ–ãƒ©ãƒ³ãƒ‰ä½“é¨“</span>
-    <span class="marquee-line_text">ç±³å›½ã€ã‚«ãƒŠãƒ€ã€ãã®å…ˆã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›</span>
-    <span class="marquee-line_text">UI/UXã€SEOï¼†ã‚°ãƒ­ãƒ¼ã‚¹ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã®å°‚é–€å®¶</span>
-    <span class="marquee-line_text">ã‚¹ã‚¿ãƒ¼ãƒˆã‚¢ãƒƒãƒ—ï¼†ã‚°ãƒ­ãƒ¼ãƒãƒ«ä¼æ¥­ã‹ã‚‰ã®ä¿¡é ¼</span>
-    <span class="marquee-line_text">ç†Ÿç·´ãƒãƒ¼ãƒ  – Reactã€WordPressã€Firebaseã€Figma</span>
-    <span class="marquee-line_text">ã‚¢ã‚¸ãƒ£ã‚¤ãƒ«ï¼†ãƒ‡ãƒ¼ã‚¿ãƒ‰ãƒªãƒ–ãƒ³é–‹ç™ºãƒ—ãƒ­ã‚»ã‚¹</span>
-    <span class="marquee-line_text">æ±å—ã‚¢ã‚¸ã‚¢ã«ãƒ«ãƒ¼ãƒ„ã‚’æŒã¤ã‚°ãƒ­ãƒ¼ãƒãƒ«ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</span>
-    <span class="marquee-line_text">ã‚¹ã‚±ãƒ¼ãƒ©ãƒ–ãƒ«ãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã§ãƒ“ã‚¸ãƒã‚¹ã‚’æ”¯æ´</span>
-    <span class="marquee-line_text">ã‚ã‚‰ã‚†ã‚‹æ¥­ç•Œã®ãŸã‚ã®ã‚ªãƒ¼ãƒ€ãƒ¼ãƒ¡ã‚¤ãƒ‰æˆ¦ç•¥</span>
-    <span class="marquee-line_text">Webã€ãƒ¢ãƒã‚¤ãƒ«ã€SaaSé–‹ç™ºã®å°‚é–€å®¶</span>
-    <span class="marquee-line_text">æˆæžœé‡è¦–ã®ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</span>
+    <span class="marquee-line_text">イノベーティブデザイン＆開発エージェンシー</span>
+    <span class="marquee-line_text">カスタムWebサイト、アプリ＆ブランド体験</span>
+    <span class="marquee-line_text">米国、カナダ、その先のクライアントにサービスを提供</span>
+    <span class="marquee-line_text">UI/UX、SEO＆グロースマーケティングの専門家</span>
+    <span class="marquee-line_text">スタートアップ＆グローバル企業からの信頼</span>
+    <span class="marquee-line_text">熟練チーム – React、WordPress、Firebase、Figma</span>
+    <span class="marquee-line_text">アジャイル＆データドリブン開発プロセス</span>
+    <span class="marquee-line_text">東南アジアにルーツを持つグローバルエージェンシー</span>
+    <span class="marquee-line_text">スケーラブルなソリューションでビジネスを支援</span>
+    <span class="marquee-line_text">あらゆる業界のためのオーダーメイド戦略</span>
+    <span class="marquee-line_text">Web、モバイル、SaaS開発の専門家</span>
+    <span class="marquee-line_text">成果重視のデジタルマーケティングソリューション</span>
 </div>
 									</div>
 			</div>
@@ -1152,7 +1152,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Partner with Aenfinite for comprehensive <strong>White Label Partnerships</strong> that scale your agency's capabilities without the overhead. 
-          Aenfinite® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>ã‚¢ãƒ—ãƒªé–‹ç™º</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
+          Aenfinite® delivers <strong>branding</strong>, <strong>web design</strong>, <strong>UI/UX, development</strong>, <strong>digital marketing</strong>, <strong>アプリ開発</strong>, <strong>software solutions</strong>, <strong>AI automation</strong> and more. All executed under your agency's brand to help you scale and succeed.
           <br /><br />
           <strong>Over 8+ years of white label experience</strong> serving agencies worldwide, we've completed <strong>300+ white label projects</strong> with a 
           <strong>98% client retention rate</strong>. Our dedicated white label division ensures consistent quality, quick turnaround time, and seamless client communication. 
@@ -1164,7 +1164,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" style="padding: 30px;">
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async"/></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async"/></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized エージェンシー" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1219,9 +1219,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Choose Our ãƒ›ãƒ¯ã‚¤ãƒˆãƒ©ãƒ™ãƒ«ã‚µãƒ¼ãƒ“ã‚¹?</strong></h2>
+			<h2><strong>Why Choose Our ホワイトラベルサービス?</strong></h2>
 			<p>&nbsp;</p>
-			<p>At <strong>Aenfinite®</strong>, we believe in growing together with our partners. That's why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, ã‚¢ãƒ—ãƒªé–‹ç™º, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
+			<p>At <strong>Aenfinite®</strong>, we believe in growing together with our partners. That's why we offer a white-label partnership program, allowing agencies to leverage our <strong>web design, アプリ開発, branding, digital marketing, e-commerce, UI/UX design, and full-spectrum digital solutions</strong> under their own brand. Deliver world-class services to your clients while we handle the execution seamlessly behind the scenes.</p>
 			<p>&nbsp;</p>
 			<p>By joining our white label partnership, you're not just recommending an agencyyou're helping brands experience innovation and quality that scale your business offerings and deliver premium digital experiences. Every successful white label project helps you, while giving your network access to a <strong>trusted digital innovation agency</strong> that delivers measurable results.</p>
 			<p>&nbsp;</p>
@@ -1233,7 +1233,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<li><strong>Scalable Capacity:</strong> Handle overflow work or expand into new service areas without hiring overhead</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Ready to explore white label partnership opportunities? ãƒ¡ãƒ¼ãƒ«ã§ãŠå•ã„åˆã‚ã› at 
+			<p>Ready to explore white label partnership opportunities? メールでお問い合わせ at 
 				<a href="mailto:whitelabel@aenfinite.com" target="_blank" rel="noopener">whitelabel@aenfinite.com</a> 
 				to discuss how we can help scale your agency today.</p>
 		</div>
@@ -1245,64 +1245,64 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Our ãƒ›ãƒ¯ã‚¤ãƒˆãƒ©ãƒ™ãƒ«ã‚µãƒ¼ãƒ“ã‚¹</h2>
+						<h2>Our ホワイトラベルサービス</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos" style="margin-bottom: 80px;">
 					<div class="textbox-content">
-						Complete white label solutions for every digital experience your agency need. From web design and ã‚¢ãƒ—ãƒªé–‹ç™º to branding, digital marketing, e-commerce, UI/UX design, and beyond - we deliver premium services across all digital touchpoints under your agency's brand.
+						Complete white label solutions for every digital experience your agency need. From web design and アプリ開発 to branding, digital marketing, e-commerce, UI/UX design, and beyond - we deliver premium services across all digital touchpoints under your agency's brand.
 					</div>
 				</div>
 				<div class="infobox-grid infobox-grid__2">
 					<div class="infobox-row">
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+								<div class="infobox-title">Webデザイン & 開発</div>
 								<div class="infobox-description">
 									<p>Complete website design and development services, from WordPress to custom applications. All delivered under your branding with post-paid terms.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/web-design/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/web-design/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Identity</div>
+								<div class="infobox-title">ブランディング & Identity</div>
 								<div class="infobox-description">
 									<p>Complete brand identity systems including logos, brand guidelines, and marketing collateral. Professional branding solutions for your agency clients.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/branding/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/branding/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</div>
+								<div class="infobox-title">デジタルマーケティング</div>
 								<div class="infobox-description">
 									<p>SEO optimization, social media management, and digital advertising campaigns. Complete digital marketing solutions delivered as white label services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/digital-marketing/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/digital-marketing/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Mobile ã‚¢ãƒ—ãƒªé–‹ç™º</div>
+								<div class="infobox-title">Mobile アプリ開発</div>
 								<div class="infobox-description">
-									<p>Native and cross-platform mobile applications for iOS and Android. Complete ã‚¢ãƒ—ãƒªé–‹ç™º lifecycle from concept to app store deployment.</p>
+									<p>Native and cross-platform mobile applications for iOS and Android. Complete アプリ開発 lifecycle from concept to app store deployment.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/app-development/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/app-development/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
@@ -1314,60 +1314,60 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<p>Complete e-commerce platforms including Shopify, WooCommerce, and custom solutions. Online store design, development, and optimization services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/e-commerce-websites/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/e-commerce-websites/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
+								<div class="infobox-title">UI/UXデザイン</div>
 								<div class="infobox-description">
 									<p>User interface and experience design for web and mobile applications. Comprehensive design research, prototyping, and user testing services.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/ui-ux-design/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/ui-ux-design/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³ & Print</div>
+								<div class="infobox-title">グラフィックデザイン & Print</div>
 								<div class="infobox-description">
 									<p>Complete graphic design services including marketing materials, packaging, print collateral, and promotional graphics for all media channels.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/graphic-design/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/graphic-design/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Custom ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢é–‹ç™º</div>
+								<div class="infobox-title">Custom ソフトウェア開発</div>
 								<div class="infobox-description">
 									<p>Bespoke software solutions including SaaS platforms, business applications, and integration services tailored to your clients' specific needs.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/software-&-platform-development/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/software-and-platform-development/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">& More Digital ã‚µãƒ¼ãƒ“ã‚¹</div>
+								<div class="infobox-title">& More Digital サービス</div>
 								<div class="infobox-description">
 									<p>Every digital experience your agency needs - from video production and animation to AR/VR solutions and emerging technologies. Complete digital ecosystem coverage.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="../services/" class="redlink">
-										<span>è©³ã—ãè¦‹ã‚‹</span>
+									<a href="/ja/services/" class="redlink">
+										<span>詳しく見る</span>
 									</a>
 								</div>
 							</div>
@@ -1383,7 +1383,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="textbox-content normaltext">
 				<h2><strong>Complete Digital Experience Coverage</strong></h2>
 				<p>&nbsp;</p>
-				<p>Unlike agencies that specialize in just a few services, <strong>Aenfinite's white label program covers every digital touchpoint</strong> your clients need. From initial brand strategy and web design to ã‚¢ãƒ—ãƒªé–‹ç™º, e-commerce platforms, digital marketing campaigns, and emerging technologies - we ensure your agency can confidently take on any digital project.</p>
+				<p>Unlike agencies that specialize in just a few services, <strong>Aenfinite's white label program covers every digital touchpoint</strong> your clients need. From initial brand strategy and web design to アプリ開発, e-commerce platforms, digital marketing campaigns, and emerging technologies - we ensure your agency can confidently take on any digital project.</p>
 				<p>&nbsp;</p>
 				<p>Our comprehensive service portfolio includes: <strong>web design & development, mobile applications, e-commerce solutions, branding & identity, UI/UX design, digital marketing, graphic design, custom software development, and any emerging digital technology</strong> your clients require.</p>
 				<p>&nbsp;</p>
@@ -1408,7 +1408,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <div class="infobox-index"></div>
                             <div class="infobox-title" style="padding-top: 50px;">Step 1 <span class="chevron"></span> Partnership Setup</div>
                             <div class="infobox-description">
-                                <p>ãŠå•ã„åˆã‚ã› us to discuss your white-label needs. We'll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
+                                <p>お問い合わせ us to discuss your white-label needs. We'll finalize partnership terms, set up post-paid payment arrangements, agree on branding guidelines, and establish project workflows that keep collaboration seamless.</p>
                             </div>
                         </div>
                     </div>
@@ -1519,7 +1519,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</div>
 				<div class="textbox appear js-aos" style="text-align: center; margin: 40px auto 0 auto; display: flex; justify-content: center; width: 100%;">
 					<a href="mailto:whitelabel@aenfinite.com?subject=White Label - Payment Terms Inquiry" class="redlink" style="padding-bottom: 100px; margin: 0 auto;">
-						<span>è©³ã—ãè¦‹ã‚‹</span>
+						<span>詳しく見る</span>
 					</a>
 				</div>
 			</div>
@@ -1532,7 +1532,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/ja/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1542,39 +1542,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">ä¼šç¤¾æƒ…å ±</div>
+								<div class="footer-col_caption">会社情報</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">å®Ÿç¸¾</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ja/agency/partner-with-us/">エージェンシー</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">サービス</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ã‚µãƒ¼ãƒ“ã‚¹</div>
+								<div class="footer-col_caption">サービス</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ja/services/web-design/">Webãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ja/services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ja/services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ja/services/packaging-design/">ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ja/services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ja/services/web-design/">Webデザイン</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ja/services/branding/">ブランディング</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ja/services/packaging-design/">パッケージデザイン</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ã¤ãªãŒã‚‹</div>
+								<div class="footer-col_caption">つながる</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">パートナー募集</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ja/contact/">お問い合わせ</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">æ‰€åœ¨åœ°</div>
+									<div class="footer-col_caption">所在地</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1627,15 +1627,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">å®Ÿç¸¾</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ja/agency/partner-with-us/">エージェンシー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">サービス</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ãŠå•ã„åˆã‚ã›</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com.com">ãƒ¡ãƒ¼ãƒ«ã§ãŠå•ã„åˆã‚ã›</a>
+							<a class="menu-contact" href="/ja/contact/">お問い合わせ</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com.com">メールでお問い合わせ</a>
 						</div>
 					</div>
 				</div>
@@ -1643,13 +1643,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°ã—ã„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</a>
+				<a href="/ja/contact/" class="to-contact">新しいプロジェクト？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ミーティングを予約する</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ãƒ“ã‚¸ãƒã‚¹ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</h3>
+			<h3>ビジネスミーティングを予約する</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1978,11 +1978,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ãƒ¦ãƒ¼ã‚¶ãƒ¼ä½“é¨“å‘ä¸Šã®ãŸã‚ã«Cookieã‚’ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚ã€ŒåŒæ„ã™ã‚‹ã€ã‚’ã‚¯ãƒªãƒƒã‚¯ã¾ãŸã¯é–²è¦§ã‚’ç¶šã‘ã‚‹ã“ã¨ã§ã€å½“ç¤¾ã®
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼</a>.
+						ユーザー体験向上のためにCookieを使用しております。「同意する」をクリックまたは閲覧を続けることで、当社の
+						<a href="/ja/privacy-policy/" class="cookie-banner__link" target="_blank">プライバシーポリシー</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">åŒæ„ã™ã‚‹</button>
+				<button class="cookie-banner__button">同意する</button>
 			</div>
 		</div>
 
@@ -2081,7 +2081,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/agency/partner-with-us/white-label-services/",
-  "name": "White Label ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Partnerships | Design & é–‹ç™º Outsourcing | Aenfinite",
+  "name": "White Label エージェンシー Partnerships | Design & 開発 Outsourcing | Aenfinite",
   "description": "Aenfinite provides white label design, branding, web development, and marketing services for creative agencies and resellers. Based in Denver, serving global clients.",
   "publisher": {
     "@type": "Organization",
@@ -2099,8 +2099,8 @@ export default function Page() {
   },
   "mainEntity": {
     "@type": "Offer",
-    "name": "Aenfinite ãƒ›ãƒ¯ã‚¤ãƒˆãƒ©ãƒ™ãƒ«ã‚µãƒ¼ãƒ“ã‚¹",
-    "category": "ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Partnership",
+    "name": "Aenfinite ホワイトラベルサービス",
+    "category": "エージェンシー Partnership",
     "description": "Scale your business with Aenfinite's white label creative and development services. Flexible partnership models and post-paid options available.",
     "areaServed": {
       "@type": "Place",
@@ -2125,19 +2125,19 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼",
+      "name": "エージェンシー",
       "item": "https://aenfinite.com/agency/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†",
+      "name": "パートナー募集",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "White Label ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Partnerships",
+      "name": "White Label エージェンシー Partnerships",
       "item": "https://aenfinite.com/agency/partner-with-us/white-label-services/"
     }
   ]

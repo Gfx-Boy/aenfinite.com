@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
+import LanguageSwitcher from '@/components/LanguageSwitcher';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -8,7 +9,7 @@ export const metadata: Metadata = {
     default: 'Aenfinite® | Professional Digital Innovation Agency',
     template: '%s | Aenfinite®',
   },
-  description: 'digital innovation agency specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions.',
+  description: 'full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design.',
   icons: {
     icon: [
       { url: '/wp-content/themes/aenfinite.com/favicon/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
@@ -52,20 +53,26 @@ export default function RootLayout({
       <head>
         {/* DNS prefetch & preconnect for speed */}
 
+        {/* Local SEO - Denver, Colorado geo signals */}
+        <meta name="geo.region" content="US-CO" />
+        <meta name="geo.placename" content="Denver" />
+        <meta name="geo.position" content="39.7392;-104.9903" />
+        <meta name="ICBM" content="39.7392, -104.9903" />
+
         {/* HREFLANG TAGS - Global language alternates */}
-        <link rel="alternate" hrefLang="x-default" href="https://aenfinite.com/" />
-        <link rel="alternate" hrefLang="en" href="https://aenfinite.com/" />
-        <link rel="alternate" hrefLang="es" href="https://aenfinite.com/es/" />
-        <link rel="alternate" hrefLang="fr" href="https://aenfinite.com/fr/" />
-        <link rel="alternate" hrefLang="de" href="https://aenfinite.com/de/" />
-        <link rel="alternate" hrefLang="it" href="https://aenfinite.com/it/" />
-        <link rel="alternate" hrefLang="ar" href="https://aenfinite.com/ar/" />
-        <link rel="alternate" hrefLang="pt" href="https://aenfinite.com/pt/" />
-        <link rel="alternate" hrefLang="zh" href="https://aenfinite.com/zh/" />
-        <link rel="alternate" hrefLang="hi" href="https://aenfinite.com/hi/" />
-        <link rel="alternate" hrefLang="nl" href="https://aenfinite.com/nl/" />
-        <link rel="alternate" hrefLang="ja" href="https://aenfinite.com/ja/" />
-        <link rel="alternate" hrefLang="ko" href="https://aenfinite.com/ko/" />
+        <link rel="alternate" hrefLang="x-default" href="/" />
+        <link rel="alternate" hrefLang="en" href="/" />
+        <link rel="alternate" hrefLang="es" href="/es/" />
+        <link rel="alternate" hrefLang="fr" href="/fr/" />
+        <link rel="alternate" hrefLang="de" href="/de/" />
+        <link rel="alternate" hrefLang="it" href="/it/" />
+        <link rel="alternate" hrefLang="ar" href="/ar/" />
+        <link rel="alternate" hrefLang="pt" href="/pt/" />
+        <link rel="alternate" hrefLang="zh" href="/zh/" />
+        <link rel="alternate" hrefLang="hi" href="/hi/" />
+        <link rel="alternate" hrefLang="nl" href="/nl/" />
+        <link rel="alternate" hrefLang="ja" href="/ja/" />
+        <link rel="alternate" hrefLang="ko" href="/ko/" />
         {/* END HREFLANG */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
@@ -141,6 +148,9 @@ export default function RootLayout({
       </head>
       <body>
         {children}
+
+        {/* Global floating language switcher */}
+        <LanguageSwitcher />
 
         {/* Reveal page once styles are loaded */}
         <Script id="fouc-prevention" strategy="beforeInteractive">

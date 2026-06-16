@@ -868,8 +868,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
 <li><a href="/es/services/e-commerce-websites/">Sitios Web de E-Commerce</a></li>
-											<li><a href="/es/services/custom-web-development">Desarrollo Web Personalizado</a></li>
-											<li><a href="/es/services/software-&-platform-development/">Desarrollo de Software y Plataformas</a></li>
+											<li><a href="/es/services/custom-web-development/">Desarrollo Web Personalizado</a></li>
+											<li><a href="/es/services/software-and-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
 											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
 											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>                                      </ul>
@@ -891,7 +891,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/es/services/digital-marketing/">Estrategia de Marketing Digital</a></li>
                                             <li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
-                                            <li><a href="/es/services/pay-per-click">Publicidad de Pago por Clic (PPC)</a></li>
+                                            <li><a href="/es/services/pay-per-click/">Publicidad de Pago por Clic (PPC)</a></li>
                                             <li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li>
                                             <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
                                         </ul>
@@ -899,8 +899,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Soluciones de IA y Tecnología </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/es/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
-                                            <li><a href="/es/services/workflow-&-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
+                                            <li><a href="/es/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
+                                            <li><a href="/es/services/workflow-and-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1023,10 +1023,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../../../agency/partner-with-us/">Asóciate con nosotros</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/es/agency/partner-with-us/">Asóciate con nosotros</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../../../contact/index57fd.html?linkcontact=top-contact-button" class="topbar-contact_button">Contacto</a>
+						<a href="/contact/?linkcontact=top-contact-button" class="topbar-contact_button">Contacto</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1104,7 +1104,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Expertos en UI/UX, SEO y Marketing de Crecimiento</span>
     <span class="marquee-line_text">Confianza de Startups y Empresas Globales</span>
     <span class="marquee-line_text">Skilled Team  React, WordPress, Firebase, Figma</span>
-    <span class="marquee-line_text">Proceso de Desarrollo Ãgil y Basado en Datos</span>
+    <span class="marquee-line_text">Proceso de Desarrollo Ágil y Basado en Datos</span>
     <span class="marquee-line_text">Agencia Global con Raíces del Sudeste Asiático</span>
     <span class="marquee-line_text">Potenciando Negocios con Soluciones Escalables</span>
     <span class="marquee-line_text">Estrategias a la Medida para Cada Industria</span>
@@ -1386,7 +1386,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/es/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1398,12 +1398,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portafolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agencia</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/es/agency/partner-with-us/">Agencia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contacto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1424,7 +1424,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Asóciate con nosotros</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contacto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/es/contact/">Contacto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1473,7 +1473,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../../">
+									<a href="/es/agency/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="aenfinite.com" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1481,14 +1481,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portafolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agencia</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/es/featured-work/">Portafolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/es/agency/partner-with-us/">Agencia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contacto</a>
+							<a class="menu-contact" href="/es/contact/">Contacto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com.com">Envíanos un correo</a>
 						</div>
 					</div>
@@ -1497,7 +1497,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Â¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
+				<a href="/es/contact/" class="to-contact">¿Nuevo Proyecto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar una Reunión</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1742,7 +1742,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para mejorar tu experiencia. Al hacer clic en ACEPTAR o continuar navegando, aceptas nuestra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
+						<a href="/es/privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidad</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceptar</button>

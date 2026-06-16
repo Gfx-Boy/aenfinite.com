@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert Pay-Per-Click (PPC) Adverteren Diensten | Google Ads Management | Aenfinite",
+  title: "Expert Pay-Per-Click (PPC) Adverteren Diensten | Google Ads Management",
   description: "Aenfinite® offers expert PPC advertising services — including Google Ads, Facebook Ads, campaign optimization, and conversion tracking. We create data-driven ad strategies to maximize ROI and drive targeted leads.",
   keywords: "PPC advertising, pay per click, Google Ads, Bing Ads, PPC management, campaign optimization, conversion tracking, SEM, cost per click, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/nl/services/pay-per-click/", languages: {"x-default":"https://aenfinite.com/services/pay-per-click/","en":"https://aenfinite.com/services/pay-per-click/","es":"https://aenfinite.com/es/services/pay-per-click/","fr":"https://aenfinite.com/fr/services/pay-per-click/","de":"https://aenfinite.com/de/services/pay-per-click/","it":"https://aenfinite.com/it/services/pay-per-click/","ar":"https://aenfinite.com/ar/services/pay-per-click/","pt":"https://aenfinite.com/pt/services/pay-per-click/","zh":"https://aenfinite.com/zh/services/pay-per-click/","hi":"https://aenfinite.com/hi/services/pay-per-click/","nl":"https://aenfinite.com/nl/services/pay-per-click/","ja":"https://aenfinite.com/ja/services/pay-per-click/","ko":"https://aenfinite.com/ko/services/pay-per-click/"} },
@@ -1118,8 +1118,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											                                            
 											<li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/nl/services/custom-web-development">Op Maat Gemaakte Webontwikkeling</a></li>
-											<li><a href="/nl/services/software-&-platform-development/">Software- & Platformontwikkeling</a></li>
+											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
+											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>									</ul>
@@ -1140,7 +1140,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-											<li><a href="/nl/services/pay-per-click">Pay-Per-Click (PPC) Adverteren</a></li>
+											<li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
 											<li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li> <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
 
 										</ul>
@@ -1150,8 +1150,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="menu-item menu-item-has-children">
 										<a href="#">AI- & Technologische Oplossingen </a>
 										<ul class="sub-menu">
-											<li><a href="/nl/services/ai-chatbots-&-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-											<li><a href="/nl/services/workflow-&-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+											<li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+											<li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1448,7 +1448,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ik ben geÃ¯nteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook & Instagram Ads" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook & Instagram Ads</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="campaign-optimization" /><label for="campaign-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="YouTube Advertising" id="youtube-ads" /><label for="youtube-ads" class="list-item-label">YouTube Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Shopping Campaigns" id="shopping-campaigns" /><label for="shopping-campaigns" class="list-item-label">Shopping Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Display Advertising" id="display-ads" /><label for="display-ads" class="list-item-label">Display Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig PPC Diensten" id="other" /><label for="other" class="list-item-label">Overig PPC Diensten</label></span></span></span>
+		<strong>Ik ben geïnteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Google Ads Management" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Google Ads Management</label></span><span class="list-item"><input type="checkbox" name="services" value="Facebook & Instagram Ads" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Facebook & Instagram Ads</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Campaign Optimization" id="campaign-optimization" /><label for="campaign-optimization" class="list-item-label">PPC Campaign Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Conversion Tracking & Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Conversion Tracking & Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="Landing Page Optimization" id="landing-page" /><label for="landing-page" class="list-item-label">Landing Page Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="YouTube Advertising" id="youtube-ads" /><label for="youtube-ads" class="list-item-label">YouTube Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="Shopping Campaigns" id="shopping-campaigns" /><label for="shopping-campaigns" class="list-item-label">Shopping Campaigns</label></span><span class="list-item"><input type="checkbox" name="services" value="Display Advertising" id="display-ads" /><label for="display-ads" class="list-item-label">Display Advertising</label></span><span class="list-item"><input type="checkbox" name="services" value="PPC Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">PPC Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig PPC Diensten" id="other" /><label for="other" class="list-item-label">Overig PPC Diensten</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Vertel ons uw geschatte budget" value="" readonly name="budget" />
@@ -1865,7 +1865,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/nl/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1877,21 +1877,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Bedrijf</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Diensten</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Diensten</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Webdesign</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress Websites</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Merkontwerp</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Verpakkingsontwerp</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/nl/services/web-design/">Webdesign</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/nl/services/branding/">Merkontwerp</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/nl/services/packaging-design/">Verpakkingsontwerp</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Merkontwerp</a></li>
 
 </ul>														</div>
@@ -1901,12 +1901,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Word Partner</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/">Word Partner</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/nl/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1965,14 +1965,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Diensten</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contact</a>
+							<a class="menu-contact" href="/nl/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">E-mail ons</a>
 						</div>
 					</div>
@@ -1981,7 +1981,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
+				<a href="/nl/contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2227,7 +2227,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wij gebruiken cookies om uw gebruikerservaring te verbeteren. Door op ACCEPTEREN te klikken of verder te bladeren, stemt u in met ons
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
+						<a href="/nl/privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepteren</button>
@@ -2362,7 +2362,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

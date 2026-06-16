@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design | Aenfinite®",
+  title: "Professional UI/UXデザイン サービス | User Interface & Experience Design",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/web-design/", languages: {"x-default":"https://aenfinite.com/services/web-design/","en":"https://aenfinite.com/services/web-design/","es":"https://aenfinite.com/es/services/web-design/","fr":"https://aenfinite.com/fr/services/web-design/","de":"https://aenfinite.com/de/services/web-design/","it":"https://aenfinite.com/it/services/web-design/","ar":"https://aenfinite.com/ar/services/web-design/","pt":"https://aenfinite.com/pt/services/web-design/","zh":"https://aenfinite.com/zh/services/web-design/","hi":"https://aenfinite.com/hi/services/web-design/","nl":"https://aenfinite.com/nl/services/web-design/","ja":"https://aenfinite.com/ja/services/web-design/","ko":"https://aenfinite.com/ko/services/web-design/"} },
-  openGraph: {"title":"Professional UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ja/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹ | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Professional UI/UXデザイン サービス | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ja/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional UI/UXデザイン サービス | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1103,63 +1103,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/featured-work/">å®Ÿç¸¾</a>
+								<a href="/ja/featured-work/">実績</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a>
+								<a href="/ja/agency/">エージェンシー</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a>
+                                <a href="/ja/services/">サービス</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">é–‹ç™ºã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">開発ソリューション ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ja/services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li><a href="/ja/services/e-commerce-websites/">Eã‚³ãƒžãƒ¼ã‚¹Webã‚µã‚¤ãƒˆ</a></li>
-											<li><a href="/ja/services/custom-web-development">ã‚«ã‚¹ã‚¿ãƒ Webé–‹ç™º</a></li>
-											<li><a href="/ja/services/software-&-platform-development/">ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ï¼†ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</a></li>
-											<li><a href="/ja/services/app-development/">ã‚¢ãƒ—ãƒªé–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design/">Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">ä¸å‹•ç”£Webã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</a></li>									</ul>
+											<li><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
+											<li><a href="/ja/services/custom-web-development/">カスタムWeb開発</a></li>
+											<li><a href="/ja/services/software-and-platform-development/">ソフトウェア＆プラットフォーム開発</a></li>
+											<li><a href="/ja/services/app-development/">アプリ開発</a></li>
+											<li><a href="/ja/services/web-design/">Webサイトデザイン＆開発</a></li>
+											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚µãƒ¼ãƒ“ã‚¹ â€º</a>
+										<a href="#">デザイン＆クリエイティブサービス ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/ui-ux-design/">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-											<li><a href="/ja/services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ï¼†æˆ¦ç•¥</a></li>
-											<li><a href="/ja/services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li> <li><a href="/ja/services/logo-design/">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+											<li><a href="/ja/services/ui-ux-design/">UI/UXデザイン</a></li>
+											<li><a href="/ja/services/branding/">ブランドアイデンティティ＆戦略</a></li>
+											<li><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li> <li><a href="/ja/services/logo-design/">ロゴデザイン</a></li>
 											
-											<li><a href="/ja/services/trade-show-booth-design/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-											<li><a href="/ja/services/conference-branding/">ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+											<li><a href="/ja/services/trade-show-booth-design/">展示会ブースデザイン</a></li>
+											<li><a href="/ja/services/conference-branding/">カンファレンスブランディング</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">マーケティング＆デジタルソリューション ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/digital-marketing/">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°æˆ¦ç•¥</a></li>
-											<li><a href="/ja/services/search-engine-optimization/">æ¤œç´¢ã‚¨ãƒ³ã‚¸ãƒ³æœ€é©åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/ja/services/pay-per-click">ãƒšã‚¤ãƒ»ãƒ‘ãƒ¼ãƒ»ã‚¯ãƒªãƒƒã‚¯ï¼ˆPPCï¼‰åºƒå‘Š</a></li>
-											<li><a href="/ja/services/social-media-marketing/">ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ¡ãƒ‡ã‚£ã‚¢ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</a></li> <li><a href="/ja/services/paid-ads/">æœ‰æ–™åºƒå‘Š</a></li>
+											<li><a href="/ja/services/digital-marketing/">デジタルマーケティング戦略</a></li>
+											<li><a href="/ja/services/search-engine-optimization/">検索エンジン最適化（SEO）</a></li>
+											<li><a href="/ja/services/pay-per-click/">ペイ・パー・クリック（PPC）広告</a></li>
+											<li><a href="/ja/services/social-media-marketing/">ソーシャルメディアマーケティング</a></li> <li><a href="/ja/services/paid-ads/">有料広告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIï¼†ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+										<a href="#">AI＆テクノロジーソリューション ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ja/services/ai-chatbots-&-virtual-assistants/">AIãƒãƒ£ãƒƒãƒˆãƒœãƒƒãƒˆï¼†ãƒãƒ¼ãƒãƒ£ãƒ«ã‚¢ã‚·ã‚¹ã‚¿ãƒ³ãƒˆ</a></li>
-											<li><a href="/ja/services/workflow-&-business-automation/">ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ–</a></li>
+											<li><a href="/ja/services/ai-chatbots-and-virtual-assistants/">AIチャットボット＆バーチャルアシスタント</a></li>
+											<li><a href="/ja/services/workflow-and-business-automation/">ワークフロー＆ビジネス自動化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›† Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - パートナー募集 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ã‚µãƒ¼ãƒ“ã‚¹ menu - adaptive styling */
+/* Main dropdown from サービス menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1273,10 +1273,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ja/contact/" class="topbar-contact_button">ãŠå•ã„åˆã‚ã›</a>
+						<a href="/ja/contact/" class="topbar-contact_button">お問い合わせ</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1285,7 +1285,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¿…è¦ãªã‚µãƒ¼ãƒ“ã‚¹ãŒè¦‹ã¤ã‹ã‚‰ãªã„å ´åˆã¯ã€ãŠæ°—è»½ã«ãŠå•ã„åˆã‚ã›ãã ã•ã„ã€‚æœ€é©ãªè§£æ±ºç­–ã‚’ã”ææ¡ˆã„ãŸã—ã¾ã™ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							必要なサービスが見つからない場合は、お気軽にお問い合わせください。最適な解決策をご提案いたします <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1352,18 +1352,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Webãƒ‡ã‚¶ã‚¤ãƒ³ & UI/UX ã‚µãƒ¼ãƒ“ã‚¹</span>
-    <span class="marquee-line_text">Creative Design Solutions, ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ«ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ & Optimization</span>
-    <span class="marquee-line_text">ç±³å›½ã€ã‚«ãƒŠãƒ€ã€ãã®å…ˆã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›</span>
-    <span class="marquee-line_text">Specialists in Webãƒ‡ã‚¶ã‚¤ãƒ³ Excellence & ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚¨ã‚¯ã‚¹ãƒšãƒªã‚¨ãƒ³ã‚¹</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for Webãƒ‡ã‚¶ã‚¤ãƒ³ Solutions</span>
-    <span class="marquee-line_text">High-Impact Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º & Security</span>
+    <span class="marquee-line_text">Professional Webデザイン & UI/UX サービス</span>
+    <span class="marquee-line_text">Creative Design Solutions, ビジュアルアイデンティティ & Optimization</span>
+    <span class="marquee-line_text">米国、カナダ、その先のクライアントにサービスを提供</span>
+    <span class="marquee-line_text">Specialists in Webデザイン Excellence & ユーザーエクスペリエンス</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Webデザイン Solutions</span>
+    <span class="marquee-line_text">High-Impact Webデザイン & 開発 & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ & Support</span>
+    <span class="marquee-line_text">Professional E-commerce エージェンシー with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce メンテナンス & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™º & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable Eコマース開発 & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1372,18 +1372,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ja/work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚° ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Website" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing - デジタルマーケティング エージェンシー Website" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ja/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="/ja/work/blue-vine-marketing/">Blue Vine Marketing - ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚° ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ Website</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ã‚«ã‚¹ã‚¿ãƒ é–‹ç™º</div>
-																							<div class="preview-name">ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/blue-vine-marketing/">Blue Vine Marketing - デジタルマーケティング エージェンシー Website</a></div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">UI/UXデザイン</div>
+																							<div class="preview-name">カスタム開発</div>
+																							<div class="preview-name">プラットフォーム開発</div>
 																					</div>
 									</div>
 								</div>
@@ -1401,10 +1401,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="02">
 											<div class="preview-name preview-name__caption"><a href="/ja/work/robophil/">RoboPhil - AI Trading Platform</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ã‚«ã‚¹ã‚¿ãƒ é–‹ç™º</div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">プラットフォーム開発</div>
+																							<div class="preview-name">UI/UXデザイン</div>
+																							<div class="preview-name">カスタム開発</div>
 																					</div>
 									</div>
 								</div>
@@ -1422,10 +1422,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="03">
 											<div class="preview-name preview-name__caption"><a href="/ja/work/husnohaya/">HusnOhaya Women - Premium Hijab E-commerce Platform</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™º</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ã‚«ã‚¹ã‚¿ãƒ é–‹ç™º</div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">Eコマース開発</div>
+																							<div class="preview-name">UI/UXデザイン</div>
+																							<div class="preview-name">カスタム開発</div>
 																					</div>
 									</div>
 								</div>
@@ -1435,18 +1435,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ja/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚° Solutions Platform" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° デジタルマーケティング Solutions Platform" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ja/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="/ja/work/khatech/">KhaTtech - 360Â° ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚° Solutions Platform</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ã‚«ã‚¹ã‚¿ãƒ é–‹ç™º</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/khatech/">KhaTtech - 360° デジタルマーケティング Solutions Platform</a></div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">デジタルマーケティング</div>
+																							<div class="preview-name">UI/UXデザイン</div>
+																							<div class="preview-name">カスタム開発</div>
 																					</div>
 									</div>
 								</div>
@@ -1464,10 +1464,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="preview">
 										<div class="preview-content" data-index="05">
 											<div class="preview-name preview-name__caption"><a href="/ja/work/afropopup/">AfroPop - Craft Soda E-commerce & Artist Collaboration Platform</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">Eã‚³ãƒžãƒ¼ã‚¹é–‹ç™º</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Identity</div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">Eコマース開発</div>
+																							<div class="preview-name">UI/UXデザイン</div>
+																							<div class="preview-name">ブランディング & Identity</div>
 																					</div>
 									</div>
 								</div>
@@ -1477,17 +1477,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ja/work/feiro/">
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro - Modern Business Solutions & ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro - Modern Business Solutions & ブランドアイデンティティ" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ja/work/feiro/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="/ja/work/feiro/">Feiro - Modern Business Solutions & ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Identity</div>
-																							<div class="preview-name">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/feiro/">Feiro - Modern Business Solutions & ブランドアイデンティティ</a></div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">ブランディング & Identity</div>
+																							<div class="preview-name">UI/UXデザイン</div>
 																							<div class="preview-name">Business Solutions</div>
 																					</div>
 									</div>
@@ -1498,15 +1498,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/ja/work/amkiservice/">
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI ã‚µãƒ¼ãƒ“ã‚¹ - Business Compliance & Licensing Solutions" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI サービス - Business Compliance & Licensing Solutions" class="cover" loading="lazy" decoding="async" />
 									    <a href="/ja/work/amkiservice/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="/ja/work/amkiservice/">AM-KI ã‚µãƒ¼ãƒ“ã‚¹ - Business Compliance & Licensing Solutions</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+											<div class="preview-name preview-name__caption"><a href="/ja/work/amkiservice/">AM-KI サービス - Business Compliance & Licensing Solutions</a></div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
 																							<div class="preview-name">Business Platform</div>
 																							<div class="preview-name">Professional UI/UX</div>
 																							<div class="preview-name">Compliance Solutions</div>
@@ -1519,18 +1519,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="#">
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick - Creative ãƒ–ãƒ©ãƒ³ãƒ‰ãƒ‡ã‚¶ã‚¤ãƒ³ & Webé–‹ç™º" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick - Creative ブランドデザイン & Web開発" class="cover" loading="lazy" decoding="async" />
 									    <a href="#" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="#">Luna Wick - Creative ãƒ–ãƒ©ãƒ³ãƒ‰ãƒ‡ã‚¶ã‚¤ãƒ³ & Webé–‹ç™º</a></div>
-																																		<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																							<div class="preview-name">ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</div>
+											<div class="preview-name preview-name__caption"><a href="#">Luna Wick - Creative ブランドデザイン & Web開発</a></div>
+																																		<div class="preview-name">Webデザイン & 開発</div>
+																							<div class="preview-name">クリエイティブブランディング</div>
 																							<div class="preview-name">Artistic UI/UX</div>
-																							<div class="preview-name">ã‚«ã‚¹ã‚¿ãƒ é–‹ç™º</div>
+																							<div class="preview-name">カスタム開発</div>
 																					</div>
 									</div>
 								</div>
@@ -1549,7 +1549,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional Webãƒ‡ã‚¶ã‚¤ãƒ³ services that create powerful, visually stunning websites and drive user engagement. We manage comprehensive design solutions, custom UI/UX design, responsive layouts, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional Webデザイン services that create powerful, visually stunning websites and drive user engagement. We manage comprehensive design solutions, custom UI/UX design, responsive layouts, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/ja/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1605,7 +1605,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Webãƒ‡ã‚¶ã‚¤ãƒ³ Case Studies</h2>
+						<h2>Aenfinite Webデザイン Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1613,16 +1613,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/blue-vine-marketing/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/blue-vine-marketing/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
 											<a href="/ja/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																					<div class="preview-name">Business ã‚µãƒ¼ãƒ“ã‚¹</div>
-																					<div class="preview-name">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
+																					<div class="preview-name">Business サービス</div>
+																					<div class="preview-name">デジタルマーケティング</div>
 											
 									</div>
 								</div>
@@ -1630,16 +1630,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/robophil/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/robophil/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
 											<a href="/ja/work/robophil/">RoboPhil</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																					<div class="preview-name">ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼</div>
-																					<div class="preview-name">AI & è‡ªå‹•åŒ–</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
+																					<div class="preview-name">テクノロジー</div>
+																					<div class="preview-name">AI & 自動化</div>
 											
 									</div>
 								</div>
@@ -1647,14 +1647,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/husnohaya/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="Husnohaya Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/husnohaya/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
 											<a href="/ja/work/husnohaya/">Husnohaya</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
 																					<div class="preview-name">Lifestyle</div>
 																					<div class="preview-name">E-commerce</div>
 											
@@ -1664,15 +1664,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/khatech/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/khatech/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
 											<a href="/ja/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																					<div class="preview-name">ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
+																					<div class="preview-name">テクノロジー</div>
 																					<div class="preview-name">Software Solutions</div>
 											
 									</div>
@@ -1681,14 +1681,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/afropop/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/afropopup/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="/ja/work/afropop/">AfroPop</a>
+											<a href="/ja/work/afropopup/">AfroPop</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
 																					<div class="preview-name">Entertainment</div>
 																					<div class="preview-name">Media & Music</div>
 											
@@ -1698,14 +1698,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/feiro/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/feiroimage.avif" alt="Feiro Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/feiro/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
 											<a href="/ja/work/feiro/">Feiro</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
 																					<div class="preview-name">E-commerce</div>
 																					<div class="preview-name">Fashion & Retail</div>
 											
@@ -1715,16 +1715,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI ã‚µãƒ¼ãƒ“ã‚¹ Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/amkiservice/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI サービス Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/amkiservice/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="/ja/work/amkiservice/">AM-KI ã‚µãƒ¼ãƒ“ã‚¹</a>
+											<a href="/ja/work/amkiservice/">AM-KI サービス</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
-																					<div class="preview-name">Business ã‚µãƒ¼ãƒ“ã‚¹</div>
-																					<div class="preview-name">Professional ã‚µãƒ¼ãƒ“ã‚¹</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
+																					<div class="preview-name">Business サービス</div>
+																					<div class="preview-name">Professional サービス</div>
 											
 									</div>
 								</div>
@@ -1732,14 +1732,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ja/work/web-design-&-development/" class="not-index">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Webサイトデザイン by Aenfinite" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ja/work/web-design-and-development/" class="not-index">プロジェクトを見る</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="/ja/work/web-design-&-development/">Luna Wick</a>
+											<a href="/ja/work/web-design-and-development/">Luna Wick</a>
 										</div>
-																					<div class="preview-name">Webãƒ‡ã‚¶ã‚¤ãƒ³ & é–‹ç™º</div>
+																					<div class="preview-name">Webデザイン & 開発</div>
 																					<div class="preview-name">E-commerce</div>
 																					<div class="preview-name">Lifestyle & Home</div>
 											
@@ -1749,8 +1749,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="/ja/work/web-design-&-development/" class="redlink">
-						<span>ã™ã¹ã¦ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¦‹ã‚‹</span>
+					<a href="/ja/work/web-design-and-development/" class="redlink">
+						<span>すべてのプロジェクトを見る</span>
 					</a>
 				</div>
 			</div>
@@ -1761,12 +1761,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ãŠå•ã„åˆã‚ã› Aenfinite for Expert Webãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹</h2>
+				<h2>お問い合わせ Aenfinite for Expert Webデザイン サービス</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ãŠå•ã„åˆã‚ã› form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="お問い合わせ form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1781,12 +1781,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" 
-			autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ãŠåå‰*" type="text" name="your-name" />
+			autocomplete="name" aria-required="true" aria-invalid="false" placeholder="お名前*" type="text" name="your-name" />
 		</span>
 		
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" 
-			autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹*" type="email" name="your-email" />
+			autocomplete="email" aria-required="true" aria-invalid="false" placeholder="メールアドレス*" type="email" name="your-email" />
 		</span>
 		
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
@@ -1796,23 +1796,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>èˆˆå‘³ã®ã‚ã‚‹ã‚µãƒ¼ãƒ“ã‚¹...</strong>
+		<strong>興味のあるサービス...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³" id="custom-web-design" />
-					<label for="custom-web-design" class="list-item-label">ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³</label>
+					<input type="checkbox" name="services" value="カスタムWebサイトデザイン" id="custom-web-design" />
+					<label for="custom-web-design" class="list-item-label">カスタムWebサイトデザイン</label>
 				</span>
 
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Responsive Webãƒ‡ã‚¶ã‚¤ãƒ³" id="responsive-design" />
-					<label for="responsive-design" class="list-item-label">Responsive Webãƒ‡ã‚¶ã‚¤ãƒ³</label>
+					<input type="checkbox" name="services" value="Responsive Webデザイン" id="responsive-design" />
+					<label for="responsive-design" class="list-item-label">Responsive Webデザイン</label>
 				</span>
 
 				<span class="list-item">
-					<input type="checkbox" name="services" value="UI/UXãƒ‡ã‚¶ã‚¤ãƒ³" id="ui-ux-design" />
-					<label for="ui-ux-design" class="list-item-label">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</label>
+					<input type="checkbox" name="services" value="UI/UXデザイン" id="ui-ux-design" />
+					<label for="ui-ux-design" class="list-item-label">UI/UXデザイン</label>
 				</span>
 
 				<span class="list-item">
@@ -1831,15 +1831,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</span>
 
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="ãã®ä»– Webãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹" id="other" />
-					<label for="other" class="list-item-label">ãã®ä»– Webãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹</label>
+					<input type="checkbox" name="services" value="その他 Webデザイン サービス" id="other" />
+					<label for="other" class="list-item-label">その他 Webデザイン サービス</label>
 				</span>
 				
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ãŠãŠã‚ˆãã®ã”äºˆç®—ã‚’ãŠçŸ¥ã‚‰ã›ãã ã•ã„" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="おおよそのご予算をお知らせください" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10">
@@ -1847,17 +1847,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				</svg>
 			</div>
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">$100ã‹ã‚‰</div>
-                            <div class="select-option js-select-option">$500ã€œ$5,000</div>
-                            <div class="select-option js-select-option">$5,000ã€œ$20,000</div>
-                            <div class="select-option js-select-option">$20,000ã€œ$50,000</div>
-                            <div class="select-option js-select-option">$100,000ä»¥ä¸Š</div>
+                            <div class="select-option js-select-option">$100から</div>
+                            <div class="select-option js-select-option">$500〜$5,000</div>
+                            <div class="select-option js-select-option">$5,000〜$20,000</div>
+                            <div class="select-option js-select-option">$20,000〜$50,000</div>
+                            <div class="select-option js-select-option">$100,000以上</div>
                         </div>
 		</div>
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="é€ä¿¡" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="送信" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1873,7 +1873,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Creative Webãƒ‡ã‚¶ã‚¤ãƒ³ Expertise</h2>
+						<h2>Creative Webデザイン Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1884,7 +1884,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="panes">
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³</div>
+				<div class="pane-title">カスタムWebサイトデザイン</div>
 				<div class="pane-subtitle">
 					<p>We create fully customized web designs tailored to your business goals and brand identity. Our team focuses on delivering unique, visually stunning websites that stand out while ensuring seamless usability and navigation.</p>
 				</div>
@@ -1898,21 +1898,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
+				<div class="pane-title">UI/UXデザイン</div>
 				<div class="pane-subtitle">
 					<p>Enhance customer engagement with intuitive UI and seamless UX. We design user-centric interfaces that guide visitors effortlessly, improve interactions, and maximize conversions.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ Integration</div>
+				<div class="pane-title">ブランドアイデンティティ Integration</div>
 				<div class="pane-subtitle">
 					<p>Your website is the digital face of your brand. We integrate your brand's personality, color schemes, and style into every design element to create a cohesive and memorable online presence.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Website Redesign & ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹</div>
+				<div class="pane-title">Website Redesign & メンテナンス</div>
 				<div class="pane-subtitle">
 					<p>Revitalize outdated websites with modern design, improved performance, and fresh visuals. Our maintenance services ensure your site stays secure, updated, and performing at its best.</p>
 				</div>
@@ -1954,7 +1954,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Our Webãƒ‡ã‚¶ã‚¤ãƒ³ Process</h2>
+					<h2>Our Webデザイン Process</h2>
 				</div>
 			</div>
 
@@ -2001,7 +2001,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</span>
+							<span>UI/UXデザイン</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>Our designers craft high-fidelity screens with engaging visuals, modern layouts, and user-centric design principles across all device sizes.</p>
@@ -2018,12 +2018,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-content js-switch-copy"></div>
 				</div>
 
-				<!-- é–‹ç™º -->
+				<!-- 開発 -->
 				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">é–‹ç™º</div>
+					<div class="nlist-caption">開発</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-							<span>Front-End é–‹ç™º</span>
+							<span>Front-End 開発</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-3-1">
 							<p>Our developers code pixel-perfect, responsive websites using modern technologies to ensure speed, compatibility, and scalability.</p>
@@ -2059,7 +2059,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Support</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ & Updates</span>
+							<span>メンテナンス & Updates</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We provide ongoing updates, bug fixes, and design improvements to keep your site fresh, secure, and optimized.</p>
@@ -2092,7 +2092,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Webãƒ‡ã‚¶ã‚¤ãƒ³</span> is the perfect blend of creativity, user experience, and technical precision. å®Ÿç¸¾ with a team that excels at crafting visually stunning, user-friendly websites while ensuring seamless performance across all devices.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Webデザイン</span> is the perfect blend of creativity, user experience, and technical precision. 実績 with a team that excels at crafting visually stunning, user-friendly websites while ensuring seamless performance across all devices.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2103,7 +2103,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Webãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹</h2>
+					<h2>Aenfinite Webデザイン サービス</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2112,13 +2112,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">ã‚«ã‚¹ã‚¿ãƒ Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³</div>
+							<div class="service-caption js-service-caption">カスタムWebサイトデザイン</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Responsive Layouts</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">User-Centered Design</a></div>
-										<div class="chip"><a href="/ja/contact/" class="chip-label">ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">クリエイティブブランディング</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Visual Storytelling</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Interactive UI</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Conversion Focused</a></div>
@@ -2148,7 +2148,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</div>
+							<div class="service-caption js-service-caption">UI/UXデザイン</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2184,13 +2184,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 3 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Front-End é–‹ç™º</div>
+							<div class="service-caption js-service-caption">Front-End 開発</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
 										<div class="chip"><a href="/ja/contact/" class="chip-label">HTML5/CSS3</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">JavaScript</a></div>
-										<div class="chip"><a href="/ja/contact/" class="chip-label">ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³</a></div>
+										<div class="chip"><a href="/ja/contact/" class="chip-label">アニメーション</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Performance</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Cross-Browser</a></div>
 										<div class="chip"><a href="/ja/contact/" class="chip-label">Responsive Code</a></div>
@@ -2220,7 +2220,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 4 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Website ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ & Support</div>
+							<div class="service-caption js-service-caption">Website メンテナンス & Support</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2272,7 +2272,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ãŠè€ƒãˆã§ã™ã‹ï¼Ÿä¸€ç·’ã«ç´ æ™´ã‚‰ã—ã„ã‚‚ã®ã‚’å‰µã‚Šã¾ã—ã‚‡ã†ã€‚</span>
+								<span>プロジェクトをお考えですか？一緒に素晴らしいものを創りましょう。</span>
 								<a href="/ja/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2283,42 +2283,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">ä¼šç¤¾æƒ…å ±</div>
+								<div class="footer-col_caption">会社情報</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">å®Ÿç¸¾</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ja/services/">サービス</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ã‚µãƒ¼ãƒ“ã‚¹</div>
+								<div class="footer-col_caption">サービス</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Webãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design/">Webãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ja/services/web-design/">Webデザイン</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ja/services/web-design/">Webデザイン</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ja/services/branding/">ブランディング</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ja/services/packaging-design/">パッケージデザイン</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ブランディング</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ã¤ãªãŒã‚‹</div>
+								<div class="footer-col_caption">つながる</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/white-label-services/">ãƒ›ãƒ¯ã‚¤ãƒˆãƒ©ãƒ™ãƒ«ã‚µãƒ¼ãƒ“ã‚¹</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/referral-program/">ç´¹ä»‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ </a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/ghl-services/">GHLã‚µãƒ¼ãƒ“ã‚¹</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/white-label-services/">ホワイトラベルサービス</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/referral-program/">紹介プログラム</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/ghl-services/">GHLサービス</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ja/contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ja/contact/">お問い合わせ</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">æ‰€åœ¨åœ°</div>
+								<div class="footer-col_caption">所在地</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2373,15 +2373,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">å®Ÿç¸¾</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ja/services/">サービス</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">ãŠå•ã„åˆã‚ã›</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="/ja/contact/">ãŠå•ã„åˆã‚ã›</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ãƒ¡ãƒ¼ãƒ«ã§ãŠå•ã„åˆã‚ã›</a>
+							<a class="menu-contact" href="/ja/contact/">お問い合わせ</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">メールでお問い合わせ</a>
 						</div>
 					</div>
 				</div>
@@ -2389,14 +2389,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°ã—ã„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</a>
+				<a href="/ja/contact/" class="to-contact">新しいプロジェクト？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ミーティングを予約する</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ãƒ“ã‚¸ãƒã‚¹ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</h3>
+			<h3>ビジネスミーティングを予約する</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2634,11 +2634,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ãƒ¦ãƒ¼ã‚¶ãƒ¼ä½“é¨“å‘ä¸Šã®ãŸã‚ã«Cookieã‚’ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚ã€ŒåŒæ„ã™ã‚‹ã€ã‚’ã‚¯ãƒªãƒƒã‚¯ã¾ãŸã¯é–²è¦§ã‚’ç¶šã‘ã‚‹ã“ã¨ã§ã€å½“ç¤¾ã®
-						<a href="/ja/privacy-policy/" class="cookie-banner__link" target="_blank">ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼</a>.
+						ユーザー体験向上のためにCookieを使用しております。「同意する」をクリックまたは閲覧を続けることで、当社の
+						<a href="/ja/privacy-policy/" class="cookie-banner__link" target="_blank">プライバシーポリシー</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">åŒæ„ã™ã‚‹</button>
+				<button class="cookie-banner__button">同意する</button>
 			</div>
 		</div>
 
@@ -2700,11 +2700,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æœˆæ›œæ—¥",
-					  "ç«æ›œæ—¥",
-					  "æ°´æ›œæ—¥",
-					  "æœ¨æ›œæ—¥",
-					  "é‡‘æ›œæ—¥"
+					  "月曜日",
+					  "火曜日",
+					  "水曜日",
+					  "木曜日",
+					  "金曜日"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2768,12 +2768,12 @@ document.addEventListener('keydown', function(event) {
 <!-- CF7 SWV JS removed -->
 <!-- wpcf7 config removed -->
 <!-- CF7 JS removed - using custom-form-handler.js + n8n -->
-<script  src="/https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script  src="https://www.google.com/recaptcha/api.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
 </script>
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2787,13 +2787,13 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Professional UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹",
+  "name": "Professional UI/UXデザイン サービス",
   "provider": {
     "@type": "Organization",
     "name": "Aenfinite",
     "url": "https://aenfinite.com"
   },
-  "serviceType": "UI/UXãƒ‡ã‚¶ã‚¤ãƒ³",
+  "serviceType": "UI/UXデザイン",
   "description": "Professional UI/UX design services focused on usability, accessibility, and seamless user experience for websites and apps.",
   "areaServed": ["United States", "Canada", "United Kingdom", "Asia"],
   "offers": {
@@ -2831,11 +2831,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æœˆæ›œæ—¥",
-					  "ç«æ›œæ—¥",
-					  "æ°´æ›œæ—¥",
-					  "æœ¨æ›œæ—¥",
-					  "é‡‘æ›œæ—¥"
+					  "月曜日",
+					  "火曜日",
+					  "水曜日",
+					  "木曜日",
+					  "金曜日"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2874,13 +2874,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ã‚µãƒ¼ãƒ“ã‚¹",
+      "name": "サービス",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional UI/UXãƒ‡ã‚¶ã‚¤ãƒ³ ã‚µãƒ¼ãƒ“ã‚¹",
+      "name": "Professional UI/UXデザイン サービス",
       "item": "https://aenfinite.com/services/web-design/"
     }
   ]

@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Design Graphique Services | Design d'Impression & Visual Communication | Aenfinite®",
+  title: "Professional Design Graphique Services | Design d'Impression & Visual Communication",
   description: "Aenfinite is a professional graphic design agency specializing in print design, digital graphics, brand collateral, and visual communication. We create designs that strengthen brand identity, engage audiences, and drive business growth.",
   keywords: "graphic design, print design, visual communication, brand collateral, marketing materials, infographic design, flyer design, poster design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/graphic-design/", languages: {"x-default":"https://aenfinite.com/services/graphic-design/","en":"https://aenfinite.com/services/graphic-design/","es":"https://aenfinite.com/es/services/graphic-design/","fr":"https://aenfinite.com/fr/services/graphic-design/","de":"https://aenfinite.com/de/services/graphic-design/","it":"https://aenfinite.com/it/services/graphic-design/","ar":"https://aenfinite.com/ar/services/graphic-design/","pt":"https://aenfinite.com/pt/services/graphic-design/","zh":"https://aenfinite.com/zh/services/graphic-design/","hi":"https://aenfinite.com/hi/services/graphic-design/","nl":"https://aenfinite.com/nl/services/graphic-design/","ja":"https://aenfinite.com/ja/services/graphic-design/","ko":"https://aenfinite.com/ko/services/graphic-design/"} },
@@ -1111,22 +1111,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/fr/agency/">Agence</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="services/">Services</a>
+                                <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions de Développement â€º</a>
+										<a href="#">Solutions de Développement ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/custom-web-development/">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-and-platform-development/">Développement de Logiciels et Plateformes</a></li>
 											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
 											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
-											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>									</ul>
+											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web Immobilières</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Services de Design et Création â€º</a>
+										<a href="#">Services de Design et Création ›</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
 											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
@@ -1137,11 +1137,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions Marketing et Digitales â€º</a>
+										<a href="#">Solutions Marketing et Digitales ›</a>
 										<ul class="sub-menu">
 											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
 											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-											<li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+											<li><a href="/fr/services/pay-per-click/">Publicité au Coût par Clic (PPC)</a></li>
 											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
 
 										</ul>
@@ -1151,10 +1151,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Solutions IA et Technologie â€º</a>
+										<a href="#">Solutions IA et Technologie ›</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/ai-chatbots-&-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
-											<li><a href="/fr/services/workflow-&-business-automation/">Automatisation des Processus et des Affaires</a></li>
+											<li><a href="/fr/services/ai-chatbots-and-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
+											<li><a href="/fr/services/workflow-and-business-automation/">Automatisation des Processus et des Affaires</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1358,7 +1358,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div class="marquee-line">
     <span class="marquee-line_text">Professional Design Graphique & Visual Communication Services</span>
     <span class="marquee-line_text">Design d'Impression, Graphismes Digitaux & Supports de Marque Solutions</span>
-    <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delÃ </span>
+    <span class="marquee-line_text">Au Service de Clients aux USA, au Canada et au-delà</span>
     <span class="marquee-line_text">Specialists in Identité Visuelle & Brand Communication</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for Design Graphique Solutions</span>
     <span class="marquee-line_text">High-Impact Design Graphique & Visual Marketing</span>
@@ -1375,15 +1375,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="download (3).webp" alt="HQ Headquarters Professional Design Graphique - Custom Visual Communication" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">HQ Headquarters Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">HQ Headquarters Design</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Visual Communication</div>
 																							<div class="preview-name">Design de Marque</div>
@@ -1396,15 +1396,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="download (4).webp" alt="Kanchwala Professional Design Graphique - Brand Identité Visuelle System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">Kanchwala Design de Marque</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">Kanchwala Design de Marque</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Identité de Marque</div>
 																							<div class="preview-name">Visual Design</div>
@@ -1417,15 +1417,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="wmremove-transformed.webp" alt="Kohat New Year Celebration Design Graphique - Event Visual Communication" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">Kohat New Year Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">Kohat New Year Design</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Event Design</div>
 																							<div class="preview-name">Celebration Graphismes</div>
@@ -1438,15 +1438,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="wmremove-transformed (1).webp" alt="TBS Professional Design Graphique - Corporate Identité Visuelle System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">TBS Corporate Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">TBS Corporate Design</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Identité Corporate</div>
 																							<div class="preview-name">Visual Systems</div>
@@ -1459,15 +1459,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="/wp-content/themes/aenfinite.com/processed/HQ-post-12.avif" alt="HQ Professional Marketing Design - Advanced Design Graphique Solutions" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">HQ Marketing Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">HQ Marketing Design</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Supports Marketing</div>
 																							<div class="preview-name">Design d'Impression</div>
@@ -1480,15 +1480,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/graphic-design/">
+									<a href="/fr/work/graphic-design/">
 										<img src="/wp-content/themes/aenfinite.com/processed/kohat-post-1-3.avif" alt="Kohat Professional Design Graphique - Visual Communication Excellence" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/graphic-design/" class="shiftbox-link"> </a>
+									    <a href="/fr/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/graphic-design/">Kohat Visual Communication</a></div>
+											<div class="preview-name preview-name__caption"><a href="/fr/work/graphic-design/">Kohat Visual Communication</a></div>
 																																		<div class="preview-name">Design Graphique</div>
 																							<div class="preview-name">Visual Communication</div>
 																							<div class="preview-name">Creative Design</div>
@@ -1573,11 +1573,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/HQ-post-1.avif" alt="HQ Headquarters Professional Design Graphique - Custom Visual Communication" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">HQ Headquarters Design</a>
+											<a href="/fr/work/graphic-design/">HQ Headquarters Design</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Visual Communication</div>
@@ -1591,11 +1591,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-10.avif" alt="Kanchwala Professional Design Graphique - Brand Identité Visuelle System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">Kanchwala Design de Marque</a>
+											<a href="/fr/work/graphic-design/">Kanchwala Design de Marque</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Identité de Marque</div>
@@ -1609,11 +1609,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/kohat-new-year.avif" alt="Kohat New Year Celebration Design Graphique - Event Visual Communication" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">Kohat New Year Design</a>
+											<a href="/fr/work/graphic-design/">Kohat New Year Design</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Event Design</div>
@@ -1627,11 +1627,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/TBS-10.avif" alt="TBS Professional Design Graphique - Corporate Identité Visuelle System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">TBS Corporate Design</a>
+											<a href="/fr/work/graphic-design/">TBS Corporate Design</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Identité Corporate</div>
@@ -1645,11 +1645,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/HQ-post-12.avif" alt="HQ Professional Marketing Design - Advanced Design Graphique Solutions" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">HQ Marketing Design</a>
+											<a href="/fr/work/graphic-design/">HQ Marketing Design</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Supports Marketing</div>
@@ -1663,11 +1663,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/kohat-post-1-3.avif" alt="Kohat Professional Design Graphique - Visual Communication Excellence" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/graphic-design/" class="not-index">Voir le projet</a></div>										
+										<div class="preview-action"><a href="/fr/work/graphic-design/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/graphic-design/">Kohat Visual Communication</a>
+											<a href="/fr/work/graphic-design/">Kohat Visual Communication</a>
 										</div>
 																					<div class="preview-name">Design Graphique</div>
 																					<div class="preview-name">Visual Communication</div>
@@ -1680,7 +1680,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/graphic-design/" class="redlink">
+					<a href="/fr/work/graphic-design/" class="redlink">
 						<span>Voir tous les projets</span>
 					</a>
 				</div>
@@ -1762,10 +1762,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">Ã€ partir de 100 $</div>
-                            <div class="select-option js-select-option">de 500 $ Ã  5 000 $</div>
-                            <div class="select-option js-select-option">de 5 000 $ Ã  20 000 $</div>
-                            <div class="select-option js-select-option">de 20 000 $ Ã  50 000 $</div>
+                            <div class="select-option js-select-option">À partir de 100 $</div>
+                            <div class="select-option js-select-option">de 500 $ à 5 000 $</div>
+                            <div class="select-option js-select-option">de 5 000 $ à 20 000 $</div>
+                            <div class="select-option js-select-option">de 20 000 $ à 50 000 $</div>
                             <div class="select-option js-select-option">plus de 100 000 $</div>
                         </div>
 		</div>
@@ -2157,7 +2157,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/fr/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2170,20 +2170,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/fr/agency/">Agence</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/fr/services/">Services</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/fr/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Conception Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Design Graphique</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Image de Marque</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Design d'Emballage</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/fr/services/web-design/">Conception Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/fr/services/e-commerce-websites/">Design Graphique</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/fr/services/branding/">Image de Marque</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/fr/services/packaging-design/">Design d'Emballage</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Image de Marque</a></li>
 
 </ul>														</div>
@@ -2193,12 +2193,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Devenez Partenaire</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Services en Marque Blanche</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programme de Parrainage</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Services GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/">Devenez Partenaire</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/white-label-services/">Services en Marque Blanche</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/referral-program/">Programme de Parrainage</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/ghl-services/">Services GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/fr/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2258,13 +2258,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Réalisations</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agence</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/fr/agency/">Agence</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/fr/services/">Services</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/fr/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contact</a>
+							<a class="menu-contact" href="/fr/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envoyez-nous un e-mail</a>
 						</div>
 					</div>
@@ -2273,7 +2273,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
+				<a href="/fr/contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2518,8 +2518,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant à naviguer, vous acceptez notre
+						<a href="/fr/privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -2652,7 +2652,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

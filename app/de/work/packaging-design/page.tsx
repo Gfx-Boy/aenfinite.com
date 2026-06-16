@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Verpackungsdesign Portfolio | Product & Brand Verpackung | Aenfinite",
+  title: "Verpackungsdesign Portfolio | Product & Brand Verpackung",
   description: "Explore Aenfinite",
   keywords: "packaging design portfolio, product packaging projects, box design, label design, Aenfinite packaging work",
   alternates: { canonical: "https://aenfinite.com/de/work/packaging-design/", languages: {"x-default":"https://aenfinite.com/work/packaging-design/","en":"https://aenfinite.com/work/packaging-design/","es":"https://aenfinite.com/es/work/packaging-design/","fr":"https://aenfinite.com/fr/work/packaging-design/","de":"https://aenfinite.com/de/work/packaging-design/","it":"https://aenfinite.com/it/work/packaging-design/","ar":"https://aenfinite.com/ar/work/packaging-design/","pt":"https://aenfinite.com/pt/work/packaging-design/","zh":"https://aenfinite.com/zh/work/packaging-design/","hi":"https://aenfinite.com/hi/work/packaging-design/","nl":"https://aenfinite.com/nl/work/packaging-design/","ja":"https://aenfinite.com/ja/work/packaging-design/","ko":"https://aenfinite.com/ko/work/packaging-design/"} },
@@ -594,7 +594,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -728,25 +728,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/de/featured-work/">Projekte</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/de/agency">Agentur</a>
+								<a href="/de/agency/">Agentur</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Entwicklungslösungen â€º</a>
+                                        <a href="#">Entwicklungslösungen ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
 <li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
-											<li><a href="/de/services/custom-web-development">Individuelle Webentwicklung</a></li>
-											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
+											<li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
+											<li><a href="/de/services/software-and-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
 											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>                                      </ul>
                                     </li>
 									<li class="menu-item menu-item-has-children">
-                                    <a href="#">Design- und Kreativdienstleistungen â€º</a>
+                                    <a href="#">Design- und Kreativdienstleistungen ›</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
 											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
@@ -757,20 +757,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- und Digitale Lösungen â€º</a>
+                                        <a href="#">Marketing- und Digitale Lösungen ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
-                                            <li><a href="/de/services/pay-per-click">Pay-Per-Click (PPC) Werbung</a></li>
+                                            <li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
                                             <li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">KI- und Technologielösungen â€º</a>
+                                        <a href="#">KI- und Technologielösungen ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-                                            <li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+                                            <li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
+                                            <li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -948,12 +948,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="wrapper">
 				<ul id="menu-work-page-categories-filter" class="projects-nav"><li id="menu-item-3197" class="menu-item projects-nav_item menu-item-object-category menu-item-3197"><a href="/de/work/">All Projekte</a></li>
 <li id="menu-item-3730" class="menu-item menu-item-type-post_type projects-nav_item menu-item-3730"><a href="/de/featured-work/">Ausgewählte Projekte</a></li>
-<li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="../branding/">Markengestaltung</a></li>
-<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="../web-design-&-development/">Webdesign and Entwicklung</a></li>
-<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">Logodesign</a></li>
-<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="../graphic-design/">Grafikdesign</a></li>
+<li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="/de/work/branding/">Markengestaltung</a></li>
+<li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category menu-item-3169"><a href="/de/work/web-design-and-development/">Webdesign and Entwicklung</a></li>
+<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="/de/work/logo-design/">Logodesign</a></li>
+<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="/de/work/graphic-design/">Grafikdesign</a></li>
 <li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category active menu-item-3174"><a href="" aria-current="page">Verpackungsdesign</a></li>
-<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="../mobile-apps/">Mobile Apps</a></li>
+<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/de/work/mobile-apps/">Mobile Apps</a></li>
 </ul>				<div class="projects fade-in-delay-3" id="ajax">
 						
 						<div class="project" data-lightbox="false">
@@ -969,9 +969,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Professional Verpackungsdesign - Brand Package Solution</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Brand Verpackung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Package Grafiken</a></div>
-									<div class="preview-name"><a href="../print-design/">Product Design</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Brand Verpackung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Package Grafiken</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Product Design</a></div>
 								</div>
 							</div>
 						</div>
@@ -989,9 +989,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Verpackungsdesign Collection - Product Package Mockups</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../product-design/">Product Verpackung</a></div>
-									<div class="preview-name"><a href="../branding/">Package Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Package Design</a></div>
+									<div class="preview-name"><a href="/de/services/ui-ux-design/">Product Verpackung</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Package Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Package Design</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox collection -->
@@ -1019,9 +1019,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">HUNGOVR - Verpackungsdesign & Product Markengestaltung</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Product Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Package Grafiken</a></div>
-									<div class="preview-name"><a href="../print-design/">Label Design</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Product Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Package Grafiken</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Label Design</a></div>
 								</div>
 							</div>
 						</div>
@@ -1039,9 +1039,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">RIVIERA - Luxury Verpackungsdesign</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Luxus-Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Premium Design</a></div>
-									<div class="preview-name"><a href="../print-design/">High-End Verpackung</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Luxus-Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Premium Design</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">High-End Verpackung</a></div>
 								</div>
 							</div>
 						</div>
@@ -1059,9 +1059,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Swag Box Mockup - Corporate Gift Verpackung</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Corporate Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Gift Box Design</a></div>
-									<div class="preview-name"><a href="../print-design/">Promotional Verpackung</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Corporate Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Gift Box Design</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Promotional Verpackung</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox collection -->
@@ -1083,9 +1083,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Snow Plow Verpackung - Industrial Product Design</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Industrial Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Product Grafiken</a></div>
-									<div class="preview-name"><a href="../print-design/">Heavy-Duty Verpackung</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Industrial Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Product Grafiken</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Heavy-Duty Verpackung</a></div>
 								</div>
 							</div>
 						</div>
@@ -1103,9 +1103,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Soft Toy Hang Tag Design - Product Labels</a>
 									</div>
 									<div class="preview-name"><a href="">Verpackungsdesign</a></div>
-									<div class="preview-name"><a href="../branding/">Product Markengestaltung</a></div>
-									<div class="preview-name"><a href="../graphic-design/">Tag Design</a></div>
-									<div class="preview-name"><a href="../print-design/">Label Design</a></div>
+									<div class="preview-name"><a href="/de/work/branding/">Product Markengestaltung</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Tag Design</a></div>
+									<div class="preview-name"><a href="/de/work/graphic-design/">Label Design</a></div>
 								</div>
 							</div>
 						</div>
@@ -1222,7 +1222,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/de/services/paid-ads/" class="chip-label">Bezahlte Werbung</a>
 												</div>
 																							<div class="chip">
-													<a href="/de/services/Pay-per-click/" class="chip-label">PPC-Kampagnen</a>
+													<a href="/de/services/pay-per-click/" class="chip-label">PPC-Kampagnen</a>
 												</div>
 																							<div class="chip">
 													<a href="/de/services/social-media-marketing/" class="chip-label">Social-Media-Marketing</a>
@@ -1430,19 +1430,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/de/services/custom-web-development/" class="chip-label">Individuelle Webentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="/de/services/software-&-platform-development/" class="chip-label">Softwareentwicklung</a>
+													<a href="/de/services/software-and-platform-development/" class="chip-label">Softwareentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="/de/services/workflow-&-business-automation/" class="chip-label">Geschäftsautomatisierung</a>
+													<a href="/de/services/workflow-and-business-automation/" class="chip-label">Geschäftsautomatisierung</a>
 												</div>
 																							<div class="chip">
-													<a href="/de/services/ai-chatbots-&-virtual-assistants/" class="chip-label">KI-Chatbots</a>
+													<a href="/de/services/ai-chatbots-and-virtual-assistants/" class="chip-label">KI-Chatbots</a>
 												</div>
 																							<div class="chip">
 													<a href="/de/services/custom-web-development/" class="chip-label">Plattformentwicklung</a>
 												</div>
 																							<div class="chip">
-													<a href="/de/services/workflow-&-business-automation/" class="chip-label">Workflow-Automatisierung</a>
+													<a href="/de/services/workflow-and-business-automation/" class="chip-label">Workflow-Automatisierung</a>
 												</div>
 																					</div>
 									</div>
@@ -1550,7 +1550,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1563,11 +1563,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Unternehmen</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Projekte</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1586,12 +1586,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Partner werden</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/">Partner werden</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Kontakt</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/de/contact/">Kontakt</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1648,13 +1648,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Projekte</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Kontakt</a>
+							<a class="menu-contact" href="/de/contact/">Kontakt</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Schreiben Sie uns</a>
 						</div>
 					</div>
@@ -1663,7 +1663,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
+				<a href="/de/contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2179,7 +2179,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
+						<a href="/de/privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>

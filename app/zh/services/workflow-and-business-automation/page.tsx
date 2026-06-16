@@ -4,19 +4,19 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡ | Process Optimization & è‡ªåŠ¨åŒ– Solutions | Aenfinite®",
-  description: "Aenfinite offers expert workflow and business automation services, including process optimization, æ•°å­—åŒ–è½¬åž‹, and workflow automation solutions that enhance efficiency and productivity.",
-  keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, æ•°å­—åŒ–è½¬åž‹, CRM automation, marketing automation, Zapier integration, Aenfinite",
+  title: "工作流程与业务自动化 服务 | Process Optimization & 自动化 Solutions",
+  description: "Aenfinite offers expert workflow and business automation services, including process optimization, 数字化转型, and workflow automation solutions that enhance efficiency and productivity.",
+  keywords: "workflow automation, business automation, GoHighLevel implementation, process optimization, 数字化转型, CRM automation, marketing automation, Zapier integration, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/workflow-and-business-automation/", languages: {"x-default":"https://aenfinite.com/services/workflow-and-business-automation/","en":"https://aenfinite.com/services/workflow-and-business-automation/","es":"https://aenfinite.com/es/services/workflow-and-business-automation/","fr":"https://aenfinite.com/fr/services/workflow-and-business-automation/","de":"https://aenfinite.com/de/services/workflow-and-business-automation/","it":"https://aenfinite.com/it/services/workflow-and-business-automation/","ar":"https://aenfinite.com/ar/services/workflow-and-business-automation/","pt":"https://aenfinite.com/pt/services/workflow-and-business-automation/","zh":"https://aenfinite.com/zh/services/workflow-and-business-automation/","hi":"https://aenfinite.com/hi/services/workflow-and-business-automation/","nl":"https://aenfinite.com/nl/services/workflow-and-business-automation/","ja":"https://aenfinite.com/ja/services/workflow-and-business-automation/","ko":"https://aenfinite.com/ko/services/workflow-and-business-automation/"} },
-  openGraph: {"title":"å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡ | Process Optimization & è‡ªåŠ¨åŒ– Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/zh/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡ | Process Optimization & è‡ªåŠ¨åŒ– Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"工作流程与业务自动化 服务 | Process Optimization & 自动化 Solutions | Aenfinite","description":"Aenfinite helps businesses automate workflows, optimize processes, and improve operational efficiency through intelligent automation systems.","url":"https://aenfinite.com/zh/services/workflow-and-business-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"工作流程与业务自动化 服务 | Process Optimization & 自动化 Solutions | Aenfinite","description":"Boost efficiency with Aenfinite's expert workflow automation services — streamline processes and transform your business operations.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
-/* =====Professional å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– å¼€å‘ | Workflow & Process è‡ªåŠ¨åŒ– Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* =====Professional 工作流程与业务自动化 开发 | Workflow & Process 自动化 Solutions | Aenfinite SERVICES SECTION CSS ===== */
 /* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
@@ -975,7 +975,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– å¼€å‘ | Workflow & Process è‡ªåŠ¨åŒ– Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional 工作流程与业务自动化 开发 | Workflow & Process 自动化 Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1106,63 +1106,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency/">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">开发解决方案 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>									</ul>
+											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ â€º</a>
+										<a href="#">设计与创意服务 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
-											<li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-											<li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+											<li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
+											<li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+											<li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
 											
-											<li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-											<li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+											<li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+											<li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">营销与数字解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-											<li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-											<li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+											<li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+											<li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+											<li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+											<li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">AI与技术解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-											<li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+											<li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+											<li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1276,10 +1276,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1288,7 +1288,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1317,7 +1317,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Workflow <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">è‡ªåŠ¨åŒ–</span> and business process optimization that streamline operations, improve <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">efficiency</span>, and drive organizational growth.</span>
+						<span>Workflow <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">自动化</span> and business process optimization that streamline operations, improve <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">efficiency</span>, and drive organizational growth.</span>
 													
 											</h1>
 									</div>
@@ -1355,18 +1355,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</span>
-    <span class="marquee-line_text">Process Optimization, å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ– & Business Efficiency</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
-    <span class="marquee-line_text">Specialists in Process è‡ªåŠ¨åŒ– & Operational Excellence</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for ä¸šåŠ¡è‡ªåŠ¨åŒ– Solutions</span>
-    <span class="marquee-line_text">Intelligent Business Process å¼€å‘ & Analytics</span>
-    <span class="marquee-line_text">Local Process Optimization & Global å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–</span>
-    <span class="marquee-line_text">Professional ä¸šåŠ¡è‡ªåŠ¨åŒ– æœºæž„ with Proven Solutions</span>
+    <span class="marquee-line_text">Professional 工作流程与业务自动化</span>
+    <span class="marquee-line_text">Process Optimization, 工作流程自动化 & Business Efficiency</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
+    <span class="marquee-line_text">Specialists in Process 自动化 & Operational Excellence</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for 业务自动化 Solutions</span>
+    <span class="marquee-line_text">Intelligent Business Process 开发 & Analytics</span>
+    <span class="marquee-line_text">Local Process Optimization & Global 工作流程自动化</span>
+    <span class="marquee-line_text">Professional 业务自动化 机构 with Proven Solutions</span>
     <span class="marquee-line_text">Comprehensive Process Training & Workflow Optimization</span>
-    <span class="marquee-line_text">Custom ä¸šåŠ¡è‡ªåŠ¨åŒ– Solutions for Every Industry</span>
-    <span class="marquee-line_text">Process Flow Optimization & è‡ªåŠ¨åŒ– Performance</span>
-    <span class="marquee-line_text">Sustainable ä¸šåŠ¡è‡ªåŠ¨åŒ– & Long-term Efficiency</span>
+    <span class="marquee-line_text">Custom 业务自动化 Solutions for Every Industry</span>
+    <span class="marquee-line_text">Process Flow Optimization & 自动化 Performance</span>
+    <span class="marquee-line_text">Sustainable 业务自动化 & Long-term Efficiency</span>
 </div>
 						                    </div>
                 </div>
@@ -1428,12 +1428,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>è”ç³»æˆ‘ä»¬ Professional å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– å¼€å‘ | Aenfinite for Professional å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</h2>
+				<h2>联系我们 Professional 工作流程与业务自动化 开发 | Aenfinite for Professional 工作流程与业务自动化</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="联系我们 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1445,14 +1445,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„å§“å*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„ç”µå­é‚®ä»¶*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„é¡¹ç›®" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="您的姓名*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="您的电子邮件*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="告诉我们您的项目" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>æˆ‘å¯¹ä»¥ä¸‹å†…å®¹æ„Ÿå…´è¶£...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process è‡ªåŠ¨åŒ–" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process è‡ªåŠ¨åŒ–</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & å¼€å‘" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & å¼€å‘</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & è‡ªåŠ¨åŒ–" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & è‡ªåŠ¨åŒ–</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process è‡ªåŠ¨åŒ–" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process è‡ªåŠ¨åŒ–</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="ç”¨æˆ·ä½“éªŒ Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">ç”¨æˆ·ä½“éªŒ Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="å…¶ä»– å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡" id="other" /><label for="other" class="list-item-label">å…¶ä»– å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡</label></span></span></span>
+		<strong>我对以下内容感兴趣...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Business Process 自动化" id="google-ads-management" /><label for="google-ads-management" class="list-item-label">Business Process 自动化</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Design & 开发" id="facebook-ads" /><label for="facebook-ads" class="list-item-label">Workflow Design & 开发</label></span><span class="list-item"><input type="checkbox" name="services" value="Process Efficiency Optimization" id="ppc-optimization" /><label for="ppc-optimization" class="list-item-label">Process Efficiency Optimization</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Analytics" id="conversion-tracking" /><label for="conversion-tracking" class="list-item-label">Business Process Analytics</label></span><span class="list-item"><input type="checkbox" name="services" value="System Integration & 自动化" id="instagram-ads" /><label for="instagram-ads" class="list-item-label">System Integration & 自动化</label></span><span class="list-item"><input type="checkbox" name="services" value="Customer Service Process 自动化" id="linkedin-ads" /><label for="linkedin-ads" class="list-item-label">Customer Service Process 自动化</label></span><span class="list-item"><input type="checkbox" name="services" value="Workflow Documentation & Training" id="ad-copy" /><label for="ad-copy" class="list-item-label">Workflow Documentation & Training</label></span><span class="list-item"><input type="checkbox" name="services" value="用户体验 Enhancement" id="landing-page" /><label for="landing-page" class="list-item-label">用户体验 Enhancement</label></span><span class="list-item"><input type="checkbox" name="services" value="Business Process Audit & Consultation" id="ppc-audit" /><label for="ppc-audit" class="list-item-label">Business Process Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="其他 工作流程与业务自动化 服务" id="other" /><label for="other" class="list-item-label">其他 工作流程与业务自动化 服务</label></span></span></span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„å¤§æ¦‚é¢„ç®—" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="告诉我们您的大概预算" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -1460,23 +1460,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					èµ·ä»·$100
+					起价$100
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500è‡³$5,000
+					$500至$5,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000è‡³$20,000
+					$5,000至$20,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000è‡³$50,000
+					$20,000至$50,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					è¶…è¿‡$100,000
+					超过$100,000
 					
 				</div>
 			</div>		</div>
@@ -1486,7 +1486,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="å‘é€" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="发送" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1501,7 +1501,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</span> is the perfect blend of intelligent automation and customer experience enhancement. ä½œå“ with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">工作流程与业务自动化</span> is the perfect blend of intelligent automation and customer experience enhancement. 作品 with a team that excels at both developing smart conversational AI and delivering exceptional user interactions.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1512,7 +1512,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡</h2>
+					<h2>Aenfinite 工作流程与业务自动化 服务</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -1526,7 +1526,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="chips">
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Process Design</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Workflow Systems</a></div>
-										<div class="chip"><a href="/zh/contact/" class="chip-label">è‡ªåŠ¨åŒ– Pipelines</a></div>
+										<div class="chip"><a href="/zh/contact/" class="chip-label">自动化 Pipelines</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Efficiency Optimization</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Process Targeting</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Progress Tracking</a></div>
@@ -1681,7 +1681,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1691,42 +1691,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">å“ç‰Œç­–åˆ’</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">品牌策划</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/white-label-services/">白标服务</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/referral-program/">推荐计划</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/ghl-services/">GHL服务</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">åœ°å€</div>
+								<div class="footer-col_caption">地址</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -1781,15 +1781,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -1797,14 +1797,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2044,11 +2044,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -2110,11 +2110,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2126,7 +2126,7 @@ document.addEventListener('keydown', function(event) {
 					"
 					""
 				  ],
-				  "description": "Expert å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert 工作流程与业务自动化 agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2180,7 +2180,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2211,7 +2211,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite - å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœºæž„",
+      "alternateName": "Aenfinite - 工作流程与业务自动化 机构",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"zh-CN"
     },
@@ -2219,7 +2219,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#webpage",
       "url": "https://aenfinite.com/services/workflow-business-automation/",
-      "name": "å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡ | Process Optimization & è‡ªåŠ¨åŒ– Solutions | Aenfinite®",
+      "name": "工作流程与业务自动化 服务 | Process Optimization & 自动化 Solutions | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "about": { "@id": "https://aenfinite.com/#organization" },
       "primaryImageOfPage": {
@@ -2228,7 +2228,7 @@ export default function Page() {
         "url": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "Aenfinite å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–"
+        "caption": "Aenfinite 工作流程自动化"
       },
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
@@ -2237,16 +2237,16 @@ export default function Page() {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "æœåŠ¡", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–", "item": "https://aenfinite.com/services/workflow-business-automation/" }
+          { "@type": "ListItem", "position": 2, "name": "服务", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 3, "name": "工作流程与业务自动化", "item": "https://aenfinite.com/services/workflow-business-automation/" }
         ]
       }
     },
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/workflow-business-automation/#article",
-      "headline": "å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡ | Process Optimization & è‡ªåŠ¨åŒ– Solutions | Aenfinite®",
-      "keywords": "å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–, Business Process Optimization, Process è‡ªåŠ¨åŒ–, Digital Transformation, Business Efficiency, Operational Excellence",
+      "headline": "工作流程与业务自动化 服务 | Process Optimization & 自动化 Solutions | Aenfinite®",
+      "keywords": "工作流程自动化, Business Process Optimization, Process 自动化, Digital Transformation, Business Efficiency, Operational Excellence",
       "description": "Aenfinite delivers intelligent workflow automation services — from process analysis and workflow design to automation implementation that enhances business efficiency and productivity.",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
@@ -2295,11 +2295,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2311,7 +2311,7 @@ export default function Page() {
 					"
 					""
 				  ],
-				  "description": "Expert å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert 工作流程与业务自动化 agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2340,13 +2340,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœåŠ¡",
+      "name": "服务",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ– æœåŠ¡",
+      "name": "工作流程与业务自动化 服务",
       "item": "https://aenfinite.com/services/workflow-and-business-automation/"
     }
   ]

@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "GoHighLevel Implementation & Automazione Servizi | Aenfinite",
+  title: "GoHighLevel Implementation & Automazione Servizi",
   description: "Get expert GoHighLevel implementation, automation, and white-label support with Aenfinite. We help agencies and businesses maximize CRM efficiency, streamline workflows, and scale faster with GHL.",
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
   alternates: { canonical: "https://aenfinite.com/it/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/ghl-services/","en":"https://aenfinite.com/agency/partner-with-us/ghl-services/","es":"https://aenfinite.com/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.com/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/ghl-services/"} },
@@ -743,29 +743,29 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/it/featured-work/">Portfolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/it/agency">Agenzia</a>
+								<a href="/it/agency/">Agenzia</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/it/services/">Servizi</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di Sviluppo â€º</a>
+                                        <a href="#">Soluzioni di Sviluppo ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
 <li><a href="/it/services/e-commerce-websites/">Siti Web E-Commerce</a></li>
-											<li><a href="/it/services/custom-web-development">Sviluppo Web Personalizzato</a></li>
-											<li><a href="/it/services/software-&-platform-development/">Sviluppo Software e Piattaforme</a></li>
+											<li><a href="/it/services/custom-web-development/">Sviluppo Web Personalizzato</a></li>
+											<li><a href="/it/services/software-and-platform-development/">Sviluppo Software e Piattaforme</a></li>
 											<li><a href="/it/services/app-development/">Sviluppo di Applicazioni</a></li>
 											<li><a href="/it/services/web-design/">Design e Sviluppo di Siti Web</a></li>
 											<li><a href="/it/services/web-design-and-branding-for-real-estate/">Soluzioni Web per il Settore Immobiliare</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Servizi di Design e CreativitÃ  â€º</a>
+                                        <a href="#">Servizi di Design e Creatività ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/it/services/ui-ux-design/">Design UI/UX</a></li>
 
-                                            <li><a href="/it/services/branding/">IdentitÃ  di Marca e Strategia</a></li>
+                                            <li><a href="/it/services/branding/">Identità di Marca e Strategia</a></li>
                                             <li><a href="/it/services/graphic-design/">Graphic Design</a></li> <li><a href="/it/services/logo-design/">Design del Logo</a></li>
                                             
                                             <li><a href="/it/services/trade-show-booth-design/">Design di Stand per Fiere</a></li>
@@ -773,20 +773,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di Marketing e Digitali â€º</a>
+                                        <a href="#">Soluzioni di Marketing e Digitali ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/it/services/digital-marketing/">Strategia di Marketing Digitale</a></li>
                                             <li><a href="/it/services/search-engine-optimization/">Ottimizzazione per i Motori di Ricerca (SEO)</a></li>
-                                            <li><a href="/it/services/pay-per-click">PubblicitÃ  Pay-Per-Click (PPC)</a></li>
-                                            <li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">PubblicitÃ  a Pagamento</a></li>
+                                            <li><a href="/it/services/pay-per-click/">Pubblicità Pay-Per-Click (PPC)</a></li>
+                                            <li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">Pubblicità a Pagamento</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Soluzioni di IA e Tecnologia â€º</a>
+                                        <a href="#">Soluzioni di IA e Tecnologia ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/it/services/ai-chatbots-&-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
-                                            <li><a href="/it/services/workflow-&-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
+                                            <li><a href="/it/services/ai-chatbots-and-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
+                                            <li><a href="/it/services/workflow-and-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1007,7 +1007,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h2>Chi Ã¨ Aenfinite</h2> 						
+          <h2>Chi è Aenfinite</h2> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
@@ -1150,7 +1150,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=GHL Setup Servizi" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                 </a>
             </div>
         </div>
@@ -1166,7 +1166,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=GHL Funnel Sviluppo" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                 </a>
             </div>
         </div>
@@ -1182,7 +1182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=White Label GHL Partnership" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                 </a>
             </div>
         </div>
@@ -1220,7 +1220,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL CRM Implementation" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1239,7 +1239,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing Automazione" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1258,7 +1258,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=Custom GHL Integrations" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1277,7 +1277,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL Support and Training" class="redlink">
-										<span>Scopri di PiÃ¹</span>
+										<span>Scopri di Più</span>
 									</a>
 								</div>
 							</div>
@@ -1308,7 +1308,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/it/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1320,12 +1320,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Azienda</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agenzia</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/it/agency/partner-with-us/">Agenzia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/it/services/">Servizi</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1346,7 +1346,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
 <li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Collabora con noi</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contatto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/it/contact/">Contatto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1403,14 +1403,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Agenzia</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/it/agency/partner-with-us/">Agenzia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/it/services/">Servizi</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contatto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contatto</a>
+							<a class="menu-contact" href="/it/contact/">Contatto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Scrivici un'email</a>
 						</div>
 					</div>
@@ -1419,7 +1419,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
+				<a href="/it/contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1703,7 +1703,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Utilizziamo i cookie per migliorare la tua esperienza utente. Cliccando ACCETTA o continuando a navigare, accetti la nostra
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
+						<a href="/it/privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accetta</button>

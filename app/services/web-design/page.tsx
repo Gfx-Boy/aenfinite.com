@@ -2,7 +2,7 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional UI/UX Design Services | User Interface & Experience Design | Aenfinite®",
+  title: "Professional UI/UX Design Services | User Interface & Experience Design",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/services/web-design/", languages: {"x-default":"https://aenfinite.com/services/web-design/","en":"https://aenfinite.com/services/web-design/","es":"https://aenfinite.com/es/services/web-design/","fr":"https://aenfinite.com/fr/services/web-design/","de":"https://aenfinite.com/de/services/web-design/","it":"https://aenfinite.com/it/services/web-design/","ar":"https://aenfinite.com/ar/services/web-design/","pt":"https://aenfinite.com/pt/services/web-design/","zh":"https://aenfinite.com/zh/services/web-design/","hi":"https://aenfinite.com/hi/services/web-design/","nl":"https://aenfinite.com/nl/services/web-design/","ja":"https://aenfinite.com/ja/services/web-design/","ko":"https://aenfinite.com/ko/services/web-design/"} },
@@ -1110,19 +1110,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Development Solutions â€º</a>
+										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/services/custom-web-development">Custom Web Development</a></li>
-											<li><a href="/services/software-&-platform-development/">Software & Platform Development</a></li>
+											<li><a href="/services/custom-web-development/">Custom Web Development</a></li>
+											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Design & Creative Services â€º</a>
+										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
@@ -1133,11 +1133,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing & Digital Solutions â€º</a>
+										<a href="#">Marketing & Digital Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
-											<li><a href="/services/pay-per-click">Pay-Per-Click (PPC) Advertising</a></li>
+											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
 											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
 
 										</ul>
@@ -1145,10 +1145,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI & Technology Solutions â€º</a>
+										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
-											<li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
-											<li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
+											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
+											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1433,14 +1433,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° Digital Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° Digital Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
 									    <a href="/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="/work/khatech/">KhaTtech - 360Â° Digital Marketing Solutions Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/work/khatech/">KhaTtech - 360° Digital Marketing Solutions Platform</a></div>
 																																		<div class="preview-name">Web Design & Development</div>
 																							<div class="preview-name">Digital Marketing</div>
 																							<div class="preview-name">UI/UX Design</div>
@@ -1680,11 +1680,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Website Design by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/afropop/" class="not-index">View project</a></div>										
+										<div class="preview-action"><a href="/work/afropopup/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="/work/afropop/">AfroPop</a>
+											<a href="/work/afropopup/">AfroPop</a>
 										</div>
 																					<div class="preview-name">Web Design & Development</div>
 																					<div class="preview-name">Entertainment</div>
@@ -1731,11 +1731,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Website Design by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/web-design-&-development/" class="not-index">View project</a></div>										
+										<div class="preview-action"><a href="/work/web-design-and-development/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="/work/web-design-&-development/">Luna Wick</a>
+											<a href="/work/web-design-and-development/">Luna Wick</a>
 										</div>
 																					<div class="preview-name">Web Design & Development</div>
 																					<div class="preview-name">E-commerce</div>
@@ -1747,7 +1747,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="/work/web-design-&-development/" class="redlink">
+					<a href="/work/web-design-and-development/" class="redlink">
 						<span>View all projects</span>
 					</a>
 				</div>
@@ -2285,7 +2285,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
@@ -2294,10 +2294,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design/">Web Design</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Packaging Design</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/services/web-design/">Web Design</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/services/packaging-design/">Packaging Design</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2373,7 +2373,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 </ul>						</div>
@@ -2387,7 +2387,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">New Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Schedule A Meeting</a>
+				<a href="/contact/" class="to-contact">New Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Schedule A Meeting</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2766,12 +2766,12 @@ document.addEventListener('keydown', function(event) {
 <!-- CF7 SWV JS removed -->
 <!-- wpcf7 config removed -->
 <!-- CF7 JS removed - using custom-form-handler.js + n8n -->
-<script  src="/https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script  src="https://www.google.com/recaptcha/api.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
 </script>
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

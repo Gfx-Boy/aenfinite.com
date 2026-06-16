@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/de/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
 								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/de/featured-work/">Projekte</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">Agentur</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">Dienstleistungen</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/de/agency/">Agentur</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">Kontakt</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -589,8 +589,8 @@ from &nbsp;the&nbsp;Mile-High City</h1>
             <div class="service-tags">
               <div class="chips">
                 <div class="chip"><a href="/de/services/web-design/">Landing-Pages</a></div>
-                <div class="chip"><a href="/de/services/web-design">Unternehmenswebsites</a></div>
-                <div class="chip"><a href="/de/services/web-design">Individuelles Website-Design</a></div>
+                <div class="chip"><a href="/de/services/web-design/">Unternehmenswebsites</a></div>
+                <div class="chip"><a href="/de/services/web-design/">Individuelles Website-Design</a></div>
                 <div class="chip"><a href="/de/services/ui-ux-design/">Responsives Design</a></div>
                 <div class="chip"><a href="/de/services/ui-ux-design/">UI/UX-Design</a></div>
               </div>
@@ -973,7 +973,7 @@ websites &amp; apps on beast mode.</h2>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/de/work/afropop/">View Project</a>
+                <a href="/de/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -1045,7 +1045,7 @@ websites &amp; apps on beast mode.</h2>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/de/work/web-design-&-development/">View Project</a>
+                <a href="/de/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">Webdesign</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">Individuelles Website-Design</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">E-Commerce-Websites</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">WordPress-Websites</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">Individuelle Entwicklung</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">UI/UX-Design</a></li>
-        <li class="menu-item"><a href="../services/branding/">Markengestaltung &amp; Logodesign</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">Grafikdesign</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">Verpackungsdesign</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">Digitales Marketing</a></li>
-        <li class="menu-item"><a href="../services/app-development/">App-Entwicklung</a></li>
+        <li class="menu-item"><a href="/de/services/web-design/">Webdesign</a></li>
+        <li class="menu-item"><a href="/de/services/custom-web-development/">Individuelles Website-Design</a></li>
+        <li class="menu-item"><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
+        <li class="menu-item"><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
+        <li class="menu-item"><a href="/de/services/custom-web-development/">Individuelle Entwicklung</a></li>
+        <li class="menu-item"><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
+        <li class="menu-item"><a href="/de/services/branding/">Markengestaltung &amp; Logodesign</a></li>
+        <li class="menu-item"><a href="/de/services/graphic-design/">Grafikdesign</a></li>
+        <li class="menu-item"><a href="/de/services/packaging-design/">Verpackungsdesign</a></li>
+        <li class="menu-item"><a href="/de/services/digital-marketing/">Digitales Marketing</a></li>
+        <li class="menu-item"><a href="/de/services/app-development/">App-Entwicklung</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/de/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">Webdesign</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">Markengestaltung</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">Verpackungsdesign</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/de/services/web-design/">Webdesign</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/de/services/branding/">Markengestaltung</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/de/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/de/services/packaging-design/">Verpackungsdesign</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">

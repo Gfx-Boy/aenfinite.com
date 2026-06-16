@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ãŠå•ã„åˆã‚ã› Aenfinite® | Creative Digital Web ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ in Denver | Webãƒ‡ã‚¶ã‚¤ãƒ³ & Marketing Experts",
-  description: "ãŠå•ã„åˆã‚ã› Aenfinite®, a creative digital web agency based in Denver. Let",
+  title: "お問い合わせ Aenfinite® | Creative Digital Web エージェンシー in Denver | Webデザイン & Marketing Experts",
+  description: "お問い合わせ Aenfinite®, a creative digital web agency based in Denver. Let",
   keywords: "contact Aenfinite, Denver web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
   alternates: { canonical: "https://aenfinite.com/ja/contact/", languages: {"x-default":"https://aenfinite.com/contact/","en":"https://aenfinite.com/contact/","es":"https://aenfinite.com/es/contact/","fr":"https://aenfinite.com/fr/contact/","de":"https://aenfinite.com/de/contact/","it":"https://aenfinite.com/it/contact/","ar":"https://aenfinite.com/ar/contact/","pt":"https://aenfinite.com/pt/contact/","zh":"https://aenfinite.com/zh/contact/","hi":"https://aenfinite.com/hi/contact/","nl":"https://aenfinite.com/nl/contact/","ja":"https://aenfinite.com/ja/contact/","ko":"https://aenfinite.com/ko/contact/"} },
-  openGraph: {"title":"ãŠå•ã„åˆã‚ã› Aenfinite® | Creative Digital Web ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ja/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ãŠå•ã„åˆã‚ã› Aenfinite® | Webãƒ‡ã‚¶ã‚¤ãƒ³, ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚° & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
+  openGraph: {"title":"お問い合わせ Aenfinite® | Creative Digital Web エージェンシー in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ja/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"お問い合わせ Aenfinite® | Webデザイン, ブランディング & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -573,62 +573,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/featured-work/">å®Ÿç¸¾</a>
+								<a href="/ja/featured-work/">実績</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ja/agency">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a>
+								<a href="/ja/agency/">エージェンシー</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ja/services/">ã‚µãƒ¼ãƒ“ã‚¹</a>
+                                <a href="/ja/services/">サービス</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">é–‹ç™ºã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">開発ソリューション ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ja/services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li><a href="/ja/services/e-commerce-websites/">Eã‚³ãƒžãƒ¼ã‚¹Webã‚µã‚¤ãƒˆ</a></li>
-											<li><a href="/ja/services/custom-web-development">ã‚«ã‚¹ã‚¿ãƒ Webé–‹ç™º</a></li>
-											<li><a href="/ja/services/software-&-platform-development/">ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ï¼†ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ é–‹ç™º</a></li>
-											<li><a href="/ja/services/app-development/">ã‚¢ãƒ—ãƒªé–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design/">Webã‚µã‚¤ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ï¼†é–‹ç™º</a></li>
-											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">ä¸å‹•ç”£Webã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</a></li>                                      </ul>
+											<li><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
+											<li><a href="/ja/services/custom-web-development/">カスタムWeb開発</a></li>
+											<li><a href="/ja/services/software-and-platform-development/">ソフトウェア＆プラットフォーム開発</a></li>
+											<li><a href="/ja/services/app-development/">アプリ開発</a></li>
+											<li><a href="/ja/services/web-design/">Webサイトデザイン＆開発</a></li>
+											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ãƒ‡ã‚¶ã‚¤ãƒ³ï¼†ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ã‚µãƒ¼ãƒ“ã‚¹ â€º</a>
+                                        <a href="#">デザイン＆クリエイティブサービス ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/ui-ux-design/">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+                                            <li><a href="/ja/services/ui-ux-design/">UI/UXデザイン</a></li>
 
-                                            <li><a href="/ja/services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‰ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ï¼†æˆ¦ç•¥</a></li>
-                                            <li><a href="/ja/services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li> <li><a href="/ja/services/logo-design/">ãƒ­ã‚´ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+                                            <li><a href="/ja/services/branding/">ブランドアイデンティティ＆戦略</a></li>
+                                            <li><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li> <li><a href="/ja/services/logo-design/">ロゴデザイン</a></li>
                                             
-                                            <li><a href="/ja/services/trade-show-booth-design/">å±•ç¤ºä¼šãƒ–ãƒ¼ã‚¹ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-                                            <li><a href="/ja/services/conference-branding/">ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
+                                            <li><a href="/ja/services/trade-show-booth-design/">展示会ブースデザイン</a></li>
+                                            <li><a href="/ja/services/conference-branding/">カンファレンスブランディング</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ï¼†ãƒ‡ã‚¸ã‚¿ãƒ«ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">マーケティング＆デジタルソリューション ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/digital-marketing/">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°æˆ¦ç•¥</a></li>
-                                            <li><a href="/ja/services/search-engine-optimization/">æ¤œç´¢ã‚¨ãƒ³ã‚¸ãƒ³æœ€é©åŒ–ï¼ˆSEOï¼‰</a></li>
-                                            <li><a href="/ja/services/pay-per-click">ãƒšã‚¤ãƒ»ãƒ‘ãƒ¼ãƒ»ã‚¯ãƒªãƒƒã‚¯ï¼ˆPPCï¼‰åºƒå‘Š</a></li>
-                                            <li><a href="/ja/services/social-media-marketing/">ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ¡ãƒ‡ã‚£ã‚¢ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</a></li> <li><a href="/ja/services/paid-ads/">æœ‰æ–™åºƒå‘Š</a></li>
+                                            <li><a href="/ja/services/digital-marketing/">デジタルマーケティング戦略</a></li>
+                                            <li><a href="/ja/services/search-engine-optimization/">検索エンジン最適化（SEO）</a></li>
+                                            <li><a href="/ja/services/pay-per-click/">ペイ・パー・クリック（PPC）広告</a></li>
+                                            <li><a href="/ja/services/social-media-marketing/">ソーシャルメディアマーケティング</a></li> <li><a href="/ja/services/paid-ads/">有料広告</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AIï¼†ãƒ†ã‚¯ãƒŽãƒ­ã‚¸ãƒ¼ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ â€º</a>
+                                        <a href="#">AI＆テクノロジーソリューション ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ja/services/ai-chatbots-&-virtual-assistants/">AIãƒãƒ£ãƒƒãƒˆãƒœãƒƒãƒˆï¼†ãƒãƒ¼ãƒãƒ£ãƒ«ã‚¢ã‚·ã‚¹ã‚¿ãƒ³ãƒˆ</a></li>
-                                            <li><a href="/ja/services/workflow-&-business-automation/">ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼†ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ–</a></li>
+                                            <li><a href="/ja/services/ai-chatbots-and-virtual-assistants/">AIチャットボット＆バーチャルアシスタント</a></li>
+                                            <li><a href="/ja/services/workflow-and-business-automation/">ワークフロー＆ビジネス自動化</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›† Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - パートナー募集 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ã‚µãƒ¼ãƒ“ã‚¹ menu - adaptive styling */
+/* Main dropdown from サービス menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -742,10 +742,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ja/contact/" class="topbar-contact_button">ãŠå•ã„åˆã‚ã›</a>
+						<a href="/ja/contact/" class="topbar-contact_button">お問い合わせ</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -754,7 +754,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¿…è¦ãªã‚µãƒ¼ãƒ“ã‚¹ãŒè¦‹ã¤ã‹ã‚‰ãªã„å ´åˆã¯ã€ãŠæ°—è»½ã«ãŠå•ã„åˆã‚ã›ãã ã•ã„ã€‚æœ€é©ãªè§£æ±ºç­–ã‚’ã”ææ¡ˆã„ãŸã—ã¾ã™ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							必要なサービスが見つからない場合は、お気軽にお問い合わせください。最適な解決策をご提案いたします <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -782,13 +782,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</a>
         <div class="main">
 
-            <main class="section" role="main" aria-label="ãŠå•ã„åˆã‚ã› Page Content">
+            <main class="section" role="main" aria-label="お問い合わせ Page Content">
 				
-				<!-- ãŠå•ã„åˆã‚ã› Header Section -->
+				<!-- お問い合わせ Header Section -->
 				<div class="section fade-in-delay-1">
 					<div class="wrapper">
 						<div class="textbox-content normaltext" style="text-align: center;">
-							<h1 style><strong>Aenfiniteâ„¢ã¸ã®ãŠå•ã„åˆã‚ã›</strong></h1>						</div>
+							<h1 style><strong>Aenfinite™へのお問い合わせ</strong></h1>						</div>
 					</div>
 				</div>
 				
@@ -797,11 +797,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<section class="formss-wrap">
 							
 							
-							<section class="toggle-formss" aria-label="ãŠå•ã„åˆã‚ã› Form">
+							<section class="toggle-formss" aria-label="お問い合わせ Form">
 								
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ãŠå•ã„åˆã‚ã› form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="お問い合わせ form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -813,14 +813,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ãŠåå‰*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã¤ã„ã¦ãŠèžã‹ã›ãã ã•ã„" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="お名前*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="メールアドレス*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="プロジェクトについてお聞かせください" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>èˆˆå‘³ã®ã‚ã‚‹ã‚µãƒ¼ãƒ“ã‚¹...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°" id="branding" /><label for="branding" class="list-item-label">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</label></span><span class="list-item"><input type="checkbox" name="services" value="Webãƒ‡ã‚¶ã‚¤ãƒ³" id="web-design" /><label for="web-design" class="list-item-label">Webãƒ‡ã‚¶ã‚¤ãƒ³</label></span><span class="list-item"><input type="checkbox" name="services" value="ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°</label></span><span class="list-item"><input type="checkbox" name="services" value="Eã‚³ãƒžãƒ¼ã‚¹ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Eã‚³ãƒžãƒ¼ã‚¹ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UXãƒ‡ã‚¶ã‚¤ãƒ³" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UXãƒ‡ã‚¶ã‚¤ãƒ³</label></span><span class="list-item"><input type="checkbox" name="services" value="ã‚¢ãƒ—ãƒªé–‹ç™º" id="app-development" /><label for="app-development" class="list-item-label">ã‚¢ãƒ—ãƒªé–‹ç™º</label></span><span class="list-item"><input type="checkbox" name="services" value="ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸" id="packaging" /><label for="packaging" class="list-item-label">ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸</label></span><span class="list-item"><input type="checkbox" name="services" value="ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³" id="graphic-design" /><label for="graphic-design" class="list-item-label">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPressã‚µã‚¤ãƒˆ" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPressã‚µã‚¤ãƒˆ</label></span><span class="list-item last"><input type="checkbox" name="services" value="ãã®ä»–" id="other" /><label for="other" class="list-item-label">ãã®ä»–</label></span></span></span>
+		<strong>興味のあるサービス...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="ブランディング" id="branding" /><label for="branding" class="list-item-label">ブランディング</label></span><span class="list-item"><input type="checkbox" name="services" value="Webデザイン" id="web-design" /><label for="web-design" class="list-item-label">Webデザイン</label></span><span class="list-item"><input type="checkbox" name="services" value="デジタルマーケティング" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">デジタルマーケティング</label></span><span class="list-item"><input type="checkbox" name="services" value="Eコマースソリューション" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">Eコマースソリューション</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UXデザイン" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UXデザイン</label></span><span class="list-item"><input type="checkbox" name="services" value="アプリ開発" id="app-development" /><label for="app-development" class="list-item-label">アプリ開発</label></span><span class="list-item"><input type="checkbox" name="services" value="パッケージ" id="packaging" /><label for="packaging" class="list-item-label">パッケージ</label></span><span class="list-item"><input type="checkbox" name="services" value="グラフィックデザイン" id="graphic-design" /><label for="graphic-design" class="list-item-label">グラフィックデザイン</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPressサイト" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPressサイト</label></span><span class="list-item last"><input type="checkbox" name="services" value="その他" id="other" /><label for="other" class="list-item-label">その他</label></span></span></span>
 		
 		<div class="selectbox budget-dropdown js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ãŠãŠã‚ˆãã®ã”äºˆç®—ã‚’ãŠçŸ¥ã‚‰ã›ãã ã•ã„" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="おおよそのご予算をお知らせください" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -828,23 +828,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					$100ã‹ã‚‰
+					$100から
 					
 				</div>
 				<div class="select-option js-select-option">
-					$500ã€œ$5,000
+					$500〜$5,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$5,000ã€œ$20,000
+					$5,000〜$20,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$20,000ã€œ$50,000
+					$20,000〜$50,000
 					
 				</div>
 				<div class="select-option js-select-option">
-					$100,000ä»¥ä¸Š
+					$100,000以上
 					
 				</div>
 			</div>		</div>
@@ -854,13 +854,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="top-contact-button" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="é€ä¿¡" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="送信" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 
 <!-- Social Media Section -->
 <div class="social-media-connect" style="margin-top: 50px; text-align: center; padding: 30px 20px;">
-    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">ç§ãŸã¡ã¨ã¤ãªãŒã‚‹</h3>
+    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">私たちとつながる</h3>
     
     <div class="social-icons" style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/aenfinite" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px; text-decoration: none; color: #227bf3; transition: transform 0.3s ease;">
@@ -882,7 +882,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="contact-phone" style="margin-top: 30px;">
-        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">ãŠé›»è©±ãã ã•ã„</h4>
+        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">お電話ください</h4>
         <a href="tel:+13034199782" style="text-decoration: none; color: #227bf3; font-size: 24px; font-weight: bold;">
             <i class="fas fa-phone" style="margin-right: 10px;"></i>1-303-419-9782
         </a>
@@ -928,7 +928,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" alt="Heart" class="icon" loading="lazy" decoding="async">
                                             </div>
                                         </div>
-                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">ã‚ãªãŸã®ãƒ“ã‚¸ãƒ§ãƒ³ã‚’å®Ÿç¾ã™ã‚‹</a>
+                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">あなたのビジョンを実現する</a>
                                     </div>
                                 </div>
                             </div>
@@ -1072,7 +1072,7 @@ Denver County, USA
 		</style>
 
 		<style>
-			/* ãŠå•ã„åˆã‚ã› Page SEO Enhancement Styles */
+			/* お問い合わせ Page SEO Enhancement Styles */
 			.contact-intro {
 				max-width: 800px;
 				margin: 30px auto 40px;
@@ -1150,7 +1150,7 @@ Denver County, USA
 				}
 			}
 			
-			/* ãŠå•ã„åˆã‚ã› Methods Section */
+			/* お問い合わせ Methods Section */
 			.contact-methods {
 				background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 				border-radius: 15px;
@@ -1247,46 +1247,46 @@ Denver County, USA
 			}
 		</style>
 
-		<!-- ãŠå•ã„åˆã‚ã› Page FAQ Section for SEO -->
-		<section class="contact-faq" id="faq" aria-label="ã‚ˆãã‚ã‚‹è³ªå•">
+		<!-- お問い合わせ Page FAQ Section for SEO -->
+		<section class="contact-faq" id="faq" aria-label="よくある質問">
 			<div class="wrapper">
 				<div class="faq-container">
-					<h2>ã‚ˆãã‚ã‚‹è³ªå•</h2>
+					<h2>よくある質問</h2>
 					<div class="faq-grid">
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ãŠå•ã„åˆã‚ã›ã¸ã®è¿”ä¿¡ã¯ã©ã®ãã‚‰ã„æ—©ã„ã§ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">お問い合わせへの返信はどのくらい早いですか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">é€šå¸¸ã€å–¶æ¥­æ—¥ã®24æ™‚é–“ä»¥å†…ã«ã™ã¹ã¦ã®ãŠå•ã„åˆã‚ã›ã«ã”è¿”ä¿¡ã„ãŸã—ã¾ã™ã€‚ç·Šæ€¥ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã¤ã„ã¦ã¯ã€å½“æ—¥å¯¾å¿œã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚‚ã”ç”¨æ„ã—ã¦ãŠã‚Šã¾ã™ã€‚</p>
+								<p itemprop="text">通常、営業日の24時間以内にすべてのお問い合わせにご返信いたします。緊急のプロジェクトについては、当日対応のオプションもご用意しております。</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Aenfiniteã¯ã©ã®ã‚ˆã†ãªã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">Aenfiniteはどのようなサービスを提供していますか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Aenfiniteã¯ã€Webãƒ‡ã‚¶ã‚¤ãƒ³ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã€ãƒ‡ã‚¸ã‚¿ãƒ«ãƒžãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ã€SEOã€ãƒ“ã‚¸ãƒã‚¹è‡ªå‹•åŒ–ã€ã‚«ã‚¹ã‚¿ãƒ é–‹ç™ºã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’å«ã‚€åŒ…æ‹¬çš„ãªãƒ‡ã‚¸ã‚¿ãƒ«ã‚µãƒ¼ãƒ“ã‚¹ã‚’ã€ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å…¨åœŸã®ä¼æ¥­ã«æä¾›ã—ã¦ãŠã‚Šã¾ã™ã€‚</p>
+								<p itemprop="text">Aenfiniteは、Webデザイン、ブランディング、デジタルマーケティング、SEO、ビジネス自動化、カスタム開発ソリューションを含む包括的なデジタルサービスを、米国およびカナダ全土の企業に提供しております。</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€ä»¥å¤–ã®ä¼æ¥­ã¨ã‚‚å”æ¥­ã—ã¦ã„ã¾ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">米国およびカナダ以外の企業とも協業していますか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ä¸»ã«ç±³å›½ãŠã‚ˆã³ã‚«ãƒŠãƒ€å¸‚å ´ã‚’ä¸­å¿ƒã«ã‚µãƒ¼ãƒ“ã‚¹ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™ãŒã€æµ·å¤–ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã¨ã®å”æ¥­ã‚‚è¡Œã£ã¦ãŠã‚Šã¾ã™ã€‚å…·ä½“çš„ãªãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆè¦ä»¶ã‚„æ‰€åœ¨åœ°ã«ã¤ã„ã¦ã¯ãŠæ°—è»½ã«ãŠå•ã„åˆã‚ã›ãã ã•ã„ã€‚</p>
+								<p itemprop="text">主に米国およびカナダ市場を中心にサービスを提供しておりますが、海外のクライアントとの協業も行っております。具体的なプロジェクト要件や所在地についてはお気軽にお問い合わせください。</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">é€šå¸¸ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæœŸé–“ã¯ã©ã®ãã‚‰ã„ã§ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">通常のプロジェクト期間はどのくらいですか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæœŸé–“ã¯ã€ç¯„å›²ã¨è¤‡é›‘ã•ã«å¿œã˜ã¦ç•°ãªã‚Šã¾ã™ã€‚Webãƒ‡ã‚¶ã‚¤ãƒ³ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯é€šå¸¸4ã€œ8é€±é–“ã€åŒ…æ‹¬çš„ãªãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯6ã€œ12é€±é–“ç¨‹åº¦ã‹ã‹ã‚Šã¾ã™ã€‚åˆå›žã®ã”ç›¸è«‡æ™‚ã«è©³ç´°ãªã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’ã”æç¤ºã„ãŸã—ã¾ã™ã€‚</p>
+								<p itemprop="text">プロジェクト期間は、範囲と複雑さに応じて異なります。Webデザインプロジェクトは通常4〜8週間、包括的なブランディングプロジェクトは6〜12週間程度かかります。初回のご相談時に詳細なスケジュールをご提示いたします。</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå®Œäº†å¾Œã®ç¶™ç¶šã‚µãƒãƒ¼ãƒˆã¯ã‚ã‚Šã¾ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">プロジェクト完了後の継続サポートはありますか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ã¯ã„ã€ãƒ‡ã‚¸ã‚¿ãƒ«è³‡ç”£ãŒæœ€é©ã«æ©Ÿèƒ½ã—ç¶šã‘ã‚‹ã‚ˆã†ã€åŒ…æ‹¬çš„ãªç¶™ç¶šã‚µãƒãƒ¼ãƒˆãŠã‚ˆã³ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ã”æä¾›ã—ã¦ãŠã‚Šã¾ã™ã€‚ã‚µãƒãƒ¼ãƒˆã‚ªãƒ—ã‚·ãƒ§ãƒ³ã«ã¯ã€Webã‚µã‚¤ãƒˆã®æ›´æ–°ã€SEOãƒ¢ãƒ‹ã‚¿ãƒªãƒ³ã‚°ã€æŠ€è¡“æ”¯æ´ãŒå«ã¾ã‚Œã¾ã™ã€‚</p>
+								<p itemprop="text">はい、デジタル資産が最適に機能し続けるよう、包括的な継続サポートおよびメンテナンスパッケージをご提供しております。サポートオプションには、Webサイトの更新、SEOモニタリング、技術支援が含まれます。</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ã‚µãƒ¼ãƒ“ã‚¹ã®æ–™é‡‘ä½“ç³»ã¯ã©ã®ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ã‹ï¼Ÿ</h3>
+							<h3 itemprop="name">サービスの料金体系はどのようになっていますか？</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ç¯„å›²ã€ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«ã€å…·ä½“çš„ãªè¦ä»¶ã«åŸºã¥ã„ãŸã‚«ã‚¹ã‚¿ãƒ è¦‹ç©ã‚‚ã‚Šã‚’ã”æä¾›ã„ãŸã—ã¾ã™ã€‚æ–™é‡‘ã¯é€æ˜Žæ€§ãŒé«˜ãç«¶äº‰åŠ›ã®ã‚ã‚‹ä¾¡æ ¼è¨­å®šã§ã€Webãƒ‡ã‚¶ã‚¤ãƒ³ã¯$2,500ã‹ã‚‰ã€ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯$1,500ã‹ã‚‰ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ã”ç”¨æ„ã—ã¦ãŠã‚Šã¾ã™ã€‚</p>
+								<p itemprop="text">プロジェクトの範囲、スケジュール、具体的な要件に基づいたカスタム見積もりをご提供いたします。料金は透明性が高く競争力のある価格設定で、Webデザインは$2,500から、ブランディングプロジェクトは$1,500からのパッケージをご用意しております。</p>
 							</div>
 						</div>
 					</div>
@@ -1295,7 +1295,7 @@ Denver County, USA
 		</section>
 
 		<style>
-			/* ãŠå•ã„åˆã‚ã› FAQ Section Styles */
+			/* お問い合わせ FAQ Section Styles */
 			.contact-faq {
 				background: #f8f9fa;
 				padding: 80px 0;
@@ -1398,38 +1398,38 @@ Denver County, USA
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">ä¼šç¤¾æƒ…å ±</div>
+								<div class="footer-col_caption">会社情報</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">å®Ÿç¸¾</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">サービス</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">お問い合わせ</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ã‚µãƒ¼ãƒ“ã‚¹</div>
+								<div class="footer-col_caption">サービス</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Webãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">WordPressã‚µã‚¤ãƒˆ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">ãƒ–ãƒ©ãƒ³ãƒ‡ã‚£ãƒ³ã‚°</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ja/services/web-design/">Webデザイン</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ja/services/branding/">ブランディング</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ja/services/packaging-design/">パッケージデザイン</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ã¤ãªãŒã‚‹</div>
+								<div class="footer-col_caption">つながる</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼å‹Ÿé›†</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ja/agency/partner-with-us/">パートナー募集</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">ãŠå•ã„åˆã‚ã›</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">お問い合わせ</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">æ‰€åœ¨åœ°</div>
+									<div class="footer-col_caption">所在地</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1474,7 +1474,7 @@ Denver County, USA
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ja/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1482,15 +1482,15 @@ Denver County, USA
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">å®Ÿç¸¾</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ã‚µãƒ¼ãƒ“ã‚¹</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ja/featured-work/">実績</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">サービス</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">ãŠå•ã„åˆã‚ã›</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">お問い合わせ</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="">ãŠå•ã„åˆã‚ã›</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ãƒ¡ãƒ¼ãƒ«ã§ãŠå•ã„åˆã‚ã›</a>
+							<a class="menu-contact" href="">お問い合わせ</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">メールでお問い合わせ</a>
 						</div>
 					</div>
 				</div>
@@ -1500,13 +1500,13 @@ Denver County, USA
 
 		                
 
-				<a href="contact/" class="to-contact">æ–°ã—ã„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</a>
+				<a href="/ja/contact/" class="to-contact">新しいプロジェクト？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ミーティングを予約する</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ãƒ“ã‚¸ãƒã‚¹ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’äºˆç´„ã™ã‚‹</h3>
+			<h3>ビジネスミーティングを予約する</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1743,11 +1743,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ãƒ¦ãƒ¼ã‚¶ãƒ¼ä½“é¨“å‘ä¸Šã®ãŸã‚ã«Cookieã‚’ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚ã€ŒåŒæ„ã™ã‚‹ã€ã‚’ã‚¯ãƒªãƒƒã‚¯ã¾ãŸã¯é–²è¦§ã‚’ç¶šã‘ã‚‹ã“ã¨ã§ã€å½“ç¤¾ã®
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ãƒãƒªã‚·ãƒ¼</a>.
+						ユーザー体験向上のためにCookieを使用しております。「同意する」をクリックまたは閲覧を続けることで、当社の
+						<a href="/ja/privacy-policy/" class="cookie-banner__link" target="_blank">プライバシーポリシー</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">åŒæ„ã™ã‚‹</button>
+				<button class="cookie-banner__button">同意する</button>
 			</div>
 		</div>
 
@@ -1843,7 +1843,7 @@ document.addEventListener('keydown', function(event) {
 
 
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -1859,7 +1859,7 @@ export default function Page() {
   "@type": "LocalBusiness",
   "name": "Aenfinite",
   "url": "https://aenfinite.com",
-  "description": "ãŠå•ã„åˆã‚ã› Aenfinite®, a creative digital web agency based in Denver. Let",
+  "description": "お問い合わせ Aenfinite®, a creative digital web agency based in Denver. Let",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Denver",
@@ -1889,8 +1889,8 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "ãŠå•ã„åˆã‚ã› Aenfinite® | Creative Digital Web ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ã‚·ãƒ¼ in Denver | Webãƒ‡ã‚¶ã‚¤ãƒ³ & Marketing Experts",
-  "description": "ãŠå•ã„åˆã‚ã› Aenfinite®, a creative digital web agency based in Denver. Let",
+  "name": "お問い合わせ Aenfinite® | Creative Digital Web エージェンシー in Denver | Webデザイン & Marketing Experts",
+  "description": "お問い合わせ Aenfinite®, a creative digital web agency based in Denver. Let",
   "url": "https://aenfinite.com/contact/",
   "publisher": {
     "@type": "Organization",
@@ -1919,7 +1919,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ãŠå•ã„åˆã‚ã› Aenfinite®",
+      "name": "お問い合わせ Aenfinite®",
       "item": "https://aenfinite.com/contact/"
     }
   ]

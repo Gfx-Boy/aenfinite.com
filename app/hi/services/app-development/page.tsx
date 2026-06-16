@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Mobile & Web Application Experts | Aenfinite",
+  title: "ऐप डेवलपमेंट सेवाएं | Mobile & Web Application Experts",
   description: "Aenfinite develops custom mobile and web applications that are fast, secure, and scalable. We specialize in native, cross-platform, and full-stack app solutions built for growth and engagement.",
-  keywords: "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, mobile à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, iOS à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, Android à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, cross-platform app, React Native, Flutter, full-stack à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, Aenfinite",
+  keywords: "ऐप डेवलपमेंट, mobile ऐप डेवलपमेंट, iOS ऐप डेवलपमेंट, Android ऐप डेवलपमेंट, cross-platform app, React Native, Flutter, full-stack ऐप डेवलपमेंट, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/app-development/", languages: {"x-default":"https://aenfinite.com/services/app-development/","en":"https://aenfinite.com/services/app-development/","es":"https://aenfinite.com/es/services/app-development/","fr":"https://aenfinite.com/fr/services/app-development/","de":"https://aenfinite.com/de/services/app-development/","it":"https://aenfinite.com/it/services/app-development/","ar":"https://aenfinite.com/ar/services/app-development/","pt":"https://aenfinite.com/pt/services/app-development/","zh":"https://aenfinite.com/zh/services/app-development/","hi":"https://aenfinite.com/hi/services/app-development/","nl":"https://aenfinite.com/nl/services/app-development/","ja":"https://aenfinite.com/ja/services/app-development/","ko":"https://aenfinite.com/ko/services/app-development/"} },
-  openGraph: {"title":"à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/hi/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"ऐप डेवलपमेंट सेवाएं | Mobile & Web Application Experts | Aenfinite","description":"Build next-generation mobile and web applications with Aenfinite. We deliver high-performance, user-centric app solutions that drive business success.","url":"https://aenfinite.com/hi/services/app-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"ऐप डेवलपमेंट सेवाएं | Mobile & Web Application Experts | Aenfinite","description":"Aenfinite builds mobile and web apps using cutting-edge technologies to deliver seamless performance and an exceptional user experience.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a>
+								<a href="/hi/agency/">एजेंसी</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/hi/services/">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a>
+                                <a href="/hi/services/">सेवाएं</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">डेवलपमेंट समाधान ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/hi/services/wordpress-websites/">WordPress à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-<li><a href="/hi/services/e-commerce-websites/">à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ</a></li>
-											<li><a href="/hi/services/custom-web-development">à¤•à¤¸à¥à¤Ÿà¤® à¤µà¥‡à¤¬ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/software-&-platform-development/">à¤¸à¥‰à¤«à¥à¤Ÿà¤µà¥‡à¤¯à¤° à¤”à¤° à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design/">à¤µà¥‡à¤¬à¤¸à¤¾à¤‡à¤Ÿ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">à¤°à¤¿à¤¯à¤² à¤à¤¸à¥à¤Ÿà¥‡à¤Ÿ à¤µà¥‡à¤¬ à¤¸à¤®à¤¾à¤§à¤¾à¤¨</a></li>									</ul>
+											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
+<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
+											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
+											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ à¤”à¤° à¤•à¥à¤°à¤¿à¤à¤Ÿà¤¿à¤µ à¤¸à¥‡à¤µà¤¾à¤à¤‚ â€º</a>
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ui-ux-design/">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡ à¤ªà¤¹à¤šà¤¾à¤¨ à¤”à¤° à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/graphic-design/">à¤—à¥à¤°à¤¾à¤«à¤¿à¤• à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li> <li><a href="/hi/services/logo-design/">à¤²à¥‹à¤—à¥‹ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
 											
-											<li><a href="/hi/services/trade-show-booth-design/">à¤Ÿà¥à¤°à¥‡à¤¡ à¤¶à¥‹ à¤¬à¥‚à¤¥ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-											<li><a href="/hi/services/conference-branding/">à¤•à¥‰à¤¨à¥à¤«à¥à¤°à¥‡à¤‚à¤¸ à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤”à¤° à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">मार्केटिंग और डिजिटल समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/digital-marketing/">à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤— à¤°à¤£à¤¨à¥€à¤¤à¤¿</a></li>
-											<li><a href="/hi/services/search-engine-optimization/">à¤¸à¤°à¥à¤š à¤‡à¤‚à¤œà¤¨ à¤‘à¤ªà¥à¤Ÿà¤¿à¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨ (SEO)</a></li>
-											<li><a href="/hi/services/pay-per-click">à¤ªà¥‡-à¤ªà¤°-à¤•à¥à¤²à¤¿à¤• (PPC) à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
-											<li><a href="/hi/services/social-media-marketing/">à¤¸à¥‹à¤¶à¤² à¤®à¥€à¤¡à¤¿à¤¯à¤¾ à¤®à¤¾à¤°à¥à¤•à¥‡à¤Ÿà¤¿à¤‚à¤—</a></li> <li><a href="/hi/services/paid-ads/">à¤¸à¤¶à¥à¤²à¥à¤• à¤µà¤¿à¤œà¥à¤žà¤¾à¤ªà¤¨</a></li>
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI à¤”à¤° à¤ªà¥à¤°à¥Œà¤¦à¥à¤¯à¥‹à¤—à¤¿à¤•à¥€ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ â€º</a>
+										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
 										<ul class="sub-menu">
-											<li><a href="/hi/services/ai-chatbots-&-virtual-assistants/">AI à¤šà¥ˆà¤Ÿà¤¬à¥‰à¤Ÿ à¤”à¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤…à¤¸à¤¿à¤¸à¥à¤Ÿà¥‡à¤‚à¤Ÿ</a></li>
-											<li><a href="/hi/services/workflow-&-business-automation/">à¤µà¤°à¥à¤•à¤«à¤¼à¥à¤²à¥‹ à¤”à¤° à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤‘à¤Ÿà¥‹à¤®à¥‡à¤¶à¤¨</a></li>
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from à¤¸à¥‡à¤µà¤¾à¤à¤‚ menu - adaptive styling */
+/* Main dropdown from सेवाएं menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/hi/contact/" class="topbar-contact_button">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
+						<a href="/hi/contact/" class="topbar-contact_button">संपर्क</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤ à¤•à¥€ à¤¸à¥‡à¤µà¤¾ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¥€, à¤¤à¥‹ à¤¹à¤®à¥‡à¤‚ à¤²à¤¿à¤–à¥‡à¤‚ à¤”à¤° à¤¹à¤® à¤•à¥‹à¤ˆ à¤¸à¤®à¤¾à¤§à¤¾à¤¨ à¤¨à¤¿à¤•à¤¾à¤²à¥‡à¤‚à¤—à¥‡ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							अगर आपको अपनी ज़रूरत की सेवा नहीं मिलती, तो हमें लिखें और हम कोई समाधान निकालेंगे <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1356,18 +1356,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Mobile & Web à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚</span>
+    <span class="marquee-line_text">Professional Mobile & Web ऐप डेवलपमेंट सेवाएं</span>
     <span class="marquee-line_text">Native Apps, Cross-Platform Solutions & Optimization</span>
-    <span class="marquee-line_text">à¤…à¤®à¥‡à¤°à¤¿à¤•à¤¾, à¤•à¤¨à¤¾à¤¡à¤¾ à¤”à¤° à¤‰à¤¸à¤¸à¥‡ à¤†à¤—à¥‡ à¤—à¥à¤°à¤¾à¤¹à¤•à¥‹à¤‚ à¤•à¥€ à¤¸à¥‡à¤µà¤¾</span>
-    <span class="marquee-line_text">Specialists in App Performance & à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ</span>
+    <span class="marquee-line_text">अमेरिका, कनाडा और उससे आगे ग्राहकों की सेवा</span>
+    <span class="marquee-line_text">Specialists in App Performance & उपयोगकर्ता अनुभव</span>
     <span class="marquee-line_text">Trusted by Growing Businesses for App Solutions</span>
-    <span class="marquee-line_text">High-Performance à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Security</span>
+    <span class="marquee-line_text">High-Performance ऐप डेवलपमेंट & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional E-commerce à¤à¤œà¥‡à¤‚à¤¸à¥€ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive E-commerce à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</span>
+    <span class="marquee-line_text">Professional E-commerce एजेंसी with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive E-commerce रखरखाव & Support</span>
     <span class="marquee-line_text">Custom E-commerce Solutions for Every Industry</span>
     <span class="marquee-line_text">E-commerce Speed Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable à¤ˆ-à¤•à¥‰à¤®à¤°à¥à¤¸ à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable ई-कॉमर्स डेवलपमेंट & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1375,18 +1375,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/fiscoclic/">
+									<a href="/hi/work/fiscoclic/">
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/fiscoclic/" class="shiftbox-link"> </a>
+									    <a href="/hi/work/fiscoclic/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">Business Apps</div>
-																							<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² UI/UX</div>
+																							<div class="preview-name">मोबाइल UI/UX</div>
 																							<div class="preview-name">Cloud Integration</div>
 																					</div>
 									</div>
@@ -1396,17 +1396,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/lumea/">
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart à¤•à¤²à¥à¤¯à¤¾à¤£ & Light Therapy à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/lumea/" class="shiftbox-link"> </a>
+									<a href="/hi/work/lumea/">
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart कल्याण & Light Therapy मोबाइल ऐप" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/lumea/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/lumea/">Lumea - Smart à¤•à¤²à¥à¤¯à¤¾à¤£ & Light Therapy à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
-																							<div class="preview-name">à¤•à¤²à¥à¤¯à¤¾à¤£ Apps</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/lumea/">Lumea - Smart कल्याण & Light Therapy मोबाइल ऐप</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
+																							<div class="preview-name">कल्याण Apps</div>
 																							<div class="preview-name">Health UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
 																					</div>
@@ -1417,18 +1417,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - à¤®à¤¾à¤¨à¤¸à¤¿à¤• à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ & Fitness App" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/hi/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - मानसिक स्वास्थ्य & Fitness App" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - à¤®à¤¾à¤¨à¤¸à¤¿à¤• à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ & Fitness App</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/mindfit/">Mindfit - मानसिक स्वास्थ्य & Fitness App</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">Fitness Apps</div>
-																							<div class="preview-name">à¤•à¤²à¥à¤¯à¤¾à¤£ UI/UX</div>
+																							<div class="preview-name">कल्याण UI/UX</div>
 																							<div class="preview-name">Mental Health</div>
 																					</div>
 									</div>
@@ -1438,16 +1438,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
+									<a href="/hi/work/neocert/">
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									    <a href="/hi/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/neocert/">NeoCert - Concert Booking & Management Platform</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">Event Apps</div>
 																							<div class="preview-name">Entertainment UI/UX</div>
 																							<div class="preview-name">Booking Systems</div>
@@ -1459,17 +1459,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€ Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/hi/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & न्यूरोटेक्नोलॉजी Platform" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€ Platform</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
-																							<div class="preview-name">à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/neurolinker/">Neurolinker - Brain-Computer Interface & न्यूरोटेक्नोलॉजी Platform</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
+																							<div class="preview-name">न्यूरोटेक्नोलॉजी</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain-Computer Interface</div>
 																					</div>
@@ -1480,16 +1480,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/olly/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/olly/" class="shiftbox-link"> </a>
+									<a href="/hi/work/olly/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity मोबाइल ऐप" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/olly/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/olly/">Olly - Smart Personal Assistant & Productivity मोबाइल ऐप</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">AI Assistant</div>
 																							<div class="preview-name">Productivity UI/UX</div>
 																							<div class="preview-name">Smart Technology</div>
@@ -1501,16 +1501,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/quarena/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/quarena/" class="shiftbox-link"> </a>
+									<a href="/hi/work/quarena/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ऐप डेवलपमेंट" class="cover" loading="lazy" decoding="async" />
+									    <a href="/hi/work/quarena/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/quarena/">Quarena - Advanced Trading Platform UI/UX & ऐप डेवलपमेंट</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">Trading Apps</div>
 																							<div class="preview-name">Financial UI/UX</div>
 																							<div class="preview-name">Cryptocurrency</div>
@@ -1522,16 +1522,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/ansu/">
+									<a href="/hi/work/ansu/">
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/ansu/" class="shiftbox-link"> </a>
+									    <a href="/hi/work/ansu/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
-																																		<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+											<div class="preview-name preview-name__caption"><a href="/hi/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a></div>
+																																		<div class="preview-name">मोबाइल ऐप्स</div>
 																							<div class="preview-name">Neural Technology</div>
 																							<div class="preview-name">Advanced UI/UX</div>
 																							<div class="preview-name">Brain Technology</div>
@@ -1553,7 +1553,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional ऐप डेवलपमेंट services that create powerful, scalable mobile and web applications that drive user engagement. We manage comprehensive app solutions, custom UI/UX design, cross-platform development, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/hi/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1581,7 +1581,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     </div>
                     <div class="numbers-title">
                         <div>
-                            <div>years of expertise in native, cross-platform, and progressive web à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, delivering high-performing, user-centric solutions</div>
+                            <div>years of expertise in native, cross-platform, and progressive web ऐप डेवलपमेंट, delivering high-performing, user-centric solutions</div>
                         </div>
                     </div>
                 </div>
@@ -1607,7 +1607,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite Mobile à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Portfolio</h2>
+						<h2>Aenfinite Mobile ऐप डेवलपमेंट Portfolio</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1616,15 +1616,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/fiscoclicthumbnail.avif" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/fiscoclic/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<div class="preview-action"><a href="/hi/work/fiscoclic/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
+											<a href="/hi/work/fiscoclic/">FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">Business Apps</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² UI/UX</div>
+																					<div class="preview-name">मोबाइल UI/UX</div>
 																					<div class="preview-name">Cloud Integration</div>
 											
 									</div>
@@ -1633,15 +1633,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart à¤•à¤²à¥à¤¯à¤¾à¤£ & Light Therapy à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/lumea/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/lumeaUntitled-1.avif" alt="Lumea - Smart कल्याण & Light Therapy मोबाइल ऐप" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/hi/work/lumea/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/lumea/">Lumea - Smart à¤•à¤²à¥à¤¯à¤¾à¤£ & Light Therapy à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª</a>
+											<a href="/hi/work/lumea/">Lumea - Smart कल्याण & Light Therapy मोबाइल ऐप</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
-																					<div class="preview-name">à¤•à¤²à¥à¤¯à¤¾à¤£ Apps</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
+																					<div class="preview-name">कल्याण Apps</div>
 																					<div class="preview-name">Health UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
 											
@@ -1651,16 +1651,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - à¤®à¤¾à¤¨à¤¸à¤¿à¤• à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ & Fitness App" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit - मानसिक स्वास्थ्य & Fitness App" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/hi/work/mindfit/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit - à¤®à¤¾à¤¨à¤¸à¤¿à¤• à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ & Fitness App</a>
+											<a href="/hi/work/mindfit/">Mindfit - मानसिक स्वास्थ्य & Fitness App</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">Fitness Apps</div>
-																					<div class="preview-name">à¤•à¤²à¥à¤¯à¤¾à¤£ UI/UX</div>
+																					<div class="preview-name">कल्याण UI/UX</div>
 																					<div class="preview-name">Mental Health</div>
 											
 									</div>
@@ -1670,13 +1670,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<div class="preview-action"><a href="/hi/work/neocert/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">NeoCert - Concert Booking & Management Platform</a>
+											<a href="/hi/work/neocert/">NeoCert - Concert Booking & Management Platform</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">Event Apps</div>
 																					<div class="preview-name">Entertainment UI/UX</div>
 																					<div class="preview-name">Booking Systems</div>
@@ -1687,15 +1687,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€ Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker - Brain-Computer Interface & न्यूरोटेक्नोलॉजी Platform" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/hi/work/neurolinker/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker - Brain-Computer Interface & à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€ Platform</a>
+											<a href="/hi/work/neurolinker/">Neurolinker - Brain-Computer Interface & न्यूरोटेक्नोलॉजी Platform</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
-																					<div class="preview-name">à¤¨à¥à¤¯à¥‚à¤°à¥‹à¤Ÿà¥‡à¤•à¥à¤¨à¥‹à¤²à¥‰à¤œà¥€</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
+																					<div class="preview-name">न्यूरोटेक्नोलॉजी</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain-Computer Interface</div>
 											
@@ -1705,14 +1705,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/olly/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ollythumbnail.avif" alt="Olly - Smart Personal Assistant & Productivity मोबाइल ऐप" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/hi/work/olly/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/olly/">Olly - Smart Personal Assistant & Productivity à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ª</a>
+											<a href="/hi/work/olly/">Olly - Smart Personal Assistant & Productivity मोबाइल ऐप</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">AI Assistant</div>
 																					<div class="preview-name">Productivity UI/UX</div>
 																					<div class="preview-name">Smart Technology</div>
@@ -1723,14 +1723,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/quarena/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-4.avif" alt="Quarena - Advanced Trading Platform UI/UX & ऐप डेवलपमेंट" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/hi/work/quarena/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/quarena/">Quarena - Advanced Trading Platform UI/UX & à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a>
+											<a href="/hi/work/quarena/">Quarena - Advanced Trading Platform UI/UX & ऐप डेवलपमेंट</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">Trading Apps</div>
 																					<div class="preview-name">Financial UI/UX</div>
 																					<div class="preview-name">Cryptocurrency</div>
@@ -1742,13 +1742,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ansuthumbnail.avif" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/ansu/" class="not-index">à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</a></div>										
+										<div class="preview-action"><a href="/hi/work/ansu/" class="not-index">प्रोजेक्ट देखें</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
+											<a href="/hi/work/ansu/">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</a>
 										</div>
-																					<div class="preview-name">à¤®à¥‹à¤¬à¤¾à¤‡à¤² à¤à¤ªà¥à¤¸</div>
+																					<div class="preview-name">मोबाइल ऐप्स</div>
 																					<div class="preview-name">Neural Technology</div>
 																					<div class="preview-name">Advanced UI/UX</div>
 																					<div class="preview-name">Brain Technology</div>
@@ -1759,8 +1759,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
-						<span>à¤¸à¤­à¥€ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¦à¥‡à¤–à¥‡à¤‚</span>
+					<a href="/hi/work/mobile-apps/" class="redlink">
+						<span>सभी प्रोजेक्ट देखें</span>
 					</a>
 				</div>
 			</div>
@@ -1771,12 +1771,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="block formss">
         <div class="center">
             <div class="formss-wrap">
-                <h2>à¤¸à¤‚à¤ªà¤°à¥à¤• Aenfinite for Expert à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+                <h2>संपर्क Aenfinite for Expert ऐप डेवलपमेंट सेवाएं</h2>
                 <div class="toggle-formss">
                     
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="à¤¸à¤‚à¤ªà¤°à¥à¤• form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="संपर्क form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1789,10 +1789,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
     <div class="inputs">
         <span class="wpcf7-form-control-wrap" data-name="your-name">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤¨à¤¾à¤®*" value="" type="text" name="your-name" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="आपका नाम*" value="" type="text" name="your-name" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="your-email">
-            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="à¤†à¤ªà¤•à¤¾ à¤ˆ-à¤®à¥‡à¤²*" value="" type="email" name="your-email" />
+            <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="आपका ई-मेल*" value="" type="email" name="your-email" />
         </span>
         <span class="wpcf7-form-control-wrap" data-name="text-tell-project">
             <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your app idea or project" value="" type="text" name="text-tell-project" />
@@ -1800,32 +1800,32 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="checkbox-select">
-        <strong>à¤®à¥à¤à¥‡ à¤‡à¤¸à¤®à¥‡à¤‚ à¤°à¥à¤šà¤¿ à¤¹à¥ˆ...</strong>
+        <strong>मुझे इसमें रुचि है...</strong>
         <span class="form-control-wrap" data-name="checkbox-select">
             <span class="form-control checkbox-group" style="padding-bottom: 50px">
-                <span class="list-item first"><input type="checkbox" name="services" value="iOS à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="ios-app" /><label for="ios-app" class="list-item-label">iOS à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Android à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="android-app" /><label for="android-app" class="list-item-label">Android à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Cross-à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="Web à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ" id="web-app" /><label for="web-app" class="list-item-label">Web à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨" id="uiux" /><label for="uiux" class="list-item-label">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="API à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ & Integration</label></span>
-                <span class="list-item"><input type="checkbox" name="services" value="App à¤°à¤–à¤°à¤–à¤¾à¤µ & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</label></span>
+                <span class="list-item first"><input type="checkbox" name="services" value="iOS ऐप डेवलपमेंट" id="ios-app" /><label for="ios-app" class="list-item-label">iOS ऐप डेवलपमेंट</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Android ऐप डेवलपमेंट" id="android-app" /><label for="android-app" class="list-item-label">Android ऐप डेवलपमेंट</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Cross-प्लेटफ़ॉर्म डेवलपमेंट" id="cross-platform" /><label for="cross-platform" class="list-item-label">Cross-प्लेटफ़ॉर्म डेवलपमेंट</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="Web ऐप डेवलपमेंट" id="web-app" /><label for="web-app" class="list-item-label">Web ऐप डेवलपमेंट</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="UI/UX डिज़ाइन" id="uiux" /><label for="uiux" class="list-item-label">UI/UX डिज़ाइन</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="API डेवलपमेंट & Integration" id="api-dev" /><label for="api-dev" class="list-item-label">API डेवलपमेंट & Integration</label></span>
+                <span class="list-item"><input type="checkbox" name="services" value="App रखरखाव & Support" id="app-maintenance" /><label for="app-maintenance" class="list-item-label">App रखरखाव & Support</label></span>
                 <span class="list-item"><input type="checkbox" name="services" value="App Migration & Upgrades" id="app-migration" /><label for="app-migration" class="list-item-label">App Migration & Upgrades</label></span>
                 <span class="list-item last"><input type="checkbox" name="services" value="Custom App Consultation" id="app-consultation" /><label for="app-consultation" class="list-item-label">Custom App Consultation</label></span>
             </span>
         </span>
 
         <div class="selectbox js-select">
-            <input class="selectbox-input js-select-holder" type="text" placeholder="à¤…à¤ªà¤¨à¤¾ à¤…à¤¨à¥à¤®à¤¾à¤¨à¤¿à¤¤ à¤¬à¤œà¤Ÿ à¤¬à¤¤à¤¾à¤à¤‚" value="" readonly name="budget" />
+            <input class="selectbox-input js-select-holder" type="text" placeholder="अपना अनुमानित बजट बताएं" value="" readonly name="budget" />
             <div class="selectbox-suffix">
                 <svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
             </div>
             <div class="select js-select-list">
-                <div class="select-option js-select-option">$100 à¤¸à¥‡ à¤¶à¥à¤°à¥‚</div>
-                <div class="select-option js-select-option">$500 à¤¸à¥‡ $5,000 à¤¤à¤•</div>
-                <div class="select-option js-select-option">$5,000 à¤¸à¥‡ $20,000 à¤¤à¤•</div>
-                <div class="select-option js-select-option">$20,000 à¤¸à¥‡ $50,000 à¤¤à¤•</div>
-                <div class="select-option js-select-option">$100,000 à¤¸à¥‡ à¤…à¤§à¤¿à¤•</div>
+                <div class="select-option js-select-option">$100 से शुरू</div>
+                <div class="select-option js-select-option">$500 से $5,000 तक</div>
+                <div class="select-option js-select-option">$5,000 से $20,000 तक</div>
+                <div class="select-option js-select-option">$20,000 से $50,000 तक</div>
+                <div class="select-option js-select-option">$100,000 से अधिक</div>
             </div>
         </div>
     </div>
@@ -1835,7 +1835,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <!-- Hidden fields stay same -->
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="à¤­à¥‡à¤œà¥‡à¤‚" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="भेजें" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1851,12 +1851,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="inner-wrapper">
                 <div class="section-caption js-aos">
                     <div class="section-caption_text">
-                        <h2>à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Expertise</h2>
+                        <h2>ऐप डेवलपमेंट Expertise</h2>
                     </div>
                 </div>
                 <div class="textbox textbox__push js-aos appear">
                     <div class="textbox-content">
-                        Aenfinite delivers end-to-end à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your à¤¡à¤¿à¤œà¤¿à¤Ÿà¤² à¤ªà¤°à¤¿à¤µà¤°à¥à¤¤à¤¨ and business growth.
+                        Aenfinite delivers end-to-end ऐप डेवलपमेंट solutions, from native iOS and Android apps to cross-platform and progressive web apps. Our team ensures each application is scalable, user-friendly, and designed to accelerate your डिजिटल परिवर्तन and business growth.
                     </div>
                 </div>
             </div>
@@ -1864,30 +1864,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="panes">
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Custom Mobile à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+                <div class="pane-title">Custom Mobile ऐप डेवलपमेंट</div>
                 <div class="pane-subtitle">
                     <p>We build fully customized mobile applications tailored to your business needs. From concept to deployment, our team crafts native iOS, Android, and hybrid apps that are secure, scalable, and performance-optimized.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨ for Apps</div>
+                <div class="pane-title">UI/UX डिज़ाइन for Apps</div>
                 <div class="pane-subtitle">
                     <p>Our design team creates intuitive and engaging app interfaces that deliver a seamless user experience. We focus on usability, accessibility, and brand consistency to ensure your app stands out and keeps users engaged.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">API & Backend à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+                <div class="pane-title">API & Backend डेवलपमेंट</div>
                 <div class="pane-subtitle">
                     <p>Power your applications with secure and scalable backend systems. We specialize in building robust APIs, database architecture, and cloud integrations that ensure smooth functionality and seamless data flow.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">Cross-à¤ªà¥à¤²à¥‡à¤Ÿà¤«à¤¼à¥‰à¤°à¥à¤® à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+                <div class="pane-title">Cross-प्लेटफ़ॉर्म डेवलपमेंट</div>
                 <div class="pane-subtitle">
-                    <p>Save time and cost with our cross-platform à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
+                    <p>Save time and cost with our cross-platform ऐप डेवलपमेंट expertise using frameworks like React Native and Flutter. We deliver apps that work seamlessly across devices without compromising performance.</p>
                 </div>
             </div>
             <div class="pane js-aos fadein">
@@ -1913,7 +1913,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="pane js-aos fadein">
                 <div class="pane-index"></div>
-                <div class="pane-title">à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</div>
+                <div class="pane-title">रखरखाव & Support</div>
                 <div class="pane-subtitle">
                     <p>Our work doesn't stop after launch  we offer ongoing maintenance, bug fixes, feature updates, and performance enhancements to ensure your app remains competitive and up-to-date.</p>
                 </div>
@@ -1933,7 +1933,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Process</h2>
+                    <h2>ऐप डेवलपमेंट Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>Our team designs a scalable architecture for your app, defining database structures, APIs, and backend workflows. We ensure the solution is secure, maintainable, and optimized for performance.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-                            <span>à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ Roadmap</span>
+                            <span>डेवलपमेंट Roadmap</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-1-3">
                             <p>We create a clear roadmap with milestones, sprints, and timelines. This keeps you informed throughout the development cycle and ensures alignment with your business objectives.</p>
@@ -1992,9 +1992,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-content js-switch-copy"></div>
                 </div>
 
-                <!-- à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ -->
+                <!-- डेवलपमेंट -->
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+                    <div class="nlist-caption">ऐप डेवलपमेंट</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
                             <span>Backend & API</span>
@@ -2030,7 +2030,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-caption">Support</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>à¤°à¤–à¤°à¤–à¤¾à¤µ & Updates</span>
+                            <span>रखरखाव & Updates</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-4-1">
                             <p>We provide ongoing support, regular updates, and security patches to keep your app running smoothly and up-to-date.</p>
@@ -2061,7 +2061,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</span> is the perfect blend of technical expertise and user-focused design. à¤•à¤¾à¤°à¥à¤¯ with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ऐप डेवलपमेंट</span> is the perfect blend of technical expertise and user-focused design. कार्य with a team that excels at building high-performance mobile and web apps that deliver seamless user experiences and drive real business results.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2072,7 +2072,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚</h2>
+                    <h2>Aenfinite ऐप डेवलपमेंट सेवाएं</h2>
                 </div>
             </div>
             <div class="service-grid">
@@ -2080,7 +2080,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="service-list js-service-container fadein js-aos">
 
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</div>
+                            <div class="service-caption js-service-caption">Custom ऐप डेवलपमेंट</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2096,7 +2096,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <div class="service-text">
                                     <p>We build robust, scalable, and high-performance mobile and web applications tailored to your business goals and user needs.</p>
                                     <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our custom à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ process includes:</strong></p>
+                                        <p><strong>Our custom ऐप डेवलपमेंट process includes:</strong></p>
                                         <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
                                             <li>Requirement gathering and solution architecture</li>
                                             <li>Custom API and database design</li>
@@ -2116,7 +2116,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">UI/UX à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</div>
+                            <div class="service-caption js-service-caption">UI/UX डिज़ाइन</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2182,7 +2182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                         </div>
 
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">App à¤°à¤–à¤°à¤–à¤¾à¤µ & Support</div>
+                            <div class="service-caption js-service-caption">App रखरखाव & Support</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2231,8 +2231,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>à¤¦à¤¿à¤®à¤¾à¤— à¤®à¥‡à¤‚ à¤•à¥‹à¤ˆ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ à¤¹à¥ˆ? à¤†à¤‡à¤ à¤¸à¤¾à¤¥ à¤®à¤¿à¤²à¤•à¤° à¤•à¥à¤› à¤¶à¤¾à¤¨à¤¦à¤¾à¤° à¤¬à¤¨à¤¾à¤à¤‚à¥¤</span>
-								<a href="../../contact/" class="redlink">
+								<span>दिमाग में कोई प्रोजेक्ट है? आइए साथ मिलकर कुछ शानदार बनाएं।</span>
+								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2242,42 +2242,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤•à¤‚à¤ªà¤¨à¥€</div>
+								<div class="footer-col_caption">कंपनी</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">कार्य</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">à¤¸à¥‡à¤µà¤¾à¤à¤‚</div>
+								<div class="footer-col_caption">सेवाएं</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">à¤µà¥‡à¤¬ à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../app-development/">à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">à¤ªà¥ˆà¤•à¥‡à¤œà¤¿à¤‚à¤— à¤¡à¤¿à¤œà¤¼à¤¾à¤‡à¤¨</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">à¤¬à¥à¤°à¤¾à¤‚à¤¡à¤¿à¤‚à¤—</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/hi/services/web-design/">वेब डिज़ाइन</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/hi/services/branding/">ब्रांडिंग</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/hi/services/packaging-design/">पैकेजिंग डिज़ाइन</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ब्रांडिंग</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">à¤•à¤¨à¥‡à¤•à¥à¤Ÿ</div>
+								<div class="footer-col_caption">कनेक्ट</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">à¤¹à¤®à¤¾à¤°à¥‡ à¤¸à¤¾à¤¥ à¤­à¤¾à¤—à¥€à¤¦à¤¾à¤° à¤¬à¤¨à¥‡à¤‚</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">à¤µà¥à¤¹à¤¾à¤‡à¤Ÿ à¤²à¥‡à¤¬à¤² à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">à¤°à¥‡à¤«à¤°à¤² à¤ªà¥à¤°à¥‹à¤—à¥à¤°à¤¾à¤®</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/">हमारे साथ भागीदार बनें</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/white-label-services/">व्हाइट लेबल सेवाएं</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/referral-program/">रेफरल प्रोग्राम</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/hi/agency/partner-with-us/ghl-services/">GHL सेवाएं</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/hi/contact/">संपर्क</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">à¤ªà¤¤à¤¾</div>
+								<div class="footer-col_caption">पता</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2332,15 +2332,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">à¤•à¤¾à¤°à¥à¤¯</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">à¤à¤œà¥‡à¤‚à¤¸à¥€</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">à¤¸à¥‡à¤µà¤¾à¤à¤‚</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">कार्य</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">à¤¸à¤‚à¤ªà¤°à¥à¤•</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">à¤¹à¤®à¥‡à¤‚ à¤ˆà¤®à¥‡à¤² à¤•à¤°à¥‡à¤‚</a>
+							<a class="menu-contact" href="/hi/contact/">संपर्क</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">हमें ईमेल करें</a>
 						</div>
 					</div>
 				</div>
@@ -2348,14 +2348,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">à¤¨à¤¯à¤¾ à¤ªà¥à¤°à¥‹à¤œà¥‡à¤•à¥à¤Ÿ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</a>
+				<a href="/hi/contact/" class="to-contact">नया प्रोजेक्ट?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">मीटिंग शेड्यूल करें</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>à¤…à¤ªà¤¨à¥€ à¤¬à¤¿à¤œà¤¼à¤¨à¥‡à¤¸ à¤®à¥€à¤Ÿà¤¿à¤‚à¤— à¤¶à¥‡à¤¡à¥à¤¯à¥‚à¤² à¤•à¤°à¥‡à¤‚</h3>
+			<h3>अपनी बिज़नेस मीटिंग शेड्यूल करें</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2593,11 +2593,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						à¤¹à¤® à¤†à¤ªà¤•à¥‡ à¤‰à¤ªà¤¯à¥‹à¤—à¤•à¤°à¥à¤¤à¤¾ à¤…à¤¨à¥à¤­à¤µ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤•à¥€à¤œà¤¼ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤ à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¤•à¥‡ à¤¯à¤¾ à¤¬à¥à¤°à¤¾à¤‰à¤œà¤¼ à¤•à¤°à¤¨à¤¾ à¤œà¤¾à¤°à¥€ à¤°à¤–à¤•à¤°, à¤†à¤ª à¤¹à¤®à¤¾à¤°à¥€ à¤¸à¤¹à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¤‚
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">à¤—à¥‹à¤ªà¤¨à¥€à¤¯à¤¤à¤¾ à¤¨à¥€à¤¤à¤¿</a>.
+						हम आपके उपयोगकर्ता अनुभव को बेहतर बनाने के लिए कुकीज़ का उपयोग करते हैं। स्वीकार पर क्लिक करके या ब्राउज़ करना जारी रखकर, आप हमारी सहमति देते हैं
+						<a href="/hi/privacy-policy/" class="cookie-banner__link" target="_blank">गोपनीयता नीति</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">à¤¸à¥à¤µà¥€à¤•à¤¾à¤° à¤•à¤°à¥‡à¤‚</button>
+				<button class="cookie-banner__button">स्वीकार करें</button>
 			</div>
 		</div>
 
@@ -2659,11 +2659,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2727,7 +2727,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2757,28 +2757,28 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/app-development/#webpage",
       "url": "https://aenfinite.com/services/app-development/",
-      "name": "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚ | Mobile & Web Application Experts | Aenfinite",
-      "description": "Aenfinite provides professional à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
+      "name": "ऐप डेवलपमेंट सेवाएं | Mobile & Web Application Experts | Aenfinite",
+      "description": "Aenfinite provides professional ऐप डेवलपमेंट services for iOS, Android, and web. Our experts craft scalable, feature-rich applications that meet business goals and user needs.",
       "inLanguage":"hi-IN",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
           { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://aenfinite.com/" },
-          { "@type": "ListItem", "position": 2, "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚", "item": "https://aenfinite.com/services/" },
-          { "@type": "ListItem", "position": 3, "name": "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ", "item": "https://aenfinite.com/services/app-development/" }
+          { "@type": "ListItem", "position": 2, "name": "सेवाएं", "item": "https://aenfinite.com/services/" },
+          { "@type": "ListItem", "position": 3, "name": "ऐप डेवलपमेंट", "item": "https://aenfinite.com/services/app-development/" }
         ]
       }
     },
     {
       "@type": "Service",
-      "serviceType": "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ",
+      "serviceType": "ऐप डेवलपमेंट",
       "provider": { "@id": "https://aenfinite.com/#organization" },
       "areaServed": {
         "@type": "Place",
         "name": "Denver, Colorado"
       },
-      "description": "Custom mobile and web à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
+      "description": "Custom mobile and web ऐप डेवलपमेंट, including native iOS/Android, cross-platform, and full-stack solutions that enhance performance and scalability."
     }
   ]
 }` }}
@@ -2811,11 +2811,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "à¤¸à¥‹à¤®à¤µà¤¾à¤°",
-					  "à¤®à¤‚à¤—à¤²à¤µà¤¾à¤°",
-					  "à¤¬à¥à¤§à¤µà¤¾à¤°",
-					  "à¤—à¥à¤°à¥à¤µà¤¾à¤°",
-					  "à¤¶à¥à¤•à¥à¤°à¤µà¤¾à¤°"
+					  "सोमवार",
+					  "मंगलवार",
+					  "बुधवार",
+					  "गुरुवार",
+					  "शुक्रवार"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2854,13 +2854,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "सेवाएं",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "à¤à¤ª à¤¡à¥‡à¤µà¤²à¤ªà¤®à¥‡à¤‚à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚",
+      "name": "ऐप डेवलपमेंट सेवाएं",
       "item": "https://aenfinite.com/services/app-development/"
     }
   ]

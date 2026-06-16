@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "GoHighLevel Implementation & è‡ªåŠ¨åŒ– æœåŠ¡ | Aenfinite",
+  title: "GoHighLevel Implementation & 自动化 服务",
   description: "Get expert GoHighLevel implementation, automation, and white-label support with Aenfinite. We help agencies and businesses maximize CRM efficiency, streamline workflows, and scale faster with GHL.",
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
   alternates: { canonical: "https://aenfinite.com/zh/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/ghl-services/","en":"https://aenfinite.com/agency/partner-with-us/ghl-services/","es":"https://aenfinite.com/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.com/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/ghl-services/"} },
-  openGraph: {"title":"GoHighLevel Implementation & è‡ªåŠ¨åŒ– æœåŠ¡ | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & è‡ªåŠ¨åŒ– æœåŠ¡ | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"GoHighLevel Implementation & 自动化 服务 | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & 自动化 服务 | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -78,7 +78,7 @@ const headStyles = `
 		
 img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
-		/* Make "æœåŠ¡" appear on new line on mobile */
+		/* Make "服务" appear on new line on mobile */
 		@media (max-width: 768px) {
 			.title__main h1 span span {
 				display: block !important;
@@ -740,62 +740,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ â€º</a>
+                                        <a href="#">开发解决方案 ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>                                      </ul>
+											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ â€º</a>
+                                        <a href="#">设计与创意服务 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
+                                            <li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
 
-                                            <li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+                                            <li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+                                            <li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
                                             
-                                            <li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-                                            <li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+                                            <li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+                                            <li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ â€º</a>
+                                        <a href="#">营销与数字解决方案 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-                                            <li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-                                            <li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-                                            <li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+                                            <li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+                                            <li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+                                            <li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+                                            <li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ â€º</a>
+                                        <a href="#">AI与技术解决方案 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-                                            <li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+                                            <li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+                                            <li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -909,10 +909,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -921,7 +921,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -950,7 +950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">æœåŠ¡</span></span>
+						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">服务</span></span>
 													<span></span>	
 											</h1>
 									</div>
@@ -985,18 +985,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">åˆ›æ–°è®¾è®¡ä¸Žå¼€å‘æœºæž„</span>
-    <span class="marquee-line_text">å®šåˆ¶ç½‘ç«™ã€åº”ç”¨ä¸Žå“ç‰Œä½“éªŒ</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
-    <span class="marquee-line_text">UI/UXã€SEOä¸Žå¢žé•¿è¥é”€ä¸“å®¶</span>
-    <span class="marquee-line_text">èŽ·åˆåˆ›ä¼ä¸šå’Œå…¨çƒä¼ä¸šä¿¡èµ–</span>
-    <span class="marquee-line_text">æŠ€æœ¯å›¢é˜Ÿ – Reactã€WordPressã€Firebaseã€Figma</span>
-    <span class="marquee-line_text">æ•æ·ä¸Žæ•°æ®é©±åŠ¨çš„å¼€å‘æµç¨‹</span>
-    <span class="marquee-line_text">æ ¹æ¤ä¸œå—äºšçš„å…¨çƒæœºæž„</span>
-    <span class="marquee-line_text">ä»¥å¯æ‰©å±•è§£å†³æ–¹æ¡ˆèµ‹èƒ½ä¼ä¸š</span>
-    <span class="marquee-line_text">ä¸ºæ¯ä¸ªè¡Œä¸šé‡èº«å®šåˆ¶ç­–ç•¥</span>
-    <span class="marquee-line_text">Webã€ç§»åŠ¨å’ŒSaaSå¼€å‘ä¸“å®¶</span>
-    <span class="marquee-line_text">ä»¥ç»“æžœä¸ºå¯¼å‘çš„æ•°å­—è¥é”€è§£å†³æ–¹æ¡ˆ</span>
+    <span class="marquee-line_text">创新设计与开发机构</span>
+    <span class="marquee-line_text">定制网站、应用与品牌体验</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
+    <span class="marquee-line_text">UI/UX、SEO与增长营销专家</span>
+    <span class="marquee-line_text">获初创企业和全球企业信赖</span>
+    <span class="marquee-line_text">技术团队 – React、WordPress、Firebase、Figma</span>
+    <span class="marquee-line_text">敏捷与数据驱动的开发流程</span>
+    <span class="marquee-line_text">根植东南亚的全球机构</span>
+    <span class="marquee-line_text">以可扩展解决方案赋能企业</span>
+    <span class="marquee-line_text">为每个行业量身定制策略</span>
+    <span class="marquee-line_text">Web、移动和SaaS开发专家</span>
+    <span class="marquee-line_text">以结果为导向的数字营销解决方案</span>
 </div>
 									</div>
 			</div>
@@ -1007,13 +1007,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h2>å…³äºŽAenfinite</h2> 						
+          <h2>关于Aenfinite</h2> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Aenfinite is a global digital innovation agency dedicated to transforming ideas into impactful experiences. 
-          We specialize in <strong>UI/UX design, web and åº”ç”¨å¼€å‘, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
+          We specialize in <strong>UI/UX design, web and 应用开发, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
           <br /><br />
           Founded on creativity and innovation, our team blends design and technology to deliver solutions that inspire, engage, and perform. 
           From startups to established enterprises, we empower brands to grow through strategy-driven design and development. 
@@ -1051,7 +1051,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" style="padding: 30px;">
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async" /></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async"/></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized æœºæž„" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized 机构" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1105,7 +1105,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Choose Aenfinite for GoHighLevel æœåŠ¡?</strong></h2>
+			<h2><strong>Why Choose Aenfinite for GoHighLevel 服务?</strong></h2>
 			<p>&nbsp;</p>
 			<p>At <strong>Aenfinite</strong>, we dont just set up GoHighLevel  we customize, optimize, and automate it to fit your business needs. Our team blends creativity with technical expertise to help you unlock the full potential of <strong>CRM automation, funnels, websites, and marketing campaigns</strong> through GHL. </p>
 			<p>&nbsp;</p>
@@ -1114,12 +1114,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<p><strong>Here's why businesses trust Aenfinite with their GoHighLevel projects:</strong></p>
 			<ul>
 				<li>Custom GHL setup tailored to your business goals</li>
-				<li>è‡ªåŠ¨åŒ– strategies to save time and boost productivity</li>
+				<li>自动化 strategies to save time and boost productivity</li>
 				<li>High-converting funnel design & development</li>
 				<li>Ongoing support, training, and white-label solutions</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Ready to scale your business with GoHighLevel? è”ç³»æˆ‘ä»¬ us today at 
+			<p>Ready to scale your business with GoHighLevel? 联系我们 us today at 
 				<a href="mailto:services@aenfinite.com" target="_blank" rel="noopener">services@aenfinite.com</a> 
 				and let's build your automation strategy.</p>
 		</div>
@@ -1131,7 +1131,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>GoHighLevel æœåŠ¡</h2>
+						<h2>GoHighLevel 服务</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
@@ -1149,8 +1149,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <p>By the time we're done, you'll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
             </div>
             <div class="infobox-action">
-                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup æœåŠ¡" class="redlink">
-                    <span>äº†è§£æ›´å¤š</span>
+                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup 服务" class="redlink">
+                    <span>了解更多</span>
                 </a>
             </div>
         </div>
@@ -1158,15 +1158,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
     <div class="infobox-cell">
         <div class="infobox appear js-aos">
-            <div class="infobox-title">Funnel Design & å¼€å‘</div>
+            <div class="infobox-title">Funnel Design & 开发</div>
             <div class="infobox-description">
                 <p>We create beautiful, high-converting funnels that don't just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
                 <p>Our team combines conversion-focused design, copywriting, and automation to build a seamless experience from ad click to sale. Whether you need lead generation funnels, webinar registration, or product sales pages, we ensure that every step is optimized for engagement and ROI.</p>
                 <p>All funnels are mobile-responsive, speed-tested, and integrated with your CRM and automation workflows so nothing falls through the cracks.</p>
             </div>
             <div class="infobox-action">
-                <a href="mailto:ghl@aenfinite.com?subject=GHL Funnel å¼€å‘" class="redlink">
-                    <span>äº†è§£æ›´å¤š</span>
+                <a href="mailto:ghl@aenfinite.com?subject=GHL Funnel 开发" class="redlink">
+                    <span>了解更多</span>
                 </a>
             </div>
         </div>
@@ -1174,7 +1174,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
     <div class="infobox-cell">
         <div class="infobox appear js-aos">
-            <div class="infobox-title">White Label GHLæœåŠ¡</div>
+            <div class="infobox-title">White Label GHL服务</div>
             <div class="infobox-description">
                 <p>Scale your agency without adding extra overhead. Our White Label GHL service let's you offer GoHighLevel setup, funnel building, and automation services under your own brand  while we do all the heavy lifting behind the scenes.</p>
                 <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agency's branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
@@ -1182,7 +1182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=White Label GHL Partnership" class="redlink">
-                    <span>äº†è§£æ›´å¤š</span>
+                    <span>了解更多</span>
                 </a>
             </div>
         </div>
@@ -1201,7 +1201,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Comprehensive GHLæœåŠ¡</h2>
+						<h2>Comprehensive GHL服务</h2>
 					</div>
 				</div>
 				<div class="infobox-grid infobox-grid__2">
@@ -1220,14 +1220,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL CRM Implementation" class="redlink">
-										<span>äº†è§£æ›´å¤š</span>
+										<span>了解更多</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Marketing è‡ªåŠ¨åŒ–</div>
+								<div class="infobox-title">Marketing 自动化</div>
 								<div class="infobox-description">
 									<p>Advanced automation workflows including email campaigns, SMS marketing, appointment scheduling, and follow-up sequences. Designed to nurture leads and increase conversions.</p>
 									<ul>
@@ -1238,8 +1238,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</ul>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing è‡ªåŠ¨åŒ–" class="redlink">
-										<span>äº†è§£æ›´å¤š</span>
+									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing 自动化" class="redlink">
+										<span>了解更多</span>
 									</a>
 								</div>
 							</div>
@@ -1248,7 +1248,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="infobox appear js-aos">
 								<div class="infobox-title">Custom Integrations</div>
 								<div class="infobox-description">
-									<p>è¿žæŽ¥ GoHighLevel with your existing business tools and systems. API integrations, webhook configurations, and custom solutions for your unique requirements.</p>
+									<p>连接 GoHighLevel with your existing business tools and systems. API integrations, webhook configurations, and custom solutions for your unique requirements.</p>
 									<ul>
 										<li>Zapier and API integrations</li>
 										<li>Custom webhook development</li>
@@ -1258,7 +1258,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=Custom GHL Integrations" class="redlink">
-										<span>äº†è§£æ›´å¤š</span>
+										<span>了解更多</span>
 									</a>
 								</div>
 							</div>
@@ -1277,7 +1277,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL Support and Training" class="redlink">
-										<span>äº†è§£æ›´å¤š</span>
+										<span>了解更多</span>
 									</a>
 								</div>
 							</div>
@@ -1308,7 +1308,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1318,39 +1318,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/zh/agency/partner-with-us/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/zh/services/graphic-design/">平面设计</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">与我们合作</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">åœ°å€</div>
+									<div class="footer-col_caption">地址</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1403,15 +1403,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/zh/agency/partner-with-us/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -1419,13 +1419,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1702,11 +1702,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -1801,7 +1801,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/ghl-services/",
-  "name": "GoHighLevel Implementation & è‡ªåŠ¨åŒ– æœåŠ¡ | Aenfinite",
+  "name": "GoHighLevel Implementation & 自动化 服务 | Aenfinite",
   "description": "Expert GoHighLevel implementation, CRM setup, and automation services by Aenfinite for agencies and businesses seeking scalability and efficiency.",
   "publisher": {
     "@type": "Organization",
@@ -1819,12 +1819,12 @@ export default function Page() {
   },
   "mainEntity": {
     "@type": "Service",
-    "name": "GoHighLevel Implementation & è‡ªåŠ¨åŒ–",
+    "name": "GoHighLevel Implementation & 自动化",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite"
     },
-    "serviceType": "GoHighLevel CRM Setup, è‡ªåŠ¨åŒ– & White-Label Support",
+    "serviceType": "GoHighLevel CRM Setup, 自动化 & White-Label Support",
     "areaServed": {
       "@type": "Place",
       "name": "Denver, Colorado"
@@ -1849,19 +1849,19 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœºæž„",
+      "name": "机构",
       "item": "https://aenfinite.com/agency/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "ä¸Žæˆ‘ä»¬åˆä½œ",
+      "name": "与我们合作",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "GoHighLevel Implementation & è‡ªåŠ¨åŒ– æœåŠ¡",
+      "name": "GoHighLevel Implementation & 自动化 服务",
       "item": "https://aenfinite.com/agency/partner-with-us/ghl-services/"
     }
   ]

@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Premier Branding para Conferências & Event Identity Design Serviços | Aenfinite",
+  title: "Premier Branding para Conferências & Event Identity Design Serviços",
   description: "Aenfinite delivers premier conference branding and event identity design services that captivate audiences and strengthen brand presence. We craft cohesive event visuals, signage, digital assets, and complete branding strategies for memorable conference experiences.",
   keywords: "conference branding, event branding, event identity design, conference signage, event marketing, trade show branding, conference visual identity, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/pt/services/conference-branding/", languages: {"x-default":"https://aenfinite.com/services/conference-branding/","en":"https://aenfinite.com/services/conference-branding/","es":"https://aenfinite.com/es/services/conference-branding/","fr":"https://aenfinite.com/fr/services/conference-branding/","de":"https://aenfinite.com/de/services/conference-branding/","it":"https://aenfinite.com/it/services/conference-branding/","ar":"https://aenfinite.com/ar/services/conference-branding/","pt":"https://aenfinite.com/pt/services/conference-branding/","zh":"https://aenfinite.com/zh/services/conference-branding/","hi":"https://aenfinite.com/hi/services/conference-branding/","nl":"https://aenfinite.com/nl/services/conference-branding/","ja":"https://aenfinite.com/ja/services/conference-branding/","ko":"https://aenfinite.com/ko/services/conference-branding/"} },
@@ -1113,19 +1113,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/pt/services/">Serviços</a>
                               <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de Desenvolvimento â€º</a>
+										<a href="#">Soluções de Desenvolvimento ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/pt/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/pt/services/e-commerce-websites/">Sites de E-Commerce</a></li>
-											<li><a href="/pt/services/custom-web-development">Desenvolvimento Web Personalizado</a></li>
-											<li><a href="/pt/services/software-&-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
+											<li><a href="/pt/services/custom-web-development/">Desenvolvimento Web Personalizado</a></li>
+											<li><a href="/pt/services/software-and-platform-development/">Desenvolvimento de Software e Plataformas</a></li>
 											<li><a href="/pt/services/app-development/">Desenvolvimento de Aplicativos</a></li>
 											<li><a href="/pt/services/web-design/">Design e Desenvolvimento de Sites</a></li>
 											<li><a href="/pt/services/web-design-and-branding-for-real-estate/">Soluções Web para Imóveis</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Serviços de Design e Criação â€º</a>
+										<a href="#">Serviços de Design e Criação ›</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/ui-ux-design/">Design UI/UX</a></li>
 											<li><a href="/pt/services/branding/">Identidade de Marca e Estratégia</a></li>
@@ -1136,11 +1136,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de Marketing e Digitais â€º</a>
+										<a href="#">Soluções de Marketing e Digitais ›</a>
 										<ul class="sub-menu">
 											<li><a href="/pt/services/digital-marketing/">Estratégia de Marketing Digital</a></li>
 											<li><a href="/pt/services/search-engine-optimization/">Otimização para Mecanismos de Busca (SEO)</a></li>
-											<li><a href="/pt/services/pay-per-click">Publicidade Pay-Per-Click (PPC)</a></li>
+											<li><a href="/pt/services/pay-per-click/">Publicidade Pay-Per-Click (PPC)</a></li>
 											<li><a href="/pt/services/social-media-marketing/">Marketing em Mídias Sociais</a></li> <li><a href="/pt/services/paid-ads/">Publicidade Paga</a></li>
 
 										</ul>
@@ -1148,10 +1148,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluções de IA e Tecnologia â€º</a>
+										<a href="#">Soluções de IA e Tecnologia ›</a>
 										<ul class="sub-menu">
-											<li><a href="/pt/services/ai-chatbots-&-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
-											<li><a href="/pt/services/workflow-&-business-automation/">Automação de Processos e Negócios</a></li>
+											<li><a href="/pt/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA e Assistentes Virtuais</a></li>
+											<li><a href="/pt/services/workflow-and-business-automation/">Automação de Processos e Negócios</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1372,15 +1372,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Branding para Conferências - Professional Event Display Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ASC Media Wall Branding para Conferências</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">ASC Media Wall Branding para Conferências</a></div>
 																																		<div class="preview-name">Branding para Conferências</div>
 																							<div class="preview-name">Media Wall Design</div>
 																							<div class="preview-name">Event Identity</div>
@@ -1393,15 +1393,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Diretrizes de Marca Mockup - Professional Conference Identidade de Marca System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Diretrizes de Marca & Identity System</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">Diretrizes de Marca & Identity System</a></div>
 																																		<div class="preview-name">Diretrizes de Marca</div>
 																							<div class="preview-name">Identity Design</div>
 																							<div class="preview-name">Branding para Conferências</div>
@@ -1414,15 +1414,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference Design de Logotipo - Professional Event Branding" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 Event Branding</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">CycleThe6 Event Branding</a></div>
 																																		<div class="preview-name">Event Design de Logotipo</div>
 																							<div class="preview-name">Conference Identity</div>
 																							<div class="preview-name">Brand Desenvolvimento</div>
@@ -1435,15 +1435,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Conference Stationery Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">Conference Stationery Design</a></div>
 																																		<div class="preview-name">Event Stationery</div>
 																							<div class="preview-name">Material de Marca</div>
 																							<div class="preview-name">Conference Materials</div>
@@ -1456,15 +1456,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - Branding para Conferências Design System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">MuskFume Brand Presentation</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">MuskFume Brand Presentation</a></div>
 																																		<div class="preview-name">Brand Presentation</div>
 																							<div class="preview-name">Branding para Conferências</div>
 																							<div class="preview-name">Visual System</div>
@@ -1477,15 +1477,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/pt/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="Branding Profissional Mockup - Conference Identidade de Marca Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/pt/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Branding Profissional Mockup</a></div>
+											<div class="preview-name preview-name__caption"><a href="/pt/work/branding/">Branding Profissional Mockup</a></div>
 																																		<div class="preview-name">Brand Mockup</div>
 																							<div class="preview-name">Identity Design</div>
 																							<div class="preview-name">Branding para Conferências</div>
@@ -1575,11 +1575,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Branding para Conferências - Professional Event Display Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ASC Media Wall Branding para Conferências</a>
+											<a href="/pt/work/branding/">ASC Media Wall Branding para Conferências</a>
 										</div>
 																					<div class="preview-name">Branding para Conferências</div>
 																					<div class="preview-name">Media Wall Design</div>
@@ -1593,11 +1593,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="Diretrizes de Marca Mockup - Professional Conference Identidade de Marca System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Diretrizes de Marca & Identity System</a>
+											<a href="/pt/work/branding/">Diretrizes de Marca & Identity System</a>
 										</div>
 																					<div class="preview-name">Diretrizes de Marca</div>
 																					<div class="preview-name">Identity Design</div>
@@ -1611,11 +1611,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference Design de Logotipo - Professional Event Branding" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">CycleThe6 Event Branding</a>
+											<a href="/pt/work/branding/">CycleThe6 Event Branding</a>
 										</div>
 																					<div class="preview-name">Event Design de Logotipo</div>
 																					<div class="preview-name">Conference Identity</div>
@@ -1629,11 +1629,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Conference Stationery Design</a>
+											<a href="/pt/work/branding/">Conference Stationery Design</a>
 										</div>
 																					<div class="preview-name">Event Stationery</div>
 																					<div class="preview-name">Material de Marca</div>
@@ -1647,11 +1647,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - Branding para Conferências Design System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">MuskFume Brand Presentation</a>
+											<a href="/pt/work/branding/">MuskFume Brand Presentation</a>
 										</div>
 																					<div class="preview-name">Brand Presentation</div>
 																					<div class="preview-name">Branding para Conferências</div>
@@ -1665,11 +1665,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="Branding Profissional Mockup - Conference Identidade de Marca Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">Ver projeto</a></div>										
+										<div class="preview-action"><a href="/pt/work/branding/" class="not-index">Ver projeto</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Branding Profissional Mockup</a>
+											<a href="/pt/work/branding/">Branding Profissional Mockup</a>
 										</div>
 																					<div class="preview-name">Brand Mockup</div>
 																					<div class="preview-name">Identity Design</div>
@@ -1682,7 +1682,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/branding/" class="redlink">
+					<a href="/pt/work/branding/" class="redlink">
 						<span>Ver todos os projetos</span>
 					</a>
 				</div>
@@ -2191,7 +2191,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Tem um Projeto em Mente? Vamos Construir Algo Grandioso Juntos.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/pt/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2204,20 +2204,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Empresa</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/pt/agency/">Agência</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/pt/services/">Serviços</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/pt/contact/">Contato</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Serviços</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">Branding</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Design de Embalagens</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/pt/services/web-design/">Web Design</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/pt/services/e-commerce-websites/">Branding</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/pt/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/pt/services/packaging-design/">Design de Embalagens</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
 
 </ul>														</div>
@@ -2227,12 +2227,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Seja Nosso Parceiro</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/">Seja Nosso Parceiro</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/white-label-services/">Serviços White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/referral-program/">Programa de Indicação</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/pt/agency/partner-with-us/ghl-services/">Serviços GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contato</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/pt/contact/">Contato</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2292,13 +2292,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfólio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agência</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Serviços</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/pt/agency/">Agência</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/pt/services/">Serviços</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contato</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/pt/contact/">Contato</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contato</a>
+							<a class="menu-contact" href="/pt/contact/">Contato</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envie-nos um e-mail</a>
 						</div>
 					</div>
@@ -2307,7 +2307,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
+				<a href="/pt/contact/" class="to-contact">Novo Projeto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Agendar uma Reunião</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2553,7 +2553,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Usamos cookies para melhorar sua experiência. Ao clicar em ACEITAR ou continuar navegando, você concorda com nossa
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
+						<a href="/pt/privacy-policy/" class="cookie-banner__link" target="_blank">Política de Privacidade</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Aceitar</button>
@@ -2686,7 +2686,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

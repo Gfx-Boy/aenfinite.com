@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite",
+  title: "GoHighLevel Implementation & الأتمتة الخدمات",
   description: "Get expert GoHighLevel implementation, automation, and white-label support with Aenfinite. We help agencies and businesses maximize CRM efficiency, streamline workflows, and scale faster with GHL.",
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
   alternates: { canonical: "https://aenfinite.com/ar/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/ghl-services/","en":"https://aenfinite.com/agency/partner-with-us/ghl-services/","es":"https://aenfinite.com/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.com/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.com/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/ghl-services/"} },
-  openGraph: {"title":"GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"GoHighLevel Implementation & الأتمتة الخدمات | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.com/ar/agency/partner-with-us/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & الأتمتة الخدمات | Aenfinite","description":"Automate your agency workflows with Aenfinite's GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -78,7 +78,7 @@ const headStyles = `
 		
 img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
-		/* Make "Ø§Ù„Ø®Ø¯Ù…Ø§Øª" appear on new line on mobile */
+		/* Make "الخدمات" appear on new line on mobile */
 		@media (max-width: 768px) {
 			.title__main h1 span span {
 				display: block !important;
@@ -740,62 +740,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a>
+								<a href="/ar/featured-work/">الأعمال</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ar/agency">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a>
+								<a href="/ar/agency/">الوكالة</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a>
+                                <a href="/ar/services/">الخدمات</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ·ÙˆÙŠØ± â€º</a>
+                                        <a href="#">حلول التطوير ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©</a></li>
-											<li><a href="/ar/services/custom-web-development">ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ù…Ø®ØµØµ</a></li>
-											<li><a href="/ar/services/software-&-platform-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª ÙˆØ§Ù„Ù…Ù†ØµØ§Øª</a></li>
-											<li><a href="/ar/services/app-development/">ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª</a></li>
-											<li><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">Ø­Ù„ÙˆÙ„ Ø§Ù„ÙˆÙŠØ¨ Ø§Ù„Ø¹Ù‚Ø§Ø±ÙŠØ©</a></li>                                      </ul>
+											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
+											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
+											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
+											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØµÙ…ÙŠÙ… ÙˆØ§Ù„Ø¥Ø¨Ø¯Ø§Ø¹ â€º</a>
+                                        <a href="#">خدمات التصميم والإبداع ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/ui-ux-design/">ØªØµÙ…ÙŠÙ… UI/UX</a></li>
+                                            <li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
 
-                                            <li><a href="/ar/services/branding/">Ù‡ÙˆÙŠØ© Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© ÙˆØ§Ù„Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ©</a></li>
-                                            <li><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li> <li><a href="/ar/services/logo-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø´Ø¹Ø§Ø±Ø§Øª</a></li>
+                                            <li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
+                                            <li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
                                             
-                                            <li><a href="/ar/services/trade-show-booth-design/">ØªØµÙ…ÙŠÙ… Ø£Ø¬Ù†Ø­Ø© Ø§Ù„Ù…Ø¹Ø§Ø±Ø¶ Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-                                            <li><a href="/ar/services/conference-branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø© Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ© Ù„Ù„Ù…Ø¤ØªÙ…Ø±Ø§Øª</a></li>
+                                            <li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
+                                            <li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„ØªØ³ÙˆÙŠÙ‚ ÙˆØ§Ù„Ø­Ù„ÙˆÙ„ Ø§Ù„Ø±Ù‚Ù…ÙŠØ© â€º</a>
+                                        <a href="#">حلول التسويق والحلول الرقمية ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/digital-marketing/">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ© Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ø±Ù‚Ù…ÙŠ</a></li>
-                                            <li><a href="/ar/services/search-engine-optimization/">ØªØ­Ø³ÙŠÙ† Ù…Ø­Ø±ÙƒØ§Øª Ø§Ù„Ø¨Ø­Ø« (SEO)</a></li>
-                                            <li><a href="/ar/services/pay-per-click">Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ø¯ÙØ¹ Ù„ÙƒÙ„ Ù†Ù‚Ø±Ø© (PPC)</a></li>
-                                            <li><a href="/ar/services/social-media-marketing/">Ø§Ù„ØªØ³ÙˆÙŠÙ‚ Ø¹Ø¨Ø± ÙˆØ³Ø§Ø¦Ù„ Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ</a></li> <li><a href="/ar/services/paid-ads/">Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª Ø§Ù„Ù…Ø¯ÙÙˆØ¹Ø©</a></li>
+                                            <li><a href="/ar/services/digital-marketing/">استراتيجية التسويق الرقمي</a></li>
+                                            <li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
+                                            <li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
+                                            <li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ø­Ù„ÙˆÙ„ Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙˆØ§Ù„ØªÙƒÙ†ÙˆÙ„ÙˆØ¬ÙŠØ§ â€º</a>
+                                        <a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ar/services/ai-chatbots-&-virtual-assistants/">Ø±ÙˆØ¨ÙˆØªØ§Øª Ø§Ù„Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒÙŠØ© ÙˆØ§Ù„Ù…Ø³Ø§Ø¹Ø¯ÙˆÙ† Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠÙˆÙ†</a></li>
-                                            <li><a href="/ar/services/workflow-&-business-automation/">Ø£ØªÙ…ØªØ© Ø³ÙŠØ± Ø§Ù„Ø¹Ù…Ù„ ÙˆØ§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
+                                            <li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
+                                            <li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - شاركنا العمل Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from Ø§Ù„Ø®Ø¯Ù…Ø§Øª menu - adaptive styling */
+/* Main dropdown from الخدمات menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -909,10 +909,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ar/agency/partner-with-us/">شاركنا العمل</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ar/contact/" class="topbar-contact_button">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
+						<a href="/ar/contact/" class="topbar-contact_button">اتصل بنا</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -921,7 +921,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							Ø¥Ø°Ø§ Ù„Ù… ØªØ¬Ø¯ Ø§Ù„Ø®Ø¯Ù…Ø© Ø§Ù„ØªÙŠ ØªØ­ØªØ§Ø¬Ù‡Ø§ØŒ Ø§ÙƒØªØ¨ Ø¥Ù„ÙŠÙ†Ø§ ÙˆØ³Ù†Ø¬Ø¯ Ø­Ù„Ø§Ù‹ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							إذا لم تجد الخدمة التي تحتاجها، اكتب إلينا وسنجد حلاً <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -950,7 +950,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</span></span>
+						<span>GoHighLevel<span style="background: #227bf3; color: white; text-align: center;">الخدمات</span></span>
 													<span></span>	
 											</h1>
 									</div>
@@ -985,18 +985,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-marquee runner js-runner">
 				<div class="js-runner-content">
 											<div class="marquee-line">
-    <span class="marquee-line_text">ÙˆÙƒØ§Ù„Ø© ØªØµÙ…ÙŠÙ… ÙˆØªØ·ÙˆÙŠØ± Ù…Ø¨ØªÙƒØ±Ø©</span>
-    <span class="marquee-line_text">Ù…ÙˆØ§Ù‚Ø¹ ÙˆØªØ·Ø¨ÙŠÙ‚Ø§Øª ÙˆØªØ¬Ø§Ø±Ø¨ Ø¹Ù„Ø§Ù…Ø© ØªØ¬Ø§Ø±ÙŠØ© Ù…Ø®ØµØµØ©</span>
-    <span class="marquee-line_text">Ø®Ø¯Ù…Ø© Ø§Ù„Ø¹Ù…Ù„Ø§Ø¡ Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ„Ø§ÙŠØ§Øª Ø§Ù„Ù…ØªØ­Ø¯Ø© ÙˆÙƒÙ†Ø¯Ø§ ÙˆØ®Ø§Ø±Ø¬Ù‡Ø§</span>
-    <span class="marquee-line_text">Ø®Ø¨Ø±Ø§Ø¡ ÙÙŠ UI/UX ÙˆSEO ÙˆØªØ³ÙˆÙŠÙ‚ Ø§Ù„Ù†Ù…Ùˆ</span>
-    <span class="marquee-line_text">Ù…ÙˆØ«ÙˆÙ‚ Ù…Ù† Ø§Ù„Ø´Ø±ÙƒØ§Øª Ø§Ù„Ù†Ø§Ø´Ø¦Ø© ÙˆØ§Ù„Ù…Ø¤Ø³Ø³Ø§Øª Ø§Ù„Ø¹Ø§Ù„Ù…ÙŠØ©</span>
-    <span class="marquee-line_text">ÙØ±ÙŠÙ‚ Ù…Ø§Ù‡Ø± – ReactØŒ WordPressØŒ FirebaseØŒ Figma</span>
-    <span class="marquee-line_text">Ø¹Ù…Ù„ÙŠØ© ØªØ·ÙˆÙŠØ± Ø±Ø´ÙŠÙ‚Ø© ÙˆÙ…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª</span>
-    <span class="marquee-line_text">ÙˆÙƒØ§Ù„Ø© Ø¹Ø§Ù„Ù…ÙŠØ© Ø¨Ø¬Ø°ÙˆØ± Ø¬Ù†ÙˆØ¨ Ø´Ø±Ù‚ Ø¢Ø³ÙŠÙˆÙŠØ©</span>
-    <span class="marquee-line_text">ØªÙ…ÙƒÙŠÙ† Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø¨Ø­Ù„ÙˆÙ„ Ù‚Ø§Ø¨Ù„Ø© Ù„Ù„ØªÙˆØ³Ø¹</span>
-    <span class="marquee-line_text">Ø§Ø³ØªØ±Ø§ØªÙŠØ¬ÙŠØ§Øª Ù…ØµÙ…Ù…Ø© Ø®ØµÙŠØµØ§Ù‹ Ù„ÙƒÙ„ ØµÙ†Ø§Ø¹Ø©</span>
-    <span class="marquee-line_text">Ø®Ø¨Ø±Ø§Ø¡ ÙÙŠ ØªØ·ÙˆÙŠØ± Ø§Ù„ÙˆÙŠØ¨ ÙˆØ§Ù„Ø¬ÙˆØ§Ù„ ÙˆSaaS</span>
-    <span class="marquee-line_text">Ø­Ù„ÙˆÙ„ ØªØ³ÙˆÙŠÙ‚ Ø±Ù‚Ù…ÙŠ Ù…ÙˆØ¬Ù‡Ø© Ø¨Ø§Ù„Ù†ØªØ§Ø¦Ø¬</span>
+    <span class="marquee-line_text">وكالة تصميم وتطوير مبتكرة</span>
+    <span class="marquee-line_text">مواقع وتطبيقات وتجارب علامة تجارية مخصصة</span>
+    <span class="marquee-line_text">خدمة العملاء عبر الولايات المتحدة وكندا وخارجها</span>
+    <span class="marquee-line_text">خبراء في UI/UX وSEO وتسويق النمو</span>
+    <span class="marquee-line_text">موثوق من الشركات الناشئة والمؤسسات العالمية</span>
+    <span class="marquee-line_text">فريق ماهر – React، WordPress، Firebase، Figma</span>
+    <span class="marquee-line_text">عملية تطوير رشيقة ومبنية على البيانات</span>
+    <span class="marquee-line_text">وكالة عالمية بجذور جنوب شرق آسيوية</span>
+    <span class="marquee-line_text">تمكين الأعمال بحلول قابلة للتوسع</span>
+    <span class="marquee-line_text">استراتيجيات مصممة خصيصاً لكل صناعة</span>
+    <span class="marquee-line_text">خبراء في تطوير الويب والجوال وSaaS</span>
+    <span class="marquee-line_text">حلول تسويق رقمي موجهة بالنتائج</span>
 </div>
 									</div>
 			</div>
@@ -1007,13 +1007,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h2>Ø¹Ù† Aenfinite</h2> 						
+          <h2>عن Aenfinite</h2> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					
         <div class="textbox-content"> 						
           Aenfinite is a global digital innovation agency dedicated to transforming ideas into impactful experiences. 
-          We specialize in <strong>UI/UX design, web and ØªØ·ÙˆÙŠØ± Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
+          We specialize in <strong>UI/UX design, web and تطوير التطبيقات, branding, digital marketing, and SEO</strong>, helping businesses of all sizes build a strong digital presence. 
           <br /><br />
           Founded on creativity and innovation, our team blends design and technology to deliver solutions that inspire, engage, and perform. 
           From startups to established enterprises, we empower brands to grow through strategy-driven design and development. 
@@ -1051,7 +1051,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <div class="logotype" style="padding: 30px;">
         <span><img src="https://assets.crowdspring.com/marketing/landing-page/dba/colorado-state-seal.png" alt="Aenfinite Certification of colorado" loading="lazy" decoding="async" /></span>
         <span><img src="https://i0.wp.com/storyteller.co.za/wp-content/uploads/2018/06/How-To-Get-More-Google-Reviews-.png?fit=1030%2C514&ssl=1" loading="lazy" decoding="async"/></span>
-        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized Ø§Ù„ÙˆÙƒØ§Ù„Ø©" loading="lazy" decoding="async" /></span>
+        <span><img src="https://www.pikpng.com/pngl/b/328-3285377_how-to-apply-trustpilot-5-star-logo-clipart.png" alt="Aenfinite Recognized الوكالة" loading="lazy" decoding="async" /></span>
       </div>			
     </div> 		
   </div> 	
@@ -1105,7 +1105,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="section">
 	<div class="wrapper">
 		<div class="textbox-content normaltext">
-			<h2><strong>Why Choose Aenfinite for GoHighLevel Ø§Ù„Ø®Ø¯Ù…Ø§Øª?</strong></h2>
+			<h2><strong>Why Choose Aenfinite for GoHighLevel الخدمات?</strong></h2>
 			<p>&nbsp;</p>
 			<p>At <strong>Aenfinite</strong>, we dont just set up GoHighLevel  we customize, optimize, and automate it to fit your business needs. Our team blends creativity with technical expertise to help you unlock the full potential of <strong>CRM automation, funnels, websites, and marketing campaigns</strong> through GHL. </p>
 			<p>&nbsp;</p>
@@ -1114,12 +1114,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<p><strong>Here's why businesses trust Aenfinite with their GoHighLevel projects:</strong></p>
 			<ul>
 				<li>Custom GHL setup tailored to your business goals</li>
-				<li>Ø§Ù„Ø£ØªÙ…ØªØ© strategies to save time and boost productivity</li>
+				<li>الأتمتة strategies to save time and boost productivity</li>
 				<li>High-converting funnel design & development</li>
 				<li>Ongoing support, training, and white-label solutions</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Ready to scale your business with GoHighLevel? Ø§ØªØµÙ„ Ø¨Ù†Ø§ us today at 
+			<p>Ready to scale your business with GoHighLevel? اتصل بنا us today at 
 				<a href="mailto:services@aenfinite.com" target="_blank" rel="noopener">services@aenfinite.com</a> 
 				and let's build your automation strategy.</p>
 		</div>
@@ -1131,7 +1131,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>GoHighLevel Ø§Ù„Ø®Ø¯Ù…Ø§Øª</h2>
+						<h2>GoHighLevel الخدمات</h2>
 					</div>
 				</div>
 				<div class="textbox appear js-aos">
@@ -1149,8 +1149,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <p>By the time we're done, you'll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
             </div>
             <div class="infobox-action">
-                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup Ø§Ù„Ø®Ø¯Ù…Ø§Øª" class="redlink">
-                    <span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+                <a href="mailto:ghl@aenfinite.com?subject=GHL Setup الخدمات" class="redlink">
+                    <span>اعرف المزيد</span>
                 </a>
             </div>
         </div>
@@ -1158,15 +1158,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
     <div class="infobox-cell">
         <div class="infobox appear js-aos">
-            <div class="infobox-title">Funnel Design & Ø§Ù„ØªØ·ÙˆÙŠØ±</div>
+            <div class="infobox-title">Funnel Design & التطوير</div>
             <div class="infobox-description">
                 <p>We create beautiful, high-converting funnels that don't just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
                 <p>Our team combines conversion-focused design, copywriting, and automation to build a seamless experience from ad click to sale. Whether you need lead generation funnels, webinar registration, or product sales pages, we ensure that every step is optimized for engagement and ROI.</p>
                 <p>All funnels are mobile-responsive, speed-tested, and integrated with your CRM and automation workflows so nothing falls through the cracks.</p>
             </div>
             <div class="infobox-action">
-                <a href="mailto:ghl@aenfinite.com?subject=GHL Funnel Ø§Ù„ØªØ·ÙˆÙŠØ±" class="redlink">
-                    <span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+                <a href="mailto:ghl@aenfinite.com?subject=GHL Funnel التطوير" class="redlink">
+                    <span>اعرف المزيد</span>
                 </a>
             </div>
         </div>
@@ -1174,7 +1174,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
     <div class="infobox-cell">
         <div class="infobox appear js-aos">
-            <div class="infobox-title">White Label Ø®Ø¯Ù…Ø§Øª GHL</div>
+            <div class="infobox-title">White Label خدمات GHL</div>
             <div class="infobox-description">
                 <p>Scale your agency without adding extra overhead. Our White Label GHL service let's you offer GoHighLevel setup, funnel building, and automation services under your own brand  while we do all the heavy lifting behind the scenes.</p>
                 <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agency's branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
@@ -1182,7 +1182,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.com?subject=White Label GHL Partnership" class="redlink">
-                    <span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+                    <span>اعرف المزيد</span>
                 </a>
             </div>
         </div>
@@ -1201,7 +1201,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Comprehensive Ø®Ø¯Ù…Ø§Øª GHL</h2>
+						<h2>Comprehensive خدمات GHL</h2>
 					</div>
 				</div>
 				<div class="infobox-grid infobox-grid__2">
@@ -1220,14 +1220,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL CRM Implementation" class="redlink">
-										<span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+										<span>اعرف المزيد</span>
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">Marketing Ø§Ù„Ø£ØªÙ…ØªØ©</div>
+								<div class="infobox-title">Marketing الأتمتة</div>
 								<div class="infobox-description">
 									<p>Advanced automation workflows including email campaigns, SMS marketing, appointment scheduling, and follow-up sequences. Designed to nurture leads and increase conversions.</p>
 									<ul>
@@ -1238,8 +1238,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</ul>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing Ø§Ù„Ø£ØªÙ…ØªØ©" class="redlink">
-										<span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+									<a href="mailto:ghl@aenfinite.com?subject=GHL Marketing الأتمتة" class="redlink">
+										<span>اعرف المزيد</span>
 									</a>
 								</div>
 							</div>
@@ -1248,7 +1248,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="infobox appear js-aos">
 								<div class="infobox-title">Custom Integrations</div>
 								<div class="infobox-description">
-									<p>ØªÙˆØ§ØµÙ„ GoHighLevel with your existing business tools and systems. API integrations, webhook configurations, and custom solutions for your unique requirements.</p>
+									<p>تواصل GoHighLevel with your existing business tools and systems. API integrations, webhook configurations, and custom solutions for your unique requirements.</p>
 									<ul>
 										<li>Zapier and API integrations</li>
 										<li>Custom webhook development</li>
@@ -1258,7 +1258,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=Custom GHL Integrations" class="redlink">
-										<span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+										<span>اعرف المزيد</span>
 									</a>
 								</div>
 							</div>
@@ -1277,7 +1277,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								</div>
 								<div class="infobox-action">
 									<a href="mailto:ghl@aenfinite.com?subject=GHL Support and Training" class="redlink">
-										<span>Ø§Ø¹Ø±Ù Ø§Ù„Ù…Ø²ÙŠØ¯</span>
+										<span>اعرف المزيد</span>
 									</a>
 								</div>
 							</div>
@@ -1308,7 +1308,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/ar/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1318,39 +1318,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø´Ø±ÙƒØ©</div>
+								<div class="footer-col_caption">الشركة</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">الأعمال</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ar/agency/partner-with-us/">الوكالة</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</div>
+								<div class="footer-col_caption">الخدمات</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ù…ÙˆØ§Ù‚Ø¹</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/wordpress-websites/">Ù…ÙˆØ§Ù‚Ø¹ WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">Ø§Ù„Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ØªØ¬Ø§Ø±ÙŠØ©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¹Ø¨ÙˆØ§Øª</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ar/services/graphic-design/">Ø§Ù„ØªØµÙ…ÙŠÙ… Ø§Ù„Ø¬Ø±Ø§ÙÙŠÙƒÙŠ</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ar/services/web-design/">تصميم المواقع</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ar/services/branding/">العلامات التجارية</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ar/services/packaging-design/">تصميم العبوات</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ØªÙˆØ§ØµÙ„</div>
+								<div class="footer-col_caption">تواصل</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4945 current_page_item menu-item-4952"><a class="js-dropdown-layer-marker" href="" aria-current="page">شاركنا العمل</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ar/contact/">اتصل بنا</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">Ø§Ù„Ø¹Ù†ÙˆØ§Ù†</div>
+									<div class="footer-col_caption">العنوان</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1403,15 +1403,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Ø§Ù„Ø£Ø¹Ù…Ø§Ù„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="../">Ø§Ù„ÙˆÙƒØ§Ù„Ø©</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">Ø§Ù„Ø®Ø¯Ù…Ø§Øª</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ar/featured-work/">الأعمال</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-275"><a href="/ar/agency/partner-with-us/">الوكالة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Ø§ØªØµÙ„ Ø¨Ù†Ø§</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">Ø£Ø±Ø³Ù„ Ù„Ù†Ø§ Ø¨Ø±ÙŠØ¯Ø§Ù‹ Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ§Ù‹</a>
+							<a class="menu-contact" href="/ar/contact/">اتصل بنا</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">أرسل لنا بريداً إلكترونياً</a>
 						</div>
 					</div>
 				</div>
@@ -1419,13 +1419,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Ù…Ø´Ø±ÙˆØ¹ Ø¬Ø¯ÙŠØ¯ØŸ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹</a>
+				<a href="/ar/contact/" class="to-contact">مشروع جديد؟</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">حدد موعد اجتماع</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>Ø­Ø¯Ø¯ Ù…ÙˆØ¹Ø¯ Ø§Ø¬ØªÙ…Ø§Ø¹Ùƒ Ø§Ù„ØªØ¬Ø§Ø±ÙŠ</h3>
+			<h3>حدد موعد اجتماعك التجاري</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1702,11 +1702,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Ù†Ø³ØªØ®Ø¯Ù… Ù…Ù„ÙØ§Øª ØªØ¹Ø±ÙŠÙ Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø· Ù„ØªØ­Ø³ÙŠÙ† ØªØ¬Ø±Ø¨ØªÙƒ. Ø¨Ø§Ù„Ù†Ù‚Ø± Ø¹Ù„Ù‰ Ù‚Ø¨ÙˆÙ„ Ø£Ùˆ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØµÙØ­ØŒ ÙØ¥Ù†Ùƒ ØªÙˆØ§ÙÙ‚ Ø¹Ù„Ù‰
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</a>.
+						نستخدم ملفات تعريف الارتباط لتحسين تجربتك. بالنقر على قبول أو متابعة التصفح، فإنك توافق على
+						<a href="/ar/privacy-policy/" class="cookie-banner__link" target="_blank">سياسة الخصوصية</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">Ù‚Ø¨ÙˆÙ„</button>
+				<button class="cookie-banner__button">قبول</button>
 			</div>
 		</div>
 
@@ -1801,7 +1801,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "url": "https://aenfinite.com/ghl-services/",
-  "name": "GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª | Aenfinite",
+  "name": "GoHighLevel Implementation & الأتمتة الخدمات | Aenfinite",
   "description": "Expert GoHighLevel implementation, CRM setup, and automation services by Aenfinite for agencies and businesses seeking scalability and efficiency.",
   "publisher": {
     "@type": "Organization",
@@ -1819,12 +1819,12 @@ export default function Page() {
   },
   "mainEntity": {
     "@type": "Service",
-    "name": "GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ©",
+    "name": "GoHighLevel Implementation & الأتمتة",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite"
     },
-    "serviceType": "GoHighLevel CRM Setup, Ø§Ù„Ø£ØªÙ…ØªØ© & White-Label Support",
+    "serviceType": "GoHighLevel CRM Setup, الأتمتة & White-Label Support",
     "areaServed": {
       "@type": "Place",
       "name": "Denver, Colorado"
@@ -1849,19 +1849,19 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Ø§Ù„ÙˆÙƒØ§Ù„Ø©",
+      "name": "الوكالة",
       "item": "https://aenfinite.com/agency/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Ø´Ø§Ø±ÙƒÙ†Ø§ Ø§Ù„Ø¹Ù…Ù„",
+      "name": "شاركنا العمل",
       "item": "https://aenfinite.com/agency/partner-with-us/"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "GoHighLevel Implementation & Ø§Ù„Ø£ØªÙ…ØªØ© Ø§Ù„Ø®Ø¯Ù…Ø§Øª",
+      "name": "GoHighLevel Implementation & الأتمتة الخدمات",
       "item": "https://aenfinite.com/agency/partner-with-us/ghl-services/"
     }
   ]

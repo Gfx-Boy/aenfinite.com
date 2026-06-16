@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Top Design & Image de Marque Agence in Denver | Web, App & Design d'Emballage | Aenfinite",
+  title: "Top Design & Image de Marque Agence in Denver | Web, App & Design d'Emballage",
   description: "Aenfinite is a full-service agence digitale in Denver specializing in website design, branding, packaging, UI/UX, and développement d'applications. Since 2017, we've helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Denver, agence de branding, agence de conception web, développement d'applications agency, packaging design agency, agence digitale, Aenfinite about",
   alternates: { canonical: "https://aenfinite.com/fr/agency/", languages: {"x-default":"https://aenfinite.com/agency/","en":"https://aenfinite.com/agency/","es":"https://aenfinite.com/es/agency/","fr":"https://aenfinite.com/fr/agency/","de":"https://aenfinite.com/de/agency/","it":"https://aenfinite.com/it/agency/","ar":"https://aenfinite.com/ar/agency/","pt":"https://aenfinite.com/pt/agency/","zh":"https://aenfinite.com/zh/agency/","hi":"https://aenfinite.com/hi/agency/","nl":"https://aenfinite.com/nl/agency/","ja":"https://aenfinite.com/ja/agency/","ko":"https://aenfinite.com/ko/agency/"} },
@@ -1402,11 +1402,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                             
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/custom-web-development/">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-and-platform-development/">Développement de Logiciels et Plateformes</a></li>
 											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
 											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
-											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>                                      </ul>
+											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web Immobilières</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Services de Design et Création </a>
@@ -1425,7 +1425,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <ul class="sub-menu">
                                             <li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
                                             <li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-                                            <li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+                                            <li><a href="/fr/services/pay-per-click/">Publicité au Coût par Clic (PPC)</a></li>
                                             <li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
                                             
                                         </ul>
@@ -1433,8 +1433,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                     <li class="menu-item menu-item-has-children">
                                         <a href="#">Solutions IA et Technologie </a>
                                         <ul class="sub-menu">
-                                            <li><a href="/fr/services/ai-chatbots-&-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
-                                            <li><a href="/fr/services/workflow-&-business-automation/">Automatisation des Processus et des Affaires</a></li>
+                                            <li><a href="/fr/services/ai-chatbots-and-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
+                                            <li><a href="/fr/services/workflow-and-business-automation/">Automatisation des Processus et des Affaires</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -1891,7 +1891,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/fr/services/paid-ads/" class="chip-label">Publicité Payante</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/Pay-per-click/" class="chip-label">Campagnes PPC</a>
+													<a href="/fr/services/pay-per-click/" class="chip-label">Campagnes PPC</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/social-media-marketing/" class="chip-label">Marketing sur les Réseaux Sociaux</a>
@@ -1958,7 +1958,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/fr/services/wordpress-websites/" class="chip-label">WordPress Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de ThÃ¨mes</a>
+													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de Thèmes</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/wordpress-websites/" class="chip-label">Développement de Plugins</a>
@@ -2028,7 +2028,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/fr/services/graphic-design/" class="chip-label">Design d'Impression</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/print-design/" class="chip-label">Cartes de Visite</a>
+													<a href="/fr/services/graphic-design/" class="chip-label">Cartes de Visite</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/graphic-design/" class="chip-label">Brochures</a>
@@ -2037,7 +2037,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/fr/services/graphic-design/" class="chip-label">Graphismes Digitaux</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/social-media-design/" class="chip-label">Design de Contenu</a>
+													<a href="/fr/services/social-media-marketing/" class="chip-label">Design de Contenu</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/graphic-design/" class="chip-label">Supports Marketing</a>
@@ -2102,19 +2102,19 @@ Our white-label services enable agencies and consultants to expand their offerin
 													<a href="/fr/services/custom-web-development/" class="chip-label">Développement Web Sur Mesure</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/software-&-platform-development/" class="chip-label">Développement Logiciel</a>
+													<a href="/fr/services/software-and-platform-development/" class="chip-label">Développement Logiciel</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation Commerciale</a>
+													<a href="/fr/services/workflow-and-business-automation/" class="chip-label">Automatisation Commerciale</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbots IA</a>
+													<a href="/fr/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots IA</a>
 												</div>
 																							<div class="chip">
 													<a href="/fr/services/custom-web-development/" class="chip-label">Développement de Plateformes</a>
 												</div>
 																							<div class="chip">
-													<a href="/fr/services/workflow-&-business-automation/" class="chip-label">Automatisation des Processus</a>
+													<a href="/fr/services/workflow-and-business-automation/" class="chip-label">Automatisation des Processus</a>
 												</div>
 																					</div>
 									</div>
@@ -2267,19 +2267,19 @@ Our white-label services enable agencies and consultants to expand their offerin
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					Ã€ partir de 100 $
+					À partir de 100 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 500 $ Ã  5 000 $
+					de 500 $ à 5 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 5 000 $ Ã  20 000 $
+					de 5 000 $ à 20 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 20 000 $ Ã  50 000 $
+					de 20 000 $ à 50 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
@@ -2396,7 +2396,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Vous Avez un Projet en Tête ? Construisons Quelque Chose de Formidable Ensemble.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/fr/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2410,19 +2410,19 @@ Our white-label services enable agencies and consultants to expand their offerin
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">Agence</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Services</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/fr/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Conception Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Sites WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Image de Marque</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Design d'Emballage</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Design Graphique</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/fr/services/web-design/">Conception Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/fr/services/branding/">Image de Marque</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/fr/services/packaging-design/">Design d'Emballage</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/fr/services/graphic-design/">Design Graphique</a></li>
 
 </ul>														</div>
 							</div>
@@ -2432,12 +2432,12 @@ Our white-label services enable agencies and consultants to expand their offerin
 									<ul id="menu-footer-connect" class="menuss">
 <li id="menu-item-4965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4965"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.linkedin.com/company/aenfinite/">LinkedIn</a></li>
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="partner-with-us/">Devenez Partenaire</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/white-label-services/">Services en Marque Blanche</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/referral-program/">Programme de Parrainage</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="partner-with-us/ghl-services/">Services GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/">Devenez Partenaire</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/white-label-services/">Services en Marque Blanche</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/referral-program/">Programme de Parrainage</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/ghl-services/">Services GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/fr/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2486,23 +2486,23 @@ Our white-label services enable agencies and consultants to expand their offerin
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/fr/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
 						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
-						<link rel="canonical" href="https://aenfinite.com/services/branding/" />
+						<link rel="canonical" href="/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">Agence</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/fr/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">Contact</a>
+							<a class="menu-contact" href="/fr/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Envoyez-nous un e-mail</a>
 						</div>
 					</div>
@@ -2759,7 +2759,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 			}
 		</style>
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
+				<a href="/fr/contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -2990,8 +2990,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant à naviguer, vous acceptez notre
+						<a href="/fr/privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>

@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ë¬¸ì˜ Aenfinite® | Creative Digital Web ì—ì´ì „ì‹œ in Denver | ì›¹ ë””ìžì¸ & Marketing Experts",
-  description: "ë¬¸ì˜ Aenfinite®, a creative digital web agency based in Denver. Let",
+  title: "문의 Aenfinite® | Creative Digital Web 에이전시 in Denver | 웹 디자인 & Marketing Experts",
+  description: "문의 Aenfinite®, a creative digital web agency based in Denver. Let",
   keywords: "contact Aenfinite, Denver web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
   alternates: { canonical: "https://aenfinite.com/ko/contact/", languages: {"x-default":"https://aenfinite.com/contact/","en":"https://aenfinite.com/contact/","es":"https://aenfinite.com/es/contact/","fr":"https://aenfinite.com/fr/contact/","de":"https://aenfinite.com/de/contact/","it":"https://aenfinite.com/it/contact/","ar":"https://aenfinite.com/ar/contact/","pt":"https://aenfinite.com/pt/contact/","zh":"https://aenfinite.com/zh/contact/","hi":"https://aenfinite.com/hi/contact/","nl":"https://aenfinite.com/nl/contact/","ja":"https://aenfinite.com/ja/contact/","ko":"https://aenfinite.com/ko/contact/"} },
-  openGraph: {"title":"ë¬¸ì˜ Aenfinite® | Creative Digital Web ì—ì´ì „ì‹œ in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ko/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"ë¬¸ì˜ Aenfinite® | ì›¹ ë””ìžì¸, ë¸Œëžœë”© & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
+  openGraph: {"title":"문의 Aenfinite® | Creative Digital Web 에이전시 in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ko/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"문의 Aenfinite® | 웹 디자인, 브랜딩 & Marketing Experts","description":"Let","images":["https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -573,62 +573,62 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+                                        <a href="#">개발 솔루션 ›</a>
                                         <ul class="sub-menu">
                                             
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>                                      </ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+                                        <a href="#">디자인 및 크리에이티브 서비스 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
 
-                                            <li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+                                            <li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+                                            <li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
                                             
-                                            <li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-                                            <li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+                                            <li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+                                            <li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+                                        <a href="#">마케팅 및 디지털 솔루션 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-                                            <li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-                                            <li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-                                            <li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+                                            <li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+                                            <li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+                                            <li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+                                            <li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+                                        <a href="#">AI 및 기술 솔루션 ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-                                            <li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+                                            <li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+                                            <li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -742,10 +742,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -754,7 +754,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -782,13 +782,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</a>
         <div class="main">
 
-            <main class="section" role="main" aria-label="ë¬¸ì˜ Page Content">
+            <main class="section" role="main" aria-label="문의 Page Content">
 				
-				<!-- ë¬¸ì˜í•˜ê¸° Header Section -->
+				<!-- 문의하기 Header Section -->
 				<div class="section fade-in-delay-1">
 					<div class="wrapper">
 						<div class="textbox-content normaltext" style="text-align: center;">
-							<h1 style><strong>Aenfiniteâ„¢ì— ë¬¸ì˜í•˜ê¸°</strong></h1>						</div>
+							<h1 style><strong>Aenfinite™에 문의하기</strong></h1>						</div>
 					</div>
 				</div>
 				
@@ -797,11 +797,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<section class="formss-wrap">
 							
 							
-							<section class="toggle-formss" aria-label="ë¬¸ì˜ Form">
+							<section class="toggle-formss" aria-label="문의 Form">
 								
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -813,14 +813,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="í”„ë¡œì íŠ¸ì— ëŒ€í•´ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" type="text" name="text-tell-project" /></span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="프로젝트에 대해 알려주십시오" value="" type="text" name="text-tell-project" /></span>
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="ë¸Œëžœë”©" id="branding" /><label for="branding" class="list-item-label">ë¸Œëžœë”©</label></span><span class="list-item"><input type="checkbox" name="services" value="ì›¹ ë””ìžì¸" id="web-design" /><label for="web-design" class="list-item-label">ì›¹ ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="ë””ì§€í„¸ ë§ˆì¼€íŒ…" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">ë””ì§€í„¸ ë§ˆì¼€íŒ…</label></span><span class="list-item"><input type="checkbox" name="services" value="ì´ì»¤ë¨¸ìŠ¤ ì†”ë£¨ì…˜" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">ì´ì»¤ë¨¸ìŠ¤ ì†”ë£¨ì…˜</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX ë””ìžì¸" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="ì•± ê°œë°œ" id="app-development" /><label for="app-development" class="list-item-label">ì•± ê°œë°œ</label></span><span class="list-item"><input type="checkbox" name="services" value="íŒ¨í‚¤ì§•" id="packaging" /><label for="packaging" class="list-item-label">íŒ¨í‚¤ì§•</label></span><span class="list-item"><input type="checkbox" name="services" value="ê·¸ëž˜í”½ ë””ìžì¸" id="graphic-design" /><label for="graphic-design" class="list-item-label">ê·¸ëž˜í”½ ë””ìžì¸</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress ì›¹ì‚¬ì´íŠ¸" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress ì›¹ì‚¬ì´íŠ¸</label></span><span class="list-item last"><input type="checkbox" name="services" value="ê¸°íƒ€" id="other" /><label for="other" class="list-item-label">ê¸°íƒ€</label></span></span></span>
+		<strong>관심 분야...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="브랜딩" id="branding" /><label for="branding" class="list-item-label">브랜딩</label></span><span class="list-item"><input type="checkbox" name="services" value="웹 디자인" id="web-design" /><label for="web-design" class="list-item-label">웹 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="디지털 마케팅" id="digital-marketing" /><label for="digital-marketing" class="list-item-label">디지털 마케팅</label></span><span class="list-item"><input type="checkbox" name="services" value="이커머스 솔루션" id="ecommerce-solutions" /><label for="ecommerce-solutions" class="list-item-label">이커머스 솔루션</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX 디자인" id="ui-ux-design" /><label for="ui-ux-design" class="list-item-label">UI/UX 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="앱 개발" id="app-development" /><label for="app-development" class="list-item-label">앱 개발</label></span><span class="list-item"><input type="checkbox" name="services" value="패키징" id="packaging" /><label for="packaging" class="list-item-label">패키징</label></span><span class="list-item"><input type="checkbox" name="services" value="그래픽 디자인" id="graphic-design" /><label for="graphic-design" class="list-item-label">그래픽 디자인</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress 웹사이트" id="wordpress-websites" /><label for="wordpress-websites" class="list-item-label">WordPress 웹사이트</label></span><span class="list-item last"><input type="checkbox" name="services" value="기타" id="other" /><label for="other" class="list-item-label">기타</label></span></span></span>
 		
 		<div class="selectbox budget-dropdown js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
@@ -854,13 +854,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="top-contact-button" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
 	
 </div>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 
 <!-- Social Media Section -->
 <div class="social-media-connect" style="margin-top: 50px; text-align: center; padding: 30px 20px;">
-    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">ë¬¸ì˜í•˜ê¸°</h3>
+    <h3 style="font-size: 24px; margin-bottom: 20px; color: #333;">문의하기</h3>
     
     <div class="social-icons" style="margin-bottom: 30px;">
         <a href="https://www.instagram.com/aenfinite" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 15px; text-decoration: none; color: #227bf3; transition: transform 0.3s ease;">
@@ -882,7 +882,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     </div>
 
     <div class="contact-phone" style="margin-top: 30px;">
-        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">ì „í™” ë¬¸ì˜</h4>
+        <h4 style="font-size: 18px; margin-bottom: 10px; color: #333;">전화 문의</h4>
         <a href="tel:+13034199782" style="text-decoration: none; color: #227bf3; font-size: 24px; font-weight: bold;">
             <i class="fas fa-phone" style="margin-right: 10px;"></i>1-303-419-9782
         </a>
@@ -928,7 +928,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                                 <img src="/wp-content/themes/aenfinite.com/images/heart.svg" alt="Heart" class="icon" loading="lazy" decoding="async">
                                             </div>
                                         </div>
-                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">ë¹„ì „ì„ ì‹¤í˜„í•˜ì‹­ì‹œì˜¤</a>
+                                        <a href="https://www.google.com/maps/place/aenfinite/@38.2822672,-171.268136,3z/data=!3m1!4b1!4m6!3m5!1s0x274474962c7a10a1:0xa44c3f138ba91415!8m2!3d46.423669!4d-129.9427086!16s%2Fg%2F11x0dj29b1?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="heartbox_text">비전을 실현하십시오</a>
                                     </div>
                                 </div>
                             </div>
@@ -1072,7 +1072,7 @@ Denver County, USA
 		</style>
 
 		<style>
-			/* ë¬¸ì˜ Page SEO Enhancement Styles */
+			/* 문의 Page SEO Enhancement Styles */
 			.contact-intro {
 				max-width: 800px;
 				margin: 30px auto 40px;
@@ -1150,7 +1150,7 @@ Denver County, USA
 				}
 			}
 			
-			/* ë¬¸ì˜ Methods Section */
+			/* 문의 Methods Section */
 			.contact-methods {
 				background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
 				border-radius: 15px;
@@ -1247,46 +1247,46 @@ Denver County, USA
 			}
 		</style>
 
-		<!-- ë¬¸ì˜ Page FAQ Section for SEO -->
-		<section class="contact-faq" id="faq" aria-label="ìžì£¼ ë¬»ëŠ” ì§ˆë¬¸">
+		<!-- 문의 Page FAQ Section for SEO -->
+		<section class="contact-faq" id="faq" aria-label="자주 묻는 질문">
 			<div class="wrapper">
 				<div class="faq-container">
-					<h2>ìžì£¼ ë¬»ëŠ” ì§ˆë¬¸</h2>
+					<h2>자주 묻는 질문</h2>
 					<div class="faq-grid">
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ë¬¸ì˜ì— ì–¼ë§ˆë‚˜ ë¹¨ë¦¬ ì‘ë‹µí•©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">문의에 얼마나 빨리 응답합니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ì˜ì—…ì¼ ê¸°ì¤€ 24ì‹œê°„ ì´ë‚´ì— ëª¨ë“  ë¬¸ì˜ì— ì‘ë‹µí•©ë‹ˆë‹¤. ê¸´ê¸‰í•œ í”„ë¡œì íŠ¸ ìš”êµ¬ ì‚¬í•­ì˜ ê²½ìš° ë‹¹ì¼ ì‘ë‹µ ì˜µì…˜ì„ ì œê³µí•©ë‹ˆë‹¤.</p>
+								<p itemprop="text">영업일 기준 24시간 이내에 모든 문의에 응답합니다. 긴급한 프로젝트 요구 사항의 경우 당일 응답 옵션을 제공합니다.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">AenfiniteëŠ” ì–´ë–¤ ì„œë¹„ìŠ¤ë¥¼ ì œê³µí•©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">Aenfinite는 어떤 서비스를 제공합니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">AenfiniteëŠ” ë¯¸êµ­ê³¼ ìºë‚˜ë‹¤ ì „ì—­ì˜ ë¹„ì¦ˆë‹ˆìŠ¤ë¥¼ ìœ„í•´ ì›¹ ë””ìžì¸, ë¸Œëžœë”©, ë””ì§€í„¸ ë§ˆì¼€íŒ…, SEO, ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™” ë° ë§žì¶¤í˜• ê°œë°œ ì†”ë£¨ì…˜ì„ í¬í•¨í•œ í¬ê´„ì ì¸ ë””ì§€í„¸ ì„œë¹„ìŠ¤ë¥¼ ì œê³µí•©ë‹ˆë‹¤.</p>
+								<p itemprop="text">Aenfinite는 미국과 캐나다 전역의 비즈니스를 위해 웹 디자인, 브랜딩, 디지털 마케팅, SEO, 비즈니스 자동화 및 맞춤형 개발 솔루션을 포함한 포괄적인 디지털 서비스를 제공합니다.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ë¯¸êµ­ê³¼ ìºë‚˜ë‹¤ ì´ì™¸ì˜ ë¹„ì¦ˆë‹ˆìŠ¤ì™€ë„ í˜‘ë ¥í•©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">미국과 캐나다 이외의 비즈니스와도 협력합니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ì£¼ë¡œ ë¯¸êµ­ê³¼ ìºë‚˜ë‹¤ ì‹œìž¥ì— ì§‘ì¤‘í•˜ê³  ìžˆì§€ë§Œ, ì„ ë³„ëœ í•´ì™¸ ê³ ê°ê³¼ë„ í˜‘ë ¥í•©ë‹ˆë‹¤. êµ¬ì²´ì ì¸ í”„ë¡œì íŠ¸ ìš”êµ¬ ì‚¬í•­ê³¼ ìœ„ì¹˜ì— ëŒ€í•´ ë…¼ì˜í•˜ë ¤ë©´ ë¬¸ì˜í•´ ì£¼ì‹­ì‹œì˜¤.</p>
+								<p itemprop="text">주로 미국과 캐나다 시장에 집중하고 있지만, 선별된 해외 고객과도 협력합니다. 구체적인 프로젝트 요구 사항과 위치에 대해 논의하려면 문의해 주십시오.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ì¼ë°˜ì ì¸ í”„ë¡œì íŠ¸ ì¼ì •ì€ ì–´ë–»ê²Œ ë©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">일반적인 프로젝트 일정은 어떻게 됩니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">í”„ë¡œì íŠ¸ ì¼ì •ì€ ë²”ìœ„ì™€ ë³µìž¡ì„±ì— ë”°ë¼ ë‹¤ë¦…ë‹ˆë‹¤. ì›¹ ë””ìžì¸ í”„ë¡œì íŠ¸ëŠ” ì¼ë°˜ì ìœ¼ë¡œ 4~8ì£¼ê°€ ì†Œìš”ë˜ë©°, í¬ê´„ì ì¸ ë¸Œëžœë”© í”„ë¡œì íŠ¸ëŠ” 6~12ì£¼ê°€ ì†Œìš”ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì´ˆê¸° ìƒë‹´ ì‹œ ìƒì„¸í•œ ì¼ì •ì„ ì œê³µí•©ë‹ˆë‹¤.</p>
+								<p itemprop="text">프로젝트 일정은 범위와 복잡성에 따라 다릅니다. 웹 디자인 프로젝트는 일반적으로 4~8주가 소요되며, 포괄적인 브랜딩 프로젝트는 6~12주가 소요될 수 있습니다. 초기 상담 시 상세한 일정을 제공합니다.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">í”„ë¡œì íŠ¸ ì™„ë£Œ í›„ ì§€ì†ì ì¸ ì§€ì›ì„ ì œê³µí•©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">프로젝트 완료 후 지속적인 지원을 제공합니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">ë„¤, ë””ì§€í„¸ ìžì‚°ì´ ìµœì ì˜ ì„±ëŠ¥ì„ ì§€ì†ì ìœ¼ë¡œ ìœ ì§€í•  ìˆ˜ ìžˆë„ë¡ í¬ê´„ì ì¸ ì§€ì† ì§€ì› ë° ìœ ì§€ë³´ìˆ˜ íŒ¨í‚¤ì§€ë¥¼ ì œê³µí•©ë‹ˆë‹¤. ì§€ì› ì˜µì…˜ì—ëŠ” ì›¹ì‚¬ì´íŠ¸ ì—…ë°ì´íŠ¸, SEO ëª¨ë‹ˆí„°ë§ ë° ê¸°ìˆ  ì§€ì›ì´ í¬í•¨ë©ë‹ˆë‹¤.</p>
+								<p itemprop="text">네, 디지털 자산이 최적의 성능을 지속적으로 유지할 수 있도록 포괄적인 지속 지원 및 유지보수 패키지를 제공합니다. 지원 옵션에는 웹사이트 업데이트, SEO 모니터링 및 기술 지원이 포함됩니다.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">ì„œë¹„ìŠ¤ ê°€ê²©ì€ ì–´ë–»ê²Œ ì±…ì •ë©ë‹ˆê¹Œ?</h3>
+							<h3 itemprop="name">서비스 가격은 어떻게 책정됩니까?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">í”„ë¡œì íŠ¸ ë²”ìœ„, ì¼ì • ë° êµ¬ì²´ì  ìš”êµ¬ ì‚¬í•­ì— ë”°ë¼ ë§žì¶¤ ê²¬ì ì„ ì œê³µí•©ë‹ˆë‹¤. ê°€ê²©ì€ íˆ¬ëª…í•˜ê³  ê²½ìŸë ¥ ìžˆìœ¼ë©°, ì›¹ ë””ìžì¸ì€ $2,500ë¶€í„°, ë¸Œëžœë”© í”„ë¡œì íŠ¸ëŠ” $1,500ë¶€í„° íŒ¨í‚¤ì§€ê°€ ì‹œìž‘ë©ë‹ˆë‹¤.</p>
+								<p itemprop="text">프로젝트 범위, 일정 및 구체적 요구 사항에 따라 맞춤 견적을 제공합니다. 가격은 투명하고 경쟁력 있으며, 웹 디자인은 $2,500부터, 브랜딩 프로젝트는 $1,500부터 패키지가 시작됩니다.</p>
 							</div>
 						</div>
 					</div>
@@ -1295,7 +1295,7 @@ Denver County, USA
 		</section>
 
 		<style>
-			/* ë¬¸ì˜ FAQ Section Styles */
+			/* 문의 FAQ Section Styles */
 			.contact-faq {
 				background: #f8f9fa;
 				padding: 80px 0;
@@ -1398,38 +1398,38 @@ Denver County, USA
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/ko/services/graphic-design/">그래픽 디자인</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-									<div class="footer-col_caption">ì£¼ì†Œ</div>
+									<div class="footer-col_caption">주소</div>
 									<div class="footer-col_list">
 										<ul>
 											<li>
@@ -1474,7 +1474,7 @@ Denver County, USA
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/ko/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1482,15 +1482,15 @@ Denver County, USA
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/ko/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -1500,13 +1500,13 @@ Denver County, USA
 
 		                
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -1743,11 +1743,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -1843,7 +1843,7 @@ document.addEventListener('keydown', function(event) {
 
 
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -1859,7 +1859,7 @@ export default function Page() {
   "@type": "LocalBusiness",
   "name": "Aenfinite",
   "url": "https://aenfinite.com",
-  "description": "ë¬¸ì˜ Aenfinite®, a creative digital web agency based in Denver. Let",
+  "description": "문의 Aenfinite®, a creative digital web agency based in Denver. Let",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Denver",
@@ -1889,8 +1889,8 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "ë¬¸ì˜ Aenfinite® | Creative Digital Web ì—ì´ì „ì‹œ in Denver | ì›¹ ë””ìžì¸ & Marketing Experts",
-  "description": "ë¬¸ì˜ Aenfinite®, a creative digital web agency based in Denver. Let",
+  "name": "문의 Aenfinite® | Creative Digital Web 에이전시 in Denver | 웹 디자인 & Marketing Experts",
+  "description": "문의 Aenfinite®, a creative digital web agency based in Denver. Let",
   "url": "https://aenfinite.com/contact/",
   "publisher": {
     "@type": "Organization",
@@ -1919,7 +1919,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ë¬¸ì˜ Aenfinite®",
+      "name": "문의 Aenfinite®",
       "item": "https://aenfinite.com/contact/"
     }
   ]

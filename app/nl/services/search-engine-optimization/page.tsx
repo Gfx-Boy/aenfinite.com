@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert Zoekmachineoptimalisatie (SEO) Diensten | Organic Traffic Growth | Aenfinite",
+  title: "Expert Zoekmachineoptimalisatie (SEO) Diensten | Organic Traffic Growth",
   description: "Aenfinite® is a leading SEO agency offering expert keyword research, on-page optimization, technical SEO, and link building. Our data-driven SEO strategies help boost organic rankings and drive qualified traffic growth.",
   keywords: "SEO-diensten, search engine optimization, keyword research, on-page SEO, technical SEO, link building, local SEO, organic traffic, SERP ranking, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/nl/services/search-engine-optimization/", languages: {"x-default":"https://aenfinite.com/services/search-engine-optimization/","en":"https://aenfinite.com/services/search-engine-optimization/","es":"https://aenfinite.com/es/services/search-engine-optimization/","fr":"https://aenfinite.com/fr/services/search-engine-optimization/","de":"https://aenfinite.com/de/services/search-engine-optimization/","it":"https://aenfinite.com/it/services/search-engine-optimization/","ar":"https://aenfinite.com/ar/services/search-engine-optimization/","pt":"https://aenfinite.com/pt/services/search-engine-optimization/","zh":"https://aenfinite.com/zh/services/search-engine-optimization/","hi":"https://aenfinite.com/hi/services/search-engine-optimization/","nl":"https://aenfinite.com/nl/services/search-engine-optimization/","ja":"https://aenfinite.com/ja/services/search-engine-optimization/","ko":"https://aenfinite.com/ko/services/search-engine-optimization/"} },
@@ -1123,8 +1123,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											                                            
 											<li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/nl/services/custom-web-development">Op Maat Gemaakte Webontwikkeling</a></li>
-											<li><a href="/nl/services/software-&-platform-development/">Software- & Platformontwikkeling</a></li>
+											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
+											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>									</ul>
@@ -1145,7 +1145,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-											<li><a href="/nl/services/pay-per-click">Pay-Per-Click (PPC) Adverteren</a></li>
+											<li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
 											<li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li> <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
 
 										</ul>
@@ -1155,8 +1155,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="menu-item menu-item-has-children">
 										<a href="#">AI- & Technologische Oplossingen </a>
 										<ul class="sub-menu">
-											<li><a href="/nl/services/ai-chatbots-&-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-											<li><a href="/nl/services/workflow-&-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+											<li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+											<li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1453,7 +1453,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ik ben geÃ¯nteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO-optimalisatie" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO-optimalisatie</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO-optimalisatie" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO-optimalisatie</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig SEO-diensten" id="other" /><label for="other" class="list-item-label">Overig SEO-diensten</label></span></span></span>
+		<strong>Ik ben geïnteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Keyword Research & Strategy" id="keyword-research-strategy" /><label for="keyword-research-strategy" class="list-item-label">Keyword Research & Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="On-Page SEO-optimalisatie" id="on-page-seo" /><label for="on-page-seo" class="list-item-label">On-Page SEO-optimalisatie</label></span><span class="list-item"><input type="checkbox" name="services" value="Technical SEO Audits" id="technical-seo" /><label for="technical-seo" class="list-item-label">Technical SEO Audits</label></span><span class="list-item"><input type="checkbox" name="services" value="Link Building & Authority" id="link-building" /><label for="link-building" class="list-item-label">Link Building & Authority</label></span><span class="list-item"><input type="checkbox" name="services" value="Local SEO-optimalisatie" id="local-seo" /><label for="local-seo" class="list-item-label">Local SEO-optimalisatie</label></span><span class="list-item"><input type="checkbox" name="services" value="Content SEO Strategy" id="content-seo" /><label for="content-seo" class="list-item-label">Content SEO Strategy</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Analytics & Reporting" id="seo-analytics" /><label for="seo-analytics" class="list-item-label">SEO Analytics & Reporting</label></span><span class="list-item"><input type="checkbox" name="services" value="E-commerce SEO" id="ecommerce-seo" /><label for="ecommerce-seo" class="list-item-label">E-commerce SEO</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO Audit & Consultation" id="seo-audit" /><label for="seo-audit" class="list-item-label">SEO Audit & Consultation</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig SEO-diensten" id="other" /><label for="other" class="list-item-label">Overig SEO-diensten</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Vertel ons uw geschatte budget" value="" readonly name="budget" />
@@ -1872,7 +1872,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Lets Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/nl/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1884,21 +1884,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Bedrijf</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Diensten</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Diensten</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Webdesign</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../wordpress-websites/">WordPress Websites</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Merkontwerp</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Verpakkingsontwerp</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/nl/services/web-design/">Webdesign</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/nl/services/branding/">Merkontwerp</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/nl/services/packaging-design/">Verpakkingsontwerp</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Merkontwerp</a></li>
 
 </ul>														</div>
@@ -1908,12 +1908,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Word Partner</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/">Word Partner</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/nl/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1972,14 +1972,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="./featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Diensten</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contact</a>
+							<a class="menu-contact" href="/nl/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">E-mail ons</a>
 						</div>
 					</div>
@@ -1988,7 +1988,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
+				<a href="/nl/contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2234,7 +2234,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wij gebruiken cookies om uw gebruikerservaring te verbeteren. Door op ACCEPTEREN te klikken of verder te bladeren, stemt u in met ons
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
+						<a href="/nl/privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepteren</button>
@@ -2369,7 +2369,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

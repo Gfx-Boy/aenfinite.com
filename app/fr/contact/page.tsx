@@ -576,25 +576,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/fr/featured-work/">Réalisations</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/fr/agency">Agence</a>
+								<a href="/fr/agency/">Agence</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/fr/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions de Développement â€º</a>
+                                        <a href="#">Solutions de Développement ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
 <li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
-											<li><a href="/fr/services/custom-web-development">Développement Web Sur Mesure</a></li>
-											<li><a href="/fr/services/software-&-platform-development/">Développement de Logiciels et Plateformes</a></li>
+											<li><a href="/fr/services/custom-web-development/">Développement Web Sur Mesure</a></li>
+											<li><a href="/fr/services/software-and-platform-development/">Développement de Logiciels et Plateformes</a></li>
 											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
 											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
-											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web ImmobiliÃ¨res</a></li>                                      </ul>
+											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web Immobilières</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Services de Design et Création â€º</a>
+                                        <a href="#">Services de Design et Création ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
 
@@ -606,20 +606,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions Marketing et Digitales â€º</a>
+                                        <a href="#">Solutions Marketing et Digitales ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
                                             <li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-                                            <li><a href="/fr/services/pay-per-click">Publicité au CoÃ»t par Clic (PPC)</a></li>
+                                            <li><a href="/fr/services/pay-per-click/">Publicité au Coût par Clic (PPC)</a></li>
                                             <li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
                                             
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions IA et Technologie â€º</a>
+                                        <a href="#">Solutions IA et Technologie ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/fr/services/ai-chatbots-&-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
-                                            <li><a href="/fr/services/workflow-&-business-automation/">Automatisation des Processus et des Affaires</a></li>
+                                            <li><a href="/fr/services/ai-chatbots-and-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
+                                            <li><a href="/fr/services/workflow-and-business-automation/">Automatisation des Processus et des Affaires</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -788,7 +788,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section fade-in-delay-1">
 					<div class="wrapper">
 						<div class="textbox-content normaltext" style="text-align: center;">
-							<h1 style><strong>Contactez Aenfiniteâ„¢</strong></h1>						</div>
+							<h1 style><strong>Contactez Aenfinite™</strong></h1>						</div>
 					</div>
 				</div>
 				
@@ -828,19 +828,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			<div class="select js-select-list">
 				<div class="select-option js-select-option">
-					Ã€ partir de 100 $
+					À partir de 100 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 500 $ Ã  5 000 $
+					de 500 $ à 5 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 5 000 $ Ã  20 000 $
+					de 5 000 $ à 20 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
-					de 20 000 $ Ã  50 000 $
+					de 20 000 $ à 50 000 $
 					
 				</div>
 				<div class="select-option js-select-option">
@@ -1256,7 +1256,7 @@ Denver County, USA
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 							<h3 itemprop="name">En combien de temps répondez-vous aux demandes ?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Nous répondons généralement Ã  toutes les demandes dans les 24 heures ouvrées. Pour les besoins urgents, nous offrons des options de réponse le jour même.</p>
+								<p itemprop="text">Nous répondons généralement à toutes les demandes dans les 24 heures ouvrées. Pour les besoins urgents, nous offrons des options de réponse le jour même.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -1274,19 +1274,19 @@ Denver County, USA
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 							<h3 itemprop="name">Quel est votre délai typique de projet ?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Les délais varient selon la portée et la complexité. Les projets de conception web prennent généralement 4 Ã  8 semaines, tandis que les projets de branding complets peuvent prendre 6 Ã  12 semaines. Nous fournissons des calendriers détaillés lors de la consultation initiale.</p>
+								<p itemprop="text">Les délais varient selon la portée et la complexité. Les projets de conception web prennent généralement 4 à 8 semaines, tandis que les projets de branding complets peuvent prendre 6 à 12 semaines. Nous fournissons des calendriers détaillés lors de la consultation initiale.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-							<h3 itemprop="name">Offrez-vous un support continu aprÃ¨s la fin du projet ?</h3>
+							<h3 itemprop="name">Offrez-vous un support continu après la fin du projet ?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Oui, nous offrons des forfaits complets de support et de maintenance continus pour assurer que vos actifs digitaux continuent de fonctionner de maniÃ¨re optimale. Les options incluent les mises Ã  jour de site, le suivi SEO et l'assistance technique.</p>
+								<p itemprop="text">Oui, nous offrons des forfaits complets de support et de maintenance continus pour assurer que vos actifs digitaux continuent de fonctionner de manière optimale. Les options incluent les mises à jour de site, le suivi SEO et l'assistance technique.</p>
 							</div>
 						</div>
 						<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 							<h3 itemprop="name">Comment établissez-vous vos tarifs ?</h3>
 							<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-								<p itemprop="text">Nous fournissons des devis personnalisés basés sur la portée du projet, les délais et les exigences spécifiques. Nos tarifs sont transparents et compétitifs, avec des forfaits Ã  partir de 2 500 $ pour la conception web et 1 500 $ pour les projets de branding.</p>
+								<p itemprop="text">Nous fournissons des devis personnalisés basés sur la portée du projet, les délais et les exigences spécifiques. Nos tarifs sont transparents et compétitifs, avec des forfaits à partir de 2 500 $ pour la conception web et 1 500 $ pour les projets de branding.</p>
 							</div>
 						</div>
 					</div>
@@ -1401,8 +1401,8 @@ Denver County, USA
 								<div class="footer-col_caption">Entreprise</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agence</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Services</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/fr/agency/">Agence</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">Contact</a></li>
 								</div>
@@ -1410,11 +1410,11 @@ Denver County, USA
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Conception Web</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Sites WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Image de Marque</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Design d'Emballage</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Design Graphique</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/fr/services/web-design/">Conception Web</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/fr/services/branding/">Image de Marque</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/fr/services/packaging-design/">Design d'Emballage</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/fr/services/graphic-design/">Design Graphique</a></li>
 
 </ul>														</div>
 							</div>
@@ -1423,7 +1423,7 @@ Denver County, USA
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Devenez Partenaire</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/fr/agency/partner-with-us/">Devenez Partenaire</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
 <li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-5977"><a class="js-dropdown-layer-marker" href="" aria-current="page">Contact</a></li>
 </ul>								</div>
@@ -1474,7 +1474,7 @@ Denver County, USA
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/fr/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1483,8 +1483,8 @@ Denver County, USA
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/fr/featured-work/">Réalisations</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agence</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="../services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/fr/agency/">Agence</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/fr/services/">Services</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-295 current_page_item menu-item-4127"><a href="" aria-current="page">Contact</a></li>
 </ul>						</div>
@@ -1500,7 +1500,7 @@ Denver County, USA
 
 		                
 
-				<a href="contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
+				<a href="/fr/contact/" class="to-contact">Nouveau Projet ?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Planifier une Réunion</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1743,8 +1743,8 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant Ã  naviguer, vous acceptez notre
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
+						Nous utilisons des cookies pour améliorer votre expérience. En cliquant sur ACCEPTER ou en continuant à naviguer, vous acceptez notre
+						<a href="/fr/privacy-policy/" class="cookie-banner__link" target="_blank">Politique de Confidentialité</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepter</button>
@@ -1843,7 +1843,7 @@ document.addEventListener('keydown', function(event) {
 
 
 <!-- CF7 recaptcha JS removed -->
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

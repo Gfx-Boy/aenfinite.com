@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite",
+  title: "Premier 会议品牌策划 & Event Identity Design 服务",
   description: "Aenfinite delivers premier conference branding and event identity design services that captivate audiences and strengthen brand presence. We craft cohesive event visuals, signage, digital assets, and complete branding strategies for memorable conference experiences.",
   keywords: "conference branding, event branding, event identity design, conference signage, event marketing, trade show branding, conference visual identity, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/conference-branding/", languages: {"x-default":"https://aenfinite.com/services/conference-branding/","en":"https://aenfinite.com/services/conference-branding/","es":"https://aenfinite.com/es/services/conference-branding/","fr":"https://aenfinite.com/fr/services/conference-branding/","de":"https://aenfinite.com/de/services/conference-branding/","it":"https://aenfinite.com/it/services/conference-branding/","ar":"https://aenfinite.com/ar/services/conference-branding/","pt":"https://aenfinite.com/pt/services/conference-branding/","zh":"https://aenfinite.com/zh/services/conference-branding/","hi":"https://aenfinite.com/hi/services/conference-branding/","nl":"https://aenfinite.com/nl/services/conference-branding/","ja":"https://aenfinite.com/ja/services/conference-branding/","ko":"https://aenfinite.com/ko/services/conference-branding/"} },
-  openGraph: {"title":"Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite","description":"Aenfinite specializes in creative conference branding and event identity design. From logo and stage visuals to attendee experiences, we bring your event to life with impactful design.","url":"https://aenfinite.com/zh/services/conference-branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite","description":"Aenfinite designs powerful conference branding and event identity visuals that elevate your conference presence and captivate attendees.","images":["https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"]},
+  openGraph: {"title":"Premier 会议品牌策划 & Event Identity Design 服务 | Aenfinite","description":"Aenfinite specializes in creative conference branding and event identity design. From logo and stage visuals to attendee experiences, we bring your event to life with impactful design.","url":"https://aenfinite.com/zh/services/conference-branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Premier 会议品牌策划 & Event Identity Design 服务 | Aenfinite","description":"Aenfinite designs powerful conference branding and event identity visuals that elevate your conference presence and captivate attendees.","images":["https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency/">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                               <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">开发解决方案 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>									</ul>
+											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ â€º</a>
+										<a href="#">设计与创意服务 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
-											<li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-											<li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+											<li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
+											<li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+											<li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
 											
-											<li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-											<li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+											<li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+											<li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">营销与数字解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-											<li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-											<li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+											<li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+											<li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+											<li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+											<li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">AI与技术解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-											<li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+											<li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+											<li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Premier <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ä¼šè®®å“ç‰Œç­–åˆ’</span> that creates impactful <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">event identities</span> and engages attendees.</span>
+						<span>Premier <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">会议品牌策划</span> that creates impactful <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">event identities</span> and engages attendees.</span>
 													
 											</h1>
 									</div>
@@ -1353,16 +1353,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">ä¸“ä¸šå“ç‰Œ æœåŠ¡ æœåŠ¡</span>
-    <span class="marquee-line_text">å“ç‰Œå½¢è±¡, æ ‡å¿—è®¾è®¡ & Visual Strategy</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
-    <span class="marquee-line_text">Specialists in å“ç‰Œå½¢è±¡ & Creative Design</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for å“ç‰Œç­–åˆ’ Solutions</span>
-    <span class="marquee-line_text">High-Impact å“ç‰Œè®¾è®¡ & Identity å¼€å‘</span>
-    <span class="marquee-line_text">Professional å“ç‰Œä¸Žæ ‡å¿—è®¾è®¡ Solutions</span>
-    <span class="marquee-line_text">ä¸“ä¸šå“ç‰Œ æœºæž„ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive å“ç‰Œç­–ç•¥ & Design Support</span>
-    <span class="marquee-line_text">Custom å“ç‰Œç­–åˆ’ Solutions for Every Industry</span>
+    <span class="marquee-line_text">专业品牌 服务 服务</span>
+    <span class="marquee-line_text">品牌形象, 标志设计 & Visual Strategy</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
+    <span class="marquee-line_text">Specialists in 品牌形象 & Creative Design</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for 品牌策划 Solutions</span>
+    <span class="marquee-line_text">High-Impact 品牌设计 & Identity 开发</span>
+    <span class="marquee-line_text">Professional 品牌与标志设计 Solutions</span>
+    <span class="marquee-line_text">专业品牌 机构 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive 品牌策略 & Design Support</span>
+    <span class="marquee-line_text">Custom 品牌策划 Solutions for Every Industry</span>
     <span class="marquee-line_text">Brand Consistency & Multi-Platform Implementation</span>
     <span class="marquee-line_text">Scalable Brand Systems & Long-term Recognition</span>
 </div>
@@ -1372,16 +1372,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall ä¼šè®®å“ç‰Œç­–åˆ’ - Professional Event Display Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/zh/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall 会议品牌策划 - Professional Event Display Design" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ASC Media Wall ä¼šè®®å“ç‰Œç­–åˆ’</a></div>
-																																		<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">ASC Media Wall 会议品牌策划</a></div>
+																																		<div class="preview-name">会议品牌策划</div>
 																							<div class="preview-name">Media Wall Design</div>
 																							<div class="preview-name">Event Identity</div>
 																							<div class="preview-name">Visual Communication</div>
@@ -1393,18 +1393,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="å“ç‰Œè§„èŒƒ Mockup - Professional Conference å“ç‰Œå½¢è±¡ System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/zh/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="品牌规范 Mockup - Professional Conference 品牌形象 System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">å“ç‰Œè§„èŒƒ & Identity System</a></div>
-																																		<div class="preview-name">å“ç‰Œè§„èŒƒ</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">品牌规范 & Identity System</a></div>
+																																		<div class="preview-name">品牌规范</div>
 																							<div class="preview-name">Identity Design</div>
-																							<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+																							<div class="preview-name">会议品牌策划</div>
 																							<div class="preview-name">Brand Standards</div>
 																					</div>
 									</div>
@@ -1414,19 +1414,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference æ ‡å¿—è®¾è®¡ - Professional Event å“ç‰Œç­–åˆ’" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/zh/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference 标志设计 - Professional Event 品牌策划" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 Event å“ç‰Œç­–åˆ’</a></div>
-																																		<div class="preview-name">Event æ ‡å¿—è®¾è®¡</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">CycleThe6 Event 品牌策划</a></div>
+																																		<div class="preview-name">Event 标志设计</div>
 																							<div class="preview-name">Conference Identity</div>
-																							<div class="preview-name">Brand å¼€å‘</div>
-																							<div class="preview-name">è§†è§‰å½¢è±¡</div>
+																							<div class="preview-name">Brand 开发</div>
+																							<div class="preview-name">视觉形象</div>
 																					</div>
 									</div>
 								</div>
@@ -1435,19 +1435,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/zh/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Conference Stationery Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">Conference Stationery Design</a></div>
 																																		<div class="preview-name">Event Stationery</div>
-																							<div class="preview-name">å“ç‰Œç‰©æ–™</div>
+																							<div class="preview-name">品牌物料</div>
 																							<div class="preview-name">Conference Materials</div>
-																							<div class="preview-name">å°åˆ·è®¾è®¡</div>
+																							<div class="preview-name">印刷设计</div>
 																					</div>
 									</div>
 								</div>
@@ -1456,19 +1456,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - ä¼šè®®å“ç‰Œç­–åˆ’ Design System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/zh/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - 会议品牌策划 Design System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">MuskFume Brand Presentation</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">MuskFume Brand Presentation</a></div>
 																																		<div class="preview-name">Brand Presentation</div>
-																							<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+																							<div class="preview-name">会议品牌策划</div>
 																							<div class="preview-name">Visual System</div>
-																							<div class="preview-name">å“ç‰Œå½¢è±¡</div>
+																							<div class="preview-name">品牌形象</div>
 																					</div>
 									</div>
 								</div>
@@ -1477,19 +1477,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="ä¸“ä¸šå“ç‰Œ Mockup - Conference å“ç‰Œå½¢è±¡ Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/zh/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="专业品牌 Mockup - Conference 品牌形象 Design" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ä¸“ä¸šå“ç‰Œ Mockup</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/branding/">专业品牌 Mockup</a></div>
 																																		<div class="preview-name">Brand Mockup</div>
 																							<div class="preview-name">Identity Design</div>
-																							<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
-																							<div class="preview-name">è§†è§‰å½¢è±¡</div>
+																							<div class="preview-name">会议品牌策划</div>
+																							<div class="preview-name">视觉形象</div>
 																					</div>
 									</div>
 								</div>
@@ -1508,7 +1508,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Premier ä¼šè®®å“ç‰Œç­–åˆ’ services that create impactful, memorable event identities and drive attendee engagement. We manage comprehensive conference brand strategy, event identity design, brand activation, and event collateral implementation that generate exceptional conference experiences and long-term event success.</div>
+				<div class="textbox-content">Aenfinite delivers Premier 会议品牌策划 services that create impactful, memorable event identities and drive attendee engagement. We manage comprehensive conference brand strategy, event identity design, brand activation, and event collateral implementation that generate exceptional conference experiences and long-term event success.</div>
 									<div class="textbox-action">
 						<a href="/zh/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1566,7 +1566,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite å“ç‰Œç­–åˆ’ & Identity Design Case Studies</h2>
+						<h2>Aenfinite 品牌策划 & Identity Design Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1574,14 +1574,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall ä¼šè®®å“ç‰Œç­–åˆ’ - Professional Event Display Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall 会议品牌策划 - Professional Event Display Design" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ASC Media Wall ä¼šè®®å“ç‰Œç­–åˆ’</a>
+											<a href="/zh/work/branding/">ASC Media Wall 会议品牌策划</a>
 										</div>
-																					<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">会议品牌策划</div>
 																					<div class="preview-name">Media Wall Design</div>
 																					<div class="preview-name">Event Identity</div>
 																					<div class="preview-name">Visual Communication</div>
@@ -1592,16 +1592,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="å“ç‰Œè§„èŒƒ Mockup - Professional Conference å“ç‰Œå½¢è±¡ System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="品牌规范 Mockup - Professional Conference 品牌形象 System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">å“ç‰Œè§„èŒƒ & Identity System</a>
+											<a href="/zh/work/branding/">品牌规范 & Identity System</a>
 										</div>
-																					<div class="preview-name">å“ç‰Œè§„èŒƒ</div>
+																					<div class="preview-name">品牌规范</div>
 																					<div class="preview-name">Identity Design</div>
-																					<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">会议品牌策划</div>
 																					<div class="preview-name">Brand Standards</div>
 											
 									</div>
@@ -1610,17 +1610,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference æ ‡å¿—è®¾è®¡ - Professional Event å“ç‰Œç­–åˆ’" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference 标志设计 - Professional Event 品牌策划" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">CycleThe6 Event å“ç‰Œç­–åˆ’</a>
+											<a href="/zh/work/branding/">CycleThe6 Event 品牌策划</a>
 										</div>
-																					<div class="preview-name">Event æ ‡å¿—è®¾è®¡</div>
+																					<div class="preview-name">Event 标志设计</div>
 																					<div class="preview-name">Conference Identity</div>
-																					<div class="preview-name">Brand å¼€å‘</div>
-																					<div class="preview-name">è§†è§‰å½¢è±¡</div>
+																					<div class="preview-name">Brand 开发</div>
+																					<div class="preview-name">视觉形象</div>
 											
 									</div>
 								</div>
@@ -1629,16 +1629,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Conference Stationery Design</a>
+											<a href="/zh/work/branding/">Conference Stationery Design</a>
 										</div>
 																					<div class="preview-name">Event Stationery</div>
-																					<div class="preview-name">å“ç‰Œç‰©æ–™</div>
+																					<div class="preview-name">品牌物料</div>
 																					<div class="preview-name">Conference Materials</div>
-																					<div class="preview-name">å°åˆ·è®¾è®¡</div>
+																					<div class="preview-name">印刷设计</div>
 											
 									</div>
 								</div>
@@ -1646,17 +1646,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - ä¼šè®®å“ç‰Œç­–åˆ’ Design System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - 会议品牌策划 Design System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">MuskFume Brand Presentation</a>
+											<a href="/zh/work/branding/">MuskFume Brand Presentation</a>
 										</div>
 																					<div class="preview-name">Brand Presentation</div>
-																					<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
+																					<div class="preview-name">会议品牌策划</div>
 																					<div class="preview-name">Visual System</div>
-																					<div class="preview-name">å“ç‰Œå½¢è±¡</div>
+																					<div class="preview-name">品牌形象</div>
 											
 									</div>
 								</div>
@@ -1664,17 +1664,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="ä¸“ä¸šå“ç‰Œ Mockup - Conference å“ç‰Œå½¢è±¡ Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="专业品牌 Mockup - Conference 品牌形象 Design" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/branding/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ä¸“ä¸šå“ç‰Œ Mockup</a>
+											<a href="/zh/work/branding/">专业品牌 Mockup</a>
 										</div>
 																					<div class="preview-name">Brand Mockup</div>
 																					<div class="preview-name">Identity Design</div>
-																					<div class="preview-name">ä¼šè®®å“ç‰Œç­–åˆ’</div>
-																					<div class="preview-name">è§†è§‰å½¢è±¡</div>
+																					<div class="preview-name">会议品牌策划</div>
+																					<div class="preview-name">视觉形象</div>
 											
 									</div>
 								</div>
@@ -1682,8 +1682,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/branding/" class="redlink">
-						<span>æŸ¥çœ‹æ‰€æœ‰é¡¹ç›®</span>
+					<a href="/zh/work/branding/" class="redlink">
+						<span>查看所有项目</span>
 					</a>
 				</div>
 			</div>
@@ -1694,12 +1694,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>è”ç³»æˆ‘ä»¬ Aenfinite for ä¸“ä¸šå“ç‰Œ æœåŠ¡</h2>
+				<h2>联系我们 Aenfinite for 专业品牌 服务</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="联系我们 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1713,10 +1713,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„å§“å*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="您的姓名*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„ç”µå­é‚®ä»¶*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="您的电子邮件*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your branding project" value="" type="text" name="text-tell-project" />
@@ -1724,61 +1724,61 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>æˆ‘å¯¹ä»¥ä¸‹å†…å®¹æ„Ÿå…´è¶£...</strong>
+		<strong>我对以下内容感兴趣...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="æ ‡å¿—è®¾è®¡" id="logo-design" />
-					<label for="logo-design" class="list-item-label">æ ‡å¿—è®¾è®¡</label>
+					<input type="checkbox" name="services" value="标志设计" id="logo-design" />
+					<label for="logo-design" class="list-item-label">标志设计</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="å“ç‰Œå½¢è±¡ å¼€å‘" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">å“ç‰Œå½¢è±¡ å¼€å‘</label>
+					<input type="checkbox" name="services" value="品牌形象 开发" id="brand-identity" />
+					<label for="brand-identity" class="list-item-label">品牌形象 开发</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Visual å“ç‰Œç­–åˆ’" id="visual-branding" />
-					<label for="visual-branding" class="list-item-label">Visual å“ç‰Œç­–åˆ’</label>
+					<input type="checkbox" name="services" value="Visual 品牌策划" id="visual-branding" />
+					<label for="visual-branding" class="list-item-label">Visual 品牌策划</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="å“ç‰Œç­–ç•¥" id="brand-strategy" />
-					<label for="brand-strategy" class="list-item-label">å“ç‰Œç­–ç•¥</label>
+					<input type="checkbox" name="services" value="品牌策略" id="brand-strategy" />
+					<label for="brand-strategy" class="list-item-label">品牌策略</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Corporate å“ç‰Œç­–åˆ’" id="corporate-branding" />
-					<label for="corporate-branding" class="list-item-label">Corporate å“ç‰Œç­–åˆ’</label>
+					<input type="checkbox" name="services" value="Corporate 品牌策划" id="corporate-branding" />
+					<label for="corporate-branding" class="list-item-label">Corporate 品牌策划</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Rebranding æœåŠ¡" id="rebranding" />
-					<label for="rebranding" class="list-item-label">Rebranding æœåŠ¡</label>
+					<input type="checkbox" name="services" value="Rebranding 服务" id="rebranding" />
+					<label for="rebranding" class="list-item-label">Rebranding 服务</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="å“ç‰Œè§„èŒƒ" id="brand-guidelines" />
-					<label for="brand-guidelines" class="list-item-label">å“ç‰Œè§„èŒƒ</label>
+					<input type="checkbox" name="services" value="品牌规范" id="brand-guidelines" />
+					<label for="brand-guidelines" class="list-item-label">品牌规范</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="å…¶ä»– å“ç‰Œç­–åˆ’ Solutions" id="other" />
-					<label for="other" class="list-item-label">å…¶ä»– å“ç‰Œç­–åˆ’ Solutions</label>
+					<input type="checkbox" name="services" value="其他 品牌策划 Solutions" id="other" />
+					<label for="other" class="list-item-label">其他 品牌策划 Solutions</label>
 				</span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„å¤§æ¦‚é¢„ç®—" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="告诉我们您的大概预算" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">èµ·ä»·$100</div>
-                            <div class="select-option js-select-option">$500è‡³$5,000</div>
-                            <div class="select-option js-select-option">$5,000è‡³$20,000</div>
-                            <div class="select-option js-select-option">$20,000è‡³$50,000</div>
-                            <div class="select-option js-select-option">è¶…è¿‡$100,000</div>
+                            <div class="select-option js-select-option">起价$100</div>
+                            <div class="select-option js-select-option">$500至$5,000</div>
+                            <div class="select-option js-select-option">$5,000至$20,000</div>
+                            <div class="select-option js-select-option">$20,000至$50,000</div>
+                            <div class="select-option js-select-option">超过$100,000</div>
                         </div>
 		</div>
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="å‘é€" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="发送" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1794,7 +1794,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Conference å“ç‰Œè®¾è®¡ Expertise</h2>
+						<h2>Conference 品牌设计 Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1806,7 +1806,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference æ ‡å¿—è®¾è®¡</div>
+				<div class="pane-title">Conference 标志设计</div>
 				<div class="pane-subtitle">
 					<p>We create distinctive conference logos that represent your event's theme, mission, and personality. Each logo is designed to be memorable, adaptable across print and digital media, and reflective of the event's professional identity.</p>
 				</div>
@@ -1814,7 +1814,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Event å“ç‰Œå½¢è±¡ Design</div>
+				<div class="pane-title">Event 品牌形象 Design</div>
 				<div class="pane-subtitle">
 					<p>Our team develops cohesive event brand identities — from typography and color palettes to imagery and layouts — that unify your conference materials, digital presence, and on-site experience under a single recognizable brand.</p>
 				</div>
@@ -1822,7 +1822,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference å“ç‰Œè§„èŒƒ</div>
+				<div class="pane-title">Conference 品牌规范</div>
 				<div class="pane-subtitle">
 					<p>We provide comprehensive brand guideline documents detailing logo usage, color systems, type hierarchy, and visual standards to ensure consistency across all touchpoints — from marketing materials to event signage.</p>
 				</div>
@@ -1846,7 +1846,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference å“ç‰Œç­–ç•¥</div>
+				<div class="pane-title">Conference 品牌策略</div>
 				<div class="pane-subtitle">
 					<p>Our strategic approach defines your conference's positioning, tone, and messaging framework. We analyze audience insights and event objectives to create a strategy that enhances attendee connection and sponsor engagement.</p>
 				</div>
@@ -1885,7 +1885,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Our ä¼šè®®å“ç‰Œç­–åˆ’ Process</h2>
+					<h2>Our 会议品牌策划 Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1901,7 +1901,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We start by analyzing your conference goals, audience demographics, and industry landscape. This research helps us uncover insights that define the event's purpose, tone, and visual direction.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>Event å“ç‰Œç­–ç•¥</span>
+							<span>Event 品牌策略</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
 							<p>We develop a strategic foundation for your conference brand — including its mission, messaging framework, and positioning. This ensures your event communicates a unified message across all touchpoints.</p>
@@ -1922,13 +1922,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Conference Design</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
-							<span>Conference æ ‡å¿—è®¾è®¡</span>
+							<span>Conference 标志设计</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-2-1">
 							<p>We design a distinctive conference logo that embodies your event's essence, ensuring it's recognizable, versatile, and visually engaging across all digital and physical formats.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>è§†è§‰å½¢è±¡ System</span>
+							<span>视觉形象 System</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>Our designers create a cohesive visual identity including color palettes, typography, patterns, and imagery that set the tone for all event materials and environments.</p>
@@ -1940,7 +1940,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We design event badges, stage graphics, digital banners, and presentation templates that maintain consistent branding throughout the attendee journey.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-4">
-							<span>å“ç‰Œè§„èŒƒ</span>
+							<span>品牌规范</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-4">
 							<p>We compile a complete brand guide detailing logo usage, color schemes, and layout principles — ensuring consistent brand execution before, during, and after the conference.</p>
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Brand Activation</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-							<span>On-Site å“ç‰Œç­–åˆ’</span>
+							<span>On-Site 品牌策划</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-3-1">
 							<p>We bring your brand to life at the venue through stage backdrops, booth graphics, signage, and wayfinding systems — creating a seamless branded environment for attendees.</p>
@@ -1988,7 +1988,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Post-Event Support</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>Ongoing å“ç‰Œç­–åˆ’ Support</span>
+							<span>Ongoing 品牌策划 Support</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We continue to support your event post-launch by refining materials, designing recap content, and preparing your brand identity for future editions.</p>
@@ -2020,7 +2020,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">å“ç‰Œç­–åˆ’</span> is the perfect balance of creativity and strategy. ä½œå“ with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">品牌策划</span> is the perfect balance of creativity and strategy. 作品 with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2031,7 +2031,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite å“ç‰Œç­–åˆ’ & Identity Design æœåŠ¡</h2>
+					<h2>Aenfinite 品牌策划 & Identity Design 服务</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2040,11 +2040,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Logo & è§†è§‰å½¢è±¡</div>
+							<div class="service-caption js-service-caption">Logo & 视觉形象</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/zh/contact/" class="chip-label">æ ‡å¿—è®¾è®¡</a></div>
+										<div class="chip"><a href="/zh/contact/" class="chip-label">标志设计</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Color Palette</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Typography</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Iconography</a></div>
@@ -2073,7 +2073,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">å“ç‰Œç­–ç•¥ & Positioning</div>
+							<div class="service-caption js-service-caption">品牌策略 & Positioning</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2106,7 +2106,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 3 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">å“ç‰Œè§„èŒƒ</div>
+							<div class="service-caption js-service-caption">品牌规范</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2143,10 +2143,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/zh/contact/" class="chip-label">åŒ…è£…è®¾è®¡</a></div>
+										<div class="chip"><a href="/zh/contact/" class="chip-label">包装设计</a></div>
 										<div class="chip"><a href="/zh/contact/" class="chip-label">Marketing Collateral</a></div>
-										<div class="chip"><a href="/zh/contact/" class="chip-label">Digital å“ç‰Œç­–åˆ’</a></div>
-										<div class="chip"><a href="/zh/contact/" class="chip-label">Environmental å“ç‰Œç­–åˆ’</a></div>
+										<div class="chip"><a href="/zh/contact/" class="chip-label">Digital 品牌策划</a></div>
+										<div class="chip"><a href="/zh/contact/" class="chip-label">Environmental 品牌策划</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -2190,8 +2190,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>æœ‰é¡¹ç›®æƒ³æ³•ï¼Ÿè®©æˆ‘ä»¬ä¸€èµ·åˆ›é€ ä¼Ÿå¤§çš„ä½œå“ã€‚</span>
-								<a href="../../contact/" class="redlink">
+								<span>有项目想法？让我们一起创造伟大的作品。</span>
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2201,42 +2201,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">å“ç‰Œç­–åˆ’</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/e-commerce-websites/">品牌策划</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">品牌策划</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/white-label-services/">白标服务</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/referral-program/">推荐计划</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/ghl-services/">GHL服务</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">åœ°å€</div>
+								<div class="footer-col_caption">地址</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2291,15 +2291,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -2307,14 +2307,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2552,11 +2552,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -2618,11 +2618,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2686,7 +2686,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2716,7 +2716,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Creative Digital æœºæž„",
+      "alternateName": "Aenfinite® - Creative Digital 机构",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2728,7 +2728,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design",
+      "caption": "Aenfinite® 会议品牌策划 & Event Identity Design",
       "inLanguage":"zh-CN"
     },
     {
@@ -2748,7 +2748,7 @@ export default function Page() {
           "position": 2,
           "item": {
             "@id": "https://aenfinite.com/services/",
-            "name": "æœåŠ¡"
+            "name": "服务"
           }
         },
         {
@@ -2756,7 +2756,7 @@ export default function Page() {
           "position": 3,
           "item": {
             "@id": "https://aenfinite.com/services/conference-branding/",
-            "name": "ä¼šè®®å“ç‰Œç­–åˆ’"
+            "name": "会议品牌策划"
           }
         }
       ]
@@ -2765,7 +2765,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/conference-branding/#webpage",
       "url": "https://aenfinite.com/services/conference-branding/",
-      "name": "Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite®",
+      "name": "Premier 会议品牌策划 & Event Identity Design 服务 | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": {
@@ -2781,8 +2781,8 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite®",
-      "keywords": "ä¼šè®®å“ç‰Œç­–åˆ’, Event Identity Design, Stage Design, Event Signage, Conference å“ç‰Œç­–ç•¥, Event Marketing, Visual å“ç‰Œç­–åˆ’",
+      "headline": "Premier 会议品牌策划 & Event Identity Design 服务 | Aenfinite®",
+      "keywords": "会议品牌策划, Event Identity Design, Stage Design, Event Signage, Conference 品牌策略, Event Marketing, Visual 品牌策划",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": {
@@ -2793,7 +2793,7 @@ export default function Page() {
         "@id": "https://aenfinite.com/#organization"
       },
       "description": "Aenfinite® crafts powerful conference branding and event identity design systems for businesses and organizations. From logo and stage visuals to attendee engagement materials, our designs ensure memorable event experiences.",
-      "name": "Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡ | Aenfinite®",
+      "name": "Premier 会议品牌策划 & Event Identity Design 服务 | Aenfinite®",
       "@id": "https://aenfinite.com/services/conference-branding/#richSnippet",
       "isPartOf": {
         "@id": "https://aenfinite.com/services/conference-branding/#webpage"
@@ -2837,11 +2837,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2880,13 +2880,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœåŠ¡",
+      "name": "服务",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Premier ä¼šè®®å“ç‰Œç­–åˆ’ & Event Identity Design æœåŠ¡",
+      "name": "Premier 会议品牌策划 & Event Identity Design 服务",
       "item": "https://aenfinite.com/services/conference-branding/"
     }
   ]

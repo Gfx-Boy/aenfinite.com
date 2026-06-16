@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® – Global Digital æœºæž„ for ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, SEO & AI Solutions",
-  description: "Aenfinite® is a global æ•°å­—æœºæž„ based in Colorado, offering ç½‘é¡µè®¾è®¡, UI/UX, å“ç‰Œç­–åˆ’, SEO, æ•°å­—è¥é”€, ä¸šåŠ¡è‡ªåŠ¨åŒ–, and AI-powered solutions for modern brands worldwide.",
-  keywords: "æ•°å­—æœºæž„, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UXè®¾è®¡, Aenfinite",
+  title: "Aenfinite® – Global Digital 机构 for 网页设计, 品牌策划, SEO & AI Solutions",
+  description: "Aenfinite® is a global 数字机构 based in Colorado, offering 网页设计, UI/UX, 品牌策划, SEO, 数字营销, 业务自动化, and AI-powered solutions for modern brands worldwide.",
+  keywords: "数字机构, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX设计, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/darkmode/", languages: {"x-default":"https://aenfinite.com/darkmode/","en":"https://aenfinite.com/darkmode/","es":"https://aenfinite.com/es/darkmode/","fr":"https://aenfinite.com/fr/darkmode/","de":"https://aenfinite.com/de/darkmode/","it":"https://aenfinite.com/it/darkmode/","ar":"https://aenfinite.com/ar/darkmode/","pt":"https://aenfinite.com/pt/darkmode/","zh":"https://aenfinite.com/zh/darkmode/","hi":"https://aenfinite.com/hi/darkmode/","nl":"https://aenfinite.com/nl/darkmode/","ja":"https://aenfinite.com/ja/darkmode/","ko":"https://aenfinite.com/ko/darkmode/"} },
-  openGraph: {"title":"Aenfinite® – Global Digital æœºæž„ for ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, SEO & AI Solutions","description":"Aenfinite® delivers world-class ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/zh/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital æœºæž„ for ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, SEO & AI Solutions","description":"Aenfinite® is a creative æ•°å­—æœºæž„ offering ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® – Global Digital 机构 for 网页设计, 品牌策划, SEO & AI Solutions","description":"Aenfinite® delivers world-class 网页设计, 品牌策划, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in Colorado with clients across the globe.","url":"https://aenfinite.com/zh/darkmode/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital 机构 for 网页设计, 品牌策划, SEO & AI Solutions","description":"Aenfinite® is a creative 数字机构 offering 网页设计, 品牌策划, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -523,16 +523,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="header-content">
 						<div class="topbar">
 							<div class="topbar-logo">
-								<a href="../">
+								<a href="/zh/">
 									<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo" loading="eager" decoding="async">
 								</a>
 							</div>
 							<div class="desktop">
-								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/zh/featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="../services/">æœåŠ¡</a></li>
+								<ul id="menu-footer-company-menu" class="topnav"><li id="menu-item-959" class="menu-item menu-item-type-post_type topnav-item menu-item-959"><a href="/zh/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type topnav-item menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -573,26 +573,26 @@ from &nbsp;the&nbsp;Mile-High City</h1>
   <div class="services-grid">
     <div class="services-caption">
       <div class="section-caption_text">
-        <h2>Our Core æœåŠ¡</h2>
+        <h2>Our Core 服务</h2>
       </div>
     </div>
 
     <div class="services-list">
 
-      <!-- ç½‘é¡µè®¾è®¡ -->
+      <!-- 网页设计 -->
       <div class="servicebox">
         <div class="service active">
           <div class="service-title">
-            <span class="service-name">ç½‘é¡µè®¾è®¡</span>
+            <span class="service-name">网页设计</span>
           </div>
           <div class="service-content">
             <div class="service-tags">
               <div class="chips">
-                <div class="chip"><a href="/zh/services/web-design/">ç€é™†é¡µ</a></div>
-                <div class="chip"><a href="/zh/services/web-design">ä¼ä¸šç½‘ç«™</a></div>
-                <div class="chip"><a href="/zh/services/web-design">å®šåˆ¶ç½‘ç«™è®¾è®¡</a></div>
-                <div class="chip"><a href="/zh/services/ui-ux-design/">å“åº”å¼è®¾è®¡</a></div>
-                <div class="chip"><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></div>
+                <div class="chip"><a href="/zh/services/web-design/">着陆页</a></div>
+                <div class="chip"><a href="/zh/services/web-design/">企业网站</a></div>
+                <div class="chip"><a href="/zh/services/web-design/">定制网站设计</a></div>
+                <div class="chip"><a href="/zh/services/ui-ux-design/">响应式设计</a></div>
+                <div class="chip"><a href="/zh/services/ui-ux-design/">UI/UX设计</a></div>
               </div>
             </div>
             <div class="service-text">
@@ -606,18 +606,18 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- å“ç‰Œä¸Žæ ‡å¿—è®¾è®¡ -->
+      <!-- 品牌与标志设计 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">å“ç‰Œä¸Žæ ‡å¿—è®¾è®¡</span>
+          <span class="service-name">品牌与标志设计</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/zh/services/branding/">ä¼ä¸šå½¢è±¡</a></div>
+              <div class="chip"><a href="/zh/services/branding/">企业形象</a></div>
               <div class="chip"><a href="/zh/services/logo-design/">Logo Creation</a></div>
-              <div class="chip"><a href="/zh/services/branding/">Re-å“ç‰Œç­–åˆ’</a></div>
-              <div class="chip"><a href="/zh/services/conference-branding/">å“ç‰Œè§„èŒƒ</a></div>
+              <div class="chip"><a href="/zh/services/branding/">Re-品牌策划</a></div>
+              <div class="chip"><a href="/zh/services/conference-branding/">品牌规范</a></div>
             </div>
           </div>
           <div class="service-text">
@@ -629,17 +629,17 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- æ•°å­—è¥é”€ -->
+      <!-- 数字营销 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">æ•°å­—è¥é”€</span>
+          <span class="service-name">数字营销</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/zh/services/search-engine-optimization/">SEOä¼˜åŒ–</a></div>
-              <div class="chip"><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></div>
-              <div class="chip"><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></div>
+              <div class="chip"><a href="/zh/services/search-engine-optimization/">SEO优化</a></div>
+              <div class="chip"><a href="/zh/services/social-media-marketing/">社交媒体营销</a></div>
+              <div class="chip"><a href="/zh/services/paid-ads/">付费广告</a></div>
               <div class="chip"><a href="/zh/services/pay-per-click/">PPC Advertising</a></div>
             </div>
           </div>
@@ -652,10 +652,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- ç”µå­å•†åŠ¡ç½‘ç«™ -->
+      <!-- 电子商务网站 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">ç”µå­å•†åŠ¡ç½‘ç«™</span>
+          <span class="service-name">电子商务网站</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -674,16 +674,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- WordPressç½‘ç«™ -->
+      <!-- WordPress网站 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">WordPressç½‘ç«™</span>
+          <span class="service-name">WordPress网站</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
               <div class="chip"><a href="/zh/services/e-commerce-websites/">Custom Themes</a></div>
-              <div class="chip"><a href="/zh/services/e-commerce-websites/">æ’ä»¶å¼€å‘</a></div>
+              <div class="chip"><a href="/zh/services/e-commerce-websites/">插件开发</a></div>
               <div class="chip"><a href="/zh/services/e-commerce-websites/">CMS Setup</a></div>
             </div>
           </div>
@@ -696,10 +696,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- åº”ç”¨å¼€å‘ -->
+      <!-- 应用开发 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">åº”ç”¨å¼€å‘</span>
+          <span class="service-name">应用开发</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -719,16 +719,16 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- å¹³é¢è®¾è®¡ -->
+      <!-- 平面设计 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">å¹³é¢è®¾è®¡</span>
+          <span class="service-name">平面设计</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
             <div class="chips">
-              <div class="chip"><a href="/zh/services/graphic-design/">Social Media å›¾å½¢</a></div>
-              <div class="chip"><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></div>
+              <div class="chip"><a href="/zh/services/graphic-design/">Social Media 图形</a></div>
+              <div class="chip"><a href="/zh/services/logo-design/">标志设计</a></div>
               <div class="chip"><a href="/zh/services/graphic-design/">Print Materials</a></div>
               <div class="chip"><a href="/zh/services/graphic-design/">Pitch Decks</a></div>
             </div>
@@ -742,10 +742,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- åŒ…è£…è®¾è®¡ -->
+      <!-- 包装设计 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">åŒ…è£…è®¾è®¡</span>
+          <span class="service-name">包装设计</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -764,10 +764,10 @@ from &nbsp;the&nbsp;Mile-High City</h1>
         </div>
       </div>
 
-      <!-- å®šåˆ¶å¼€å‘ -->
+      <!-- 定制开发 -->
       <div class="service">
         <div class="service-title">
-          <span class="service-name">å®šåˆ¶å¼€å‘</span>
+          <span class="service-name">定制开发</span>
         </div>
         <div class="service-content">
           <div class="service-tags">
@@ -813,18 +813,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 å“ç‰Œå½¢è±¡" loading="eager" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 品牌形象" loading="eager" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 – å“ç‰Œå½¢è±¡ & Logo Collection</div>
+                <div class="card-name">CycleThe6 – 品牌形象 & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
-                        <li>å“ç‰Œå½¢è±¡</li>
-                        <li>æ ‡å¿—è®¾è®¡</li>
-                        <li>è¿åŠ¨å“ç‰Œ</li>
+                        <li>品牌形象</li>
+                        <li>标志设计</li>
+                        <li>运动品牌</li>
                     </ul>
                 </div>
             </div>
@@ -837,18 +837,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance å“ç‰Œç­–åˆ’" loading="lazy" decoding="async" />
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance 品牌策划" loading="lazy" decoding="async" />
                 <span>View collection</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume – Luxury Fragrance å“ç‰Œç­–åˆ’</div>
+                <div class="card-name">Muskfume – Luxury Fragrance 品牌策划</div>
                 <div class="card-tags">
                     <ul>
-                        <li>å¥¢ä¾ˆå“ç‰Œ</li>
-                        <li>ç¾Žå®¹ä¸ŽåŒ–å¦†å“</li>
-                        <li>é¦™æ°´å“ç‰Œå½¢è±¡</li>
+                        <li>奢侈品牌</li>
+                        <li>美容与化妆品</li>
+                        <li>香水品牌形象</li>
                     </ul>
                 </div>
             </div>
@@ -862,17 +862,17 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/robophilthumbnail.avif" alt="RoboPhil AI Trading Platform" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil – AI Trading Platform & Technology åˆ›æ–°</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology 创新</div>
                 <div class="card-tags">
                     <ul>
-                        <li>AIå¹³å°</li>
-                        <li>Webå¼€å‘</li>
-                        <li>ç§‘æŠ€å“ç‰Œ</li>
+                        <li>AI平台</li>
+                        <li>Web开发</li>
+                        <li>科技品牌</li>
                     </ul>
                 </div>
             </div>
@@ -885,8 +885,8 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine è¥é”€å¹³å°" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine 营销平台" loading="lazy" decoding="async" />
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -894,9 +894,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
-                        <li>è¥é”€å¹³å°</li>
-                        <li>ä¸šåŠ¡å‘å±•</li>
-                        <li>ä¸“ä¸šå“ç‰Œ</li>
+                        <li>营销平台</li>
+                        <li>业务发展</li>
+                        <li>专业品牌</li>
                     </ul>
                 </div>
             </div>
@@ -910,7 +910,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/husnohayathumbnail.avif" alt="HusnOhaya E-commerce Platform" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -918,9 +918,9 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ç”µå­å•†åŠ¡å¼€å‘</li>
-                        <li>è´­ç‰©å¹³å°</li>
-                        <li>ç”¨æˆ·ä½“éªŒ</li>
+                        <li>电子商务开发</li>
+                        <li>购物平台</li>
+                        <li>用户体验</li>
                     </ul>
                 </div>
             </div>
@@ -933,18 +933,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros ç®—æ³•è§£å†³æ–¹æ¡ˆ" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros 算法解决方案" loading="lazy" decoding="async" />
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros – ç®—æ³•è§£å†³æ–¹æ¡ˆ & ç§‘æŠ€å“ç‰Œ</div>
+                <div class="card-name">AlgoPros – 算法解决方案 & 科技品牌</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ç§‘æŠ€å“ç‰Œ</li>
-                        <li>ç®—æ³•è§£å†³æ–¹æ¡ˆ</li>
-                        <li>åˆåˆ›å“ç‰Œå½¢è±¡</li>
+                        <li>科技品牌</li>
+                        <li>算法解决方案</li>
+                        <li>初创品牌形象</li>
                     </ul>
                 </div>
             </div>
@@ -958,7 +958,7 @@ websites &amp; apps on beast mode.</h2>
         <div class="card-top">
             <div class="card-media">
                 <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
@@ -966,14 +966,14 @@ websites &amp; apps on beast mode.</h2>
                 <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ç¤¾äº¤å¹³å°</li>
-                        <li>åä½œå·¥å…·</li>
-                        <li>åˆ›æ„å“ç‰Œ</li>
+                        <li>社交平台</li>
+                        <li>协作工具</li>
+                        <li>创意品牌</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/zh/work/afropop/">View Project</a>
+                <a href="/zh/work/afropopup/">View Project</a>
             </div>
         </div>
     </div>
@@ -981,18 +981,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech è¥é”€å¹³å°" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech 营销平台" loading="lazy" decoding="async" />
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech – è¥é”€å¹³å° & SaaS Solution</div>
+                <div class="card-name">KhaTech – 营销平台 & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
-                        <li>å¹³å°å¼€å‘</li>
-                        <li>B2B å“ç‰Œç­–åˆ’</li>
+                        <li>平台开发</li>
+                        <li>B2B 品牌策划</li>
                     </ul>
                 </div>
             </div>
@@ -1005,18 +1005,18 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance æœåŠ¡" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance 服务" loading="lazy" decoding="async" />
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI – Compliance æœåŠ¡ & ä¼ä¸šå½¢è±¡</div>
+                <div class="card-name">AM-KI – Compliance 服务 & 企业形象</div>
                 <div class="card-tags">
                     <ul>
-                        <li>ä¼ä¸šå½¢è±¡</li>
-                        <li>Professional æœåŠ¡</li>
-                        <li>Business å“ç‰Œç­–åˆ’</li>
+                        <li>企业形象</li>
+                        <li>Professional 服务</li>
+                        <li>Business 品牌策划</li>
                     </ul>
                 </div>
             </div>
@@ -1029,23 +1029,23 @@ websites &amp; apps on beast mode.</h2>
     <div class="card js-aos" data-effect="fade-up">
         <div class="card-top">
             <div class="card-media">
-                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick åˆ›æ„å“ç‰Œ" loading="lazy" decoding="async" />
-                <span>æŸ¥çœ‹é¡¹ç›®</span>
+                <img class="lazyload" data-src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick 创意品牌" loading="lazy" decoding="async" />
+                <span>查看项目</span>
             </div>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick – åˆ›æ„å“ç‰Œ & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – 创意品牌 & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
-                        <li>åˆ›æ„å“ç‰Œ</li>
+                        <li>创意品牌</li>
                         <li>Artistic Design</li>
                         <li>Brand Excellence</li>
                     </ul>
                 </div>
             </div>
             <div class="card-action">
-                <a href="/zh/work/web-design-&-development/">View Project</a>
+                <a href="/zh/work/web-design-and-development/">View Project</a>
             </div>
         </div>
     </div>
@@ -1097,7 +1097,7 @@ websites &amp; apps on beast mode.</h2>
 												<div class="num-text">
 													<div>
 														successful cases <br class="desktop" />
-in å“ç‰Œç­–åˆ’, ç½‘é¡µè®¾è®¡ &amp;&nbsp;Apps																											</div>
+in 品牌策划, 网页设计 &amp;&nbsp;Apps																											</div>
 												</div>
 											</div>
 										</div>
@@ -1137,14 +1137,14 @@ with clients																											</div>
 				<div class="marquee js-runner">
     <div class="marquee-line js-runner-content">
         <div class="marquee-line_text">Aenfinite Digital Wizards</div>
-        <div class="marquee-line_text">å®šåˆ¶ç½‘ç«™ & Apps</div>
-        <div class="marquee-line_text">Bold å“ç‰Œç­–åˆ’ & Design</div>
-        <div class="marquee-line_text">Smart è‡ªåŠ¨åŒ– & AI</div>
+        <div class="marquee-line_text">定制网站 & Apps</div>
+        <div class="marquee-line_text">Bold 品牌策划 & Design</div>
+        <div class="marquee-line_text">Smart 自动化 & AI</div>
         <div class="marquee-line_text">3D & Motion Experiences</div>
-        <div class="marquee-line_text">Creative + ç§‘æŠ€ Synergy</div>
+        <div class="marquee-line_text">Creative + 科技 Synergy</div>
         <div class="marquee-line_text">Global Clients, Local Roots</div>
         <div class="marquee-line_text">Made-to-Measure Solutions</div>
-        <div class="marquee-line_text">Shopify & ç”µå­å•†åŠ¡ Experts</div>
+        <div class="marquee-line_text">Shopify & 电子商务 Experts</div>
         <div class="marquee-line_text">Next-Level UX/UI Strategy</div>
         <div class="marquee-line_text">Aenfinite  Ideas Into Reality</div>
     </div>
@@ -1176,7 +1176,7 @@ with clients																											</div>
 						
 <div class="wpcf7" id="wpcf7-f1502-o1" lang="en-US" dir="ltr" data-wpcf7-id="1502">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="联系我们 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1502" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1214,7 +1214,7 @@ with clients																											</div>
 </div>
 
 						<div class="footer-grid_address">
-    <div class="footer-title">åœ°å€</div>
+    <div class="footer-title">地址</div>
     <div class="footer-text">
         1500 Grant Street<br />
         Denver, CO 80203<br />
@@ -1231,17 +1231,17 @@ with clients																											</div>
 							<div class="footer-title">Areas of Expertise</div>
 <div class="footer-text">
     <ul id="menu-header-services-menu" class="menuss">
-        <li class="menu-item"><a href="../services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/custom-web-development/">å®šåˆ¶ç½‘ç«™è®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-        <li class="menu-item"><a href="../services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-        <li class="menu-item"><a href="../services/custom-development/">å®šåˆ¶å¼€å‘</a></li>
-        <li class="menu-item"><a href="../services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/branding/">å“ç‰Œç­–åˆ’ &amp; æ ‡å¿—è®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/graphic-design/">å¹³é¢è®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-        <li class="menu-item"><a href="../services/digital-marketing/">æ•°å­—è¥é”€</a></li>
-        <li class="menu-item"><a href="../services/app-development/">åº”ç”¨å¼€å‘</a></li>
+        <li class="menu-item"><a href="/zh/services/web-design/">网页设计</a></li>
+        <li class="menu-item"><a href="/zh/services/custom-web-development/">定制网站设计</a></li>
+        <li class="menu-item"><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+        <li class="menu-item"><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+        <li class="menu-item"><a href="/zh/services/custom-web-development/">定制开发</a></li>
+        <li class="menu-item"><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
+        <li class="menu-item"><a href="/zh/services/branding/">品牌策划 &amp; 标志设计</a></li>
+        <li class="menu-item"><a href="/zh/services/graphic-design/">平面设计</a></li>
+        <li class="menu-item"><a href="/zh/services/packaging-design/">包装设计</a></li>
+        <li class="menu-item"><a href="/zh/services/digital-marketing/">数字营销</a></li>
+        <li class="menu-item"><a href="/zh/services/app-development/">应用开发</a></li>
     </ul>
 </div>
 
@@ -1287,7 +1287,7 @@ with clients																											</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/zh/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-default" loading="lazy" decoding="async">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" class="nav-logo nav-logo-active" loading="lazy" decoding="async">
 									</a>
@@ -1296,10 +1296,10 @@ with clients																											</div>
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="../services/web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="../services/branding/">å“ç‰Œç­–åˆ’</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="../services/trade-show-booth-design/">Trade Shows</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="../services/packaging-design/">åŒ…è£…è®¾è®¡</a></li>
+							<ul id="menu-header-services-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2275"><a href="/zh/services/web-design/">网页设计</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2276"><a href="/zh/services/branding/">品牌策划</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="/zh/services/trade-show-booth-design/">Trade Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2277"><a href="/zh/services/packaging-design/">包装设计</a></li>
 </ul>							
 						</div>
 						<div class="menu-footer">
@@ -1736,8 +1736,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/#webpage",
       "url": "https://aenfinite.com/",
-      "name": "Aenfinite® – Global Digital æœºæž„ for ç½‘é¡µè®¾è®¡, å“ç‰Œç­–åˆ’, SEO & AI Solutions",
-      "description": "Aenfinite® is a global æ•°å­—æœºæž„ offering creative ç½‘é¡µè®¾è®¡, UI/UX, å“ç‰Œç­–åˆ’, SEO, æ•°å­—è¥é”€, and AI-powered business solutions. Based in Colorado with worldwide clients.",
+      "name": "Aenfinite® – Global Digital 机构 for 网页设计, 品牌策划, SEO & AI Solutions",
+      "description": "Aenfinite® is a global 数字机构 offering creative 网页设计, UI/UX, 品牌策划, SEO, 数字营销, and AI-powered business solutions. Based in Colorado with worldwide clients.",
       "inLanguage":"zh-CN",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
       "primaryImageOfPage": {

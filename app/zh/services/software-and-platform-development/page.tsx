@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ | Enterprise Solutions | Aenfinite",
-  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives æ•°å­—åŒ–è½¬åž‹ and business growth.",
-  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, æ•°å­—åŒ–è½¬åž‹, Aenfinite",
+  title: "Professional 软件与平台开发 | Enterprise Solutions",
+  description: "Aenfinite is a leading software development agency specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives 数字化转型 and business growth.",
+  keywords: "software development, platform development, enterprise software, SaaS development, custom software, system architecture, scalable applications, 数字化转型, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/software-and-platform-development/", languages: {"x-default":"https://aenfinite.com/services/software-and-platform-development/","en":"https://aenfinite.com/services/software-and-platform-development/","es":"https://aenfinite.com/es/services/software-and-platform-development/","fr":"https://aenfinite.com/fr/services/software-and-platform-development/","de":"https://aenfinite.com/de/services/software-and-platform-development/","it":"https://aenfinite.com/it/services/software-and-platform-development/","ar":"https://aenfinite.com/ar/services/software-and-platform-development/","pt":"https://aenfinite.com/pt/services/software-and-platform-development/","zh":"https://aenfinite.com/zh/services/software-and-platform-development/","hi":"https://aenfinite.com/hi/services/software-and-platform-development/","nl":"https://aenfinite.com/nl/services/software-and-platform-development/","ja":"https://aenfinite.com/ja/services/software-and-platform-development/","ko":"https://aenfinite.com/ko/services/software-and-platform-development/"} },
-  openGraph: {"title":"Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable åº”ç”¨å¼€å‘, we power æ•°å­—åŒ–è½¬åž‹.","url":"https://aenfinite.com/zh/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for æ•°å­—åŒ–è½¬åž‹.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  openGraph: {"title":"Professional 软件与平台开发 | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses. From system architecture to scalable 应用开发, we power 数字化转型.","url":"https://aenfinite.com/zh/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional 软件与平台开发 | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services, including enterprise systems, SaaS products, and scalable architecture for 数字化转型.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/featured-work/">ä½œå“</a>
+								<a href="/zh/featured-work/">作品</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/zh/agency/">æœºæž„</a>
+								<a href="/zh/agency/">机构</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/zh/services/">æœåŠ¡</a>
+                                <a href="/zh/services/">服务</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">å¼€å‘è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">开发解决方案 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/zh/services/wordpress-websites/">WordPressç½‘ç«™</a></li>
-<li><a href="/zh/services/e-commerce-websites/">ç”µå­å•†åŠ¡ç½‘ç«™</a></li>
-											<li><a href="/zh/services/custom-web-development">å®šåˆ¶ç½‘ç«™å¼€å‘</a></li>
-											<li><a href="/zh/services/software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-											<li><a href="/zh/services/app-development/">åº”ç”¨å¼€å‘</a></li>
-											<li><a href="/zh/services/web-design/">ç½‘ç«™è®¾è®¡ä¸Žå¼€å‘</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">æˆ¿åœ°äº§ç½‘ç»œè§£å†³æ–¹æ¡ˆ</a></li>									</ul>
+											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
+<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
+											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+											<li><a href="/zh/services/app-development/">应用开发</a></li>
+											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è®¾è®¡ä¸Žåˆ›æ„æœåŠ¡ â€º</a>
+										<a href="#">设计与创意服务 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ui-ux-design/">UI/UXè®¾è®¡</a></li>
-											<li><a href="/zh/services/branding/">å“ç‰Œå½¢è±¡ä¸Žç­–ç•¥</a></li>
-											<li><a href="/zh/services/graphic-design/">å¹³é¢è®¾è®¡</a></li> <li><a href="/zh/services/logo-design/">æ ‡å¿—è®¾è®¡</a></li>
+											<li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
+											<li><a href="/zh/services/branding/">品牌形象与策略</a></li>
+											<li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
 											
-											<li><a href="/zh/services/trade-show-booth-design/">å±•ä¼šå±•ä½è®¾è®¡</a></li>
-											<li><a href="/zh/services/conference-branding/">ä¼šè®®å“ç‰Œç­–åˆ’</a></li>
+											<li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
+											<li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">è¥é”€ä¸Žæ•°å­—è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">营销与数字解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/digital-marketing/">æ•°å­—è¥é”€ç­–ç•¥</a></li>
-											<li><a href="/zh/services/search-engine-optimization/">æœç´¢å¼•æ“Žä¼˜åŒ–ï¼ˆSEOï¼‰</a></li>
-											<li><a href="/zh/services/pay-per-click">æŒ‰ç‚¹å‡»ä»˜è´¹ï¼ˆPPCï¼‰å¹¿å‘Š</a></li>
-											<li><a href="/zh/services/social-media-marketing/">ç¤¾äº¤åª’ä½“è¥é”€</a></li> <li><a href="/zh/services/paid-ads/">ä»˜è´¹å¹¿å‘Š</a></li>
+											<li><a href="/zh/services/digital-marketing/">数字营销策略</a></li>
+											<li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
+											<li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
+											<li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AIä¸ŽæŠ€æœ¯è§£å†³æ–¹æ¡ˆ â€º</a>
+										<a href="#">AI与技术解决方案 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/zh/services/ai-chatbots-&-virtual-assistants/">AIèŠå¤©æœºå™¨äººä¸Žè™šæ‹ŸåŠ©æ‰‹</a></li>
-											<li><a href="/zh/services/workflow-&-business-automation/">å·¥ä½œæµç¨‹ä¸Žä¸šåŠ¡è‡ªåŠ¨åŒ–</a></li>
+											<li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
+											<li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - ä¸Žæˆ‘ä»¬åˆä½œ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 与我们合作 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from æœåŠ¡ menu - adaptive styling */
+/* Main dropdown from 服务 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/zh/contact/" class="topbar-contact_button">è”ç³»æˆ‘ä»¬</a>
+						<a href="/zh/contact/" class="topbar-contact_button">联系我们</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							å¦‚æžœæ‚¨æ‰¾ä¸åˆ°æ‰€éœ€çš„æœåŠ¡ï¼Œè¯·è”ç³»æˆ‘ä»¬ï¼Œæˆ‘ä»¬ä¼šæ‰¾åˆ°è§£å†³æ–¹æ¡ˆ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							如果您找不到所需的服务，请联系我们，我们会找到解决方案 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1314,7 +1314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="header-wrapper">
                   				<div class="title title__main js-header-title">
 					<h1>
-						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">å¼€å‘</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives æ•°å­—åŒ–è½¬åž‹.</span>
+						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">开发</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives 数字化转型.</span>
 													
 											</h1>
 									</div>
@@ -1352,18 +1352,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ æœåŠ¡</span>
+    <span class="marquee-line_text">Professional 软件与平台开发 服务</span>
     <span class="marquee-line_text">Enterprise Architecture, System Integration & Optimization</span>
-    <span class="marquee-line_text">æœåŠ¡ç¾Žå›½ã€åŠ æ‹¿å¤§åŠå…¨çƒå®¢æˆ·</span>
-    <span class="marquee-line_text">Specialists in Software Performance & ç”¨æˆ·ä½“éªŒ</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for Software å¼€å‘è§£å†³æ–¹æ¡ˆ</span>
-    <span class="marquee-line_text">High-Performance è½¯ä»¶å¼€å‘ & Security</span>
+    <span class="marquee-line_text">服务美国、加拿大及全球客户</span>
+    <span class="marquee-line_text">Specialists in Software Performance & 用户体验</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for Software 开发解决方案</span>
+    <span class="marquee-line_text">High-Performance 软件开发 & Security</span>
     <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional è½¯ä»¶å¼€å‘ æœºæž„ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Software ç»´æŠ¤ & Support</span>
-    <span class="marquee-line_text">Custom Software å¼€å‘è§£å†³æ–¹æ¡ˆ for Every Industry</span>
+    <span class="marquee-line_text">Professional 软件开发 机构 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive Software 维护 & Support</span>
+    <span class="marquee-line_text">Custom Software 开发解决方案 for Every Industry</span>
     <span class="marquee-line_text">Software Performance Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable è½¯ä»¶å¼€å‘ & Long-term Growth</span>
+    <span class="marquee-line_text">Scalable 软件开发 & Long-term Growth</span>
 </div>
 						                    </div>
                 </div>
@@ -1371,16 +1371,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software å¹³å°å¼€å‘" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/khatech/" class="shiftbox-link"> </a>
+									<a href="/zh/work/khatech/">
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software 平台开发" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech - Technology Platform</a></div>
-																																		<div class="preview-name">è½¯ä»¶å¼€å‘</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/khatech/">KhaTech - Technology Platform</a></div>
+																																		<div class="preview-name">软件开发</div>
 																							<div class="preview-name">Platform Architecture</div>
 																							<div class="preview-name">API Integration</div>
 																							<div class="preview-name">User Management</div>
@@ -1393,16 +1393,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/algopros/">
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm å¹³å°å¼€å‘" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/algopros/" class="shiftbox-link"> </a>
+									<a href="/zh/work/algopros/">
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm 平台开发" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/algopros/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/algopros/">Algopros - Algorithm Platform</a></div>
-																																		<div class="preview-name">å¹³å°å¼€å‘</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/algopros/">Algopros - Algorithm Platform</a></div>
+																																		<div class="preview-name">平台开发</div>
 																							<div class="preview-name">Algorithm Integration</div>
 																							<div class="preview-name">Data Processing</div>
 																							<div class="preview-name">Analytics Dashboard</div>
@@ -1415,18 +1415,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/blue-vine-marketing/">
+									<a href="/zh/work/blue-vine-marketing/">
 										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/blue-vine-marketing/" class="shiftbox-link"> </a>
+									    <a href="/zh/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
 																																		<div class="preview-name">Business Software</div>
 																							<div class="preview-name">CRM Integration</div>
-																							<div class="preview-name">å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–</div>
+																							<div class="preview-name">工作流程自动化</div>
 																							<div class="preview-name">Lead Management</div>
 																							<div class="preview-name">Analytics Platform</div>
 																					</div>
@@ -1437,18 +1437,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software å¹³å°å¼€å‘" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neurolinker/" class="shiftbox-link"> </a>
+									<a href="/zh/work/neurolinker/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software 平台开发" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/neurolinker/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/neurolinker/">Neurolinker - Neural Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/neurolinker/">Neurolinker - Neural Platform</a></div>
 																																		<div class="preview-name">Neural Software</div>
 																							<div class="preview-name">AI Integration</div>
-																							<div class="preview-name">æ•°æ®åˆ†æž</div>
+																							<div class="preview-name">数据分析</div>
 																							<div class="preview-name">Machine Learning</div>
 																							<div class="preview-name">Platform Architecture</div>
 																					</div>
@@ -1459,17 +1459,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App å¹³å°å¼€å‘" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/mindfit/" class="shiftbox-link"> </a>
+									<a href="/zh/work/mindfit/">
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App 平台开发" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/mindfit/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/mindfit/">Mindfit - å¥åº· Platform</a></div>
-																																		<div class="preview-name">åº”ç”¨å¼€å‘</div>
-																							<div class="preview-name">ç”¨æˆ·ä½“éªŒ</div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/mindfit/">Mindfit - 健康 Platform</a></div>
+																																		<div class="preview-name">应用开发</div>
+																							<div class="preview-name">用户体验</div>
 																							<div class="preview-name">Health Analytics</div>
 																							<div class="preview-name">Cross-Platform</div>
 																							<div class="preview-name">Data Security</div>
@@ -1481,15 +1481,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/neocert/">
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification å¹³å°å¼€å‘" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/neocert/" class="shiftbox-link"> </a>
+									<a href="/zh/work/neocert/">
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification 平台开发" class="cover" loading="lazy" decoding="async" />
+									    <a href="/zh/work/neocert/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/neocert/">Neocert - Certification Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/zh/work/neocert/">Neocert - Certification Platform</a></div>
 																																		<div class="preview-name">Certification Software</div>
 																							<div class="preview-name">Learning Management</div>
 																							<div class="preview-name">Assessment Tools</div>
@@ -1513,7 +1513,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ services that create powerful, scalable enterprise solutions and drive æ•°å­—åŒ–è½¬åž‹. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
+				<div class="textbox-content">Aenfinite delivers Professional 软件与平台开发 services that create powerful, scalable enterprise solutions and drive 数字化转型. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success.</div>
 									<div class="textbox-action">
 						<a href="/zh/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1567,7 +1567,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite è½¯ä»¶ä¸Žå¹³å°å¼€å‘ Case Studies</h2>
+						<h2>Aenfinite 软件与平台开发 Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1575,14 +1575,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software å¹³å°å¼€å‘" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/khatech/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software 平台开发" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/khatech/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/khatech/">KhaTech</a>
+											<a href="/zh/work/khatech/">KhaTech</a>
 										</div>
-																					<div class="preview-name">è½¯ä»¶å¼€å‘</div>
+																					<div class="preview-name">软件开发</div>
 																					<div class="preview-name">Platform Architecture</div>
 																					<div class="preview-name">API Integration</div>
 																					<div class="preview-name">User Management</div>
@@ -1594,14 +1594,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm å¹³å°å¼€å‘" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/algopros/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm 平台开发" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/algopros/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/algopros/">Algopros</a>
+											<a href="/zh/work/algopros/">Algopros</a>
 										</div>
-																					<div class="preview-name">å¹³å°å¼€å‘</div>
+																					<div class="preview-name">平台开发</div>
 																					<div class="preview-name">Algorithm Integration</div>
 																					<div class="preview-name">Data Processing</div>
 																					<div class="preview-name">Analytics Dashboard</div>
@@ -1614,15 +1614,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/blue-vine-marketing/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<div class="preview-action"><a href="/zh/work/blue-vine-marketing/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a>
+											<a href="/zh/work/blue-vine-marketing/">Blue Vine Marketing</a>
 										</div>
 																					<div class="preview-name">Business Software</div>
 																					<div class="preview-name">CRM Integration</div>
-																					<div class="preview-name">å·¥ä½œæµç¨‹è‡ªåŠ¨åŒ–</div>
+																					<div class="preview-name">工作流程自动化</div>
 																					<div class="preview-name">Lead Management</div>
 																					<div class="preview-name">Analytics Platform</div>
 											
@@ -1632,16 +1632,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software å¹³å°å¼€å‘" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neurolinker/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software 平台开发" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/neurolinker/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neurolinker/">Neurolinker</a>
+											<a href="/zh/work/neurolinker/">Neurolinker</a>
 										</div>
 																					<div class="preview-name">Neural Software</div>
 																					<div class="preview-name">AI Integration</div>
-																					<div class="preview-name">æ•°æ®åˆ†æž</div>
+																					<div class="preview-name">数据分析</div>
 																					<div class="preview-name">Machine Learning</div>
 																					<div class="preview-name">Platform Architecture</div>
 											
@@ -1651,15 +1651,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App å¹³å°å¼€å‘" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/mindfit/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App 平台开发" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/mindfit/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/mindfit/">Mindfit</a>
+											<a href="/zh/work/mindfit/">Mindfit</a>
 										</div>
-																					<div class="preview-name">åº”ç”¨å¼€å‘</div>
-																					<div class="preview-name">ç”¨æˆ·ä½“éªŒ</div>
+																					<div class="preview-name">应用开发</div>
+																					<div class="preview-name">用户体验</div>
 																					<div class="preview-name">Health Analytics</div>
 																					<div class="preview-name">Cross-Platform</div>
 																					<div class="preview-name">Data Security</div>
@@ -1670,12 +1670,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification å¹³å°å¼€å‘" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/neocert/" class="not-index">æŸ¥çœ‹é¡¹ç›®</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification 平台开发" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/zh/work/neocert/" class="not-index">查看项目</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/neocert/">Neocert</a>
+											<a href="/zh/work/neocert/">Neocert</a>
 										</div>
 																					<div class="preview-name">Certification Software</div>
 																					<div class="preview-name">Learning Management</div>
@@ -1689,8 +1689,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/mobile-apps/" class="redlink">
-						<span>æŸ¥çœ‹æ‰€æœ‰é¡¹ç›®</span>
+					<a href="/zh/work/mobile-apps/" class="redlink">
+						<span>查看所有项目</span>
 					</a>
 				</div>
 			</div>
@@ -1701,12 +1701,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>è”ç³»æˆ‘ä»¬ Aenfinite for è½¯ä»¶ä¸Žå¹³å°å¼€å‘</h2>
+				<h2>联系我们 Aenfinite for 软件与平台开发</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="è”ç³»æˆ‘ä»¬ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="联系我们 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1719,72 +1719,72 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„å§“å*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="您的姓名*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="æ‚¨çš„ç”µå­é‚®ä»¶*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="您的电子邮件*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your software or platform project" value="" type="text" name="text-tell-project" />
 		</span>
 	</div>
 	<div class="checkbox-select">
-		<strong>æˆ‘å¯¹ä»¥ä¸‹å†…å®¹æ„Ÿå…´è¶£...</strong>
+		<strong>我对以下内容感兴趣...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="Custom è½¯ä»¶å¼€å‘" id="custom-software" />
-					<label for="custom-software" class="list-item-label">Custom è½¯ä»¶å¼€å‘</label>
+					<input type="checkbox" name="services" value="Custom 软件开发" id="custom-software" />
+					<label for="custom-software" class="list-item-label">Custom 软件开发</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Web å¹³å°å¼€å‘" id="web-platform" />
-					<label for="web-platform" class="list-item-label">Web å¹³å°å¼€å‘</label>
+					<input type="checkbox" name="services" value="Web 平台开发" id="web-platform" />
+					<label for="web-platform" class="list-item-label">Web 平台开发</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="SaaS å¼€å‘" id="saas-development" />
-					<label for="saas-development" class="list-item-label">SaaS å¼€å‘</label>
+					<input type="checkbox" name="services" value="SaaS 开发" id="saas-development" />
+					<label for="saas-development" class="list-item-label">SaaS 开发</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="API å¼€å‘ & Integrations" id="api-development" />
-					<label for="api-development" class="list-item-label">API å¼€å‘ & Integrations</label>
+					<input type="checkbox" name="services" value="API 开发 & Integrations" id="api-development" />
+					<label for="api-development" class="list-item-label">API 开发 & Integrations</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="Cloud Platform Solutions" id="cloud-platform" />
 					<label for="cloud-platform" class="list-item-label">Cloud Platform Solutions</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="UI/UXè®¾è®¡ for Platforms" id="uiux-platform" />
-					<label for="uiux-platform" class="list-item-label">UI/UXè®¾è®¡ for Platforms</label>
+					<input type="checkbox" name="services" value="UI/UX设计 for Platforms" id="uiux-platform" />
+					<label for="uiux-platform" class="list-item-label">UI/UX设计 for Platforms</label>
 				</span>
 				<span class="list-item">
 					<input type="checkbox" name="services" value="System Modernization & Migration" id="system-migration" />
 					<label for="system-migration" class="list-item-label">System Modernization & Migration</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="å…¶ä»– Custom Solutions" id="other" />
-					<label for="other" class="list-item-label">å…¶ä»– Custom Solutions</label>
+					<input type="checkbox" name="services" value="其他 Custom Solutions" id="other" />
+					<label for="other" class="list-item-label">其他 Custom Solutions</label>
 				</span>
 			</span>
 		</span>
 		
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="å‘Šè¯‰æˆ‘ä»¬æ‚¨çš„å¤§æ¦‚é¢„ç®—" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="告诉我们您的大概预算" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
 			<div class="select js-select-list">
-				<div class="select-option js-select-option">èµ·ä»·$100</div>
-				<div class="select-option js-select-option">$500è‡³$5,000</div>
-				<div class="select-option js-select-option">$5,000è‡³$20,000</div>
-				<div class="select-option js-select-option">$20,000è‡³$50,000</div>
-				<div class="select-option js-select-option">è¶…è¿‡$100,000</div>
+				<div class="select-option js-select-option">起价$100</div>
+				<div class="select-option js-select-option">$500至$5,000</div>
+				<div class="select-option js-select-option">$5,000至$20,000</div>
+				<div class="select-option js-select-option">$20,000至$50,000</div>
+				<div class="select-option js-select-option">超过$100,000</div>
 			</div>
 		</div>
 	</div>
 </div>
 <!-- hidden tracking fields remain unchanged -->
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="å‘é€" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="发送" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1800,7 +1800,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>è½¯ä»¶ä¸Žå¹³å°å¼€å‘ Expertise</h2>
+						<h2>软件与平台开发 Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1813,7 +1813,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="panes">
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Custom è½¯ä»¶å¼€å‘</div>
+				<div class="pane-title">Custom 软件开发</div>
 				<div class="pane-subtitle">
 					<p>We design and develop bespoke software tailored to your exact business needs. Our expert developers create scalable, secure, and maintainable applications that automate workflows and drive operational efficiency.</p>
 				</div>
@@ -1821,7 +1821,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Web & Mobile å¹³å°å¼€å‘</div>
+				<div class="pane-title">Web & Mobile 平台开发</div>
 				<div class="pane-subtitle">
 					<p>Build powerful, user-friendly platforms with Aenfinite. We create responsive web portals, mobile apps, and cross-platform solutions that deliver a seamless experience for users and administrators alike.</p>
 				</div>
@@ -1829,7 +1829,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">API å¼€å‘ & System Integration</div>
+				<div class="pane-title">API 开发 & System Integration</div>
 				<div class="pane-subtitle">
 					<p>Enable smooth communication between your systems with custom API development. We integrate third-party services, connect internal tools, and ensure your platform ecosystem works as one cohesive solution.</p>
 				</div>
@@ -1877,7 +1877,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">ç”¨æˆ·ä½“éªŒ & Interface Design</div>
+				<div class="pane-title">用户体验 & Interface Design</div>
 				<div class="pane-subtitle">
 					<p>Deliver intuitive, engaging user experiences with our UI/UX design services. We craft clean interfaces and seamless user flows to maximize adoption and satisfaction.</p>
 				</div>
@@ -1891,7 +1891,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>è½¯ä»¶å¼€å‘ Process</h2>
+                    <h2>软件开发 Process</h2>
                 </div>
             </div>
             <div class="nlist">
@@ -1922,7 +1922,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">UI/UXè®¾è®¡</div>
+                    <div class="nlist-caption">UI/UX设计</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
                             <span>Wireframing & Prototyping</span>
@@ -1931,7 +1931,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             <p>We create detailed wireframes and interactive prototypes to visualize how users will navigate and interact with your software. This ensures we build with clarity and user needs in mind.</p>
                         </div>
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-                            <span>ç”¨æˆ·ä½“éªŒ Design</span>
+                            <span>用户体验 Design</span>
                         </div>
                         <div class="nlist-pane js-switch-pane" id="pane-2-2">
                             <p>Our UX team optimizes every screen and interaction for usability and accessibility, ensuring your platform is intuitive, efficient, and enjoyable for users.</p>
@@ -1948,10 +1948,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
 
                 <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">å¼€å‘ & Testing</div>
+                    <div class="nlist-caption">开发 & Testing</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-                            <span>Agile å¼€å‘</span>
+                            <span>Agile 开发</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-3-1">
                             <p>Our engineers follow agile methodologies, delivering software in sprints. We focus on writing clean, maintainable code and implementing the latest technologies for scalability and performance.</p>
@@ -1983,7 +1983,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                     <div class="nlist-caption">Support & Growth</div>
                     <div class="nlist-tabs js-switch-tabs">
                         <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>Ongoing ç»´æŠ¤</span>
+                            <span>Ongoing 维护</span>
                         </div>
                         <div class="nlist-pane js-switch-pane active" id="pane-4-1">
                             <p>We provide continuous monitoring, bug fixes, security updates, and feature enhancements to keep your platform running efficiently.</p>
@@ -2013,7 +2013,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</span> is the perfect blend of technical innovation and strategic planning. ä½œå“ with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and æ•°å­—åŒ–è½¬åž‹.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">软件与平台开发</span> is the perfect blend of technical innovation and strategic planning. 作品 with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and 数字化转型.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2024,16 +2024,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="inner-wrapper">
             <div class="section-caption js-aos">
                 <div class="section-caption_text">
-                    <h2>Aenfinite è½¯ä»¶ä¸Žå¹³å°å¼€å‘ æœåŠ¡</h2>
+                    <h2>Aenfinite 软件与平台开发 服务</h2>
                 </div>
             </div>
             <div class="service-grid">
                 <div>
                     <div class="service-list js-service-container fadein js-aos">
                         
-                        <!-- Custom è½¯ä»¶å¼€å‘ -->
+                        <!-- Custom 软件开发 -->
                         <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom è½¯ä»¶å¼€å‘</div>
+                            <div class="service-caption js-service-caption">Custom 软件开发</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2041,7 +2041,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Cloud Applications</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">APIs</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Microservices</a></div>
-                                        <div class="chip"><a href="/zh/contact/" class="chip-label">è‡ªåŠ¨åŒ–</a></div>
+                                        <div class="chip"><a href="/zh/contact/" class="chip-label">自动化</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Custom Dashboards</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Scalable Architecture</a></div>
                                     </div>
@@ -2104,16 +2104,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             </div>
                         </div>
 
-                        <!-- API & æ’ä»¶å¼€å‘ -->
+                        <!-- API & 插件开发 -->
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">API & æ’ä»¶å¼€å‘</div>
+                            <div class="service-caption js-service-caption">API & 插件开发</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">REST & GraphQL APIs</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Third-Party Integrations</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Webhooks</a></div>
-                                        <div class="chip"><a href="/zh/contact/" class="chip-label">è‡ªåŠ¨åŒ– Scripts</a></div>
+                                        <div class="chip"><a href="/zh/contact/" class="chip-label">自动化 Scripts</a></div>
                                         <div class="chip"><a href="/zh/contact/" class="chip-label">Custom Plugins</a></div>
                                     </div>
                                 </div>
@@ -2139,9 +2139,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                             </div>
                         </div>
 
-                        <!-- ç»´æŠ¤ & Support -->
+                        <!-- 维护 & Support -->
                         <div class="service js-service">
-                            <div class="service-caption js-service-caption">Ongoing ç»´æŠ¤ & Support</div>
+                            <div class="service-caption js-service-caption">Ongoing 维护 & Support</div>
                             <div class="service-content js-service-content">
                                 <div class="service-tags">
                                     <div class="chips">
@@ -2193,8 +2193,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>æœ‰é¡¹ç›®æƒ³æ³•ï¼Ÿè®©æˆ‘ä»¬ä¸€èµ·åˆ›é€ ä¼Ÿå¤§çš„ä½œå“ã€‚</span>
-								<a href="../../contact/" class="redlink">
+								<span>有项目想法？让我们一起创造伟大的作品。</span>
+								<a href="/zh/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2204,42 +2204,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">å…¬å¸</div>
+								<div class="footer-col_caption">公司</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">ä½œå“</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">作品</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">æœåŠ¡</div>
+								<div class="footer-col_caption">服务</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ç½‘é¡µè®¾è®¡</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../software-&-platform-development/">è½¯ä»¶ä¸Žå¹³å°å¼€å‘</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">å“ç‰Œç­–åˆ’</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">åŒ…è£…è®¾è®¡</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">å“ç‰Œç­–åˆ’</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/zh/services/web-design/">网页设计</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/zh/services/branding/">品牌策划</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/zh/services/packaging-design/">包装设计</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">品牌策划</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">è¿žæŽ¥</div>
+								<div class="footer-col_caption">连接</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">ä¸Žæˆ‘ä»¬åˆä½œ</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">ç™½æ ‡æœåŠ¡</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">æŽ¨èè®¡åˆ’</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHLæœåŠ¡</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/">与我们合作</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/white-label-services/">白标服务</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/referral-program/">推荐计划</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/zh/agency/partner-with-us/ghl-services/">GHL服务</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/zh/contact/">联系我们</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">åœ°å€</div>
+								<div class="footer-col_caption">地址</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2294,15 +2294,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">ä½œå“</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">æœºæž„</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">æœåŠ¡</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">作品</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/zh/services/">服务</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">è”ç³»æˆ‘ä»¬</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">è”ç³»æˆ‘ä»¬</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">å‘é€é‚®ä»¶</a>
+							<a class="menu-contact" href="/zh/contact/">联系我们</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">发送邮件</a>
 						</div>
 					</div>
 				</div>
@@ -2310,14 +2310,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">æ–°é¡¹ç›®ï¼Ÿ</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">é¢„çº¦ä¼šè®®</a>
+				<a href="/zh/contact/" class="to-contact">新项目？</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">预约会议</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>é¢„çº¦æ‚¨çš„å•†åŠ¡ä¼šè®®</h3>
+			<h3>预约您的商务会议</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2555,11 +2555,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						æˆ‘ä»¬ä½¿ç”¨Cookieæ¥æå‡æ‚¨çš„ç”¨æˆ·ä½“éªŒã€‚ç‚¹å‡»æŽ¥å—æˆ–ç»§ç»­æµè§ˆï¼Œå³è¡¨ç¤ºæ‚¨åŒæ„æˆ‘ä»¬çš„
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">éšç§æ”¿ç­–</a>.
+						我们使用Cookie来提升您的用户体验。点击接受或继续浏览，即表示您同意我们的
+						<a href="/zh/privacy-policy/" class="cookie-banner__link" target="_blank">隐私政策</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">æŽ¥å—</button>
+				<button class="cookie-banner__button">接受</button>
 			</div>
 		</div>
 
@@ -2620,11 +2620,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2688,7 +2688,7 @@ document.addEventListener('keydown', function(event) {
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2718,7 +2718,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - è½¯ä»¶å¼€å‘ æœºæž„",
+      "alternateName": "Aenfinite® - 软件开发 机构",
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "inLanguage":"zh-CN"
     },
@@ -2727,15 +2727,15 @@ export default function Page() {
       "@id": "https://aenfinite.com/services/software-and-platform-development/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "æœåŠ¡" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/software-and-platform-development/", "name": "è½¯ä»¶ä¸Žå¹³å°å¼€å‘" } }
+        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "服务" } },
+        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/software-and-platform-development/", "name": "软件与平台开发" } }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage",
       "url": "https://aenfinite.com/services/software-and-platform-development/",
-      "name": "Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ | Enterprise Solutions | Aenfinite®",
+      "name": "Professional 软件与平台开发 | Enterprise Solutions | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-10-24T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.com/#website" },
@@ -2746,9 +2746,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.com/services/software-and-platform-development/#richSnippet",
-      "headline": "Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘ | Enterprise Solutions | Aenfinite®",
+      "headline": "Professional 软件与平台开发 | Enterprise Solutions | Aenfinite®",
       "description": "Aenfinite® provides full-cycle software and platform development — from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
-      "keywords": "è½¯ä»¶å¼€å‘, Platform Architecture, Enterprise Solutions, SaaS å¼€å‘, API Integration, Digital Transformation, System Architecture",
+      "keywords": "软件开发, Platform Architecture, Enterprise Solutions, SaaS 开发, API Integration, Digital Transformation, System Architecture",
       "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.com/#organization" },
       "datePublished": "2022-10-16T21:16:37-04:00",
@@ -2787,11 +2787,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "æ˜ŸæœŸä¸€",
-					  "æ˜ŸæœŸäºŒ",
-					  "æ˜ŸæœŸä¸‰",
-					  "æ˜ŸæœŸå››",
-					  "æ˜ŸæœŸäº”"
+					  "星期一",
+					  "星期二",
+					  "星期三",
+					  "星期四",
+					  "星期五"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2830,13 +2830,13 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "æœåŠ¡",
+      "name": "服务",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Professional è½¯ä»¶ä¸Žå¹³å°å¼€å‘",
+      "name": "Professional 软件与平台开发",
       "item": "https://aenfinite.com/services/software-and-platform-development/"
     }
   ]

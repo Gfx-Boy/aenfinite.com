@@ -594,7 +594,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -728,24 +728,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/nl/featured-work/">Portfolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/nl/agency">Bureau</a>
+								<a href="/nl/agency/">Bureau</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/nl/services/">Diensten</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ontwikkelingsoplossingen â€º</a>
+                                        <a href="#">Ontwikkelingsoplossingen ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
-											<li><a href="/nl/services/custom-web-development">Op Maat Gemaakte Webontwikkeling</a></li>
-											<li><a href="/nl/services/software-&-platform-development/">Software- & Platformontwikkeling</a></li>
+											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
+											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>                                  </ul>
                                     </li>
 									 <li class="menu-item menu-item-has-children">
-                                    <a href="#">Ontwerp- & Creatieve Diensten â€º</a>
+                                    <a href="#">Ontwerp- & Creatieve Diensten ›</a>
 										<ul class="sub-menu">
 											<li><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></li>
 											<li><a href="/nl/services/branding/">Merkidentiteit & Strategie</a></li>
@@ -756,20 +756,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- & Digitale Oplossingen â€º</a>
+                                        <a href="#">Marketing- & Digitale Oplossingen ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
                                             <li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-                                            <li><a href="/nl/services/pay-per-click">Pay-Per-Click (PPC) Adverteren</a></li>
+                                            <li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
                                             <li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li>
                                             <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI- & Technologische Oplossingen â€º</a>
+                                        <a href="#">AI- & Technologische Oplossingen ›</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/nl/services/ai-chatbots-&-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-                                            <li><a href="/nl/services/workflow-&-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+                                            <li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+                                            <li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -947,12 +947,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="wrapper">
 				<ul id="menu-work-page-categories-filter" class="projects-nav"><li id="menu-item-3197" class="menu-item projects-nav_item menu-item-object-category menu-item-3197"><a href="/nl/work/">All Portfolio</a></li>
 <li id="menu-item-3730" class="menu-item menu-item-type-post_type projects-nav_item menu-item-3730"><a href="/nl/featured-work/">Uitgelicht Portfolio</a></li>
-<li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="../branding/">Merkontwerp</a></li>
+<li id="menu-item-3168" class="menu-item projects-nav_item menu-item-object-category menu-item-3168"><a href="/nl/work/branding/">Merkontwerp</a></li>
 <li id="menu-item-3169" class="menu-item projects-nav_item menu-item-object-category active menu-item-3169"><a href="" aria-current="page">Webdesign and Ontwikkeling</a></li>
-<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="../logo-design/">Logo-ontwerp</a></li>
-<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="../graphic-design/">Grafisch Ontwerp</a></li>
+<li id="menu-item-7016" class="menu-item projects-nav_item menu-item-object-category menu-item-7016"><a href="/nl/work/logo-design/">Logo-ontwerp</a></li>
+<li id="menu-item-7017" class="menu-item projects-nav_item menu-item-object-category menu-item-7017"><a href="/nl/work/graphic-design/">Grafisch Ontwerp</a></li>
 <li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/nl/work/packaging-design/">Verpakkingsontwerp</a></li>
-<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/nl/work/Mobile-Apps/">Mobiele Apps</a></li>
+<li id="menu-item-3174" class="menu-item projects-nav_item menu-item-object-category menu-item-3174"><a href="/nl/work/mobile-apps/">Mobiele Apps</a></li>
 </ul>				<div class="projects fade-in-delay-3" id="ajax">
 						
 					<div class="project" data-lightbox="false">
@@ -968,9 +968,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/blue-vine-marketing/">Blue Vine Marketing - Digitale Marketing Bureau Website</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
-									<div class="preview-name"><a href="../software-&-platform-development/">Platformontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/software-and-platform-development/">Platformontwikkeling</a></div>
 								</div>
 							</div>
 						</div>
@@ -988,9 +988,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/robophil/">RoboPhil - AI Trading Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../software-&-platform-development/">Platformontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/software-and-platform-development/">Platformontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
 								</div>
 							</div>
 						</div>
@@ -1008,9 +1008,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/husnohaya/">HusnOhaya Women - Premium Hijab E-commerce Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../e-commerce-websites/">E-commerce-ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/e-commerce-websites/">E-commerce-ontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
 								</div>
 							</div>
 						</div>
@@ -1019,18 +1019,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/nl/work/khatech/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° Digitale Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTtech - 360° Digitale Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Bekijk project									</div>
 								</div>
 								<div class="preview-content" data-index="04">
 									<div class="preview-name preview-name__caption">
-										<a href="/nl/work/khatech/">KhaTtech - 360Â° Digitale Marketing Solutions Platform</a>
+										<a href="/nl/work/khatech/">KhaTtech - 360° Digitale Marketing Solutions Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../digital-marketing/">Digitale Marketing</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/digital-marketing/">Digitale Marketing</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
 								</div>
 							</div>
 						</div>
@@ -1048,9 +1048,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/afropopup/">AfroPop - Craft Soda E-commerce & Artist Collaboration Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../e-commerce-websites/">E-commerce-ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../branding/">Merkontwerp & Identity</a></div>
+									<div class="preview-name"><a href="/nl/services/e-commerce-websites/">E-commerce-ontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/work/branding/">Merkontwerp & Identity</a></div>
 								</div>
 							</div>
 						</div>
@@ -1068,9 +1068,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/blue-vine-marketing/">Blue Vine Marketing - Digitale Marketing Bureau & Growth Solutions</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../digital-marketing/">Digitale Marketing</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/digital-marketing/">Digitale Marketing</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
 								</div>
 							</div>
 						</div>
@@ -1088,9 +1088,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/feiro/">Feiro - Modern Business Solutions & Merkidentiteit</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../branding/">Merkontwerp & Identity</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">UI/UX-ontwerp</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Business Solutions</a></div>
+									<div class="preview-name"><a href="/nl/work/branding/">Merkontwerp & Identity</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Business Solutions</a></div>
 								</div>
 							</div>
 						</div>
@@ -1108,9 +1108,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="/nl/work/amkiservice/">AM-KI Diensten - Business Compliance & Licensing Solutions</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Business Platform</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">Professional UI/UX</a></div>
-									<div class="preview-name"><a href="../software-&-platform-development/">Compliance Solutions</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Business Platform</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">Professional UI/UX</a></div>
+									<div class="preview-name"><a href="/nl/services/software-and-platform-development/">Compliance Solutions</a></div>
 								</div>
 							</div>
 						</div>
@@ -1128,9 +1128,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Luna Wick - Creative Merkontwerp & Webontwikkeling</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../branding/">Creatieve Merkontwerp</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">Artistic UI/UX</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Maatwerkontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/work/branding/">Creatieve Merkontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">Artistic UI/UX</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Maatwerkontwikkeling</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox -->
@@ -1153,9 +1153,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Modern Corporate Website - Professional Business Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">Corporate UI/UX</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Business Platform</a></div>
-									<div class="preview-name"><a href="../branding/">Professionele Merkontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">Corporate UI/UX</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Business Platform</a></div>
+									<div class="preview-name"><a href="/nl/work/branding/">Professionele Merkontwerp</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox collection -->
@@ -1177,9 +1177,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">E-commerce Platform - Online Shopping Solution</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../e-commerce-websites/">E-commerce-ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">Shopping UI/UX</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Custom Platform</a></div>
+									<div class="preview-name"><a href="/nl/services/e-commerce-websites/">E-commerce-ontwikkeling</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">Shopping UI/UX</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Custom Platform</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox collection -->
@@ -1201,9 +1201,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<a href="#">Creative Portfolio Website - Artistic Showcase Platform</a>
 									</div>
 									<div class="preview-name"><a href="">Webdesign & Ontwikkeling</a></div>
-									<div class="preview-name"><a href="../ui-ux-design/">Creative UI/UX</a></div>
-									<div class="preview-name"><a href="../custom-web-development/">Portfolio Platform</a></div>
-									<div class="preview-name"><a href="../branding/">Creatieve Merkontwerp</a></div>
+									<div class="preview-name"><a href="/nl/services/ui-ux-design/">Creative UI/UX</a></div>
+									<div class="preview-name"><a href="/nl/services/custom-web-development/">Portfolio Platform</a></div>
+									<div class="preview-name"><a href="/nl/work/branding/">Creatieve Merkontwerp</a></div>
 								</div>
 							</div>
 							<!-- Hidden images for lightbox collection -->
@@ -1325,7 +1325,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/nl/services/paid-ads/" class="chip-label">Betaald Adverteren</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/Pay-per-click/" class="chip-label">PPC-campagnes</a>
+													<a href="/nl/services/pay-per-click/" class="chip-label">PPC-campagnes</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/social-media-marketing/" class="chip-label">Socialmediamarketing</a>
@@ -1533,19 +1533,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<a href="/nl/services/custom-web-development/" class="chip-label">Op Maat Gemaakte Webontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/software-&-platform-development/" class="chip-label">Softwareontwikkeling</a>
+													<a href="/nl/services/software-and-platform-development/" class="chip-label">Softwareontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/workflow-&-business-automation/" class="chip-label">Bedrijfsautomatisering</a>
+													<a href="/nl/services/workflow-and-business-automation/" class="chip-label">Bedrijfsautomatisering</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/ai-chatbots-&-virtual-assistants/" class="chip-label">AI-chatbots</a>
+													<a href="/nl/services/ai-chatbots-and-virtual-assistants/" class="chip-label">AI-chatbots</a>
 												</div>
 																							<div class="chip">
 													<a href="/nl/services/custom-web-development/" class="chip-label">Platformontwikkeling</a>
 												</div>
 																							<div class="chip">
-													<a href="/nl/services/workflow-&-business-automation/" class="chip-label">Workflowautomatisering</a>
+													<a href="/nl/services/workflow-and-business-automation/" class="chip-label">Workflowautomatisering</a>
 												</div>
 																					</div>
 									</div>
@@ -1596,7 +1596,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-		<strong>Ik ben geÃ¯nteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Premium Merkidentiteit" id="premium-branding" /><label for="premium-branding" class="list-item-label">Premium Merkidentiteit</label></span><span class="list-item"><input type="checkbox" name="services" value="Award-Winning Webdesign" id="award-web-design" /><label for="award-web-design" class="list-item-label">Award-Winning Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobiele App-ontwikkeling" id="mobile-app-development" /><label for="mobile-app-development" class="list-item-label">Mobiele App-ontwikkeling</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-ontwerp Excellence" id="ui-ux-excellence" /><label for="ui-ux-excellence" class="list-item-label">UI/UX-ontwerp Excellence</label></span><span class="list-item"><input type="checkbox" name="services" value="Creative Campaign Design" id="creative-campaigns" /><label for="creative-campaigns" class="list-item-label">Creative Campaign Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Motion Grafisch Werk & Animation" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">Motion Grafisch Werk & Animation</label></span><span class="list-item"><input type="checkbox" name="services" value="Software Platform Design" id="software-design" /><label for="software-design" class="list-item-label">Software Platform Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Luxury Product Design" id="luxury-design" /><label for="luxury-design" class="list-item-label">Luxury Product Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Experience Design" id="digital-experience" /><label for="digital-experience" class="list-item-label">Digital Experience Design</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig Premium Diensten" id="other-premium" /><label for="other-premium" class="list-item-label">Overig Premium Diensten</label></span></span></span>
+		<strong>Ik ben geïnteresseerd in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Premium Merkidentiteit" id="premium-branding" /><label for="premium-branding" class="list-item-label">Premium Merkidentiteit</label></span><span class="list-item"><input type="checkbox" name="services" value="Award-Winning Webdesign" id="award-web-design" /><label for="award-web-design" class="list-item-label">Award-Winning Webdesign</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobiele App-ontwikkeling" id="mobile-app-development" /><label for="mobile-app-development" class="list-item-label">Mobiele App-ontwikkeling</label></span><span class="list-item"><input type="checkbox" name="services" value="UI/UX-ontwerp Excellence" id="ui-ux-excellence" /><label for="ui-ux-excellence" class="list-item-label">UI/UX-ontwerp Excellence</label></span><span class="list-item"><input type="checkbox" name="services" value="Creative Campaign Design" id="creative-campaigns" /><label for="creative-campaigns" class="list-item-label">Creative Campaign Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Motion Grafisch Werk & Animation" id="motion-graphics" /><label for="motion-graphics" class="list-item-label">Motion Grafisch Werk & Animation</label></span><span class="list-item"><input type="checkbox" name="services" value="Software Platform Design" id="software-design" /><label for="software-design" class="list-item-label">Software Platform Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Luxury Product Design" id="luxury-design" /><label for="luxury-design" class="list-item-label">Luxury Product Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Digital Experience Design" id="digital-experience" /><label for="digital-experience" class="list-item-label">Digital Experience Design</label></span><span class="list-item last"><input type="checkbox" name="services" value="Overig Premium Diensten" id="other-premium" /><label for="other-premium" class="list-item-label">Overig Premium Diensten</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Vertel ons uw geschatte budget" value="" readonly name="budget" />
@@ -1654,7 +1654,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/nl/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1667,11 +1667,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Bedrijf</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1690,12 +1690,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/Aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Word Partner</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/">Word Partner</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/white-label-services/">White Label Diensten</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/referral-program/">Verwijzingsprogramma</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/nl/agency/partner-with-us/ghl-services/">GHL-diensten</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Contact</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/nl/contact/">Contact</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1752,13 +1752,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Bureau</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/nl/agency/">Bureau</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Contact</a>
+							<a class="menu-contact" href="/nl/contact/">Contact</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">E-mail ons</a>
 						</div>
 					</div>
@@ -1767,7 +1767,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
+				<a href="/nl/contact/" class="to-contact">Nieuw Project?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Plan een Vergadering</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2287,7 +2287,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wij gebruiken cookies om uw gebruikerservaring te verbeteren. Door op ACCEPTEREN te klikken of verder te bladeren, stemt u in met ons
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
+						<a href="/nl/privacy-policy/" class="cookie-banner__link" target="_blank">Privacybeleid</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accepteren</button>

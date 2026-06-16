@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design | Aenfinite®",
+  title: "Immobilien Webdesign & Markengestaltung Dienstleistungen | Property Website-Design",
   description: "Aenfinite® is a leading real estate Webdesign-Agentur offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
@@ -1113,19 +1113,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/de/services/">Dienstleistungen</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Entwicklungslösungen â€º</a>
+										<a href="#">Entwicklungslösungen ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
 <li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
-											<li><a href="/de/services/custom-web-development">Individuelle Webentwicklung</a></li>
-											<li><a href="/de/services/software-&-platform-development/">Software- und Plattformentwicklung</a></li>
+											<li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
+											<li><a href="/de/services/software-and-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
 											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Design- und Kreativdienstleistungen â€º</a>
+										<a href="#">Design- und Kreativdienstleistungen ›</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
 											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
@@ -1136,11 +1136,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing- und Digitale Lösungen â€º</a>
+										<a href="#">Marketing- und Digitale Lösungen ›</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
-											<li><a href="/de/services/pay-per-click">Pay-Per-Click (PPC) Werbung</a></li>
+											<li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
 											<li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
 
 										</ul>
@@ -1148,10 +1148,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">KI- und Technologielösungen â€º</a>
+										<a href="#">KI- und Technologielösungen ›</a>
 										<ul class="sub-menu">
-											<li><a href="/de/services/ai-chatbots-&-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-											<li><a href="/de/services/workflow-&-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+											<li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
+											<li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1372,7 +1372,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/blue-vine-marketing/">
+									<a href="/de/work/blue-vine-marketing/">
 										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Website-Design by Aenfinite" class="cover" loading="lazy" decoding="async" />
 									    <a href="/de/work/blue-vine-marketing/" class="shiftbox-link"> </a>
 									</a>
@@ -1380,7 +1380,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/blue-vine-marketing/">Blue Vine Marketing</a></div>
+											<div class="preview-name preview-name__caption"><a href="/de/work/blue-vine-marketing/">Blue Vine Marketing</a></div>
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">Business Dienstleistungen</div>
 																							<div class="preview-name">Digitales Marketing</div>
@@ -1443,7 +1443,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/khatech/">KhaTech</a></div>
+											<div class="preview-name preview-name__caption"><a href="/de/work/khatech/">KhaTech</a></div>
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">Digital Solutions</div>
 																							<div class="preview-name">Immobilien Technologie</div>
@@ -1456,15 +1456,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/de/work/afropop/">
+									<a href="/de/work/afropopup/">
 										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Website-Design by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/de/work/afropop/" class="shiftbox-link"> </a>
+									    <a href="/de/work/afropopup/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/afropop/">AfroPop</a></div>
+											<div class="preview-name preview-name__caption"><a href="/de/work/afropopup/">AfroPop</a></div>
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">Brand Platform</div>
 																							<div class="preview-name">Creative Design</div>
@@ -1485,7 +1485,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/feiro/">Feiro</a></div>
+											<div class="preview-name preview-name__caption"><a href="/de/work/feiro/">Feiro</a></div>
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">E-commerce Design</div>
 																							<div class="preview-name">Property Listings</div>
@@ -1519,15 +1519,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="/de/work/web-design-&-development/">
+									<a href="/de/work/web-design-and-development/">
 										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick Website-Design by Aenfinite" class="cover" loading="lazy" decoding="async" />
-									    <a href="/de/work/web-design-&-development/" class="shiftbox-link"> </a>
+									    <a href="/de/work/web-design-and-development/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="08">
-											<div class="preview-name preview-name__caption"><a href="/de/work/web-design-&-development/">Luna Wick</a></div>
+											<div class="preview-name preview-name__caption"><a href="/de/work/web-design-and-development/">Luna Wick</a></div>
 																																		<div class="preview-name">Webdesign & Entwicklung</div>
 																							<div class="preview-name">E-commerce Platform</div>
 																							<div class="preview-name">Lifestyle Brand</div>
@@ -1689,11 +1689,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Website-Design by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/de/work/afropop/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/afropopup/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="/de/work/afropop/">AfroPop</a>
+											<a href="/de/work/afropopup/">AfroPop</a>
 										</div>
 																					<div class="preview-name">Webdesign & Entwicklung</div>
 																					<div class="preview-name">Brand Platform</div>
@@ -1743,11 +1743,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/luna-wick-2.avif" alt="Luna Wick Website-Design by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/de/work/web-design-&-development/" class="not-index">Projekt ansehen</a></div>										
+										<div class="preview-action"><a href="/de/work/web-design-and-development/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
 										<div class="preview-name preview-name__caption">
-											<a href="/de/work/web-design-&-development/">Luna Wick</a>
+											<a href="/de/work/web-design-and-development/">Luna Wick</a>
 										</div>
 																					<div class="preview-name">Webdesign & Entwicklung</div>
 																					<div class="preview-name">E-commerce Platform</div>
@@ -1760,7 +1760,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="/de/work/web-design-&-development/" class="redlink">
+					<a href="/de/work/web-design-and-development/" class="redlink">
 						<span>Alle Projekte ansehen</span>
 					</a>
 				</div>
@@ -2251,7 +2251,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
-								<a href="../../contact/" class="redlink">
+								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2264,20 +2264,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_caption">Unternehmen</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Projekte</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Dienstleistungen</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Dienstleistungen</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">Webdesign</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../web-design-and-branding-for-real-estate/">Immobilien Webdesign & Markengestaltung</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">Markengestaltung</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">Verpackungsdesign</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/de/services/web-design/">Webdesign</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/de/services/web-design-and-branding-for-real-estate/">Immobilien Webdesign & Markengestaltung</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/de/services/branding/">Markengestaltung</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/de/services/packaging-design/">Verpackungsdesign</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Markengestaltung</a></li>
 
 </ul>														</div>
@@ -2287,12 +2287,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">Partner werden</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/">Partner werden</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/white-label-services/">White-Label-Dienstleistungen</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/referral-program/">Empfehlungsprogramm</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/de/agency/partner-with-us/ghl-services/">GHL-Dienstleistungen</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">Kontakt</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/de/contact/">Kontakt</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -2352,13 +2352,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Projekte</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">Agentur</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">Dienstleistungen</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/de/agency/">Agentur</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/de/services/">Dienstleistungen</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">Kontakt</a>
+							<a class="menu-contact" href="/de/contact/">Kontakt</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Schreiben Sie uns</a>
 						</div>
 					</div>
@@ -2367,7 +2367,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
+				<a href="/de/contact/" class="to-contact">Neues Projekt?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Termin vereinbaren</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
@@ -2613,7 +2613,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Wir verwenden Cookies, um Ihr Nutzererlebnis zu verbessern. Durch Klicken auf AKZEPTIEREN oder Weitersurfen stimmen Sie unserer
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
+						<a href="/de/privacy-policy/" class="cookie-banner__link" target="_blank">Datenschutzerklärung</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Akzeptieren</button>
@@ -2746,7 +2746,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;

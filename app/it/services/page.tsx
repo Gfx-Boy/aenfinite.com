@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Web Design & Marketing Digitale Servizi | Design del Logo & Branding | Aenfinite®",
+  title: "Professional Web Design & Marketing Digitale Servizi | Design del Logo & Branding",
   description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, servizi SEO, sviluppo di applicazioni, sviluppo web personalizzato, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/it/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
@@ -644,28 +644,28 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="/it/featured-work/">Portfolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="../agency/">Agenzia</a>
+								<a href="/it/agency/">Agenzia</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-								<a href="../services/">Servizi</a>
+								<a href="/it/services/">Servizi</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluzioni di Sviluppo â€º</a>
+										<a href="#">Soluzioni di Sviluppo ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
 <li><a href="/it/services/e-commerce-websites/">Siti Web E-Commerce</a></li>
-											<li><a href="/it/services/custom-web-development">Sviluppo Web Personalizzato</a></li>
-											<li><a href="/it/services/software-&-platform-development/">Sviluppo Software e Piattaforme</a></li>
+											<li><a href="/it/services/custom-web-development/">Sviluppo Web Personalizzato</a></li>
+											<li><a href="/it/services/software-and-platform-development/">Sviluppo Software e Piattaforme</a></li>
 											<li><a href="/it/services/app-development/">Sviluppo di Applicazioni</a></li>
 											<li><a href="/it/services/web-design/">Design e Sviluppo di Siti Web</a></li>
 											<li><a href="/it/services/web-design-and-branding-for-real-estate/">Soluzioni Web per il Settore Immobiliare</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Servizi di Design e CreativitÃ  â€º</a>
+										<a href="#">Servizi di Design e Creatività ›</a>
 										<ul class="sub-menu">
 											<li><a href="/it/services/ui-ux-design/">Design UI/UX</a></li>
-											<li><a href="/it/services/branding/">IdentitÃ  di Marca e Strategia</a></li>
+											<li><a href="/it/services/branding/">Identità di Marca e Strategia</a></li>
 											<li><a href="/it/services/graphic-design/">Graphic Design</a></li> <li><a href="/it/services/logo-design/">Design del Logo</a></li>
 											
 											<li><a href="/it/services/trade-show-booth-design/">Design di Stand per Fiere</a></li>
@@ -673,22 +673,22 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Soluzioni di Marketing e Digitali â€º</a>
+										<a href="#">Soluzioni di Marketing e Digitali ›</a>
 										<ul class="sub-menu">
 											<li><a href="/it/services/digital-marketing/">Strategia di Marketing Digitale</a></li>
 											<li><a href="/it/services/search-engine-optimization/">Ottimizzazione per i Motori di Ricerca (SEO)</a></li>
-											<li><a href="/it/services/pay-per-click">PubblicitÃ  Pay-Per-Click (PPC)</a></li>
-											<li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">PubblicitÃ  a Pagamento</a></li>
+											<li><a href="/it/services/pay-per-click/">Pubblicità Pay-Per-Click (PPC)</a></li>
+											<li><a href="/it/services/social-media-marketing/">Marketing sui Social Media</a></li> <li><a href="/it/services/paid-ads/">Pubblicità a Pagamento</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">Soluzioni di IA e Tecnologia â€º</a>
+										<a href="#">Soluzioni di IA e Tecnologia ›</a>
 										<ul class="sub-menu">
-											<li><a href="/it/services/ai-chatbots-&-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
-											<li><a href="/it/services/workflow-&-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
+											<li><a href="/it/services/ai-chatbots-and-virtual-assistants/">Chatbot IA e Assistenti Virtuali</a></li>
+											<li><a href="/it/services/workflow-and-business-automation/">Automazione dei Flussi di Lavoro e Aziendale</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -813,10 +813,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Collabora con noi</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/">Collabora con noi</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="../contact/" class="topbar-contact_button">Contatto</a>
+						<a href="/it/contact/" class="topbar-contact_button">Contatto</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -912,7 +912,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite combina competenza tecnica con strategia creativa per creare identitÃ  di marca potenti, grafiche di livello superiore e interfacce web e app impeccabili. Costruiamo risorse digitali e fisiche che rafforzano la presenza del tuo marchio, aumentano le conversioni e massimizzano il coinvolgimento su ogni canale.</div>
+				<div class="textbox-content">Aenfinite combina competenza tecnica con strategia creativa per creare identità di marca potenti, grafiche di livello superiore e interfacce web e app impeccabili. Costruiamo risorse digitali e fisiche che rafforzano la presenza del tuo marchio, aumentano le conversioni e massimizzano il coinvolgimento su ogni canale.</div>
 									<div class="textbox-action">
 						<a href="/it/work/" class="redlink">
 							<span>Scopri il nostro portfolio</span>
@@ -941,7 +941,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   <div class="chips">
                     <div class="chip"><a href="/it/services/e-commerce-websites/" class="chip-label">E-Commerce</a></div>
                     <div class="chip"><a href="/it/services/custom-web-development/" class="chip-label">Siti Web Personalizzati</a></div>
-                    <div class="chip"><a href="/it/services/software-&-platform-development/" class="chip-label">Software e Piattaforme</a></div>
+                    <div class="chip"><a href="/it/services/software-and-platform-development/" class="chip-label">Software e Piattaforme</a></div>
                     <div class="chip"><a href="/it/services/app-development/" class="chip-label">App Mobili</a></div>
                     <div class="chip"><a href="/it/services/web-design/" class="chip-label">Design di Siti Web</a></div>
                     <div class="chip"><a href="/it/services/web-design-and-branding-for-real-estate/" class="chip-label">Soluzioni Immobiliari</a></div>
@@ -952,7 +952,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
                 <div class="service-action">
                   <a href="/it/contact/" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                   </a>
                 </div>
               </div>
@@ -960,12 +960,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
             <!-- Design & Branding -->
             <div class="service js-service">
-              <div class="service-caption js-service-caption">Design e CreativitÃ </div>
+              <div class="service-caption js-service-caption">Design e Creatività</div>
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
                     <div class="chip"><a href="/it/services/ui-ux-design/" class="chip-label">UI/UX</a></div>
-                    <div class="chip"><a href="/it/services/branding/" class="chip-label">IdentitÃ  di Marca</a></div>
+                    <div class="chip"><a href="/it/services/branding/" class="chip-label">Identità di Marca</a></div>
                     <div class="chip"><a href="/it/services/graphic-design/" class="chip-label">Grafiche</a></div>
 					<div class="chip"><a href="/it/services/logo-design/" class="chip-label">Design del Logo</a></div>
                  
@@ -978,7 +978,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 </div>
                 <div class="service-action">
                   <a href="/it/contact/" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                   </a>
                 </div>
               </div>
@@ -992,17 +992,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                   <div class="chips">
                     <div class="chip"><a href="/it/services/digital-marketing/" class="chip-label">Strategia di Marketing Digitale</a></div>
                     <div class="chip"><a href="/it/services/search-engine-optimization/" class="chip-label">SEO</a></div>
-                    <div class="chip"><a href="/it/services/Pay-per-click/" class="chip-label">PPC</a></div>
-					 <div class="chip"><a href="/it/services/paid-ads/" class="chip-label">PubblicitÃ  a Pagamento</a></div>
+                    <div class="chip"><a href="/it/services/pay-per-click/" class="chip-label">PPC</a></div>
+					 <div class="chip"><a href="/it/services/paid-ads/" class="chip-label">Pubblicità a Pagamento</a></div>
                     <div class="chip"><a href="/it/services/social-media-marketing/" class="chip-label">Marketing sui Social Media</a></div>
                   </div>
                 </div>
                 <div class="service-text">
-                  <p>Creiamo campagne di marketing basate sui dati che generano risultati misurabili. Il nostro team Ã¨ specializzato in strategie SEO, PPC e social media per aumentare la visibilitÃ , acquisire lead e far crescere la tua azienda. Con Aenfinite, il tuo marchio ottiene un partner digitale focalizzato sulla crescita, non solo un fornitore di servizi di marketing.</p>
+                  <p>Creiamo campagne di marketing basate sui dati che generano risultati misurabili. Il nostro team è specializzato in strategie SEO, PPC e social media per aumentare la visibilità, acquisire lead e far crescere la tua azienda. Con Aenfinite, il tuo marchio ottiene un partner digitale focalizzato sulla crescita, non solo un fornitore di servizi di marketing.</p>
                 </div>
                 <div class="service-action">
                   <a href="/it/contact/" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                   </a>
                 </div>
               </div>
@@ -1014,16 +1014,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
               <div class="service-content js-service-content">
                 <div class="service-tags">
                   <div class="chips">
-                    <div class="chip"><a href="/it/services/ai-chatbots-&-virtual-assistants/" class="chip-label">Chatbot IA</a></div>
-                    <div class="chip"><a href="/it/services/workflow-&-business-automation/" class="chip-label">Automazione</a></div>
+                    <div class="chip"><a href="/it/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbot IA</a></div>
+                    <div class="chip"><a href="/it/services/workflow-and-business-automation/" class="chip-label">Automazione</a></div>
                   </div>
                 </div>
                 <div class="service-text">
-                  <p>Resta all'avanguardia con le nostre soluzioni basate su IA e strumenti di automazione aziendale. Costruiamo chatbot, assistenti virtuali e flussi di lavoro intelligenti che risparmiano tempo, riducono i costi e scalano le operazioni. Aenfinite aiuta le aziende ad abbracciare il futuro della tecnologia con facilitÃ  e sicurezza.</p>
+                  <p>Resta all'avanguardia con le nostre soluzioni basate su IA e strumenti di automazione aziendale. Costruiamo chatbot, assistenti virtuali e flussi di lavoro intelligenti che risparmiano tempo, riducono i costi e scalano le operazioni. Aenfinite aiuta le aziende ad abbracciare il futuro della tecnologia con facilità e sicurezza.</p>
                 </div>
                 <div class="service-action">
                   <a href="/it/contact/" class="redlink">
-                    <span>Scopri di PiÃ¹</span>
+                    <span>Scopri di Più</span>
                   </a>
                 </div>
               </div>
@@ -1044,7 +1044,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="marquee js-marquee-content">
     <div class="marquee-item">Soluzioni IT e Digitali End-to-End</div>					
     <div class="marquee-item">Esperti in Web, App e Design UI/UX</div>					
-    <div class="marquee-item">Agenzia Globale di Tecnologia e CreativitÃ </div>					
+    <div class="marquee-item">Agenzia Globale di Tecnologia e Creatività</div>					
     <div class="marquee-item">Scelti da Aziende in Tutto il Mondo</div>					
     <div class="marquee-item">Guidati dall'Innovazione e dai Risultati</div>					
 </div>
@@ -1097,14 +1097,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
       <label for="wordpress-websites" class="list-item-label">Siti Web WordPress</label>
     </span>
 
-    <!-- Design e CreativitÃ  -->
+    <!-- Design e Creatività -->
     <span class="list-item">
       <input type="checkbox" name="services" value="Design UI/UX" id="ui-ux-design" />
       <label for="ui-ux-design" class="list-item-label">Design UI/UX</label>
     </span>
     <span class="list-item">
-      <input type="checkbox" name="services" value="IdentitÃ  di Marca e Strategia" id="brand-identity" />
-      <label for="brand-identity" class="list-item-label">IdentitÃ  di Marca</label>
+      <input type="checkbox" name="services" value="Identità di Marca e Strategia" id="brand-identity" />
+      <label for="brand-identity" class="list-item-label">Identità di Marca</label>
     </span>
     <span class="list-item">
       <input type="checkbox" name="services" value="Graphic Design" id="graphic-design" />
@@ -1219,17 +1219,17 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
           <div>
             <div class="preview">
               <div class="preview-media">
-                <img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 IdentitÃ  di Marca - Design del Logo Collection" loading="lazy" decoding="async" />
+                <img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Identità di Marca - Design del Logo Collection" loading="lazy" decoding="async" />
                 <div class="preview-action">
                   <a href="#" class="not-index">Vedi collezione (8 immagini)</a>
                 </div>
               </div>
               <div class="preview-content" data-index="01">
                 <div class="preview-name preview-name__caption">
-                  <a href="#">CycleThe6 - IdentitÃ  di Marca & Logo Collection</a>
+                  <a href="#">CycleThe6 - Identità di Marca & Logo Collection</a>
                 </div>
                 <div class="preview-name">Lavori in Evidenza</div>
-                <div class="preview-name">IdentitÃ  di Marca</div>
+                <div class="preview-name">Identità di Marca</div>
                 <div class="preview-name">Design del Logo</div>
                 <div class="preview-name">Branding Sportivo</div>
               </div>
@@ -1240,7 +1240,7 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
           <div>
             <div class="preview">
               <div class="preview-media">
-                <img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance Branding - Luxury IdentitÃ  di Marca" loading="lazy" decoding="async" />
+                <img src="/wp-content/themes/aenfinite.com/processed/muskfume.avif" alt="Muskfume Fragrance Branding - Luxury Identità di Marca" loading="lazy" decoding="async" />
                 <div class="preview-action">
                   <a href="#" class="not-index">Vedi collezione (5 immagini)</a>
                 </div>
@@ -1252,7 +1252,7 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
                 <div class="preview-name">Lavori in Evidenza</div>
                 <div class="preview-name">Branding di Lusso</div>
                 <div class="preview-name">Bellezza e Cosmetici</div>
-                <div class="preview-name">IdentitÃ  di Fragranze</div>
+                <div class="preview-name">Identità di Fragranze</div>
               </div>
             </div>
           </div>
@@ -1336,7 +1336,7 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
                 <div class="preview-name">Lavori in Evidenza</div>
                 <div class="preview-name">Branding Tecnologico</div>
                 <div class="preview-name">Soluzioni Algoritmiche</div>
-                <div class="preview-name">IdentitÃ  di Startup</div>
+                <div class="preview-name">Identità di Startup</div>
               </div>
             </div>
           </div>
@@ -1347,12 +1347,12 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
               <div class="preview-media">
                 <img src="/wp-content/themes/aenfinite.com/processed/afropopthumbnail.avif" alt="AfroPop Collaboration Platform - Social Network Design" loading="lazy" decoding="async" />
                 <div class="preview-action">
-                  <a href="/it/work/afropop/" class="not-index">Vedi progetto</a>
+                  <a href="/it/work/afropopup/" class="not-index">Vedi progetto</a>
                 </div>
               </div>
               <div class="preview-content" data-index="07">
                 <div class="preview-name preview-name__caption">
-                  <a href="/it/work/afropop/">AfroPop - Collaboration Platform & Social Network</a>
+                  <a href="/it/work/afropopup/">AfroPop - Collaboration Platform & Social Network</a>
                 </div>
                 <div class="preview-name">Lavori in Evidenza</div>
                 <div class="preview-name">Piattaforma Social</div>
@@ -1387,17 +1387,17 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
           <div>
             <div class="preview">
               <div class="preview-media">
-                <img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance Servizi - Professional IdentitÃ  Aziendale" loading="lazy" decoding="async" />
+                <img src="/wp-content/themes/aenfinite.com/processed/amkiservicethumbnail.avif" alt="AM-KI Compliance Servizi - Professional Identità Aziendale" loading="lazy" decoding="async" />
                 <div class="preview-action">
                   <a href="/it/work/amkiservice/" class="not-index">Vedi progetto</a>
                 </div>
               </div>
               <div class="preview-content" data-index="09">
                 <div class="preview-name preview-name__caption">
-                  <a href="/it/work/amkiservice/">AM-KI - Compliance Servizi & IdentitÃ  Aziendale</a>
+                  <a href="/it/work/amkiservice/">AM-KI - Compliance Servizi & Identità Aziendale</a>
                 </div>
                 <div class="preview-name">Lavori in Evidenza</div>
-                <div class="preview-name">IdentitÃ  Aziendale</div>
+                <div class="preview-name">Identità Aziendale</div>
                 <div class="preview-name">Professional Servizi</div>
                 <div class="preview-name">Business Branding</div>
               </div>
@@ -1410,12 +1410,12 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
               <div class="preview-media">
                 <img src="/wp-content/themes/aenfinite.com/processed/mockup-link.avif" alt="Luna Wick Branding Creativo - Artistic Design Excellence" loading="lazy" decoding="async" />
                 <div class="preview-action">
-                  <a href="/it/work/web-design-&-development/" class="not-index">Vedi progetto</a>
+                  <a href="/it/work/web-design-and-development/" class="not-index">Vedi progetto</a>
                 </div>
               </div>
               <div class="preview-content" data-index="10">
                 <div class="preview-name preview-name__caption">
-                  <a href="/it/work/web-design-&-development/">Luna Wick - Branding Creativo & Artistic Excellence</a>
+                  <a href="/it/work/web-design-and-development/">Luna Wick - Branding Creativo & Artistic Excellence</a>
                 </div>
                 <div class="preview-name">Lavori in Evidenza</div>
                 <div class="preview-name">Branding Creativo</div>
@@ -1429,7 +1429,7 @@ Creiamo soluzioni di design e tecnologia ad alto impatto basate sui dati che ali
       </div>
 
       <div class="section-footer js-aos appear">
-        <a href="../work/" class="redlink">
+        <a href="/it/work/" class="redlink">
           <span>Vedi tutti i progetti</span>
         </a>
       </div>
@@ -1491,7 +1491,7 @@ from our clients</div>
 						<div class="footer-caption">
 							<div class="title title__default">
 								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
-								<a href="../contact/" class="redlink">
+								<a href="/it/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -1504,20 +1504,20 @@ from our clients</div>
 								<div class="footer-col_caption">Azienda</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agenzia</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/it/agency/">Agenzia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">Servizi</a></li>
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contatto</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Servizi</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../services/web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../services/wordpress-websites/">Siti Web WordPress</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../services/branding/">Branding</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../services/packaging-design/">Design del Packaging</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="../services/graphic-design/">Graphic Design</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/it/services/web-design/">Web Design</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/it/services/wordpress-websites/">Siti Web WordPress</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/it/services/branding/">Branding</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/it/services/packaging-design/">Design del Packaging</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="/it/services/graphic-design/">Graphic Design</a></li>
 
 </ul>														</div>
 							</div>
@@ -1526,12 +1526,12 @@ from our clients</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/">Collabora con noi</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/white-label-services/">Servizi White Label</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/referral-program/">Programma di Referral</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../agency/partner-with-us/ghl-services/">Servizi GHL</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/">Collabora con noi</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/white-label-services/">Servizi White Label</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/referral-program/">Programma di Referral</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/it/agency/partner-with-us/ghl-services/">Servizi GHL</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../contact/">Contatto</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/it/contact/">Contatto</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
@@ -1580,7 +1580,7 @@ from our clients</div>
 						<div class="menu-header">
 							<div class="topbar">
 								<div class="topbar-logo">
-									<a href="../">
+									<a href="/it/">
 										<img src="/wp-content/themes/aenfinite.com/images/aenfinite-full.svg" alt="Aenfinite" loading="lazy" decoding="async" />
 									</a>
 								</div>
@@ -1589,13 +1589,13 @@ from our clients</div>
 						</div>
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/it/featured-work/">Portfolio</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../agency/">Agenzia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/it/agency/">Agenzia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">Servizi</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../contact/">Contatto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/it/contact/">Contatto</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../contact/">Contatto</a>
+							<a class="menu-contact" href="/it/contact/">Contatto</a>
 							<a class="menu-email" href="mailto:hello@aenfinite.com">Scrivici un'email</a>
 						</div>
 					</div>
@@ -1604,7 +1604,7 @@ from our clients</div>
 		
 		</div>
 
-				<a href="contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
+				<a href="/it/contact/" class="to-contact">Nuovo Progetto?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">Prenota un Incontro</a>
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
@@ -1847,7 +1847,7 @@ document.addEventListener('keydown', function(event) {
 					</span>
 					<span class="cookie-banner__message">
 						Utilizziamo i cookie per migliorare la tua esperienza utente. Cliccando ACCETTA o continuando a navigare, accetti la nostra
-						<a href="../privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
+						<a href="/it/privacy-policy/" class="cookie-banner__link" target="_blank">Informativa sulla Privacy</a>.
 					</span>
 				</div>
 				<button class="cookie-banner__button">Accetta</button>

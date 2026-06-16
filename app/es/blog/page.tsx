@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Diseño Web & Marketing Digital Blog | Expert Tips & Insights | Aenfinite®",
+  title: "Diseño Web & Marketing Digital Blog | Expert Tips & Insights",
   description: "Expert insights on web design, logo design, digital marketing, and branding. Get the latest tips, trends, and strategies to grow your business online.",
   keywords: "web design blog, digital marketing blog, branding tips, SEO insights, design trends, marketing strategies, Aenfinite blog",
   openGraph: {"title":"Diseño Web & Marketing Digital Blog | Expert Tips & Insights | Aenfinite®","description":"Expert insights on web design, logo design, digital marketing, and branding. Get the latest tips, trends, and strategies to grow your business online.","url":"https://aenfinite.com/es/blog/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -39,24 +39,24 @@ const pageContent = `<script>
     <div class="blog-posts">
         <!-- Blog posts would be dynamically loaded here -->
         <article class="blog-post">
-            <h2><a href="/es/blog/10-web-design-trends-2025/">10 Diseño Web Trends That Will Dominate 2025</a></h2>
+            <h2><a href="/es/blog/">10 Diseño Web Trends That Will Dominate 2025</a></h2>
             <div class="meta">Published: January 15, 2025 | Category: Diseño Web</div>
             <p>Discover the latest web design trends that will shape user experience and drive conversions in 2025...</p>
-            <a href="/es/blog/10-web-design-trends-2025/">Leer Más →</a>
+            <a href="/es/blog/">Leer Más →</a>
         </article>
         
         <article class="blog-post">
-            <h2><a href="/es/blog/logo-design-psychology/">The Psychology Behind Effective Diseño de Logotipos</a></h2>
+            <h2><a href="/es/blog/">The Psychology Behind Effective Diseño de Logotipos</a></h2>
             <div class="meta">Published: January 10, 2025 | Category: Diseño de Logotipos</div>
             <p>Learn how color, shape, and typography in logo design influence customer perception and brand success...</p>
-            <a href="/es/blog/logo-design-psychology/">Leer Más →</a>
+            <a href="/es/blog/">Leer Más →</a>
         </article>
         
         <article class="blog-post">
-            <h2><a href="/es/blog/seo-strategies-2025/">Local SEO Strategies for Denver Businesses</a></h2>
+            <h2><a href="/es/blog/">Local SEO Strategies for Denver Businesses</a></h2>
             <div class="meta">Published: January 5, 2025 | Category: SEO</div>
             <p>Dominate your local market with these proven SEO strategies specifically designed for Denver businesses...</p>
-            <a href="/es/blog/seo-strategies-2025/">Leer Más →</a>
+            <a href="/es/blog/">Leer Más →</a>
         </article>
     </div>
 

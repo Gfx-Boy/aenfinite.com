@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite",
+  title: "Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스",
   description: "Aenfinite delivers premier conference branding and event identity design services that captivate audiences and strengthen brand presence. We craft cohesive event visuals, signage, digital assets, and complete branding strategies for memorable conference experiences.",
   keywords: "conference branding, event branding, event identity design, conference signage, event marketing, trade show branding, conference visual identity, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/conference-branding/", languages: {"x-default":"https://aenfinite.com/services/conference-branding/","en":"https://aenfinite.com/services/conference-branding/","es":"https://aenfinite.com/es/services/conference-branding/","fr":"https://aenfinite.com/fr/services/conference-branding/","de":"https://aenfinite.com/de/services/conference-branding/","it":"https://aenfinite.com/it/services/conference-branding/","ar":"https://aenfinite.com/ar/services/conference-branding/","pt":"https://aenfinite.com/pt/services/conference-branding/","zh":"https://aenfinite.com/zh/services/conference-branding/","hi":"https://aenfinite.com/hi/services/conference-branding/","nl":"https://aenfinite.com/nl/services/conference-branding/","ja":"https://aenfinite.com/ja/services/conference-branding/","ko":"https://aenfinite.com/ko/services/conference-branding/"} },
-  openGraph: {"title":"Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite","description":"Aenfinite specializes in creative conference branding and event identity design. From logo and stage visuals to attendee experiences, we bring your event to life with impactful design.","url":"https://aenfinite.com/ko/services/conference-branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite","description":"Aenfinite designs powerful conference branding and event identity visuals that elevate your conference presence and captivate attendees.","images":["https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"]},
+  openGraph: {"title":"Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스 | Aenfinite","description":"Aenfinite specializes in creative conference branding and event identity design. From logo and stage visuals to attendee experiences, we bring your event to life with impactful design.","url":"https://aenfinite.com/ko/services/conference-branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스 | Aenfinite","description":"Aenfinite designs powerful conference branding and event identity visuals that elevate your conference presence and captivate attendees.","images":["https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1104,63 +1104,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a>
+								<a href="/ko/featured-work/">포트폴리오</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ko/agency/">ì—ì´ì „ì‹œ</a>
+								<a href="/ko/agency/">에이전시</a>
 							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/ko/services/">ì„œë¹„ìŠ¤</a>
+                                <a href="/ko/services/">서비스</a>
                               <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ê°œë°œ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">개발 솔루션 ›</a>
 										<ul class="sub-menu">
 											                                            
-											<li><a href="/ko/services/wordpress-websites/">WordPress ì›¹ì‚¬ì´íŠ¸</a></li>
-<li><a href="/ko/services/e-commerce-websites/">ì´ì»¤ë¨¸ìŠ¤ ì›¹ì‚¬ì´íŠ¸</a></li>
-											<li><a href="/ko/services/custom-web-development">ë§žì¶¤í˜• ì›¹ ê°œë°œ</a></li>
-											<li><a href="/ko/services/software-&-platform-development/">ì†Œí”„íŠ¸ì›¨ì–´ ë° í”Œëž«í¼ ê°œë°œ</a></li>
-											<li><a href="/ko/services/app-development/">ì•± ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design/">ì›¹ì‚¬ì´íŠ¸ ë””ìžì¸ ë° ê°œë°œ</a></li>
-											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">ë¶€ë™ì‚° ì›¹ ì†”ë£¨ì…˜</a></li>									</ul>
+											<li><a href="/ko/services/wordpress-websites/">WordPress 웹사이트</a></li>
+<li><a href="/ko/services/e-commerce-websites/">이커머스 웹사이트</a></li>
+											<li><a href="/ko/services/custom-web-development/">맞춤형 웹 개발</a></li>
+											<li><a href="/ko/services/software-and-platform-development/">소프트웨어 및 플랫폼 개발</a></li>
+											<li><a href="/ko/services/app-development/">앱 개발</a></li>
+											<li><a href="/ko/services/web-design/">웹사이트 디자인 및 개발</a></li>
+											<li><a href="/ko/services/web-design-and-branding-for-real-estate/">부동산 웹 솔루션</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë””ìžì¸ ë° í¬ë¦¬ì—ì´í‹°ë¸Œ ì„œë¹„ìŠ¤ â€º</a>
+										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX ë””ìžì¸</a></li>
-											<li><a href="/ko/services/branding/">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ë° ì „ëžµ</a></li>
-											<li><a href="/ko/services/graphic-design/">ê·¸ëž˜í”½ ë””ìžì¸</a></li> <li><a href="/ko/services/logo-design/">ë¡œê³  ë””ìžì¸</a></li>
+											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
+											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 											
-											<li><a href="/ko/services/trade-show-booth-design/">ì „ì‹œíšŒ ë¶€ìŠ¤ ë””ìžì¸</a></li>
-											<li><a href="/ko/services/conference-branding/">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></li>
+											<li><a href="/ko/services/trade-show-booth-design/">전시회 부스 디자인</a></li>
+											<li><a href="/ko/services/conference-branding/">컨퍼런스 브랜딩</a></li>
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">ë§ˆì¼€íŒ… ë° ë””ì§€í„¸ ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">마케팅 및 디지털 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/digital-marketing/">ë””ì§€í„¸ ë§ˆì¼€íŒ… ì „ëžµ</a></li>
-											<li><a href="/ko/services/search-engine-optimization/">ê²€ìƒ‰ ì—”ì§„ ìµœì í™” (SEO)</a></li>
-											<li><a href="/ko/services/pay-per-click">í´ë¦­ë‹¹ ê³¼ê¸ˆ (PPC) ê´‘ê³ </a></li>
-											<li><a href="/ko/services/social-media-marketing/">ì†Œì…œ ë¯¸ë””ì–´ ë§ˆì¼€íŒ…</a></li> <li><a href="/ko/services/paid-ads/">ìœ ë£Œ ê´‘ê³ </a></li>
+											<li><a href="/ko/services/digital-marketing/">디지털 마케팅 전략</a></li>
+											<li><a href="/ko/services/search-engine-optimization/">검색 엔진 최적화 (SEO)</a></li>
+											<li><a href="/ko/services/pay-per-click/">클릭당 과금 (PPC) 광고</a></li>
+											<li><a href="/ko/services/social-media-marketing/">소셜 미디어 마케팅</a></li> <li><a href="/ko/services/paid-ads/">유료 광고</a></li>
 
 										</ul>
 									</li>
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI ë° ê¸°ìˆ  ì†”ë£¨ì…˜ â€º</a>
+										<a href="#">AI 및 기술 솔루션 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ai-chatbots-&-virtual-assistants/">AI ì±—ë´‡ ë° ê°€ìƒ ë¹„ì„œ</a></li>
-											<li><a href="/ko/services/workflow-&-business-automation/">ì›Œí¬í”Œë¡œ ë° ë¹„ì¦ˆë‹ˆìŠ¤ ìžë™í™”</a></li>
+											<li><a href="/ko/services/ai-chatbots-and-virtual-assistants/">AI 챗봇 및 가상 비서</a></li>
+											<li><a href="/ko/services/workflow-and-business-automation/">워크플로 및 비즈니스 자동화</a></li>
 										</ul>
 									</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - íŒŒíŠ¸ë„ˆì‹­ Style */
+                            </li><style>/* Multi-Level Dropdown Navigation Styles - 파트너십 Style */
 .menu-item-has-children {
     position: relative;
 }
 
-/* Main dropdown from ì„œë¹„ìŠ¤ menu - adaptive styling */
+/* Main dropdown from 서비스 menu - adaptive styling */
 .dropdown-list {
     position: absolute;
     top: 100%;
@@ -1274,10 +1274,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
-						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
+						<ul id="menu-header-contact-left" class="menuss"><li id="menu-item-4954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4954"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
 </ul>					</div>
 					<div class="topbar-contact desktop">
-						<a href="/ko/contact/" class="topbar-contact_button">ë¬¸ì˜</a>
+						<a href="/ko/contact/" class="topbar-contact_button">문의</a>
 					</div>
 					<div class="menu-button mobile js-menu-toggle"><i></i></div>
 				</div>
@@ -1286,7 +1286,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="mainnav-dropdown-layer-container js-dropdown-layer-text">
 					<div class="wrapper">
 						<div class="mainnav-dropdown-layer-text">
-							í•„ìš”í•œ ì„œë¹„ìŠ¤ë¥¼ ì°¾ì§€ ëª»í•˜ì…¨ë‹¤ë©´, ì €í¬ì—ê²Œ ì—°ë½í•´ ì£¼ì‹œë©´ í•¨ê»˜ í•´ê²° ë°©ì•ˆì„ ì°¾ì•„ë“œë¦¬ê² ìŠµë‹ˆë‹¤ <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
+							필요한 서비스를 찾지 못하셨다면, 저희에게 연락해 주시면 함께 해결 방안을 찾아드리겠습니다 <a href="mailto:hello@aenfinite.com">hello@aenfinite.com</a>
 						</div>
 					</div>
 				</div>
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Premier <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</span> that creates impactful <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">event identities</span> and engages attendees.</span>
+						<span>Premier <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">컨퍼런스 브랜딩</span> that creates impactful <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">event identities</span> and engages attendees.</span>
 													
 											</h1>
 									</div>
@@ -1353,16 +1353,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">ì „ë¬¸ ë¸Œëžœë”© ì„œë¹„ìŠ¤ ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°, ë¡œê³  ë””ìžì¸ & Visual Strategy</span>
-    <span class="marquee-line_text">ë¯¸êµ­, ìºë‚˜ë‹¤ ë° ì „ ì„¸ê³„ ê³ ê° ì„œë¹„ìŠ¤</span>
-    <span class="marquee-line_text">Specialists in ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° & Creative Design</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses for ë¸Œëžœë”© Solutions</span>
-    <span class="marquee-line_text">High-Impact ë¸Œëžœë“œ ë””ìžì¸ & Identity ê°œë°œ</span>
-    <span class="marquee-line_text">Professional ë¸Œëžœë”© ë° ë¡œê³  ë””ìžì¸ Solutions</span>
-    <span class="marquee-line_text">ì „ë¬¸ ë¸Œëžœë”© ì—ì´ì „ì‹œ with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive ë¸Œëžœë“œ ì „ëžµ & Design Support</span>
-    <span class="marquee-line_text">Custom ë¸Œëžœë”© Solutions for Every Industry</span>
+    <span class="marquee-line_text">전문 브랜딩 서비스 서비스</span>
+    <span class="marquee-line_text">브랜드 아이덴티티, 로고 디자인 & Visual Strategy</span>
+    <span class="marquee-line_text">미국, 캐나다 및 전 세계 고객 서비스</span>
+    <span class="marquee-line_text">Specialists in 브랜드 아이덴티티 & Creative Design</span>
+    <span class="marquee-line_text">Trusted by Growing Businesses for 브랜딩 Solutions</span>
+    <span class="marquee-line_text">High-Impact 브랜드 디자인 & Identity 개발</span>
+    <span class="marquee-line_text">Professional 브랜딩 및 로고 디자인 Solutions</span>
+    <span class="marquee-line_text">전문 브랜딩 에이전시 with Proven Results</span>
+    <span class="marquee-line_text">Comprehensive 브랜드 전략 & Design Support</span>
+    <span class="marquee-line_text">Custom 브랜딩 Solutions for Every Industry</span>
     <span class="marquee-line_text">Brand Consistency & Multi-Platform Implementation</span>
     <span class="marquee-line_text">Scalable Brand Systems & Long-term Recognition</span>
 </div>
@@ -1372,16 +1372,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© - Professional Event Display Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ko/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall 컨퍼런스 브랜딩 - Professional Event Display Design" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ASC Media Wall ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a></div>
-																																		<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">ASC Media Wall 컨퍼런스 브랜딩</a></div>
+																																		<div class="preview-name">컨퍼런스 브랜딩</div>
 																							<div class="preview-name">Media Wall Design</div>
 																							<div class="preview-name">Event Identity</div>
 																							<div class="preview-name">Visual Communication</div>
@@ -1393,18 +1393,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸ Mockup - Professional Conference ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ko/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="브랜드 가이드라인 Mockup - Professional Conference 브랜드 아이덴티티 System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸ & Identity System</a></div>
-																																		<div class="preview-name">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">브랜드 가이드라인 & Identity System</a></div>
+																																		<div class="preview-name">브랜드 가이드라인</div>
 																							<div class="preview-name">Identity Design</div>
-																							<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+																							<div class="preview-name">컨퍼런스 브랜딩</div>
 																							<div class="preview-name">Brand Standards</div>
 																					</div>
 									</div>
@@ -1414,19 +1414,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference ë¡œê³  ë””ìžì¸ - Professional Event ë¸Œëžœë”©" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ko/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference 로고 디자인 - Professional Event 브랜딩" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">CycleThe6 Event ë¸Œëžœë”©</a></div>
-																																		<div class="preview-name">Event ë¡œê³  ë””ìžì¸</div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">CycleThe6 Event 브랜딩</a></div>
+																																		<div class="preview-name">Event 로고 디자인</div>
 																							<div class="preview-name">Conference Identity</div>
-																							<div class="preview-name">Brand ê°œë°œ</div>
-																							<div class="preview-name">ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</div>
+																							<div class="preview-name">Brand 개발</div>
+																							<div class="preview-name">비주얼 아이덴티티</div>
 																					</div>
 									</div>
 								</div>
@@ -1435,19 +1435,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
+									<a href="/ko/work/branding/">
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">Conference Stationery Design</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">Conference Stationery Design</a></div>
 																																		<div class="preview-name">Event Stationery</div>
-																							<div class="preview-name">ë¸Œëžœë“œ ì¸ì‡„ë¬¼</div>
+																							<div class="preview-name">브랜드 인쇄물</div>
 																							<div class="preview-name">Conference Materials</div>
-																							<div class="preview-name">ì¸ì‡„ ë””ìžì¸</div>
+																							<div class="preview-name">인쇄 디자인</div>
 																					</div>
 									</div>
 								</div>
@@ -1456,19 +1456,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© Design System" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ko/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - 컨퍼런스 브랜딩 Design System" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">MuskFume Brand Presentation</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">MuskFume Brand Presentation</a></div>
 																																		<div class="preview-name">Brand Presentation</div>
-																							<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+																							<div class="preview-name">컨퍼런스 브랜딩</div>
 																							<div class="preview-name">Visual System</div>
-																							<div class="preview-name">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</div>
+																							<div class="preview-name">브랜드 아이덴티티</div>
 																					</div>
 									</div>
 								</div>
@@ -1477,19 +1477,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<div>
 							<div class="shiftbox">
 								<div class="shiftbox-image">
-									<a href="../../work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="ì „ë¬¸ ë¸Œëžœë”© Mockup - Conference ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Design" class="cover" loading="lazy" decoding="async" />
-									    <a href="../../work/branding/" class="shiftbox-link"> </a>
+									<a href="/ko/work/branding/">
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="전문 브랜딩 Mockup - Conference 브랜드 아이덴티티 Design" class="cover" loading="lazy" decoding="async" />
+									    <a href="/ko/work/branding/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="../../work/branding/">ì „ë¬¸ ë¸Œëžœë”© Mockup</a></div>
+											<div class="preview-name preview-name__caption"><a href="/ko/work/branding/">전문 브랜딩 Mockup</a></div>
 																																		<div class="preview-name">Brand Mockup</div>
 																							<div class="preview-name">Identity Design</div>
-																							<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
-																							<div class="preview-name">ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</div>
+																							<div class="preview-name">컨퍼런스 브랜딩</div>
+																							<div class="preview-name">비주얼 아이덴티티</div>
 																					</div>
 									</div>
 								</div>
@@ -1508,7 +1508,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© services that create impactful, memorable event identities and drive attendee engagement. We manage comprehensive conference brand strategy, event identity design, brand activation, and event collateral implementation that generate exceptional conference experiences and long-term event success.</div>
+				<div class="textbox-content">Aenfinite delivers Premier 컨퍼런스 브랜딩 services that create impactful, memorable event identities and drive attendee engagement. We manage comprehensive conference brand strategy, event identity design, brand activation, and event collateral implementation that generate exceptional conference experiences and long-term event success.</div>
 									<div class="textbox-action">
 						<a href="/ko/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1566,7 +1566,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite ë¸Œëžœë”© & Identity Design Case Studies</h2>
+						<h2>Aenfinite 브랜딩 & Identity Design Case Studies</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein">
@@ -1574,14 +1574,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© - Professional Event Display Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall 컨퍼런스 브랜딩 - Professional Event Display Design" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ASC Media Wall ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</a>
+											<a href="/ko/work/branding/">ASC Media Wall 컨퍼런스 브랜딩</a>
 										</div>
-																					<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+																					<div class="preview-name">컨퍼런스 브랜딩</div>
 																					<div class="preview-name">Media Wall Design</div>
 																					<div class="preview-name">Event Identity</div>
 																					<div class="preview-name">Visual Communication</div>
@@ -1592,16 +1592,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸ Mockup - Professional Conference ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/brand_guidelines_mockup.avif" alt="브랜드 가이드라인 Mockup - Professional Conference 브랜드 아이덴티티 System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸ & Identity System</a>
+											<a href="/ko/work/branding/">브랜드 가이드라인 & Identity System</a>
 										</div>
-																					<div class="preview-name">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</div>
+																					<div class="preview-name">브랜드 가이드라인</div>
 																					<div class="preview-name">Identity Design</div>
-																					<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+																					<div class="preview-name">컨퍼런스 브랜딩</div>
 																					<div class="preview-name">Brand Standards</div>
 											
 									</div>
@@ -1610,17 +1610,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference ë¡œê³  ë””ìžì¸ - Professional Event ë¸Œëžœë”©" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Conference 로고 디자인 - Professional Event 브랜딩" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">CycleThe6 Event ë¸Œëžœë”©</a>
+											<a href="/ko/work/branding/">CycleThe6 Event 브랜딩</a>
 										</div>
-																					<div class="preview-name">Event ë¡œê³  ë””ìžì¸</div>
+																					<div class="preview-name">Event 로고 디자인</div>
 																					<div class="preview-name">Conference Identity</div>
-																					<div class="preview-name">Brand ê°œë°œ</div>
-																					<div class="preview-name">ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</div>
+																					<div class="preview-name">Brand 개발</div>
+																					<div class="preview-name">비주얼 아이덴티티</div>
 											
 									</div>
 								</div>
@@ -1629,16 +1629,16 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<div class="preview">									
 									<div class="preview-media">										
 										<img src="/wp-content/themes/aenfinite.com/processed/stationery-2.avif" alt="Professional Conference Stationery Design - Branded Event Materials" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">Conference Stationery Design</a>
+											<a href="/ko/work/branding/">Conference Stationery Design</a>
 										</div>
 																					<div class="preview-name">Event Stationery</div>
-																					<div class="preview-name">ë¸Œëžœë“œ ì¸ì‡„ë¬¼</div>
+																					<div class="preview-name">브랜드 인쇄물</div>
 																					<div class="preview-name">Conference Materials</div>
-																					<div class="preview-name">ì¸ì‡„ ë””ìžì¸</div>
+																					<div class="preview-name">인쇄 디자인</div>
 											
 									</div>
 								</div>
@@ -1646,17 +1646,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© Design System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/muskfume_presentation-08.avif" alt="MuskFume Brand Presentation - 컨퍼런스 브랜딩 Design System" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">MuskFume Brand Presentation</a>
+											<a href="/ko/work/branding/">MuskFume Brand Presentation</a>
 										</div>
 																					<div class="preview-name">Brand Presentation</div>
-																					<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
+																					<div class="preview-name">컨퍼런스 브랜딩</div>
 																					<div class="preview-name">Visual System</div>
-																					<div class="preview-name">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹°</div>
+																					<div class="preview-name">브랜드 아이덴티티</div>
 											
 									</div>
 								</div>
@@ -1664,17 +1664,17 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="ì „ë¬¸ ë¸Œëžœë”© Mockup - Conference ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Design" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="../../work/branding/" class="not-index">í”„ë¡œì íŠ¸ ë³´ê¸°</a></div>										
+										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="전문 브랜딩 Mockup - Conference 브랜드 아이덴티티 Design" loading="lazy" decoding="async" />
+										<div class="preview-action"><a href="/ko/work/branding/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">
 										<div class="preview-name preview-name__caption">
-											<a href="../../work/branding/">ì „ë¬¸ ë¸Œëžœë”© Mockup</a>
+											<a href="/ko/work/branding/">전문 브랜딩 Mockup</a>
 										</div>
 																					<div class="preview-name">Brand Mockup</div>
 																					<div class="preview-name">Identity Design</div>
-																					<div class="preview-name">ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©</div>
-																					<div class="preview-name">ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</div>
+																					<div class="preview-name">컨퍼런스 브랜딩</div>
+																					<div class="preview-name">비주얼 아이덴티티</div>
 											
 									</div>
 								</div>
@@ -1682,8 +1682,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											</div>
 				</div>
 				<div class="section-footer js-aos appear">
-					<a href="../../work/branding/" class="redlink">
-						<span>ëª¨ë“  í”„ë¡œì íŠ¸ ë³´ê¸°</span>
+					<a href="/ko/work/branding/" class="redlink">
+						<span>모든 프로젝트 보기</span>
 					</a>
 				</div>
 			</div>
@@ -1694,12 +1694,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>ë¬¸ì˜ Aenfinite for ì „ë¬¸ ë¸Œëžœë”© ì„œë¹„ìŠ¤</h2>
+				<h2>문의 Aenfinite for 전문 브랜딩 서비스</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"> <ul></ul></div>
-<form action="#" method="post" class="wpcf7-form init" aria-label="ë¬¸ì˜ form" novalidate="novalidate" data-status="init">
+<form action="#" method="post" class="wpcf7-form init" aria-label="문의 form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1252" />
 <input type="hidden" name="_wpcf7_version" value="6.0.6" />
@@ -1713,10 +1713,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div class="cell">
 	<div class="inputs">
 		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="ì´ë¦„*" value="" type="text" name="your-name" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="이름*" value="" type="text" name="your-name" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="ì´ë©”ì¼*" value="" type="email" name="your-email" />
+			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="이메일*" value="" type="email" name="your-email" />
 		</span>
 		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
 			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your branding project" value="" type="text" name="text-tell-project" />
@@ -1724,46 +1724,46 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 	<div class="checkbox-select">
-		<strong>ê´€ì‹¬ ë¶„ì•¼...</strong>
+		<strong>관심 분야...</strong>
 		<span class="form-control-wrap" data-name="checkbox-select">
 			<span class="form-control checkbox-group" style="padding-bottom: 50px">
 				<span class="list-item first">
-					<input type="checkbox" name="services" value="ë¡œê³  ë””ìžì¸" id="logo-design" />
-					<label for="logo-design" class="list-item-label">ë¡œê³  ë””ìžì¸</label>
+					<input type="checkbox" name="services" value="로고 디자인" id="logo-design" />
+					<label for="logo-design" class="list-item-label">로고 디자인</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ê°œë°œ" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° ê°œë°œ</label>
+					<input type="checkbox" name="services" value="브랜드 아이덴티티 개발" id="brand-identity" />
+					<label for="brand-identity" class="list-item-label">브랜드 아이덴티티 개발</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Visual ë¸Œëžœë”©" id="visual-branding" />
-					<label for="visual-branding" class="list-item-label">Visual ë¸Œëžœë”©</label>
+					<input type="checkbox" name="services" value="Visual 브랜딩" id="visual-branding" />
+					<label for="visual-branding" class="list-item-label">Visual 브랜딩</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ë¸Œëžœë“œ ì „ëžµ" id="brand-strategy" />
-					<label for="brand-strategy" class="list-item-label">ë¸Œëžœë“œ ì „ëžµ</label>
+					<input type="checkbox" name="services" value="브랜드 전략" id="brand-strategy" />
+					<label for="brand-strategy" class="list-item-label">브랜드 전략</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Corporate ë¸Œëžœë”©" id="corporate-branding" />
-					<label for="corporate-branding" class="list-item-label">Corporate ë¸Œëžœë”©</label>
+					<input type="checkbox" name="services" value="Corporate 브랜딩" id="corporate-branding" />
+					<label for="corporate-branding" class="list-item-label">Corporate 브랜딩</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="Rebranding ì„œë¹„ìŠ¤" id="rebranding" />
-					<label for="rebranding" class="list-item-label">Rebranding ì„œë¹„ìŠ¤</label>
+					<input type="checkbox" name="services" value="Rebranding 서비스" id="rebranding" />
+					<label for="rebranding" class="list-item-label">Rebranding 서비스</label>
 				</span>
 				<span class="list-item">
-					<input type="checkbox" name="services" value="ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸" id="brand-guidelines" />
-					<label for="brand-guidelines" class="list-item-label">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</label>
+					<input type="checkbox" name="services" value="브랜드 가이드라인" id="brand-guidelines" />
+					<label for="brand-guidelines" class="list-item-label">브랜드 가이드라인</label>
 				</span>
 				<span class="list-item last">
-					<input type="checkbox" name="services" value="ê¸°íƒ€ ë¸Œëžœë”© Solutions" id="other" />
-					<label for="other" class="list-item-label">ê¸°íƒ€ ë¸Œëžœë”© Solutions</label>
+					<input type="checkbox" name="services" value="기타 브랜딩 Solutions" id="other" />
+					<label for="other" class="list-item-label">기타 브랜딩 Solutions</label>
 				</span>
 			</span>
 		</span>
 
 		<div class="selectbox js-select">
-			<input class="selectbox-input js-select-holder" type="text" placeholder="ëŒ€ëžµì ì¸ ì˜ˆì‚°ì„ ì•Œë ¤ì£¼ì‹­ì‹œì˜¤" value="" readonly name="budget" />
+			<input class="selectbox-input js-select-holder" type="text" placeholder="대략적인 예산을 알려주십시오" value="" readonly name="budget" />
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
 			</div>
@@ -1778,7 +1778,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="ë³´ë‚´ê¸°" style="margin-bottom: 50px" />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="보내기" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -1794,7 +1794,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Conference ë¸Œëžœë“œ ë””ìžì¸ Expertise</h2>
+						<h2>Conference 브랜드 디자인 Expertise</h2>
 					</div>
 				</div>
 				<div class="textbox textbox__push js-aos appear">
@@ -1806,7 +1806,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference ë¡œê³  ë””ìžì¸</div>
+				<div class="pane-title">Conference 로고 디자인</div>
 				<div class="pane-subtitle">
 					<p>We create distinctive conference logos that represent your event's theme, mission, and personality. Each logo is designed to be memorable, adaptable across print and digital media, and reflective of the event's professional identity.</p>
 				</div>
@@ -1814,7 +1814,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Event ë¸Œëžœë“œ ì•„ì´ë´í‹°í‹° Design</div>
+				<div class="pane-title">Event 브랜드 아이덴티티 Design</div>
 				<div class="pane-subtitle">
 					<p>Our team develops cohesive event brand identities — from typography and color palettes to imagery and layouts — that unify your conference materials, digital presence, and on-site experience under a single recognizable brand.</p>
 				</div>
@@ -1822,7 +1822,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</div>
+				<div class="pane-title">Conference 브랜드 가이드라인</div>
 				<div class="pane-subtitle">
 					<p>We provide comprehensive brand guideline documents detailing logo usage, color systems, type hierarchy, and visual standards to ensure consistency across all touchpoints — from marketing materials to event signage.</p>
 				</div>
@@ -1846,7 +1846,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 			<div class="pane js-aos fadein">
 				<div class="pane-index"></div>
-				<div class="pane-title">Conference ë¸Œëžœë“œ ì „ëžµ</div>
+				<div class="pane-title">Conference 브랜드 전략</div>
 				<div class="pane-subtitle">
 					<p>Our strategic approach defines your conference's positioning, tone, and messaging framework. We analyze audience insights and event objectives to create a strategy that enhances attendee connection and sponsor engagement.</p>
 				</div>
@@ -1885,7 +1885,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Our ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© Process</h2>
+					<h2>Our 컨퍼런스 브랜딩 Process</h2>
 				</div>
 			</div>
 			<div class="nlist">
@@ -1901,7 +1901,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We start by analyzing your conference goals, audience demographics, and industry landscape. This research helps us uncover insights that define the event's purpose, tone, and visual direction.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>Event ë¸Œëžœë“œ ì „ëžµ</span>
+							<span>Event 브랜드 전략</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
 							<p>We develop a strategic foundation for your conference brand — including its mission, messaging framework, and positioning. This ensures your event communicates a unified message across all touchpoints.</p>
@@ -1922,13 +1922,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Conference Design</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
-							<span>Conference ë¡œê³  ë””ìžì¸</span>
+							<span>Conference 로고 디자인</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-2-1">
 							<p>We design a distinctive conference logo that embodies your event's essence, ensuring it's recognizable, versatile, and visually engaging across all digital and physical formats.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹° System</span>
+							<span>비주얼 아이덴티티 System</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-2">
 							<p>Our designers create a cohesive visual identity including color palettes, typography, patterns, and imagery that set the tone for all event materials and environments.</p>
@@ -1940,7 +1940,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<p>We design event badges, stage graphics, digital banners, and presentation templates that maintain consistent branding throughout the attendee journey.</p>
 						</div>
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-4">
-							<span>ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</span>
+							<span>브랜드 가이드라인</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-2-4">
 							<p>We compile a complete brand guide detailing logo usage, color schemes, and layout principles — ensuring consistent brand execution before, during, and after the conference.</p>
@@ -1955,7 +1955,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Brand Activation</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-							<span>On-Site ë¸Œëžœë”©</span>
+							<span>On-Site 브랜딩</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-3-1">
 							<p>We bring your brand to life at the venue through stage backdrops, booth graphics, signage, and wayfinding systems — creating a seamless branded environment for attendees.</p>
@@ -1988,7 +1988,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="nlist-caption">Post-Event Support</div>
 					<div class="nlist-tabs js-switch-tabs">
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>Ongoing ë¸Œëžœë”© Support</span>
+							<span>Ongoing 브랜딩 Support</span>
 						</div>
 						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
 							<p>We continue to support your event post-launch by refining materials, designing recap content, and preparing your brand identity for future editions.</p>
@@ -2020,7 +2020,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">ë¸Œëžœë”©</span> is the perfect balance of creativity and strategy. í¬íŠ¸í´ë¦¬ì˜¤ with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
+<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">브랜딩</span> is the perfect balance of creativity and strategy. 포트폴리오 with a team that crafts powerful identities and ensures your brand makes a lasting impact across every touchpoint.
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -2031,7 +2031,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite ë¸Œëžœë”© & Identity Design ì„œë¹„ìŠ¤</h2>
+					<h2>Aenfinite 브랜딩 & Identity Design 서비스</h2>
 				</div>
 			</div>
 			<div class="service-grid">
@@ -2040,11 +2040,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Logo & ë¹„ì£¼ì–¼ ì•„ì´ë´í‹°í‹°</div>
+							<div class="service-caption js-service-caption">Logo & 비주얼 아이덴티티</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/ko/contact/" class="chip-label">ë¡œê³  ë””ìžì¸</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">로고 디자인</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Color Palette</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Typography</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Iconography</a></div>
@@ -2073,7 +2073,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">ë¸Œëžœë“œ ì „ëžµ & Positioning</div>
+							<div class="service-caption js-service-caption">브랜드 전략 & Positioning</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2106,7 +2106,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 						<!-- Service 3 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">ë¸Œëžœë“œ ê°€ì´ë“œë¼ì¸</div>
+							<div class="service-caption js-service-caption">브랜드 가이드라인</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
@@ -2143,10 +2143,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/ko/contact/" class="chip-label">íŒ¨í‚¤ì§€ ë””ìžì¸</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">패키지 디자인</a></div>
 										<div class="chip"><a href="/ko/contact/" class="chip-label">Marketing Collateral</a></div>
-										<div class="chip"><a href="/ko/contact/" class="chip-label">Digital ë¸Œëžœë”©</a></div>
-										<div class="chip"><a href="/ko/contact/" class="chip-label">Environmental ë¸Œëžœë”©</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">Digital 브랜딩</a></div>
+										<div class="chip"><a href="/ko/contact/" class="chip-label">Environmental 브랜딩</a></div>
 									</div>
 								</div>
 								<div class="service-text">
@@ -2190,8 +2190,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>í”„ë¡œì íŠ¸ê°€ ìžˆìœ¼ì‹ ê°€ìš”? í•¨ê»˜ ë©‹ì§„ ê²ƒì„ ë§Œë“¤ì–´ ë´…ì‹œë‹¤.</span>
-								<a href="../../contact/" class="redlink">
+								<span>프로젝트가 있으신가요? 함께 멋진 것을 만들어 봅시다.</span>
+								<a href="/ko/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
 							</div>
@@ -2201,42 +2201,42 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<div class="footer-grid">
 							<div class="footer-col">
-								<div class="footer-col_caption">íšŒì‚¬</div>
+								<div class="footer-col_caption">회사</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
 
-<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
-								<div class="footer-col_caption">ì„œë¹„ìŠ¤</div>
+								<div class="footer-col_caption">서비스</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="../web-design/">ì›¹ ë””ìžì¸</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="../e-commerce-websites/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="../branding/">ë¸Œëžœë”©</a></li>
-<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="../packaging-design/">íŒ¨í‚¤ì§€ ë””ìžì¸</a></li>
-<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">ë¸Œëžœë”©</a></li>
+									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/ko/services/web-design/">웹 디자인</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/ko/services/e-commerce-websites/">브랜딩</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/ko/services/branding/">브랜딩</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/ko/services/packaging-design/">패키지 디자인</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">브랜딩</a></li>
 
 </ul>														</div>
 							</div>
 							<div class="footer-col ">
-								<div class="footer-col_caption">ì—°ê²°</div>
+								<div class="footer-col_caption">연결</div>
 								<div class="footer-col_list">
 
 <li id="menu-item-4966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4966"><a class="js-dropdown-layer-marker" target="_blank" href="https://www.instagram.com/aenfinite/">Instagram</a></li>
-<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/">íŒŒíŠ¸ë„ˆì‹­</a></li>
-<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/white-label-services/">í™”ì´íŠ¸ ë¼ë²¨ ì„œë¹„ìŠ¤</a></li>
-<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/referral-program/">ì¶”ì²œ í”„ë¡œê·¸ëž¨</a></li>
-<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="../../agency/partner-with-us/ghl-services/">GHL ì„œë¹„ìŠ¤</a></li>
+<li id="menu-item-4952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4952"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/">파트너십</a></li>
+<li id="menu-item-4952-1" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/white-label-services/">화이트 라벨 서비스</a></li>
+<li id="menu-item-4952-2" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/referral-program/">추천 프로그램</a></li>
+<li id="menu-item-4952-3" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="js-dropdown-layer-marker" href="/ko/agency/partner-with-us/ghl-services/">GHL 서비스</a></li>
 <li id="menu-item-4953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4953"><a class="js-dropdown-layer-marker" target="_blank" href="mailto:hello@aenfinite.com?subject=Project%20Inquiry">Email</a></li>
-<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="../../contact/">ë¬¸ì˜</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5977"><a class="js-dropdown-layer-marker" href="/ko/contact/">문의</a></li>
 </ul>								</div>
 							</div>
 							<div class="footer-col " style="padding-top: 15px !important; padding-left: 40px;">
-								<div class="footer-col_caption">ì£¼ì†Œ</div>
+								<div class="footer-col_caption">주소</div>
 								<div class="footer-col_list">
 									<ul>
 										<li>
@@ -2291,15 +2291,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">í¬íŠ¸í´ë¦¬ì˜¤</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="../../agency/">ì—ì´ì „ì‹œ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="../">ì„œë¹„ìŠ¤</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">포트폴리오</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ko/agency/">에이전시</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/ko/services/">서비스</a></li>
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="../../contact/">ë¬¸ì˜</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ko/contact/">문의</a></li>
 </ul>						</div>
 						<div class="menu-footer">
-							<a class="menu-contact" href="../../contact/">ë¬¸ì˜</a>
-							<a class="menu-email" href="mailto:hello@aenfinite.com">ì´ë©”ì¼ ë¬¸ì˜</a>
+							<a class="menu-contact" href="/ko/contact/">문의</a>
+							<a class="menu-email" href="mailto:hello@aenfinite.com">이메일 문의</a>
 						</div>
 					</div>
 				</div>
@@ -2307,14 +2307,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 		</div>
 
-				<a href="contact/" class="to-contact">ìƒˆ í”„ë¡œì íŠ¸?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</a>
+				<a href="/ko/contact/" class="to-contact">새 프로젝트?</a><a href="#" class="to-meeter" onclick="openCalendlyPopup(event)">미팅 예약하기</a>
 
 
 <div id="calendly-modal" class="calendly-modal" style="display: none;">
 	<div class="calendly-modal-content">
 		<div class="calendly-modal-header">
 			<span class="calendly-close" onclick="closeCalendlyPopup()">&times;</span>
-			<h3>ë¹„ì¦ˆë‹ˆìŠ¤ ë¯¸íŒ… ì˜ˆì•½í•˜ê¸°</h3>
+			<h3>비즈니스 미팅 예약하기</h3>
 		</div>
 		<div class="calendly-modal-body">
 			<div class="calendly-inline-widget" data-url="https://calendly.com/aenfinite/business-meeting" style="min-width:320px;height:630px;"></div>
@@ -2552,11 +2552,11 @@ document.addEventListener('keydown', function(event) {
 						</svg>
 					</span>
 					<span class="cookie-banner__message">
-						ì‚¬ìš©ìž ê²½í—˜ì„ í–¥ìƒì‹œí‚¤ê¸° ìœ„í•´ ì¿ í‚¤ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. ìˆ˜ë½ì„ í´ë¦­í•˜ê±°ë‚˜ ê³„ì† íƒìƒ‰í•˜ë©´ ë‹¹ì‚¬ì˜
-						<a href="../../privacy-policy/" class="cookie-banner__link" target="_blank">ê°œì¸ì •ë³´ ì²˜ë¦¬ë°©ì¹¨</a>.
+						사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 수락을 클릭하거나 계속 탐색하면 당사의
+						<a href="/ko/privacy-policy/" class="cookie-banner__link" target="_blank">개인정보 처리방침</a>.
 					</span>
 				</div>
-				<button class="cookie-banner__button">ìˆ˜ë½</button>
+				<button class="cookie-banner__button">수락</button>
 			</div>
 		</div>
 
@@ -2618,11 +2618,11 @@ document.addEventListener('keydown', function(event) {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2686,7 +2686,7 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <script  src="https://www.google.com/recaptcha/api234c.js?render=6LecDXgUAAAAAEvI5y3riqTuwsANQmQo9Y7B55Jf&amp;ver=3.0" id="google-recaptcha-js"></script>
 <!-- wp-polyfill removed -->
 
-	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
+	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
@@ -2716,7 +2716,7 @@ export default function Page() {
       "@id": "https://aenfinite.com/#website",
       "url": "https://aenfinite.com",
       "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Creative Digital ì—ì´ì „ì‹œ",
+      "alternateName": "Aenfinite® - Creative Digital 에이전시",
       "publisher": {
         "@id": "https://aenfinite.com/#organization"
       },
@@ -2728,7 +2728,7 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "Aenfinite® ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design",
+      "caption": "Aenfinite® 컨퍼런스 브랜딩 & Event Identity Design",
       "inLanguage":"ko-KR"
     },
     {
@@ -2748,7 +2748,7 @@ export default function Page() {
           "position": 2,
           "item": {
             "@id": "https://aenfinite.com/services/",
-            "name": "ì„œë¹„ìŠ¤"
+            "name": "서비스"
           }
         },
         {
@@ -2756,7 +2756,7 @@ export default function Page() {
           "position": 3,
           "item": {
             "@id": "https://aenfinite.com/services/conference-branding/",
-            "name": "ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©"
+            "name": "컨퍼런스 브랜딩"
           }
         }
       ]
@@ -2765,7 +2765,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.com/services/conference-branding/#webpage",
       "url": "https://aenfinite.com/services/conference-branding/",
-      "name": "Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite®",
+      "name": "Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스 | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "isPartOf": {
@@ -2781,8 +2781,8 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite®",
-      "keywords": "ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”©, Event Identity Design, Stage Design, Event Signage, Conference ë¸Œëžœë“œ ì „ëžµ, Event Marketing, Visual ë¸Œëžœë”©",
+      "headline": "Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스 | Aenfinite®",
+      "keywords": "컨퍼런스 브랜딩, Event Identity Design, Stage Design, Event Signage, Conference 브랜드 전략, Event Marketing, Visual 브랜딩",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-09-16T11:13:56-04:00",
       "author": {
@@ -2793,7 +2793,7 @@ export default function Page() {
         "@id": "https://aenfinite.com/#organization"
       },
       "description": "Aenfinite® crafts powerful conference branding and event identity design systems for businesses and organizations. From logo and stage visuals to attendee engagement materials, our designs ensure memorable event experiences.",
-      "name": "Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤ | Aenfinite®",
+      "name": "Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스 | Aenfinite®",
       "@id": "https://aenfinite.com/services/conference-branding/#richSnippet",
       "isPartOf": {
         "@id": "https://aenfinite.com/services/conference-branding/#webpage"
@@ -2837,11 +2837,11 @@ export default function Page() {
 				  "openingHoursSpecification": {
 					"@type": "OpeningHoursSpecification",
 					"dayOfWeek": [
-					  "ì›”ìš”ì¼",
-					  "í™”ìš”ì¼",
-					  "ìˆ˜ìš”ì¼",
-					  "ëª©ìš”ì¼",
-					  "ê¸ˆìš”ì¼"
+					  "월요일",
+					  "화요일",
+					  "수요일",
+					  "목요일",
+					  "금요일"
 					],
 					"opens": "09:00",
 					"closes": "18:00"
@@ -2880,13 +2880,13 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ì„œë¹„ìŠ¤",
+      "name": "서비스",
       "item": "https://aenfinite.com/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Premier ì»¨í¼ëŸ°ìŠ¤ ë¸Œëžœë”© & Event Identity Design ì„œë¹„ìŠ¤",
+      "name": "Premier 컨퍼런스 브랜딩 & Event Identity Design 서비스",
       "item": "https://aenfinite.com/services/conference-branding/"
     }
   ]
