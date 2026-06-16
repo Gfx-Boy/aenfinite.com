@@ -906,10 +906,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			
 							<div class="section reviews" itemprop="review" itemscope itemtype="http://schema.org/Review">
-					<span itemprop="name" class="name-project">KhaTtech - 360 디지털 마케팅 Solutions 에이전시 UI/UX & 개발</span>
-					<div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Service">
-						<meta itemprop="name" content="360 디지털 마케팅 Solutions 에이전시 UI/UX 디자인 & 개발 서비스 by Aenfinite">
-					</div>
+					<span itemprop="name" class="name-project">KhaTtech - 360 디지털 마케팅 Solutions 에이전시 UI/UX & 개발</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 					<div class="wrapper">
 						<div class="inner-wrapper">
 						  	<h2>KhaTtech Client Testimonial for Aenfinite</h2>
@@ -2460,12 +2457,10 @@ export default function Page() {
       "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/digitaldesignny",
-        "https://www.instagram.com/aenfinite/",
-        "https://dribbble.com/aenfinite",
-        "https://www.behance.net/aenfinite"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",

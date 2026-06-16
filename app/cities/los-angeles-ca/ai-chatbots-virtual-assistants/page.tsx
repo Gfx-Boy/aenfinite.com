@@ -2196,10 +2196,10 @@ document.addEventListener('keydown', function(event) {
  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
 					"postalCode": "90001",
@@ -2225,9 +2225,7 @@ document.addEventListener('keydown', function(event) {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
-					"
-					""
+					"https://www.instagram.com/Aenfinite/"
 				  ],
 				  "description": "Expert AI Chatbots & Virtual Assistants agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
@@ -2491,10 +2489,10 @@ export default function Page() {
       "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebPage",
@@ -2526,10 +2524,10 @@ export default function Page() {
  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
 					"postalCode": "90001",
@@ -2555,9 +2553,7 @@ export default function Page() {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
-					"
-					""
+					"https://www.instagram.com/Aenfinite/"
 				  ],
 				  "description": "Expert AI Chatbots & Virtual Assistants agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",

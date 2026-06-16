@@ -2280,13 +2280,13 @@ document.addEventListener('keydown', function(event) {
 
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
-					"postalCode": "80202",
+					"postalCode": "80203",
 					"addressCountry": "US"
 				  },
 				  "geo": {
@@ -2309,9 +2309,7 @@ document.addEventListener('keydown', function(event) {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
-					"
-					""
+					"https://www.instagram.com/Aenfinite/"
 				  ],
 				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
@@ -2388,10 +2386,10 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo-dark.png",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",
@@ -2450,13 +2448,13 @@ export default function Page() {
 
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
-					"postalCode": "80202",
+					"postalCode": "80203",
 					"addressCountry": "US"
 				  },
 				  "geo": {
@@ -2479,9 +2477,7 @@ export default function Page() {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
-					"
-					""
+					"https://www.instagram.com/Aenfinite/"
 				  ],
 				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",

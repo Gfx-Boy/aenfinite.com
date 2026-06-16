@@ -1864,7 +1864,7 @@ export default function Page() {
     "@type": "PostalAddress",
     "addressLocality": "Denver",
     "addressRegion": "CO",
-    "postalCode": "80202",
+    "postalCode": "80203",
     "addressCountry": "US"
   },
   "geo": {
@@ -1872,15 +1872,15 @@ export default function Page() {
     "latitude": 39.7392,
     "longitude": -104.9903
   },
-  "telephone": "+1-720-831-1484",
+  "telephone": "+1-303-419-9782",
   "email": "info@aenfinite.com",
   "openingHours": "Mo-Fr 09:00-18:00",
   "priceRange": "$$",
   "sameAs": [
-    "https://www.instagram.com/aenfinite/",
-    "https://www.linkedin.com/company/aenfinite/",
-    "https://www.facebook.com/aenfinite/"
-  ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
 }` }}
         />
         <script

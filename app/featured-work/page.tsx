@@ -2806,10 +2806,10 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",

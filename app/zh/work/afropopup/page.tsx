@@ -921,7 +921,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			
 							<div class="section reviews" itemprop="review" itemscope itemtype="http://schema.org/Review">
-					<span itemprop="name" class="name-project">Mindfit - 心理健康 & Fitness App UI/UX & 开发</span>
+					<span itemprop="name" class="name-project">Mindfit - 心理健康 & Fitness App UI/UX & 开发</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 					<div class="wrapper">
 						<div class="inner-wrapper">
 						  	<h2>Mindfit Client Testimonial for Aenfinite®</h2>

@@ -2623,7 +2623,7 @@ const pageContent = `<script>
 					
 					<!-- Test Testimonial 1 -->
 					<div class="testimonial-slide active" itemprop="review" itemscope itemtype="http://schema.org/Review">
-						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 1</span>
+						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 1</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
@@ -2655,7 +2655,7 @@ const pageContent = `<script>
 
 					<!-- Test Testimonial 2 -->
 					<div class="testimonial-slide" itemprop="review" itemscope itemtype="http://schema.org/Review">
-						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 2</span>
+						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 2</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
@@ -2687,7 +2687,7 @@ const pageContent = `<script>
 
 					<!-- Test Testimonial 3 -->
 					<div class="testimonial-slide" itemprop="review" itemscope itemtype="http://schema.org/Review">
-						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 3</span>
+						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 3</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
@@ -2719,7 +2719,7 @@ const pageContent = `<script>
 
 					<!-- Test Testimonial 4 -->
 					<div class="testimonial-slide" itemprop="review" itemscope itemtype="http://schema.org/Review">
-						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 4</span>
+						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 4</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
@@ -2751,7 +2751,7 @@ const pageContent = `<script>
 
 					<!-- Test Testimonial 5 -->
 					<div class="testimonial-slide" itemprop="review" itemscope itemtype="http://schema.org/Review">
-						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 5</span>
+						<span itemprop="name" class="name-project" style="display: none;">{{city}} Web Design Test Review 5</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 						<div class="container">
 							<div class="con-stats">
 								<div class="con-tittle" itemprop="reviewBody">
@@ -4994,7 +4994,7 @@ window.onload = function() {
 		"longitude": "{{longitude}}"
 	},
 	"url": "https://aenfinite.com/cities/{{city-slug}}/",
-	"telephone": "(555) 123-4567",
+	"telephone": "+1-303-419-9782",
 	"email": "hello@aenfinite.com",
 	"priceRange": "$3000-$15000",
 	"areaServed": [
@@ -5067,12 +5067,10 @@ window.onload = function() {
 	"image": "https://aenfinite.com/images/{{city}}-web-design-agency.jpg",
 	"logo": "https://aenfinite.com/images/aenfinite-logo.svg",
 	"sameAs": [
-		"https://www.facebook.com/aenfinite",
-		"https://twitter.com/aenfinite",
-		"https://www.instagram.com/aenfinite",
-		"https://www.linkedin.com/company/aenfinite",
-		"https://www.youtube.com/aenfinite"
-	]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
 }
 </script>
 
@@ -6423,7 +6421,7 @@ export default function Page() {
 		"postalCode": "{{zipcode}}",
 		"addressCountry": "US"
 	},
-	"telephone": "(555) 123-4567",
+	"telephone": "+1-303-419-9782",
 	"url": "https://aenfinite.com/web-design/{{city}}/",
 	"priceRange": "$3000-$15000",
 	"areaServed": {
@@ -6464,7 +6462,11 @@ export default function Page() {
         <script
           key="schema-1"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://aenfinite.com/#organization","name":"Aenfinite®","sameAs":["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","finite"]},{"@type":"WebSite","@id":"https://aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Branding &amp; Web Design Division of Aenfinite.com","publisher":{"@id":"https://aenfinite.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Best Branding &amp; Web Design Agency in Denver","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://aenfinite.com/services/web-design/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://aenfinite.com/services/","name":"Services"}},{"@type":"ListItem","position":"3","item":{"@id":"https://aenfinite.com/services/web-design/","name":"*Web Design"}}]},{"@type":"WebPage","@id":"https://aenfinite.com/services/web-design/#webpage","url":"https://aenfinite.com/services/web-design/","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","isPartOf":{"@id":"https://aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://aenfinite.com/services/web-design/#breadcrumb"}},{"@type":"Person","@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite.com)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"en-US"},"worksFor":{"@id":"https://aenfinite.com/#organization"}},{"@type":"Article","headline":"Award-Winning Web Design Agency in Denver | Aenfinite®","keywords":"Web Design","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","author":{"@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://aenfinite.com/#organization"},"description":"Aenfinite® (Globally Trusted Digital Agency) is the best Web Design Agency in Denver for mobile-responsive websites, custom web design, best WordPress websites in Denver.","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","@id":"https://aenfinite.com/services/web-design/#richSnippet","isPartOf":{"@id":"https://aenfinite.com/services/web-design/#webpage"},"image":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://aenfinite.com/services/web-design/#webpage"}}]}` }}
+          dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://aenfinite.com/#organization","name":"Aenfinite®","sameAs": [
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]},{"@type":"WebSite","@id":"https://aenfinite.com/#website","url":"https://Aenfinite","name":"Aenfinite®","alternateName":"Aenfinite® - Branding &amp; Web Design Division of Aenfinite.com","publisher":{"@id":"https://aenfinite.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg","width":"5714","height":"3216","caption":"Aenfinite® Brand Logo - Best Branding &amp; Web Design Agency in Denver","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://aenfinite.com/services/web-design/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://Aenfinite","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://aenfinite.com/services/","name":"Services"}},{"@type":"ListItem","position":"3","item":{"@id":"https://aenfinite.com/services/web-design/","name":"*Web Design"}}]},{"@type":"WebPage","@id":"https://aenfinite.com/services/web-design/#webpage","url":"https://aenfinite.com/services/web-design/","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","isPartOf":{"@id":"https://aenfinite.com/#website"},"primaryImageOfPage":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","breadcrumb":{"@id":"https://aenfinite.com/services/web-design/#breadcrumb"}},{"@type":"Person","@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®","description":"Archives from for Aenfinite® (Aenfinite.com)","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4881a4d4cb75b99285a7b27b5f876ecb?s=96&amp;d=mm&amp;r=g","caption":"Boris Aenfinite®","inLanguage":"en-US"},"worksFor":{"@id":"https://aenfinite.com/#organization"}},{"@type":"Article","headline":"Award-Winning Web Design Agency in Denver | Aenfinite®","keywords":"Web Design","datePublished":"2022-07-18T12:22:51-04:00","dateModified":"2025-07-11T12:03:38-04:00","author":{"@id":"https://aenfinite.com/services/web-design/#author","name":"Boris Aenfinite®"},"publisher":{"@id":"https://aenfinite.com/#organization"},"description":"Aenfinite® (Globally Trusted Digital Agency) is the best Web Design Agency in Denver for mobile-responsive websites, custom web design, best WordPress websites in Denver.","name":"Award-Winning Web Design Agency in Denver | Aenfinite®","@id":"https://aenfinite.com/services/web-design/#richSnippet","isPartOf":{"@id":"https://aenfinite.com/services/web-design/#webpage"},"image":{"@id":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://aenfinite.com/services/web-design/#webpage"}}]}` }}
         />
         <script
           key="schema-2"
@@ -6488,7 +6490,7 @@ export default function Page() {
 		"longitude": "{{longitude}}"
 	},
 	"url": "https://aenfinite.com/cities/{{city-slug}}/",
-	"telephone": "(555) 123-4567",
+	"telephone": "+1-303-419-9782",
 	"email": "hello@aenfinite.com",
 	"priceRange": "$3000-$15000",
 	"areaServed": [
@@ -6561,12 +6563,10 @@ export default function Page() {
 	"image": "https://aenfinite.com/images/{{city}}-web-design-agency.jpg",
 	"logo": "https://aenfinite.com/images/aenfinite-logo.svg",
 	"sameAs": [
-		"https://www.facebook.com/aenfinite",
-		"https://twitter.com/aenfinite",
-		"https://www.instagram.com/aenfinite",
-		"https://www.linkedin.com/company/aenfinite",
-		"https://www.youtube.com/aenfinite"
-	]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
 }` }}
         />
         <script

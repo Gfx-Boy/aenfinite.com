@@ -906,7 +906,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 			
 							<div class="section reviews" itemprop="review" itemscope itemtype="http://schema.org/Review">
-					<span itemprop="name" class="name-project">Quarena - Advanced Trading Platform UI/UX & Desarrollo de Aplicaciones</span>
+					<span itemprop="name" class="name-project">Quarena - Advanced Trading Platform UI/UX & Desarrollo de Aplicaciones</span><div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="Aenfinite®"><meta itemprop="url" content="https://aenfinite.com/"></div>
 					<div class="wrapper">
 						<div class="inner-wrapper">
 						  	<h2>Quarena Client Testimonial for Aenfinite</h2>
@@ -2951,12 +2951,10 @@ export default function Page() {
       "name": "Aenfinite®",
       "url": "https://aenfinite.com/",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/digitaldesignny",
-        "https://www.instagram.com/aenfinite/",
-        "https://dribbble.com/aenfinite",
-        "https://www.behance.net/aenfinite"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",

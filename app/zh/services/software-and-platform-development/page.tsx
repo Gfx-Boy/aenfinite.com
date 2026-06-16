@@ -2603,13 +2603,13 @@ document.addEventListener('keydown', function(event) {
 				  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
-					"postalCode": "80202",
+					"postalCode": "80203",
 					"addressCountry": "US"
 				  },
 				  "geo": {
@@ -2708,10 +2708,10 @@ export default function Page() {
       "name": "Aenfinite®",
       "url": "https://aenfinite.com",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",
@@ -2770,13 +2770,13 @@ export default function Page() {
 				  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
-				  "telephone": "+1234567890",
+				  "telephone": "+1-303-419-9782",
 				  "address": {
 					"@type": "PostalAddress",
-					"streetAddress": "123 Business Avenue",
+					"streetAddress": "1500 N Grant St, Ste R",
 					"addressLocality": "Denver",
 					"addressRegion": "CO",
-					"postalCode": "80202",
+					"postalCode": "80203",
 					"addressCountry": "US"
 				  },
 				  "geo": {

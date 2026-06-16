@@ -3117,10 +3117,10 @@ export default function Page() {
       "url": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/logo.png"
     },
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   },
   "mainEntity": {
     "@type": "Organization",
@@ -3147,10 +3147,10 @@ export default function Page() {
       }
     ],
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   }
 }` }}
         />

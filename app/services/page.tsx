@@ -2068,10 +2068,10 @@ export default function Page() {
       "url": "https://aenfinite.com",
       "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",
@@ -2145,10 +2145,10 @@ export default function Page() {
   "url": "https://aenfinite.com",
   "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
   "image": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg",
-  "telephone": "+1-555-AENFINITE",
+  "telephone": "+1-303-419-9782",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "1500 N Grant St Ste, Denver, CO 80203",
+    "streetAddress": "1500 N Grant St, Ste R",
     "addressLocality": "Denver",
     "addressRegion": "CO",
     "postalCode": "80203",
@@ -2181,10 +2181,10 @@ export default function Page() {
     ]
   },
   "sameAs": [
-    "https://www.facebook.com/aenfinite/",
-    "https://twitter.com/aenfinitee",
-    "https://www.instagram.com/aenfinite/"
-  ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
 }` }}
         />
         <script
