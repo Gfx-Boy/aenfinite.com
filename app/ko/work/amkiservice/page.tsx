@@ -1142,8 +1142,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							  		<div class="con-avatar">
 										<img src="/wp-content/themes/aenfinite.com/images/testimonial1.webp" alt="Robert Hardy - AM-KI 서비스 Founder" class="img-avatar" loading="lazy" decoding="async">
 										<div>
-											<p class="par-avatar" itemprop="author">
-												<b>📋 Robert Hardy,</b><br>
+											<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+												<b itemprop="name">📋 Robert Hardy,</b><br>
 												CEO & Founder, AM-KI 서비스											</p>
 										</div>
 							  		</div>

@@ -2643,8 +2643,8 @@ const pageContent = `<script>
 								<div class="con-avatar">
 									<img src="/testimonials/Screenshot 2025-09-09 022258.webp" alt="Sarah Chen, CEO" class="img-avatar" loading="lazy" decoding="async">
 									<div>
-										<p class="par-avatar" itemprop="author">
-											<b>✨ Sarah Chen,</b><br>
+										<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<b itemprop="name">✨ Sarah Chen,</b><br>
 											CEO, MindFit Technologies
 										</p>
 									</div>
@@ -2675,8 +2675,8 @@ const pageContent = `<script>
 								<div class="con-avatar">
 									<img src="/testimonials/Screenshot 2025-09-09 022247.webp" alt="Michael Rodriguez, Director" class="img-avatar" loading="lazy" decoding="async">
 									<div>
-										<p class="par-avatar" itemprop="author">
-											<b>✨ Michael Rodriguez,</b><br>
+										<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<b itemprop="name">✨ Michael Rodriguez,</b><br>
 											Marketing Director, Urban Solutions LLC
 										</p>
 									</div>
@@ -2707,8 +2707,8 @@ const pageContent = `<script>
 								<div class="con-avatar">
 									<img src="/testimonials/Screenshot 2025-09-09 023135.webp" alt="Jessica Thompson, Founder" class="img-avatar" loading="lazy" decoding="async">
 									<div>
-										<p class="par-avatar" itemprop="author">
-											<b>✨ Jessica Thompson,</b><br>
+										<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<b itemprop="name">✨ Jessica Thompson,</b><br>
 											Founder, Thompson Consulting Group
 										</p>
 									</div>
@@ -2739,8 +2739,8 @@ const pageContent = `<script>
 								<div class="con-avatar">
 									<img src="/testimonials/Screenshot 2025-09-09 023152.webp" alt="David Kim, President" class="img-avatar" loading="lazy" decoding="async">
 									<div>
-										<p class="par-avatar" itemprop="author">
-											<b>✨ David Kim,</b><br>
+										<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<b itemprop="name">✨ David Kim,</b><br>
 											President, Elite Digital Services
 										</p>
 									</div>
@@ -2771,8 +2771,8 @@ const pageContent = `<script>
 								<div class="con-avatar">
 									<img src="/wp-content/uploads/2024/07/Katibelle-Sharkey-copy.webp" alt="Maria Santos, Owner" class="img-avatar" loading="lazy" decoding="async">
 									<div>
-										<p class="par-avatar" itemprop="author">
-											<b>✨ Maria Santos,</b><br>
+										<p class="par-avatar" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<b itemprop="name">✨ Maria Santos,</b><br>
 											Business Owner, Santos & Associates
 										</p>
 									</div>
