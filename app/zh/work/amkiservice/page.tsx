@@ -2080,7 +2080,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	
 	
-			<div class="footer">
+			
+<!-- AEN-FAQ START -->
+<section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>常见问题</h2>
+  <div itemscope itemtype='https://schema.org/FAQPage'>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite 提供哪些服务？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite 是一家全方位数字创新机构，提供网站设计与开发、品牌建设、UI/UX、SEO、数字营销、应用与软件开发、电子商务以及人工智能自动化。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite 与哪些客户合作？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>我们与众多行业的初创公司、中小企业和大型企业合作，服务遍及美国、加拿大及全球客户。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>如何获取报价？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>预约免费咨询或告诉我们您的目标，我们将提供量身定制、透明的方案。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>你们多久可以开始？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>我们通常可在几周内开始。请联系我们，我们会确认您项目的可用性和时间安排。</div>
+      </div>
+    </details>
+  </div>
+</section>
+<!-- AEN-FAQ END -->
+<div class="footer">
 				<div class="wrapper">
 					<div>
 						<div class="footer-caption">

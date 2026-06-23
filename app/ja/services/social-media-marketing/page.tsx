@@ -1951,7 +1951,39 @@ is the key to building brand awareness, driving engagement, and creating meaning
 		</div>
 	
 	
-			<div class="footer">
+			
+<!-- AEN-FAQ START -->
+<section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>よくある質問</h2>
+  <div itemscope itemtype='https://schema.org/FAQPage'>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite は何をしていますか？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite はフルサービスのデジタルイノベーション エージェンシーで、Web デザイン・開発、ブランディング、UI/UX、SEO、デジタルマーケティング、アプリ・ソフトウェア開発、Eコマース、AI 自動化を提供します。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite はどのようなクライアントと取引していますか？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>多様な業界のスタートアップ、中小企業、大企業と協業し、米国、カナダ、そして世界中のお客様にサービスを提供しています。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>見積もりはどうすれば取得できますか？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>無料相談をご予約いただくか、目標をお知らせください。お客様に合わせた透明性のあるご提案をいたします。</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>いつ開始できますか？</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>通常、数週間以内に開始できます。お問い合わせいただければ、プロジェクトの空き状況とスケジュールを確認いたします。</div>
+      </div>
+    </details>
+  </div>
+</section>
+<!-- AEN-FAQ END -->
+<div class="footer">
 				<div class="wrapper">
 					<div>
 						<div class="footer-caption">

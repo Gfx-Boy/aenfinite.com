@@ -1608,7 +1608,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 
 
-			<div class="footer fade-in">
+			
+<!-- AEN-FAQ START -->
+<section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>अक्सर पूछे जाने वाले प्रश्न</h2>
+  <div itemscope itemtype='https://schema.org/FAQPage'>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite क्या करता है?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite एक फुल-सर्विस डिजिटल इनोवेशन एजेंसी है जो वेब डिज़ाइन और डेवलपमेंट, ब्रांडिंग, UI/UX, SEO, डिजिटल मार्केटिंग, ऐप और सॉफ़्टवेयर डेवलपमेंट, ई-कॉमर्स और AI ऑटोमेशन प्रदान करती है।</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite किसके साथ काम करता है?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम कई उद्योगों के स्टार्टअप, छोटे व्यवसायों और बड़े उद्यमों के साथ काम करते हैं और अमेरिका, कनाडा तथा दुनिया भर के ग्राहकों की सेवा करते हैं।</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>मुझे कोटेशन कैसे मिलेगा?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>एक मुफ़्त परामर्श बुक करें या अपने लक्ष्यों के साथ हमसे संपर्क करें, और हम आपको एक अनुकूलित, पारदर्शी प्रस्ताव देंगे।</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>आप कब शुरू कर सकते हैं?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम आमतौर पर कुछ ही हफ़्तों में शुरू कर सकते हैं। हमसे संपर्क करें और हम आपके प्रोजेक्ट की उपलब्धता और समयसीमा की पुष्टि करेंगे।</div>
+      </div>
+    </details>
+  </div>
+</section>
+<!-- AEN-FAQ END -->
+<div class="footer fade-in">
 				<div class="wrapper">
 					<div>
 						<div class="footer-caption">

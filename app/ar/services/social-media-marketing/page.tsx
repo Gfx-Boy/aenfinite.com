@@ -1951,7 +1951,39 @@ is the key to building brand awareness, driving engagement, and creating meaning
 		</div>
 	
 	
-			<div class="footer">
+			
+<!-- AEN-FAQ START -->
+<section class='aen-faq-block' dir='rtl' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;text-align:right;'>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>الأسئلة الشائعة</h2>
+  <div itemscope itemtype='https://schema.org/FAQPage'>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>ماذا تقدم Aenfinite؟</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite وكالة متكاملة للابتكار الرقمي تقدم تصميم وتطوير المواقع، والهوية البصرية، وتصميم تجربة وواجهة المستخدم، وتحسين محركات البحث، والتسويق الرقمي، وتطوير التطبيقات والبرمجيات، والتجارة الإلكترونية، والأتمتة بالذكاء الاصطناعي.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>مع من تعمل Aenfinite؟</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>نتعاون مع الشركات الناشئة والشركات الصغيرة والمؤسسات الكبرى في قطاعات متعددة، ونخدم عملاء في الولايات المتحدة وكندا وحول العالم.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>كيف أحصل على عرض سعر؟</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>احجز استشارة مجانية أو تواصل معنا وأخبرنا بأهدافك، وسنقدم لك عرضًا مخصصًا وواضحًا.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>متى يمكنكم البدء؟</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>عادةً يمكننا البدء خلال أسبوعين تقريبًا. تواصل معنا وسنؤكد التوافر والجدول الزمني لمشروعك.</div>
+      </div>
+    </details>
+  </div>
+</section>
+<!-- AEN-FAQ END -->
+<div class="footer">
 				<div class="wrapper">
 					<div>
 						<div class="footer-caption">

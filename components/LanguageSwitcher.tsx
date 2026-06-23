@@ -89,13 +89,13 @@ export default function LanguageSwitcher() {
   return (
     <div
       ref={ref}
-      style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 99999, fontFamily: 'inherit' }}
+      style={{ position: 'fixed', bottom: 24, left: 24, zIndex: 99999, fontFamily: 'inherit' }}
       aria-label="Language switcher"
     >
       {open && (
         <div
           style={{
-            position: 'absolute', bottom: '110%', right: 0, background: '#0d0d0d',
+            position: 'absolute', bottom: '110%', left: 0, background: '#0d0d0d',
             border: '1px solid rgba(255,255,255,0.15)', borderRadius: 12, padding: 8,
             display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, minWidth: 230,
             boxShadow: '0 8px 30px rgba(0,0,0,0.45)',
