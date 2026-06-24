@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional UI/UX 디자인 서비스 | User Interface & Experience Design",
+  title: "전문 웹 디자인 서비스 | 맞춤형 반응형 웹사이트",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ko/services/web-design/", languages: {"x-default":"https://aenfinite.com/services/web-design/","en":"https://aenfinite.com/services/web-design/","es":"https://aenfinite.com/es/services/web-design/","fr":"https://aenfinite.com/fr/services/web-design/","de":"https://aenfinite.com/de/services/web-design/","it":"https://aenfinite.com/it/services/web-design/","ar":"https://aenfinite.com/ar/services/web-design/","pt":"https://aenfinite.com/pt/services/web-design/","zh":"https://aenfinite.com/zh/services/web-design/","hi":"https://aenfinite.com/hi/services/web-design/","nl":"https://aenfinite.com/nl/services/web-design/","ja":"https://aenfinite.com/ja/services/web-design/","ko":"https://aenfinite.com/ko/services/web-design/"} },
-  openGraph: {"title":"Professional UI/UX 디자인 서비스 | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ko/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional UI/UX 디자인 서비스 | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"전문 웹 디자인 서비스 | 맞춤형 반응형 웹사이트 | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ko/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"전문 웹 디자인 서비스 | 맞춤형 반응형 웹사이트 | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1126,7 +1126,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<li class="menu-item menu-item-has-children">
 										<a href="#">디자인 및 크리에이티브 서비스 ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ko/services/ui-ux-design/">UI/UX 디자인</a></li>
+											<li><a href="/ko/services/web-design/">UI/UX 디자인</a></li>
 											<li><a href="/ko/services/branding/">브랜드 아이덴티티 및 전략</a></li>
 											<li><a href="/ko/services/graphic-design/">그래픽 디자인</a></li> <li><a href="/ko/services/logo-design/">로고 디자인</a></li>
 											

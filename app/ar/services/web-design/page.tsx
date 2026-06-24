@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional تصميم UI/UX الخدمات | User Interface & Experience Design",
+  title: "خدمات تصميم الويب الاحترافية | مواقع متجاوبة مخصصة",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/services/web-design/", languages: {"x-default":"https://aenfinite.com/services/web-design/","en":"https://aenfinite.com/services/web-design/","es":"https://aenfinite.com/es/services/web-design/","fr":"https://aenfinite.com/fr/services/web-design/","de":"https://aenfinite.com/de/services/web-design/","it":"https://aenfinite.com/it/services/web-design/","ar":"https://aenfinite.com/ar/services/web-design/","pt":"https://aenfinite.com/pt/services/web-design/","zh":"https://aenfinite.com/zh/services/web-design/","hi":"https://aenfinite.com/hi/services/web-design/","nl":"https://aenfinite.com/nl/services/web-design/","ja":"https://aenfinite.com/ja/services/web-design/","ko":"https://aenfinite.com/ko/services/web-design/"} },
-  openGraph: {"title":"Professional تصميم UI/UX الخدمات | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ar/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional تصميم UI/UX الخدمات | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"خدمات تصميم الويب الاحترافية | مواقع متجاوبة مخصصة | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/ar/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"خدمات تصميم الويب الاحترافية | مواقع متجاوبة مخصصة | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1126,7 +1126,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<li class="menu-item menu-item-has-children">
 										<a href="#">خدمات التصميم والإبداع ›</a>
 										<ul class="sub-menu">
-											<li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
+											<li><a href="/ar/services/web-design/">تصميم UI/UX</a></li>
 											<li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
 											<li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
 											

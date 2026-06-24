@@ -4,12 +4,12 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Design UI/UX Services | User Interface & Experience Design",
+  title: "Services Professionnels de Conception Web | Sites Responsives sur Mesure",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/fr/services/web-design/", languages: {"x-default":"https://aenfinite.com/services/web-design/","en":"https://aenfinite.com/services/web-design/","es":"https://aenfinite.com/es/services/web-design/","fr":"https://aenfinite.com/fr/services/web-design/","de":"https://aenfinite.com/de/services/web-design/","it":"https://aenfinite.com/it/services/web-design/","ar":"https://aenfinite.com/ar/services/web-design/","pt":"https://aenfinite.com/pt/services/web-design/","zh":"https://aenfinite.com/zh/services/web-design/","hi":"https://aenfinite.com/hi/services/web-design/","nl":"https://aenfinite.com/nl/services/web-design/","ja":"https://aenfinite.com/ja/services/web-design/","ko":"https://aenfinite.com/ko/services/web-design/"} },
-  openGraph: {"title":"Professional Design UI/UX Services | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/fr/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Design UI/UX Services | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Services Professionnels de Conception Web | Sites Responsives sur Mesure | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.com/fr/services/web-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Services Professionnels de Conception Web | Sites Responsives sur Mesure | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1126,7 +1126,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Services de Design et Création ›</a>
 										<ul class="sub-menu">
-											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
+											<li><a href="/fr/services/web-design/">Design UI/UX</a></li>
 											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
 											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
 											
