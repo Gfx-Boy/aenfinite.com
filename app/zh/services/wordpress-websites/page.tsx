@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website 开发 | Custom Themes & 插件开发",
-  description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
+  title: "WordPress 网站开发 | 定制主题与插件开发",
+  description: "Aenfinite 提供专业的 WordPress 网站开发服务：定制 WordPress 网站、WooCommerce 商城、插件开发与网站维护。我们打造安全、快速、可扩展的 WordPress 解决方案，助力业务增长。",
   keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
   openGraph: {"title":"Expert WordPress Website 开发 | Custom Themes & 插件开发 | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/zh/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1321,7 +1321,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">开发</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
+						<span>WordPress <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">网站开发</span> — 定制主题与<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">插件开发</span>，全面提升您的数字形象。</span>
 													
 											</h1>
 									</div>

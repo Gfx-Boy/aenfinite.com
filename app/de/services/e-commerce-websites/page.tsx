@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional E-commerce Website Entwicklung | Online Store Solutions",
-  description: "Aenfinite® is a leading e-commerce website development agency offering custom online store design, payment gateway integration, and shopping cart optimization. We build high-performance e-commerce websites that convert visitors into loyal customers.",
+  title: "Custom E-Commerce Entwicklung | Onlineshop erstellen lassen",
+  description: "Custom E-Commerce Entwicklung von Aenfinite: individuelle Onlineshops, Payment-Integration und Shop-Optimierung. Wir entwickeln performante E-Commerce Websites, die Besucher zu Kunden machen.",
   keywords: "e-commerce website development, online store development, Shopify development, WooCommerce development, payment gateway integration, shopping cart development, e-commerce solutions, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/e-commerce-websites/", languages: {"x-default":"https://aenfinite.com/services/e-commerce-websites/","en":"https://aenfinite.com/services/e-commerce-websites/","es":"https://aenfinite.com/es/services/e-commerce-websites/","fr":"https://aenfinite.com/fr/services/e-commerce-websites/","de":"https://aenfinite.com/de/services/e-commerce-websites/","it":"https://aenfinite.com/it/services/e-commerce-websites/","ar":"https://aenfinite.com/ar/services/e-commerce-websites/","pt":"https://aenfinite.com/pt/services/e-commerce-websites/","zh":"https://aenfinite.com/zh/services/e-commerce-websites/","hi":"https://aenfinite.com/hi/services/e-commerce-websites/","nl":"https://aenfinite.com/nl/services/e-commerce-websites/","ja":"https://aenfinite.com/ja/services/e-commerce-websites/","ko":"https://aenfinite.com/ko/services/e-commerce-websites/"} },
   openGraph: {"title":"Professional E-commerce Website Entwicklung | Online Store Solutions | Aenfinite®","description":"Aenfinite® specializes in e-commerce website development, including custom store design, secure checkout systems, and conversion optimization. Build your digital store with Aenfinite®.","url":"https://aenfinite.com/de/services/e-commerce-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1317,7 +1317,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>E-commerce Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Entwicklung</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">online stores</span>, and drives sales growth.</span>
+						<span>Custom E-Commerce <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Entwicklung</span> — individuelle <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Onlineshops</span>, die Umsatz und Wachstum bringen.</span>
 													
 											</h1>
 									</div>

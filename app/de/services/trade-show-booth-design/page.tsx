@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Messestand-Design | Event Markengestaltung & Booth Construction",
-  description: "Aenfinite is a leading trade show booth design agency specializing in custom exhibition displays, booth construction, event branding, and trade show marketing. We deliver high-impact trade show booths that drive engagement, visibility, and brand recognition.",
+  title: "Messestand Design & Corporate Design Integration | Messebau Anbieter",
+  description: "Aenfinite ist Ihr Anbieter für Messestand-Design mit Corporate-Design-Integration: individuelle Messestände, Messebau, Event-Branding und Messemarketing – für einen starken Markenauftritt auf jeder Messe.",
   keywords: "trade show booth design, exhibition booth, trade show display, booth construction, event branding, trade show marketing, exhibition design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/trade-show-booth-design/", languages: {"x-default":"https://aenfinite.com/services/trade-show-booth-design/","en":"https://aenfinite.com/services/trade-show-booth-design/","es":"https://aenfinite.com/es/services/trade-show-booth-design/","fr":"https://aenfinite.com/fr/services/trade-show-booth-design/","de":"https://aenfinite.com/de/services/trade-show-booth-design/","it":"https://aenfinite.com/it/services/trade-show-booth-design/","ar":"https://aenfinite.com/ar/services/trade-show-booth-design/","pt":"https://aenfinite.com/pt/services/trade-show-booth-design/","zh":"https://aenfinite.com/zh/services/trade-show-booth-design/","hi":"https://aenfinite.com/hi/services/trade-show-booth-design/","nl":"https://aenfinite.com/nl/services/trade-show-booth-design/","ja":"https://aenfinite.com/ja/services/trade-show-booth-design/","ko":"https://aenfinite.com/ko/services/trade-show-booth-design/"} },
   openGraph: {"title":"Professional Messestand-Design | Event Markengestaltung & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including custom exhibition displays, event branding, and trade show marketing. Specializing in high-impact trade show solutions that drive engagement and brand recognition.","url":"https://aenfinite.com/de/services/trade-show-booth-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"}]},
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Messe Booth <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design</span> that creates impactful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">exhibition displays</span>, and drives brand engagement.</span>
+						<span>Messestand <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design</span> — Corporate Design Integration und <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Messebau</span>, der Ihre Marke wirkungsvoll inszeniert.</span>
 													
 											</h1>
 									</div>

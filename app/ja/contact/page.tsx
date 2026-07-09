@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "お問い合わせ Aenfinite® | Creative Digital Web エージェンシー in Denver | Webデザイン & Marketing Experts",
-  description: "お問い合わせ Aenfinite®, a creative digital web agency based in Denver. Let",
+  title: "お問い合わせ | Webデザイン・Web開発・マーケティングのご相談",
+  description: "Webデザイン、Web開発、ブランディング、デジタルマーケティングのご相談は Aenfinite へ。デンバー拠点のクリエイティブエージェンシーが無料相談・お見積もりを承ります。",
   keywords: "contact Aenfinite, Denver web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
   alternates: { canonical: "https://aenfinite.com/ja/contact/", languages: {"x-default":"https://aenfinite.com/contact/","en":"https://aenfinite.com/contact/","es":"https://aenfinite.com/es/contact/","fr":"https://aenfinite.com/fr/contact/","de":"https://aenfinite.com/de/contact/","it":"https://aenfinite.com/it/contact/","ar":"https://aenfinite.com/ar/contact/","pt":"https://aenfinite.com/pt/contact/","zh":"https://aenfinite.com/zh/contact/","hi":"https://aenfinite.com/hi/contact/","nl":"https://aenfinite.com/nl/contact/","ja":"https://aenfinite.com/ja/contact/","ko":"https://aenfinite.com/ko/contact/"} },
   openGraph: {"title":"お問い合わせ Aenfinite® | Creative Digital Web エージェンシー in Denver","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.com/ja/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},

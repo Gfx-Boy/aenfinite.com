@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "White Label Agência Partnerships | Design & Desenvolvimento Outsourcing",
-  description: "Partner with Aenfinite to scale your agency through expert white label design, web development, and digital marketing services — delivered seamlessly under your brand. Denver-based creative partner for agencies worldwide.",
+  title: "Parcerias White Label | Desenvolvimento de Software Sob Medida para Agências",
+  description: "A Aenfinite é sua parceira white label: design, desenvolvimento de software sob medida e marketing digital entregues sob a sua marca. Escale sua agência com um parceiro criativo confiável.",
   keywords: "white label services, white label web design, white label development, agency outsourcing, white label digital marketing, Aenfinite white label",
   alternates: { canonical: "https://aenfinite.com/pt/agency/partner-with-us/white-label-services/", languages: {"x-default":"https://aenfinite.com/agency/partner-with-us/white-label-services/","en":"https://aenfinite.com/agency/partner-with-us/white-label-services/","es":"https://aenfinite.com/es/agency/partner-with-us/white-label-services/","fr":"https://aenfinite.com/fr/agency/partner-with-us/white-label-services/","de":"https://aenfinite.com/de/agency/partner-with-us/white-label-services/","it":"https://aenfinite.com/it/agency/partner-with-us/white-label-services/","ar":"https://aenfinite.com/ar/agency/partner-with-us/white-label-services/","pt":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","zh":"https://aenfinite.com/zh/agency/partner-with-us/white-label-services/","hi":"https://aenfinite.com/hi/agency/partner-with-us/white-label-services/","nl":"https://aenfinite.com/nl/agency/partner-with-us/white-label-services/","ja":"https://aenfinite.com/ja/agency/partner-with-us/white-label-services/","ko":"https://aenfinite.com/ko/agency/partner-with-us/white-label-services/"} },
   openGraph: {"title":"White Label Agência Partnerships | Scale Your Creative Serviços | Aenfinite","description":"Grow your agency's capabilities with Aenfinite's white label design, branding, and web development services — all delivered under your brand name. Based in Denver, serving globally.","url":"https://aenfinite.com/pt/agency/partner-with-us/white-label-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -1146,7 +1146,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <div class="inner-wrapper"> 									
       <div class="section-caption js-aos"> 						
         <div class="section-caption_text"> 							
-          <h1> Aenfinite® - Offer White Label Partnerships</h1> 						
+          <h1> Parcerias White Label — Aenfinite</h1> 						
         </div> 					
       </div> 								
       <div class="textbox appear js-aos"> 					

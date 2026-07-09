@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "ソーシャルメディアマーケティング サービス | Instagram, Facebook & TikTok Experts",
-  description: "Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
+  title: "ソーシャルメディアマーケティング | SNS運用代行・Instagram・TikTok戦略",
+  description: "Aenfinite のSNSマーケティングサービス。Instagram運用、Facebook広告、TikTok戦略、コミュニティ管理まで、エンゲージメントとコンバージョンを高めるソーシャルメディア運用を提供します。",
   keywords: "social media marketing, Instagram marketing, Facebook marketing, TikTok marketing, LinkedIn marketing, social media management, community management, social strategy, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/social-media-marketing/", languages: {"x-default":"https://aenfinite.com/services/social-media-marketing/","en":"https://aenfinite.com/services/social-media-marketing/","es":"https://aenfinite.com/es/services/social-media-marketing/","fr":"https://aenfinite.com/fr/services/social-media-marketing/","de":"https://aenfinite.com/de/services/social-media-marketing/","it":"https://aenfinite.com/it/services/social-media-marketing/","ar":"https://aenfinite.com/ar/services/social-media-marketing/","pt":"https://aenfinite.com/pt/services/social-media-marketing/","zh":"https://aenfinite.com/zh/services/social-media-marketing/","hi":"https://aenfinite.com/hi/services/social-media-marketing/","nl":"https://aenfinite.com/nl/services/social-media-marketing/","ja":"https://aenfinite.com/ja/services/social-media-marketing/","ko":"https://aenfinite.com/ko/services/social-media-marketing/"} },
   openGraph: {"title":"ソーシャルメディアマーケティング サービス | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/ja/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Social Media <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Marketing</span> that builds brand awareness, drives <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">engagement</span>, and grows your online community.</span>
+						<span>ソーシャルメディア<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">マーケティング</span> — ブランド認知と<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">エンゲージメント</span>を高め、オンラインコミュニティを育てます。</span>
 													
 											</h1>
 									</div>

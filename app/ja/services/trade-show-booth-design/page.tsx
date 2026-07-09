@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional 展示会ブースデザイン | Event ブランディング & Booth Construction",
-  description: "Aenfinite is a leading trade show booth design agency specializing in custom exhibition displays, booth construction, event branding, and trade show marketing. We deliver high-impact trade show booths that drive engagement, visibility, and brand recognition.",
+  title: "展示会ブースデザイン | ブース設計・施工とイベントブランディング",
+  description: "展示会ブースデザインの専門エージェンシー。カスタム展示ディスプレイ、ブース設計・施工、イベントブランディングまで、来場者の目を引く高品質な展示会ブースを制作します。",
   keywords: "trade show booth design, exhibition booth, trade show display, booth construction, event branding, trade show marketing, exhibition design, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/trade-show-booth-design/", languages: {"x-default":"https://aenfinite.com/services/trade-show-booth-design/","en":"https://aenfinite.com/services/trade-show-booth-design/","es":"https://aenfinite.com/es/services/trade-show-booth-design/","fr":"https://aenfinite.com/fr/services/trade-show-booth-design/","de":"https://aenfinite.com/de/services/trade-show-booth-design/","it":"https://aenfinite.com/it/services/trade-show-booth-design/","ar":"https://aenfinite.com/ar/services/trade-show-booth-design/","pt":"https://aenfinite.com/pt/services/trade-show-booth-design/","zh":"https://aenfinite.com/zh/services/trade-show-booth-design/","hi":"https://aenfinite.com/hi/services/trade-show-booth-design/","nl":"https://aenfinite.com/nl/services/trade-show-booth-design/","ja":"https://aenfinite.com/ja/services/trade-show-booth-design/","ko":"https://aenfinite.com/ko/services/trade-show-booth-design/"} },
   openGraph: {"title":"Professional 展示会ブースデザイン | Event ブランディング & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including custom exhibition displays, event branding, and trade show marketing. Specializing in high-impact trade show solutions that drive engagement and brand recognition.","url":"https://aenfinite.com/ja/services/trade-show-booth-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"}]},
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>展示会 Booth <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design</span> that creates impactful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">exhibition displays</span>, and drives brand engagement.</span>
+						<span>展示会ブース<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">デザイン</span> — 印象に残る<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">展示ディスプレイ</span>でブランドの魅力を最大化。</span>
 													
 											</h1>
 									</div>

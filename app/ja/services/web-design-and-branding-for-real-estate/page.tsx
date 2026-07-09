@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "不動産 Webデザイン & ブランディング サービス | Property Webサイトデザイン",
-  description: "Aenfinite® is a leading real estate Webデザインエージェンシー offering property website design, agent branding, MLS integration, and real estate marketing solutions. Get high-converting real estate websites that generate leads and boost business growth.",
+  title: "不動産Webデザイン & ブランディング | 物件サイト制作・不動産マーケティング",
+  description: "不動産に特化したWebデザイン・ブランディングサービス。物件紹介サイト制作、エージェントブランディング、MLS連携、不動産マーケティングまで、リード獲得につながる不動産Webサイトを構築します。",
   keywords: "real estate web design, property website design, real estate branding, MLS integration, real estate marketing, agent website, IDX website, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/", languages: {"x-default":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","en":"https://aenfinite.com/services/web-design-and-branding-for-real-estate/","es":"https://aenfinite.com/es/services/web-design-and-branding-for-real-estate/","fr":"https://aenfinite.com/fr/services/web-design-and-branding-for-real-estate/","de":"https://aenfinite.com/de/services/web-design-and-branding-for-real-estate/","it":"https://aenfinite.com/it/services/web-design-and-branding-for-real-estate/","ar":"https://aenfinite.com/ar/services/web-design-and-branding-for-real-estate/","pt":"https://aenfinite.com/pt/services/web-design-and-branding-for-real-estate/","zh":"https://aenfinite.com/zh/services/web-design-and-branding-for-real-estate/","hi":"https://aenfinite.com/hi/services/web-design-and-branding-for-real-estate/","nl":"https://aenfinite.com/nl/services/web-design-and-branding-for-real-estate/","ja":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","ko":"https://aenfinite.com/ko/services/web-design-and-branding-for-real-estate/"} },
   openGraph: {"title":"不動産 Webデザイン & ブランディング サービス | Property Webサイトデザイン | Aenfinite®","description":"Aenfinite® delivers top-tier real estate web design & branding services — from property showcase websites to agent branding and MLS integration — designed to drive leads and sales.","url":"https://aenfinite.com/ja/services/web-design-and-branding-for-real-estate/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1315,7 +1315,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>不動産 Webデザイン & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ブランディング</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">property websites</span>, and drives real estate success.</span>
+						<span>不動産 Webデザイン & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ブランディング</span> — 成果につながる<span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">物件サイト</span>で不動産ビジネスを成功へ。</span>
 													
 											</h1>
 									</div>
