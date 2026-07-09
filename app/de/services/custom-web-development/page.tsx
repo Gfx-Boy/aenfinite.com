@@ -4,8 +4,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Individuelle Webentwicklung | Bespoke Website Solutions",
-  description: "Aenfinite is a leading individuelle Webentwicklung agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.",
+  title: "Individuelle Webentwicklung | Maßgeschneiderte Web-Lösungen & Anwendungen",
+  description: "Individuelle Webentwicklung von Aenfinite: maßgeschneiderte Websites, Webanwendungen und API-Integration. Hochperformante Individualentwicklung, die Ihr Business nachhaltig voranbringt.",
   keywords: "individuelle Webentwicklung, bespoke website development, custom website, web application development, API integration, full-stack development, tailored web solutions, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/custom-web-development/", languages: {"x-default":"https://aenfinite.com/services/custom-web-development/","en":"https://aenfinite.com/services/custom-web-development/","es":"https://aenfinite.com/es/services/custom-web-development/","fr":"https://aenfinite.com/fr/services/custom-web-development/","de":"https://aenfinite.com/de/services/custom-web-development/","it":"https://aenfinite.com/it/services/custom-web-development/","ar":"https://aenfinite.com/ar/services/custom-web-development/","pt":"https://aenfinite.com/pt/services/custom-web-development/","zh":"https://aenfinite.com/zh/services/custom-web-development/","hi":"https://aenfinite.com/hi/services/custom-web-development/","nl":"https://aenfinite.com/nl/services/custom-web-development/","ja":"https://aenfinite.com/ja/services/custom-web-development/","ko":"https://aenfinite.com/ko/services/custom-web-development/"} },
   openGraph: {"title":"Professional Individuelle Webentwicklung | Bespoke Website Solutions | Aenfinite","description":"Aenfinite is a leading individuelle Webentwicklung agency specializing in bespoke websites, custom applications, API integration, and tailored web solutions. We deliver high-performance custom websites that drive business growth.","url":"https://aenfinite.com/de/services/custom-web-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1314,7 +1314,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Custom Web <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Entwicklung</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">bespoke solutions</span>, and drives business success.</span>
+						<span>Individuelle <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Webentwicklung</span> — maßgeschneiderte Websites und <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Web-Lösungen</span>, die Ihr Business voranbringen.</span>
 													
 											</h1>
 									</div>

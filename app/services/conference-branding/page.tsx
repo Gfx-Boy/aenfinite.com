@@ -2,7 +2,7 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Premier Conference Branding & Event Identity Design Services",
+  title: "Conference Branding & Event Identity Design",
   description: "Aenfinite delivers premier conference branding and event identity design services that captivate audiences and strengthen brand presence. We craft cohesive event visuals, signage, digital assets, and complete branding strategies for memorable conference experiences.",
   keywords: "conference branding, event branding, event identity design, conference signage, event marketing, trade show branding, conference visual identity, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/services/conference-branding/", languages: {"x-default":"https://aenfinite.com/services/conference-branding/","en":"https://aenfinite.com/services/conference-branding/","es":"https://aenfinite.com/es/services/conference-branding/","fr":"https://aenfinite.com/fr/services/conference-branding/","de":"https://aenfinite.com/de/services/conference-branding/","it":"https://aenfinite.com/it/services/conference-branding/","ar":"https://aenfinite.com/ar/services/conference-branding/","pt":"https://aenfinite.com/pt/services/conference-branding/","zh":"https://aenfinite.com/zh/services/conference-branding/","hi":"https://aenfinite.com/hi/services/conference-branding/","nl":"https://aenfinite.com/nl/services/conference-branding/","ja":"https://aenfinite.com/ja/services/conference-branding/","ko":"https://aenfinite.com/ko/services/conference-branding/"} },

@@ -4,9 +4,9 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website Ontwikkeling | Custom Themes & Plugin-ontwikkeling",
-  description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
-  keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
+  title: "WordPress Maatwerk & Websites Op Maat | Plugin Laten Maken",
+  description: "Aenfinite bouwt WordPress websites op maat: WordPress maatwerk thema's, WooCommerce en WordPress plugins laten maken. Veilige, snelle en schaalbare WordPress oplossingen op maat voor jouw bedrijf.",
+  keywords: "WordPress maatwerk, WordPress op maat, WordPress website laten maken, WordPress plugin laten maken, WordPress plugin ontwikkeling, WooCommerce, custom WordPress theme, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/nl/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
   openGraph: {"title":"Expert WordPress Website Ontwikkeling | Custom Themes & Plugin-ontwikkeling | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/nl/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Expert WordPress Website Ontwikkeling | Custom Themes & Plugin-ontwikkeling | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
@@ -1321,7 +1321,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>WordPress Website <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Ontwikkeling</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">custom</span> websites, and enhances your digital presence.</span>
+						<span>WordPress Websites <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Op Maat</span> — maatwerk thema's en plugins <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">laten maken</span>, volledig op maat gebouwd voor jouw bedrijf.</span>
 													
 											</h1>
 									</div>
