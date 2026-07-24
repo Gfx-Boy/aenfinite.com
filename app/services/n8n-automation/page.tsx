@@ -2,18 +2,20 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing",
-  description: "Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
-  keywords: "digital marketing, SEO, PPC, social media marketing, content marketing, email marketing, local marketing agency, Aenfinite",
-  alternates: { canonical: "https://aenfinite.com/services/social-media-marketing/" },
-  openGraph: {"title":"Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite","description":"Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Marketing & Digital Solutions in {{CITY}}, {{STATE}} | SEO, PPC, Social Media & Content Marketing | Aenfinite","description":"Aenfinite delivers marketing and digital solutions in {{CITY}}, {{STATE}} that drive growth through SEO, PPC, social media marketing, content strategy, and data-driven digital campaigns.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  title: "n8n Automation Agency | Hire n8n Developers & Experts",
+  description: "Certified n8n automation agency: workflow development, self-hosted n8n setup, Zapier/Make migrations and managed hosting. US-based n8n developers — workflows from $1,000.",
+  keywords: "n8n automation agency, hire n8n developer, n8n consultant, n8n experts, n8n workflow development, self-hosted n8n, Zapier to n8n migration, Make.com automation agency, n8n vs Zapier, Aenfinite",
+  alternates: { canonical: "https://aenfinite.com/services/n8n-automation/", languages: {"x-default":"https://aenfinite.com/services/n8n-automation/","en":"https://aenfinite.com/services/n8n-automation/"} },
+  openGraph: {"title":"n8n Automation Agency | Hire n8n Developers & Experts | Aenfinite","description":"n8n workflow development, self-hosted setup, Zapier/Make migrations and managed n8n hosting from a US-based engineering agency.","url":"https://aenfinite.com/services/n8n-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"n8n Automation Agency | Hire n8n Developers & Experts | Aenfinite","description":"n8n workflow development, self-hosting, migrations and managed support — US-based n8n experts.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
+/* =====Professional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
 .service-list {
@@ -971,7 +973,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1089,7 +1091,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <path d="M215.497 294.602L207.394 286.5L209.932 283.962C210.007 283.887 210.148 283.75 210.354 283.551C210.564 283.349 210.776 283.167 210.99 283.005C211.703 282.45 212.462 282.144 213.269 282.088C214.079 282.028 214.884 282.176 215.683 282.533C216.478 282.885 217.219 283.405 217.905 284.091C218.595 284.781 219.119 285.526 219.475 286.325C219.828 287.12 219.974 287.923 219.914 288.733C219.854 289.536 219.546 290.294 218.991 291.007C218.83 291.22 218.648 291.432 218.445 291.642C218.247 291.849 218.11 291.989 218.035 292.064L215.497 294.602ZM215.581 292.278L216.915 290.945C217.042 290.817 217.191 290.661 217.359 290.478C217.528 290.294 217.669 290.123 217.781 289.966C218.115 289.474 218.271 288.962 218.248 288.43C218.226 287.889 218.07 287.355 217.781 286.826C217.493 286.297 217.117 285.802 216.656 285.34C216.18 284.864 215.677 284.485 215.148 284.204C214.615 283.919 214.083 283.769 213.55 283.754C213.017 283.731 212.511 283.885 212.031 284.215C211.87 284.324 211.697 284.466 211.513 284.643C211.329 284.811 211.176 284.958 211.052 285.082L209.718 286.415L215.581 292.278ZM225.681 284.756C225.073 285.364 224.409 285.754 223.689 285.926C222.969 286.099 222.246 286.067 221.522 285.831C220.799 285.587 220.121 285.15 219.491 284.52C218.857 283.886 218.424 283.205 218.191 282.477C217.955 281.746 217.927 281.024 218.107 280.311C218.283 279.594 218.67 278.938 219.266 278.341C219.874 277.734 220.538 277.344 221.258 277.171C221.978 276.999 222.7 277.03 223.424 277.267C224.148 277.503 224.824 277.934 225.45 278.561C226.084 279.195 226.519 279.878 226.755 280.609C226.992 281.333 227.024 282.055 226.851 282.775C226.675 283.492 226.285 284.152 225.681 284.756ZM224.572 283.648C225.154 283.066 225.392 282.438 225.287 281.763C225.182 281.08 224.82 280.429 224.201 279.81C223.567 279.176 222.914 278.816 222.243 278.73C221.571 278.636 220.949 278.876 220.375 279.45C219.981 279.844 219.746 280.258 219.671 280.693C219.592 281.125 219.649 281.56 219.84 281.999C220.028 282.434 220.328 282.858 220.74 283.271C221.378 283.908 222.035 284.272 222.71 284.362C223.385 284.452 224.006 284.214 224.572 283.648ZM233.602 276.497L230.614 273.509C230.378 273.273 230.115 273.052 229.826 272.845C229.537 272.632 229.23 272.474 228.903 272.373C228.581 272.268 228.253 272.251 227.919 272.322C227.589 272.39 227.262 272.585 226.94 272.907C226.73 273.117 226.566 273.352 226.45 273.611C226.33 273.866 226.276 274.141 226.287 274.438C226.302 274.73 226.394 275.044 226.563 275.378C226.735 275.708 227.002 276.053 227.362 276.413L226.355 276.869C225.803 276.317 225.42 275.728 225.207 275.102C224.989 274.472 224.955 273.845 225.105 273.222C225.255 272.6 225.604 272.015 226.152 271.467C226.572 271.047 226.992 270.762 227.412 270.612C227.832 270.462 228.241 270.409 228.639 270.454C229.037 270.492 229.412 270.593 229.764 270.758C230.117 270.923 230.434 271.112 230.715 271.326C230.997 271.54 231.231 271.741 231.419 271.928L234.795 275.304L233.602 276.497ZM229.331 280.768L223.254 274.691L224.306 273.639L226.062 275.394L226.203 275.254L230.524 279.575L229.331 280.768ZM230.127 269.169L229.677 268.572C229.849 268.422 229.945 268.267 229.964 268.105C229.982 267.944 229.943 267.785 229.845 267.627C229.748 267.47 229.609 267.32 229.429 267.177L228.782 267.824L227.426 266.468L228.669 265.225L230.138 266.693C230.581 267.136 230.808 267.577 230.819 268.015C230.834 268.451 230.603 268.835 230.127 269.169ZM241.467 268.632C241.159 269.09 240.816 269.497 240.437 269.853C240.058 270.21 239.659 270.467 239.238 270.624C238.818 270.782 238.394 270.793 237.967 270.658C237.584 270.538 237.258 270.354 236.988 270.107C236.718 269.852 236.418 269.559 236.087 269.229L230.714 263.855L231.895 262.674L237.213 267.991C237.457 268.235 237.67 268.445 237.854 268.621C238.042 268.794 238.233 268.906 238.428 268.959C238.796 269.056 239.143 268.976 239.469 268.717C239.795 268.451 240.129 268.09 240.471 267.637L241.467 268.632ZM232.182 267.653L231.237 266.708L235.39 262.556L236.335 263.501L232.182 267.653ZM247.235 263.202C246.653 263.783 246.025 264.13 245.35 264.243C244.671 264.352 243.988 264.266 243.302 263.984C242.615 263.703 241.968 263.258 241.36 262.651C240.753 262.043 240.306 261.398 240.021 260.715C239.74 260.029 239.655 259.351 239.768 258.684C239.88 258.009 240.224 257.384 240.798 256.81C241.368 256.24 242 255.889 242.694 255.758C243.388 255.619 244.089 255.679 244.798 255.938C245.503 256.193 246.162 256.626 246.773 257.238C247.381 257.845 247.816 258.506 248.079 259.218C248.341 259.924 248.407 260.623 248.276 261.317C248.148 262.007 247.801 262.636 247.235 263.202ZM246.908 268.593L238.13 259.815L239.177 258.768L243.549 263.14L243.684 263.005L248.09 267.411L246.908 268.593ZM246.008 262.302C246.383 261.927 246.597 261.522 246.649 261.086C246.706 260.647 246.633 260.207 246.43 259.764C246.227 259.314 245.925 258.888 245.524 258.487C245.126 258.089 244.704 257.791 244.258 257.592C243.815 257.39 243.373 257.318 242.93 257.378C242.487 257.438 242.071 257.663 241.681 258.054C241.313 258.421 241.1 258.815 241.04 259.235C240.983 259.652 241.058 260.079 241.265 260.518C241.475 260.953 241.79 261.381 242.21 261.801C242.63 262.221 243.058 262.536 243.493 262.746C243.928 262.956 244.359 263.031 244.787 262.971C245.215 262.911 245.622 262.688 246.008 262.302ZM250.666 259.433L244.589 253.356L245.635 252.31L247.11 253.784L246.772 253.739C246.652 253.469 246.571 253.193 246.53 252.912C246.485 252.627 246.489 252.353 246.541 252.09C246.583 251.824 246.667 251.567 246.795 251.319C246.922 251.064 247.08 250.832 247.267 250.622C247.451 250.408 247.652 250.226 247.869 250.076L248.972 251.179C248.721 251.325 248.485 251.531 248.263 251.798C248.046 252.06 247.901 252.358 247.83 252.692C247.762 253.007 247.761 253.309 247.824 253.598C247.892 253.883 248.01 254.159 248.179 254.425C248.344 254.688 248.546 254.939 248.787 255.179L251.853 258.246L250.666 259.433ZM257.378 253.059C256.774 253.663 256.112 254.062 255.392 254.257C254.672 254.445 253.948 254.43 253.22 254.212C252.492 253.987 251.815 253.561 251.189 252.935C250.525 252.271 250.073 251.571 249.833 250.836C249.596 250.097 249.568 249.371 249.748 248.658C249.928 247.946 250.315 247.293 250.907 246.7C251.526 246.081 252.198 245.699 252.922 245.552C253.642 245.402 254.373 245.485 255.116 245.8C255.863 246.111 256.577 246.653 257.26 247.426L256.084 248.602L255.656 248.175C254.944 247.477 254.287 247.09 253.687 247.015C253.09 246.937 252.526 247.164 251.993 247.696C251.404 248.285 251.147 248.914 251.222 249.581C251.297 250.249 251.686 250.934 252.387 251.635C253.055 252.303 253.721 252.672 254.385 252.743C255.045 252.811 255.654 252.565 256.213 252.006C256.581 251.639 256.815 251.239 256.917 250.808C257.018 250.369 256.988 249.919 256.827 249.457L258.346 248.67C258.654 249.45 258.717 250.23 258.537 251.01C258.353 251.787 257.967 252.47 257.378 253.059ZM252.336 252.35L251.419 251.432L255.758 247.094L256.675 248.011L252.336 252.35ZM263.322 247.103C262.583 247.842 261.818 248.281 261.026 248.42C260.235 248.559 259.49 248.384 258.792 247.897L259.811 246.507C260.201 246.747 260.623 246.824 261.077 246.738C261.531 246.644 261.96 246.394 262.365 245.989C262.733 245.622 262.945 245.26 263.001 244.903C263.061 244.543 262.96 244.232 262.697 243.969C262.544 243.815 262.382 243.729 262.214 243.71C262.045 243.684 261.801 243.744 261.482 243.89C261.163 244.037 260.702 244.284 260.098 244.633C259.441 245.02 258.882 245.29 258.421 245.443C257.96 245.59 257.56 245.625 257.223 245.55C256.885 245.468 256.568 245.278 256.272 244.982C255.904 244.614 255.681 244.196 255.602 243.727C255.523 243.258 255.585 242.773 255.788 242.27C255.994 241.764 256.335 241.272 256.812 240.796C257.277 240.331 257.765 239.989 258.275 239.772C258.785 239.554 259.288 239.468 259.783 239.513C260.274 239.554 260.722 239.732 261.128 240.047L260.143 241.471C259.809 241.22 259.441 241.126 259.04 241.19C258.639 241.253 258.245 241.463 257.858 241.82C257.487 242.161 257.258 242.51 257.172 242.866C257.082 243.219 257.153 243.512 257.386 243.744C257.521 243.879 257.676 243.952 257.853 243.964C258.033 243.971 258.288 243.896 258.618 243.739C258.948 243.581 259.411 243.324 260.008 242.968C260.649 242.589 261.201 242.33 261.662 242.191C262.12 242.049 262.523 242.024 262.872 242.118C263.221 242.204 263.551 242.403 263.862 242.714C264.462 243.315 264.714 244.005 264.616 244.785C264.522 245.562 264.091 246.334 263.322 247.103ZM268.962 241.464C268.223 242.203 267.457 242.642 266.666 242.781C265.874 242.919 265.13 242.745 264.432 242.257L265.45 240.867C265.841 241.107 266.263 241.184 266.717 241.098C267.17 241.004 267.6 240.755 268.005 240.35C268.373 239.982 268.585 239.62 268.641 239.264C268.701 238.904 268.6 238.592 268.337 238.33C268.183 238.176 268.022 238.09 267.853 238.071C267.684 238.045 267.44 238.105 267.122 238.251C266.803 238.397 266.341 238.645 265.737 238.994C265.081 239.38 264.522 239.65 264.061 239.804C263.599 239.95 263.2 239.986 262.862 239.911C262.525 239.828 262.208 239.639 261.911 239.343C261.544 238.975 261.32 238.557 261.242 238.088C261.163 237.619 261.225 237.133 261.427 236.63C261.634 236.124 261.975 235.633 262.451 235.156C262.917 234.691 263.404 234.35 263.914 234.132C264.425 233.915 264.927 233.828 265.422 233.873C265.914 233.915 266.362 234.093 266.767 234.408L265.782 235.831C265.449 235.58 265.081 235.486 264.68 235.55C264.278 235.614 263.884 235.824 263.498 236.18C263.127 236.522 262.898 236.87 262.812 237.227C262.721 237.579 262.793 237.872 263.025 238.105C263.16 238.24 263.316 238.313 263.492 238.324C263.672 238.332 263.927 238.257 264.258 238.099C264.588 237.941 265.051 237.684 265.647 237.328C266.289 236.949 266.84 236.69 267.302 236.552C267.759 236.409 268.163 236.385 268.511 236.478C268.86 236.565 269.19 236.764 269.502 237.075C270.102 237.675 270.353 238.365 270.256 239.146C270.162 239.922 269.731 240.695 268.962 241.464ZM277.451 232.649C277.143 233.106 276.8 233.513 276.421 233.87C276.042 234.226 275.642 234.483 275.222 234.64C274.802 234.798 274.378 234.809 273.951 234.674C273.568 234.554 273.242 234.37 272.972 234.123C272.702 233.868 272.401 233.575 272.071 233.245L266.698 227.871L267.879 226.69L273.197 232.007C273.44 232.251 273.654 232.461 273.838 232.637C274.026 232.81 274.217 232.922 274.412 232.975C274.78 233.072 275.127 232.992 275.453 232.733C275.779 232.467 276.113 232.107 276.455 231.653L277.451 232.649ZM268.166 231.669L267.221 230.724L271.374 226.572L272.319 227.517L268.166 231.669ZM282.603 227.496L279.615 224.508C279.379 224.272 279.116 224.051 278.827 223.844C278.539 223.63 278.231 223.473 277.905 223.372C277.582 223.267 277.254 223.25 276.92 223.321C276.59 223.388 276.263 223.584 275.941 223.906C275.731 224.116 275.568 224.351 275.451 224.61C275.331 224.865 275.277 225.14 275.288 225.437C275.303 225.729 275.395 226.042 275.564 226.376C275.736 226.706 276.003 227.052 276.363 227.412L275.356 227.867C274.804 227.316 274.422 226.727 274.208 226.101C273.99 225.47 273.956 224.844 274.107 224.221C274.257 223.599 274.605 223.013 275.153 222.466C275.573 222.046 275.993 221.76 276.414 221.61C276.834 221.46 277.243 221.408 277.64 221.453C278.038 221.49 278.413 221.592 278.766 221.757C279.118 221.922 279.435 222.111 279.716 222.325C279.998 222.539 280.232 222.74 280.42 222.927L283.796 226.303L282.603 227.496ZM278.332 231.767L270.23 223.664L271.282 222.612L275.654 226.984L275.795 226.843L279.525 230.574L278.332 231.767ZM277.907 218.046L276.765 216.904L277.941 215.728L279.083 216.87L277.907 218.046ZM284.98 225.119L278.903 219.042L280.079 217.866L286.156 223.943L284.98 225.119ZM289.939 220.486C289.2 221.225 288.435 221.664 287.643 221.803C286.852 221.942 286.107 221.767 285.409 221.28L286.428 219.89C286.818 220.13 287.24 220.207 287.694 220.121C288.148 220.027 288.577 219.777 288.983 219.372C289.35 219.005 289.562 218.643 289.618 218.286C289.678 217.926 289.577 217.615 289.314 217.352C289.161 217.198 288.999 217.112 288.831 217.093C288.662 217.067 288.418 217.127 288.099 217.273C287.78 217.42 287.319 217.667 286.715 218.016C286.058 218.403 285.5 218.673 285.038 218.826C284.577 218.973 284.177 219.008 283.84 218.933C283.502 218.851 283.185 218.661 282.889 218.365C282.521 217.997 282.298 217.579 282.219 217.11C282.14 216.641 282.202 216.156 282.405 215.653C282.611 215.147 282.952 214.655 283.429 214.179C283.894 213.714 284.382 213.372 284.892 213.155C285.402 212.937 285.905 212.851 286.4 212.896C286.891 212.937 287.339 213.115 287.745 213.43L286.76 214.854C286.426 214.603 286.058 214.509 285.657 214.573C285.256 214.636 284.862 214.846 284.475 215.203C284.104 215.544 283.875 215.893 283.789 216.249C283.699 216.602 283.77 216.895 284.003 217.127C284.138 217.262 284.293 217.335 284.47 217.347C284.65 217.354 284.905 217.279 285.235 217.122C285.565 216.964 286.028 216.707 286.625 216.351C287.266 215.972 287.818 215.713 288.279 215.574C288.737 215.432 289.14 215.407 289.489 215.501C289.838 215.587 290.168 215.786 290.479 216.097C291.079 216.698 291.331 217.388 291.233 218.168C291.139 218.945 290.708 219.717 289.939 220.486ZM299.216 210.883L296.228 207.896C295.992 207.659 295.729 207.438 295.44 207.232C295.151 207.018 294.844 206.86 294.517 206.759C294.195 206.654 293.867 206.637 293.533 206.708C293.203 206.776 292.876 206.971 292.554 207.293C292.344 207.504 292.18 207.738 292.064 207.997C291.944 208.252 291.89 208.528 291.901 208.824C291.916 209.117 292.008 209.43 292.177 209.764C292.349 210.094 292.615 210.439 292.976 210.799L291.968 211.255C291.417 210.703 291.034 210.114 290.821 209.488C290.603 208.858 290.569 208.231 290.719 207.609C290.869 206.986 291.218 206.401 291.766 205.853C292.186 205.433 292.606 205.148 293.026 204.998C293.446 204.848 293.855 204.795 294.253 204.84C294.651 204.878 295.026 204.979 295.378 205.144C295.731 205.309 296.048 205.498 296.329 205.712C296.611 205.926 296.845 206.127 297.033 206.314L300.409 209.69L299.216 210.883ZM294.945 215.154L286.842 207.051L287.895 205.999L292.267 210.371L292.407 210.231L296.138 213.961L294.945 215.154ZM304.344 206.092C303.74 206.696 303.078 207.096 302.358 207.291C301.638 207.478 300.914 207.463 300.186 207.246C299.458 207.021 298.781 206.595 298.155 205.969C297.491 205.305 297.039 204.605 296.799 203.87C296.563 203.131 296.534 202.405 296.714 201.692C296.895 200.979 297.281 200.327 297.874 199.734C298.493 199.115 299.164 198.732 299.888 198.586C300.608 198.436 301.34 198.519 302.082 198.834C302.829 199.145 303.544 199.687 304.226 200.46L303.05 201.636L302.623 201.208C301.91 200.511 301.253 200.124 300.653 200.049C300.057 199.97 299.492 200.197 298.96 200.73C298.371 201.319 298.114 201.947 298.189 202.615C298.264 203.283 298.652 203.967 299.353 204.669C300.021 205.336 300.687 205.706 301.351 205.777C302.011 205.845 302.621 205.599 303.18 205.04C303.547 204.672 303.782 204.273 303.883 203.842C303.984 203.403 303.954 202.953 303.793 202.491L305.312 201.703C305.62 202.484 305.684 203.264 305.504 204.044C305.32 204.821 304.933 205.503 304.344 206.092ZM299.303 205.383L298.386 204.466L302.724 200.128L303.641 201.045L299.303 205.383ZM309.576 200.86C309.126 201.31 308.667 201.605 308.198 201.744C307.725 201.879 307.273 201.888 306.842 201.772C306.41 201.648 306.03 201.421 305.699 201.091C305.392 200.783 305.176 200.459 305.052 200.118C304.929 199.776 304.893 199.418 304.946 199.043C304.994 198.664 305.124 198.268 305.334 197.856C305.525 197.507 305.761 197.132 306.043 196.73C306.324 196.329 306.626 195.914 306.949 195.487C307.275 195.055 307.598 194.628 307.916 194.204L307.725 194.868C307.256 194.384 306.802 194.133 306.363 194.114C305.925 194.088 305.452 194.328 304.946 194.834C304.627 195.153 304.409 195.52 304.293 195.937C304.173 196.35 304.231 196.779 304.467 197.225L303.032 197.985C302.661 197.314 302.532 196.614 302.644 195.886C302.76 195.155 303.169 194.438 303.871 193.737C304.415 193.193 304.981 192.814 305.57 192.6C306.159 192.379 306.748 192.375 307.337 192.589C307.633 192.69 307.903 192.84 308.147 193.039C308.391 193.238 308.64 193.465 308.896 193.72L312.637 197.462L311.596 198.503L310.207 197.113L310.589 197.09C310.803 197.807 310.829 198.475 310.668 199.094C310.507 199.705 310.143 200.294 309.576 200.86ZM308.822 199.69C309.156 199.356 309.385 199.011 309.509 198.655C309.629 198.295 309.67 197.949 309.633 197.619C309.595 197.289 309.499 197.002 309.346 196.758C309.229 196.515 309.062 196.276 308.845 196.044C308.631 195.807 308.457 195.622 308.322 195.487L308.845 195.245C308.53 195.672 308.243 196.061 307.984 196.41C307.725 196.758 307.494 197.079 307.292 197.372C307.089 197.657 306.922 197.925 306.791 198.176C306.686 198.394 306.609 198.606 306.56 198.812C306.515 199.015 306.512 199.21 306.549 199.397C306.59 199.581 306.692 199.754 306.853 199.915C307.011 200.073 307.196 200.179 307.41 200.236C307.62 200.288 307.845 200.273 308.085 200.191C308.325 200.108 308.571 199.941 308.822 199.69ZM313.705 196.394L307.628 190.318L308.674 189.271L310.148 190.745L309.811 190.7C309.691 190.43 309.61 190.154 309.569 189.873C309.524 189.588 309.528 189.314 309.58 189.052C309.621 188.785 309.706 188.528 309.833 188.281C309.961 188.026 310.118 187.793 310.306 187.583C310.49 187.369 310.691 187.187 310.908 187.037L312.011 188.14C311.76 188.286 311.523 188.493 311.302 188.759C311.084 189.021 310.94 189.32 310.869 189.654C310.801 189.969 310.799 190.271 310.863 190.559C310.931 190.845 311.049 191.12 311.218 191.387C311.383 191.649 311.585 191.901 311.825 192.141L314.892 195.207L313.705 196.394ZM321.14 188.959C320.832 189.417 320.489 189.824 320.11 190.18C319.732 190.536 319.332 190.793 318.912 190.951C318.492 191.108 318.068 191.12 317.64 190.985C317.258 190.865 316.931 190.681 316.661 190.433C316.391 190.178 316.091 189.886 315.761 189.555L310.387 184.182L311.569 183L316.886 188.318C317.13 188.561 317.344 188.771 317.528 188.948C317.715 189.12 317.907 189.233 318.102 189.285C318.469 189.383 318.816 189.302 319.143 189.043C319.469 188.777 319.803 188.417 320.144 187.963L321.14 188.959ZM311.856 187.98L310.911 187.035L315.063 182.882L316.008 183.827L311.856 187.98Z" fill="black"/>
 			</symbol>
 		</svg>
-		
+	
 		<div class="mainnav js-mainnav ">
 			<div class="wrapper">
 				<div class="topbar">
@@ -1316,7 +1318,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Marketing & <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Digital Solutions in {{CITY}}, {{STATE}}</span> that drive growth, boost visibility, and maximize <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">ROI</span>.</span>
+						<span><span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">n8n</span> experts who design, build, host, and maintain <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">production-grade</span> automations for your business.</span>
 													
 											</h1>
 									</div>
@@ -1354,28 +1356,27 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Expert Marketing & Digital Solutions in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">SEO, PPC, Social Media & Content Marketing in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Serving {{CITY}}, {{STATE}} and Clients Across the US, Canada & Beyond</span>
-    <span class="marquee-line_text">Specialists in Engagement Growth & Community Building in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses in {{CITY}} for Social Media Results</span>
-    <span class="marquee-line_text">Data-Driven Social Media Strategies & Analytics</span>
-    <span class="marquee-line_text">Local & Global Social Media Campaign Management</span>
-    <span class="marquee-line_text">Professional Social Media Agency with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Social Media Audits & Strategy</span>
-    <span class="marquee-line_text">Custom Social Media Solutions for Every Industry</span>
-    <span class="marquee-line_text">Content Creation & Social Media Performance</span>
-    <span class="marquee-line_text">Sustainable Social Media Growth & Long-term Engagement</span>
+    <span class="marquee-line_text">n8n Automation Agency & Consultants</span>
+    <span class="marquee-line_text">Hire US-Based n8n Developers</span>
+    <span class="marquee-line_text">Self-Hosted n8n Setup & Hardening</span>
+    <span class="marquee-line_text">Zapier & Make to n8n Migrations</span>
+    <span class="marquee-line_text">AI-Powered n8n Workflows with Claude & GPT</span>
+    <span class="marquee-line_text">Managed n8n Hosting from $350/month</span>
+    <span class="marquee-line_text">n8n + CRM, Invoicing & Lead Automation</span>
+    <span class="marquee-line_text">We Run n8n in Our Own Production Stack</span>
+    <span class="marquee-line_text">Workflows from $1,000 — Published Pricing</span>
+    <span class="marquee-line_text">Error Handling, Monitoring & Documentation</span>
+    <span class="marquee-line_text">n8n Training for Your Internal Team</span>
+    <span class="marquee-line_text">Redefine Infinite Possibilities with n8n</span>
 </div>
 						                    </div>
                 </div>
-              
             </div>
 			
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers comprehensive Marketing & Digital Solutions in {{CITY}}, {{STATE}} that drive growth and maximize ROI. We provide expert SEO, PPC advertising, social media marketing, content marketing, email campaigns, and digital strategy services that generate measurable results and sustainable business growth for companies throughout {{CITY}} and beyond.</div>
+				<div class="textbox-content">Aenfinite builds and manages n8n automations for businesses that have outgrown Zapier — or want the control and economics of self-hosting from day one. We handle everything: workflow architecture, custom nodes and code steps, AI integration, self-hosted deployment with backups and monitoring, and migrations from Zapier or Make. We run n8n in our own production stack, including the contact and lead pipelines on this site.</div>
 									<div class="textbox-action">
 						<a href="/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1384,163 +1385,51 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	</div>
 	<div class="section">
-	<div class="wrapper">
-		<div class="inner-wrapper">
-			<div class="numbers">
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>280+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>successful social media marketing campaigns and brand growth projects launched by Aenfinite</div>
+		<div class="wrapper">
+			<div class="inner-wrapper">
+				<div class="numbers">
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>290+</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+									<div>automation projects and production workflows delivered across CRM, finance, marketing and operations</div>
+																	</div>
+							</div>
 						</div>
-					</div>
-				</div>
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>8+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>years managing social media strategies and creating impactful digital content across industries, delivering exceptional engagement and reach</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>8+</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+									<div>years of software and integration engineering behind every workflow — n8n is code, and we are engineers first</div>
+																	</div>
+							</div>
 						</div>
-					</div>
-				</div>
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>99%</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>client satisfaction rate on social media marketing campaigns and brand visibility projects</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>99%</div>
+							</div>
+							<div class="numbers-title">
+								<div>
+									<div>client satisfaction rate across automation builds, migrations and managed n8n engagements</div>
+																	</div>
+							</div>
 						</div>
-					</div>
-				</div>
-			</div>
+									</div>
+							</div>
 		</div>
 	</div>
-</div>
-
+		
 	</div>
-	<div class="section"> 		
-  <div class="wrapper"> 			
-    <div> 				
-      <div class="inner-wrapper"> 					
-        <div class="section-caption js-aos"> 						
-          <div class="section-caption_text"> 							
-            <h2>Social Media Marketing Expertise</h2> 						
-          </div> 					
-        </div> 					
-        <div class="textbox textbox__push js-aos appear"> 						
-          <div class="textbox-content">
-            Aenfinite delivers data-driven social media marketing strategies that build brand awareness, drive engagement, and generate measurable results. From creative content to paid campaigns, we help businesses dominate social platforms and connect with their ideal audience.
-          </div> 					
-        </div> 				
-      </div> 			
-    </div> 			
-    <div class="panes"> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Social Strategy Development</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Build a winning foundation with a tailored social media strategy. We analyze your brand, competitors, and audience to create platform-specific plans that drive growth and engagement.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Content Creation & Management</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Stand out with eye-catching visuals and compelling copy. Our creative team designs posts, reels, stories, and videos that capture attention and reflect your brand identity across all platforms.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Paid Social Advertising</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Maximize reach and conversions with highly targeted ad campaigns. We design and manage Facebook, Instagram, LinkedIn, TikTok, and X (Twitter) ads that deliver measurable ROI.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Community Management</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Build loyal relationships by staying engaged. We handle comment moderation, direct messaging, and audience interaction to strengthen brand trust and create meaningful connections.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Influencer Collaborations</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Expand your reach with influencer partnerships. We identify the right creators for your niche, negotiate collaborations, and manage campaigns to amplify your brand presence authentically.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Platform-Specific Campaigns</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Optimize performance across every channel. From Instagram Reels to LinkedIn B2B campaigns, we create tailored strategies for each platform to achieve maximum engagement and conversions.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Social Commerce & Lead Generation</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Turn followers into customers with shoppable posts and lead-gen campaigns. We integrate social commerce tools and conversion funnels to drive direct sales and capture qualified leads.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Reputation & Brand Monitoring</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Protect your brand with proactive monitoring. We track brand mentions, sentiment, and conversations to manage your online reputation and respond quickly to emerging trends.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Analytics & Performance Reporting</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Measure success with in-depth analytics. We track key metrics like engagement, reach, conversions, and ROI, delivering actionable insights to continuously refine campaigns.
-          </p> 						
-        </div> 					
-      </div> 							
-      
-    </div> 		
-  </div> 	
-</div>
-
 <a href="#contact" class="to-formss"></a>
 <div class="section" id="contact">
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite in {{CITY}}, {{STATE}} for Marketing & Digital Solutions</h2>
+				<h2>Contact Aenfinite — n8n Automation Agency & Certified Developers</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1561,62 +1450,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		
 	</div>
 	<div class="checkbox-select">
-<strong>I'm interested in...</strong>
-<span class="form-control-wrap" data-name="checkbox-select">
-  <span class="form-control checkbox-group" style="padding-bottom: 50px">
-
-    <span class="list-item first">
-      <input type="checkbox" name="services" value="Social Media Strategy Development" id="social-strategy" />
-      <label for="social-strategy" class="list-item-label">Social Media Strategy Development</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Content Creation & Scheduling" id="content-creation" />
-      <label for="content-creation" class="list-item-label">Content Creation & Scheduling</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Community Management" id="community-management" />
-      <label for="community-management" class="list-item-label">Community Management</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Paid Social Media Advertising" id="paid-social" />
-      <label for="paid-social" class="list-item-label">Paid Social Media Advertising</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Influencer Collaboration & Outreach" id="influencer-outreach" />
-      <label for="influencer-outreach" class="list-item-label">Influencer Collaboration & Outreach</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Social Media Account Setup & Optimization" id="account-setup" />
-      <label for="account-setup" class="list-item-label">Social Media Account Setup & Optimization</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Social Media Analytics & Reporting" id="analytics-reporting" />
-      <label for="analytics-reporting" class="list-item-label">Social Media Analytics & Reporting</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Hashtag Research & Trend Monitoring" id="hashtag-research" />
-      <label for="hashtag-research" class="list-item-label">Hashtag Research & Trend Monitoring</label>
-    </span>
-
-    <span class="list-item">
-      <input type="checkbox" name="services" value="Reputation Management" id="reputation-management" />
-      <label for="reputation-management" class="list-item-label">Reputation Management</label>
-    </span>
-
-    <span class="list-item last">
-      <input type="checkbox" name="services" value="Other Social Media Services" id="other-social" />
-      <label for="other-social" class="list-item-label">Other Social Media Services</label>
-    </span>
-
-  </span>
-</span>
+		<strong>I'm interested in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="n8n Workflow Development" id="n8n-workflows" /><label for="n8n-workflows" class="list-item-label">n8n Workflow Development</label></span><span class="list-item"><input type="checkbox" name="services" value="Self-Hosted n8n Setup" id="n8n-selfhost" /><label for="n8n-selfhost" class="list-item-label">Self-Hosted n8n Setup</label></span><span class="list-item"><input type="checkbox" name="services" value="Zapier to n8n Migration" id="zapier-migration" /><label for="zapier-migration" class="list-item-label">Zapier to n8n Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="Make to n8n Migration" id="make-migration" /><label for="make-migration" class="list-item-label">Make to n8n Migration</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Workflows in n8n" id="n8n-ai" /><label for="n8n-ai" class="list-item-label">AI Workflows in n8n</label></span><span class="list-item"><input type="checkbox" name="services" value="Managed n8n Hosting" id="n8n-hosting" /><label for="n8n-hosting" class="list-item-label">Managed n8n Hosting</label></span><span class="list-item"><input type="checkbox" name="services" value="n8n Debugging & Rescue" id="n8n-rescue" /><label for="n8n-rescue" class="list-item-label">n8n Debugging & Rescue</label></span><span class="list-item"><input type="checkbox" name="services" value="n8n Team Training" id="n8n-training" /><label for="n8n-training" class="list-item-label">n8n Team Training</label></span><span class="list-item"><input type="checkbox" name="services" value="Custom n8n Nodes" id="n8n-nodes" /><label for="n8n-nodes" class="list-item-label">Custom n8n Nodes</label></span><span class="list-item last"><input type="checkbox" name="services" value="Other n8n Services" id="n8n-other" /><label for="n8n-other" class="list-item-label">Other n8n Services</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Tell us your approximate budget" value="" readonly name="budget" />
@@ -1663,278 +1497,168 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	</div>
 
-</div>	
-<div class="section"> 		
-  <div class="wrapper"> 			
-    <div> 				
-      <div class="inner-wrapper"> 					
-        <div class="section-caption js-aos"> 						
-          <div class="section-caption_text"> 							
-            <h2>Social Media Marketing Expertise</h2> 						
-          </div> 					
-        </div> 					
-        <div class="textbox textbox__push js-aos appear"> 						
-          <div class="textbox-content">
-            Aenfinite delivers data-driven social media marketing strategies that build brand awareness, drive engagement, and generate measurable results. From creative content to paid campaigns, we help businesses dominate social platforms and connect with their ideal audience.
-          </div> 					
-        </div> 				
-      </div> 			
-    </div> 			
-    <div class="panes"> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Social Strategy Development</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Build a winning foundation with a tailored social media strategy. We analyze your brand, competitors, and audience to create platform-specific plans that drive growth and engagement.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Content Creation & Management</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Stand out with eye-catching visuals and compelling copy. Our creative team designs posts, reels, stories, and videos that capture attention and reflect your brand identity across all platforms.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Paid Social Advertising</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Maximize reach and conversions with highly targeted ad campaigns. We design and manage Facebook, Instagram, LinkedIn, TikTok, and X (Twitter) ads that deliver measurable ROI.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Community Management</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Build loyal relationships by staying engaged. We handle comment moderation, direct messaging, and audience interaction to strengthen brand trust and create meaningful connections.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Influencer Collaborations</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Expand your reach with influencer partnerships. We identify the right creators for your niche, negotiate collaborations, and manage campaigns to amplify your brand presence authentically.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Platform-Specific Campaigns</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Optimize performance across every channel. From Instagram Reels to LinkedIn B2B campaigns, we create tailored strategies for each platform to achieve maximum engagement and conversions.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Social Commerce & Lead Generation</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Turn followers into customers with shoppable posts and lead-gen campaigns. We integrate social commerce tools and conversion funnels to drive direct sales and capture qualified leads.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Reputation & Brand Monitoring</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Protect your brand with proactive monitoring. We track brand mentions, sentiment, and conversations to manage your online reputation and respond quickly to emerging trends.
-          </p> 						
-        </div> 					
-      </div> 									
-      
-      <div class="pane js-aos fadein"> 						
-        <div class="pane-index"></div> 						
-        <div class="pane-title">Analytics & Performance Reporting</div> 						
-        <div class="pane-subtitle"> 							
-          <p>
-            Measure success with in-depth analytics. We track key metrics like engagement, reach, conversions, and ROI, delivering actionable insights to continuously refine campaigns.
-          </p> 						
-        </div> 					
-      </div> 							
-      
-    </div> 		
-  </div> 	
-</div>
-
-		<div class="section">
+</div>		<div class="section">
 		<div class="wrapper">
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">
-Social Media Marketing
-</span>
-is the key to building brand awareness, driving engagement, and creating meaningful connections with your audience. Partner with a team that excels at crafting impactful campaigns, producing engaging content, and delivering measurable results across every platform.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">n8n</span> gives you Zapier-class automation with engineering-class control — self-hosted, versioned, and roughly a tenth of the cost at scale. You just need someone who builds it right.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
 	</div>
-</div> 
-<div class="section" style="padding-bottom: 100px;">
+</div> <div class="section" style="padding-bottom: 100px;">
 	<div class="wrapper">
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Aenfinite Social Media Marketing (SMM) Services</h2>
+					<h2>Aenfinite n8n Services</h2>
 				</div>
 			</div>
 			<div class="service-grid">
 				<div>
 					<div class="service-list js-service-container fadein js-aos">
-
-						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Social Media Strategy & Planning</div>
+							<div class="service-caption js-service-caption">n8n Workflow Development</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Strategy</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Content Calendar</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Engagement</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Campaigns</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Workflow Architecture</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Code Nodes</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Webhooks</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Sub-workflows</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Testing</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We design tailored social media strategies that align with your brand goals, audience preferences, and market trends to maximize engagement and ROI.</p>
+									<p>Production workflows with proper architecture: idempotent triggers, error branches, retries, logging, and documentation — not fragile demo flows that die on the first bad payload.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our social strategy includes:</strong></p>
+										<p><strong>Every build includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Competitor and audience analysis</li>
-											<li>Content calendar development</li>
-											<li>Multi-platform posting strategy</li>
-											<li>Engagement and community-building tactics</li>
-											<li>Campaign performance tracking</li>
+											<li>Workflow architecture and data-flow design</li>
+											<li>Custom JavaScript/Python code nodes where needed</li>
+											<li>Webhook, schedule, and event triggers</li>
+											<li>Error workflows, alerting, and retries</li>
+											<li>Documentation and handover video</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We use tools like Hootsuite, Buffer, and Sprout Social to plan, track, and optimize campaigns for consistent growth.
+											Workflows start at $1,000 and are quoted fixed-price after a free scoping call.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Content Creation & Management</div>
+							<div class="service-caption js-service-caption">Self-Hosted n8n Setup & Hosting</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Graphics</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Video</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Stories</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Reels</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Docker</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Backups</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">SSL</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Scaling</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Monitoring</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We create scroll-stopping graphics, videos, and written content that captures attention and inspires action across all major social platforms.</p>
+									<p>We deploy hardened self-hosted n8n on your VPS or cloud — Docker-based, SSL-secured, with automated backups, queue mode for scale, and uptime monitoring.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our content services include:</strong></p>
+										<p><strong>Setup includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Branded post design and templates</li>
-											<li>Short-form video content (Reels, TikToks)</li>
-											<li>Copywriting and storytelling for posts</li>
-											<li>Hashtag research and optimization</li>
-											<li>Cross-platform consistency (FB, IG, LinkedIn, X)</li>
+											<li>Docker deployment with queue mode where needed</li>
+											<li>SSL, SSO/access control, and credential vaulting</li>
+											<li>Automated encrypted backups and restore drills</li>
+											<li>Version upgrades and security patching</li>
+											<li>Uptime and execution-failure monitoring</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We ensure your brand voice remains strong and unified while adapting content for each platform's unique audience.
+											Own your automation infrastructure: no per-task fees, no data transiting third-party clouds.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 3 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Paid Social Media Advertising</div>
+							<div class="service-caption js-service-caption">Zapier & Make Migrations</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Facebook Ads</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Instagram Ads</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">LinkedIn Ads</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Audience Targeting</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Audit</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Mapping</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Parallel Run</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Cutover</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Cost Savings</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We manage high-performing paid campaigns across platforms, ensuring your ads reach the right audience with maximum ROI.</p>
+									<p>Zapier bills can hit thousands per month at scale. We migrate your Zaps and Make scenarios to n8n methodically — audited, rebuilt, run in parallel, and cut over with zero downtime.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our ad management covers:</strong></p>
+										<p><strong>Migration process:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Precise audience targeting & retargeting</li>
-											<li>Ad copywriting and creative design</li>
-											<li>A/B testing and performance optimization</li>
-											<li>Budget allocation and ROI tracking</li>
-											<li>Conversion-focused ad funnels</li>
+											<li>Full audit and dependency map of existing Zaps/scenarios</li>
+											<li>Priority ranking by cost and risk</li>
+											<li>Rebuild with improved error handling</li>
+											<li>Parallel running and output verification</li>
+											<li>Cutover, monitoring, and decommission</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We help you attract new customers, nurture leads, and scale sales through optimized paid social campaigns.
+											Typical result: 70–90% lower monthly automation platform spend within one quarter.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 4 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Community Engagement & Growth</div>
+							<div class="service-caption js-service-caption">AI Workflows & Agents in n8n</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Engagement</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Followers</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Brand Loyalty</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Customer Support</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Claude & GPT</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">RAG</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Agents</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Guardrails</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Cost Control</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We help your brand grow loyal communities by fostering meaningful interactions, managing feedback, and strengthening trust.</p>
+									<p>n8n is the best open orchestrator for AI workloads: we build workflows where Claude or GPT classify tickets, draft replies, extract document data, and power full agents with tool use.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our engagement efforts include:</strong></p>
+										<p><strong>AI workflow builds:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Comment and message management</li>
-											<li>Interactive campaigns (polls, quizzes, live sessions)</li>
-											<li>User-generated content promotion</li>
-											<li>Influencer collaboration opportunities</li>
-											<li>Reputation management</li>
+											<li>LLM steps: classification, extraction, drafting, summarization</li>
+											<li>RAG pipelines over your docs and databases</li>
+											<li>AI agents with tools and human approval gates</li>
+											<li>Token-cost monitoring and model routing</li>
+											<li>Evaluation loops for output quality</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We focus on turning followers into advocates, ensuring your brand stays top of mind for your audience.
+											We use the same patterns in our own stack — battle-tested prompts, not experiments on your invoice.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -1948,37 +1672,100 @@ is the key to building brand awareness, driving engagement, and creating meaning
 		</div>
 	</div>
 </div>
+
 	
 		</div>
 	
 	
 			
+<!-- AEN-LONGFORM START -->
+<section class='aen-longform' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 22px;line-height:1.2;'>Why n8n — and why hire an n8n agency instead of DIY?</h2>
+
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>n8n is an open-source workflow automation platform that you can self-host, extend with real code, and run at a fraction of the per-task cost of Zapier or Make.</strong> It connects 500+ applications, runs custom JavaScript or Python anywhere in a flow, and has become the default orchestration layer for AI workflows — calling models like Claude and GPT as steps inside business processes. Aenfinite is an engineering agency that builds, hosts, and maintains n8n systems for businesses across the US and Canada, and runs n8n in its own production infrastructure.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>n8n vs Zapier vs Make — the honest comparison</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>Zapier</strong> is the easiest to start with and has the most integrations, but per-task pricing gets expensive fast: high-volume teams routinely pay $500–$3,000+ per month. <strong>Make</strong> is more visual and cheaper mid-scale, but complex scenarios become hard to debug and it remains cloud-only. <strong>n8n</strong> requires more skill up front — it is a developer-grade tool — but self-hosting means flat infrastructure cost regardless of volume, full data control, versioning, and unlimited complexity via code nodes. Our rule of thumb from client work: under ~2,000 tasks a month with simple flows, stay on Zapier; beyond that, or when workflows carry sensitive data or AI steps, n8n wins on cost and control almost every time. Updated July 2026.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>n8n development pricing</h2>
+  
+  <div style='overflow-x:auto;margin:24px 0;'>
+    <table style='width:100%;border-collapse:collapse;font-size:16px;min-width:640px;'>
+      <thead><tr>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Engagement</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Typical investment</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>What you get</th>
+      </tr></thead>
+      <tbody>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Single n8n workflow</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$1,000 – $3,500</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>One production workflow: design, build, error handling, docs</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Self-hosted n8n setup</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$1,500 – $4,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Hardened Docker deploy, SSL, backups, monitoring, upgrade path</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>n8n implementation program</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$3,500 – $12,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Setup plus 3–6 workflows across sales, ops and finance</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Zapier/Make migration</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$2,500 – $10,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Audit, rebuild, parallel run, cutover — priced by scenario count</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Managed n8n</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>from $350/mo</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Hosting, monitoring, patches, fixes and small changes included</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p style='font-size:14px;opacity:0.7;line-height:1.6;'>Fixed-price quotes after a free scoping call. Self-hosted clients own everything — code, credentials and infrastructure.</p>
+
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How we deliver an n8n project</h2>
+  <ol style='padding-left:22px;font-size:16px;'>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Scope.</strong> Free call to map the processes, systems, and volumes involved. You get a fixed quote and a workflow diagram.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Architect.</strong> We design triggers, data flow, error paths, and where AI steps or human approvals belong.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Build.</strong> Development in a staging n8n instance with your sandbox credentials and real payload testing.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Verify.</strong> Parallel run against the manual process (or old Zaps) until outputs match. Then cutover.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Maintain.</strong> Managed plans keep n8n patched, monitored, and improving month over month.</li>
+  </ol>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>What we connect n8n to</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>HubSpot &middot; Salesforce &middot; GoHighLevel &middot; Pipedrive &middot; Stripe &middot; QuickBooks &middot; Xero &middot; Google Workspace &middot; Microsoft 365 &middot; Slack &middot; Discord &middot; Twilio &middot; WhatsApp &middot; Shopify &middot; WooCommerce &middot; WordPress &middot; Webflow &middot; Airtable &middot; Notion &middot; Supabase &middot; PostgreSQL &middot; MySQL &middot; Claude &middot; OpenAI &middot; open-source LLMs &middot; any REST or GraphQL API. If it has an API — or even just email — n8n can automate it.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Common n8n workflows we build</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Lead capture &rarr; enrichment &rarr; CRM &rarr; instant follow-up &middot; AI ticket triage and draft replies &middot; invoice generation and payment chasing &middot; abandoned-cart and review-request sequences &middot; cross-platform content publishing &middot; document data extraction into spreadsheets and databases &middot; Slack approval flows &middot; weekly KPI report generation &middot; two-way CRM &harr; accounting sync &middot; onboarding checklists that run themselves.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Related services</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>n8n is one tool in our automation practice. See the full <a href='/services/ai-automation/'>AI automation agency</a> pillar, add a <a href='/services/ai-voice-agents/'>voice agent</a> on top of your workflows, or pair automation with <a href='/services/custom-web-development/'>custom web development</a> and <a href='/services/software-and-platform-development/'>software development</a>. Based in Denver? Meet <a href='/locations/denver/'>our local team</a>.</p>
+
+</section>
+<!-- AEN-LONGFORM END -->
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Does Aenfinite serve businesses in my area?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How much does an n8n developer or agency cost?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Aenfinite works with local businesses and clients nationwide, combining local market insight with world-class digital expertise.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our n8n workflows start at $1,000 fixed-price, self-hosted setups at $1,500, and full implementations typically run $3,500–$12,000. Managed hosting and support starts at $350/month. Freelancer rates vary wildly in quality; as an agency we quote fixed prices with documentation, error handling, and support included.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What services do you offer locally?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Is n8n really cheaper than Zapier?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We offer web design, branding, SEO, digital marketing, and app development, all tailored to help local businesses grow online.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>At volume, dramatically. Zapier charges per task, so 50,000 tasks a month can cost thousands of dollars; a self-hosted n8n instance handles the same volume on a $20–$80/month server. The trade-off is setup and maintenance skill — which is exactly what you hire us for.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you help my business rank in local search?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you migrate our existing Zapier or Make setup to n8n?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Absolutely. We optimize your Google Business Profile, local citations, and location pages so you appear in local and 'near me' searches.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — it is one of our most-requested projects. We audit every Zap or scenario, rebuild them in n8n with better error handling, run both systems in parallel to verify identical output, then cut over. Most migrations finish in 2–6 weeks.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get started?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Should we self-host n8n or use n8n Cloud?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation and we will build a plan tailored to your local market and goals.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Self-host if you care about data control, custom nodes, or cost at scale — we harden the deployment with SSL, backups, and monitoring. n8n Cloud is fine for smaller teams who want zero infrastructure. We build on both and will recommend honestly for your volume.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can n8n run AI workflows with Claude or GPT?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — n8n is arguably the best open-source orchestrator for AI. We build workflows where LLMs classify tickets, extract data from documents, draft replies, and power full agents with tool access and human approval gates, with token-cost monitoring built in.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What happens if a workflow breaks after launch?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Every build ships with error workflows and alerting, so failures notify us (and you) immediately. On managed plans we fix breakages as part of the SLA — including when a third-party app changes its API, which is the usual culprit.</div>
       </div>
     </details>
   </div>
@@ -1989,7 +1776,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Have a Project in Mind? let's Build Something Great Together.</span>
 								<a href="/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2004,7 +1791,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 								<div class="footer-col_list">
 									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
@@ -2092,7 +1879,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 </ul>						</div>
@@ -2121,7 +1908,9 @@ is the key to building brand awareness, driving engagement, and creating meaning
 	</div>
 </div>
 
-<!-- 3. CSS STYLES (Place this in your <head> section or CSS file) -->
+<!-- 3. CSS STYLES (Place this in your <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> section or CSS file) -->
 <style>
 /* ===== BUTTON STYLES ===== */
 
@@ -2431,7 +2220,7 @@ document.addEventListener('keydown', function(event) {
 					"https://twitter.com/aenfinitee",
 					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert Workflow & Business Automation agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2500,141 +2289,22 @@ export default function Page() {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://aenfinite.com/#organization",
-      "name": "Aenfinite®",
-      "url": "https://aenfinite.com",
-      "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ]
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://aenfinite.com/#website",
-      "url": "https://aenfinite.com",
-      "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Social Media Marketing Agency",
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "inLanguage": "en-US"
+      "@type": "Service",
+      "@id": "https://aenfinite.com/services/n8n-automation/#service",
+      "name": "n8n Automation Agency Services",
+      "serviceType": "n8n Workflow Development, Hosting & Migration",
+      "description": "n8n workflow development, self-hosted n8n setup and hosting, Zapier and Make migrations, AI workflows in n8n, and managed n8n support.",
+      "provider": {"@id": "https://aenfinite.com/#organization"},
+      "areaServed": [{"@type":"Country","name":"United States"},{"@type":"Country","name":"Canada"}],
+      "url": "https://aenfinite.com/services/n8n-automation/"
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://aenfinite.com/services/social-media-marketing/#breadcrumb",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/social-media-marketing/", "name": "Social Media Marketing" } }
+        {"@type": "ListItem","position": 1,"name": "Home","item": "https://aenfinite.com/"},
+        {"@type": "ListItem","position": 2,"name": "Services","item": "https://aenfinite.com/services/"},
+        {"@type": "ListItem","position": 3,"name": "n8n Automation","item": "https://aenfinite.com/services/n8n-automation/"}
       ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://aenfinite.com/services/social-media-marketing/#webpage",
-      "url": "https://aenfinite.com/services/social-media-marketing/",
-      "name": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
-      "datePublished": "2022-10-16T21:16:37-04:00",
-      "dateModified": "2025-10-24T11:13:56-04:00",
-      "isPartOf": { "@id": "https://aenfinite.com/#website" },
-      "primaryImageOfPage": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
-      "inLanguage": "en-US",
-      "breadcrumb": { "@id": "https://aenfinite.com/services/social-media-marketing/#breadcrumb" }
-    },
-    {
-      "@type": "Article",
-      "@id": "https://aenfinite.com/services/social-media-marketing/#richSnippet",
-      "headline": "Social Media Marketing Services | Instagram, Facebook & TikTok Experts | Aenfinite®",
-      "description": "Aenfinite® delivers expert social media marketing services including Instagram marketing, Facebook advertising, TikTok growth strategies, and community management to increase brand visibility and conversions.",
-      "author": { "@type": "Organization", "name": "Aenfinite®" },
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "datePublished": "2022-10-16T21:16:37-04:00",
-      "dateModified": "2025-10-24T11:13:56-04:00",
-      "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
-      "inLanguage": "en-US",
-      "mainEntityOfPage": { "@id": "https://aenfinite.com/services/social-media-marketing/#webpage" }
-    }
-  ]
-}` }}
-        />
-        <script
-          key="schema-1"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-				  "@context": "https://schema.org",
-				  "@type": "LocalBusiness",
-				  "name": "Aenfinite",
- "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
-
-				  "@id": "https://aenfinite.com/",
-				  "url": "https://aenfinite.com/",
-				  "telephone": "+1-303-419-9782",
-				  "address": {
-					"@type": "PostalAddress",
-					"streetAddress": "1500 N Grant St, Ste R",
-					"addressLocality": "Denver",
-					"addressRegion": "CO",
-					"postalCode": "80203",
-					"addressCountry": "US"
-				  },
-				  "geo": {
-					"@type": "GeoCoordinates",
-					"latitude": 39.7392,
-					"longitude": -104.9903
-				  },
-				  "openingHoursSpecification": {
-					"@type": "OpeningHoursSpecification",
-					"dayOfWeek": [
-					  "Monday",
-					  "Tuesday",
-					  "Wednesday",
-					  "Thursday",
-					  "Friday"
-					],
-					"opens": "09:00",
-					"closes": "18:00"
-				  },
-				  "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
-				  "priceRange": "$$",
-				  "serviceArea": {
-					"@type": "GeoCircle",
-					"geoMidpoint": {
-					  "@type": "GeoCoordinates",
-					  "latitude": 39.7392,
-					  "longitude": -104.9903
-					},
-					"geoRadius": "50000"
-				  }
-				}` }}
-        />
-        <script
-          key="schema-2"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://aenfinite.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "City",
-      "item": "https://aenfinite.com/city/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Marketing & Digital Solutions in {{CITY}}, {{STATE}}",
-      "item": "https://aenfinite.com/city/marketing-and-digital-solutions/"
     }
   ]
 }` }}

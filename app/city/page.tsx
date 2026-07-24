@@ -1686,6 +1686,9 @@ const pageContent = `<script>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
                                             <li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
+<li><a href="/services/ai-automation/">AI Automation</a></li>
+<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+<li><a href="/services/n8n-automation/">n8n Automation</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -5041,26 +5044,6 @@ window.onload = function() {
 			}
 		]
 	},
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "147",
-		"bestRating": "5"
-	},
-	"review": [
-		{
-			"@type": "Review",
-			"reviewRating": {
-				"@type": "Rating",
-				"ratingValue": "5"
-			},
-			"author": {
-				"@type": "Person",
-				"name": "{{city}} Business Owner"
-			},
-			"reviewBody": "Outstanding web design service in {{city}}! Increased our traffic by 142%."
-		}
-	],
 	"openingHours": "Mo-Fr 09:00-18:00",
 	"paymentAccepted": "Credit Card, Cash, Check, Financing Available",
 	"currenciesAccepted": "USD",
@@ -6429,12 +6412,6 @@ export default function Page() {
 		"name": "{{city}}, {{state}}"
 	},
 	"serviceType": ["Web Design", "Website Development", "SEO", "Digital Marketing", "Branding", "E-commerce"],
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "147",
-		"bestRating": "5"
-	},
 	"image": "https://aenfinite.com/images/{{city}}-web-design-agency.jpg",
 	"hasMap": "https://maps.google.com/?q={{city}}+{{state}}",
 	"openingHours": "Mo-Fr 09:00-18:00",
@@ -6537,26 +6514,6 @@ export default function Page() {
 			}
 		]
 	},
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "147",
-		"bestRating": "5"
-	},
-	"review": [
-		{
-			"@type": "Review",
-			"reviewRating": {
-				"@type": "Rating",
-				"ratingValue": "5"
-			},
-			"author": {
-				"@type": "Person",
-				"name": "{{city}} Business Owner"
-			},
-			"reviewBody": "Outstanding web design service in {{city}}! Increased our traffic by 142%."
-		}
-	],
 	"openingHours": "Mo-Fr 09:00-18:00",
 	"paymentAccepted": "Credit Card, Cash, Check, Financing Available",
 	"currenciesAccepted": "USD",

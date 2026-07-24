@@ -59,21 +59,9 @@ export default function RootLayout({
         <meta name="geo.position" content="39.7392;-104.9903" />
         <meta name="ICBM" content="39.7392, -104.9903" />
 
-        {/* HREFLANG TAGS - Global language alternates */}
-        <link rel="alternate" hrefLang="x-default" href="/" />
-        <link rel="alternate" hrefLang="en" href="/" />
-        <link rel="alternate" hrefLang="es" href="/es/" />
-        <link rel="alternate" hrefLang="fr" href="/fr/" />
-        <link rel="alternate" hrefLang="de" href="/de/" />
-        <link rel="alternate" hrefLang="it" href="/it/" />
-        <link rel="alternate" hrefLang="ar" href="/ar/" />
-        <link rel="alternate" hrefLang="pt" href="/pt/" />
-        <link rel="alternate" hrefLang="zh" href="/zh/" />
-        <link rel="alternate" hrefLang="hi" href="/hi/" />
-        <link rel="alternate" hrefLang="nl" href="/nl/" />
-        <link rel="alternate" hrefLang="ja" href="/ja/" />
-        <link rel="alternate" hrefLang="ko" href="/ko/" />
-        {/* END HREFLANG */}
+        {/* Hreflang alternates are declared per-page via each page's metadata
+            (alternates.languages) — a global homepage-pointing set here would be
+            invalid on every other page. */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />

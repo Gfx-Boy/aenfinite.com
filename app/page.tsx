@@ -2,8 +2,8 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: { absolute: "Aenfinite® | Denver Digital Innovation Agency" },
-  description: "Denver-based digital innovation agency for AI automation, custom software, web & app development, SEO & branding. Serving the US & Canada.",
+  title: { absolute: "Aenfinite® | Denver Web, App & AI Automation Agency" },
+  description: "Denver web design, app development & AI automation agency. Custom software, n8n & workflow automation, SEO & branding for US and Canadian businesses.",
   keywords: "digital agency Denver, Denver web design, Denver software development, AI agency Denver, Colorado digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Denver, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
   openGraph: {"title":"Aenfinite® | Digital Innovation Agency | AI, Software Development, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.","url":"https://aenfinite.com/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1170,6 +1170,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
+<li><a href="/services/ai-automation/">AI Automation</a></li>
+<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+<li><a href="/services/n8n-automation/">n8n Automation</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -2781,7 +2784,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2860,7 +2864,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
