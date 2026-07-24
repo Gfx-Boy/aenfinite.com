@@ -30,32 +30,42 @@ const pageContent = `<script>
     </script>
 
     <div class="blog-header">
-        <h1>Web Design & Digital Marketing Insights</h1>
-        <p>Expert tips, trends, and strategies to grow your business online</p>
+        <h1>Web Design, AI & Digital Marketing Insights</h1>
+        <p>Cost guides, comparisons and practical strategies from the Aenfinite team — read the full blog at <a href="https://blog.aenfinite.com/">blog.aenfinite.com</a></p>
     </div>
-    
+
     <div class="blog-posts">
-        <!-- Blog posts would be dynamically loaded here -->
         <article class="blog-post">
-            <h2><a href="/blog/">10 Web Design Trends That Will Dominate 2025</a></h2>
-            <div class="meta">Published: January 15, 2025 | Category: Web Design</div>
-            <p>Discover the latest web design trends that will shape user experience and drive conversions in 2025...</p>
-            <a href="/blog/">Read More →</a>
+            <h2><a href="https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/">How Much Does a Website Cost for a Small Business? (2026 Guide)</a></h2>
+            <div class="meta">July 2026 | Cost Guide</div>
+            <p>Real 2026 numbers: DIY builders vs freelancers vs agencies, e-commerce ranges, and the hidden costs nobody quotes up front.</p>
+            <a href="https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/">Read More →</a>
         </article>
-        
+
         <article class="blog-post">
-            <h2><a href="/blog/">The Psychology Behind Effective Logo Design</a></h2>
-            <div class="meta">Published: January 10, 2025 | Category: Logo Design</div>
-            <p>Learn how color, shape, and typography in logo design influence customer perception and brand success...</p>
-            <a href="/blog/">Read More →</a>
+            <h2><a href="https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/">How Much Does an AI Chatbot Cost in 2026?</a></h2>
+            <div class="meta">July 2026 | AI & Automation</div>
+            <p>Template bots vs custom chatbots vs voice agents — real pricing tiers, monthly running costs, and the ROI math that matters.</p>
+            <a href="https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/">Read More →</a>
         </article>
-        
+
         <article class="blog-post">
-            <h2><a href="/blog/">Local SEO Strategies for Denver Businesses</a></h2>
-            <div class="meta">Published: January 5, 2025 | Category: SEO</div>
-            <p>Dominate your local market with these proven SEO strategies specifically designed for Denver businesses...</p>
-            <a href="/blog/">Read More →</a>
+            <h2><a href="https://blog.aenfinite.com/n8n-vs-zapier-vs-make/">n8n vs Zapier vs Make: Which Automation Platform Wins in 2026?</a></h2>
+            <div class="meta">July 2026 | Automation</div>
+            <p>We build on all three for clients. The honest comparison: where Zapier's simplicity wins and why n8n takes over at scale.</p>
+            <a href="https://blog.aenfinite.com/n8n-vs-zapier-vs-make/">Read More →</a>
         </article>
+
+        <article class="blog-post">
+            <h2><a href="https://blog.aenfinite.com/best-web-design-agencies-denver/">Best Web Design Agencies in Denver (2026): An Honest Local Guide</a></h2>
+            <div class="meta">July 2026 | Denver</div>
+            <p>A local's comparison of Denver agencies — who's strong at what, what things cost, and the questions to ask before hiring.</p>
+            <a href="https://blog.aenfinite.com/best-web-design-agencies-denver/">Read More →</a>
+        </article>
+    </div>
+
+    <div style="text-align:center; margin: 30px 0;">
+        <a href="https://blog.aenfinite.com/" style="display:inline-block; padding: 14px 28px; background:#227bf3; color:#fff; border-radius:8px; text-decoration:none; font-weight:600;">Visit the full Aenfinite Blog →</a>
     </div>
 
 <div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
