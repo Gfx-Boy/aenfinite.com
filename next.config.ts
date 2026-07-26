@@ -22,6 +22,28 @@ const nextConfig: NextConfig = {
   // Redirects from old & URLs to new clean URLs
   async redirects() {
     return [
+      // Old city/cities pages -> new /locations/ structure (2026-07-25)
+      {
+        source: '/cities/los-angeles-ca/:path*',
+        destination: '/locations/los-angeles/',
+        permanent: true,
+      },
+      {
+        source: '/cities/san-diego-ca/:path*',
+        destination: '/locations/san-diego/',
+        permanent: true,
+      },
+      {
+        source: '/cities/:path*',
+        destination: '/locations/',
+        permanent: true,
+      },
+      {
+        source: '/city/:path*',
+        destination: '/locations/',
+        permanent: true,
+      },
+
       // Services with & in URL
       {
         source: '/services/ai-chatbots-&-virtual-assistants/',

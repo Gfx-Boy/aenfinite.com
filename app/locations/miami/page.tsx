@@ -2,18 +2,20 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Design & Creative Solutions in {{CITY}}, {{STATE}} | Branding, Logo Design, Graphic Design",
-  description: "Aenfinite offers comprehensive design and creative solutions in {{CITY}}, {{STATE}} including branding, logo design, graphic design, packaging design, UI/UX design, and visual identity services that elevate your brand and drive business growth.",
-  keywords: "design services, creative solutions, branding, logo design, graphic design, UI UX design, local design agency, Aenfinite",
-  alternates: { canonical: "https://aenfinite.com/services/packaging-design/" },
-  openGraph: {"title":"Design & Creative Solutions in {{CITY}}, {{STATE}} | Branding, Logo Design, Graphic Design | Aenfinite","description":"Discover Aenfinite's creative packaging design services that transform how customers experience your brand. We design packaging that sells and inspires.","url":"https://aenfinite.com/services/packaging-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Design & Creative Solutions in {{CITY}}, {{STATE}} | Branding, Logo Design, Graphic Design | Aenfinite","description":"Aenfinite delivers comprehensive design and creative solutions in {{CITY}}, {{STATE}} including branding, logo design, graphic design, packaging design, and UI/UX services that captivate audiences.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  title: "Miami Web Design, Development & AI Automation Agency",
+  description: "Aenfinite builds custom websites, apps, e-commerce and AI automation for Miami businesses — senior US engineers, published pricing, fixed quotes. Serving Brickell and beyond.",
+  keywords: "web design agency Miami, Miami web design company, web development company Miami, Miami app developers, AI automation agency Miami, software development company Miami, Miami digital agency, Aenfinite",
+  alternates: { canonical: "https://aenfinite.com/locations/miami/", languages: {"x-default":"https://aenfinite.com/locations/miami/","en":"https://aenfinite.com/locations/miami/"} },
+  openGraph: {"title":"Miami Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Miami businesses — senior US engineers, published pricing, fixed quotes. Serving Brickell and beyond.","url":"https://aenfinite.com/locations/miami/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Miami Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Miami businesses — senior US engineers, published pricing, fixed quotes. Serving Brickell and beyond.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
+/* =====Professional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
 .service-list {
@@ -566,7 +568,7 @@ const headStyles = `
 				filter: url("#goo");
 				width: 26px;
 				height: 26px;
-			} .header {
+			}.header {
 			background-image: radial-gradient(black 1px, transparent 0);
 			background-size: 20px 20px;
 			background-position: -9px -9px;
@@ -971,7 +973,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1317,7 +1319,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>Innovative <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Design & Creative Solutions in {{CITY}}, {{STATE}}</span> that elevate your brand, captivate audiences, and drive <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">business growth</span>.</span>
+						<span>Your <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Miami</span> web design, development &amp; <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">AI automation</span> partner &mdash; with bilingual English/Spanish delivery for South Florida.</span>
+													
 											</h1>
 									</div>
 			</div>
@@ -1354,183 +1357,27 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Branding & Design Services in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Brand Identity, Logo Design & Visual Strategy in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Serving {{CITY}}, {{STATE}} and Clients Across the US, Canada & Beyond</span>
-    <span class="marquee-line_text">Specialists in Brand Identity & Creative Design in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses in {{CITY}} for Branding Solutions</span>
-    <span class="marquee-line_text">High-Impact Brand Design & Identity Development</span>
-    <span class="marquee-line_text">Professional Branding & Logo Design Solutions</span>
-    <span class="marquee-line_text">Professional Branding Agency with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Brand Strategy & Design Support</span>
-    <span class="marquee-line_text">Custom Branding Solutions for Every Industry</span>
-    <span class="marquee-line_text">Brand Consistency & Multi-Platform Implementation</span>
-    <span class="marquee-line_text">Scalable Brand Systems & Long-term Recognition</span>
+    <span class="marquee-line_text">Miami Web Design & Development</span>
+    <span class="marquee-line_text">Serving Brickell to West Palm Beach</span>
+    <span class="marquee-line_text">English & Spanish — Sitios Bilingues</span>
+    <span class="marquee-line_text">AI Automation for Miami Businesses</span>
+    <span class="marquee-line_text">Real Estate, Hospitality & LATAM Brands</span>
+    <span class="marquee-line_text">Custom Websites, Apps & E-Commerce</span>
+    <span class="marquee-line_text">Published Pricing, Fixed Quotes</span>
+    <span class="marquee-line_text">WordPress, Next.js & Custom Platforms</span>
+    <span class="marquee-line_text">SEO & Digital Marketing That Ranks</span>
+    <span class="marquee-line_text">150+ Projects Delivered Worldwide</span>
+    <span class="marquee-line_text">Dedicated Miami Site: aenfinite.miami</span>
+    <span class="marquee-line_text">Redefine Infinite Possibilities in Miami</span>
 </div>
 						                    </div>
                 </div>
-                <div class="js-shiftbox-carousel shiftbox-carousel">
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/algopros/">
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros Professional Logo Design & Brand Identity Studio" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/algopros/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="/work/algopros/">AlgoPros - Professional Logo Design & Brand Identity Studio</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Logo Design</div>
-																							<div class="preview-name">Graphic Design</div>
-																							<div class="preview-name">Brand Identity</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display Branding" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">ASC Media Wall Design - Large Format Display</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Brand Identity</div>
-																							<div class="preview-name">Exhibition Design</div>
-																							<div class="preview-name">Print Design</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Trade Show Booth Design Mockup - Professional Exhibition Display" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">Trade Show Booth Design - Professional Exhibition</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Booth Design</div>
-																							<div class="preview-name">3D Design</div>
-																							<div class="preview-name">Exhibition Design</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="Professional Brand Mockup Design - Visual Identity Presentation" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">Professional Brand Mockup - Visual Identity</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Brand Identity</div>
-																							<div class="preview-name">Brand Collateral</div>
-																							<div class="preview-name">Print Design</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/attachment_156965225.avif" alt="Professional Marketing Design - Brand Identity System" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">Professional Marketing Design - Brand Identity</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Brand Strategy</div>
-																							<div class="preview-name">Brand Collateral</div>
-																							<div class="preview-name">Digital Marketing</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/75b53ec6-577a-45ef-a9b3-d99fe5.avif" alt="Creative Brand Design - Modern Visual Identity" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">Creative Brand Design - Modern Visual Identity</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Visual Identity</div>
-																							<div class="preview-name">Logo Design</div>
-																							<div class="preview-name">Brand Collateral</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/branding/">
-										<img src="/wp-content/themes/aenfinite.com/processed/cyclethe6-logo-01.avif" alt="CycleThe6 Logo Design - Brand Identity Collection" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/branding/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="07">
-											<div class="preview-name preview-name__caption"><a href="/work/branding/">CycleThe6 - Complete Logo Design Collection</a></div>
-																																		<div class="preview-name">Branding</div>
-																							<div class="preview-name">Logo Design</div>
-																							<div class="preview-name">Graphic Design</div>
-																							<div class="preview-name">Brand Collateral</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					                </div>
-				<div class="shiftbox-nav desktop">
-					<div class="shiftbox-arrow shiftbox-arrow__left js-shiftbox-prev"></div>
-					<div class="shiftbox-pos">
-						<var class="shiftbox-current js-shiftbox-current">01</var> / <span class="shiftbox-num">07</span>
-					</div>
-					<div class="shiftbox-arrow shiftbox-arrow__right js-shiftbox-next"></div>
-				</div>
             </div>
 			
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers comprehensive Design & Creative Solutions in {{CITY}}, {{STATE}} that elevate brands and drive business success. We provide expert branding, logo design, graphic design, packaging design, UI/UX design, and visual identity services that create powerful brand experiences and long-term market success for businesses throughout {{CITY}} and beyond.</div>
+				<div class="textbox-content">Aenfinite builds websites, e-commerce stores, mobile apps and AI automation for Miami and South Florida businesses — in English and Spanish. From real-estate developers to hospitality groups and LATAM-facing companies (our client roster includes Spanish-language platforms like Mexico's FiscoClic), you get one senior team for design, development, marketing and automation.</div>
 									<div class="textbox-action">
 						<a href="/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1539,184 +1386,51 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	</div>
 	<div class="section">
-	<div class="wrapper">
-		<div class="inner-wrapper">
-			<div class="numbers">
-
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>250+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>unique brand identities, logos, and visual systems crafted to help businesses stand out in competitive markets</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>8+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>years building powerful brands, shaping stories, and creating consistent visual languages across industries</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>99%</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>client satisfaction rate in branding projects, from identity design to complete brand transformations</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</div>
-
-		
-	</div>
-	<div class="section">
 		<div class="wrapper">
 			<div class="inner-wrapper">
-				<div class="section-caption js-aos">
-					<div class="section-caption_text">
-						<h2>Aenfinite Branding & Identity Design Case Studies</h2>
-					</div>
-				</div>
-				<div class="previews js-aosfadein">
-					<div class="previews-carousel js-carousel">
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="AlgoPros Professional Logo Design & Brand Identity Studio" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/algopros/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="01">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/algopros/">AlgoPros</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Logo Design</div>
-																					<div class="preview-name">Brand Identity</div>
-																					<div class="preview-name">Corporate Branding</div>
-											
-									</div>
-								</div>
+				<div class="numbers">
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>150+</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/ASC-Media-Wall-12'x10'.avif" alt="ASC Media Wall Design - 12'x10' Display Branding" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="02">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/branding/">ASC Media Wall</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Trade Show Design</div>
-																					<div class="preview-name">Visual Display</div>
-																					<div class="preview-name">Media Branding</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>projects delivered for clients across the US, Canada and worldwide since 2017</div>
+																	</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Booth-Mockup.avif" alt="Trade Show Booth Design Mockup - Professional Exhibition Display" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="03">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/branding/">Trade Show Booth Design</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Booth Design</div>
-																					<div class="preview-name">Exhibition Branding</div>
-																					<div class="preview-name">3D Mockup</div>
-											
-									</div>
-								</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>8+</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/mockup.avif" alt="Professional Brand Mockup Design - Visual Identity Presentation" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="04">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/branding/">Brand Mockup Design</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Visual Identity</div>
-																					<div class="preview-name">Brand Presentation</div>
-																					<div class="preview-name">Design Mockup</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>years designing, building and marketing websites, apps and software for US businesses</div>
+																	</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Brand Identity System" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="05">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/branding/">Marketing Design System</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Marketing Design</div>
-																					<div class="preview-name">Brand System</div>
-																					<div class="preview-name">Brand Guidelines</div>
-											
-									</div>
-								</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>99%</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cakeo.avif" alt="Creative Brand Design - Modern Visual Identity" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="06">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/branding/">Creative Brand Design</a>
-										</div>
-																					<div class="preview-name">Branding</div>
-																					<div class="preview-name">Creative Design</div>
-																					<div class="preview-name">Visual Identity</div>
-																					<div class="preview-name">Modern Branding</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>client satisfaction rate across web, app, marketing and automation engagements</div>
+																	</div>
 							</div>
-											</div>
-				</div>
-				<div class="section-footer js-aos appear">
-					<a href="/work/packaging-design/" class="redlink">
-						<span>View all projects</span>
-					</a>
-				</div>
-			</div>
+						</div>
+									</div>
+							</div>
 		</div>
+	</div>
+		
 	</div>
 <a href="#contact" class="to-formss"></a>
 <div class="section" id="contact">
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite in {{CITY}}, {{STATE}} for Design & Creative Solutions</h2>
+				<h2>Contact Aenfinite — Miami Web Design, Development & AI Automation</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1731,75 +1445,49 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 <input type="hidden" name="_wpcf7_recaptcha_response" value="" />
 </div>
-
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" />
-		</span>
-		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" />
-		</span>
-		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your branding project" value="" type="text" name="text-tell-project" />
-		</span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your project" value="" type="text" name="text-tell-project" /></span>
+		
 	</div>
-
 	<div class="checkbox-select">
-		<strong>I'm interested in...</strong>
-		<span class="form-control-wrap" data-name="checkbox-select">
-			<span class="form-control checkbox-group" style="padding-bottom: 50px">
-				<span class="list-item first">
-					<input type="checkbox" name="services" value="Logo Design" id="logo-design" />
-					<label for="logo-design" class="list-item-label">Logo Design</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Brand Identity Development" id="brand-identity" />
-					<label for="brand-identity" class="list-item-label">Brand Identity Development</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Visual Branding" id="visual-branding" />
-					<label for="visual-branding" class="list-item-label">Visual Branding</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Brand Strategy" id="brand-strategy" />
-					<label for="brand-strategy" class="list-item-label">Brand Strategy</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Corporate Branding" id="corporate-branding" />
-					<label for="corporate-branding" class="list-item-label">Corporate Branding</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Rebranding Services" id="rebranding" />
-					<label for="rebranding" class="list-item-label">Rebranding Services</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Brand Guidelines" id="brand-guidelines" />
-					<label for="brand-guidelines" class="list-item-label">Brand Guidelines</label>
-				</span>
-				<span class="list-item last">
-					<input type="checkbox" name="services" value="Other Branding Solutions" id="other" />
-					<label for="other" class="list-item-label">Other Branding Solutions</label>
-				</span>
-			</span>
-		</span>
-
+		<strong>I'm interested in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Web Design & Development" id="den-web" /><label for="den-web" class="list-item-label">Web Design & Development</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Website" id="den-wp" /><label for="den-wp" class="list-item-label">WordPress Website</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce Store" id="den-ecom" /><label for="den-ecom" class="list-item-label">E-Commerce Store</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile App Development" id="den-app" /><label for="den-app" class="list-item-label">Mobile App Development</label></span><span class="list-item"><input type="checkbox" name="services" value="Custom Software" id="den-software" /><label for="den-software" class="list-item-label">Custom Software</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Automation" id="den-ai" /><label for="den-ai" class="list-item-label">AI Automation</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO & Digital Marketing" id="den-seo" /><label for="den-seo" class="list-item-label">SEO & Digital Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="Branding & Logo Design" id="den-brand" /><label for="den-brand" class="list-item-label">Branding & Logo Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Website Redesign" id="den-redesign" /><label for="den-redesign" class="list-item-label">Website Redesign</label></span><span class="list-item last"><input type="checkbox" name="services" value="Other Services" id="den-other" /><label for="den-other" class="list-item-label">Other Services</label></span></span></span>
+		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Tell us your approximate budget" value="" readonly name="budget" />
+			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
+				
 			</div>
 			<div class="select js-select-list">
-                            <div class="select-option js-select-option">Starting from $100</div>
-                            <div class="select-option js-select-option">from $500 to $5000</div>
-                            <div class="select-option js-select-option">from $5000 to $20,000</div>
-                            <div class="select-option js-select-option">from $20,000 to $50,000</div>
-                            <div class="select-option js-select-option">over $100,000</div>
-                        </div>
-		</div>
+				<div class="select-option js-select-option">
+					Starting from $100
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $500 to $5000
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $5000 to $20,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $20,000 to $50,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					over $100,000
+					
+				</div>
+			</div>		</div>
 	</div>
 </div>
-
+<div class="hide">
+	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
+	
+</div>
 <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
@@ -1809,382 +1497,177 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 		</div>
 	</div>
-</div>
-<div class="section">
-		<div class="wrapper">
-			<div>
-				<div class="inner-wrapper">
-					<div class="section-caption js-aos">
-						<div class="section-caption_text">
-							<h2>Brand Design Expertise</h2>
-						</div>
-					</div>
-					<div class="textbox textbox__push js-aos appear">
-						<div class="textbox-content">Aenfinite offers comprehensive branding services, from logo design to complete brand identity systems, tailored to elevate your business presence.</div>
-					</div>
-				</div>
-			</div>
-			<div class="panes">
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Custom Logo Design</div>
-						<div class="pane-subtitle">
-							<p>Aenfinite specializes in creating custom logo designs from the ground up. Our expert designers create bespoke brand marks, custom logo concepts, and tailored visual identities that perfectly align with your business objectives. We ensure your logo is memorable, scalable, and optimized for all applications.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Identity Design</div>
-						<div class="pane-subtitle">
-							<p>Transform your vision into reality with our comprehensive Brand Identity Design services. Our designers collaborate to create cohesive, memorable brand identities that capture your brand essence while providing exceptional brand experience across all touchpoints and applications.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Guidelines Development</div>
-						<div class="pane-subtitle">
-							<p>Establish clear brand standards with our comprehensive brand guidelines development services. We create detailed brand documentation, style guides, logo usage specifications, and brand implementation rules that ensure consistent brand application across all platforms.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Visual Identity Systems</div>
-						<div class="pane-subtitle">
-							<p>Create comprehensive visual identity systems with cohesive design elements. Our designers develop tailored visual language that includes color palettes, typography, iconography, and imagery that enhances brand recognition and creates consistent brand experiences across all platforms.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Implementation & Management</div>
-						<div class="pane-subtitle">
-							<p>Seamlessly implement your brand across all touchpoints with our comprehensive brand management services. Our brand implementation includes brand rollout planning, asset management, brand compliance monitoring, and ongoing brand maintenance to keep your brand consistent and impactful.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Strategy Development</div>
-						<div class="pane-subtitle">
-							<p>Develop comprehensive brand strategy with our strategic brand development services. We create brand positioning, messaging frameworks, target audience analysis, and competitive differentiation strategies that enable effective brand communication and deliver meaningful brand experiences across all channels.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Positioning & Messaging</div>
-						<div class="pane-subtitle">
-							<p>Maximize your e-commerce website's search engine visibility with our comprehensive SEO optimization services. We implement e-commerce-specific SEO best practices, optimize product pages, improve site speed, and ensure your store is properly structured for search engines to drive organic traffic and sales growth.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Consistency & Standards</div>
-						<div class="pane-subtitle">
-							<p>Protect your e-commerce investment with our advanced security and performance optimization services. We implement robust security measures, regular malware scanning, performance monitoring, and speed optimization to ensure your online store is secure, fast, and reliable.</p>
-						</div>
-					</div>
-									<div class="pane js-aos fadein">
-						<div class="pane-index"></div>
-						<div class="pane-title">Brand Applications & Collateral</div>
-						<div class="pane-subtitle">
-							<p>Experience the power of a dynamic online presence with <span style="font-weight: 400;">Aenfinite&#8217;s</span> Animated Websites. Our team of skilled designers and developers can help bring your website to life with stunning graphics and seamless animations that captivate your audience. By creating an engaging user experience, you can boost your brand&#8217;s online presence, increase conversions, and stay ahead of the competition.</p>
-						</div>
-					</div>
-							</div>
-		</div>
-	</div>
-	<div class="section">
-	<div class="wrapper">
-		<div class="inner-wrapper">
-			<div class="section-caption js-aos">
-				<div class="section-caption_text">
-					<h2>Our Branding Process</h2>
-				</div>
-			</div>
-			<div class="nlist">
 
-				<!-- Discovery -->
-				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">Brand Discovery</div>
-					<div class="nlist-tabs js-switch-tabs">
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-1">
-							<span>Research & Insights</span>
-						</div>
-						<div class="nlist-pane js-switch-pane active" id="pane-1-1">
-							<p>We begin by analyzing your market, audience, and competitors. Our team gathers insights to understand your brand's current position, values, and opportunities for growth.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-							<span>Brand Strategy</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>We define your brand's voice, vision, and value proposition. This stage ensures your brand story aligns with your business goals and speaks directly to your target audience.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-							<span>Positioning</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-1-3">
-							<p>We position your brand uniquely in the market, highlighting your competitive advantages and crafting a narrative that resonates with customers and builds trust.</p>
-						</div>
-						<div class="nlist-sensor js-switch-sensor"></div>
-					</div>
-					<div class="nlist-content js-switch-copy"></div>
-				</div>
-
-				<!-- Design -->
-				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">Brand Design</div>
-					<div class="nlist-tabs js-switch-tabs">
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
-							<span>Logo Design</span>
-						</div>
-						<div class="nlist-pane js-switch-pane active" id="pane-2-1">
-							<p>We craft a powerful logo that visually represents your brand identity and makes a lasting impression across all platforms.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-							<span>Visual Identity</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-2-2">
-							<p>From color palettes to typography, we create a consistent design system that communicates professionalism and brand personality.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-3">
-							<span>Brand Collateral</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-2-3">
-							<p>We design business cards, brochures, social media kits, and other materials to ensure your brand looks consistent everywhere it appears.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-2-4">
-							<span>Brand Guidelines</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-2-4">
-							<p>We deliver a comprehensive brand book that outlines how your brand should be used across print, digital, and marketing channels for consistency.</p>
-						</div>
-						<div class="nlist-sensor js-switch-sensor"></div>
-					</div>
-					<div class="nlist-content js-switch-copy"></div>
-				</div>
-
-				<!-- Implementation -->
-				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">Brand Implementation</div>
-					<div class="nlist-tabs js-switch-tabs">
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-							<span>Digital Presence</span>
-						</div>
-						<div class="nlist-pane js-switch-pane active" id="pane-3-1">
-							<p>We apply your brand identity to websites, social media, and digital campaigns, ensuring a strong online presence.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
-							<span>Marketing Materials</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-3-2">
-							<p>We create promotional designs such as banners, ads, and presentations to showcase your brand across campaigns and events.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-3">
-							<span>Brand Consistency</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-3-3">
-							<p>We monitor and refine how your brand is represented across all channels, ensuring your message and look stay consistent everywhere.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-3-4">
-							<span>Launch</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-3-4">
-							<p>We guide you through the launch of your new brand identity, making sure it makes maximum impact with your audience.</p>
-						</div>
-						<div class="nlist-sensor js-switch-sensor"></div>
-					</div>
-					<div class="nlist-content js-switch-copy"></div>
-				</div>
-
-				<!-- Support -->
-				<div class="nlist-item appear js-aos js-switch">
-					<div class="nlist-caption">Brand Support</div>
-					<div class="nlist-tabs js-switch-tabs">
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-							<span>Ongoing Support</span>
-						</div>
-						<div class="nlist-pane js-switch-pane active" id="pane-4-1">
-							<p>We stay connected after launch, providing ongoing updates, design improvements, and new materials as your brand evolves.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-2">
-							<span>Performance Monitoring</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-4-2">
-							<p>We evaluate how your branding performs across campaigns and customer touchpoints, making adjustments for stronger impact.</p>
-						</div>
-						<div class="nlist-tab js-switch-tab" data-pane="#pane-4-3">
-							<span>Training & Guidelines</span>
-						</div>
-						<div class="nlist-pane js-switch-pane" id="pane-4-3">
-							<p>We provide your team with clear brand guidelines, tutorials, and resources so that your brand is represented consistently at every level.</p>
-						</div>
-						<div class="nlist-sensor js-switch-sensor"></div>
-					</div>
-					<div class="nlist-content js-switch-copy"></div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</div>
-	<div class="section">
+</div>		<div class="section">
 		<div class="wrapper">
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Packaging Design</span> is where creativity meets functionality. Partner with our expert team to create packaging solutions that protect your products, catch consumers' attention, and drive sales while being environmentally conscious.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Miami moves in two languages</span> &mdash; so do we. English and Spanish delivery across websites, apps, e-commerce and AI automation.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
 	</div>
-</div>   <div class="section" style="padding-bottom: 100px;">
+</div> <div class="section" style="padding-bottom: 100px;">
 	<div class="wrapper">
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Professional Packaging Design Services</h2>
+					<h2>What We Build for Miami Businesses</h2>
 				</div>
 			</div>
 			<div class="service-grid">
 				<div>
 					<div class="service-list js-service-container fadein js-aos">
-
-						<!-- Service 1 -->
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Product Packaging Design</div>
+							<div class="service-caption js-service-caption">Web Design & Development in Miami</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Retail Packaging</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Box Design</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Label Design</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Package Structure</a></div>
+										<div class="chip"><a href="/services/web-design/" class="chip-label">Custom Design</a></div>
+										<div class="chip"><a href="/services/wordpress-websites/" class="chip-label">WordPress</a></div>
+										<div class="chip"><a href="/services/custom-web-development/" class="chip-label">Next.js</a></div>
+										<div class="chip"><a href="/services/e-commerce-websites/" class="chip-label">E-Commerce</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Core Web Vitals</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We create eye-catching packaging designs that protect your products and make them stand out on retail shelves.</p>
+									<p>Custom websites designed and engineered in-house: WordPress for marketing sites, Next.js for performance-critical platforms, and fully custom e-commerce — all built to rank and convert.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our packaging design process includes:</strong></p>
+										<p><strong>Miami web projects include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Custom structural packaging solutions</li>
-											<li>Retail-ready packaging design</li>
-											<li>Product label and sleeve design</li>
-											<li>Material selection and sustainability options</li>
+											<li>Custom design — no themes or templates</li>
+											<li>WordPress, Next.js and headless builds</li>
+											<li>E-commerce with Shopify, Woo or custom carts</li>
+											<li>Local SEO foundations built in from day one</li>
+											<li>Speed: Core Web Vitals as an acceptance criterion</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We use advanced 3D modeling and prototyping to perfect your packaging before production.
+											Typical Miami small-business site: $3,000–$15,000, quoted fixed after a free consult.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 2 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Sustainable Packaging Solutions</div>
+							<div class="service-caption js-service-caption">App & Software Development</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Eco-Friendly</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Recyclable</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Biodegradable</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Minimal Waste</a></div>
+										<div class="chip"><a href="/services/app-development/" class="chip-label">iOS & Android</a></div>
+										<div class="chip"><a href="/services/software-and-platform-development/" class="chip-label">SaaS</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">APIs</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Dashboards</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Integrations</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We design environmentally conscious packaging solutions that align with modern sustainability goals while maintaining visual appeal.</p>
+									<p>From mobile apps to internal tools and full SaaS platforms — a genuine engineering team, not a design shop subcontracting the hard parts.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our sustainable solutions include:</strong></p>
+										<p><strong>We build:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Eco-friendly material selection</li>
-											<li>Minimalist packaging design</li>
-											<li>Recyclable packaging solutions</li>
-											<li>Biodegradable alternatives</li>
+											<li>iOS and Android apps</li>
+											<li>SaaS products and customer portals</li>
+											<li>Internal dashboards and admin tools</li>
+											<li>API development and system integrations</li>
+											<li>Legacy system modernization</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We help brands reduce their environmental impact without compromising on design quality.
+											Apps and platforms typically start around $25,000; we scope honestly and ship in milestones.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 3 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Specialty Packaging</div>
+							<div class="service-caption js-service-caption">AI Automation for Miami Businesses</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Luxury Packaging</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Limited Edition</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Gift Packaging</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Custom Solutions</a></div>
+										<div class="chip"><a href="/services/ai-automation/" class="chip-label">AI Workflows</a></div>
+										<div class="chip"><a href="/services/ai-voice-agents/" class="chip-label">Voice Agents</a></div>
+										<div class="chip"><a href="/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots</a></div>
+										<div class="chip"><a href="/services/n8n-automation/" class="chip-label">n8n</a></div>
+										<div class="chip"><a href="/services/crm-automation/" class="chip-label">CRM Automation</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We create premium and specialty packaging designs for unique products, limited editions, and luxury items.</p>
+									<p>A dedicated AI automation practice for Miami businesses: workflows that route leads and chase invoices, voice agents that answer your phones, and chatbots trained on your business.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our specialty services include:</strong></p>
+										<p><strong>Miami automation work:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Logo usage and placement rules</li>
-											<li>Color codes and typography hierarchy</li>
-											<li>Photography and visual style direction</li>
-											<li>Templates for print & digital use</li>
+											<li>Lead routing and follow-up automation</li>
+											<li>AI voice agents and receptionists</li>
+											<li>Website chatbots trained on your content</li>
+											<li>n8n, Make and Zapier implementation</li>
+											<li>CRM, invoicing and reporting automation</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											Our brand manuals help teams maintain alignment across every channel.
+											See the full AI automation service pages for pricing — projects start at $1,500.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
-						<!-- Service 4 -->
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Brand Experience</div>
+							<div class="service-caption js-service-caption">SEO & Digital Marketing</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">Packaging Design</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Marketing Collateral</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Digital Branding</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Environmental Branding</a></div>
+										<div class="chip"><a href="/services/search-engine-optimization/" class="chip-label">Local SEO</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Google Business</a></div>
+										<div class="chip"><a href="/services/digital-marketing/" class="chip-label">Content</a></div>
+										<div class="chip"><a href="/services/pay-per-click/" class="chip-label">PPC</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Analytics</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We design experiences that immerse your audience in your brand  from packaging and digital assets to events and spaces.</p>
+									<p>Get found by Miami customers: local SEO, Google Business Profile optimization, content that ranks, and paid campaigns measured on revenue, not impressions.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Our brand experience services include:</strong></p>
+										<p><strong>Marketing engagements cover:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Custom packaging design with storytelling</li>
-											<li>Marketing collateral & digital campaigns</li>
-											<li>Branded social media templates</li>
-											<li>Office, retail & event branding</li>
+											<li>Local SEO and map-pack optimization</li>
+											<li>Technical SEO and site speed</li>
+											<li>Content strategy and production</li>
+											<li>Google and Meta ads management</li>
+											<li>Honest reporting tied to leads and sales</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We help you deliver memorable, consistent brand experiences online and offline.
+											We do this for our own multi-market presence — the same playbook works for your business.
 										</p>
 									</div>
 								</div>
 								<div class="service-action">
-									<a href="/contact/" class="redlink"><span>Learn more</span></a>
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
 								</div>
 							</div>
 						</div>
 
 					</div>
 				</div>
-
 				<div class="service-preview desktop fadein js-aos">
-					<div class="service-content-copy js-service-copy" style="padding-bottom: 500px"></div>
+					<div class="service-content-copy js-service-copy"></div>
 				</div>
 			</div>
 		</div>
@@ -2196,32 +1679,92 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	
 	
 			
+<!-- AEN-LONGFORM START -->
+<section class='aen-longform' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 22px;line-height:1.2;'>A web design &amp; AI automation partner for Miami</h2>
+
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>Aenfinite is a US web design, development, and AI automation agency serving Miami businesses in real estate and development, hospitality and restaurants, LATAM-facing companies, logistics, fintech, and health and wellness.</strong> Since 2017 we have delivered 150+ projects — marketing websites, e-commerce stores, mobile apps, custom software, and the AI automations that run our clients' operations. Our headquarters is in Denver, Colorado; Miami clients work directly with the same senior team, on your hours, with no account-manager relay and no offshore black box. We also maintain a dedicated Miami site at <a href='https://aenfinite.miami' target='_blank' rel='noopener'>aenfinite.miami</a>.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>What makes us different from other Miami agencies</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>1. We publish pricing.</strong> Very few agencies in the Miami market will tell you what a website costs before three discovery calls — our typical ranges are on this page. <strong>2. We actually build AI automation.</strong> Most agencies write blog posts about AI; we ship AI workflows, voice agents, and chatbots into production — see our <a href='/services/ai-automation/'>AI automation services</a>. <strong>3. Engineering first.</strong> Custom software and apps are core capabilities, not outsourced add-ons. <strong>4. Location-independent pricing.</strong> Big-market agencies price their rent into your project; our quotes are the same no matter your area code.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Typical investment for Miami businesses</h2>
+
+  <div style='overflow-x:auto;margin:24px 0;'>
+    <table style='width:100%;border-collapse:collapse;font-size:16px;min-width:640px;'>
+      <thead><tr>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Engagement</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Typical investment</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>What you get</th>
+      </tr></thead>
+      <tbody>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Small-business website</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$3,000 &ndash; $15,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom design, WordPress or Next.js build, local SEO foundations</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>E-commerce store</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$8,000 &ndash; $40,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom storefront, payments, shipping, product migration, training</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Mobile app / custom software</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$25,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Scoped in milestones: design, build, launch, maintenance</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>AI automation</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$1,500 &ndash; $20,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Workflows, chatbots and voice agents &mdash; see the AI automation pages</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>SEO &amp; marketing</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>from $1,000/mo</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Local SEO, content, and paid media with revenue-based reporting</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p style='font-size:14px;opacity:0.7;line-height:1.6;'>Every project is quoted fixed-price after a free consultation — the same published pricing in every market we serve.</p>
+
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How an engagement works</h2>
+  <ol style='padding-left:22px;font-size:16px;'>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Free consultation.</strong> 30&ndash;60 minutes on a call in your time zone. We learn your goals and constraints; you leave with straight answers and a ballpark.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Proposal.</strong> Fixed price, defined scope, real timeline. No hourly meters running.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Design &amp; build.</strong> Weekly demos so you see progress continuously. You review real work, not status decks.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Launch.</strong> QA, performance passes, SEO checks, analytics wiring &mdash; then we ship.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Grow.</strong> Ongoing support, marketing, and automation as your needs expand. Most clients stay for years.</li>
+  </ol>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Serving Miami and beyond</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>We work with businesses in Brickell, Miami Beach, Coral Gables, Wynwood, Fort Lauderdale, Boca Raton and West Palm Beach — and because everything we deliver is digital, the same team serves clients across Florida and all 50 states. See <a href='/locations/'>everywhere we work</a> or our <a href='/locations/denver/'>Denver headquarters</a>.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Contact us</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Aenfinite LLC &middot; <a href='tel:+13034199782'>+1 (303) 419-9782</a> &middot; <a href='mailto:hello@aenfinite.com'>hello@aenfinite.com</a>. Explore our <a href='/services/'>services</a>, see <a href='/work/'>our work</a>, or <a href='/contact/'>book a free consultation</a> &mdash; 30 minutes, straight answers, a real ballpark.</p>
+
+
+</section>
+<!-- AEN-LONGFORM END -->
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Does Aenfinite serve businesses in my area?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How much does a website cost in Miami?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Aenfinite works with local businesses and clients nationwide, combining local market insight with world-class digital expertise.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our pricing is the same in every market: custom small-business websites run $3,000–$15,000, e-commerce $8,000–$40,000, apps and custom software from $25,000. Many Miami-based agencies price the same scope significantly higher because local overhead is built into their rates. We quote fixed prices after a free consultation.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What services do you offer locally?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you have an office in Miami?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We offer web design, branding, SEO, digital marketing, and app development, all tailored to help local businesses grow online.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our headquarters is in Denver and we maintain a dedicated Miami presence at aenfinite.miami. Delivery is video-first on Eastern hours, in English or Spanish; for larger engagements we come on-site.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you help my business rank in local search?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work with small businesses or only large companies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Absolutely. We optimize your Google Business Profile, local citations, and location pages so you appear in local and 'near me' searches.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Both. Small businesses and startups are the heart of our client base — the published pricing on this page is designed so smaller Miami teams can budget realistically. We also handle larger custom software and multi-site programs.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get started?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What industries do you serve in the Miami market?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation and we will build a plan tailored to your local market and goals.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our strongest fits in Miami are real estate and development, hospitality and restaurants, LATAM-facing companies, logistics, fintech, and health and wellness. The underlying capabilities — web, e-commerce, apps, AI automation, SEO — apply to almost any business.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you offer AI automation for Miami businesses?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — a dedicated AI automation practice: AI workflows, voice agents that answer your phones, and chatbots trained on your business, starting at $1,500. Everything is delivered remotely, so Miami businesses get the same production-grade automations as our Denver clients.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Why hire you instead of a local Miami agency?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Bilingual delivery is built in, not bolted on — we build and support English/Spanish sites and automations natively (we've shipped Spanish-language platforms like FiscoClic). Plus published pricing and in-house engineering most local shops can't match.</div>
       </div>
     </details>
   </div>
@@ -2232,7 +1775,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Have a Project in Mind? let's Build Something Great Together.</span>
 								<a href="/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2245,20 +1788,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Company</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Work</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/services/e-commerce-websites/">Branding</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/services/wordpress-websites/">WordPress Websites</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/services/branding/">Branding</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/services/packaging-design/">Packaging Design</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
@@ -2334,9 +1878,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Work</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 </ul>						</div>
@@ -2365,7 +1909,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<!-- 3. CSS STYLES (Place this in your <head> section or CSS file) -->
+<!-- 3. CSS STYLES (Place this in your <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> section or CSS file) -->
 <style>
 /* ===== BUTTON STYLES ===== */
 
@@ -2675,7 +2221,7 @@ document.addEventListener('keydown', function(event) {
 					"https://twitter.com/aenfinitee",
 					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
+				  "description": "Expert Workflow & Business Automation agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2744,141 +2290,25 @@ export default function Page() {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://aenfinite.com/#organization",
-      "name": "Aenfinite®",
-      "url": "https://aenfinite.com/",
-      "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "email": "contact@aenfinite.com",
-        "contactType": "customer support"
-      }
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://aenfinite.com/#website",
-      "url": "https://aenfinite.com/",
-      "name": "Aenfinite®",
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "inLanguage": "en-US"
+      "@type": "ProfessionalService",
+      "@id": "https://aenfinite.com/locations/miami/#localbusiness",
+      "name": "Aenfinite - Miami Web Design, Development & AI Automation",
+      "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+      "url": "https://aenfinite.com/locations/miami/",
+      "telephone": "+1-303-419-9782",
+      "email": "hello@aenfinite.com",
+      "priceRange": "$$",
+      "areaServed": [{"@type":"City","name":"Miami"},{"@type":"City","name":"Miami Beach"},{"@type":"City","name":"Coral Gables"},{"@type":"City","name":"Fort Lauderdale"},{"@type":"City","name":"West Palm Beach"},{"@type":"State","name":"Florida"}],
+      "parentOrganization": {"@id": "https://aenfinite.com/#organization"},
+      "sameAs": ["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","https://www.linkedin.com/company/aenfinite"]
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://aenfinite.com/services/packaging-design/#breadcrumb",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com/", "name": "Home" }},
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" }},
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/packaging-design/", "name": "Packaging Design" }}
+        {"@type": "ListItem","position": 1,"name": "Home","item": "https://aenfinite.com/"},
+        {"@type": "ListItem","position": 2,"name": "Locations","item": "https://aenfinite.com/locations/"},
+        {"@type": "ListItem","position": 3,"name": "Miami","item": "https://aenfinite.com/locations/miami/"}
       ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://aenfinite.com/services/packaging-design/#webpage",
-      "url": "https://aenfinite.com/services/packaging-design/",
-      "name": "Custom Packaging Design Services | Product Packaging & Box Design | Aenfinite®",
-      "datePublished": "2023-08-10T21:16:37-04:00",
-      "dateModified": "2025-09-16T11:13:56-04:00",
-      "isPartOf": { "@id": "https://aenfinite.com/#website" },
-      "breadcrumb": { "@id": "https://aenfinite.com/services/packaging-design/#breadcrumb" },
-      "inLanguage": "en-US"
-    },
-    {
-      "@type": "Article",
-      "@id": "https://aenfinite.com/services/packaging-design/#article",
-      "headline": "Custom Packaging Design Services | Product Packaging & Box Design | Aenfinite®",
-      "description": "Aenfinite® provides professional packaging design services that combine strategy, creativity, and market insight. Our custom designs enhance shelf appeal and brand loyalty.",
-      "keywords": "Packaging Design, Product Packaging, Box Design, Label Design, Retail Packaging, Custom Packaging",
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "mainEntityOfPage": { "@id": "https://aenfinite.com/services/packaging-design/#webpage" },
-      "inLanguage": "en-US"
-    }
-  ]
-}` }}
-        />
-        <script
-          key="schema-1"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-				  "@context": "https://schema.org",
-				  "@type": "LocalBusiness",
-				  "name": "Aenfinite",
- "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
-
-				  "@id": "https://aenfinite.com/",
-				  "url": "https://aenfinite.com/",
-				  "telephone": "+1-303-419-9782",
-				  "address": {
-					"@type": "PostalAddress",
-					"streetAddress": "1500 N Grant St, Ste R",
-					"addressLocality": "Denver",
-					"addressRegion": "CO",
-					"postalCode": "80203",
-					"addressCountry": "US"
-				  },
-				  "geo": {
-					"@type": "GeoCoordinates",
-					"latitude": 39.7392,
-					"longitude": -104.9903
-				  },
-				  "openingHoursSpecification": {
-					"@type": "OpeningHoursSpecification",
-					"dayOfWeek": [
-					  "Monday",
-					  "Tuesday",
-					  "Wednesday",
-					  "Thursday",
-					  "Friday"
-					],
-					"opens": "09:00",
-					"closes": "18:00"
-				  },
-				  "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
-				  "priceRange": "$$",
-				  "serviceArea": {
-					"@type": "GeoCircle",
-					"geoMidpoint": {
-					  "@type": "GeoCoordinates",
-					  "latitude": 39.7392,
-					  "longitude": -104.9903
-					},
-					"geoRadius": "50000"
-				  }
-				}` }}
-        />
-        <script
-          key="schema-2"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://aenfinite.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "City",
-      "item": "https://aenfinite.com/city/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Design & Creative Solutions in {{CITY}}, {{STATE}}",
-      "item": "https://aenfinite.com/city/design-and-creative-solutions/"
     }
   ]
 }` }}

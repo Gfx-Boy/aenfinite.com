@@ -2,18 +2,20 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Software & Platform Development in {{CITY}}, {{STATE}} | Enterprise Solutions",
-  description: "Aenfinite is a leading software development agency in {{CITY}}, {{STATE}} specializing in enterprise platforms, custom software solutions, system architecture, and scalable applications. We deliver high-performance software that drives digital transformation and business growth.",
-  keywords: "software development, platform development, web development, custom software, enterprise solutions, local development agency, Aenfinite",
-  alternates: { canonical: "https://aenfinite.com/services/software-and-platform-development/" },
-  openGraph: {"title":"Professional Software & Platform Development in {{CITY}}, {{STATE}} | Enterprise Solutions | Aenfinite","description":"Aenfinite delivers enterprise-grade software and platform development solutions tailored to businesses in {{CITY}}, {{STATE}}. From system architecture to scalable app development, we power digital transformation.","url":"https://aenfinite.com/services/software-and-platform-development/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Software & Platform Development in {{CITY}}, {{STATE}} | Enterprise Solutions | Aenfinite","description":"Aenfinite provides custom software and platform development services in {{CITY}}, {{STATE}}, including enterprise systems, SaaS products, and scalable architecture for digital transformation.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  title: "Boston Web Design, Development & AI Automation Agency",
+  description: "Aenfinite builds custom websites, apps, e-commerce and AI automation for Boston businesses — senior US engineers, published pricing, fixed quotes. Serving Cambridge and beyond.",
+  keywords: "web design agency Boston, Boston web design company, web development company Boston, Boston app developers, AI automation agency Boston, software development company Boston, Boston digital agency, Aenfinite",
+  alternates: { canonical: "https://aenfinite.com/locations/boston/", languages: {"x-default":"https://aenfinite.com/locations/boston/","en":"https://aenfinite.com/locations/boston/"} },
+  openGraph: {"title":"Boston Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Boston businesses — senior US engineers, published pricing, fixed quotes. Serving Cambridge and beyond.","url":"https://aenfinite.com/locations/boston/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Boston Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Boston businesses — senior US engineers, published pricing, fixed quotes. Serving Cambridge and beyond.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
 const bodyClass = `page-template page-template-page-service-php page-id-1708 page-child parent-pageid-82 document`;
 
 const headStyles = `
+/* =====Professional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite SERVICES SECTION CSS ===== */
+/* Extracted from Cities/ for reuse across projects */
 
 /* ===== DESKTOP SERVICES STYLES ===== */
 .service-list {
@@ -971,7 +973,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered byProfessional Workflow & Business Automation Development | Workflow & Process Automation Solutions | Aenfinite with ??', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -1314,9 +1316,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<span class="header-cross_text">Redefine Infinite Possibilities</span>
 		</div>
 		<div class="header-wrapper">
-                  				<div class="title title__main js-header-title">
+			<div class="header-caption">
+				<div class="title title__main js-header-title">
 					<h1>
-						<span>Software & Platform <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Development in {{CITY}}, {{STATE}}</span> that creates powerful, <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">enterprise solutions</span>, and drives digital transformation.</span>
+						<span>Your <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Boston</span> web design, development &amp; <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">AI automation</span> partner &mdash; engineering-first work for New England businesses.</span>
 													
 											</h1>
 									</div>
@@ -1354,168 +1357,27 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Professional Software & Platform Development Services in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Enterprise Architecture, System Integration & Optimization in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Serving {{CITY}}, {{STATE}} and Clients Across the US, Canada & Beyond</span>
-    <span class="marquee-line_text">Specialists in Software Performance & User Experience in {{CITY}}, {{STATE}}</span>
-    <span class="marquee-line_text">Trusted by Growing Businesses in {{CITY}} for Software Development Solutions</span>
-    <span class="marquee-line_text">High-Performance Software Development & Security</span>
-    <span class="marquee-line_text">Professional E-commerce & Online Store Solutions</span>
-    <span class="marquee-line_text">Professional Software Development Agency with Proven Results</span>
-    <span class="marquee-line_text">Comprehensive Software Maintenance & Support</span>
-    <span class="marquee-line_text">Custom Software Development Solutions for Every Industry</span>
-    <span class="marquee-line_text">Software Performance Optimization & Mobile Responsiveness</span>
-    <span class="marquee-line_text">Scalable Software Development & Long-term Growth</span>
+    <span class="marquee-line_text">Boston Web Design & Development</span>
+    <span class="marquee-line_text">Serving Cambridge to Worcester</span>
+    <span class="marquee-line_text">Custom Websites, Apps & E-Commerce</span>
+    <span class="marquee-line_text">AI Automation for Boston Businesses</span>
+    <span class="marquee-line_text">Biotech, Higher-Ed, SaaS & B2B Services</span>
+    <span class="marquee-line_text">WordPress, Next.js & Custom Platforms</span>
+    <span class="marquee-line_text">Published Pricing, Fixed Quotes</span>
+    <span class="marquee-line_text">Engineers First — Credentials You Can Ship</span>
+    <span class="marquee-line_text">SEO & Digital Marketing That Ranks</span>
+    <span class="marquee-line_text">150+ Projects Delivered Worldwide</span>
+    <span class="marquee-line_text">Dedicated Boston Site: aenfinite.boston</span>
+    <span class="marquee-line_text">Redefine Infinite Possibilities in Boston</span>
 </div>
 						                    </div>
                 </div>
-                <div class="js-shiftbox-carousel shiftbox-carousel">
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software Platform Development" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/khatech/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="01">
-											<div class="preview-name preview-name__caption"><a href="/work/khatech/">KhaTech - Technology Platform</a></div>
-																																		<div class="preview-name">Software Development</div>
-																							<div class="preview-name">Platform Architecture</div>
-																							<div class="preview-name">API Integration</div>
-																							<div class="preview-name">User Management</div>
-																							<div class="preview-name">Database Systems</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/algopros/">
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm Platform Development" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/algopros/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="02">
-											<div class="preview-name preview-name__caption"><a href="/work/algopros/">Algopros - Algorithm Platform</a></div>
-																																		<div class="preview-name">Platform Development</div>
-																							<div class="preview-name">Algorithm Integration</div>
-																							<div class="preview-name">Data Processing</div>
-																							<div class="preview-name">Analytics Dashboard</div>
-																							<div class="preview-name">Performance Optimization</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/blue-vine-marketing/">
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/blue-vine-marketing/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="03">
-											<div class="preview-name preview-name__caption"><a href="/work/blue-vine-marketing/">Blue Vine Marketing - Business Platform</a></div>
-																																		<div class="preview-name">Business Software</div>
-																							<div class="preview-name">CRM Integration</div>
-																							<div class="preview-name">Workflow Automation</div>
-																							<div class="preview-name">Lead Management</div>
-																							<div class="preview-name">Analytics Platform</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/neurolinker/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software Platform Development" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/neurolinker/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="/work/neurolinker/">Neurolinker - Neural Platform</a></div>
-																																		<div class="preview-name">Neural Software</div>
-																							<div class="preview-name">AI Integration</div>
-																							<div class="preview-name">Data Analytics</div>
-																							<div class="preview-name">Machine Learning</div>
-																							<div class="preview-name">Platform Architecture</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/mindfit/">
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App Platform Development" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/mindfit/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="05">
-											<div class="preview-name preview-name__caption"><a href="/work/mindfit/">Mindfit - Wellness Platform</a></div>
-																																		<div class="preview-name">App Development</div>
-																							<div class="preview-name">User Experience</div>
-																							<div class="preview-name">Health Analytics</div>
-																							<div class="preview-name">Cross-Platform</div>
-																							<div class="preview-name">Data Security</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-											<div>
-							<div class="shiftbox">
-								<div class="shiftbox-image">
-									<a href="/work/neocert/">
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification Platform Development" class="cover" loading="lazy" decoding="async" />
-									    <a href="/work/neocert/" class="shiftbox-link"> </a>
-									</a>
-								</div>
-								<div class="shiftbox-content">
-									<div class="preview">
-										<div class="preview-content" data-index="06">
-											<div class="preview-name preview-name__caption"><a href="/work/neocert/">Neocert - Certification Platform</a></div>
-																																		<div class="preview-name">Certification Software</div>
-																							<div class="preview-name">Learning Management</div>
-																							<div class="preview-name">Assessment Tools</div>
-																							<div class="preview-name">Progress Tracking</div>
-																							<div class="preview-name">Compliance Systems</div>
-																					</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					                </div>
-				<div class="shiftbox-nav desktop">
-					<div class="shiftbox-arrow shiftbox-arrow__left js-shiftbox-prev"></div>
-					<div class="shiftbox-pos">
-						<var class="shiftbox-current js-shiftbox-current">01</var> / <span class="shiftbox-num">06</span>
-					</div>
-					<div class="shiftbox-arrow shiftbox-arrow__right js-shiftbox-next"></div>
-				</div>
             </div>
 			
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite delivers Professional Software & Platform Development services in {{CITY}}, {{STATE}} that create powerful, scalable enterprise solutions and drive digital transformation. We manage comprehensive software architecture, custom platform design, system integration, and optimization services that generate exceptional user experiences and long-term success for businesses in {{CITY}} and beyond.</div>
+				<div class="textbox-content">Aenfinite builds websites, e-commerce stores, mobile apps and AI automation for Boston and New England businesses — biotech and healthcare, higher education, SaaS and B2B services. You get a senior US-based engineering team, published pricing, and one accountable partner from design through automation.</div>
 									<div class="textbox-action">
 						<a href="/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1524,186 +1386,51 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	</div>
 	<div class="section">
-	<div class="wrapper">
-		<div class="inner-wrapper">
-			<div class="numbers">
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>90+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>custom software solutions and scalable platform development projects successfully delivered by Aenfinite</div>
-						</div>
-					</div>
-				</div>
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>8+</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>years building robust platforms, APIs, and enterprise-grade software systems for businesses across industries</div>
-						</div>
-					</div>
-				</div>
-				<div class="numbers-item js-aos">
-					<div class="numbers-value">
-						<div>99%</div>
-					</div>
-					<div class="numbers-title">
-						<div>
-							<div>client satisfaction rate on custom software and platform development projects</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-		
-	</div>
-	<div class="section">
 		<div class="wrapper">
 			<div class="inner-wrapper">
-				<div class="section-caption js-aos">
-					<div class="section-caption_text">
-						<h2>Aenfinite Software & Platform Development Case Studies</h2>
-					</div>
-				</div>
-				<div class="previews js-aosfadein">
-					<div class="previews-carousel js-carousel">
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/khatechthumbnail.avif" alt="KhaTech Software Platform Development" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/khatech/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="01">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/khatech/">KhaTech</a>
-										</div>
-																					<div class="preview-name">Software Development</div>
-																					<div class="preview-name">Platform Architecture</div>
-																					<div class="preview-name">API Integration</div>
-																					<div class="preview-name">User Management</div>
-																					<div class="preview-name">Database Systems</div>
-											
-									</div>
-								</div>
+				<div class="numbers">
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>150+</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/BRAND-01.avif" alt="Algopros Algorithm Platform Development" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/algopros/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="02">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/algopros/">Algopros</a>
-										</div>
-																					<div class="preview-name">Platform Development</div>
-																					<div class="preview-name">Algorithm Integration</div>
-																					<div class="preview-name">Data Processing</div>
-																					<div class="preview-name">Analytics Dashboard</div>
-																					<div class="preview-name">Performance Optimization</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>projects delivered for clients across the US, Canada and worldwide since 2017</div>
+																	</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/blue-vine-marketingthumbnail.avif" alt="Blue Vine Marketing Business Platform" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/blue-vine-marketing/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="03">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/blue-vine-marketing/">Blue Vine Marketing</a>
-										</div>
-																					<div class="preview-name">Business Software</div>
-																					<div class="preview-name">CRM Integration</div>
-																					<div class="preview-name">Workflow Automation</div>
-																					<div class="preview-name">Lead Management</div>
-																					<div class="preview-name">Analytics Platform</div>
-											
-									</div>
-								</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>8+</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-3.avif" alt="Neurolinker Software Platform Development" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/neurolinker/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="04">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/neurolinker/">Neurolinker</a>
-										</div>
-																					<div class="preview-name">Neural Software</div>
-																					<div class="preview-name">AI Integration</div>
-																					<div class="preview-name">Data Analytics</div>
-																					<div class="preview-name">Machine Learning</div>
-																					<div class="preview-name">Platform Architecture</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>years designing, building and marketing websites, apps and software for US businesses</div>
+																	</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/Untitled-1.avif" alt="Mindfit App Platform Development" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/mindfit/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="05">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/mindfit/">Mindfit</a>
-										</div>
-																					<div class="preview-name">App Development</div>
-																					<div class="preview-name">User Experience</div>
-																					<div class="preview-name">Health Analytics</div>
-																					<div class="preview-name">Cross-Platform</div>
-																					<div class="preview-name">Data Security</div>
-											
-									</div>
-								</div>
+						</div>
+											<div class="numbers-item js-aos">
+							<div class="numbers-value">
+								<div>99%</div>
 							</div>
-													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/neocertbanner.avif" alt="Neocert Certification Platform Development" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/work/neocert/" class="not-index">View project</a></div>										
-									</div>									
-									<div class="preview-content" data-index="06">
-										<div class="preview-name preview-name__caption">
-											<a href="/work/neocert/">Neocert</a>
-										</div>
-																					<div class="preview-name">Certification Software</div>
-																					<div class="preview-name">Learning Management</div>
-																					<div class="preview-name">Assessment Tools</div>
-																					<div class="preview-name">Progress Tracking</div>
-																					<div class="preview-name">Compliance Systems</div>
-											
-									</div>
-								</div>
+							<div class="numbers-title">
+								<div>
+									<div>client satisfaction rate across web, app, marketing and automation engagements</div>
+																	</div>
 							</div>
-											</div>
-				</div>
-				<div class="section-footer js-aos appear">
-					<a href="/work/mobile-apps/" class="redlink">
-						<span>View all projects</span>
-					</a>
-				</div>
-			</div>
+						</div>
+									</div>
+							</div>
 		</div>
+	</div>
+		
 	</div>
 <a href="#contact" class="to-formss"></a>
 <div class="section" id="contact">
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite in {{CITY}}, {{STATE}} for Software & Platform Development</h2>
+				<h2>Contact Aenfinite — Boston Web Design, Development & AI Automation</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1720,72 +1447,47 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 </div>
 <div class="cell">
 	<div class="inputs">
-		<span class="wpcf7-form-control-wrap" data-name="your-name">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" />
-		</span>
-		<span class="wpcf7-form-control-wrap" data-name="your-email">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" />
-		</span>
-		<span class="wpcf7-form-control-wrap" data-name="text-tell-project">
-			<input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your software or platform project" value="" type="text" name="text-tell-project" />
-		</span>
+		<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" autocomplete="name" aria-required="true" aria-invalid="false" placeholder="Your name*" value="" type="text" name="your-name" /></span><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" autocomplete="email" aria-required="true" aria-invalid="false" placeholder="Your e-mail*" value="" type="email" name="your-email" /></span><span class="wpcf7-form-control-wrap" data-name="text-tell-project"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" autocomplete="on" aria-invalid="false" placeholder="Tell us about your project" value="" type="text" name="text-tell-project" /></span>
+		
 	</div>
 	<div class="checkbox-select">
-		<strong>I'm interested in...</strong>
-		<span class="form-control-wrap" data-name="checkbox-select">
-			<span class="form-control checkbox-group" style="padding-bottom: 50px">
-				<span class="list-item first">
-					<input type="checkbox" name="services" value="Custom Software Development" id="custom-software" />
-					<label for="custom-software" class="list-item-label">Custom Software Development</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Web Platform Development" id="web-platform" />
-					<label for="web-platform" class="list-item-label">Web Platform Development</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="SaaS Development" id="saas-development" />
-					<label for="saas-development" class="list-item-label">SaaS Development</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="API Development & Integrations" id="api-development" />
-					<label for="api-development" class="list-item-label">API Development & Integrations</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="Cloud Platform Solutions" id="cloud-platform" />
-					<label for="cloud-platform" class="list-item-label">Cloud Platform Solutions</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="UI/UX Design for Platforms" id="uiux-platform" />
-					<label for="uiux-platform" class="list-item-label">UI/UX Design for Platforms</label>
-				</span>
-				<span class="list-item">
-					<input type="checkbox" name="services" value="System Modernization & Migration" id="system-migration" />
-					<label for="system-migration" class="list-item-label">System Modernization & Migration</label>
-				</span>
-				<span class="list-item last">
-					<input type="checkbox" name="services" value="Other Custom Solutions" id="other" />
-					<label for="other" class="list-item-label">Other Custom Solutions</label>
-				</span>
-			</span>
-		</span>
+		<strong>I'm interested in...</strong><span class="form-control-wrap" data-name="checkbox-select"><span class="form-control checkbox-group" style="padding-bottom: 50px"><span class="list-item first"><input type="checkbox" name="services" value="Web Design & Development" id="den-web" /><label for="den-web" class="list-item-label">Web Design & Development</label></span><span class="list-item"><input type="checkbox" name="services" value="WordPress Website" id="den-wp" /><label for="den-wp" class="list-item-label">WordPress Website</label></span><span class="list-item"><input type="checkbox" name="services" value="E-Commerce Store" id="den-ecom" /><label for="den-ecom" class="list-item-label">E-Commerce Store</label></span><span class="list-item"><input type="checkbox" name="services" value="Mobile App Development" id="den-app" /><label for="den-app" class="list-item-label">Mobile App Development</label></span><span class="list-item"><input type="checkbox" name="services" value="Custom Software" id="den-software" /><label for="den-software" class="list-item-label">Custom Software</label></span><span class="list-item"><input type="checkbox" name="services" value="AI Automation" id="den-ai" /><label for="den-ai" class="list-item-label">AI Automation</label></span><span class="list-item"><input type="checkbox" name="services" value="SEO & Digital Marketing" id="den-seo" /><label for="den-seo" class="list-item-label">SEO & Digital Marketing</label></span><span class="list-item"><input type="checkbox" name="services" value="Branding & Logo Design" id="den-brand" /><label for="den-brand" class="list-item-label">Branding & Logo Design</label></span><span class="list-item"><input type="checkbox" name="services" value="Website Redesign" id="den-redesign" /><label for="den-redesign" class="list-item-label">Website Redesign</label></span><span class="list-item last"><input type="checkbox" name="services" value="Other Services" id="den-other" /><label for="den-other" class="list-item-label">Other Services</label></span></span></span>
 		
 		<div class="selectbox js-select">
 			<input class="selectbox-input js-select-holder" type="text" placeholder="Tell us your approximate budget" value="" readonly name="budget" />
 			
 			<div class="selectbox-suffix">
 				<svg width="18" height="10" viewBox="0 0 18 10"><path d="M1 1L9 9L17 1" stroke="#CCC" fill="none"></path></svg>
+				
 			</div>
 			<div class="select js-select-list">
-				<div class="select-option js-select-option">Starting from $100</div>
-				<div class="select-option js-select-option">from $500 to $5000</div>
-				<div class="select-option js-select-option">from $5000 to $20,000</div>
-				<div class="select-option js-select-option">from $20,000 to $50,000</div>
-				<div class="select-option js-select-option">over $100,000</div>
-			</div>
-		</div>
+				<div class="select-option js-select-option">
+					Starting from $100
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $500 to $5000
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $5000 to $20,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					from $20,000 to $50,000
+					
+				</div>
+				<div class="select-option js-select-option">
+					over $100,000
+					
+				</div>
+			</div>		</div>
 	</div>
 </div>
-<!-- hidden tracking fields remain unchanged -->
+<div class="hide">
+	<span class="wpcf7-form-control-wrap" data-name="datas-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datas-message" /></span><span class="wpcf7-form-control-wrap" data-name="times-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="times-message" /></span><span class="wpcf7-form-control-wrap" data-name="datac-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="datac-message" /></span><span class="wpcf7-form-control-wrap" data-name="timec-message"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="timec-message" /></span><span class="wpcf7-form-control-wrap" data-name="ip"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ip" /></span><span class="wpcf7-form-control-wrap" data-name="ipdetails"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="ipdetails" /></span><span class="wpcf7-form-control-wrap" data-name="urll"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urll" /></span><span class="wpcf7-form-control-wrap" data-name="idd2"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd2" /></span><span class="wpcf7-form-control-wrap" data-name="utm_id"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_id" /></span><span class="wpcf7-form-control-wrap" data-name="utm_source"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_source" /></span><span class="wpcf7-form-control-wrap" data-name="utm_medium"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_medium" /></span><span class="wpcf7-form-control-wrap" data-name="utm_campaign"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_campaign" /></span><span class="wpcf7-form-control-wrap" data-name="utm_term"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_term" /></span><span class="wpcf7-form-control-wrap" data-name="utm_content"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="utm_content" /></span><span class="wpcf7-form-control-wrap" data-name="urlback"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="urlback" /></span><span class="wpcf7-form-control-wrap" data-name="linkcontact"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="linkcontact" /></span><span class="wpcf7-form-control-wrap" data-name="idd1"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="idd1" /></span>
+	
+</div>
 <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send" style="margin-bottom: 50px" />
 <div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
@@ -1795,395 +1497,181 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			</div>
 		</div>
 	</div>
-</div>
-<div class="section">
-	<div class="wrapper">
-		<div>
-			<div class="inner-wrapper">
-				<div class="section-caption js-aos">
-					<div class="section-caption_text">
-						<h2>Software & Platform Development Expertise</h2>
-					</div>
-				</div>
-				<div class="textbox textbox__push js-aos appear">
-					<div class="textbox-content">
-						Aenfinite delivers end-to-end software and platform development solutions  from enterprise-grade platforms to custom applications  designed to streamline workflows, enhance scalability, and fuel your business growth.
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="panes">
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Custom Software Development</div>
-				<div class="pane-subtitle">
-					<p>We design and develop bespoke software tailored to your exact business needs. Our expert developers create scalable, secure, and maintainable applications that automate workflows and drive operational efficiency.</p>
-				</div>
-			</div>
 
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Web & Mobile Platform Development</div>
-				<div class="pane-subtitle">
-					<p>Build powerful, user-friendly platforms with Aenfinite. We create responsive web portals, mobile apps, and cross-platform solutions that deliver a seamless experience for users and administrators alike.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">API Development & System Integration</div>
-				<div class="pane-subtitle">
-					<p>Enable smooth communication between your systems with custom API development. We integrate third-party services, connect internal tools, and ensure your platform ecosystem works as one cohesive solution.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Cloud & SaaS Solutions</div>
-				<div class="pane-subtitle">
-					<p>Take advantage of the cloud with scalable SaaS platforms. We build applications that run efficiently in the cloud, with multi-tenant architecture, robust security, and reliable uptime.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">System Modernization & Migration</div>
-				<div class="pane-subtitle">
-					<p>Upgrade your legacy systems to modern architectures. We handle data migration, code refactoring, and infrastructure upgrades to improve performance, security, and maintainability.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Scalable Architecture Design</div>
-				<div class="pane-subtitle">
-					<p>Our architects design future-ready systems with microservices, serverless solutions, and modular codebases that can grow with your business needs.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Performance Optimization</div>
-				<div class="pane-subtitle">
-					<p>We fine-tune your software to run at peak efficiency. From database optimization to load balancing, we ensure your platform handles traffic and scales seamlessly.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">Security & Compliance</div>
-				<div class="pane-subtitle">
-					<p>We implement enterprise-grade security practices, including encryption, access controls, and compliance with industry standards like GDPR, HIPAA, or ISO 27001.</p>
-				</div>
-			</div>
-
-			<div class="pane js-aos fadein">
-				<div class="pane-index"></div>
-				<div class="pane-title">User Experience & Interface Design</div>
-				<div class="pane-subtitle">
-					<p>Deliver intuitive, engaging user experiences with our UI/UX design services. We craft clean interfaces and seamless user flows to maximize adoption and satisfaction.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-	<div class="section">
-    <div class="wrapper">
-        <div class="inner-wrapper">
-            <div class="section-caption js-aos">
-                <div class="section-caption_text">
-                    <h2>Software Development Process</h2>
-                </div>
-            </div>
-            <div class="nlist">
-                <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">Discovery & Analysis</div>
-                    <div class="nlist-tabs js-switch-tabs">
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-1-1">
-                            <span>Requirements Gathering</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane active" id="pane-1-1">
-                            <p>We start by deeply understanding your business goals, workflows, and technical requirements. This includes documenting user stories, system integrations, and performance expectations for the software or platform you need built.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-1-2">
-                            <span>Architecture Planning</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-1-2">
-                            <p>Our architects design the most efficient and scalable system architecture, defining database schemas, API structures, technology stack, and security measures to support your software's future growth.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
-                            <span>Project Strategy</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-1-3">
-                            <p>We create a full development roadmap including timelines, sprint planning, testing phases, and deployment strategies to ensure your software project is delivered on time and within scope.</p>
-                        </div>
-                        <div class="nlist-sensor js-switch-sensor"></div>
-                    </div>
-                    <div class="nlist-content js-switch-copy"></div>
-                </div>
-
-                <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">UI/UX Design</div>
-                    <div class="nlist-tabs js-switch-tabs">
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-2-1">
-                            <span>Wireframing & Prototyping</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane active" id="pane-2-1">
-                            <p>We create detailed wireframes and interactive prototypes to visualize how users will navigate and interact with your software. This ensures we build with clarity and user needs in mind.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-2-2">
-                            <span>User Experience Design</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-2-2">
-                            <p>Our UX team optimizes every screen and interaction for usability and accessibility, ensuring your platform is intuitive, efficient, and enjoyable for users.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-2-3">
-                            <span>Interface Design</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-2-3">
-                            <p>We design visually engaging interfaces with a focus on brand consistency and modern design systems that scale seamlessly across devices and screen sizes.</p>
-                        </div>
-                        <div class="nlist-sensor js-switch-sensor"></div>
-                    </div>
-                    <div class="nlist-content js-switch-copy"></div>
-                </div>
-
-                <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">Development & Testing</div>
-                    <div class="nlist-tabs js-switch-tabs">
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-3-1">
-                            <span>Agile Development</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane active" id="pane-3-1">
-                            <p>Our engineers follow agile methodologies, delivering software in sprints. We focus on writing clean, maintainable code and implementing the latest technologies for scalability and performance.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-3-2">
-                            <span>Integrations & APIs</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-3-2">
-                            <p>We integrate third-party services, APIs, and custom modules to extend functionality and connect your platform with other business systems seamlessly.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-3-3">
-                            <span>Quality Assurance</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-3-3">
-                            <p>Our QA team runs automated and manual tests across multiple environments to identify bugs, ensure security compliance, and guarantee a smooth, error-free user experience.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-3-4">
-                            <span>Deployment</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-3-4">
-                            <p>We handle staging, production deployment, and CI/CD pipelines, ensuring a seamless launch with zero downtime and proper version control.</p>
-                        </div>
-                        <div class="nlist-sensor js-switch-sensor"></div>
-                    </div>
-                    <div class="nlist-content js-switch-copy"></div>
-                </div>
-
-                <div class="nlist-item appear js-aos js-switch">
-                    <div class="nlist-caption">Support & Growth</div>
-                    <div class="nlist-tabs js-switch-tabs">
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-4-1">
-                            <span>Ongoing Maintenance</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane active" id="pane-4-1">
-                            <p>We provide continuous monitoring, bug fixes, security updates, and feature enhancements to keep your platform running efficiently.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-4-2">
-                            <span>Performance Optimization</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-4-2">
-                            <p>Our team regularly monitors system performance, optimizes load times, and ensures your software scales with your user base and traffic growth.</p>
-                        </div>
-                        <div class="nlist-tab js-switch-tab" data-pane="#pane-4-3">
-                            <span>Training & Documentation</span>
-                        </div>
-                        <div class="nlist-pane js-switch-pane" id="pane-4-3">
-                            <p>We deliver in-depth documentation, video tutorials, and training sessions to empower your team to manage and operate the platform independently.</p>
-                        </div>
-                        <div class="nlist-sensor js-switch-sensor"></div>
-                    </div>
-                    <div class="nlist-content js-switch-copy"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-	<div class="section">
+</div>		<div class="section">
 		<div class="wrapper">
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Software & Platform Development</span> is the perfect blend of technical innovation and strategic planning. Work with a team that excels at building scalable, secure, and high-performance applications designed to power your business growth and digital transformation.
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Boston runs on credentials</span> &mdash; ours are shipped products: 150+ projects across web, software and AI automation, with pricing published right on this page.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
 		</div>
 	</div>
-</div>   <div class="section" style="padding-bottom: 100px;">
-    <div class="wrapper">
-        <div class="inner-wrapper">
-            <div class="section-caption js-aos">
-                <div class="section-caption_text">
-                    <h2>Aenfinite Software & Platform Development Services</h2>
-                </div>
-            </div>
-            <div class="service-grid">
-                <div>
-                    <div class="service-list js-service-container fadein js-aos">
-                        
-                        <!-- Custom Software Development -->
-                        <div class="service active js-service">
-                            <div class="service-caption js-service-caption">Custom Software Development</div>
-                            <div class="service-content js-service-content">
-                                <div class="service-tags">
-                                    <div class="chips">
-                                        <div class="chip"><a href="/contact/" class="chip-label">Enterprise Solutions</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Cloud Applications</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">APIs</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Microservices</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Automation</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Custom Dashboards</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Scalable Architecture</a></div>
-                                    </div>
-                                </div>
-                                <div class="service-text">
-                                    <p>We design and build custom software applications tailored to your business workflows, ensuring scalability, security, and long-term maintainability.</p>
-                                    <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our approach includes:</strong></p>
-                                        <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-                                            <li>Detailed requirements analysis and technical specification</li>
-                                            <li>Cloud-native architecture planning and infrastructure setup</li>
-                                            <li>Custom API and microservices development</li>
-                                            <li>Agile iteration cycles for faster delivery</li>
-                                            <li>Robust security, testing, and documentation</li>
-                                        </ul>
-                                        <p style="margin-top: 15px; font-style: italic; color: #666;">
-                                            We leverage modern tech stacks like Node.js, Python, React, and containerization with Docker/Kubernetes to ensure performance and reliability.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="service-action">
-                                    <a href="/contact/" class="redlink"><span>Learn more</span></a>
-                                </div>
-                            </div>
-                        </div>
+</div> <div class="section" style="padding-bottom: 100px;">
+	<div class="wrapper">
+		<div class="inner-wrapper">
+			<div class="section-caption js-aos">
+				<div class="section-caption_text">
+					<h2>What We Build for Boston Businesses</h2>
+				</div>
+			</div>
+			<div class="service-grid">
+				<div>
+					<div class="service-list js-service-container fadein js-aos">
+						<div class="service active js-service">
+							<div class="service-caption js-service-caption">Web Design & Development in Boston</div>
+							<div class="service-content js-service-content">
+								<div class="service-tags">
+									<div class="chips">
+										<div class="chip"><a href="/services/web-design/" class="chip-label">Custom Design</a></div>
+										<div class="chip"><a href="/services/wordpress-websites/" class="chip-label">WordPress</a></div>
+										<div class="chip"><a href="/services/custom-web-development/" class="chip-label">Next.js</a></div>
+										<div class="chip"><a href="/services/e-commerce-websites/" class="chip-label">E-Commerce</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Core Web Vitals</a></div>
+									</div>
+								</div>
+								<div class="service-text">
+									<p>Custom websites designed and engineered in-house: WordPress for marketing sites, Next.js for performance-critical platforms, and fully custom e-commerce — all built to rank and convert.</p>
+									<div class="desktop-only" style="margin-top: 15px;">
+										<p><strong>Boston web projects include:</strong></p>
+										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
+											<li>Custom design — no themes or templates</li>
+											<li>WordPress, Next.js and headless builds</li>
+											<li>E-commerce with Shopify, Woo or custom carts</li>
+											<li>Local SEO foundations built in from day one</li>
+											<li>Speed: Core Web Vitals as an acceptance criterion</li>
+										</ul>
+										<p style="margin-top: 15px; font-style: italic; color: #666;">
+											Typical Boston small-business site: $3,000–$15,000, quoted fixed after a free consult.
+										</p>
+									</div>
+								</div>
+								<div class="service-action">
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
+								</div>
+							</div>
+						</div>
 
-                        <!-- Platform Architecture & Design -->
-                        <div class="service js-service">
-                            <div class="service-caption js-service-caption">Platform Architecture & Design</div>
-                            <div class="service-content js-service-content">
-                                <div class="service-tags">
-                                    <div class="chips">
-                                        <div class="chip"><a href="/contact/" class="chip-label">System Architecture</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Database Design</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Cloud Infrastructure</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">API Gateways</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Security Layers</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Scalability</a></div>
-                                    </div>
-                                </div>
-                                <div class="service-text">
-                                    <p>We craft robust, future-ready platform architectures that form the backbone of your digital ecosystem.</p>
-                                    <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>We focus on:</strong></p>
-                                        <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-                                            <li>High-availability architecture with load balancing</li>
-                                            <li>Optimized database schema and indexing strategies</li>
-                                            <li>Secure authentication and role-based access control</li>
-                                            <li>Cloud deployments (AWS, GCP, Azure)</li>
-                                            <li>API-driven, modular platform design</li>
-                                        </ul>
-                                        <p style="margin-top: 15px; font-style: italic; color: #666;">
-                                            We ensure your platform can scale to support thousands of users and transactions without compromising on performance.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="service-action">
-                                    <a href="/contact/" class="redlink"><span>Learn more</span></a>
-                                </div>
-                            </div>
-                        </div>
+						<div class="service js-service">
+							<div class="service-caption js-service-caption">App & Software Development</div>
+							<div class="service-content js-service-content">
+								<div class="service-tags">
+									<div class="chips">
+										<div class="chip"><a href="/services/app-development/" class="chip-label">iOS & Android</a></div>
+										<div class="chip"><a href="/services/software-and-platform-development/" class="chip-label">SaaS</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">APIs</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Dashboards</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Integrations</a></div>
+									</div>
+								</div>
+								<div class="service-text">
+									<p>From mobile apps to internal tools and full SaaS platforms — a genuine engineering team, not a design shop subcontracting the hard parts.</p>
+									<div class="desktop-only" style="margin-top: 15px;">
+										<p><strong>We build:</strong></p>
+										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
+											<li>iOS and Android apps</li>
+											<li>SaaS products and customer portals</li>
+											<li>Internal dashboards and admin tools</li>
+											<li>API development and system integrations</li>
+											<li>Legacy system modernization</li>
+										</ul>
+										<p style="margin-top: 15px; font-style: italic; color: #666;">
+											Apps and platforms typically start around $25,000; we scope honestly and ship in milestones.
+										</p>
+									</div>
+								</div>
+								<div class="service-action">
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
+								</div>
+							</div>
+						</div>
 
-                        <!-- API & Plugin Development -->
-                        <div class="service js-service">
-                            <div class="service-caption js-service-caption">API & Plugin Development</div>
-                            <div class="service-content js-service-content">
-                                <div class="service-tags">
-                                    <div class="chips">
-                                        <div class="chip"><a href="/contact/" class="chip-label">REST & GraphQL APIs</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Third-Party Integrations</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Webhooks</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Automation Scripts</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Custom Plugins</a></div>
-                                    </div>
-                                </div>
-                                <div class="service-text">
-                                    <p>Extend your software's capabilities with robust APIs, SDKs, and integrations that connect seamlessly with your ecosystem.</p>
-                                    <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>We deliver:</strong></p>
-                                        <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-                                            <li>RESTful and GraphQL API development</li>
-                                            <li>Secure authentication (OAuth2, JWT)</li>
-                                            <li>Integration with CRMs, ERPs, and payment gateways</li>
-                                            <li>Custom plugin and module development</li>
-                                            <li>Scalable middleware and data sync solutions</li>
-                                        </ul>
-                                        <p style="margin-top: 15px; font-style: italic; color: #666;">
-                                            We use best practices to build APIs that are well-documented, secure, and future-proof.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="service-action">
-                                    <a href="/contact/" class="redlink"><span>Learn more</span></a>
-                                </div>
-                            </div>
-                        </div>
+						<div class="service js-service">
+							<div class="service-caption js-service-caption">AI Automation for Boston Businesses</div>
+							<div class="service-content js-service-content">
+								<div class="service-tags">
+									<div class="chips">
+										<div class="chip"><a href="/services/ai-automation/" class="chip-label">AI Workflows</a></div>
+										<div class="chip"><a href="/services/ai-voice-agents/" class="chip-label">Voice Agents</a></div>
+										<div class="chip"><a href="/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots</a></div>
+										<div class="chip"><a href="/services/n8n-automation/" class="chip-label">n8n</a></div>
+										<div class="chip"><a href="/services/crm-automation/" class="chip-label">CRM Automation</a></div>
+									</div>
+								</div>
+								<div class="service-text">
+									<p>A dedicated AI automation practice for Boston businesses: workflows that route leads and chase invoices, voice agents that answer your phones, and chatbots trained on your business.</p>
+									<div class="desktop-only" style="margin-top: 15px;">
+										<p><strong>Boston automation work:</strong></p>
+										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
+											<li>Lead routing and follow-up automation</li>
+											<li>AI voice agents and receptionists</li>
+											<li>Website chatbots trained on your content</li>
+											<li>n8n, Make and Zapier implementation</li>
+											<li>CRM, invoicing and reporting automation</li>
+										</ul>
+										<p style="margin-top: 15px; font-style: italic; color: #666;">
+											See the full AI automation service pages for pricing — projects start at $1,500.
+										</p>
+									</div>
+								</div>
+								<div class="service-action">
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
+								</div>
+							</div>
+						</div>
 
-                        <!-- Maintenance & Support -->
-                        <div class="service js-service">
-                            <div class="service-caption js-service-caption">Ongoing Maintenance & Support</div>
-                            <div class="service-content js-service-content">
-                                <div class="service-tags">
-                                    <div class="chips">
-                                        <div class="chip"><a href="/contact/" class="chip-label">Monitoring</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Bug Fixes</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Feature Upgrades</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Version Control</a></div>
-                                        <div class="chip"><a href="/contact/" class="chip-label">Documentation</a></div>
-                                    </div>
-                                </div>
-                                <div class="service-text">
-                                    <p>We ensure your platform stays secure, up-to-date, and optimized with ongoing maintenance and proactive monitoring.</p>
-                                    <div class="desktop-only" style="margin-top: 15px;">
-                                        <p><strong>Our support includes:</strong></p>
-                                        <ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-                                            <li>24/7 server monitoring and error tracking</li>
-                                            <li>Regular software updates and security patches</li>
-                                            <li>Performance audits and load testing</li>
-                                            <li>Scalability improvements and refactoring</li>
-                                            <li>Dedicated support team for ongoing needs</li>
-                                        </ul>
-                                        <p style="margin-top: 15px; font-style: italic; color: #666;">
-                                            Our team becomes your long-term partner, helping you evolve your software as your business grows.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="service-action">
-                                    <a href="/contact/" class="redlink"><span>Learn more</span></a>
-                                </div>
-                            </div>
-                        </div>
+						<div class="service js-service">
+							<div class="service-caption js-service-caption">SEO & Digital Marketing</div>
+							<div class="service-content js-service-content">
+								<div class="service-tags">
+									<div class="chips">
+										<div class="chip"><a href="/services/search-engine-optimization/" class="chip-label">Local SEO</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Google Business</a></div>
+										<div class="chip"><a href="/services/digital-marketing/" class="chip-label">Content</a></div>
+										<div class="chip"><a href="/services/pay-per-click/" class="chip-label">PPC</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Analytics</a></div>
+									</div>
+								</div>
+								<div class="service-text">
+									<p>Get found by Boston customers: local SEO, Google Business Profile optimization, content that ranks, and paid campaigns measured on revenue, not impressions.</p>
+									<div class="desktop-only" style="margin-top: 15px;">
+										<p><strong>Marketing engagements cover:</strong></p>
+										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
+											<li>Local SEO and map-pack optimization</li>
+											<li>Technical SEO and site speed</li>
+											<li>Content strategy and production</li>
+											<li>Google and Meta ads management</li>
+											<li>Honest reporting tied to leads and sales</li>
+										</ul>
+										<p style="margin-top: 15px; font-style: italic; color: #666;">
+											We do this for our own multi-market presence — the same playbook works for your business.
+										</p>
+									</div>
+								</div>
+								<div class="service-action">
+									<a href="/contact/" class="redlink">
+										<span>Learn more</span>
+									</a>
+								</div>
+							</div>
+						</div>
 
-                    </div>
-                </div>
-                <div class="service-preview desktop fadein js-aos">
-                    <div class="service-content-copy js-service-copy" style="padding-bottom: 500px"></div>
-                </div>
-            </div>
-        </div>
-    </div>
+					</div>
+				</div>
+				<div class="service-preview desktop fadein js-aos">
+					<div class="service-content-copy js-service-copy"></div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 	
@@ -2191,32 +1679,92 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	
 	
 			
+<!-- AEN-LONGFORM START -->
+<section class='aen-longform' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 22px;line-height:1.2;'>A web design &amp; AI automation partner for Boston</h2>
+
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>Aenfinite is a US web design, development, and AI automation agency serving Boston businesses in biotech and healthcare, higher education, B2B SaaS, professional services, and financial services.</strong> Since 2017 we have delivered 150+ projects — marketing websites, e-commerce stores, mobile apps, custom software, and the AI automations that run our clients' operations. Our headquarters is in Denver, Colorado; Boston clients work directly with the same senior team, on your hours, with no account-manager relay and no offshore black box. We also maintain a dedicated Boston site at <a href='https://aenfinite.boston' target='_blank' rel='noopener'>aenfinite.boston</a>.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>What makes us different from other Boston agencies</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>1. We publish pricing.</strong> Very few agencies in the Boston market will tell you what a website costs before three discovery calls — our typical ranges are on this page. <strong>2. We actually build AI automation.</strong> Most agencies write blog posts about AI; we ship AI workflows, voice agents, and chatbots into production — see our <a href='/services/ai-automation/'>AI automation services</a>. <strong>3. Engineering first.</strong> Custom software and apps are core capabilities, not outsourced add-ons. <strong>4. Location-independent pricing.</strong> Big-market agencies price their rent into your project; our quotes are the same no matter your area code.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Typical investment for Boston businesses</h2>
+
+  <div style='overflow-x:auto;margin:24px 0;'>
+    <table style='width:100%;border-collapse:collapse;font-size:16px;min-width:640px;'>
+      <thead><tr>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Engagement</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Typical investment</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>What you get</th>
+      </tr></thead>
+      <tbody>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Small-business website</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$3,000 &ndash; $15,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom design, WordPress or Next.js build, local SEO foundations</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>E-commerce store</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$8,000 &ndash; $40,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom storefront, payments, shipping, product migration, training</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Mobile app / custom software</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$25,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Scoped in milestones: design, build, launch, maintenance</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>AI automation</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$1,500 &ndash; $20,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Workflows, chatbots and voice agents &mdash; see the AI automation pages</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>SEO &amp; marketing</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>from $1,000/mo</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Local SEO, content, and paid media with revenue-based reporting</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p style='font-size:14px;opacity:0.7;line-height:1.6;'>Every project is quoted fixed-price after a free consultation — the same published pricing in every market we serve.</p>
+
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How an engagement works</h2>
+  <ol style='padding-left:22px;font-size:16px;'>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Free consultation.</strong> 30&ndash;60 minutes on a call in your time zone. We learn your goals and constraints; you leave with straight answers and a ballpark.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Proposal.</strong> Fixed price, defined scope, real timeline. No hourly meters running.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Design &amp; build.</strong> Weekly demos so you see progress continuously. You review real work, not status decks.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Launch.</strong> QA, performance passes, SEO checks, analytics wiring &mdash; then we ship.</li>
+    <li style='margin-bottom:16px;line-height:1.7;'><strong>Grow.</strong> Ongoing support, marketing, and automation as your needs expand. Most clients stay for years.</li>
+  </ol>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Serving Boston and beyond</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>We work with businesses in Cambridge, Somerville, Brookline, Newton, Quincy, Worcester and across Greater Boston — and because everything we deliver is digital, the same team serves clients across Massachusetts and all 50 states. See <a href='/locations/'>everywhere we work</a> or our <a href='/locations/denver/'>Denver headquarters</a>.</p>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Contact us</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Aenfinite LLC &middot; <a href='tel:+13034199782'>+1 (303) 419-9782</a> &middot; <a href='mailto:hello@aenfinite.com'>hello@aenfinite.com</a>. Explore our <a href='/services/'>services</a>, see <a href='/work/'>our work</a>, or <a href='/contact/'>book a free consultation</a> &mdash; 30 minutes, straight answers, a real ballpark.</p>
+
+
+</section>
+<!-- AEN-LONGFORM END -->
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Does Aenfinite serve businesses in my area?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How much does a website cost in Boston?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Aenfinite works with local businesses and clients nationwide, combining local market insight with world-class digital expertise.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our pricing is the same in every market: custom small-business websites run $3,000–$15,000, e-commerce $8,000–$40,000, apps and custom software from $25,000. Many Boston-based agencies price the same scope significantly higher because local overhead is built into their rates. We quote fixed prices after a free consultation.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What services do you offer locally?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you have an office in Boston?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We offer web design, branding, SEO, digital marketing, and app development, all tailored to help local businesses grow online.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our headquarters is in Denver and we maintain a dedicated Boston presence at aenfinite.boston. Delivery is video-first on Eastern hours; for larger engagements we come to you for kickoffs and workshops.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you help my business rank in local search?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work with small businesses or only large companies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Absolutely. We optimize your Google Business Profile, local citations, and location pages so you appear in local and 'near me' searches.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Both. Small businesses and startups are the heart of our client base — the published pricing on this page is designed so smaller Boston teams can budget realistically. We also handle larger custom software and multi-site programs.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get started?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What industries do you serve in the Boston market?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation and we will build a plan tailored to your local market and goals.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our strongest fits in Boston are biotech and healthcare, higher education, B2B SaaS, professional services, and financial services. The underlying capabilities — web, e-commerce, apps, AI automation, SEO — apply to almost any business.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you offer AI automation for Boston businesses?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — a dedicated AI automation practice: AI workflows, voice agents that answer your phones, and chatbots trained on your business, starting at $1,500. Everything is delivered remotely, so Boston businesses get the same production-grade automations as our Denver clients.</div>
+      </div>
+    </details>
+    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Why hire you instead of a local Boston agency?</summary>
+      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Engineering depth is the difference: apps, platforms and AI automation are in-house capabilities, not subcontracts. Add published fixed pricing and Eastern-hours responsiveness, and you get big-agency capability without the local overhead.</div>
       </div>
     </details>
   </div>
@@ -2227,7 +1775,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Have a Project in Mind? let's Build Something Great Together.</span>
 								<a href="/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2240,20 +1788,21 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="footer-col">
 								<div class="footer-col_caption">Company</div>
 								<div class="footer-col_list">
-									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Work</a></li>
+									<ul id="menu-footer-company-menu" class="menuss"><li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
-<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/services/wordpress-websites/">WordPress Websites</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="/services/branding/">Branding</a></li>
 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1730"><a href="/services/packaging-design/">Packaging Design</a></li>
 <li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1708 current_page_item menu-item-2259"><a href="" aria-current="page">Branding</a></li>
@@ -2329,9 +1878,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 						</div>
 						<div class="menu-nav">
-							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href=/featured-work/">Work</a></li>
+							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/agency/">Agency</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/city/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-482"><a href="/services/">Services</a></li>
 
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 </ul>						</div>
@@ -2360,7 +1909,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	</div>
 </div>
 
-<!-- 3. CSS STYLES (Place this in your <head> section or CSS file) -->
+<!-- 3. CSS STYLES (Place this in your <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> section or CSS file) -->
 <style>
 /* ===== BUTTON STYLES ===== */
 
@@ -2635,7 +2186,8 @@ document.addEventListener('keydown', function(event) {
 				  "@context": "https://schema.org",
 				  "@type": "LocalBusiness",
 				  "name": "Aenfinite",
-				  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+ "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+
 				  "@id": "https://aenfinite.com/",
 				  "url": "https://aenfinite.com/",
 				  "telephone": "+1-303-419-9782",
@@ -2669,7 +2221,7 @@ document.addEventListener('keydown', function(event) {
 					"https://twitter.com/aenfinitee",
 					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert software and platform development agency specializing in custom applications, web platforms, API development, and scalable software solutions.",
+				  "description": "Expert Workflow & Business Automation agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
@@ -2678,7 +2230,7 @@ document.addEventListener('keydown', function(event) {
 					  "latitude": 39.7392,
 					  "longitude": -104.9903
 					},
-					"geoRadius": 50000
+					"geoRadius": "50000"
 				  }
 				}
 		</script>
@@ -2738,141 +2290,25 @@ export default function Page() {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://aenfinite.com/#organization",
-      "name": "Aenfinite®",
-      "url": "https://aenfinite.com",
-      "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ]
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://aenfinite.com/#website",
-      "url": "https://aenfinite.com",
-      "name": "Aenfinite®",
-      "alternateName": "Aenfinite® - Software Development Agency",
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "inLanguage": "en-US"
+      "@type": "ProfessionalService",
+      "@id": "https://aenfinite.com/locations/boston/#localbusiness",
+      "name": "Aenfinite - Boston Web Design, Development & AI Automation",
+      "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+      "url": "https://aenfinite.com/locations/boston/",
+      "telephone": "+1-303-419-9782",
+      "email": "hello@aenfinite.com",
+      "priceRange": "$$",
+      "areaServed": [{"@type":"City","name":"Boston"},{"@type":"City","name":"Cambridge"},{"@type":"City","name":"Somerville"},{"@type":"City","name":"Quincy"},{"@type":"City","name":"Worcester"},{"@type":"State","name":"Massachusetts"}],
+      "parentOrganization": {"@id": "https://aenfinite.com/#organization"},
+      "sameAs": ["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","https://www.linkedin.com/company/aenfinite"]
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://aenfinite.com/services/software-and-platform-development/#breadcrumb",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "item": { "@id": "https://aenfinite.com", "name": "Home" } },
-        { "@type": "ListItem", "position": 2, "item": { "@id": "https://aenfinite.com/services/", "name": "Services" } },
-        { "@type": "ListItem", "position": 3, "item": { "@id": "https://aenfinite.com/services/software-and-platform-development/", "name": "Software & Platform Development" } }
+        {"@type": "ListItem","position": 1,"name": "Home","item": "https://aenfinite.com/"},
+        {"@type": "ListItem","position": 2,"name": "Locations","item": "https://aenfinite.com/locations/"},
+        {"@type": "ListItem","position": 3,"name": "Boston","item": "https://aenfinite.com/locations/boston/"}
       ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage",
-      "url": "https://aenfinite.com/services/software-and-platform-development/",
-      "name": "Professional Software & Platform Development | Enterprise Solutions | Aenfinite®",
-      "datePublished": "2022-10-16T21:16:37-04:00",
-      "dateModified": "2025-10-24T11:13:56-04:00",
-      "isPartOf": { "@id": "https://aenfinite.com/#website" },
-      "primaryImageOfPage": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
-      "inLanguage": "en-US",
-      "breadcrumb": { "@id": "https://aenfinite.com/services/software-and-platform-development/#breadcrumb" }
-    },
-    {
-      "@type": "Article",
-      "@id": "https://aenfinite.com/services/software-and-platform-development/#richSnippet",
-      "headline": "Professional Software & Platform Development | Enterprise Solutions | Aenfinite®",
-      "description": "Aenfinite® provides full-cycle software and platform development — from enterprise systems and SaaS platforms to scalable architecture and API integrations. Empowering businesses through custom-built technology.",
-      "keywords": "Software Development, Platform Architecture, Enterprise Solutions, SaaS Development, API Integration, Digital Transformation, System Architecture",
-      "author": { "@type": "Organization", "name": "Aenfinite®" },
-      "publisher": { "@id": "https://aenfinite.com/#organization" },
-      "datePublished": "2022-10-16T21:16:37-04:00",
-      "dateModified": "2025-10-24T11:13:56-04:00",
-      "image": { "@id": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg" },
-      "inLanguage": "en-US",
-      "mainEntityOfPage": { "@id": "https://aenfinite.com/services/software-and-platform-development/#webpage" }
-    }
-  ]
-}` }}
-        />
-        <script
-          key="schema-1"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-				  "@context": "https://schema.org",
-				  "@type": "LocalBusiness",
-				  "name": "Aenfinite",
-				  "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
-				  "@id": "https://aenfinite.com/",
-				  "url": "https://aenfinite.com/",
-				  "telephone": "+1-303-419-9782",
-				  "address": {
-					"@type": "PostalAddress",
-					"streetAddress": "1500 N Grant St, Ste R",
-					"addressLocality": "Denver",
-					"addressRegion": "CO",
-					"postalCode": "80203",
-					"addressCountry": "US"
-				  },
-				  "geo": {
-					"@type": "GeoCoordinates",
-					"latitude": 39.7392,
-					"longitude": -104.9903
-				  },
-				  "openingHoursSpecification": {
-					"@type": "OpeningHoursSpecification",
-					"dayOfWeek": [
-					  "Monday",
-					  "Tuesday",
-					  "Wednesday",
-					  "Thursday",
-					  "Friday"
-					],
-					"opens": "09:00",
-					"closes": "18:00"
-				  },
-				  "sameAs": [
-					"https://www.facebook.com/aenfinite/",
-					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
-				  ],
-				  "description": "Expert software and platform development agency specializing in custom applications, web platforms, API development, and scalable software solutions.",
-				  "priceRange": "$$",
-				  "serviceArea": {
-					"@type": "GeoCircle",
-					"geoMidpoint": {
-					  "@type": "GeoCoordinates",
-					  "latitude": 39.7392,
-					  "longitude": -104.9903
-					},
-					"geoRadius": 50000
-				  }
-				}` }}
-        />
-        <script
-          key="schema-2"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://aenfinite.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "City",
-      "item": "https://aenfinite.com/city/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Professional Software & Platform Development in {{CITY}}, {{STATE}}",
-      "item": "https://aenfinite.com/city/development/"
     }
   ]
 }` }}

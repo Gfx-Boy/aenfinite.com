@@ -2222,6 +2222,7 @@ recommend a service from 1-10</div>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/services/">Services</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
