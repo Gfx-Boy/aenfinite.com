@@ -2,12 +2,12 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Our Locations | Web Design & AI Automation Across All 50 States",
-  description: "Aenfinite serves businesses in all 50 US states from its Denver HQ — with dedicated pages for Los Angeles, San Diego, New York, Miami and Boston, plus Australia. Published pricing everywhere.",
-  keywords: "Aenfinite locations, US web design agency, nationwide web development, AI automation agency USA, Denver Los Angeles New York Miami Boston web design",
-  alternates: { canonical: "https://aenfinite.com/locations/", languages: {"x-default":"https://aenfinite.com/locations/","en":"https://aenfinite.com/locations/"} },
-  openGraph: {"title":"Our Locations | Aenfinite — All 50 States","description":"One senior team serving every US state from Denver HQ, with dedicated metro pages and Australian sites.","url":"https://aenfinite.com/locations/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Our Locations | Aenfinite — All 50 States","description":"Web design, development and AI automation for businesses in every US state.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  title: "Maine Web Design, Development & AI Automation Agency",
+  description: "Aenfinite builds custom websites, apps, e-commerce and AI automation for Maine businesses — from Portland to Augusta. Senior US engineers, published pricing, fixed quotes.",
+  keywords: "web design agency Maine, Maine web design company, web development company Maine, app developers Maine, AI automation agency Maine, Portland web design, Aenfinite",
+  alternates: { canonical: "https://aenfinite.com/locations/maine/", languages: {"x-default":"https://aenfinite.com/locations/maine/","en":"https://aenfinite.com/locations/maine/"} },
+  openGraph: {"title":"Maine Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Maine businesses — from Portland to Augusta. Senior US engineers, published pricing, fixed quotes.","url":"https://aenfinite.com/locations/maine/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Maine Web Design, Development & AI Automation Agency | Aenfinite","description":"Aenfinite builds custom websites, apps, e-commerce and AI automation for Maine businesses — from Portland to Augusta. Senior US engineers, published pricing, fixed quotes.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1319,7 +1319,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="header-caption">
 				<div class="title title__main js-header-title">
 					<h1>
-						<span>One senior team serving <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">all 50 states</span> &mdash; from our Denver HQ to <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">your time zone</span>.</span>
+						<span>Your <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">Maine</span> web design, development &amp; <span style="background:#227bf3;color:white;padding:1px 0px;border-radius:2px;display:inline;line-height:1.2;margin-right:2px;vertical-align:baseline;">AI automation</span> partner &mdash; serving Portland, Augusta, Bangor and businesses statewide.</span>
 													
 											</h1>
 									</div>
@@ -1357,18 +1357,18 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                 <div class="header-marquee runner js-runner">
                     <div class="js-runner-content">
 													<div class="marquee-line">
-    <span class="marquee-line_text">Serving All 50 US States</span>
-    <span class="marquee-line_text">Denver HQ — 1500 N Grant St, Capitol Hill</span>
-    <span class="marquee-line_text">Los Angeles · San Diego · New York</span>
-    <span class="marquee-line_text">Miami · Boston · Everywhere Between</span>
-    <span class="marquee-line_text">Melbourne & Sydney, Australia</span>
-    <span class="marquee-line_text">Web, Apps, E-Commerce & AI Automation</span>
+    <span class="marquee-line_text">Maine Web Design & Development</span>
+    <span class="marquee-line_text">Serving Portland, Augusta & Statewide</span>
+    <span class="marquee-line_text">Custom Websites, Apps & E-Commerce</span>
+    <span class="marquee-line_text">AI Automation for Maine Businesses</span>
+    <span class="marquee-line_text">Built for Tourism and hospitality & Fisheries and seafood</span>
+    <span class="marquee-line_text">WordPress, Next.js & Custom Platforms</span>
     <span class="marquee-line_text">Published Pricing, Fixed Quotes</span>
-    <span class="marquee-line_text">Remote-First, On-Site When It Matters</span>
-    <span class="marquee-line_text">English & Spanish Delivery</span>
+    <span class="marquee-line_text">Senior US Engineers, Your Time Zone</span>
+    <span class="marquee-line_text">SEO & Digital Marketing That Ranks</span>
     <span class="marquee-line_text">150+ Projects Delivered Worldwide</span>
-    <span class="marquee-line_text">One Team, Every Time Zone</span>
-    <span class="marquee-line_text">Redefine Infinite Possibilities</span>
+    <span class="marquee-line_text">One Team, One Accountable Partner</span>
+    <span class="marquee-line_text">Redefine Infinite Possibilities in Maine</span>
 </div>
 						                    </div>
                 </div>
@@ -1377,7 +1377,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite is headquartered in Denver and works with businesses in every US state — plus Australia through our Melbourne and Sydney sites. Everything we build is digital: websites, e-commerce, mobile apps, and AI automation, delivered by one senior team with published pricing that does not change by zip code. This page is the map: pick your market, or just call — same team either way.</div>
+				<div class="textbox-content">Aenfinite builds websites, e-commerce stores, mobile apps and AI automation for Maine businesses — with deep experience in tourism and hospitality, fisheries and seafood, healthcare, and small manufacturing. You get a senior US-based engineering team, published pricing, and one accountable partner for design, development, marketing and automation, delivered on your hours from Portland to the smallest town in the state.</div>
 									<div class="textbox-action">
 						<a href="/contact/" class="redlink">
 							<span>Trust the experts</span>
@@ -1395,7 +1395,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-									<div>projects delivered for clients across the US, Canada, Australia and worldwide since 2017</div>
+									<div>projects delivered for clients across the US, Canada and worldwide since 2017</div>
 																	</div>
 							</div>
 						</div>
@@ -1405,7 +1405,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<div class="numbers-title">
 								<div>
-									<div>years serving businesses in every US region from our Denver headquarters</div>
+									<div>years designing, building and marketing websites, apps and software for US businesses</div>
 																	</div>
 							</div>
 						</div>
@@ -1430,7 +1430,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 	<div class="block formss">
 		<div class="center">
 			<div class="formss-wrap">
-				<h2>Contact Aenfinite — Wherever You Are in the US</h2>
+				<h2>Contact Aenfinite — Maine Web Design, Development & AI Automation</h2>
 				<div class="toggle-formss">
 					
 <div class="wpcf7" id="wpcf7-f1252-o1" lang="en-US" dir="ltr" data-wpcf7-id="1252">
@@ -1503,7 +1503,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="citebox js-karaoke">
 				<div class="citebox-content js-karaoke-content">
 					<span>
-						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Great work isn't a zip-code feature.</span> Senior engineers, published pricing and a real AI automation practice &mdash; delivered to every US state by one accountable team.					</span>
+						<span style="background:#227bf3;color:white;padding:2px 8px;border-radius:4px;display:inline; padding-bottom: 0 !important; margin-bottom: 0 !important;">Maine businesses</span> shouldn't pay big-market agency prices for senior work &mdash; published pricing, engineering depth, and delivery on your hours, anywhere in the state.					</span>
 				</div>
 				<div class="citebox-mask js-karaoke-mask"></div>
 			</div>
@@ -1514,37 +1514,37 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		<div class="inner-wrapper">
 			<div class="section-caption js-aos">
 				<div class="section-caption_text">
-					<h2>Where We Work</h2>
+					<h2>What We Build for Maine Businesses</h2>
 				</div>
 			</div>
 			<div class="service-grid">
 				<div>
 					<div class="service-list js-service-container fadein js-aos">
 						<div class="service active js-service">
-							<div class="service-caption js-service-caption">Denver — Headquarters</div>
+							<div class="service-caption js-service-caption">Web Design & Development in Maine</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/locations/denver/" class="chip-label">Denver HQ</a></div>
-										<div class="chip"><a href="/locations/denver/" class="chip-label">Boulder</a></div>
-										<div class="chip"><a href="/locations/denver/" class="chip-label">Colorado Springs</a></div>
-										<div class="chip"><a href="/locations/denver/" class="chip-label">Front Range</a></div>
-										<div class="chip"><a href="/locations/denver/" class="chip-label">Mountain West</a></div>
+										<div class="chip"><a href="/services/web-design/" class="chip-label">Custom Design</a></div>
+										<div class="chip"><a href="/services/wordpress-websites/" class="chip-label">WordPress</a></div>
+										<div class="chip"><a href="/services/custom-web-development/" class="chip-label">Next.js</a></div>
+										<div class="chip"><a href="/services/e-commerce-websites/" class="chip-label">E-Commerce</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Core Web Vitals</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Home base: 1500 N Grant St in Capitol Hill. Design, engineering and automation under one roof — with in-person kickoffs for Front Range clients.</p>
+									<p>Custom websites designed and engineered in-house: WordPress for marketing sites, Next.js for performance-critical platforms, and fully custom e-commerce — all built to rank and convert.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>From our Denver HQ:</strong></p>
+										<p><strong>Maine web projects include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Full-service web, app and software delivery</li>
-											<li>The AI automation practice that runs our own ops</li>
-											<li>In-person workshops across the Front Range</li>
-											<li>Mountain-time coverage for the whole Mountain West</li>
-											<li>See the Denver page for local pricing and FAQs</li>
+											<li>Custom design — no themes or templates</li>
+											<li>WordPress, Next.js and headless builds</li>
+											<li>E-commerce with Shopify, Woo or custom carts</li>
+											<li>Local SEO foundations built in from day one</li>
+											<li>Speed: Core Web Vitals as an acceptance criterion</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											Visit our Denver page — or the office; coffee's on us.
+											Typical small-business site: $3,000–$15,000, quoted fixed after a free consult.
 										</p>
 									</div>
 								</div>
@@ -1557,30 +1557,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">West Coast</div>
+							<div class="service-caption js-service-caption">App & Software Development</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/locations/los-angeles/" class="chip-label">Los Angeles</a></div>
-										<div class="chip"><a href="/locations/san-diego/" class="chip-label">San Diego</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">San Francisco</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Seattle</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Portland</a></div>
+										<div class="chip"><a href="/services/app-development/" class="chip-label">iOS & Android</a></div>
+										<div class="chip"><a href="/services/software-and-platform-development/" class="chip-label">SaaS</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">APIs</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Dashboards</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Integrations</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Pacific-hours delivery for California and the Northwest: DTC brands, entertainment, biotech and B2B — LA-agency quality without LA-agency overhead.</p>
+									<p>From mobile apps to internal tools and full SaaS platforms — a genuine engineering team, not a design shop subcontracting the hard parts.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>West Coast highlights:</strong></p>
+										<p><strong>We build:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Dedicated Los Angeles and San Diego pages</li>
-											<li>Same-day responses on Pacific hours</li>
-											<li>DTC, e-commerce and creator-economy experience</li>
-											<li>Biotech and defense-supplier work for San Diego</li>
-											<li>Published pricing — no big-market markup</li>
+											<li>iOS and Android apps</li>
+											<li>SaaS products and customer portals</li>
+											<li>Internal dashboards and admin tools</li>
+											<li>API development and system integrations</li>
+											<li>Legacy system modernization</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											Start with the Los Angeles or San Diego page for market-specific detail.
+											Apps and platforms typically start around $25,000; we scope honestly and ship in milestones.
 										</p>
 									</div>
 								</div>
@@ -1593,30 +1593,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">East Coast</div>
+							<div class="service-caption js-service-caption">AI Automation for Maine Businesses</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/locations/new-york/" class="chip-label">New York</a></div>
-										<div class="chip"><a href="/locations/boston/" class="chip-label">Boston</a></div>
-										<div class="chip"><a href="/locations/miami/" class="chip-label">Miami</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Chicago</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Atlanta</a></div>
+										<div class="chip"><a href="/services/ai-automation/" class="chip-label">AI Workflows</a></div>
+										<div class="chip"><a href="/services/ai-voice-agents/" class="chip-label">Voice Agents</a></div>
+										<div class="chip"><a href="/services/ai-chatbots-and-virtual-assistants/" class="chip-label">Chatbots</a></div>
+										<div class="chip"><a href="/services/n8n-automation/" class="chip-label">n8n</a></div>
+										<div class="chip"><a href="/services/crm-automation/" class="chip-label">CRM Automation</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>Eastern-hours delivery from NYC to Miami — including dedicated local sites for New York, Boston and Miami, and bilingual English/Spanish work in South Florida.</p>
+									<p>A dedicated AI automation practice for Maine businesses: workflows that route leads and chase invoices, voice agents that answer your phones, and chatbots trained on your business.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>East Coast highlights:</strong></p>
+										<p><strong>Automation work includes:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Dedicated New York, Boston and Miami pages</li>
-											<li>Local sites: aenfinite.nyc, .boston, .miami</li>
-											<li>White-label partner for East Coast agencies</li>
-											<li>Bilingual English/Spanish delivery in Miami</li>
-											<li>Fintech, biotech, hospitality and real estate</li>
+											<li>Lead routing and follow-up automation</li>
+											<li>AI voice agents and receptionists</li>
+											<li>Website chatbots trained on your content</li>
+											<li>n8n, Make and Zapier implementation</li>
+											<li>CRM, invoicing and reporting automation</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											Pick your metro page — or contact us directly; it's the same team.
+											See the full AI automation service pages for pricing — projects start at $1,500.
 										</p>
 									</div>
 								</div>
@@ -1629,30 +1629,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 
 						<div class="service js-service">
-							<div class="service-caption js-service-caption">Nationwide & Australia</div>
+							<div class="service-caption js-service-caption">SEO & Digital Marketing</div>
 							<div class="service-content js-service-content">
 								<div class="service-tags">
 									<div class="chips">
-										<div class="chip"><a href="/contact/" class="chip-label">All 50 States</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Canada</a></div>
-										<div class="chip"><a href="https://aenfinite.melbourne" class="chip-label">Melbourne</a></div>
-										<div class="chip"><a href="https://aenfinite.sydney" class="chip-label">Sydney</a></div>
-										<div class="chip"><a href="/contact/" class="chip-label">Remote-First</a></div>
+										<div class="chip"><a href="/services/search-engine-optimization/" class="chip-label">Local SEO</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Google Business</a></div>
+										<div class="chip"><a href="/services/digital-marketing/" class="chip-label">Content</a></div>
+										<div class="chip"><a href="/services/pay-per-click/" class="chip-label">PPC</a></div>
+										<div class="chip"><a href="/contact/" class="chip-label">Analytics</a></div>
 									</div>
 								</div>
 								<div class="service-text">
-									<p>No metro page for your city? That changes nothing: the same senior team, the same published pricing, and delivery tuned to your time zone — anywhere in the US, Canada or Australia.</p>
+									<p>Get found by Maine customers: local SEO, Google Business Profile optimization, content that ranks, and paid campaigns measured on revenue, not impressions.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
-										<p><strong>Everywhere else:</strong></p>
+										<p><strong>Marketing engagements cover:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">
-											<li>Every US state, Washington D.C. and Puerto Rico</li>
-											<li>Canada on US-adjacent time zones</li>
-											<li>Australia via aenfinite.melbourne and aenfinite.sydney</li>
-											<li>Video-first delivery with weekly demos</li>
-											<li>On-site kickoffs available for larger engagements</li>
+											<li>Local SEO and map-pack optimization</li>
+											<li>Technical SEO and site speed</li>
+											<li>Content strategy and production</li>
+											<li>Google and Meta ads management</li>
+											<li>Honest reporting tied to leads and sales</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											Wherever you are: one call, straight answers, a real ballpark.
+											We do this for our own multi-market presence — the same playbook works for your business.
 										</p>
 									</div>
 								</div>
@@ -1681,73 +1681,35 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 <!-- AEN-LONGFORM START -->
 <section class='aen-longform' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 22px;line-height:1.2;'>Every state. One team. Published pricing.</h2>
+  <h2 style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 22px;line-height:1.2;'>A web design &amp; AI automation partner for Maine</h2>
 
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>Aenfinite serves businesses in all 50 US states from its Denver headquarters, with dedicated market pages for <a href='/locations/denver/'>Denver</a>, <a href='/locations/los-angeles/'>Los Angeles</a>, <a href='/locations/san-diego/'>San Diego</a>, <a href='/locations/new-york/'>New York</a>, <a href='/locations/miami/'>Miami</a> and <a href='/locations/boston/'>Boston</a> — and Australian sites for Melbourne and Sydney.</strong> Everything we deliver — web design, development, e-commerce, mobile apps, SEO and AI automation — is digital, so your project is staffed by the same senior team no matter where you are. What changes by market is local knowledge; what never changes is the pricing we publish.</p>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>Aenfinite is a US web design, development, and AI automation agency serving Maine businesses in tourism and hospitality, fisheries and seafood, healthcare, and small manufacturing.</strong> Since 2017 we have delivered 150+ projects — marketing websites, e-commerce stores, mobile apps, custom software, and the AI automations that run our clients' operations. Our headquarters is in Denver, Colorado; Maine clients work directly with the same senior team, on your hours, with no account-manager relay and no offshore black box.</p>
 
-  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Our US markets</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><a href='/locations/denver/'>Denver, CO</a> (headquarters) &middot; <a href='/locations/los-angeles/'>Los Angeles, CA</a> &middot; <a href='/locations/san-diego/'>San Diego, CA</a> &middot; <a href='/locations/new-york/'>New York, NY</a> &middot; <a href='/locations/miami/'>Miami, FL</a> &middot; <a href='/locations/boston/'>Boston, MA</a>. New York, Boston and Miami also have dedicated local sites: <a href='https://aenfinite.nyc' target='_blank' rel='noopener'>aenfinite.nyc</a>, <a href='https://aenfinite.boston' target='_blank' rel='noopener'>aenfinite.boston</a> and <a href='https://aenfinite.miami' target='_blank' rel='noopener'>aenfinite.miami</a>.</p>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>What makes us different</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><strong>1. We publish pricing.</strong> Few agencies serving the Maine market will tell you what a website costs before three discovery calls — our typical ranges are on this page. <strong>2. We actually build AI automation.</strong> Most agencies write blog posts about AI; we ship AI workflows, voice agents, and chatbots into production — see our <a href='/services/ai-automation/'>AI automation services</a>. <strong>3. Engineering first.</strong> Custom software and apps are core capabilities, not outsourced add-ons. <strong>4. Location-independent pricing.</strong> Our quotes are the same no matter your area code.</p>
 
-  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Every state &mdash; and the major cities we serve in each</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>We work with businesses in all 50 states, Washington D.C. and Puerto Rico. Here are the major cities in each &mdash; and if yours isn't listed, that changes nothing: everything we deliver is digital, so it's <a href='/contact/'>one call</a>, the same senior team, and the same published pricing anywhere in America.</p>
-  <style>.aen-states-grid a{color:#227bf3;text-decoration:none;}.aen-states-grid a:hover{text-decoration:underline;}</style>
-  <div class='aen-states-grid' style='display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px 24px;margin:24px 0 8px;font-size:15px;line-height:1.6;'>
-    <div><a href='/locations/alabama/' style='font-weight:700;'>Alabama &rsaquo;</a><br /><span style='opacity:0.8;'>Birmingham, Montgomery, Huntsville, Mobile, Tuscaloosa</span></div>
-    <div><a href='/locations/alaska/' style='font-weight:700;'>Alaska &rsaquo;</a><br /><span style='opacity:0.8;'>Anchorage, Fairbanks, Juneau, Wasilla, Sitka</span></div>
-    <div><a href='/locations/arizona/' style='font-weight:700;'>Arizona &rsaquo;</a><br /><span style='opacity:0.8;'>Phoenix, Tucson, Mesa, Scottsdale, Chandler</span></div>
-    <div><a href='/locations/arkansas/' style='font-weight:700;'>Arkansas &rsaquo;</a><br /><span style='opacity:0.8;'>Little Rock, Fayetteville, Fort Smith, Springdale, Jonesboro</span></div>
-    <div><a href='/locations/california/' style='font-weight:700;'>California &rsaquo;</a><br /><span style='opacity:0.8;'><a href='/locations/los-angeles/'>Los Angeles</a>, <a href='/locations/san-diego/'>San Diego</a>, San Francisco, San Jose, Sacramento, Fresno</span></div>
-    <div><a href='/locations/colorado/' style='font-weight:700;'>Colorado &rsaquo;</a><br /><span style='opacity:0.8;'><a href='/locations/denver/'>Denver</a>, Colorado Springs, Aurora, Fort Collins, Boulder</span></div>
-    <div><a href='/locations/connecticut/' style='font-weight:700;'>Connecticut &rsaquo;</a><br /><span style='opacity:0.8;'>Hartford, New Haven, Stamford, Bridgeport, Waterbury</span></div>
-    <div><a href='/locations/delaware/' style='font-weight:700;'>Delaware &rsaquo;</a><br /><span style='opacity:0.8;'>Wilmington, Dover, Newark, Middletown, Smyrna</span></div>
-    <div><a href='/locations/florida/' style='font-weight:700;'>Florida &rsaquo;</a><br /><span style='opacity:0.8;'><a href='/locations/miami/'>Miami</a>, Jacksonville, Tampa, Orlando, Fort Lauderdale, St. Petersburg</span></div>
-    <div><a href='/locations/georgia/' style='font-weight:700;'>Georgia &rsaquo;</a><br /><span style='opacity:0.8;'>Atlanta, Savannah, Augusta, Columbus, Macon</span></div>
-    <div><a href='/locations/hawaii/' style='font-weight:700;'>Hawaii &rsaquo;</a><br /><span style='opacity:0.8;'>Honolulu, Hilo, Kailua, Pearl City, Waipahu</span></div>
-    <div><a href='/locations/idaho/' style='font-weight:700;'>Idaho &rsaquo;</a><br /><span style='opacity:0.8;'>Boise, Meridian, Nampa, Idaho Falls, Coeur d'Alene</span></div>
-    <div><a href='/locations/illinois/' style='font-weight:700;'>Illinois &rsaquo;</a><br /><span style='opacity:0.8;'>Chicago, Aurora, Naperville, Springfield, Peoria, Rockford</span></div>
-    <div><a href='/locations/indiana/' style='font-weight:700;'>Indiana &rsaquo;</a><br /><span style='opacity:0.8;'>Indianapolis, Fort Wayne, Evansville, South Bend, Carmel</span></div>
-    <div><a href='/locations/iowa/' style='font-weight:700;'>Iowa &rsaquo;</a><br /><span style='opacity:0.8;'>Des Moines, Cedar Rapids, Davenport, Iowa City, Sioux City</span></div>
-    <div><a href='/locations/kansas/' style='font-weight:700;'>Kansas &rsaquo;</a><br /><span style='opacity:0.8;'>Wichita, Overland Park, Kansas City, Topeka, Olathe</span></div>
-    <div><a href='/locations/kentucky/' style='font-weight:700;'>Kentucky &rsaquo;</a><br /><span style='opacity:0.8;'>Louisville, Lexington, Bowling Green, Owensboro, Covington</span></div>
-    <div><a href='/locations/louisiana/' style='font-weight:700;'>Louisiana &rsaquo;</a><br /><span style='opacity:0.8;'>New Orleans, Baton Rouge, Shreveport, Lafayette, Lake Charles</span></div>
-    <div><a href='/locations/maine/' style='font-weight:700;'>Maine &rsaquo;</a><br /><span style='opacity:0.8;'>Portland, Augusta, Bangor, Lewiston, South Portland</span></div>
-    <div><a href='/locations/maryland/' style='font-weight:700;'>Maryland &rsaquo;</a><br /><span style='opacity:0.8;'>Baltimore, Annapolis, Columbia, Rockville, Frederick</span></div>
-    <div><a href='/locations/massachusetts/' style='font-weight:700;'>Massachusetts &rsaquo;</a><br /><span style='opacity:0.8;'><a href='/locations/boston/'>Boston</a>, Worcester, Springfield, Cambridge, Lowell</span></div>
-    <div><a href='/locations/michigan/' style='font-weight:700;'>Michigan &rsaquo;</a><br /><span style='opacity:0.8;'>Detroit, Grand Rapids, Ann Arbor, Lansing, Flint</span></div>
-    <div><a href='/locations/minnesota/' style='font-weight:700;'>Minnesota &rsaquo;</a><br /><span style='opacity:0.8;'>Minneapolis, St. Paul, Rochester, Duluth, Bloomington</span></div>
-    <div><a href='/locations/mississippi/' style='font-weight:700;'>Mississippi &rsaquo;</a><br /><span style='opacity:0.8;'>Jackson, Gulfport, Southaven, Hattiesburg, Biloxi</span></div>
-    <div><a href='/locations/missouri/' style='font-weight:700;'>Missouri &rsaquo;</a><br /><span style='opacity:0.8;'>Kansas City, St. Louis, Springfield, Columbia, Independence</span></div>
-    <div><a href='/locations/montana/' style='font-weight:700;'>Montana &rsaquo;</a><br /><span style='opacity:0.8;'>Billings, Missoula, Great Falls, Bozeman, Helena</span></div>
-    <div><a href='/locations/nebraska/' style='font-weight:700;'>Nebraska &rsaquo;</a><br /><span style='opacity:0.8;'>Omaha, Lincoln, Bellevue, Grand Island, Kearney</span></div>
-    <div><a href='/locations/nevada/' style='font-weight:700;'>Nevada &rsaquo;</a><br /><span style='opacity:0.8;'>Las Vegas, Henderson, Reno, North Las Vegas, Carson City</span></div>
-    <div><a href='/locations/new-hampshire/' style='font-weight:700;'>New Hampshire &rsaquo;</a><br /><span style='opacity:0.8;'>Manchester, Nashua, Concord, Derry, Dover</span></div>
-    <div><a href='/locations/new-jersey/' style='font-weight:700;'>New Jersey &rsaquo;</a><br /><span style='opacity:0.8;'>Newark, Jersey City, Paterson, Trenton, Edison</span></div>
-    <div><a href='/locations/new-mexico/' style='font-weight:700;'>New Mexico &rsaquo;</a><br /><span style='opacity:0.8;'>Albuquerque, Santa Fe, Las Cruces, Rio Rancho, Roswell</span></div>
-    <div><a href='/locations/new-york/' style='font-weight:700;'>New York &rsaquo;</a><br /><span style='opacity:0.8;'><a href='/locations/new-york/'>New York City</a>, Buffalo, Rochester, Albany, Syracuse, Yonkers</span></div>
-    <div><a href='/locations/north-carolina/' style='font-weight:700;'>North Carolina &rsaquo;</a><br /><span style='opacity:0.8;'>Charlotte, Raleigh, Durham, Greensboro, Winston-Salem</span></div>
-    <div><a href='/locations/north-dakota/' style='font-weight:700;'>North Dakota &rsaquo;</a><br /><span style='opacity:0.8;'>Fargo, Bismarck, Grand Forks, Minot, West Fargo</span></div>
-    <div><a href='/locations/ohio/' style='font-weight:700;'>Ohio &rsaquo;</a><br /><span style='opacity:0.8;'>Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton</span></div>
-    <div><a href='/locations/oklahoma/' style='font-weight:700;'>Oklahoma &rsaquo;</a><br /><span style='opacity:0.8;'>Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond</span></div>
-    <div><a href='/locations/oregon/' style='font-weight:700;'>Oregon &rsaquo;</a><br /><span style='opacity:0.8;'>Portland, Salem, Eugene, Gresham, Bend</span></div>
-    <div><a href='/locations/pennsylvania/' style='font-weight:700;'>Pennsylvania &rsaquo;</a><br /><span style='opacity:0.8;'>Philadelphia, Pittsburgh, Allentown, Erie, Harrisburg</span></div>
-    <div><a href='/locations/rhode-island/' style='font-weight:700;'>Rhode Island &rsaquo;</a><br /><span style='opacity:0.8;'>Providence, Warwick, Cranston, Pawtucket, Newport</span></div>
-    <div><a href='/locations/south-carolina/' style='font-weight:700;'>South Carolina &rsaquo;</a><br /><span style='opacity:0.8;'>Charleston, Columbia, Greenville, Mount Pleasant, Myrtle Beach</span></div>
-    <div><a href='/locations/south-dakota/' style='font-weight:700;'>South Dakota &rsaquo;</a><br /><span style='opacity:0.8;'>Sioux Falls, Rapid City, Aberdeen, Brookings, Pierre</span></div>
-    <div><a href='/locations/tennessee/' style='font-weight:700;'>Tennessee &rsaquo;</a><br /><span style='opacity:0.8;'>Nashville, Memphis, Knoxville, Chattanooga, Franklin</span></div>
-    <div><a href='/locations/texas/' style='font-weight:700;'>Texas &rsaquo;</a><br /><span style='opacity:0.8;'>Houston, Dallas, Austin, San Antonio, Fort Worth, El Paso</span></div>
-    <div><a href='/locations/utah/' style='font-weight:700;'>Utah &rsaquo;</a><br /><span style='opacity:0.8;'>Salt Lake City, Provo, West Valley City, Ogden, St. George</span></div>
-    <div><a href='/locations/vermont/' style='font-weight:700;'>Vermont &rsaquo;</a><br /><span style='opacity:0.8;'>Burlington, Montpelier, Rutland, South Burlington, Barre</span></div>
-    <div><a href='/locations/virginia/' style='font-weight:700;'>Virginia &rsaquo;</a><br /><span style='opacity:0.8;'>Virginia Beach, Richmond, Norfolk, Arlington, Alexandria</span></div>
-    <div><a href='/locations/washington/' style='font-weight:700;'>Washington &rsaquo;</a><br /><span style='opacity:0.8;'>Seattle, Spokane, Tacoma, Bellevue, Vancouver</span></div>
-    <div><a href='/locations/west-virginia/' style='font-weight:700;'>West Virginia &rsaquo;</a><br /><span style='opacity:0.8;'>Charleston, Huntington, Morgantown, Parkersburg, Wheeling</span></div>
-    <div><a href='/locations/wisconsin/' style='font-weight:700;'>Wisconsin &rsaquo;</a><br /><span style='opacity:0.8;'>Milwaukee, Madison, Green Bay, Kenosha, Appleton</span></div>
-    <div><a href='/locations/wyoming/' style='font-weight:700;'>Wyoming &rsaquo;</a><br /><span style='opacity:0.8;'>Cheyenne, Casper, Laramie, Gillette, Jackson</span></div>
-    <div><a href='/locations/washington-dc/' style='font-weight:700;'>Washington, D.C. &rsaquo;</a><br /><span style='opacity:0.8;'>the District and the DMV metro</span></div>
-    <div><a href='/locations/puerto-rico/' style='font-weight:700;'>Puerto Rico &rsaquo;</a><br /><span style='opacity:0.8;'>San Juan, Ponce, Caguas, Bayamon, Mayaguez</span></div>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Typical investment for Maine businesses</h2>
+
+  <div style='overflow-x:auto;margin:24px 0;'>
+    <table style='width:100%;border-collapse:collapse;font-size:16px;min-width:640px;'>
+      <thead><tr>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Engagement</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>Typical investment</th>
+        <th style='text-align:left;padding:14px 16px;border-bottom:2px solid #227bf3;'>What you get</th>
+      </tr></thead>
+      <tbody>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Small-business website</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$3,000 &ndash; $15,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom design, WordPress or Next.js build, local SEO foundations</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>E-commerce store</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$8,000 &ndash; $40,000</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Custom storefront, payments, shipping, product migration, training</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>Mobile app / custom software</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$25,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Scoped in milestones: design, build, launch, maintenance</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>AI automation</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>$1,500 &ndash; $20,000+</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Workflows, chatbots and voice agents &mdash; see the AI automation pages</td></tr>
+        <tr><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);font-weight:600;'>SEO &amp; marketing</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);white-space:nowrap;'>from $1,000/mo</td><td style='padding:14px 16px;border-bottom:1px solid rgba(128,128,128,0.2);opacity:0.85;'>Local SEO, content, and paid media with revenue-based reporting</td></tr>
+      </tbody>
+    </table>
   </div>
-  <p style='font-size:14px;opacity:0.7;line-height:1.6;margin:12px 0 0;'>&hellip;and every other city and town in between. Digital delivery means no city limits.</p>
+  <p style='font-size:14px;opacity:0.7;line-height:1.6;'>Every project is quoted fixed-price after a free consultation — the same published pricing in every market we serve.</p>
 
-  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How remote-first delivery works</h2>
+
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How an engagement works</h2>
   <ol style='padding-left:22px;font-size:16px;'>
     <li style='margin-bottom:16px;line-height:1.7;'><strong>Free consultation.</strong> 30&ndash;60 minutes on a call in your time zone. We learn your goals and constraints; you leave with straight answers and a ballpark.</li>
     <li style='margin-bottom:16px;line-height:1.7;'><strong>Proposal.</strong> Fixed price, defined scope, real timeline. No hourly meters running.</li>
@@ -1756,11 +1718,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <li style='margin-bottom:16px;line-height:1.7;'><strong>Grow.</strong> Ongoing support, marketing, and automation as your needs expand. Most clients stay for years.</li>
   </ol>
 
-  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>International</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Beyond the US, we serve Canada on adjacent time zones and Australia through <a href='https://aenfinite.melbourne' target='_blank' rel='noopener'>aenfinite.melbourne</a> and <a href='https://aenfinite.sydney' target='_blank' rel='noopener'>aenfinite.sydney</a>. Our work spans clients from the Netherlands (Cimeo Vision) to Mexico (FiscoClic) — including full Spanish-language delivery.</p>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Cities we serve in Maine</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Portland, Augusta, Bangor, Lewiston, South Portland — and every other city and town in Maine. Everything we deliver is digital, so the same senior team and published pricing apply statewide. See <a href='/locations/'>everywhere we work</a>.</p>
 
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Contact us</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Aenfinite LLC &middot; 1500 N Grant St, Ste R, Denver, CO 80203 &middot; <a href='tel:+13034199782'>+1 (303) 419-9782</a> &middot; <a href='mailto:hello@aenfinite.com'>hello@aenfinite.com</a>. Explore our <a href='/services/'>services</a>, see <a href='/work/'>our work</a>, or <a href='/contact/'>book a free consultation</a>.</p>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Aenfinite LLC &middot; <a href='tel:+13034199782'>+1 (303) 419-9782</a> &middot; <a href='mailto:hello@aenfinite.com'>hello@aenfinite.com</a>. Explore our <a href='/services/'>services</a>, see <a href='/work/'>our work</a>, or <a href='/contact/'>book a free consultation</a> &mdash; 30 minutes, straight answers, a real ballpark.</p>
 
 
 </section>
@@ -1770,39 +1732,39 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you serve my state?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How much does a website cost in Maine?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — we work with businesses in all 50 states, plus Washington D.C. and Puerto Rico. Everything we deliver is digital, so the same senior team, process and published pricing apply whether you're in Wyoming or New York City.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our pricing is the same in every market: custom small-business websites run $3,000–$15,000, e-commerce $8,000–$40,000, apps and custom software from $25,000, and AI automation from $1,500. We quote fixed prices after a free consultation, so you know your number before committing.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do I need a local agency, or does remote actually work?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you have an office in Maine?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>For websites, apps, e-commerce and automation, remote-first delivery is now the norm — weekly demo calls show you real progress, and you work directly with the people building your project. Where local matters (kickoffs, workshops, larger engagements), we come on-site.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our headquarters is in Denver, Colorado, and we serve Maine remotely — which is why our pricing stays flat no matter the market. Delivery is video-first with weekly demos scheduled to your hours; for larger engagements we come on-site for kickoffs and workshops.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can we meet in person?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work with small businesses or only large companies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>In Denver, any time — our HQ is at 1500 N Grant St in Capitol Hill. In other markets we schedule on-site kickoffs and workshops for larger engagements, and video-first for everything else.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Both. Small businesses and startups are the heart of our client base — the published pricing on this page is designed so smaller Maine teams can budget realistically. We also handle larger custom software and multi-site programs.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do you handle time zones?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What industries do you serve in Maine?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Your project gets scheduled to your hours: Pacific-hours responsiveness for West Coast clients, Eastern for the East Coast, and Australian coverage through our Melbourne and Sydney sites. Weekly demos land in your working day, not ours.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our strongest fits in Maine are tourism and hospitality, fisheries and seafood, healthcare, and small manufacturing. The underlying capabilities — web, e-commerce, apps, AI automation, SEO — apply to almost any business.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work in Spanish?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Which Maine cities do you cover?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — we build and support English/Spanish bilingual sites and automations natively, and have shipped full Spanish-language platforms (like Mexico's FiscoClic CFDI platform). This is a core capability for our Miami and LATAM-facing clients.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>All of them. Most of our Maine inquiries come from Portland, Augusta, Bangor and the surrounding metros, but delivery is digital — a business in a small town gets the same team, timeline and pricing as one in Portland.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Is pricing different by location?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you offer AI automation for Maine businesses?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>No — that's the point. Our published ranges (websites $3,000–$15,000, e-commerce $8,000–$40,000, AI automation from $1,500) are the same in every market. Big-market agencies price their rent into your project; we don't.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes — a dedicated AI automation practice: AI workflows, voice agents that answer your phones, and chatbots trained on your business, starting at $1,500. Maine businesses get the same production-grade automations as our Denver clients.</div>
       </div>
     </details>
   </div>
@@ -2327,23 +2289,24 @@ export default function Page() {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "ItemList",
-      "@id": "https://aenfinite.com/locations/#locations",
-      "name": "Aenfinite Locations",
-      "itemListElement": [
-        {"@type":"ListItem","position":1,"name":"Denver","url":"https://aenfinite.com/locations/denver/"},
-        {"@type":"ListItem","position":2,"name":"Los Angeles","url":"https://aenfinite.com/locations/los-angeles/"},
-        {"@type":"ListItem","position":3,"name":"San Diego","url":"https://aenfinite.com/locations/san-diego/"},
-        {"@type":"ListItem","position":4,"name":"New York","url":"https://aenfinite.com/locations/new-york/"},
-        {"@type":"ListItem","position":5,"name":"Miami","url":"https://aenfinite.com/locations/miami/"},
-        {"@type":"ListItem","position":6,"name":"Boston","url":"https://aenfinite.com/locations/boston/"}
-      ]
+      "@type": "ProfessionalService",
+      "@id": "https://aenfinite.com/locations/maine/#localbusiness",
+      "name": "Aenfinite - Maine Web Design, Development & AI Automation",
+      "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
+      "url": "https://aenfinite.com/locations/maine/",
+      "telephone": "+1-303-419-9782",
+      "email": "hello@aenfinite.com",
+      "priceRange": "$$",
+      "areaServed": [{"@type":"State","name":"Maine"},{"@type":"City","name":"Portland"},{"@type":"City","name":"Augusta"},{"@type":"City","name":"Bangor"},{"@type":"City","name":"Lewiston"},{"@type":"City","name":"South Portland"}],
+      "parentOrganization": {"@id": "https://aenfinite.com/#organization"},
+      "sameAs": ["https://www.facebook.com/aenfinite/","https://twitter.com/aenfinitee","https://www.instagram.com/Aenfinite/","https://www.linkedin.com/company/aenfinite"]
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem","position": 1,"name": "Home","item": "https://aenfinite.com/"},
-        {"@type": "ListItem","position": 2,"name": "Locations","item": "https://aenfinite.com/locations/"}
+        {"@type": "ListItem","position": 2,"name": "Locations","item": "https://aenfinite.com/locations/"},
+        {"@type": "ListItem","position": 3,"name": "Maine","item": "https://aenfinite.com/locations/maine/"}
       ]
     }
   ]
