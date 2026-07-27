@@ -1688,8 +1688,63 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Our US markets</h2>
   <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'><a href='/locations/denver/'>Denver, CO</a> (headquarters) &middot; <a href='/locations/los-angeles/'>Los Angeles, CA</a> &middot; <a href='/locations/san-diego/'>San Diego, CA</a> &middot; <a href='/locations/new-york/'>New York, NY</a> &middot; <a href='/locations/miami/'>Miami, FL</a> &middot; <a href='/locations/boston/'>Boston, MA</a>. New York, Boston and Miami also have dedicated local sites: <a href='https://aenfinite.nyc' target='_blank' rel='noopener'>aenfinite.nyc</a>, <a href='https://aenfinite.boston' target='_blank' rel='noopener'>aenfinite.boston</a> and <a href='https://aenfinite.miami' target='_blank' rel='noopener'>aenfinite.miami</a>.</p>
 
-  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Yes — we serve your state</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>We work with clients in Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming, plus Washington D.C. and Puerto Rico. If your state is on that list — and it is — the process is identical: a free consultation on your hours, a fixed quote, weekly demos, and one accountable team through launch and beyond.</p>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Every state &mdash; and the major cities we serve in each</h2>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>We work with businesses in all 50 states, Washington D.C. and Puerto Rico. Here are the major cities in each &mdash; and if yours isn't listed, that changes nothing: everything we deliver is digital, so it's <a href='/contact/'>one call</a>, the same senior team, and the same published pricing anywhere in America.</p>
+  <div style='display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px 24px;margin:24px 0 8px;font-size:15px;line-height:1.6;'>
+    <div><strong>Alabama</strong><br /><span style='opacity:0.8;'>Birmingham, Montgomery, Huntsville, Mobile, Tuscaloosa</span></div>
+    <div><strong>Alaska</strong><br /><span style='opacity:0.8;'>Anchorage, Fairbanks, Juneau, Wasilla, Sitka</span></div>
+    <div><strong>Arizona</strong><br /><span style='opacity:0.8;'>Phoenix, Tucson, Mesa, Scottsdale, Chandler</span></div>
+    <div><strong>Arkansas</strong><br /><span style='opacity:0.8;'>Little Rock, Fayetteville, Fort Smith, Springdale, Jonesboro</span></div>
+    <div><strong>California</strong><br /><span style='opacity:0.8;'><a href='/locations/los-angeles/'>Los Angeles</a>, <a href='/locations/san-diego/'>San Diego</a>, San Francisco, San Jose, Sacramento, Fresno</span></div>
+    <div><strong>Colorado</strong><br /><span style='opacity:0.8;'><a href='/locations/denver/'>Denver</a>, Colorado Springs, Aurora, Fort Collins, Boulder</span></div>
+    <div><strong>Connecticut</strong><br /><span style='opacity:0.8;'>Hartford, New Haven, Stamford, Bridgeport, Waterbury</span></div>
+    <div><strong>Delaware</strong><br /><span style='opacity:0.8;'>Wilmington, Dover, Newark, Middletown, Smyrna</span></div>
+    <div><strong>Florida</strong><br /><span style='opacity:0.8;'><a href='/locations/miami/'>Miami</a>, Jacksonville, Tampa, Orlando, Fort Lauderdale, St. Petersburg</span></div>
+    <div><strong>Georgia</strong><br /><span style='opacity:0.8;'>Atlanta, Savannah, Augusta, Columbus, Macon</span></div>
+    <div><strong>Hawaii</strong><br /><span style='opacity:0.8;'>Honolulu, Hilo, Kailua, Pearl City, Waipahu</span></div>
+    <div><strong>Idaho</strong><br /><span style='opacity:0.8;'>Boise, Meridian, Nampa, Idaho Falls, Coeur d'Alene</span></div>
+    <div><strong>Illinois</strong><br /><span style='opacity:0.8;'>Chicago, Aurora, Naperville, Springfield, Peoria, Rockford</span></div>
+    <div><strong>Indiana</strong><br /><span style='opacity:0.8;'>Indianapolis, Fort Wayne, Evansville, South Bend, Carmel</span></div>
+    <div><strong>Iowa</strong><br /><span style='opacity:0.8;'>Des Moines, Cedar Rapids, Davenport, Iowa City, Sioux City</span></div>
+    <div><strong>Kansas</strong><br /><span style='opacity:0.8;'>Wichita, Overland Park, Kansas City, Topeka, Olathe</span></div>
+    <div><strong>Kentucky</strong><br /><span style='opacity:0.8;'>Louisville, Lexington, Bowling Green, Owensboro, Covington</span></div>
+    <div><strong>Louisiana</strong><br /><span style='opacity:0.8;'>New Orleans, Baton Rouge, Shreveport, Lafayette, Lake Charles</span></div>
+    <div><strong>Maine</strong><br /><span style='opacity:0.8;'>Portland, Augusta, Bangor, Lewiston, South Portland</span></div>
+    <div><strong>Maryland</strong><br /><span style='opacity:0.8;'>Baltimore, Annapolis, Columbia, Rockville, Frederick</span></div>
+    <div><strong>Massachusetts</strong><br /><span style='opacity:0.8;'><a href='/locations/boston/'>Boston</a>, Worcester, Springfield, Cambridge, Lowell</span></div>
+    <div><strong>Michigan</strong><br /><span style='opacity:0.8;'>Detroit, Grand Rapids, Ann Arbor, Lansing, Flint</span></div>
+    <div><strong>Minnesota</strong><br /><span style='opacity:0.8;'>Minneapolis, St. Paul, Rochester, Duluth, Bloomington</span></div>
+    <div><strong>Mississippi</strong><br /><span style='opacity:0.8;'>Jackson, Gulfport, Southaven, Hattiesburg, Biloxi</span></div>
+    <div><strong>Missouri</strong><br /><span style='opacity:0.8;'>Kansas City, St. Louis, Springfield, Columbia, Independence</span></div>
+    <div><strong>Montana</strong><br /><span style='opacity:0.8;'>Billings, Missoula, Great Falls, Bozeman, Helena</span></div>
+    <div><strong>Nebraska</strong><br /><span style='opacity:0.8;'>Omaha, Lincoln, Bellevue, Grand Island, Kearney</span></div>
+    <div><strong>Nevada</strong><br /><span style='opacity:0.8;'>Las Vegas, Henderson, Reno, North Las Vegas, Carson City</span></div>
+    <div><strong>New Hampshire</strong><br /><span style='opacity:0.8;'>Manchester, Nashua, Concord, Derry, Dover</span></div>
+    <div><strong>New Jersey</strong><br /><span style='opacity:0.8;'>Newark, Jersey City, Paterson, Trenton, Edison</span></div>
+    <div><strong>New Mexico</strong><br /><span style='opacity:0.8;'>Albuquerque, Santa Fe, Las Cruces, Rio Rancho, Roswell</span></div>
+    <div><strong>New York</strong><br /><span style='opacity:0.8;'><a href='/locations/new-york/'>New York City</a>, Buffalo, Rochester, Albany, Syracuse, Yonkers</span></div>
+    <div><strong>North Carolina</strong><br /><span style='opacity:0.8;'>Charlotte, Raleigh, Durham, Greensboro, Winston-Salem</span></div>
+    <div><strong>North Dakota</strong><br /><span style='opacity:0.8;'>Fargo, Bismarck, Grand Forks, Minot, West Fargo</span></div>
+    <div><strong>Ohio</strong><br /><span style='opacity:0.8;'>Columbus, Cleveland, Cincinnati, Toledo, Akron, Dayton</span></div>
+    <div><strong>Oklahoma</strong><br /><span style='opacity:0.8;'>Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond</span></div>
+    <div><strong>Oregon</strong><br /><span style='opacity:0.8;'>Portland, Salem, Eugene, Gresham, Bend</span></div>
+    <div><strong>Pennsylvania</strong><br /><span style='opacity:0.8;'>Philadelphia, Pittsburgh, Allentown, Erie, Harrisburg</span></div>
+    <div><strong>Rhode Island</strong><br /><span style='opacity:0.8;'>Providence, Warwick, Cranston, Pawtucket, Newport</span></div>
+    <div><strong>South Carolina</strong><br /><span style='opacity:0.8;'>Charleston, Columbia, Greenville, Mount Pleasant, Myrtle Beach</span></div>
+    <div><strong>South Dakota</strong><br /><span style='opacity:0.8;'>Sioux Falls, Rapid City, Aberdeen, Brookings, Pierre</span></div>
+    <div><strong>Tennessee</strong><br /><span style='opacity:0.8;'>Nashville, Memphis, Knoxville, Chattanooga, Franklin</span></div>
+    <div><strong>Texas</strong><br /><span style='opacity:0.8;'>Houston, Dallas, Austin, San Antonio, Fort Worth, El Paso</span></div>
+    <div><strong>Utah</strong><br /><span style='opacity:0.8;'>Salt Lake City, Provo, West Valley City, Ogden, St. George</span></div>
+    <div><strong>Vermont</strong><br /><span style='opacity:0.8;'>Burlington, Montpelier, Rutland, South Burlington, Barre</span></div>
+    <div><strong>Virginia</strong><br /><span style='opacity:0.8;'>Virginia Beach, Richmond, Norfolk, Arlington, Alexandria</span></div>
+    <div><strong>Washington</strong><br /><span style='opacity:0.8;'>Seattle, Spokane, Tacoma, Bellevue, Vancouver</span></div>
+    <div><strong>West Virginia</strong><br /><span style='opacity:0.8;'>Charleston, Huntington, Morgantown, Parkersburg, Wheeling</span></div>
+    <div><strong>Wisconsin</strong><br /><span style='opacity:0.8;'>Milwaukee, Madison, Green Bay, Kenosha, Appleton</span></div>
+    <div><strong>Wyoming</strong><br /><span style='opacity:0.8;'>Cheyenne, Casper, Laramie, Gillette, Jackson</span></div>
+    <div><strong>Washington, D.C.</strong><br /><span style='opacity:0.8;'>the District and the DMV metro</span></div>
+    <div><strong>Puerto Rico</strong><br /><span style='opacity:0.8;'>San Juan, Ponce, Caguas, Bayamon, Mayaguez</span></div>
+  </div>
+  <p style='font-size:14px;opacity:0.7;line-height:1.6;margin:12px 0 0;'>&hellip;and every other city and town in between. Digital delivery means no city limits.</p>
 
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>How remote-first delivery works</h2>
   <ol style='padding-left:22px;font-size:16px;'>
@@ -1777,7 +1832,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/contact/">Contact</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
