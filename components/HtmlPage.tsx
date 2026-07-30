@@ -20,6 +20,23 @@ interface HtmlPageProps {
  * 4. Extracts and re-executes all <script> tags in proper order
  * 5. Handles both inline and external scripts
  */
+// Site-wide presentation fixes injected on every HtmlPage render (2026-07-31):
+// the header dropdown panels shipped with transparent backgrounds at top-of-page
+// state, making them unreadable over hero text.
+const GLOBAL_FIX_CSS = `
+.dropdown-list, .sub-menu {
+  background: #ffffff !important;
+  border-radius: 10px;
+  box-shadow: 0 14px 44px rgba(0, 0, 0, 0.16);
+  padding: 8px 0 !important;
+  z-index: 100000 !important;
+}
+.dropdown-list a, .sub-menu a { color: #222 !important; }
+.dropdown-list a:hover, .sub-menu a:hover { color: #227bf3 !important; }
+.mainnav.active .dropdown-list, .mainnav.active .sub-menu { background: #000 !important; }
+.mainnav.active .dropdown-list a, .mainnav.active .sub-menu a { color: #fff !important; }
+`;
+
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
@@ -55,6 +72,13 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
   // This preserves the original cascade order where inline styles
   // appeared before the external mainf1a7.css
   useEffect(() => {
+    if (!document.querySelector('style[data-aen="aen-global-fixes"]')) {
+      const fixEl = document.createElement('style');
+      fixEl.setAttribute('data-aen', 'aen-global-fixes');
+      fixEl.textContent = GLOBAL_FIX_CSS;
+      document.head.appendChild(fixEl);
+    }
+
     if (!headStyles) return;
     
     const styleEl = document.createElement('style');
