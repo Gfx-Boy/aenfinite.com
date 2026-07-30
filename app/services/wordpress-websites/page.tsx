@@ -2251,6 +2251,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   </div>
 </section>
 <!-- AEN-FAQ END -->
+<section class='aen-lang-links' style='max-width:1000px;margin:0 auto;padding:8px 24px 40px;font-family:inherit;'>
+  <p style='font-size:15px;opacity:0.75;line-height:1.8;margin:0;'>Diese Leistung auf Deutsch: <a href='/de/services/wordpress-websites/'>WordPress Websites nach Ma&szlig;</a> &middot; Deze dienst in het Nederlands: <a href='/nl/services/wordpress-websites/'>WordPress maatwerk websites</a></p>
+</section>
 <div class="footer">
 				<div class="wrapper">
 					<div>
