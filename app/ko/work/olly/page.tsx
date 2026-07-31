@@ -2287,7 +2287,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="https://aenfinite.com/work/fiscoclic/thumbnail.png" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/fiscoclicthumbnail.png" alt="FiscoClic - Cloud-Based Mexican Electronic Invoicing CFDI App" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/ko/work/fiscoclic/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
@@ -2323,7 +2323,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="https://aenfinite.com/work/mindfit/Untitled-1.png" alt="Mindfit - 정신 건강 & Fitness App" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/Untitled-1.png" alt="Mindfit - 정신 건강 & Fitness App" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/ko/work/mindfit/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
@@ -2341,7 +2341,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="https://aenfinite.com/work/neocert/banner.png" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/neocertbanner.png" alt="NeoCert - Concert Booking & Management Platform" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/ko/work/neocert/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
@@ -2359,7 +2359,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="https://aenfinite.com/work/neurolinker/Untitled-3.png" alt="Neurolinker - Brain-Computer Interface & 신경기술 Platform" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/Untitled-3.png" alt="Neurolinker - Brain-Computer Interface & 신경기술 Platform" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/ko/work/neurolinker/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -2377,7 +2377,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="https://aenfinite.com/work/olly/thumbnail.png" alt="Olly - Smart Personal Assistant & Productivity 모바일 앱" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/ollythumbnail.png" alt="Olly - Smart Personal Assistant & Productivity 모바일 앱" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/ko/work/olly/" class="not-index">프로젝트 보기</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">

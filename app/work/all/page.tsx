@@ -982,7 +982,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="Booth-Mockup.webp" alt="E-commerce Website Development" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/Booth-Mockup.webp" alt="E-commerce Website Development" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1002,7 +1002,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="mockup.webp" alt="Mobile App Design & Development" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/mockup.webp" alt="Mobile App Design & Development" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1022,7 +1022,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="attachment_156965225.webp" alt="Digital Marketing Campaign Design" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/attachment_156965225.webp" alt="Digital Marketing Campaign Design" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1042,7 +1042,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="75b53ec6-577a-45ef-a9b3-d99fe5.webp" alt="Luxury Product Packaging Design" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/75b53ec6-577a-45ef-a9b3-d99fe5.webp" alt="Luxury Product Packaging Design" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1062,7 +1062,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="cyclethe6-logo-01.webp" alt="Custom Software Development Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-01.webp" alt="Custom Software Development Platform" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View collection (8 images)									</div>
 								</div>
@@ -1078,13 +1078,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<!-- Hidden images for lightbox collection -->
 							<div class="hidden-lightbox-images" style="display: none;">
-								<img src="cyclethe6-logo-02.webp" alt="Software Platform Design 2" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-03.webp" alt="Software Platform Design 3" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-04.webp" alt="Software Platform Design 4" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo_4.webp" alt="Software Platform Alternative" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-10.webp" alt="Software Platform Design 10" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-13.webp" alt="Software Platform Design 13" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-14.webp" alt="Software Platform Design 14" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-02.webp" alt="Software Platform Design 2" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-03.webp" alt="Software Platform Design 3" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-04.webp" alt="Software Platform Design 4" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo_4.webp" alt="Software Platform Alternative" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-10.webp" alt="Software Platform Design 10" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-13.webp" alt="Software Platform Design 13" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-14.webp" alt="Software Platform Design 14" data-project-group="cyclethe6" loading="lazy" decoding="async" />
 							</div>
 						</div>
 						
@@ -1092,7 +1092,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="muskfume.webp" alt="Motion Graphics & Video Production" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/muskfume.webp" alt="Motion Graphics & Video Production" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View collection (5 images)									</div>
 								</div>
@@ -1108,10 +1108,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<!-- Hidden images for lightbox collection -->
 							<div class="hidden-lightbox-images" style="display: none;">
-								<img src="muskfume_presentation-08.webp" alt="Motion Graphics 8" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-11.webp" alt="Motion Graphics 11" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-13.webp" alt="Motion Graphics 13" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-16.webp" alt="Motion Graphics 16" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-08.webp" alt="Motion Graphics 8" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-11.webp" alt="Motion Graphics 11" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-13.webp" alt="Motion Graphics 13" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-16.webp" alt="Motion Graphics 16" data-project-group="muskfume" loading="lazy" decoding="async" />
 							</div>
 						</div>
 						
@@ -1119,7 +1119,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/work/algopros/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="../algopros/BRAND-01.webp" alt="Print Design & Marketing Materials" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/BRAND-01.webp" alt="Print Design & Marketing Materials" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View project									</div>
 								</div>

@@ -973,7 +973,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="keygrid">
 							<div class="keygrid-col">
 								<div class="js-aos fadein">
-																		<img src="Untitled-1.webp" alt="Blue Vine Marketing Digital Agency Platform Interface" loading="lazy" decoding="async" />
+																		<img src="/wp-content/themes/aenfinite.com/images/Untitled-1.webp" alt="Blue Vine Marketing Digital Agency Platform Interface" loading="lazy" decoding="async" />
 																										</div>
 							</div>
 						</div>

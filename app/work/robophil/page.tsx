@@ -1643,7 +1643,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/algopros/BRAND-01.webp" alt="AlgoPros Professional Logo Design & Brand Identity Studio" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/BRAND-01.webp" alt="AlgoPros Professional Logo Design & Brand Identity Studio" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/work/algopros/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="01">
@@ -1679,7 +1679,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/branding/Booth-Mockup.webp" alt="Trade Show Booth Design Mockup - Professional Exhibition Display" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/Booth-Mockup.webp" alt="Trade Show Booth Design Mockup - Professional Exhibition Display" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="03">
@@ -1697,7 +1697,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/branding/mockup.webp" alt="Professional Brand Mockup Design - Visual Identity Presentation" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/mockup.webp" alt="Professional Brand Mockup Design - Visual Identity Presentation" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="04">
@@ -1715,7 +1715,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="vox.webp" alt="Professional Marketing Design - Brand Identity System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/thumbnail.jpg" alt="Professional Marketing Design - Brand Identity System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">
@@ -1733,7 +1733,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="cakeo.webp" alt="Creative Brand Design - Modern Visual Identity" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/cakeo.webp" alt="Creative Brand Design - Modern Visual Identity" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/work/branding/" class="not-index">View project</a></div>										
 									</div>									
 									<div class="preview-content" data-index="06">

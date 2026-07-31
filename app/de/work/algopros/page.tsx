@@ -1834,7 +1834,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="/services/branding/vox.webp" alt="Professional Marketing Design - Markenidentität System" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/thumbnail.jpg" alt="Professional Marketing Design - Markenidentität System" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/de/work/branding/" class="not-index">Projekt ansehen</a></div>										
 									</div>									
 									<div class="preview-content" data-index="05">

@@ -1420,7 +1420,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/work/graphic-design/">
-										<img src="wmremove-transformed.webp" alt="Kohat New Year Celebration Graphic Design - Event Visual Communication" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/thumbnail.jpg" alt="Kohat New Year Celebration Graphic Design - Event Visual Communication" class="cover" loading="lazy" decoding="async" />
 									    <a href="/work/graphic-design/" class="shiftbox-link"> </a>
 									</a>
 								</div>

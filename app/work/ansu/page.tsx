@@ -1880,7 +1880,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="keygrid">
 							<div class="keygrid-col keygrid-col__c">
 								<div class="intro-start-image js-aos fadein">
-																		<img src="thumbnail.webp" alt="FiscoClic Electronic Invoicing App by Aenfinite®" loading="lazy" decoding="async" />
+																		<img src="/wp-content/themes/aenfinite.com/images/thumbnail.webp" alt="FiscoClic Electronic Invoicing App by Aenfinite®" loading="lazy" decoding="async" />
 																														
 											
 																											

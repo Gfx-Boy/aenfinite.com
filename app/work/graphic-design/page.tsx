@@ -1021,7 +1021,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<!-- Hidden images for lightbox -->
 							<div class="hidden-images" style="display: none;">
 								<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-2.avif" alt="Kanchwala Post 2" data-project-group="kanchwala" loading="lazy" decoding="async" />
-								<img src="Kanchwala-post-3.webp" alt="Kanchwala Post 3" data-project-group="kanchwala" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/Kanchwala-post-3.webp" alt="Kanchwala Post 3" data-project-group="kanchwala" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-4.avif" alt="Kanchwala Post 4" data-project-group="kanchwala" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-5.avif" alt="Kanchwala Post 5" data-project-group="kanchwala" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/Kanchwala-post-6.avif" alt="Kanchwala Post 6" data-project-group="kanchwala" loading="lazy" decoding="async" />
@@ -1191,7 +1191,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-2.avif" alt="Package Design Mockup 2" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-3.avif" alt="Package Design Mockup 3" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-4.avif" alt="Package Design Mockup 4" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
-								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-5.avifpackaging-mock-5.webp" alt="Package Design Mockup 5" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-5.avif" alt="Package Design Mockup 5" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-6.avif" alt="Package Design Mockup 6" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
 								<img src="/wp-content/themes/aenfinite.com/processed/packaging-mock-7.avif" alt="Package Design Mockup 7" data-project-group="packaging-mockups" loading="lazy" decoding="async" />
 							</div>

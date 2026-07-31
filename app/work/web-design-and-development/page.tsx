@@ -1162,7 +1162,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<!-- Hidden images for lightbox collection -->
 							<div class="hidden-lightbox-images" style="display: none;">
-								<img src="inner-page-3.webp" alt="Corporate Website Inner Page" data-project-group="project3" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/inner-page-3.webp" alt="Corporate Website Inner Page" data-project-group="project3" loading="lazy" decoding="async" />
 							</div>
 						</div>
 						
