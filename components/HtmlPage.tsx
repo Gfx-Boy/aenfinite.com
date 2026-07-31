@@ -29,12 +29,35 @@ const GLOBAL_FIX_CSS = `
   border-radius: 10px;
   box-shadow: 0 14px 44px rgba(0, 0, 0, 0.16);
   padding: 8px 0 !important;
-  z-index: 100000 !important;
+  
 }
 .dropdown-list a, .sub-menu a { color: #222 !important; }
 .dropdown-list a:hover, .sub-menu a:hover { color: #227bf3 !important; }
 .mainnav.active .dropdown-list, .mainnav.active .sub-menu { background: #000 !important; }
 .mainnav.active .dropdown-list a, .mainnav.active .sub-menu a { color: #fff !important; }
+
+.mainnav { transition: background-color 0.25s ease, color 0.25s ease; }
+
+/* aen-nav-stacking: keep the sticky navbar above transformed page sections
+   (portfolio images were painting over nav items), but below the Calendly
+   modal (z 10000). */
+.mainnav { z-index: 9990 !important; }
+.dropdown-list, .sub-menu { z-index: 9995 !important; }
+
+/* Forgiving hover: invisible bridge under dropdown triggers + short close
+   delay so the panel survives the mouse crossing the gap. */
+.menu-item-has-children::after {
+  content: '';
+  position: absolute;
+  left: -12px;
+  right: -12px;
+  top: 100%;
+  height: 18px;
+}
+.menu-item-has-children:not(:hover) > .dropdown-list,
+.menu-item-has-children:not(:hover) > .sub-menu {
+  transition-delay: 0.18s;
+}
 `;
 
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
@@ -72,6 +95,19 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
   // This preserves the original cascade order where inline styles
   // appeared before the external mainf1a7.css
   useEffect(() => {
+    if (!(window as any).__aenNavSync) {
+      (window as any).__aenNavSync = () => {
+        const nav = document.querySelector('.js-mainnav');
+        if (!nav) return;
+        const hovered = (nav as HTMLElement).matches(':hover');
+        if (window.scrollY > 50 || hovered) nav.classList.add('active');
+        else if (!nav.classList.contains('always-active')) nav.classList.remove('active');
+      };
+      window.addEventListener('scroll', (window as any).__aenNavSync, { passive: true });
+      document.addEventListener('mouseover', (window as any).__aenNavSync, { passive: true });
+    }
+    setTimeout((window as any).__aenNavSync, 0);
+
     if (!document.querySelector('style[data-aen="aen-global-fixes"]')) {
       const fixEl = document.createElement('style');
       fixEl.setAttribute('data-aen', 'aen-global-fixes');
