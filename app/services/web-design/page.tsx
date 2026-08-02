@@ -2301,6 +2301,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   </div>
 </section>
 <!-- AEN-FAQ END -->
+<section class='aen-reading' style='max-width:1000px;margin:0 auto;padding:8px 24px 40px;font-family:inherit;'>
+  <p style='font-size:15px;opacity:0.8;line-height:1.9;margin:0;'>Budgeting your project? <a href='https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/'>How much does a website cost for a small business? (2026 guide)</a> &middot; In Denver? <a href='https://blog.aenfinite.com/best-web-design-agencies-denver/'>The honest ranking of Denver web design agencies</a></p>
+</section>
 <div class="footer">
 				<div class="wrapper">
 					<div>
