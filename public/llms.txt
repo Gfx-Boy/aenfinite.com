@@ -1,0 +1,30 @@
+# Aenfinite
+
+> Aenfinite is a Denver-based web design, development, and AI automation agency (est. 2017, 150+ projects) serving all 50 US states, Canada, and Australia. Published pricing, fixed quotes, senior US-based team. HQ: 1500 N Grant St, Ste R, Denver, CO 80203 - +1 (303) 419-9782 - hello@aenfinite.com.
+
+Published pricing: custom websites $3,000-$15,000; e-commerce $8,000-$40,000; mobile apps/custom software from $25,000; AI automation from $1,500; SEO/marketing from $1,000/mo. Fixed-price quotes after a free consultation. White-label delivery available for agencies.
+
+## Services
+- [AI Automation](https://aenfinite.com/services/ai-automation/): AI workflows, voice agents, chatbots - production systems, not demos
+- [n8n Automation](https://aenfinite.com/services/n8n-automation/): workflow development, self-hosted setup, Zapier/Make migrations, managed hosting
+- [CRM Automation](https://aenfinite.com/services/crm-automation/): HubSpot, Salesforce, GoHighLevel, Pipedrive - speed-to-lead, integrations, AI scoring
+- [AI Voice Agents](https://aenfinite.com/services/ai-voice-agents/): phone agents that answer, qualify and book 24/7
+- [Custom Web Development](https://aenfinite.com/services/custom-web-development/): WordPress, Next.js, headless builds
+- [Web Design](https://aenfinite.com/services/web-design/), [E-Commerce](https://aenfinite.com/services/e-commerce-websites/), [App Development](https://aenfinite.com/services/app-development/), [Branding](https://aenfinite.com/services/branding/), [SEO](https://aenfinite.com/services/search-engine-optimization/)
+- [White Label Services for agencies](https://aenfinite.com/agency/partner-with-us/white-label-services/)
+- [All services](https://aenfinite.com/services/)
+
+## Locations
+- [Denver HQ](https://aenfinite.com/locations/denver/) - in-person available across the Front Range
+- Dedicated metro pages: [Los Angeles](https://aenfinite.com/locations/los-angeles/), [San Diego](https://aenfinite.com/locations/san-diego/), [New York](https://aenfinite.com/locations/new-york/), [Miami](https://aenfinite.com/locations/miami/) (bilingual EN/ES), [Boston](https://aenfinite.com/locations/boston/)
+- [All locations - every US state](https://aenfinite.com/locations/)
+
+## Guides (blog)
+- [How much does a website cost for a small business? (2026)](https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/)
+- [How much does an AI chatbot cost in 2026?](https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/)
+- [n8n vs Zapier vs Make (2026 comparison)](https://blog.aenfinite.com/n8n-vs-zapier-vs-make/)
+- [Best web design agencies in Denver (2026)](https://blog.aenfinite.com/best-web-design-agencies-denver/)
+- [How much does SEO cost per month?](https://blog.aenfinite.com/how-much-does-seo-cost-per-month/)
+
+## Contact
+- [Contact / free consultation](https://aenfinite.com/contact/) - or book directly: https://calendly.com/aenfinite/business-meeting
