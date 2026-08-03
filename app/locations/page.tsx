@@ -1757,7 +1757,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
   </ol>
 
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>International</h2>
-  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Beyond the US, we serve Canada on adjacent time zones and Australia through <a href='https://aenfinite.melbourne' target='_blank' rel='noopener'>aenfinite.melbourne</a> and <a href='https://aenfinite.sydney' target='_blank' rel='noopener'>aenfinite.sydney</a>. Our work spans clients from the Netherlands (Cimeo Vision) to Mexico (FiscoClic) — including full Spanish-language delivery.</p>
+  <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Beyond the US, we serve Canada on adjacent time zones and Australia through <a href='https://aenfinite.melbourne' target='_blank' rel='noopener'>aenfinite.melbourne</a> and <a href='https://aenfinite.sydney' target='_blank' rel='noopener'>aenfinite.sydney</a>. Our work spans clients including Mexico's FiscoClic — including full Spanish-language delivery.</p>
 
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:48px 0 18px;line-height:1.25;'>Contact us</h2>
   <p style='line-height:1.75;font-size:17px;opacity:0.9;margin:0 0 18px;'>Aenfinite LLC &middot; 1500 N Grant St, Ste R, Denver, CO 80203 &middot; <a href='tel:+13034199782'>+1 (303) 419-9782</a> &middot; <a href='mailto:hello@aenfinite.com'>hello@aenfinite.com</a>. Explore our <a href='/services/'>services</a>, see <a href='/work/'>our work</a>, or <a href='/contact/'>book a free consultation</a>.</p>

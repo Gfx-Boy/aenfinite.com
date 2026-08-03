@@ -2033,22 +2033,7 @@ recommend a service from 1-10</div>
 								</div>
 							</div>
 													<div>
-								<div class="preview">									
-									<div class="preview-media">										
-										<img src="/wp-content/themes/aenfinite.com/processed/cimeo-visionthumbnail.avif" alt="BAS Stone Luxury Architectural العلامات التجارية & Website by Aenfinite" loading="lazy" decoding="async" />
-										<div class="preview-action"><a href="/ar/work/cimeo-vision/" class="not-index">عرض المشروع</a></div>										
-									</div>									
-									<div class="preview-content" data-index="04">
-										<div class="preview-name preview-name__caption">
-											<a href="/ar/work/cimeo-vision/">Cimeo Vision - Audiovisual Integration & AV Solutions</a>
-										</div>
-																					<div class="preview-name">تصميم المواقع</div>
-																					<div class="preview-name">التصميم ثلاثي الأبعاد</div>
-																					<div class="preview-name">العقارات</div>
-																					<div class="preview-name">Web development</div>
-											
-									</div>
-								</div>
+								
 							</div>
 													<div>
 								<div class="preview">									

@@ -22,6 +22,17 @@ const nextConfig: NextConfig = {
   // Redirects from old & URLs to new clean URLs
   async redirects() {
     return [
+      // Cimeo Vision content removed 2026-08-03 (third-party data complaint)
+      {
+        source: '/work/cimeo-vision/:path*',
+        destination: '/featured-work/',
+        permanent: true,
+      },
+      {
+        source: '/:lang(ar|nl|ko|de|ja|pt|zh|it|es|hi|fr)/work/cimeo-vision/:path*',
+        destination: '/featured-work/',
+        permanent: true,
+      },
       // Old city/cities pages -> new /locations/ structure (2026-07-25)
       {
         source: '/cities/los-angeles-ca/:path*',
