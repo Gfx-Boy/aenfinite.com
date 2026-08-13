@@ -121,41 +121,12 @@ export default function RootLayout({
           // @ts-ignore
           onLoad="this.media='all'"
         />
-
-        {/* FOUC Prevention - hide body until styles load */}
-        <style dangerouslySetInnerHTML={{
-          __html: `
-          body:not(.styles-loaded) {
-            opacity: 0 !important;
-          }
-          body.styles-loaded {
-            opacity: 1 !important;
-            transition: opacity 0.3s ease;
-          }
-        `}} />
       </head>
       <body>
         {children}
 
         {/* Global floating language switcher */}
         <LanguageSwitcher />
-
-        {/* Reveal page once styles are loaded */}
-        <Script id="fouc-prevention" strategy="beforeInteractive">
-          {`
-            (function() {
-              function reveal() {
-                document.body.classList.add('styles-loaded');
-              }
-              if (document.readyState === 'complete') {
-                reveal();
-              } else {
-                window.addEventListener('load', reveal);
-              }
-              setTimeout(reveal, 2000);
-            })();
-          `}
-        </Script>
 
         {/* Core JavaScript Libraries – afterInteractive to not block first paint */}
         <Script
