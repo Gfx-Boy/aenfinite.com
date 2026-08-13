@@ -66,7 +66,13 @@ a.to-meeter { background: #1656b5 !important; }
 }
 `;
 
+const LINKEDIN_INLINE_RE = /<script(?![^>]*\bsrc=)[^>]*>(?:(?!<\/script>)[\s\S])*?(?:lintrk|licdn)(?:(?!<\/script>)[\s\S])*?<\/script>/gi;
+
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
+  // The legacy pages embed a LinkedIn Insight loader with no partner id — it
+  // tracks nothing but executes natively at parse time (deprecation warning +
+  // third-party cookies on every page). Strip it before the HTML is served.
+  content = content.replace(LINKEDIN_INLINE_RE, '');
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
 
@@ -118,8 +124,13 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
     // unnamed icon links, unlabeled form fields) without touching 758 pages.
     setTimeout(() => {
       document.querySelectorAll('.footer-col_list').forEach(el => {
-        el.setAttribute('role', 'list');
-        el.querySelectorAll(':scope > li').forEach(li => li.setAttribute('role', 'listitem'));
+        const directItems = el.querySelectorAll(':scope > li');
+        if (directItems.length) {
+          el.setAttribute('role', 'list');
+          directItems.forEach(li => li.setAttribute('role', 'listitem'));
+        } else {
+          el.removeAttribute('role'); // wraps a real <ul>; the div is not a list
+        }
       });
       document.querySelectorAll('a.fab, a.to-formss, a.to-meeter').forEach(a => {
         if (!a.getAttribute('aria-label') && !(a.textContent || '').trim()) {
