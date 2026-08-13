@@ -28,6 +28,7 @@ const GLOBAL_FIX_CSS = `
 .footer-email a, .sitemap-footer a { color: #ffffff !important; }
 a.to-meeter { background: #1656b5 !important; }
 .footer-language-switcher ul li a { display: inline-block; padding: 6px 8px; }
+.cookie-banner__button { min-height: 32px; min-width: 64px; padding: 8px 18px !important; }
 
 .dropdown-list, .sub-menu {
   background: #ffffff !important;
@@ -116,7 +117,10 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
     // aen-a11y: patch accessibility gaps in the legacy markup (list roles,
     // unnamed icon links, unlabeled form fields) without touching 758 pages.
     setTimeout(() => {
-      document.querySelectorAll('.footer-col_list').forEach(el => el.setAttribute('role', 'list'));
+      document.querySelectorAll('.footer-col_list').forEach(el => {
+        el.setAttribute('role', 'list');
+        el.querySelectorAll(':scope > li').forEach(li => li.setAttribute('role', 'listitem'));
+      });
       document.querySelectorAll('a.fab, a.to-formss, a.to-meeter').forEach(a => {
         if (!a.getAttribute('aria-label') && !(a.textContent || '').trim()) {
           a.setAttribute('aria-label', a.classList.contains('to-meeter') ? 'Schedule a meeting' : 'Open contact form');
@@ -218,6 +222,13 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
       if (script.src) {
         entry.src = script.src;
       } else if (script.textContent && script.textContent.trim().length > 0) {
+        // Skip the legacy LinkedIn Insight loader baked into page HTML — it has
+        // no partner id (pid= empty), tracks nothing, and costs a deprecation
+        // warning + third-party cookies on every page.
+        if (/lintrk|licdn/.test(script.textContent)) {
+          script.remove();
+          return;
+        }
         entry.content = script.textContent;
       }
 
