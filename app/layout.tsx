@@ -102,6 +102,9 @@ export default function RootLayout({
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+          media="print"
+          // @ts-ignore
+          onLoad="this.media='all'"
           crossOrigin="anonymous"
           referrerPolicy="no-referrer"
         />
@@ -237,20 +240,6 @@ export default function RootLayout({
         <Script src="/wp-content/plugins/contact-form-7/includes/swv/js/indexfc7a.js?ver=6.0.6" strategy="lazyOnload" id="swv-js" />
         <Script id="wpcf7-config" strategy="lazyOnload">
           {`var wpcf7 = {"api":{"root":"https://aenfinite.com/wp-json/","namespace":"contact-form-7/v1"},"cached":1};`}
-        </Script>
-
-        {/* LinkedIn Insight */}
-        <Script id="linkedin-insight" strategy="lazyOnload">
-          {`
-            (function(l) {
-              if (!l) { window.lintrk = function(a,b) { window.lintrk.q.push([a,b]); }; window.lintrk.q = []; }
-              var s = document.getElementsByTagName("script")[0];
-              var b = document.createElement("script");
-              b.type = "text/javascript"; b.async = true;
-              b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
-              s.parentNode.insertBefore(b, s);
-            })(window.lintrk);
-          `}
         </Script>
       </body>
     </html>

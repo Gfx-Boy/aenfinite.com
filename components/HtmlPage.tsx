@@ -24,6 +24,11 @@ interface HtmlPageProps {
 // the header dropdown panels shipped with transparent backgrounds at top-of-page
 // state, making them unreadable over hero text.
 const GLOBAL_FIX_CSS = `
+/* aen-a11y (2026-08-14): Lighthouse color-contrast + tap-target fixes */
+.footer-email a, .sitemap-footer a { color: #ffffff !important; }
+a.to-meeter { background: #1656b5 !important; }
+.footer-language-switcher ul li a { display: inline-block; padding: 6px 8px; }
+
 .dropdown-list, .sub-menu {
   background: #ffffff !important;
   border-radius: 10px;
@@ -107,6 +112,23 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
       document.addEventListener('mouseover', (window as any).__aenNavSync, { passive: true });
     }
     setTimeout((window as any).__aenNavSync, 0);
+
+    // aen-a11y: patch accessibility gaps in the legacy markup (list roles,
+    // unnamed icon links, unlabeled form fields) without touching 758 pages.
+    setTimeout(() => {
+      document.querySelectorAll('.footer-col_list').forEach(el => el.setAttribute('role', 'list'));
+      document.querySelectorAll('a.fab, a.to-formss, a.to-meeter').forEach(a => {
+        if (!a.getAttribute('aria-label') && !(a.textContent || '').trim()) {
+          a.setAttribute('aria-label', a.classList.contains('to-meeter') ? 'Schedule a meeting' : 'Open contact form');
+        }
+      });
+      document.querySelectorAll('.wpcf7-form input:not([type="hidden"]):not([type="submit"]), .wpcf7-form textarea').forEach(el => {
+        const i = el as HTMLInputElement;
+        if (!i.getAttribute('aria-label') && !(i.labels && i.labels.length)) {
+          i.setAttribute('aria-label', i.getAttribute('placeholder') || i.getAttribute('name') || 'Form field');
+        }
+      });
+    }, 300);
 
     if (!document.querySelector('style[data-aen="aen-global-fixes"]')) {
       const fixEl = document.createElement('style');

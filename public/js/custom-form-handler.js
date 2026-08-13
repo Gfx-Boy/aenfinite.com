@@ -262,16 +262,6 @@ class AenfiniteFormHandler {
             })
             .catch(error => console.log('IP detection failed:', error));
 
-        // Get IP details
-        fetch('https://ipapi.co/json/')
-            .then(response => response.json())
-            .then(data => {
-                const ipDetails = `${data.city}, ${data.region}, ${data.country_name}`;
-                document.querySelectorAll('input[name="ipdetails"]').forEach(input => {
-                    input.value = ipDetails;
-                });
-            })
-            .catch(error => console.log('IP details failed:', error));
 
         // Capture URL and referrer
         document.querySelectorAll('input[name="urll"]').forEach(input => {
