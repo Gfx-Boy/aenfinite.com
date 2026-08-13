@@ -116,6 +116,7 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
     }
 
     if (!headStyles) return;
+    if (document.querySelector('style[data-page-styles-ssr]')) return; // SSR copy already present
     
     const styleEl = document.createElement('style');
     styleEl.setAttribute('data-page-styles', 'true');
@@ -281,11 +282,37 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
     };
   }, [executeScripts]);
 
+  // Body classes drive the theme's CSS selectors (body.page-template ...).
+  // They must be present at first paint: applying them in useEffect (post-
+  // hydration) left the page unstyled at paint, then reflowed everything when
+  // the classes landed — a 0.98 CLS on every page. This inline script runs
+  // synchronously during HTML parsing, before any following content paints.
+  const bodyClassScript = bodyClassScriptFor(bodyClass);
+
   return (
-    <div
-      ref={containerRef}
-      dangerouslySetInnerHTML={{ __html: content }}
-      suppressHydrationWarning
-    />
+    <>
+      {bodyClassScript ? (
+        <script dangerouslySetInnerHTML={{ __html: bodyClassScript }} />
+      ) : null}
+      {/* Page-specific styles must be in the initial HTML: injecting them via
+          useEffect applied the page's grid/layout CSS after first paint and
+          reflowed the entire container (the remaining ~0.98 CLS). Rendered
+          inline (after theme CSS in document order) — ties now favour page
+          styles, which matches the intent of page-scoped selectors. */}
+      {headStyles ? (
+        <style data-page-styles-ssr="" dangerouslySetInnerHTML={{ __html: headStyles }} />
+      ) : null}
+      <div
+        ref={containerRef}
+        dangerouslySetInnerHTML={{ __html: content }}
+        suppressHydrationWarning
+      />
+    </>
   );
+}
+
+function bodyClassScriptFor(bodyClass: string): string {
+  const classes = (bodyClass || '').split(/\s+/).filter(Boolean);
+  if (!classes.length) return '';
+  return `document.body.classList.add(${classes.map(c => JSON.stringify(c)).join(',')});`;
 }
