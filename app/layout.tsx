@@ -64,6 +64,8 @@ export default function RootLayout({
             invalid on every other page. */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* Preload the primary Manrope woff2 so text paints in its final font (kills the font-swap CLS) */}
+        <link rel="preload" as="font" type="font/woff2" href="https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://acsbapp.com" />
         <link rel="dns-prefetch" href="https://tag.clearbitscripts.com" />
