@@ -66,13 +66,20 @@ a.to-meeter { background: #1656b5 !important; }
 }
 `;
 
-const LINKEDIN_INLINE_RE = /<script(?![^>]*\bsrc=)[^>]*>(?:(?!<\/script>)[\s\S])*?(?:lintrk|licdn)(?:(?!<\/script>)[\s\S])*?<\/script>/gi;
+const LINKEDIN_INLINE_RE = /<script(?![^>]*\bsrc=)[^>]*>(?:(?!<\/script>)[\s\S])*?(?:lintrk|licdn|acsbapp)(?:(?!<\/script>)[\s\S])*?<\/script>/gi;
 
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
   // The legacy pages embed a LinkedIn Insight loader with no partner id — it
   // tracks nothing but executes natively at parse time (deprecation warning +
-  // third-party cookies on every page). Strip it before the HTML is served.
+  // third-party cookies on every page). Same for the AccessiBe loader whose
+  // config 404s (lapsed subscription). Strip both before the HTML is served.
   content = content.replace(LINKEDIN_INLINE_RE, '');
+  // Neutralize parse-time execution of the legacy scripts embedded in the page
+  // HTML: they assume jQuery is already present and threw '$ is not defined' on
+  // every load, then ran a second time (correctly) via executeScripts. Typing
+  // them out of execution leaves executeScripts as the single, ordered runner.
+  // Scripts that already carry a type (application/ld+json) are untouched.
+  content = content.replace(/<script(?![^>]*\btype=)([^>]*)>/gi, '<script type="text/aen-noexec"$1>');
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
 

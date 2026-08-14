@@ -201,4 +201,3 @@ document.addEventListener('DOMContentLoaded', function() {
 	
 	// Note: Mobile accordion now handled with pure CSS - no JavaScript needed
 });
-});
