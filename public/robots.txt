@@ -36,3 +36,5 @@ Sitemap: https://aenfinite.com/sitemap-index.xml
 
 Sitemap: https://aenfinite.com/sitemap-industries.xml
 Sitemap: https://aenfinite.com/sitemap-ai-solutions.xml
+
+Sitemap: https://aenfinite.com/sitemap-white-label.xml

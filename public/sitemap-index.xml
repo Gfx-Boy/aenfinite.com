@@ -61,4 +61,10 @@
         <loc>https://aenfinite.com/sitemap-ai-solutions.xml</loc>
         <lastmod>2026-08-19</lastmod>
     </sitemap>
+
+    <!-- White-Label Agency Partner Pages -->
+    <sitemap>
+        <loc>https://aenfinite.com/sitemap-white-label.xml</loc>
+        <lastmod>2026-08-19</lastmod>
+    </sitemap>
 </sitemapindex>

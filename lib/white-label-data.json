@@ -1,0 +1,82 @@
+{
+  "web-design": {
+    "name": "White-Label Web Design & Development",
+    "singular": "web design service",
+    "slug": "web-design",
+    "icon": "🎨",
+    "title": "White-Label Web Design & Development for Agencies | Aenfinite",
+    "metaDesc": "Scale your agency with done-for-you white-label web design and Next.js/React development. 100% unbranded delivery, fixed per-project quotes, and fast turnaround.",
+    "heroHeading": "White-Label Web Design & Development for Agencies",
+    "heroSub": "Expand your agency's capacity without hiring full-time developers. We design and build award-winning websites under your brand with guaranteed turnaround times.",
+    "problemStat": "Hiring senior full-stack developers in the US costs $130,000+/year plus benefits. Hiring cheap offshore freelancers leads to missed deadlines and client churn.",
+    "problemDetail": "Growing agencies hit a revenue ceiling when project demand outpaces internal dev capacity. Our white-label partnership gives you an elastic senior engineering department ready to build custom Figma designs into pixel-perfect Next.js, React, or WordPress sites under your brand.",
+    "features": [
+      ["100% Unbranded White-Label Delivery", "All client communications, staging links, Figma files, and Git repositories are unbranded or branded with your agency name."],
+      ["Figma to Pixel-Perfect Code", "We translate complex Figma, Sketch, or Adobe XD designs into responsive, ultra-fast web applications with clean, semantic markup."],
+      ["Fixed Wholesale Pricing", "Receive guaranteed fixed-price quotes within 24 hours of submitting your scope or Figma link — protecting your agency margins."],
+      ["Strict Non-Disclosure (NDA)", "Every project is protected under a legally binding mutual NDA. We never contact your clients or claim your projects publicly without permission."],
+      ["Dedicated Project Lead", "Direct Slack/Discord or email communication with a senior US-based technical project manager."],
+      ["Speed & Core Web Vitals", "We build sites with 90+ Lighthouse performance scores, semantic HTML5, accessible markup (WCAG), and clean code standards."]
+    ],
+    "pricing": "Wholesale agency rates range from <strong>$2,000–$6,000</strong> per standard 5–10 page custom website, allowing agencies to bill clients $5,000–$15,000+ with 50–70% margins.",
+    "faqs": [
+      ["How does communication work?", "We can work completely behind the scenes (communicating only with your account managers via Slack or email) or join client calls as your internal development department using your agency email."],
+      ["What is your turnaround time?", "Standard custom 5–8 page websites are delivered in 2–3 weeks. Complex web applications or large e-commerce builds typically take 4–6 weeks."],
+      ["Do you sign an NDA?", "Yes. We sign a strict mutual Non-Disclosure Agreement before discussing any client projects."],
+      ["What technologies do you use?", "We build primarily in Next.js, React, TypeScript, Tailwind CSS, custom WordPress/PHP, Shopify Plus, and headless architectures."]
+    ],
+    "relatedServices": ["wordpress", "ai-automation"]
+  },
+  "wordpress": {
+    "name": "White-Label WordPress Development",
+    "singular": "WordPress development service",
+    "slug": "wordpress",
+    "icon": "⚡",
+    "title": "White-Label Custom WordPress Development for Agencies | Aenfinite",
+    "metaDesc": "Custom, lightweight white-label WordPress development. No bloated page builders — clean Gutenberg blocks, custom post types, ACF Pro, and WooCommerce.",
+    "heroHeading": "White-Label Custom WordPress & WooCommerce Development",
+    "heroSub": "Give your agency clients blazingly fast WordPress websites built with custom ACF blocks, clean PHP/React, and zero theme bloat.",
+    "problemStat": "Bloated page-builder themes (Elementor/Divi) result in sub-40 mobile Lighthouse scores and endless plugin conflicts. Custom WordPress code solves this permanently.",
+    "problemDetail": "Many agency clients demand WordPress for its familiar CMS, but pre-made themes create maintenance nightmares. We build lightweight, secure custom WordPress themes with tailor-made Gutenberg/ACF blocks that your clients can effortlessly edit without breaking layouts.",
+    "features": [
+      ["Custom ACF Pro / Gutenberg Blocks", "Clients get an intuitive block editor designed specifically for their brand content — no confusing page-builder sidebars."],
+      ["Sub-Second Page Load Times", "Custom coded themes without unnecessary dependencies, achieving 90+ Core Web Vitals on mobile and desktop."],
+      ["WooCommerce Customization", "Custom checkout flows, subscription systems, ERP/inventory synchronizations, and wholesale B2B pricing portals."],
+      ["Rigorous Security Standards", "Hardened WordPress configurations with secure API endpoints, sanitized database queries, and zero vulnerable third-party plugins."],
+      ["Staging & Seamless Migration", "All development happens on password-protected staging environments with automated zero-downtime deployment to your client's host."]
+    ],
+    "pricing": "Wholesale custom WordPress builds start at <strong>$1,800–$4,500</strong> for standard marketing sites and <strong>$3,500–$8,000</strong> for custom WooCommerce stores.",
+    "faqs": [
+      ["Do you use pre-made themes or custom code?", "We build 100% custom, lightweight themes from scratch using Advanced Custom Fields (ACF Pro) or Gutenberg blocks. No bulky pre-made themes."],
+      ["Can our clients easily update content?", "Yes. We design the admin dashboard so non-technical clients can update text, images, team members, and testimonials without touching code."],
+      ["Which hosting providers do you support?", "We deploy to WP Engine, Kinsta, Cloudways, SiteGround, AWS, or any custom Linux VPS."]
+    ],
+    "relatedServices": ["web-design", "ai-automation"]
+  },
+  "ai-automation": {
+    "name": "White-Label AI Automation & Chatbots",
+    "singular": "AI automation service",
+    "slug": "ai-automation",
+    "icon": "🤖",
+    "title": "White-Label AI Chatbots & Automation for Agencies | Aenfinite",
+    "metaDesc": "Offer done-for-you AI voice agents, smart chatbots, and workflow automation to your agency clients. We build, configure, and manage under your brand.",
+    "heroHeading": "White-Label AI Agents & Workflow Automation",
+    "heroSub": "Add high-margin AI automation and voice receptionists to your agency's service catalog without hiring AI engineers or prompt specialists.",
+    "problemStat": "Agency clients are actively demanding AI solutions in 2026. Agencies that don't offer AI risk losing retainer clients to tech-forward competitors.",
+    "problemDetail": "Building enterprise-grade AI chatbots and voice agents requires deep integration knowledge (n8n, Make, Twilio, vector databases, CRM APIs). Partner with Aenfinite to offer fully managed AI assistants, lead qualification systems, and custom automated workflows under your agency brand.",
+    "features": [
+      ["Custom AI Voice & Chat Receptionists", "Deploy high-fidelity voice and chat agents that handle customer service, appointment scheduling, and lead qualification 24/7."],
+      ["n8n & Make Workflow Automation", "Connect your client's CRM, payment processors, email marketing, and communication tools into unified automated pipelines."],
+      ["Wholesale Recurring Margins", "Charge your clients monthly retainers ($300–$1,000/mo) for AI maintenance while paying predictable wholesale partner rates."],
+      ["Complete Prompt Engineering & Testing", "We train and fine-tune models on your client's business documents, FAQs, and brand voice guidelines."],
+      ["Live Monitoring & Retuning", "We monitor transcript quality, resolve edge cases, and continuously optimize prompts to prevent hallucinations."]
+    ],
+    "pricing": "White-label AI setups start at <strong>$1,000–$2,500</strong> wholesale with monthly maintenance packages from <strong>$99–$199/mo</strong>.",
+    "faqs": [
+      ["How do we pitch AI automation to our clients?", "We provide unbranded pitch decks, one-pagers, scope templates, and recorded demo videos you can present directly to prospective clients."],
+      ["Can we resell ongoing monthly maintenance?", "Yes. Most partner agencies charge their clients $499–$999/month for AI management while paying our wholesale rate of $99–$199/month."],
+      ["Who handles technical support?", "We handle all underlying API maintenance, prompt tuning, and system updates behind the scenes."]
+    ],
+    "relatedServices": ["web-design", "wordpress"]
+  }
+}
