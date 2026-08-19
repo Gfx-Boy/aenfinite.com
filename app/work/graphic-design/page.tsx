@@ -741,6 +741,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/agency/">Agency</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
 							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">

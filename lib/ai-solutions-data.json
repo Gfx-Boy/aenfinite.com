@@ -1,0 +1,173 @@
+{
+  "dental": {
+    "name": "AI for Dental Practices",
+    "singular": "dental practice",
+    "slug": "dental",
+    "icon": "🦷",
+    "title": "AI Chatbot & Patient Assistant for Dental Practices | Aenfinite",
+    "metaDesc": "HIPAA-compliant AI chatbots for dental practices. 24/7 online appointment booking, emergency triage, insurance inquiries, and PMS synchronization.",
+    "heroHeading": "Done-For-You AI Chatbots for Dental Practices",
+    "heroSub": "Capture appointment bookings, answer insurance questions, and triage dental emergencies 24/7 without burdening your front desk.",
+    "missedMath": "A single missed new-patient inquiry costs $1,200+ in lifetime treatment value. 35% of patient website visits happen outside office hours when phones go to voicemail.",
+    "wedge": "Unlike generic DIY chatbot software that leaves you to write scripts and build flows, Aenfinite designs, trains, integrates, and maintains a custom dental AI assistant directly wired into your Practice Management System (Dentrix, Open Dental, Eaglesoft).",
+    "workflows": [
+      ["24/7 Online Appointment Booking", "Patients select procedure types, preferred times, and provider preferences — instantly reserving slots in your PMS calendar with automated calendar confirmations."],
+      ["Emergency Dental Triage", "Intelligent questioning identifies severe symptoms (swelling, acute trauma, uncontrolled pain), collects contact info, and triggers emergency alerts to on-call staff."],
+      ["Insurance & Payment Inquiries", "Answers common questions about accepted dental insurance networks, financing options (CareCredit, Sunbit), and general fee structures."],
+      ["Pre-Visit Intake & Medical History", "Directs booked patients to fill out required digital forms before arrival, reducing waiting room check-in delays."],
+      ["Automated Recall & Review Nurture", "Engages dormant patients for routine hygiene cleanings and prompts satisfied patients to leave 5-star reviews on Google."]
+    ],
+    "integrations": ["Dentrix", "Eaglesoft", "Open Dental", "Curve Dental", "Google Calendar", "GoHighLevel", "Twilio SMS"],
+    "pricing": "Custom dental AI chatbot setups start at <strong>$1,500–$3,500</strong> for full setup, PMS integration, and workflow tuning. Monthly maintenance and optimization starts at <strong>$199/mo</strong>.",
+    "faqs": [
+      ["Is the AI chatbot HIPAA compliant?", "Yes. All patient interactions, intake fields, and PMS integrations are encrypted end-to-end with BAA coverage and zero PHI data retention in non-compliant logs."],
+      ["Does it replace my front desk receptionist?", "No. It acts as an assistant that handles repetitive inquiries, after-hours bookings, and FAQs so your team can focus on in-office patient care and complex billing."],
+      ["Can it connect directly to Open Dental or Dentrix?", "Yes. We integrate directly via secure APIs or PMS webhooks to sync patient details and appointments into your practice schedule in real time."],
+      ["What happens when a patient asks a complex medical question?", "The AI operates within strictly bounded clinical guardrails. It never gives medical diagnoses; instead, it offers to schedule a consultation or alerts your clinical team."]
+    ],
+    "relatedIndustry": "dental",
+    "relatedSolutions": ["law-firms", "home-services"]
+  },
+  "hvac": {
+    "name": "AI Receptionist for HVAC",
+    "singular": "HVAC company",
+    "slug": "hvac",
+    "icon": "❄️",
+    "title": "AI Receptionist for HVAC Companies — Never Miss a Job | Aenfinite",
+    "metaDesc": "Done-for-you AI voice and chat receptionists for HVAC contractors. Emergency dispatch, after-hours booking, estimate triage, and FSM integration (Jobber, ServiceTitan).",
+    "heroHeading": "AI Receptionist & Answering Service for HVAC Companies",
+    "heroSub": "Answer every emergency call, qualify replacement leads, and book service visits 24/7 — wired directly into Jobber, ServiceTitan, or Housecall Pro.",
+    "missedMath": "An emergency AC failure or furnace breakdown call is a $300–$3,500 ticket. When a homeowner's heat goes out at 9pm in winter, they call down Google until someone answers. If you go to voicemail, you lose the job.",
+    "wedge": "Third-party answering services employ generic operators who don't know HVAC and cost thousands monthly. DIY AI tools make you build complex prompts yourself. Aenfinite delivers a fully configured, custom-voiced AI technician trained on HVAC terminology, diagnostic triage, and your exact pricing rules.",
+    "workflows": [
+      ["Emergency Breakdown Triage", "Identifies heating/cooling emergencies, determines system type and warranty status, and initiates immediate technician dispatch notifications."],
+      ["Direct Field Service Scheduling", "Checks real-time technician availability in Jobber or ServiceTitan to book diagnostic visits within your defined service territory."],
+      ["Missed-Call Text-Back", "Instantly texts callers when lines are busy with an interactive booking link and AI assistant to prevent them from calling a competitor."],
+      ["Seasonal Maintenance Promotion", "Reactivates past customers with spring AC tune-up and fall heating safety check campaigns via conversational SMS."],
+      ["Warranty & Filter Inquiry Handling", "Provides instant answers regarding warranty coverage status, maintenance plan perks, and equipment specifications."]
+    ],
+    "integrations": ["Jobber", "ServiceTitan", "Housecall Pro", "FieldEdge", "Google Calendar", "Zapier", "GoHighLevel"],
+    "pricing": "Done-for-you HVAC AI receptionist setups start at <strong>$2,000–$4,500</strong> including voice agent tuning, prompt optimization, and FSM synchronization. Monthly hosting and minutes packages start at <strong>$249/mo</strong>.",
+    "faqs": [
+      ["Can the AI answer phone calls with a natural voice?", "Yes. We deploy high-fidelity voice AI with ultra-low latency (<600ms response time) that sounds completely natural and conversational."],
+      ["How does it handle emergency after-hours dispatch?", "Based on severity rules we define with you, the AI can transfer urgent calls directly to an on-call technician's cell or trigger SMS/Slack/email alerts with full call transcripts."],
+      ["Will it work with our existing phone number?", "Yes. You simply set up call forwarding from your business number to the AI receptionist on after-hours, overflow, or full-time schedules."],
+      ["Can it give price estimates over the phone?", "We configure the AI with your diagnostic fee and standard service minimums, while setting guardrails to reserve custom repair quotes for in-person inspections."]
+    ],
+    "relatedIndustry": "home-services",
+    "relatedSolutions": ["home-services", "restaurants"]
+  },
+  "law-firms": {
+    "name": "AI Intake for Law Firms",
+    "singular": "law firm",
+    "slug": "law-firms",
+    "icon": "⚖️",
+    "title": "AI Legal Intake & Chatbot for Law Firms | Aenfinite",
+    "metaDesc": "Custom AI client intake assistants for personal injury, family, and criminal law firms. Qualify case merits, capture details 24/7, and sync to Clio and Lawmatics.",
+    "heroHeading": "AI Client Intake & Lead Qualification for Law Firms",
+    "heroSub": "Qualify high-value cases instantly, gather critical incident facts, and schedule attorney consultations 24/7 — fully compliant with legal ethics and bar rules.",
+    "missedMath": "In personal injury and criminal defense, 70% of retainers go to the first firm that responds. Prospective clients searching at night or on weekends sign with whichever attorney engages them first.",
+    "wedge": "Generic legal chat widgets just ask for an email and phone number. Aenfinite builds intelligent legal intake workflows customized to your practice areas — screening for statute of limitations, liability, insurance coverage, and injury severity before routing qualified leads to your calendar.",
+    "workflows": [
+      ["Practice-Specific Case Screening", "Custom questionnaire logic for personal injury, family law, criminal defense, estate planning, and immigration to assess case viability."],
+      ["Conflict Check Pre-Screening", "Collects opposing party names and incident details for prompt conflict review prior to consultation confirmation."],
+      ["Consultation Calendar Booking", "Allows pre-qualified prospective clients to book paid or free initial consultations directly into attorney calendars (Clio, Calendly)."],
+      ["Document Collection Guidance", "Instructs clients on necessary documents (police reports, medical records, financial statements) to bring to their initial intake."],
+      ["24/7 Retainer & FAQ Support", "Answers prospective client questions about billing structures (contingency vs. hourly retainers), office locations, and process timelines."]
+    ],
+    "integrations": ["Clio", "Lawmatics", "MyCase", "PracticePanther", "Lead Docket", "HubSpot", "Zapier"],
+    "pricing": "Custom law firm AI intake systems start at <strong>$2,000–$5,000</strong> including practice area qualification flows and legal CRM integration. Monthly management starts at <strong>$299/mo</strong>.",
+    "faqs": [
+      ["Does the AI give legal advice?", "No. The system includes strict legal disclaimers and guardrails ensuring it never provides legal advice, evaluates claims legally, or creates an attorney-client relationship."],
+      ["Can it integrate directly into Clio or Lawmatics?", "Yes. Qualified lead details, contact info, and conversation transcripts are automatically mapped into your legal CRM matter pipeline."],
+      ["How does it handle Spanish or other language speakers?", "The AI automatically detects language and seamlessly converses in Spanish, French, Portuguese, and 50+ other languages to capture bilingual leads."],
+      ["Is the data encrypted and confidential?", "Yes. All conversations and form fields are encrypted in transit (TLS 1.3) and at rest (AES-256) with strict access control."]
+    ],
+    "relatedIndustry": "law-firms",
+    "relatedSolutions": ["dental", "real-estate"]
+  },
+  "real-estate": {
+    "name": "AI Assistant for Real Estate",
+    "singular": "real estate agency",
+    "slug": "real-estate",
+    "icon": "🏠",
+    "title": "AI Assistant & Lead Qualifier for Real Estate | Aenfinite",
+    "metaDesc": "AI real estate chatbots and voice assistants for agents and brokerages. Qualify buyers and sellers, schedule showings, and sync leads to Follow Up Boss.",
+    "heroHeading": "AI Lead Qualification & Showing Assistant for Real Estate",
+    "heroSub": "Instantly engage every portal and website inquiry, qualify pre-approval status and budget, and book showing tours while you are in the field.",
+    "missedMath": "Real estate leads contact an average of 3 agents. Responding within 5 minutes increases conversion rates by 391% compared to responding in 30 minutes. An AI assistant guarantees zero-second response times.",
+    "wedge": "Instead of canned automated SMS messages that feel robotic, Aenfinite builds contextual conversational AI trained on your local neighborhoods, active listings, and specific team routing rules.",
+    "workflows": [
+      ["Buyer & Seller Qualification", "Asks targeted questions regarding pre-approval status, price range, timeline to purchase/sell, and target neighborhoods."],
+      ["Showing Tour Scheduling", "Coordinates property showing requests based on agent calendar availability and lockbox access rules."],
+      ["Home Valuation Lead Capture", "Engages prospective sellers wanting a CMA with preliminary property detail collection before connecting them with an agent."],
+      ["Instant Property Information", "Answers inquiries about MLS listing features, HOA dues, property taxes, and school districts."],
+      ["Drip Nurture Re-engagement", "Conversational re-engagement sequences that check in on past inquiries when relevant new listings hit the MLS."]
+    ],
+    "integrations": ["Follow Up Boss", "KvCore", "Sierra Interactive", "Chime", "LionDesk", "Google Calendar", "GoHighLevel"],
+    "pricing": "Custom real estate AI assistants start at <strong>$1,500–$3,500</strong> for website and CRM integration. Ongoing optimization from <strong>$199/mo</strong>.",
+    "faqs": [
+      ["Does it connect to Follow Up Boss or KvCore?", "Yes. New leads, qualification tags, and complete chat transcripts sync directly into your real estate CRM within seconds."],
+      ["Can it answer questions about specific listings?", "Yes. The AI can be connected to your active listing inventory to provide accurate square footage, bedroom/bath counts, and features."],
+      ["Can multiple agents on a team use it?", "Yes. We configure lead routing rules by neighborhood, price point, or round-robin distribution among team members."]
+    ],
+    "relatedIndustry": "real-estate",
+    "relatedSolutions": ["law-firms", "home-services"]
+  },
+  "restaurants": {
+    "name": "AI Ordering for Restaurants",
+    "singular": "restaurant",
+    "slug": "restaurants",
+    "icon": "🍽️",
+    "title": "AI Chatbot & Reservation Assistant for Restaurants | Aenfinite",
+    "metaDesc": "AI voice and chat assistants for restaurants. Handle table reservations, catering inquiries, dietary questions, and phone orders without tying up host staff.",
+    "heroHeading": "AI Reservation & Ordering Assistant for Restaurants",
+    "heroSub": "Free up your floor staff during dinner rushes. Answer phone calls and website inquiries with instant table bookings, catering quotes, and menu guidance.",
+    "missedMath": "A restaurant loses an estimated 10–20 covers every weekend because phone lines are busy during peak dinner service. An AI receptionist answers every simultaneous call without waiting on hold.",
+    "wedge": "Third-party delivery platforms take 15–30% commissions. Our conversational AI guides guests to direct online ordering, private event bookings, and direct table reservations — keeping 100% of the margin in your pocket.",
+    "workflows": [
+      ["Table Reservation Booking", "Books tables directly via OpenTable, Resy, or custom calendar systems according to party size and dining room capacity."],
+      ["Private Dining & Catering Inquiries", "Collects headcount, budget, menu preferences, and event date details, routing qualified leads to your event manager."],
+      ["Dietary & Allergen Guidance", "Provides immediate answers regarding gluten-free, vegan, nut allergies, and halal preparations from your menu database."],
+      ["Operating Hours & Location Directions", "Eliminates repetitive calls about parking, dress code, corkage fees, and holiday hours."],
+      ["Direct Ordering Handoff", "Sends SMS links to commission-free online ordering platforms when customers call for takeout."]
+    ],
+    "integrations": ["OpenTable", "Resy", "Toast POS", "Square", "SevenRooms", "Google Business Profile", "Twilio"],
+    "pricing": "Restaurant AI setups start at <strong>$1,500–$3,000</strong>. Monthly maintenance and voice minute packages from <strong>$149/mo</strong>.",
+    "faqs": [
+      ["Can it handle loud ambient restaurant noise?", "Yes. We configure the voice AI on your dedicated phone line before calls hit the noisy front desk, ensuring crystal clear recognition."],
+      ["Does it integrate with OpenTable or Resy?", "Yes. We connect to your reservation platform API or table management system to ensure accurate guest bookings."],
+      ["What if a guest has a special request?", "The AI can flag VIP notes, anniversary/birthday celebrations, or dietary restrictions directly in the booking notes for the host team."]
+    ],
+    "relatedIndustry": "restaurants",
+    "relatedSolutions": ["hvac", "home-services"]
+  },
+  "home-services": {
+    "name": "AI Receptionist for Home Services",
+    "singular": "home service company",
+    "slug": "home-services",
+    "icon": "🔧",
+    "title": "AI Answering Service for Plumbers, Roofers & Electricians | Aenfinite",
+    "metaDesc": "24/7 AI answering service and receptionist for home service contractors. Dispatch emergency calls, quote standard diagnostics, and book visits in Jobber.",
+    "heroHeading": "AI Receptionist for Plumbers, Electricians & Roofers",
+    "heroSub": "Never send a lucrative emergency job to voicemail again. AI answering that quotes diagnostics, triages urgent leaks or power outages, and books jobs in your FSM.",
+    "missedMath": "68% of homeowners call the next contractor on Google if their first call goes unanswered. A single plumbing burst pipe or emergency roof tarping job can be worth $2,000–$8,000.",
+    "wedge": "Traditional call centers have high turnover and zero trade knowledge. Aenfinite builds a dedicated AI dispatcher that knows your trade, asks the right diagnostic questions, and instantly syncs with your field software.",
+    "workflows": [
+      ["Trade Emergency Triage", "Identifies flooded basements, electrical sparks, or storm-damaged roofs, gathering photos and dispatching emergency alerts."],
+      ["Routine Service Scheduling", "Schedules drain cleanings, electrical panel inspections, or roof replacement estimates directly into your field calendar."],
+      ["Instant Lead Capture & Follow-Up", "Captures website visitor details through conversational chat and triggers immediate SMS confirmation."],
+      ["Diagnostic Fee Explanation", "Clearly communicates standard service call policies and travel fees before booking to ensure qualified, paying customers."],
+      ["Review Solicitation", "Automates post-completion text messages asking satisfied homeowners for 5-star reviews on Google Maps."]
+    ],
+    "integrations": ["Jobber", "Housecall Pro", "ServiceTitan", "Workiz", "Zapier", "Twilio", "GoHighLevel"],
+    "pricing": "Home service AI dispatcher setups start at <strong>$2,000–$4,000</strong> with complete FSM integration. Monthly hosting from <strong>$199/mo</strong>.",
+    "faqs": [
+      ["Can the AI distinguish between emergency and routine calls?", "Yes. We program custom triage logic so water main breaks or sparking panels trigger immediate on-call notifications, while routine tune-ups book on regular calendar slots."],
+      ["How quickly does the AI answer?", "Inbound calls and website chats are answered in under 1 second — eliminating hold times and lost jobs."],
+      ["Can it work for multiple trades in one company?", "Yes. If your company handles plumbing, HVAC, and electrical, the AI triages and routes calls according to the specific trade needed."]
+    ],
+    "relatedIndustry": "home-services",
+    "relatedSolutions": ["hvac", "dental"]
+  }
+}

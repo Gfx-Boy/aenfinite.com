@@ -49,4 +49,16 @@
         <loc>https://aenfinite.com/sitemap-cities.xml</loc>
         <lastmod>2026-08-17</lastmod>
     </sitemap>
+
+    <!-- Industry-Specific Web Design Pages -->
+    <sitemap>
+        <loc>https://aenfinite.com/sitemap-industries.xml</loc>
+        <lastmod>2026-08-19</lastmod>
+    </sitemap>
+
+    <!-- AI Solutions & Voice Receptionist Pages -->
+    <sitemap>
+        <loc>https://aenfinite.com/sitemap-ai-solutions.xml</loc>
+        <lastmod>2026-08-19</lastmod>
+    </sitemap>
 </sitemapindex>

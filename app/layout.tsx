@@ -6,7 +6,7 @@ import './globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL('https://aenfinite.com'),
   title: {
-    default: 'Aenfinite® | Professional Digital Innovation Agency',
+    default: 'Aenfinite® — Web Design, AI Automation & Custom Development | Denver',
     template: '%s | Aenfinite®',
   },
   description: 'full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design.',

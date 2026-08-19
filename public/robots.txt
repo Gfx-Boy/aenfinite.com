@@ -33,3 +33,6 @@ Sitemap: https://aenfinite.com/sitemap.xml
 Sitemap: https://aenfinite.com/sitemap-cities.xml
 
 Sitemap: https://aenfinite.com/sitemap-index.xml
+
+Sitemap: https://aenfinite.com/sitemap-industries.xml
+Sitemap: https://aenfinite.com/sitemap-ai-solutions.xml

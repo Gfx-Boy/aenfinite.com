@@ -2,8 +2,8 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: { absolute: "Aenfinite® | Denver Web, App & AI Automation Agency" },
-  description: "Denver web design, app development & AI automation agency. Custom software, n8n & workflow automation, SEO & branding for US and Canadian businesses.",
+  title: { absolute: "Aenfinite® — Web Design, AI Automation & Custom Development | Denver" },
+  description: "Denver web design, app development & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
   keywords: "digital agency Denver, Denver web design, Denver software development, AI agency Denver, Colorado digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Denver, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
   openGraph: {"title":"Aenfinite® | Digital Innovation Agency | AI, Software Development, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.","url":"https://aenfinite.com/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
@@ -1127,6 +1127,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/agency/">Agency</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/services/">Services</a>
