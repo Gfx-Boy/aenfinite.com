@@ -1727,6 +1727,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 </section>
 <!-- AEN-LONGFORM END -->
+
+<section class='aen-city-links' style='max-width:1000px;margin:0 auto;padding:24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:24px 0 14px;line-height:1.25;'>Cities we serve in Hawaii</h2>
+  <p style='line-height:1.8;font-size:15px;opacity:0.85;'><a href='/locations/hawaii/honolulu/'>Honolulu</a>.</p>
+</section>
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>

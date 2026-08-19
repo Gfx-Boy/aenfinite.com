@@ -43,4 +43,10 @@
         <lastmod>2025-10-02</lastmod>
     </sitemap>
     
+
+    <!-- All US City Landing Pages (19,454 cities) -->
+    <sitemap>
+        <loc>https://aenfinite.com/sitemap-cities.xml</loc>
+        <lastmod>2026-08-17</lastmod>
+    </sitemap>
 </sitemapindex>

@@ -1727,6 +1727,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 </section>
 <!-- AEN-LONGFORM END -->
+
+<section class='aen-city-links' style='max-width:1000px;margin:0 auto;padding:24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:24px 0 14px;line-height:1.25;'>Cities we serve in Nevada</h2>
+  <p style='line-height:1.8;font-size:15px;opacity:0.85;'><a href='/locations/nevada/las-vegas/'>Las Vegas</a> &middot; <a href='/locations/nevada/henderson/'>Henderson</a> &middot; <a href='/locations/nevada/north-las-vegas/'>North Las Vegas</a> &middot; <a href='/locations/nevada/reno/'>Reno</a> &middot; <a href='/locations/nevada/sparks/'>Sparks</a> &middot; <a href='/locations/nevada/carson-city/'>Carson City</a> &middot; <a href='/locations/nevada/fernley/'>Fernley</a> &middot; <a href='/locations/nevada/mesquite/'>Mesquite</a> &middot; <a href='/locations/nevada/elko/'>Elko</a> &middot; <a href='/locations/nevada/boulder-city/'>Boulder City</a> &middot; <a href='/locations/nevada/fallon/'>Fallon</a> &middot; <a href='/locations/nevada/winnemucca/'>Winnemucca</a> &middot; <a href='/locations/nevada/west-wendover/'>West Wendover</a> &middot; <a href='/locations/nevada/ely/'>Ely</a> &middot; <a href='/locations/nevada/yerington/'>Yerington</a> &middot; <a href='/locations/nevada/carlin/'>Carlin</a> &middot; <a href='/locations/nevada/lovelock/'>Lovelock</a> &middot; <a href='/locations/nevada/wells/'>Wells</a> &middot; <a href='/locations/nevada/caliente/'>Caliente</a>.</p>
+</section>
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>

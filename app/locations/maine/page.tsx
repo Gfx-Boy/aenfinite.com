@@ -1727,6 +1727,11 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 </section>
 <!-- AEN-LONGFORM END -->
+
+<section class='aen-city-links' style='max-width:1000px;margin:0 auto;padding:24px;font-family:inherit;'>
+  <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:24px 0 14px;line-height:1.25;'>Cities we serve in Maine</h2>
+  <p style='line-height:1.8;font-size:15px;opacity:0.85;'><a href='/locations/maine/portland/'>Portland</a> &middot; <a href='/locations/maine/lewiston/'>Lewiston</a> &middot; <a href='/locations/maine/bangor/'>Bangor</a> &middot; <a href='/locations/maine/south-portland/'>South Portland</a> &middot; <a href='/locations/maine/auburn/'>Auburn</a> &middot; <a href='/locations/maine/biddeford/'>Biddeford</a> &middot; <a href='/locations/maine/sanford/'>Sanford</a> &middot; <a href='/locations/maine/saco/'>Saco</a> &middot; <a href='/locations/maine/westbrook/'>Westbrook</a> &middot; <a href='/locations/maine/augusta/'>Augusta</a> &middot; <a href='/locations/maine/waterville/'>Waterville</a> &middot; <a href='/locations/maine/brewer/'>Brewer</a> &middot; <a href='/locations/maine/bath/'>Bath</a> &middot; <a href='/locations/maine/presque-isle/'>Presque Isle</a> &middot; <a href='/locations/maine/ellsworth/'>Ellsworth</a> &middot; <a href='/locations/maine/old-town/'>Old Town</a> &middot; <a href='/locations/maine/caribou/'>Caribou</a> &middot; <a href='/locations/maine/rockland/'>Rockland</a> &middot; <a href='/locations/maine/belfast/'>Belfast</a> &middot; <a href='/locations/maine/gardiner/'>Gardiner</a> &middot; <a href='/locations/maine/calais/'>Calais</a> &middot; <a href='/locations/maine/hallowell/'>Hallowell</a> &middot; <a href='/locations/maine/eastport/'>Eastport</a>.</p>
+</section>
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Frequently Asked Questions</h2>
