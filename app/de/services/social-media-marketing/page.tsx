@@ -1,14 +1,14 @@
-﻿// Language: German (de)
+// Language: German (de)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Social-Media-Marketing Dienstleistungen | Instagram, Facebook & TikTok Experts",
-  description: "Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.",
-  keywords: "social media marketing, Instagram marketing, Facebook marketing, TikTok marketing, LinkedIn marketing, social media management, community management, social strategy, Aenfinite",
+  title: "Social-Media-Marketing Agentur — Instagram, LinkedIn & TikTok [2026]",
+  description: "✓ Strategic social media management, organic community growth, and paid social campaigns that build brand authority and convert followers into customers. Elevate your socials →",
+  keywords: "social media marketing agency, instagram growth strategy, linkedin b2b marketing, tiktok advertising, social media management",
   alternates: { canonical: "https://aenfinite.com/de/services/social-media-marketing/", languages: {"x-default":"https://aenfinite.com/services/social-media-marketing/","en":"https://aenfinite.com/services/social-media-marketing/","es":"https://aenfinite.com/es/services/social-media-marketing/","fr":"https://aenfinite.com/fr/services/social-media-marketing/","de":"https://aenfinite.com/de/services/social-media-marketing/","it":"https://aenfinite.com/it/services/social-media-marketing/","ar":"https://aenfinite.com/ar/services/social-media-marketing/","pt":"https://aenfinite.com/pt/services/social-media-marketing/","zh":"https://aenfinite.com/zh/services/social-media-marketing/","hi":"https://aenfinite.com/hi/services/social-media-marketing/","nl":"https://aenfinite.com/nl/services/social-media-marketing/","ja":"https://aenfinite.com/ja/services/social-media-marketing/","ko":"https://aenfinite.com/ko/services/social-media-marketing/"} },
-  openGraph: {"title":"Social-Media-Marketing Dienstleistungen | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Boost your brand with Aenfinite's expert social media marketing services. We specialize in Instagram growth, Facebook advertising, TikTok strategy, and community management to enhance engagement and conversions.","url":"https://aenfinite.com/de/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
+  openGraph: {"title": "Social-Media-Marketing Agentur — Instagram, LinkedIn & TikTok [2026]","description": "✓ Strategic social media management, organic community growth, and paid social campaigns that build brand authority and convert followers into customers. Elevate your socials →","url":"https://aenfinite.com/de/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Social-Media-Marketing Dienstleistungen | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Aenfinite delivers social media marketing services that grow your online presence on Instagram, Facebook, and TikTok through creative content, paid ads, and strategy.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -774,7 +774,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1109,20 +1109,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/de/agency/">Agentur</a>
 							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/de/services/">Dienstleistungen</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/de/services/">Dienstleistungen</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Entwicklungslösungen ›</a>
 										<ul class="sub-menu">
-											                                            
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
-<li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
+											<li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
 											<li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
 											<li><a href="/de/services/software-and-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen ›</a>
@@ -1130,7 +1133,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
 											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
 											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
-											
 											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
 											<li><a href="/de/services/conference-branding/">Konferenz-Markengestaltung</a></li>
 										</ul>
@@ -1142,135 +1144,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
 											<li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
 											<li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">KI- und Technologielösungen ›</a>
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
 											<li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+											<li><a href="/de/services/ai-automation/">AI Automatisierung</a></li>
+											<li><a href="/de/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/de/services/n8n-automation/">n8n Automatisierung</a></li>
+											<li><a href="/de/services/crm-automation/">CRM Automatisierung</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner werden Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Dienstleistungen menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -1954,30 +1846,30 @@ is the key to building brand awareness, driving engagement, and creating meaning
 			
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Haeufig gestellte Fragen</h2>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Häufig gestellte Fragen</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Was macht Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Which social platforms do you manage?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite ist eine Full-Service-Agentur fuer digitale Innovation und bietet Webdesign und -entwicklung, Branding, UI/UX, SEO, digitales Marketing, App- und Softwareentwicklung, E-Commerce und KI-Automatisierung.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite manages Instagram, Facebook, LinkedIn, TikTok, X, and YouTube, choosing the channels where your audience is most active.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Mit wem arbeitet Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you create the content too?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Wir arbeiten mit Start-ups, kleinen Unternehmen und Konzernen aus vielen Branchen und betreuen Kunden in den USA, Kanada und weltweit.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. We handle strategy, content creation, scheduling, community management, and reporting as a full-service package.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wie erhalte ich ein Angebot?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How often will you post?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Buchen Sie eine kostenlose Beratung oder kontaktieren Sie uns mit Ihren Zielen, und wir erstellen Ihnen ein massgeschneidertes, transparentes Angebot.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Posting cadence is tailored to your goals and platform, typically several times per week, balanced for quality and consistency.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wann koennen Sie beginnen?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you grow my followers and engagement?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>In der Regel koennen wir innerhalb weniger Wochen starten. Melden Sie sich, und wir bestaetigen Verfuegbarkeit und Zeitplan fuer Ihr Projekt.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We grow real, relevant audiences through organic content and optional paid amplification, focused on engagement and conversions, not vanity metrics.</div>
       </div>
     </details>
   </div>
@@ -1988,7 +1880,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2007,6 +1899,8 @@ is the key to building brand awareness, driving engagement, and creating meaning
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/de/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2066,7 +1960,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/de/" style="font-weight:bold;">Englisch</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 						</div>
 
 					</div>
@@ -2486,7 +2380,7 @@ document.addEventListener('keydown', function(event) {
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/de/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2637,6 +2531,12 @@ export default function Page() {
     }
   ]
 }` }}
+        />
+      
+        <script
+          key="schema-faq"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Which social platforms do you manage?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Aenfinite manages Instagram, Facebook, LinkedIn, TikTok, X, and YouTube, choosing the channels where your audience is most active.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Do you create the content too?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. We handle strategy, content creation, scheduling, community management, and reporting as a full-service package.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How often will you post?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Posting cadence is tailored to your goals and platform, typically several times per week, balanced for quality and consistency.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can you grow my followers and engagement?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"We grow real, relevant audiences through organic content and optional paid amplification, focused on engagement and conversions, not vanity metrics.\"\n      }\n    }\n  ]\n}" }}
         />
       <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
     </>

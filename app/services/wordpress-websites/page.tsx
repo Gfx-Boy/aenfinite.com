@@ -2,11 +2,11 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert WordPress Website Development | Custom Themes & Plugin Development",
-  description: "Aenfinite® is a top-rated WordPress development agency specializing in custom WordPress websites, WooCommerce development, plugin creation, and website maintenance. We build secure, scalable, and performance-optimized WordPress solutions that drive business growth.",
-  keywords: "WordPress development, WordPress website, custom WordPress theme, WooCommerce development, WordPress plugin development, WordPress maintenance, Elementor, Aenfinite",
+  title: "Custom WordPress Website Development — Fast, Secure & Editable [2026]",
+  description: "✓ Custom WordPress development with zero bloated builder plugins. ✓ Lightning-fast load times, bespoke Gutenberg blocks, and WooCommerce integration. Get started →",
+  keywords: "custom wordpress development, headless wordpress, woocommerce development, bespoke wordpress agency, wordpress maintenance",
   alternates: { canonical: "https://aenfinite.com/services/wordpress-websites/", languages: {"x-default":"https://aenfinite.com/services/wordpress-websites/","en":"https://aenfinite.com/services/wordpress-websites/","es":"https://aenfinite.com/es/services/wordpress-websites/","fr":"https://aenfinite.com/fr/services/wordpress-websites/","de":"https://aenfinite.com/de/services/wordpress-websites/","it":"https://aenfinite.com/it/services/wordpress-websites/","ar":"https://aenfinite.com/ar/services/wordpress-websites/","pt":"https://aenfinite.com/pt/services/wordpress-websites/","zh":"https://aenfinite.com/zh/services/wordpress-websites/","hi":"https://aenfinite.com/hi/services/wordpress-websites/","nl":"https://aenfinite.com/nl/services/wordpress-websites/","ja":"https://aenfinite.com/ja/services/wordpress-websites/","ko":"https://aenfinite.com/ko/services/wordpress-websites/"} },
-  openGraph: {"title":"Expert WordPress Website Development | Custom Themes & Plugin Development | Aenfinite®","description":"Aenfinite® provides professional WordPress development services, including custom theme and plugin development, WooCommerce integration, and maintenance. Build your WordPress website with experts who deliver performance and growth.","url":"https://aenfinite.com/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title": "Custom WordPress Website Development — Fast, Secure & Editable [2026]","description": "✓ Custom WordPress development with zero bloated builder plugins. ✓ Lightning-fast load times, bespoke Gutenberg blocks, and WooCommerce integration. Get started →","url":"https://aenfinite.com/services/wordpress-websites/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Expert WordPress Website Development | Custom Themes & Plugin Development | Aenfinite®","description":"Aenfinite® delivers custom WordPress development, WooCommerce websites, plugin creation, and site optimization. Get fast, SEO-friendly WordPress websites that convert visitors into clients.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -769,7 +769,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1113,12 +1113,9 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/services/">Services</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/services/">Services</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
@@ -1128,16 +1125,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
-											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
+											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
-											<li><a href="/services/web-design/">Website Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
 											<li><a href="/services/graphic-design/">Graphic Design</a></li> <li><a href="/services/logo-design/">Logo Design</a></li>
-											<li><a href="/services/graphic-design/">Motion Graphics</a></li>
 											<li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
 											<li><a href="/services/conference-branding/">Conference Branding</a></li>
 										</ul>
@@ -1148,143 +1144,26 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
 											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
-											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></
-
+											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
 										</ul>
 									</li>
-									
-									
-									
-								</ul>
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
-<li><a href="/services/ai-automation/">AI Automation</a></li>
-<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
-<li><a href="/services/n8n-automation/">n8n Automation</a></li>
-<li><a href="/services/crm-automation/">CRM Automation</a></li>
+											<li><a href="/services/ai-automation/">AI Automation</a></li>
+											<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/services/n8n-automation/">n8n Automation</a></li>
+											<li><a href="/services/crm-automation/">CRM Automation</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner With Us Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Services menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2942,6 +2821,12 @@ export default function Page() {
     }
   ]
 }` }}
+        />
+      
+        <script
+          key="schema-faq"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Why choose WordPress for my website?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"WordPress is flexible, SEO-friendly, and easy to manage. Aenfinite builds fast, secure, custom WordPress sites you can update yourself.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Do you build custom WordPress themes or use templates?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"We build custom, lightweight themes tailored to your brand, with no bloated templates, for better speed and security.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can you maintain and secure my WordPress site?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. We offer updates, backups, security hardening, and support plans to keep your site safe and fast.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can you fix or redesign my existing WordPress site?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely. We troubleshoot, optimize, and redesign existing WordPress sites of any size.\"\n      }\n    }\n  ]\n}" }}
         />
       <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
     </>

@@ -1,10 +1,10 @@
-﻿// Language: German (de)
+// Language: German (de)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Webdesign & Digitales Marketing Dienstleistungen | Logodesign & Markengestaltung",
+  title: "Digital Dienstleistungen | AI Solutions, Softwareentwicklung, Webdesign, SEO & Marketing",
   description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, SEO-Dienstleistungen, App-Entwicklung, individuelle Webentwicklung, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/de/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
@@ -411,7 +411,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 	
     `;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -646,7 +646,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/de/agency/">Agentur</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/industries/">Industries</a>
+							</li>
+<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/de/services/">Dienstleistungen</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
@@ -661,6 +664,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
 											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>									</ul>
 									</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/ai-solutions/">AI Solutions</a>
+							</li>
+
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design- und Kreativdienstleistungen ›</a>
 										<ul class="sub-menu">
@@ -689,6 +696,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
 											<li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+<li><a href="/de/services/ai-automation/">AI Automatisierung</a></li>
+<li><a href="/de/services/ai-voice-agents/">AI Voice Agents</a></li>
+<li><a href="/de/services/n8n-automation/">n8n Automatisierung</a></li>
+<li><a href="/de/services/crm-automation/">CRM Automatisierung</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1488,30 +1499,30 @@ from our clients</div>
 			
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Haeufig gestellte Fragen</h2>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Häufig gestellte Fragen</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Was macht Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What services does Aenfinite offer?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite ist eine Full-Service-Agentur fuer digitale Innovation und bietet Webdesign und -entwicklung, Branding, UI/UX, SEO, digitales Marketing, App- und Softwareentwicklung, E-Commerce und KI-Automatisierung.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is a full-service Digitalagentur offering web design and development, branding, UI/UX, SEO, digital marketing, app and software development, e-commerce, and AI automation.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Mit wem arbeitet Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can I combine multiple services into one project?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Wir arbeiten mit Start-ups, kleinen Unternehmen und Konzernen aus vielen Branchen und betreuen Kunden in den USA, Kanada und weltweit.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Many clients bundle design, development, and marketing so everything works together. We tailor a package to your goals.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wie erhalte ich ein Angebot?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work with businesses outside your city?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Buchen Sie eine kostenlose Beratung oder kontaktieren Sie uns mit Ihren Zielen, und wir erstellen Ihnen ein massgeschneidertes, transparentes Angebot.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Absolutely. Aenfinite serves clients across the US, Canada, and worldwide, working remotely with teams everywhere.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wann koennen Sie beginnen?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get started?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>In der Regel koennen wir innerhalb weniger Wochen starten. Melden Sie sich, und wir bestaetigen Verfuegbarkeit und Zeitplan fuer Ihr Projekt.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation and we will recommend the right services and a clear plan for your budget and timeline.</div>
       </div>
     </details>
   </div>
@@ -1522,7 +1533,7 @@ from our clients</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1540,6 +1551,8 @@ from our clients</div>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">Dienstleistungen</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/de/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1599,7 +1612,7 @@ from our clients</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/de/" style="font-weight:bold;">Englisch</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 						</div>
 
 					</div>
@@ -2083,7 +2096,7 @@ document.addEventListener('keydown', function(event) {
 	<script src="/js/button-highlights.js"></script>
 
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/de/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

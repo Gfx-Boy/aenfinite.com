@@ -1,6 +1,6 @@
-﻿// Language: French (fr)
+// Language: French (fr)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
@@ -292,7 +292,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -641,274 +641,60 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/fr/agency/">Agence</a>
 							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/fr/services/">Services</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions de Développement </a>
-                                        <ul class="sub-menu">
-                                            
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/fr/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/fr/services/">Services</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Solutions de Développement ›</a>
+										<ul class="sub-menu">
 											<li><a href="/fr/services/wordpress-websites/">Sites WordPress</a></li>
-<li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
+											<li><a href="/fr/services/e-commerce-websites/">Sites E-Commerce</a></li>
 											<li><a href="/fr/services/custom-web-development/">Développement Web Sur Mesure</a></li>
 											<li><a href="/fr/services/software-and-platform-development/">Développement de Logiciels et Plateformes</a></li>
 											<li><a href="/fr/services/app-development/">Développement d'Applications</a></li>
 											<li><a href="/fr/services/web-design/">Conception et Développement de Sites Web</a></li>
-											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web Immobilières</a></li>                                      </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Services de Design et Création </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
-
-                                            <li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
-                                            <li><a href="/fr/services/graphic-design/">Design Graphique</a></li>
-                                            
-                                            <li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
-                                            <li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions Marketing et Digitales </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
-                                            <li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
-                                            <li><a href="/fr/services/pay-per-click/">Publicité au Coût par Clic (PPC)</a></li>
-                                            <li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
-                                            
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Solutions IA et Technologie </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/fr/services/ai-chatbots-and-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
-                                            <li><a href="/fr/services/workflow-and-business-automation/">Automatisation des Processus et des Affaires</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Devenez Partenaire Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Services menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-.topbar-logo {
-    position: relative;
-    display: inline-block;
-}
-
-.nav-logo-default,
-.nav-logo-active {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: auto;
-    height: 28px;
-    max-width: 140px;
-    object-fit: contain;
-    object-position: left center;
-    transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-/* Ensure container has proper dimensions */
-.topbar-logo a {
-    display: block;
-    position: relative;
-    width: 140px;
-    height: 28px;
-}
-
-.topbar-logo {
-    position: relative;
-    display: inline-block;
-}
-
-/* Default state - white logo visible */
-.nav-logo-default {
-    opacity: 1;
-    z-index: 2;
-}
-
-/* Active state - color logo hidden by default */
-.nav-logo-active {
-    opacity: 0;
-    z-index: 1;
-}
-
-/* When navbar becomes active/scrolled - switch logos */
-.mainnav.active .nav-logo-default,
-.mainnav.always-active .nav-logo-default,
-.mainnav:hover .nav-logo-default {
-    opacity: 0;
-    transform: scale(0.95);
-    z-index: 1;
-}
-
-.mainnav.active .nav-logo-active,
-.mainnav.always-active .nav-logo-active,
-.mainnav:hover .nav-logo-active {
-    opacity: 1;
-    transform: scale(1.05);
-    z-index: 2;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-    .nav-logo-default,
-    .nav-logo-active {
-        height: 25px;
-        max-width: 120px;
-    }
-    
-    .topbar-logo a {
-        width: 120px;
-        height: 25px;
-    }
-}
-
-@media (max-width: 480px) {
-    .nav-logo-default,
-    .nav-logo-active {
-        height: 22px;
-        max-width: 100px;
-    }
-    
-    .topbar-logo a {
-        width: 100px;
-        height: 22px;
-    }
-}
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}
-		/* Preloader Styles */
-		.preloader {
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			background: #000;
-			z-index: 9999;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-		}
-		
-		.preloader-inner {
-			width: 100%;
-			height: 100%;
-		}
-		
-		body.loading {
-			overflow: hidden;
-		}</style>						</ul>
+											<li><a href="/fr/services/web-design-and-branding-for-real-estate/">Solutions Web Immobilières</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Services de Design et Création ›</a>
+										<ul class="sub-menu">
+											<li><a href="/fr/services/ui-ux-design/">Design UI/UX</a></li>
+											<li><a href="/fr/services/branding/">Identité de Marque et Stratégie</a></li>
+											<li><a href="/fr/services/graphic-design/">Design Graphique</a></li> <li><a href="/fr/services/logo-design/">Création de Logo</a></li>
+											<li><a href="/fr/services/trade-show-booth-design/">Conception de Stands d'Exposition</a></li>
+											<li><a href="/fr/services/conference-branding/">Image de Marque de Conférence</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Solutions Marketing et Digitales ›</a>
+										<ul class="sub-menu">
+											<li><a href="/fr/services/digital-marketing/">Stratégie de Marketing Digital</a></li>
+											<li><a href="/fr/services/search-engine-optimization/">Optimisation pour les Moteurs de Recherche (SEO)</a></li>
+											<li><a href="/fr/services/pay-per-click/">Publicité au Coût par Clic (PPC)</a></li>
+											<li><a href="/fr/services/social-media-marketing/">Marketing sur les Réseaux Sociaux</a></li> <li><a href="/fr/services/paid-ads/">Publicité Payante</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Solutions IA et Technologie ›</a>
+										<ul class="sub-menu">
+											<li><a href="/fr/services/ai-chatbots-and-virtual-assistants/">Chatbots IA et Assistants Virtuels</a></li>
+											<li><a href="/fr/services/workflow-and-business-automation/">Automatisation des Processus et des Affaires</a></li>
+											<li><a href="/fr/services/ai-automation/">AI Automatisation</a></li>
+											<li><a href="/fr/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/fr/services/n8n-automation/">n8n Automatisation</a></li>
+											<li><a href="/fr/services/crm-automation/">CRM Automatisation</a></li>
+										</ul>
+									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/fr/ai-solutions/">AI Solutions</a>
+							</li>
+						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2305,7 +2091,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/lumea/Untitled-1.webp" alt="Lumea - Smart Bien-être & Light Therapy Application Mobile" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/Untitled-1.webp" alt="Lumea - Smart Bien-être & Light Therapy Application Mobile" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/fr/work/lumea/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="02">
@@ -2395,7 +2181,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/quarena/Untitled-4.webp" alt="Quarena - Advanced Trading Platform UI/UX & Développement d'Applications" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/Untitled-4.webp" alt="Quarena - Advanced Trading Platform UI/UX & Développement d'Applications" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/fr/work/quarena/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="07">
@@ -2413,7 +2199,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 													<div>
 								<div class="preview">									
 									<div class="preview-media">										
-										<img src="../../work/ansu/thumbnail.webp" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.com/images/thumbnail.webp" alt="Ansu - Advanced Neural Interface & Brain-Computer Technology Platform" loading="lazy" decoding="async" />
 										<div class="preview-action"><a href="/fr/work/ansu/" class="not-index">Voir le projet</a></div>										
 									</div>									
 									<div class="preview-content" data-index="08">
@@ -2446,30 +2232,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Questions Frequentes</h2>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Questions Fréquemment Posées</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Que fait Aenfinite ?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What kind of projects has Aenfinite worked on?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite est une agence d'innovation digitale full-service proposant la conception et le developpement web, le branding, l'UI/UX, le SEO, le marketing digital, le developpement d'applications et de logiciels, l'e-commerce et l'automatisation par IA.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our portfolio spans web design, branding, mobile apps, e-commerce, and marketing across industries like tech, healthcare, real estate, and retail.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Avec qui Aenfinite travaille-t-elle ?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can I see results or case studies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Nous accompagnons des startups, des PME et des grandes entreprises de nombreux secteurs, avec des clients aux Etats-Unis, au Canada et dans le monde entier.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Each project shows the challenge, our approach, and the outcome, so explore the work to see real examples of our impact.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Comment obtenir un devis ?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you deliver similar results for my business?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Reservez une consultation gratuite ou contactez-nous en decrivant vos objectifs, et nous vous enverrons une proposition personnalisee et transparente.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Every project is custom, but the same strategy-led process drives our results. Book a call and we will show how we would approach your goals.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Quand pouvez-vous commencer ?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I start a project with Aenfinite?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Nous pouvons generalement demarrer sous quelques semaines. Contactez-nous et nous confirmerons les disponibilites et les delais de votre projet.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Reach out through our contact page or schedule a meeting, and we will scope your project and provide a clear proposal.</div>
       </div>
     </details>
   </div>
@@ -2499,6 +2285,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/fr/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/fr/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2559,7 +2347,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/fr/" style="font-weight:bold;">Anglais</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -3045,7 +2833,7 @@ document.addEventListener('keydown', function(event) {
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="/js/button-highlights.js"></script>
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/fr/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

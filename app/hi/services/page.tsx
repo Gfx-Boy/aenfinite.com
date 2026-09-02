@@ -1,10 +1,10 @@
-﻿// Language: Hindi (hi)
+// Language: Hindi (hi)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional वेब डिज़ाइन & डिजिटल मार्केटिंग सेवाएं | लोगो डिज़ाइन & ब्रांडिंग",
+  title: "Digital सेवाएं | AI Solutions, सॉफ्टवेयर डेवलपमेंट, वेब डिज़ाइन, SEO & Marketing",
   description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, SEO सेवाएं, ऐप डेवलपमेंट, कस्टम वेब डेवलपमेंट, graphic design, social media marketing, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/services/", languages: {"x-default":"https://aenfinite.com/services/","en":"https://aenfinite.com/services/","es":"https://aenfinite.com/es/services/","fr":"https://aenfinite.com/fr/services/","de":"https://aenfinite.com/de/services/","it":"https://aenfinite.com/it/services/","ar":"https://aenfinite.com/ar/services/","pt":"https://aenfinite.com/pt/services/","zh":"https://aenfinite.com/zh/services/","hi":"https://aenfinite.com/hi/services/","nl":"https://aenfinite.com/nl/services/","ja":"https://aenfinite.com/ja/services/","ko":"https://aenfinite.com/ko/services/"} },
@@ -411,7 +411,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 	
     `;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -646,7 +646,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/hi/agency/">एजेंसी</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/industries/">Industries</a>
+							</li>
+<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/hi/services/">सेवाएं</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
@@ -661,6 +664,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
 											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
 									</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/ai-solutions/">AI Solutions</a>
+							</li>
+
 									<li class="menu-item menu-item-has-children">
 										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
 										<ul class="sub-menu">
@@ -689,6 +696,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<ul class="sub-menu">
 											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
 											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
+<li><a href="/hi/services/ai-automation/">AI ऑटोमेशन</a></li>
+<li><a href="/hi/services/ai-voice-agents/">AI Voice Agents</a></li>
+<li><a href="/hi/services/n8n-automation/">n8n ऑटोमेशन</a></li>
+<li><a href="/hi/services/crm-automation/">CRM ऑटोमेशन</a></li>
 										</ul>
 									</li>
 						</ul>
@@ -1491,27 +1502,27 @@ from our clients</div>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>अक्सर पूछे जाने वाले प्रश्न</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite क्या करता है?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What services does Aenfinite offer?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite एक फुल-सर्विस डिजिटल इनोवेशन एजेंसी है जो वेब डिज़ाइन और डेवलपमेंट, ब्रांडिंग, UI/UX, SEO, डिजिटल मार्केटिंग, ऐप और सॉफ़्टवेयर डेवलपमेंट, ई-कॉमर्स और AI ऑटोमेशन प्रदान करती है।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is a full-service डिजिटल एजेंसी offering web design and development, branding, UI/UX, SEO, digital marketing, app and software development, e-commerce, and AI automation.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite किसके साथ काम करता है?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can I combine multiple services into one project?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम कई उद्योगों के स्टार्टअप, छोटे व्यवसायों और बड़े उद्यमों के साथ काम करते हैं और अमेरिका, कनाडा तथा दुनिया भर के ग्राहकों की सेवा करते हैं।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Many clients bundle design, development, and marketing so everything works together. We tailor a package to your goals.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>मुझे कोटेशन कैसे मिलेगा?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you work with businesses outside your city?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>एक मुफ़्त परामर्श बुक करें या अपने लक्ष्यों के साथ हमसे संपर्क करें, और हम आपको एक अनुकूलित, पारदर्शी प्रस्ताव देंगे।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Absolutely. Aenfinite serves clients across the US, Canada, and worldwide, working remotely with teams everywhere.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>आप कब शुरू कर सकते हैं?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get started?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम आमतौर पर कुछ ही हफ़्तों में शुरू कर सकते हैं। हमसे संपर्क करें और हम आपके प्रोजेक्ट की उपलब्धता और समयसीमा की पुष्टि करेंगे।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation and we will recommend the right services and a clear plan for your budget and timeline.</div>
       </div>
     </details>
   </div>
@@ -1522,7 +1533,7 @@ from our clients</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>दिमाग में कोई प्रोजेक्ट है? आइए साथ मिलकर कुछ शानदार बनाएं।</span>
 								<a href="/hi/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1540,6 +1551,8 @@ from our clients</div>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-482"><a href="" aria-current="page">सेवाएं</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">ब्लॉग</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/hi/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1599,7 +1612,7 @@ from our clients</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/hi/" style="font-weight:bold;">अंग्रेज़ी</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 						</div>
 
 					</div>
@@ -2083,7 +2096,7 @@ document.addEventListener('keydown', function(event) {
 	<script src="/js/button-highlights.js"></script>
 
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/hi/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

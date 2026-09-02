@@ -2,145 +2,146 @@
 // Auto-generated from English source - do not edit directly
 import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
+import chrome from '@/lib/city-chrome.json';
 
 export const metadata: Metadata = {
-  title: "Webデザイン & デジタルマーケティング ブログ | Expert Tips & Insights",
-  description: "Expert insights on web design, logo design, digital marketing, and branding. Get the latest tips, trends, and strategies to grow your business online.",
-  keywords: "web design blog, digital marketing blog, branding tips, SEO insights, design trends, marketing strategies, Aenfinite blog",
-  openGraph: {"title":"Webデザイン & デジタルマーケティング ブログ | Expert Tips & Insights | Aenfinite®","description":"Expert insights on web design, logo design, digital marketing, and branding. Get the latest tips, trends, and strategies to grow your business online.","url":"https://aenfinite.com/ja/blog/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Webデザイン & デジタルマーケティング ブログ | Aenfinite®","description":"Expert insights on web design, logo design, digital marketing, and branding.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  title: 'Webデザイン, AI & Cost Guides ブログ | Aenfinite',
+  description: 'Practical cost guides, software architecture insights, AI automation breakdowns, and web development strategies from the senior engineering team at Aenfinite.',
+  keywords: 'web design cost, AI chatbot cost, website cost small business, カスタムWeb開発 guide, AI receptionist pricing, Denver Webデザインエージェンシー, Aenfinite blog',
+  alternates: { canonical: "https://aenfinite.com/ja/blog/", languages: {"x-default":"https://aenfinite.com/blog/","en":"https://aenfinite.com/blog/","es":"https://aenfinite.com/es/blog/","fr":"https://aenfinite.com/fr/blog/","de":"https://aenfinite.com/de/blog/","it":"https://aenfinite.com/it/blog/","ar":"https://aenfinite.com/ar/blog/","pt":"https://aenfinite.com/pt/blog/","zh":"https://aenfinite.com/zh/blog/","hi":"https://aenfinite.com/hi/blog/","nl":"https://aenfinite.com/nl/blog/","ja":"https://aenfinite.com/ja/blog/","ko":"https://aenfinite.com/ko/blog/"} },
+  openGraph: {
+    title: 'Webデザイン, AI & Cost Guides ブログ | Aenfinite',
+    description: 'Explore comprehensive cost breakdowns, AI automation guides, and web engineering best practices.',
+    url: 'https://aenfinite.com/blog/',
+    siteName: 'Aenfinite',
+    type: 'website',
+    images: [{ url: 'https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Webデザイン, AI & Cost Guides ブログ | Aenfinite',
+    description: 'Practical guides and cost breakdowns for businesses investing in modern web and AI solutions.',
+    images: ['https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg'],
+  },
   robots: { index: true, follow: true },
 };
 
-const bodyClass = ``;
+function buildBlogBody(): string {
+  const S = `style="max-width:1100px;margin:0 auto;padding:40px 24px;font-family:inherit;"`;
+  const H2 = `style="font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:0 0 16px;line-height:1.25;"`;
+  const P = `style="line-height:1.8;font-size:17px;opacity:0.9;margin:0 0 20px;"`;
 
-const headStyles = `
-        /* ブログ styling would go here */
-        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
-        .blog-header { text-align: center; margin-bottom: 40px; }
-        .blog-posts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
-        .blog-post { border: 1px solid #ddd; padding: 20px; border-radius: 8px; }
-        .blog-post h2 { color: #227bf3; }
-        .blog-post .meta { color: #666; font-size: 0.9em; margin-bottom: 15px; }
-    `;
+  return `
+<div class="header" style="min-height:40vh;display:flex;align-items:center;padding:130px 24px 45px;">
+  <div style="max-width:1100px;margin:0 auto;width:100%;">
+    <div class="title title__default"><h1 style="font-size:clamp(32px,5.5vw,56px);line-height:1.15;margin:0 0 18px;">Engineering &amp; Strategy Insights</h1></div>
+    <p style="font-size:clamp(18px,2.4vw,22px);line-height:1.6;opacity:0.88;max-width:840px;">Transparent cost breakdowns, AI automation architectures, and conversion-focused design strategies from our Denver engineering team.</p>
+  </div>
+</div>
 
-const pageContent = `<script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-K9VRBCFE61');
-    </script>
+<section ${S}>
+  <div style="margin-bottom:32px;">
+    <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:6px 14px;border-radius:20px;font-size:13px;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;">Featured Cost Guides</span>
+    <h2 ${H2} style="margin-top:10px;">The Truth 会社概要 Software &amp; Web Pricing</h2>
+    <p ${P}>We publish un-gated, real-world pricing guides so business leaders can make informed investment decisions without sales gimmicks.</p>
+  </div>
 
-    <div class="blog-header">
-        <h1>Webデザイン & デジタルマーケティング Insights</h1>
-        <p>Expert tips, trends, and strategies to grow your business online</p>
-    </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:24px;">
     
-    <div class="blog-posts">
-        <!-- ブログ posts would be dynamically loaded here -->
-        <article class="blog-post">
-            <h2><a href="/ja/blog/">10 Webデザイン Trends That Will Dominate 2025</a></h2>
-            <div class="meta">Published: January 15, 2025 | Category: Webデザイン</div>
-            <p>Discover the latest web design trends that will shape user experience and drive conversions in 2025...</p>
-            <a href="/ja/blog/">続きを読む →</a>
-        </article>
-        
-        <article class="blog-post">
-            <h2><a href="/ja/blog/">The Psychology Behind Effective ロゴデザイン</a></h2>
-            <div class="meta">Published: January 10, 2025 | Category: ロゴデザイン</div>
-            <p>Learn how color, shape, and typography in logo design influence customer perception and brand success...</p>
-            <a href="/ja/blog/">続きを読む →</a>
-        </article>
-        
-        <article class="blog-post">
-            <h2><a href="/ja/blog/">Local SEO Strategies for Denver Businesses</a></h2>
-            <div class="meta">Published: January 5, 2025 | Category: SEO</div>
-            <p>Dominate your local market with these proven SEO strategies specifically designed for Denver businesses...</p>
-            <a href="/ja/blog/">続きを読む →</a>
-        </article>
-    </div>
+    <article style="border:1px solid rgba(128,128,128,0.22);border-radius:14px;padding:28px;background:rgba(255,255,255,0.03);display:flex;flex-direction:column;justify-content:space-between;">
+      <div>
+        <div style="font-size:13px;color:#227bf3;font-weight:600;margin-bottom:8px;">AI &amp; AUTOMATION COST GUIDE</div>
+        <h3 style="font-size:22px;font-weight:700;margin:0 0 12px;line-height:1.35;">
+          <a href="https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/" style="color:inherit;text-decoration:none;">How Much Does an AI Chatbot Cost in 2026?</a>
+        </h3>
+        <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0 0 16px;">A comprehensive breakdown of DIY SaaS vs. custom built AI agents, voice receptionists, vector database integrations, and monthly API hosting costs.</p>
+      </div>
+      <div>
+        <a href="https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/" style="font-weight:600;font-size:15px;color:#227bf3;text-decoration:none;">Read Pricing Breakdown &rsaquo;</a>
+      </div>
+    </article>
 
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+    <article style="border:1px solid rgba(128,128,128,0.22);border-radius:14px;padding:28px;background:rgba(255,255,255,0.03);display:flex;flex-direction:column;justify-content:space-between;">
+      <div>
+        <div style="font-size:13px;color:#227bf3;font-weight:600;margin-bottom:8px;">SMALL BUSINESS WEB PRICING</div>
+        <h3 style="font-size:22px;font-weight:700;margin:0 0 12px;line-height:1.35;">
+          <a href="https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/" style="color:inherit;text-decoration:none;">How Much Does a Website Cost for a Small Business?</a>
+        </h3>
+        <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0 0 16px;">What you actually get at $3k, $10k, and $25k. We break down design, copywriting, custom development, SEO architecture, and ongoing hosting.</p>
+      </div>
+      <div>
+        <a href="https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/" style="font-weight:600;font-size:15px;color:#227bf3;text-decoration:none;">Read Cost Analysis &rsaquo;</a>
+      </div>
+    </article>
 
-<!-- AEN-FAQ START -->
-<section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>よくある質問</h2>
-  <div itemscope itemtype='https://schema.org/FAQPage'>
-    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite は何をしていますか？</summary>
-      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite はフルサービスのデジタルイノベーション エージェンシーで、Web デザイン・開発、ブランディング、UI/UX、SEO、デジタルマーケティング、アプリ・ソフトウェア開発、Eコマース、AI 自動化を提供します。</div>
+    <article style="border:1px solid rgba(128,128,128,0.22);border-radius:14px;padding:28px;background:rgba(255,255,255,0.03);display:flex;flex-direction:column;justify-content:space-between;">
+      <div>
+        <div style="font-size:13px;color:#227bf3;font-weight:600;margin-bottom:8px;">AGENCY COMPARISON &amp; REVIEW</div>
+        <h3 style="font-size:22px;font-weight:700;margin:0 0 12px;line-height:1.35;">
+          <a href="https://blog.aenfinite.com/best-web-design-agencies-denver/" style="color:inherit;text-decoration:none;">Best Webデザイン Agencies in Denver (2026 Guide)</a>
+        </h3>
+        <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0 0 16px;">An objective evaluation of top Denver web design shops, agency specialties, portfolio highlights, and typical project investment ranges.</p>
       </div>
-    </details>
-    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite はどのようなクライアントと取引していますか？</summary>
-      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>多様な業界のスタートアップ、中小企業、大企業と協業し、米国、カナダ、そして世界中のお客様にサービスを提供しています。</div>
+      <div>
+        <a href="https://blog.aenfinite.com/best-web-design-agencies-denver/" style="font-weight:600;font-size:15px;color:#227bf3;text-decoration:none;">Read エージェンシー Guide &rsaquo;</a>
       </div>
-    </details>
-    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>見積もりはどうすれば取得できますか？</summary>
-      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>無料相談をご予約いただくか、目標をお知らせください。お客様に合わせた透明性のあるご提案をいたします。</div>
-      </div>
-    </details>
-    <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>いつ開始できますか？</summary>
-      <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>通常、数週間以内に開始できます。お問い合わせいただければ、プロジェクトの空き状況とスケジュールを確認いたします。</div>
-      </div>
-    </details>
+    </article>
+
   </div>
 </section>
-<!-- AEN-FAQ END -->
-`;
 
-export default function Page() {
+<section ${S}>
+  <div style="background:linear-gradient(135deg,rgba(34,123,243,0.08) 0%,rgba(34,123,243,0.02) 100%);border:1px solid rgba(34,123,243,0.2);border-radius:16px;padding:36px;">
+    <h2 ${H2}>Explore Our Core Solutions</h2>
+    <div style="display:flex;flex-wrap:wrap;gap:14px;margin-top:18px;">
+      <a href="/ja/industries/" style="padding:12px 22px;background:#227bf3;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">Webデザイン by Industry &rsaquo;</a>
+      <a href="/ja/ai-solutions/" style="padding:12px 22px;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.25);border-radius:8px;text-decoration:none;color:inherit;font-weight:600;">AI Solutions &amp; Voice Receptionists &rsaquo;</a>
+      <a href="/ja/white-label/" style="padding:12px 22px;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.25);border-radius:8px;text-decoration:none;color:inherit;font-weight:600;">White-Label エージェンシー サービス &rsaquo;</a>
+      <a href="/ja/locations/" style="padding:12px 22px;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.25);border-radius:8px;text-decoration:none;color:inherit;font-weight:600;">US Locations &rsaquo;</a>
+    </div>
+  </div>
+</section>
+
+<section ${S} style="text-align:center;padding:30px 24px 60px;">
+  <div style="background:rgba(255,255,255,0.02);border:1px solid rgba(128,128,128,0.2);border-radius:16px;padding:40px 24px;">
+    <h2 style="font-size:28px;font-weight:700;margin:0 0 14px;">Looking for a custom project quote?</h2>
+    <p style="font-size:17px;opacity:0.85;max-width:600px;margin:0 auto 24px;">Speak directly with our senior team in Denver. We'll provide a fixed quote and technical blueprint for your website or AI system.</p>
+    <a href="/ja/contact/" class="button" style="display:inline-block;background:#227bf3;color:#fff;padding:14px 32px;border-radius:8px;font-weight:600;text-decoration:none;">Book Your 無料相談 &rsaquo;</a>
+  </div>
+</section>
+`;
+}
+
+export default function BlogHubPage() {
+  const pageContent = chrome.nav + buildBlogBody() + chrome.footer;
+  const bodyClass = 'page-template page-template-page-service-php page-child document';
+  const url = 'https://aenfinite.com/blog/';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'ブログ',
+        '@id': `${url}#blog`,
+        name: 'Aenfinite Web Engineering & AI Insights',
+        description: 'Transparent cost guides, AI automation architecture, and web development strategies from the senior engineering team at Aenfinite.',
+        publisher: { '@id': 'https://aenfinite.com/#organization' },
+        url,
+      },
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://aenfinite.com/' },
+          { '@type': 'ListItem', position: 2, name: 'ブログ & Cost Guides', item: url },
+        ],
+      },
+    ],
+  };
+
   return (
     <>
-        <script
-          key="schema-0"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-        "@context": "https://schema.org",
-        "@type": "ブログ",
-        "name": "Aenfinite® ブログ",
-        "description": "Expert insights on web design, logo design, digital marketing, and branding",
-        "url": "https://aenfinite.com/blog/",
-        "publisher": {
-            "@type": "Organization",
-            "name": "Aenfinite®",
-            "logo": "https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"
-        },
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://aenfinite.com/blog/"
-        }
-    }` }}
-        />
-        <script
-          key="schema-1"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: `{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://aenfinite.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Webデザイン & デジタルマーケティング ブログ",
-      "item": "https://aenfinite.com/blog/"
-    }
-  ]
-}` }}
-        />
-      <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={chrome.styles} />
     </>
   );
 }

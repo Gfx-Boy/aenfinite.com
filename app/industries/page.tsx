@@ -63,7 +63,7 @@ function buildHubContent(): string {
     ${INDUSTRIES.map(ind => `
       <div style="border:1px solid rgba(128,128,128,0.22);border-radius:14px;padding:28px;background:rgba(255,255,255,0.03);display:flex;flex-direction:column;justify-content:space-between;transition:transform 0.2s, border-color 0.2s;">
         <div>
-          <div style="font-size:36px;margin-bottom:12px;">${ind.icon}</div>
+          <div style="width:54px;height:54px;background:rgba(34,123,243,0.08);border:1px solid rgba(34,123,243,0.2);border-radius:12px;display:flex;align-items:center;justify-content:center;margin-bottom:16px;">${ind.icon}</div>
           <h3 style="font-size:22px;font-weight:700;margin:0 0 12px;line-height:1.3;">
             <a href="/industries/${ind.slug}/" style="color:inherit;text-decoration:none;">${ind.name}</a>
           </h3>

@@ -40,10 +40,26 @@ export async function generateMetadata(
   if (!sol) return {};
 
   const url = `https://aenfinite.com/ai-solutions/${solution}/`;
+  const enUrl = `https://aenfinite.com/ai-solutions/${solution}/`;
+  const languages: Record<string, string> = {
+    'x-default': enUrl,
+    'en': enUrl,
+    'es': `https://aenfinite.com/es/ai-solutions/${solution}/`,
+    'fr': `https://aenfinite.com/fr/ai-solutions/${solution}/`,
+    'de': `https://aenfinite.com/de/ai-solutions/${solution}/`,
+    'it': `https://aenfinite.com/it/ai-solutions/${solution}/`,
+    'ar': `https://aenfinite.com/ar/ai-solutions/${solution}/`,
+    'pt': `https://aenfinite.com/pt/ai-solutions/${solution}/`,
+    'zh': `https://aenfinite.com/zh/ai-solutions/${solution}/`,
+    'hi': `https://aenfinite.com/hi/ai-solutions/${solution}/`,
+    'nl': `https://aenfinite.com/nl/ai-solutions/${solution}/`,
+    'ja': `https://aenfinite.com/ja/ai-solutions/${solution}/`,
+    'ko': `https://aenfinite.com/ko/ai-solutions/${solution}/`,
+  };
   return {
     title: sol.title,
     description: sol.metaDesc,
-    alternates: { canonical: url },
+    alternates: { canonical: url, languages },
     openGraph: {
       title: sol.title,
       description: sol.metaDesc,
@@ -70,7 +86,7 @@ function buildSolutionBody(sol: AISolutionRec): string {
   return `
 <div class="header" style="min-height:40vh;display:flex;align-items:center;padding:120px 24px 45px;">
   <div style="max-width:1050px;margin:0 auto;width:100%;">
-    <div style="font-size:42px;margin-bottom:12px;">${sol.icon}</div>
+    <div style="font-size:36px;width:64px;height:64px;background:rgba(34,123,243,0.1);border:1px solid rgba(34,123,243,0.2);border-radius:14px;display:flex;align-items:center;justify-content:center;margin-bottom:18px;">${sol.icon}</div>
     <div class="title title__default"><h1 style="font-size:clamp(30px,5vw,52px);line-height:1.15;margin:0 0 18px;">${sol.heroHeading}</h1></div>
     <p style="font-size:clamp(17px,2.2vw,21px);line-height:1.6;opacity:0.88;max-width:840px;">${sol.heroSub}</p>
     <p style="margin-top:24px;">

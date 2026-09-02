@@ -1,10 +1,10 @@
-﻿// Language: Dutch (nl)
+// Language: Dutch (nl)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Top Design & Merkontwerp Bureau in Denver | Web, App & Verpakkingsontwerp",
+  title: "Top Digital Bureau in Denver | AI, Softwareontwikkeling, Marketing & Design",
   description: "Aenfinite is a full-service digitaal bureau in Denver specializing in website design, branding, packaging, UI/UX, and app-ontwikkeling. Since 2017, we've helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Denver, merkontwerp bureau, webdesign bureau, app-ontwikkeling agency, packaging design agency, digitaal bureau, Aenfinite about",
   alternates: { canonical: "https://aenfinite.com/nl/agency/", languages: {"x-default":"https://aenfinite.com/agency/","en":"https://aenfinite.com/agency/","es":"https://aenfinite.com/es/agency/","fr":"https://aenfinite.com/fr/agency/","de":"https://aenfinite.com/de/agency/","it":"https://aenfinite.com/it/agency/","ar":"https://aenfinite.com/ar/agency/","pt":"https://aenfinite.com/pt/agency/","zh":"https://aenfinite.com/zh/agency/","hi":"https://aenfinite.com/hi/agency/","nl":"https://aenfinite.com/nl/agency/","ja":"https://aenfinite.com/ja/agency/","ko":"https://aenfinite.com/ko/agency/"} },
@@ -703,7 +703,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -712,7 +712,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			  </filter>
 			</defs>
 		</svg>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 		<defs>
 		  <filter id="goo">
 			<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1388,172 +1388,65 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/nl/work/">Portfolio</a>
+								<a href="/nl/featured-work/">Portfolio</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/nl/agency/">Bureau</a>
 							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/nl/services/">Diensten</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ontwikkelingsoplossingen</a>
-                                        <ul class="sub-menu">
-                                            
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/nl/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/nl/services/">Diensten</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Ontwikkelingsoplossingen ›</a>
+										<ul class="sub-menu">
 											<li><a href="/nl/services/wordpress-websites/">WordPress Websites</a></li>
-<li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
+											<li><a href="/nl/services/e-commerce-websites/">E-Commerce Websites</a></li>
 											<li><a href="/nl/services/custom-web-development/">Op Maat Gemaakte Webontwikkeling</a></li>
 											<li><a href="/nl/services/software-and-platform-development/">Software- & Platformontwikkeling</a></li>
 											<li><a href="/nl/services/app-development/">App-ontwikkeling</a></li>
 											<li><a href="/nl/services/web-design/">Webdesign & Ontwikkeling</a></li>
-											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>                                      </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Ontwerp- & Creatieve Diensten </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></li>
-
-                                            <li><a href="/nl/services/branding/">Merkidentiteit & Strategie</a></li>
-                                            <li><a href="/nl/services/graphic-design/">Grafisch Ontwerp</a></li> <li><a href="/nl/services/logo-design/">Logo-ontwerp</a></li>
-                                            
-                                            <li><a href="/nl/services/trade-show-booth-design/">Beursstandontwerp</a></li>
-                                            <li><a href="/nl/services/conference-branding/">Conferentie Merkontwerp</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- & Digitale Oplossingen </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
-                                            <li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
-                                            <li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
-                                            <li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li> <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
-                                            
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI- & Technologische Oplossingen </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
-                                            <li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Word Partner Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Diensten menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
+											<li><a href="/nl/services/web-design-and-branding-for-real-estate/">Weboplossingen voor Vastgoed</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Ontwerp- & Creatieve Diensten ›</a>
+										<ul class="sub-menu">
+											<li><a href="/nl/services/ui-ux-design/">UI/UX-ontwerp</a></li>
+											<li><a href="/nl/services/branding/">Merkidentiteit & Strategie</a></li>
+											<li><a href="/nl/services/graphic-design/">Grafisch Ontwerp</a></li> <li><a href="/nl/services/logo-design/">Logo-ontwerp</a></li>
+											<li><a href="/nl/services/trade-show-booth-design/">Beursstandontwerp</a></li>
+											<li><a href="/nl/services/conference-branding/">Conferentie Merkontwerp</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Marketing- & Digitale Oplossingen ›</a>
+										<ul class="sub-menu">
+											<li><a href="/nl/services/digital-marketing/">Digitale Marketingstrategie</a></li>
+											<li><a href="/nl/services/search-engine-optimization/">Zoekmachineoptimalisatie (SEO)</a></li>
+											<li><a href="/nl/services/pay-per-click/">Pay-Per-Click (PPC) Adverteren</a></li>
+											<li><a href="/nl/services/social-media-marketing/">Socialmediamarketing</a></li> <li><a href="/nl/services/paid-ads/">Betaald Adverteren</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">AI- & Technologische Oplossingen ›</a>
+										<ul class="sub-menu">
+											<li><a href="/nl/services/ai-chatbots-and-virtual-assistants/">AI-chatbots & Virtuele Assistenten</a></li>
+											<li><a href="/nl/services/workflow-and-business-automation/">Workflow- & Bedrijfsautomatisering</a></li>
+											<li><a href="/nl/services/ai-automation/">AI Automatisering</a></li>
+											<li><a href="/nl/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/nl/services/n8n-automation/">n8n Automatisering</a></li>
+											<li><a href="/nl/services/crm-automation/">CRM Automatisering</a></li>
+										</ul>
+									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/nl/ai-solutions/">AI Solutions</a>
+							</li>
+						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2396,27 +2289,27 @@ Our white-label services enable agencies and consultants to expand their offerin
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Veelgestelde Vragen</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wat doet Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What makes Aenfinite different from other agencies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is een full-service digitaal innovatiebureau dat webdesign en -ontwikkeling, branding, UI/UX, SEO, digitale marketing, app- en softwareontwikkeling, e-commerce en AI-automatisering biedt.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite combines strategy, design, technology, and marketing under one roof, delivering measurable results with transparent communication and senior talent on every project.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Met wie werkt Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you offer white-label and partnership programs?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We werken met startups, mkb en grote ondernemingen in veel sectoren en bedienen klanten in de VS, Canada en wereldwijd.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. We partner with agencies and freelancers through white-label services and referral programs, detailed on our partner pages.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Hoe vraag ik een offerte aan?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Where is Aenfinite located and who do you serve?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Plan een gratis consult of neem contact met ons op met uw doelen, dan sturen we een op maat gemaakte, transparante offerte.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is a global digitaal bureau serving clients across the US, Canada, and worldwide.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Hoe snel kunnen jullie starten?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I work with Aenfinite?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Meestal kunnen we binnen een paar weken beginnen. Neem contact op en we bevestigen de beschikbaarheid en planning van uw project.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Start with a free consultation. We will align on goals, scope, and a clear roadmap before any work begins.</div>
       </div>
     </details>
   </div>
@@ -2445,6 +2338,8 @@ Our white-label services enable agencies and consultants to expand their offerin
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/nl/services/">Diensten</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/nl/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/nl/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2505,7 +2400,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/nl/" style="font-weight:bold;">Engels</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 						</div>
 
 					</div>
@@ -2525,7 +2420,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
 						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
-						<link rel="canonical" href="/services/branding/" />
+						<link rel="canonical" href="/nl/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/nl/featured-work/">Portfolio</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">Bureau</a></li>
@@ -3125,7 +3020,7 @@ document.addEventListener('keydown', function(event) {
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/nl/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

@@ -753,9 +753,8 @@ for (const [langCode, langConfig] of Object.entries(LANGUAGES)) {
 // All supported language codes (including English)
 const ALL_LANG_CODES = ['en', ...Object.keys(LANGUAGES)];
 
-// Auto-discover all pages from app/ directory
-// Excludes: language folders, city templates, API routes, components
-const EXCLUDED_DIRS = new Set(['api', 'components', 'city', 'cities', ...Object.keys(LANGUAGES)]);
+// Excludes: language folders, city templates, API routes, components, locations
+const EXCLUDED_DIRS = new Set(['api', 'components', 'city', 'cities', 'locations', ...Object.keys(LANGUAGES)]);
 
 function discoverPages(dir, prefix = '') {
   const pages = [];
@@ -861,6 +860,16 @@ function translateContent(content, lang) {
 function transformMetadata(content, lang, pagePath) {
   let result = content;
   const cfg = LANGUAGES[lang];
+
+  // If dynamic route (contains brackets like [comparison], [tool], etc.)
+  if (pagePath && pagePath.includes('[')) {
+    // In dynamic routes, replace the base URL inside generateMetadata so canonical & openGraph url resolve to the language path
+    result = result.replace(
+      /const url = `https:\/\/aenfinite\.com\/([^`]+)`;/,
+      `const url = \`https://aenfinite.com/${lang}/$1\`;`
+    );
+    return result;
+  }
 
   // Update canonical URL to language version
   const langPrefix = `https://aenfinite.com/${lang}/`;
@@ -1273,44 +1282,8 @@ function generateLanguage(langCode) {
 // ============================================================================
 
 function injectHreflangTags() {
-  console.log(`\n${'='.repeat(60)}`);
-  console.log(`  Injecting hreflang tags into layout.tsx`);
-  console.log(`${'='.repeat(60)}`);
-
-  const layoutPath = path.join(APP_DIR, 'layout.tsx');
-  let layout = fs.readFileSync(layoutPath, 'utf8');
-
-  // Remove any existing hreflang block
-  layout = layout.replace(/\n\s*{\/\* HREFLANG TAGS[\s\S]*?END HREFLANG \*\/}/g, '');
-
-  // Build hreflang tags for homepage (layout-level = applies to all pages)
-  // Individual page hreflang is better done per-page, but layout-level
-  // provides the base signal
-  const hreflangBlock = `
-        {/* HREFLANG TAGS - Global language alternates */}
-        <link rel="alternate" hrefLang="x-default" href="https://aenfinite.com/" />
-        <link rel="alternate" hrefLang="en" href="https://aenfinite.com/" />
-${Object.keys(LANGUAGES).map(code => 
-  `        <link rel="alternate" hrefLang="${code}" href="https://aenfinite.com/${code}/" />`
-).join('\n')}
-        {/* END HREFLANG */}`;
-
-  // Inject after the font preconnect block
-  if (layout.includes('{/* DNS prefetch')) {
-    layout = layout.replace(
-      /({\/\* DNS prefetch[^}]*})/,
-      `$1\n${hreflangBlock}`
-    );
-  } else {
-    // Fallback: inject at end of <head>
-    layout = layout.replace(
-      '</head>',
-      `${hreflangBlock}\n      </head>`
-    );
-  }
-
-  fs.writeFileSync(layoutPath, layout);
-  console.log(`  ✓ hreflang tags injected (${Object.keys(LANGUAGES).length + 2} alternates)`);
+  // No-op: Per-page hreflang tags are declared via each page's metadata alternates.languages.
+  // Global layout-level homepage hreflangs cause conflicting alternates on subpages.
 }
 
 /**
@@ -1323,6 +1296,8 @@ function injectHreflangIntoEnglishPages() {
 
   let updated = 0;
   for (const pagePath of PAGES_TO_TRANSLATE) {
+    if (pagePath && pagePath.includes('[')) continue;
+
     const sourceFile = pagePath
       ? path.join(APP_DIR, pagePath, 'page.tsx')
       : path.join(APP_DIR, 'page.tsx');

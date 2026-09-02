@@ -1,19 +1,19 @@
-﻿// Language: Arabic (ar)
+// Language: Arabic (ar)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | وكالة ابتكار رقمي احترافية | تصميم المواقع والعلامة التجارية والتسويق الرقمي",
-  description: "وكالة ابتكار رقمي متخصصة في تصميم مواقع مخصص وهوية العلامة التجارية وتصميم UI/UX والتسويق الرقمي وتطوير التجارة الإلكترونية وحلول التحول الرقمي الشاملة. خدمة الشركات في جميع أنحاء الولايات المتحدة وكندا.",
-  keywords: "وكالة رقمية, وكالة تصميم مواقع, وكالة علامة تجارية, وكالة تسويق رقمي دنفر, تصميم UI UX, تطوير ويب مخصص, خدمات SEO, تطوير التطبيقات, تطوير التجارة الإلكترونية, التحول الرقمي, Aenfinite",
+  title: { absolute: "Aenfinite® — تصميم المواقع, AI الأتمتة & التطوير المخصص | Denver" },
+  description: "Denver web design, تطوير التطبيقات & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
+  keywords: "وكالة رقمية Denver, Denver web design, Denver software development, AI agency Denver, Colorado وكالة رقمية, وكالة رقمية, AI agency, AI automation services, software development agency, SEO agency, وكالة تصميم مواقع, وكالة علامة تجارية, وكالة تسويق رقمي دنفر, تصميم UI UX, تطوير ويب مخصص, خدمات SEO, تطوير التطبيقات, تطوير التجارة الإلكترونية, التحول الرقمي, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ar/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"Aenfinite® | وكالة ابتكار رقمي احترافية | تصميم المواقع والعلامة التجارية والتسويق الرقمي","description":"وكالة ابتكار رقمي متخصصة في تصميم مواقع مخصص وهوية العلامة التجارية وتصميم UI/UX والتسويق الرقمي وتطوير التجارة الإلكترونية وحلول التحول الرقمي الشاملة. خدمة الشركات في جميع أنحاء الولايات المتحدة وكندا.","url":"https://aenfinite.com/ar/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title":"Aenfinite® | Digital الابتكار الوكالة | AI, تطوير البرمجيات, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and تطوير التطبيقات, SEO & digital marketing, e-commerce, branding and UI/UX design. خدمة الشركات في جميع أنحاء الولايات المتحدة وكندا.","url":"https://aenfinite.com/ar/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Aenfinite® | وكالة ابتكار رقمي حائزة على جوائز","description":"حوّل عملك مع Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -839,7 +839,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1130,19 +1130,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/ar/agency/">الوكالة</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ar/industries/">Industries</a>
+							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/ar/services/">الخدمات</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">حلول التطوير ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/ar/services/wordpress-websites/">مواقع WordPress</a></li>
-<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
+											<li><a href="/ar/services/e-commerce-websites/">مواقع التجارة الإلكترونية</a></li>
 											<li><a href="/ar/services/custom-web-development/">تطوير الويب المخصص</a></li>
 											<li><a href="/ar/services/software-and-platform-development/">تطوير البرمجيات والمنصات</a></li>
 											<li><a href="/ar/services/app-development/">تطوير التطبيقات</a></li>
 											<li><a href="/ar/services/web-design/">تصميم وتطوير المواقع</a></li>
-											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>									</ul>
+											<li><a href="/ar/services/web-design-and-branding-for-real-estate/">حلول الويب العقارية</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">خدمات التصميم والإبداع ›</a>
@@ -1150,7 +1154,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/ar/services/ui-ux-design/">تصميم UI/UX</a></li>
 											<li><a href="/ar/services/branding/">هوية العلامة التجارية والاستراتيجية</a></li>
 											<li><a href="/ar/services/graphic-design/">التصميم الجرافيكي</a></li> <li><a href="/ar/services/logo-design/">تصميم الشعارات</a></li>
-											
 											<li><a href="/ar/services/trade-show-booth-design/">تصميم أجنحة المعارض التجارية</a></li>
 											<li><a href="/ar/services/conference-branding/">العلامة التجارية للمؤتمرات</a></li>
 										</ul>
@@ -1162,18 +1165,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/ar/services/search-engine-optimization/">تحسين محركات البحث (SEO)</a></li>
 											<li><a href="/ar/services/pay-per-click/">إعلانات الدفع لكل نقرة (PPC)</a></li>
 											<li><a href="/ar/services/social-media-marketing/">التسويق عبر وسائل التواصل الاجتماعي</a></li> <li><a href="/ar/services/paid-ads/">الإعلانات المدفوعة</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">حلول الذكاء الاصطناعي والتكنولوجيا ›</a>
 										<ul class="sub-menu">
 											<li><a href="/ar/services/ai-chatbots-and-virtual-assistants/">روبوتات الدردشة الذكية والمساعدون الافتراضيون</a></li>
 											<li><a href="/ar/services/workflow-and-business-automation/">أتمتة سير العمل والأعمال</a></li>
+											<li><a href="/ar/services/ai-automation/">AI الأتمتة</a></li>
+											<li><a href="/ar/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/ar/services/n8n-automation/">n8n الأتمتة</a></li>
+											<li><a href="/ar/services/crm-automation/">CRM الأتمتة</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ar/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1233,14 +1242,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		</div>
 	</div>
-
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
-
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">
@@ -1266,15 +1267,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">وكالة ابتكار رقمي احترافية</span>
-															<span class="marquee-line_text">تصميم مواقع مخصص وتطوير العلامة التجارية</span>
+															<span class="marquee-line_text">Custom Software & تطوير الويب</span>
 															<span class="marquee-line_text">خدمة أسواق الولايات المتحدة وكندا</span>
 															<span class="marquee-line_text">حلول UI/UX والتسويق الرقمي المتخصصة</span>
 															<span class="marquee-line_text">تقييمات عملاء 5 نجوم وتصنيف Clutch</span>
 															<span class="marquee-line_text">فريق خبير - Adobe، Figma، تطوير مخصص</span>
 															<span class="marquee-line_text">عملية تطوير وتصميم رشيقة</span>
 															<span class="marquee-line_text">وكالة رقمية مقرها دنفر</span>
-															<span class="marquee-line_text">خدمات ابتكار رقمي احترافية</span>
-															<span class="marquee-line_text">حلول مخصصة لكل عمل</span>
+															<span class="marquee-line_text">Web, Brand & تصميم UI/UX</span>
+															<span class="marquee-line_text">SEO, PPC & التسويق الرقمي</span>
 															<span class="marquee-line_text">تطوير التجارة الإلكترونية وتطبيقات الجوال</span>
 															<span class="marquee-line_text">متخصصون في SEO والتسويق الرقمي</span>
 													</div>
@@ -1453,7 +1454,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite® هي وكالة ابتكار رقمي احترافية تحوّل الأعمال من خلال حلول التصميم والتطوير والتسويق المتطورة. مقرها في دنفر وتخدم العملاء في جميع أنحاء الولايات المتحدة وكندا، يقدم فريقنا الخبير نتائج استثنائية في تصميم المواقع وهوية العلامة التجارية وتصميم UI/UX والتسويق الرقمي وتطوير التجارة الإلكترونية وخدمات التحول الرقمي الشاملة. نتشارك مع الشركات من الناشئة إلى الراسخة عبر قطاعات الرعاية الصحية والتكنولوجيا والعقارات وغيرها لإنشاء تجارب رقمية مؤثرة تدفع النمو والمشاركة.</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through AI-powered solutions, custom software development, growth marketing, and cutting-edge design. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across AI chatbots & automation, custom web & تطوير التطبيقات, SEO & digital marketing, e-commerce, software engineering, brand identity, and UI/UX design. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.<div class="ai-services-highlight" style="margin-top:28px; display:inline-flex; align-items:center; gap:12px; padding:12px 20px; border:1px solid rgba(255,255,255,0.25); border-radius:999px; font-size:14px; line-height:1.4;"><span style="font-weight:700; white-space:nowrap;">&#10024; NEW</span><span>We now offer <strong>AI services</strong> &mdash; AI chatbots, workflow automation &amp; custom AI integrations. <a href="/ar/services/ai-chatbots-and-virtual-assistants/" style="text-decoration:underline; font-weight:600;">Explore AI solutions &rarr;</a></span></div></div>
 									<div class="textbox-action">
 						<a href="/ar/work/" class="redlink">
 							<span>شاهد أعمالنا</span>
@@ -1521,8 +1522,8 @@ recommend a service from 1-10</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
-    <h3><b>حلول رقمية مبتكرة</b></h3>
-    <p>Aenfinite® تجمع بين الاستراتيجية والتصميم والتكنولوجيا لإنشاء تجارب رقمية سلسة. من العلامة التجارية وتصميم المواقع إلى التسويق والاستشارات، نقدم حلولاً مبنية على البيانات تغذي نمو الأعمال القابل للقياس.</p>
+    <h3><b>التطوير, Design & Marketing</b></h3>
+    <p>Aenfinite® unites three core strengths — development, design, and marketing — to build seamless digital experiences. From custom software, web and تطوير التطبيقات to branding, UI/UX design, SEO and digital marketing, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1975,7 +1976,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>أعمال وكالة Aenfinite® للتصميم</h2>
+						<h2>Aenfinite® الوكالة الأعمال</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2091,7 +2092,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="/work/" class="redlink">
+					<a href="/ar/work/" class="redlink">
 						<span>عرض جميع المشاريع</span>
 					</a>
 				</div>
@@ -2103,7 +2104,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>الأسئلة الشائعة لوكالة Aenfinite® للتصميم</h2>
+									<h2>Aenfinite® الوكالة FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2143,7 +2144,7 @@ recommend a service from 1-10</div>
                 <p>نتبع عملية واضحة وتعاونية تبقيك مشاركاً وتضمن الجودة في كل مرحلة:</p>
                 <p><b>1. الاكتشاف والتخطيط:</b> نتعرف على عملك وجمهورك وأهدافك لتحديد استراتيجية واضحة.</p>
                 <p><b>2. المفهوم والتوجيه:</b> يُعد فريقنا الإبداعي لوحات المزاج والمفاهيم واتجاهات التصميم المتوافقة مع رؤية علامتك التجارية.</p>
-                <p><b>3. التصميم والتطوير:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. التصميم والتطوير:</b> سواء كان الأمر يتعلق بالعلامة التجارية أو موقع ويب أو تغليف، نصمم ونكرر ونصقل حتى نحقق النتيجة المثالية.</p>
                 <p><b>4. التنفيذ:</b> فريق التطوير لدينا يجسد التصاميم، مقدماً منتجات رقمية عالية الأداء أو أصولاً جاهزة للطباعة.</p>
                 <p><b>5. الإطلاق والتحسين:</b> نساعد في النشر ونقدم التدريب عند الحاجة ونراقب النتائج باستمرار للتحسين.</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2187,9 +2188,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>هل لديك مشروع في ذهنك؟ لنبنِ شيئاً عظيماً معاً.</span>
 								<a href="/ar/contact/" class="redlink">
-									<span>Let's talk</span>
+									<span>لنتحدث</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2204,6 +2205,8 @@ recommend a service from 1-10</div>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ar/agency/">الوكالة</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">المدونة</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/ar/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2262,7 +2265,7 @@ recommend a service from 1-10</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/ar/" style="font-weight:bold;">الإنجليزية</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2748,7 +2751,7 @@ document.addEventListener('keydown', function(event) {
 
 </script>
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/ar/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2768,7 +2771,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2820,7 +2824,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "وكالة ابتكار رقمي متخصصة في تصميم المواقع والعلامة التجارية وتصميم UI/UX والتسويق الرقمي وتطوير التجارة الإلكترونية.",
+      "description": "Full-service وكالة ابتكار رقمي متخصصة في AI solutions, automation, custom software development, digital marketing, SEO, e-commerce, branding and UI/UX design.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2847,7 +2851,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
@@ -2856,7 +2861,7 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - وكالة ابتكار رقمي",
       "alternateName": "Aenfinite®",
-      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "description": "Full-service digital innovation agency providing AI solutions, automation, software development, digital marketing, SEO, web design, branding and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ar-SA",
       "potentialAction": {
@@ -2867,6 +2872,8 @@ export default function Page() {
     },
     {
       "@type": "LocalBusiness",
+      "areaServed": [{"@type":"City","name":"Denver"},{"@type":"State","name":"Colorado"},{"@type":"Country","name":"United States"}],
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=1500+N+Grant+St+Ste+R+Denver+CO+80203",
       "@id": "https://aenfinite.com/#localbusiness",
       "name": "Aenfinite وكالة ابتكار رقمي",
 	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",

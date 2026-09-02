@@ -1,10 +1,10 @@
-﻿// Language: Hindi (hi)
+// Language: Hindi (hi)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Top Design & ब्रांडिंग एजेंसी in Denver | Web, App & पैकेजिंग डिज़ाइन",
+  title: "Top Digital एजेंसी in Denver | AI, सॉफ्टवेयर डेवलपमेंट, Marketing & Design",
   description: "Aenfinite is a full-service डिजिटल एजेंसी in Denver specializing in website design, branding, packaging, UI/UX, and ऐप डेवलपमेंट. Since 2017, we've helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Denver, ब्रांडिंग एजेंसी, वेब डिज़ाइन एजेंसी, ऐप डेवलपमेंट agency, packaging design agency, डिजिटल एजेंसी, Aenfinite about",
   alternates: { canonical: "https://aenfinite.com/hi/agency/", languages: {"x-default":"https://aenfinite.com/agency/","en":"https://aenfinite.com/agency/","es":"https://aenfinite.com/es/agency/","fr":"https://aenfinite.com/fr/agency/","de":"https://aenfinite.com/de/agency/","it":"https://aenfinite.com/it/agency/","ar":"https://aenfinite.com/ar/agency/","pt":"https://aenfinite.com/pt/agency/","zh":"https://aenfinite.com/zh/agency/","hi":"https://aenfinite.com/hi/agency/","nl":"https://aenfinite.com/nl/agency/","ja":"https://aenfinite.com/ja/agency/","ko":"https://aenfinite.com/ko/agency/"} },
@@ -703,7 +703,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -712,7 +712,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			  </filter>
 			</defs>
 		</svg>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 		<defs>
 		  <filter id="goo">
 			<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1388,172 +1388,65 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						</div>
 						<ul class="topnav desktop">
 							<li class="topnav-item js-topnav-follow-item">
-								<a href="/hi/work/">कार्य</a>
+								<a href="/hi/featured-work/">कार्य</a>
 							</li>
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/hi/agency/">एजेंसी</a>
 							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/hi/services/">सेवाएं</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">डेवलपमेंट समाधान</a>
-                                        <ul class="sub-menu">
-                                            
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/hi/services/">सेवाएं</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">डेवलपमेंट समाधान ›</a>
+										<ul class="sub-menu">
 											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
-<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
 											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
 											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
 											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
 											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>                                      </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">डिज़ाइन और क्रिएटिव सेवाएं </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
-
-                                            <li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
-                                            <li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
-                                            
-                                            <li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
-                                            <li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">मार्केटिंग और डिजिटल समाधान </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
-                                            <li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
-                                            <li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
-                                            <li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
-                                            
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI और प्रौद्योगिकी समाधान </a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
-                                            <li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - हमारे साथ भागीदार बनें Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from सेवाएं menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
+										<ul class="sub-menu">
+											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
+											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
+											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
+											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
+											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">मार्केटिंग और डिजिटल समाधान ›</a>
+										<ul class="sub-menu">
+											<li><a href="/hi/services/digital-marketing/">डिजिटल मार्केटिंग रणनीति</a></li>
+											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
+											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
+											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
+										<ul class="sub-menu">
+											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
+											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
+											<li><a href="/hi/services/ai-automation/">AI ऑटोमेशन</a></li>
+											<li><a href="/hi/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/hi/services/n8n-automation/">n8n ऑटोमेशन</a></li>
+											<li><a href="/hi/services/crm-automation/">CRM ऑटोमेशन</a></li>
+										</ul>
+									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/ai-solutions/">AI Solutions</a>
+							</li>
+						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2396,27 +2289,27 @@ Our white-label services enable agencies and consultants to expand their offerin
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>अक्सर पूछे जाने वाले प्रश्न</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite क्या करता है?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What makes Aenfinite different from other agencies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite एक फुल-सर्विस डिजिटल इनोवेशन एजेंसी है जो वेब डिज़ाइन और डेवलपमेंट, ब्रांडिंग, UI/UX, SEO, डिजिटल मार्केटिंग, ऐप और सॉफ़्टवेयर डेवलपमेंट, ई-कॉमर्स और AI ऑटोमेशन प्रदान करती है।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite combines strategy, design, technology, and marketing under one roof, delivering measurable results with transparent communication and senior talent on every project.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Aenfinite किसके साथ काम करता है?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Do you offer white-label and partnership programs?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम कई उद्योगों के स्टार्टअप, छोटे व्यवसायों और बड़े उद्यमों के साथ काम करते हैं और अमेरिका, कनाडा तथा दुनिया भर के ग्राहकों की सेवा करते हैं।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. We partner with agencies and freelancers through white-label services and referral programs, detailed on our partner pages.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>मुझे कोटेशन कैसे मिलेगा?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Where is Aenfinite located and who do you serve?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>एक मुफ़्त परामर्श बुक करें या अपने लक्ष्यों के साथ हमसे संपर्क करें, और हम आपको एक अनुकूलित, पारदर्शी प्रस्ताव देंगे।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is a global डिजिटल एजेंसी serving clients across the US, Canada, and worldwide.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>आप कब शुरू कर सकते हैं?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I work with Aenfinite?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>हम आमतौर पर कुछ ही हफ़्तों में शुरू कर सकते हैं। हमसे संपर्क करें और हम आपके प्रोजेक्ट की उपलब्धता और समयसीमा की पुष्टि करेंगे।</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Start with a free consultation. We will align on goals, scope, and a clear roadmap before any work begins.</div>
       </div>
     </details>
   </div>
@@ -2445,6 +2338,8 @@ Our white-label services enable agencies and consultants to expand their offerin
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">ब्लॉग</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/hi/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2505,7 +2400,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/hi/" style="font-weight:bold;">अंग्रेज़ी</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 						</div>
 
 					</div>
@@ -2525,7 +2420,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
 						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
-						<link rel="canonical" href="/services/branding/" />
+						<link rel="canonical" href="/hi/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/hi/featured-work/">कार्य</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-275"><a href="" aria-current="page">एजेंसी</a></li>
@@ -3125,7 +3020,7 @@ document.addEventListener('keydown', function(event) {
 <!-- CF7 recaptcha JS removed -->
 	<!-- Cloudflare challenge removed -->
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/hi/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

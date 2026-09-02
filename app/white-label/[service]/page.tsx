@@ -38,10 +38,26 @@ export async function generateMetadata(
   if (!svc) return {};
 
   const url = `https://aenfinite.com/white-label/${service}/`;
+  const enUrl = `https://aenfinite.com/white-label/${service}/`;
+  const languages: Record<string, string> = {
+    'x-default': enUrl,
+    'en': enUrl,
+    'es': `https://aenfinite.com/es/white-label/${service}/`,
+    'fr': `https://aenfinite.com/fr/white-label/${service}/`,
+    'de': `https://aenfinite.com/de/white-label/${service}/`,
+    'it': `https://aenfinite.com/it/white-label/${service}/`,
+    'ar': `https://aenfinite.com/ar/white-label/${service}/`,
+    'pt': `https://aenfinite.com/pt/white-label/${service}/`,
+    'zh': `https://aenfinite.com/zh/white-label/${service}/`,
+    'hi': `https://aenfinite.com/hi/white-label/${service}/`,
+    'nl': `https://aenfinite.com/nl/white-label/${service}/`,
+    'ja': `https://aenfinite.com/ja/white-label/${service}/`,
+    'ko': `https://aenfinite.com/ko/white-label/${service}/`,
+  };
   return {
     title: svc.title,
     description: svc.metaDesc,
-    alternates: { canonical: url },
+    alternates: { canonical: url, languages },
     openGraph: {
       title: svc.title,
       description: svc.metaDesc,
@@ -68,7 +84,7 @@ function buildWLBody(svc: WLRec): string {
   return `
 <div class="header" style="min-height:40vh;display:flex;align-items:center;padding:120px 24px 45px;">
   <div style="max-width:1050px;margin:0 auto;width:100%;">
-    <div style="font-size:42px;margin-bottom:12px;">${svc.icon}</div>
+    <div style="width:60px;height:60px;background:rgba(34,123,243,0.08);border:1px solid rgba(34,123,243,0.2);border-radius:14px;display:flex;align-items:center;justify-content:center;margin-bottom:18px;">${svc.icon}</div>
     <div class="title title__default"><h1 style="font-size:clamp(30px,5vw,52px);line-height:1.15;margin:0 0 18px;">${svc.heroHeading}</h1></div>
     <p style="font-size:clamp(17px,2.2vw,21px);line-height:1.6;opacity:0.88;max-width:840px;">${svc.heroSub}</p>
     <p style="margin-top:24px;">

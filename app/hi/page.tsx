@@ -1,19 +1,19 @@
-﻿// Language: Hindi (hi)
+// Language: Hindi (hi)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | पेशेवर डिजिटल इनोवेशन एजेंसी | वेब डिज़ाइन, ब्रांडिंग और डिजिटल मार्केटिंग",
-  description: "डिजिटल इनोवेशन एजेंसी जो विशेषज्ञ है कस्टम वेब डिज़ाइन, ब्रांड पहचान, UI/UX डिज़ाइन, डिजिटल मार्केटिंग, ई-कॉमर्स विकास और व्यापक डिजिटल परिवर्तन समाधान. अमेरिका और कनाडा में व्यवसायों की सेवा.",
-  keywords: "डिजिटल एजेंसी, वेब डिज़ाइन एजेंसी, ब्रांडिंग एजेंसी, डेनवर डिजिटल मार्केटिंग एजेंसी, UI UX डिज़ाइन, कस्टम वेब डेवलपमेंट, SEO सेवाएं, ऐप डेवलपमेंट, ई-कॉमर्स डेवलपमेंट, डिजिटल परिवर्तन, Aenfinite",
+  title: { absolute: "Aenfinite® — वेब डिज़ाइन, AI ऑटोमेशन & कस्टम डेवलपमेंट | Denver" },
+  description: "Denver web design, ऐप डेवलपमेंट & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
+  keywords: "डिजिटल एजेंसी Denver, Denver web design, Denver software development, AI agency Denver, Colorado डिजिटल एजेंसी, डिजिटल एजेंसी, AI agency, AI automation services, software development agency, SEO agency, वेब डिज़ाइन एजेंसी, ब्रांडिंग एजेंसी, डेनवर डिजिटल मार्केटिंग एजेंसी, UI UX डिज़ाइन, कस्टम वेब डेवलपमेंट, SEO सेवाएं, ऐप डेवलपमेंट, ई-कॉमर्स डेवलपमेंट, डिजिटल परिवर्तन, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/hi/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"Aenfinite® | पेशेवर डिजिटल इनोवेशन एजेंसी | वेब डिज़ाइन, ब्रांडिंग और डिजिटल मार्केटिंग","description":"डिजिटल इनोवेशन एजेंसी जो विशेषज्ञ है कस्टम वेब डिज़ाइन, ब्रांड पहचान, UI/UX डिज़ाइन, डिजिटल मार्केटिंग, ई-कॉमर्स विकास और व्यापक डिजिटल परिवर्तन समाधान. अमेरिका और कनाडा में व्यवसायों की सेवा.","url":"https://aenfinite.com/hi/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® | पुरस्कार-विजेता डिजिटल इनोवेशन एजेंसी","description":"Aenfinite® के साथ अपने व्यवसाय को बदलें","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | Digital नवाचार एजेंसी | AI, सॉफ्टवेयर डेवलपमेंट, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and ऐप डेवलपमेंट, SEO & digital marketing, e-commerce, branding and UI/UX design. अमेरिका और कनाडा में व्यवसायों की सेवा.","url":"https://aenfinite.com/hi/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | पुरस्कार-विजेता डिजिटल इनोवेशन एजेंसी","description":"Aenfinite के साथ अपने व्यवसाय को बदलें®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -839,7 +839,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1130,19 +1130,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/hi/agency/">एजेंसी</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/industries/">Industries</a>
+							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/hi/services/">सेवाएं</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">डेवलपमेंट समाधान ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/hi/services/wordpress-websites/">WordPress वेबसाइट</a></li>
-<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
+											<li><a href="/hi/services/e-commerce-websites/">ई-कॉमर्स वेबसाइट</a></li>
 											<li><a href="/hi/services/custom-web-development/">कस्टम वेब डेवलपमेंट</a></li>
 											<li><a href="/hi/services/software-and-platform-development/">सॉफ्टवेयर और प्लेटफ़ॉर्म डेवलपमेंट</a></li>
 											<li><a href="/hi/services/app-development/">ऐप डेवलपमेंट</a></li>
 											<li><a href="/hi/services/web-design/">वेबसाइट डिज़ाइन और डेवलपमेंट</a></li>
-											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>									</ul>
+											<li><a href="/hi/services/web-design-and-branding-for-real-estate/">रियल एस्टेट वेब समाधान</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">डिज़ाइन और क्रिएटिव सेवाएं ›</a>
@@ -1150,7 +1154,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/hi/services/ui-ux-design/">UI/UX डिज़ाइन</a></li>
 											<li><a href="/hi/services/branding/">ब्रांड पहचान और रणनीति</a></li>
 											<li><a href="/hi/services/graphic-design/">ग्राफिक डिज़ाइन</a></li> <li><a href="/hi/services/logo-design/">लोगो डिज़ाइन</a></li>
-											
 											<li><a href="/hi/services/trade-show-booth-design/">ट्रेड शो बूथ डिज़ाइन</a></li>
 											<li><a href="/hi/services/conference-branding/">कॉन्फ्रेंस ब्रांडिंग</a></li>
 										</ul>
@@ -1162,18 +1165,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/hi/services/search-engine-optimization/">सर्च इंजन ऑप्टिमाइज़ेशन (SEO)</a></li>
 											<li><a href="/hi/services/pay-per-click/">पे-पर-क्लिक (PPC) विज्ञापन</a></li>
 											<li><a href="/hi/services/social-media-marketing/">सोशल मीडिया मार्केटिंग</a></li> <li><a href="/hi/services/paid-ads/">सशुल्क विज्ञापन</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI और प्रौद्योगिकी समाधान ›</a>
 										<ul class="sub-menu">
 											<li><a href="/hi/services/ai-chatbots-and-virtual-assistants/">AI चैटबॉट और वर्चुअल असिस्टेंट</a></li>
 											<li><a href="/hi/services/workflow-and-business-automation/">वर्कफ़्लो और बिज़नेस ऑटोमेशन</a></li>
+											<li><a href="/hi/services/ai-automation/">AI ऑटोमेशन</a></li>
+											<li><a href="/hi/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/hi/services/n8n-automation/">n8n ऑटोमेशन</a></li>
+											<li><a href="/hi/services/crm-automation/">CRM ऑटोमेशन</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/hi/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1233,14 +1242,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		</div>
 	</div>
-
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
-
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">
@@ -1266,15 +1267,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">पेशेवर डिजिटल इनोवेशन एजेंसी</span>
-															<span class="marquee-line_text">कस्टम वेब डिज़ाइन और ब्रांड विकास</span>
+															<span class="marquee-line_text">Custom Software & वेब डेवलपमेंट</span>
 															<span class="marquee-line_text">अमेरिका और कनाडा बाज़ारों की सेवा</span>
 															<span class="marquee-line_text">विशेषज्ञ UI/UX और डिजिटल मार्केटिंग समाधान</span>
 															<span class="marquee-line_text">5-स्टार ग्राहक समीक्षाएं और Clutch रेटिंग</span>
 															<span class="marquee-line_text">विशेषज्ञ टीम - Adobe, Figma, कस्टम डेवलपमेंट</span>
 															<span class="marquee-line_text">एजाइल डेवलपमेंट और डिज़ाइन प्रक्रिया</span>
 															<span class="marquee-line_text">डेनवर-स्थित डिजिटल एजेंसी</span>
-															<span class="marquee-line_text">पेशेवर डिजिटल इनोवेशन सेवाएं</span>
-															<span class="marquee-line_text">हर व्यवसाय के लिए कस्टम समाधान</span>
+															<span class="marquee-line_text">Web, Brand & UI/UX डिज़ाइन</span>
+															<span class="marquee-line_text">SEO, PPC & डिजिटल मार्केटिंग</span>
 															<span class="marquee-line_text">ई-कॉमर्स और मोबाइल ऐप डेवलपमेंट</span>
 															<span class="marquee-line_text">SEO और डिजिटल मार्केटिंग विशेषज्ञ</span>
 													</div>
@@ -1453,7 +1454,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite® एक पेशेवर डिजिटल इनोवेशन एजेंसी है जो अत्याधुनिक डिज़ाइन, डेवलपमेंट और मार्केटिंग समाधानों के माध्यम से व्यवसायों को बदलती है। डेनवर में स्थित और संयुक्त राज्य अमेरिका और कनाडा भर में ग्राहकों की सेवा करते हुए, हमारी विशेषज्ञ टीम वेब डिज़ाइन, ब्रांड पहचान, UI/UX डिज़ाइन, डिजिटल मार्केटिंग, ई-कॉमर्स विकास और व्यापक डिजिटल ट्रांसफॉर्मेशन सेवाओं में असाधारण परिणाम देती है।</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through AI-powered solutions, custom software development, growth marketing, and cutting-edge design. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across AI chatbots & automation, custom web & ऐप डेवलपमेंट, SEO & digital marketing, e-commerce, software engineering, brand identity, and UI/UX design. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.<div class="ai-services-highlight" style="margin-top:28px; display:inline-flex; align-items:center; gap:12px; padding:12px 20px; border:1px solid rgba(255,255,255,0.25); border-radius:999px; font-size:14px; line-height:1.4;"><span style="font-weight:700; white-space:nowrap;">&#10024; NEW</span><span>We now offer <strong>AI services</strong> &mdash; AI chatbots, workflow automation &amp; custom AI integrations. <a href="/hi/services/ai-chatbots-and-virtual-assistants/" style="text-decoration:underline; font-weight:600;">Explore AI solutions &rarr;</a></span></div></div>
 									<div class="textbox-action">
 						<a href="/hi/work/" class="redlink">
 							<span>हमारा कार्य देखें</span>
@@ -1521,8 +1522,8 @@ recommend a service from 1-10</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
-    <h3><b>नवीन डिजिटल समाधान</b></h3>
-    <p>Aenfinite® रणनीति, डिज़ाइन और प्रौद्योगिकी को मिलाकर निर्बाध डिजिटल अनुभव बनाता है। ब्रांडिंग और वेब डिज़ाइन से लेकर मार्केटिंग और कंसल्टिंग तक, हम डेटा-संचालित समाधान प्रदान करते हैं जो मापने योग्य व्यावसायिक विकास को बढ़ावा देते हैं।</p>
+    <h3><b>डेवलपमेंट, Design & Marketing</b></h3>
+    <p>Aenfinite® unites three core strengths — development, design, and marketing — to build seamless digital experiences. From custom software, web and ऐप डेवलपमेंट to branding, UI/UX design, SEO and digital marketing, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1975,7 +1976,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite® डिज़ाइन एजेंसी पोर्टफोलियो</h2>
+						<h2>Aenfinite® एजेंसी कार्य</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2091,7 +2092,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="/work/" class="redlink">
+					<a href="/hi/work/" class="redlink">
 						<span>सभी प्रोजेक्ट देखें</span>
 					</a>
 				</div>
@@ -2103,7 +2104,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>Aenfinite® डिज़ाइन एजेंसी अक्सर पूछे जाने वाले प्रश्न</h2>
+									<h2>Aenfinite® एजेंसी FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2143,7 +2144,7 @@ recommend a service from 1-10</div>
                 <p>हम एक स्पष्ट, सहयोगी प्रक्रिया का पालन करते हैं जो आपको शामिल रखती है और हर चरण में गुणवत्ता सुनिश्चित करती है:</p>
                 <p><b>1. खोज और योजना:</b> हम आपके व्यवसाय, दर्शकों और लक्ष्यों के बारे में जानते हैं ताकि एक स्पष्ट रणनीति बनाई जा सके।</p>
                 <p><b>2. अवधारणा और दिशा:</b> हमारे क्रिएटिव मूडबोर्ड, अवधारणाएं और आपकी ब्रांड दृष्टि के अनुरूप डिज़ाइन दिशाएं तैयार करते हैं।</p>
-                <p><b>3. डिज़ाइन और डेवलपमेंट:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. डिज़ाइन और डेवलपमेंट:</b> चाहे ब्रांडिंग हो, वेबसाइट हो या पैकेजिंग, हम सही परिणाम प्राप्त होने तक डिज़ाइन, पुनरावृत्ति और परिष्कृत करते हैं।</p>
                 <p><b>4. कार्यान्वयन:</b> हमारी डेवलपमेंट टीम डिज़ाइन को जीवंत बनाती है, उच्च-प्रदर्शन डिजिटल उत्पाद या प्रिंट-रेडी एसेट्स वितरित करती है।</p>
                 <p><b>5. लॉन्च और ऑप्टिमाइज़ेशन:</b> हम तैनाती में सहायता करते हैं, ज़रूरत पड़ने पर प्रशिक्षण प्रदान करते हैं और सुधार के लिए लगातार परिणामों की निगरानी करते हैं।</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2187,9 +2188,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>दिमाग में कोई प्रोजेक्ट है? आइए साथ मिलकर कुछ शानदार बनाएं।</span>
 								<a href="/hi/contact/" class="redlink">
-									<span>Let's talk</span>
+									<span>बात करें</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2204,6 +2205,8 @@ recommend a service from 1-10</div>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/hi/agency/">एजेंसी</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/hi/services/">सेवाएं</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/hi/contact/">संपर्क</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">ब्लॉग</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/hi/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2262,7 +2265,7 @@ recommend a service from 1-10</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/hi/" style="font-weight:bold;">अंग्रेज़ी</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2748,7 +2751,7 @@ document.addEventListener('keydown', function(event) {
 
 </script>
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/hi/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2768,7 +2771,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2820,7 +2824,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "वेब डिज़ाइन, ब्रांडिंग, UI/UX डिज़ाइन, डिजिटल मार्केटिंग और ई-कॉमर्स डेवलपमेंट में विशेषज्ञ डिजिटल इनोवेशन एजेंसी।",
+      "description": "Full-service डिजिटल इनोवेशन एजेंसी जो विशेषज्ञ है AI solutions, automation, custom software development, digital marketing, SEO, e-commerce, branding and UI/UX design.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2847,7 +2851,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
@@ -2856,7 +2861,7 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - डिजिटल इनोवेशन एजेंसी",
       "alternateName": "Aenfinite®",
-      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "description": "Full-service digital innovation agency providing AI solutions, automation, software development, digital marketing, SEO, web design, branding and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"hi-IN",
       "potentialAction": {
@@ -2867,6 +2872,8 @@ export default function Page() {
     },
     {
       "@type": "LocalBusiness",
+      "areaServed": [{"@type":"City","name":"Denver"},{"@type":"State","name":"Colorado"},{"@type":"Country","name":"United States"}],
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=1500+N+Grant+St+Ste+R+Denver+CO+80203",
       "@id": "https://aenfinite.com/#localbusiness",
       "name": "Aenfinite डिजिटल इनोवेशन एजेंसी",
 	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",

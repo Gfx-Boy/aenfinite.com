@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -86,87 +86,9 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
         display: none;
     }
     
-    .aenfinite-logo {
-        position: fixed;
-        top: 0;
-        left: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100vw;
-        height: 100vh;
-        text-align: center;
-        margin: 0;
-        padding: 0;
-        opacity: 0;
-        z-index: 10001;
-        transition: opacity 0.5s ease-in-out;
-        animation: delayedFadeIn 0.5s ease-in-out 3s forwards;
-    }
-    
-    .aenfinite-full {
-        position: fixed;
-        top: 0;
-        left: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100vw;
-        height: 100vh;
-        text-align: center;
-        margin: 0;
-        padding: 0;
-        opacity: 1;
-        z-index: 10000;
-        transition: opacity 0.5s ease-in-out;
-    }
-    
-    .aenfinite-full img {
-        animation: slideInFromLeft 1.2s ease-out;
-        width: 70vw !important;
-        max-width: 500px !important;
-        height: auto !important;
-        min-width: 280px !important;
-        filter: brightness(0) saturate(100%);
-    }
-    
-    .preloader-logo {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        width: 100%;
-        padding: 60px;
-        box-sizing: border-box;
-        max-width: 100vw;
-        overflow: hidden;
-    }
+    /* Preloader removed - page loads instantly */
     
     /* Keyframe Animations */
-    @keyframes smoothRotate {
-        from { transform: rotate(0deg); }
-        to { transform: rotate(360deg); }
-    }
-    
-    @keyframes pulse {
-        0%, 100% { transform: scale(1); }
-        50% { transform: scale(1.05); }
-    }
-    
-    @keyframes glow {
-        0%, 100% { 
-            text-shadow: 0 0 20px rgba(34, 123, 243, 0.3),
-                        0 0 40px rgba(34, 123, 243, 0.1),
-                        0 0 60px rgba(34, 123, 243, 0.05);
-        }
-        50% { 
-            text-shadow: 0 0 30px rgba(34, 123, 243, 0.6),
-                        0 0 60px rgba(34, 123, 243, 0.2),
-                        0 0 90px rgba(34, 123, 243, 0.1);
-        }
-    }
-    
     @keyframes fadeInScale {
         0% {
             opacity: 0;
@@ -178,47 +100,6 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
         }
     }
     
-    @keyframes delayedFadeInScale {
-        0% {
-            opacity: 0;
-            transform: scale(0.8);
-        }
-        100% {
-            opacity: 1;
-            transform: scale(1);
-        }
-    }
-    
-    @keyframes fadeOutAfterDelay {
-        0% {
-            opacity: 1;
-            transform: scale(1);
-        }
-        100% {
-            opacity: 0;
-            transform: scale(0.9);
-        }
-    }
-    
-    @keyframes slideInFromLeft {
-        0% {
-            opacity: 0;
-            transform: translateX(-50px);
-        }
-        100% {
-            opacity: 1;
-            transform: translateX(0);
-        }
-    }
-    
-    @keyframes delayedFadeIn {
-        0% {
-            opacity: 0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
     
     /* Navigation Logo Styling */
     .nav-logo {
@@ -293,72 +174,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
         transform: scale(1.1);
     }
     
-    /* Mobile Responsive Design */
-    @media (max-width: 768px) {
-        .aenfinite-full img {
-            width: 85vw !important;
-            max-width: 350px !important;
-        }
-        .rotating-logo {
-            width: 40vw !important;
-            max-width: 120px !important;
-        }
-        .preloader-logo {
-            padding: 30px 15px !important;
-        }
-    }
-    
-    @media (max-width: 480px) {
-        .aenfinite-full img {
-            width: 90vw !important;
-            max-width: 280px !important;
-        }
-        .rotating-logo {
-            width: 50vw !important;
-            max-width: 100px !important;
-        }
-    }
-    
-    /* Animation Phase Control */
-    .loading-phase-1 .aenfinite-full {
-        opacity: 1;
-    }
-    
-    .loading-phase-1 .aenfinite-logo {
-        opacity: 0;
-    }
-    
-    .loading-phase-2 .aenfinite-full {
-        opacity: 1;
-    }
-    
-    .loading-phase-2 .aenfinite-logo {
-        opacity: 0;
-    }
-    
-    .loading-phase-3 .aenfinite-full {
-        opacity: 0;
-    }
-    
-    .loading-phase-3 .aenfinite-logo {
-        opacity: 1;
-    }
-    
-    .loading-phase-4 .aenfinite-full {
-        opacity: 0;
-    }
-    
-    .loading-phase-4 .aenfinite-logo {
-        opacity: 1;
-    }
-    
-    .loading-phase-5 .aenfinite-logo {
-        opacity: 1;
-    }
-    
-    .loading-phase-5 .aenfinite-full {
-        opacity: 0;
-    }
+    /* Preloader phase CSS removed */
 
     /* Floating Heart Element */
     .floating-heart {
@@ -837,7 +653,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1131,22 +947,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/services/">Services</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Development Solutions ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
-<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
+											<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
 											<li><a href="/services/custom-web-development/">Custom Web Development</a></li>
 											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
-											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
+											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design & Creative Services ›</a>
@@ -1154,7 +968,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
 											<li><a href="/services/graphic-design/">Graphic Design</a></li> <li><a href="/services/logo-design/">Logo Design</a></li>
-											
 											<li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
 											<li><a href="/services/conference-branding/">Conference Branding</a></li>
 										</ul>
@@ -1166,22 +979,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
 											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
 											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
-<li><a href="/services/ai-automation/">AI Automation</a></li>
-<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
-<li><a href="/services/n8n-automation/">n8n Automation</a></li>
-<li><a href="/services/crm-automation/">CRM Automation</a></li>
+											<li><a href="/services/ai-automation/">AI Automation</a></li>
+											<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/services/n8n-automation/">n8n Automation</a></li>
+											<li><a href="/services/crm-automation/">CRM Automation</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1242,13 +1057,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		</div>
 	</div>
 
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
 
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">

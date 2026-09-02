@@ -4,37 +4,145 @@ Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
 
-# AI search & assistant crawlers — explicitly welcome
+# ---------------------------------------------------------------------------
+# AI search, answer engines & assistant crawlers — explicitly welcome.
+#
+# NOTE ON SYNTAX: a crawler that finds its own User-agent group ignores the
+# "*" group completely. Each group below therefore repeats the three Disallow
+# rules, otherwise these bots would waste crawl budget on /darkmode/,
+# /cdn-cgi/ and /intro/ instead of spending it on the location pages.
+# ---------------------------------------------------------------------------
+
+# Apple — Siri, Spotlight, Safari suggestions and Apple Intelligence.
+# Applebot indexes; Applebot-Extended governs use in Apple's generative
+# models. Absence of a rule already means "allowed", but stating it makes
+# the intent explicit and survives future edits.
+User-agent: Applebot
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# OpenAI — ChatGPT search, browsing and training.
 User-agent: GPTBot
-Allow: /
-
 User-agent: OAI-SearchBot
-Allow: /
-
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
 
+# Anthropic — Claude search and browsing.
 User-agent: ClaudeBot
-Allow: /
-
 User-agent: Claude-User
+User-agent: Claude-SearchBot
 Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
 
+# Perplexity.
 User-agent: PerplexityBot
-Allow: /
-
 User-agent: Perplexity-User
 Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
 
+# Google — Google-Extended controls AI Overviews / Gemini grounding.
+# It is a permission token, not a crawler, so it carries no Disallow rules.
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://aenfinite.com/sitemap.xml
-Sitemap: https://aenfinite.com/sitemap-cities.xml
+User-agent: Google-CloudVertexBot
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
 
+# Microsoft Copilot / Bing generative answers.
+User-agent: bingbot
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# Amazon Alexa / Rufus.
+User-agent: Amazonbot
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# Meta AI.
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalagent
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# DuckDuckGo assist.
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# Mistral.
+User-agent: MistralAI-User
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# Common Crawl — the corpus a large number of models are trained from.
+User-agent: CCBot
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# Other answer engines and research crawlers.
+User-agent: YouBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Ai2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Diffbot
+User-agent: Timpibot
+User-agent: omgilibot
+User-agent: omgili
+User-agent: Bytespider
+User-agent: TikTokSpider
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
+# ---------------------------------------------------------------------------
+# Machine-readable summary for LLMs
+# ---------------------------------------------------------------------------
+# https://aenfinite.com/llms.txt
+
+# ---------------------------------------------------------------------------
+# Sitemaps
+# ---------------------------------------------------------------------------
 Sitemap: https://aenfinite.com/sitemap-index.xml
-
+Sitemap: https://aenfinite.com/sitemap.xml
+Sitemap: https://aenfinite.com/sitemap-services.xml
 Sitemap: https://aenfinite.com/sitemap-industries.xml
 Sitemap: https://aenfinite.com/sitemap-ai-solutions.xml
-
 Sitemap: https://aenfinite.com/sitemap-white-label.xml
+Sitemap: https://aenfinite.com/sitemap-use-cases.xml
+Sitemap: https://aenfinite.com/sitemap-comparisons.xml
+Sitemap: https://aenfinite.com/sitemap-tools.xml
+Sitemap: https://aenfinite.com/sitemap-work.xml
+Sitemap: https://aenfinite.com/sitemap-featured-work.xml
+Sitemap: https://aenfinite.com/sitemap-partner-with-us.xml
+Sitemap: https://aenfinite.com/sitemap-contact.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part1.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part2.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part3.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part4.xml

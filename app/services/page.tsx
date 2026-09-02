@@ -409,7 +409,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 	
     `;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -647,10 +647,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
-							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/services/">Services</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
@@ -665,6 +662,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
 									</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
+
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">

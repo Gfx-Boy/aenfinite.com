@@ -2,11 +2,11 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AI Automation Agency | Done-For-You AI & Workflow Automation",
-  description: "Aenfinite is a Denver-based AI automation agency serving the US & Canada. We design, build and manage AI workflows, agents and integrations. Projects from $1,500 with published pricing.",
-  keywords: "AI automation agency, AI automation services, AI automation agency Denver, workflow automation agency, AI consulting for small business, AI agents for business, business process automation, n8n, Make, Zapier, Aenfinite",
+  title: "Done-For-You AI Automation Agency — Custom Workflows & Agents [2026]",
+  description: "✓ End-to-end AI automation agency. ✓ Connect CRM, lead funnels, customer support, and operations with custom n8n and LLM agents. Fixed setups from $1,500. Free AI audit →",
+  keywords: "AI automation agency, workflow automation, n8n automation, business process automation, AI integration services",
   alternates: { canonical: "https://aenfinite.com/services/ai-automation/", languages: {"x-default":"https://aenfinite.com/services/ai-automation/","en":"https://aenfinite.com/services/ai-automation/"} },
-  openGraph: {"title":"AI Automation Agency | Done-For-You AI & Workflow Automation | Aenfinite","description":"Denver-based AI automation agency. We design, build and manage AI workflows, agents and integrations for US & Canadian businesses — with published pricing.","url":"https://aenfinite.com/services/ai-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title": "Done-For-You AI Automation Agency — Custom Workflows & Agents [2026]","description": "✓ End-to-end AI automation agency. ✓ Connect CRM, lead funnels, customer support, and operations with custom n8n and LLM agents. Fixed setups from $1,500. Free AI audit →","url":"https://aenfinite.com/services/ai-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"AI Automation Agency | Done-For-You AI & Workflow Automation | Aenfinite","description":"We design, build and manage AI workflows, agents and integrations — Denver-based, serving the US & Canada.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -774,7 +774,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1112,23 +1112,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/services/">Services</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/services/">Services</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
-											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
-<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
+											<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
 											<li><a href="/services/custom-web-development/">Custom Web Development</a></li>
 											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
-											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
+											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design & Creative Services ›</a>
@@ -1136,7 +1133,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
 											<li><a href="/services/graphic-design/">Graphic Design</a></li> <li><a href="/services/logo-design/">Logo Design</a></li>
-											
 											<li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
 											<li><a href="/services/conference-branding/">Conference Branding</a></li>
 										</ul>
@@ -1148,139 +1144,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
 											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
 											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
-<li><a href="/services/ai-automation/">AI Automation</a></li>
-<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
-<li><a href="/services/n8n-automation/">n8n Automation</a></li>
-<li><a href="/services/crm-automation/">CRM Automation</a></li>
+											<li><a href="/services/ai-automation/">AI Automation</a></li>
+											<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/services/n8n-automation/">n8n Automation</a></li>
+											<li><a href="/services/crm-automation/">CRM Automation</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner With Us Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Services menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2320,6 +2202,12 @@ export default function Page() {
     }
   ]
 }` }}
+        />
+      
+        <script
+          key="schema-faq"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How much does AI automation cost for a small business?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"A typical first project runs <HtmlPage content={pageContent},500–$5,000 for a single production workflow (for example, automated lead routing and follow-up). Larger programs covering sales, operations and finance run $5,000–$20,000. We publish our ranges and quote fixed prices after a free automation audit, so you know the cost before we build.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What is the ROI of business automation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Most of our clients recover 10–40 staff-hours per month per automated process. At typical loaded labor costs, a $3,000 workflow that saves 20 hours a month pays for itself in under a quarter — and keeps saving after that. We estimate ROI for your specific processes during the free audit.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Which automation platform is best: n8n, Make, or Zapier?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Zapier is fastest for simple two-app connections; Make handles more complex visual scenarios; n8n offers the most power, self-hosting, and the lowest cost at scale — which is why it is our default for production systems. We are platform-neutral and recommend based on your volume, budget, and data-privacy needs.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can AI automation work with our existing CRM and tools?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. We integrate with HubSpot, Salesforce, GoHighLevel, Pipedrive, QuickBooks, Stripe, Google Workspace, Microsoft 365, Slack, Shopify, WordPress, and effectively any system with an API. If a tool has no API, we can usually automate around it.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is our data safe in AI workflows?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"We design for privacy: data stays in your own accounts, AI calls are scoped to the minimum necessary context, credentials are vaulted and rotated, and for sensitive industries we deploy self-hosted n8n so nothing transits third-party automation clouds.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How long does an automation project take?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"A single workflow typically ships in 1–3 weeks. Multi-workflow programs run 4–10 weeks. You see the first working automation early — we launch incrementally rather than making you wait for a big-bang release.\"\n      }\n    }\n  ]\n}" }}
         />
       <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
     </>

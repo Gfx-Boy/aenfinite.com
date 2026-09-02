@@ -357,7 +357,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -698,297 +698,57 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/services/">Services</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Development Solutions ›</a>
-                                        <ul class="sub-menu">
-                                            
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/services/">Services</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Development Solutions ›</a>
+										<ul class="sub-menu">
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
-<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
+											<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
 											<li><a href="/services/custom-web-development/">Custom Web Development</a></li>
 											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
-											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>                                      </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Design & Creative Services ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
-
-                                            <li><a href="/services/branding/">Brand Identity & Strategy</a></li>
-                                            <li><a href="/services/graphic-design/">Graphic Design</a></li>
-                                            
-                                            <li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
-                                            <li><a href="/services/conference-branding/">Conference Branding</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing & Digital Solutions ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
-                                            <li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
-                                            <li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
-                                            <li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
-                                            
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI & Technology Solutions ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
-                                            <li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
-<li><a href="/services/ai-automation/">AI Automation</a></li>
-<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
-<li><a href="/services/n8n-automation/">n8n Automation</a></li>
-<li><a href="/services/crm-automation/">CRM Automation</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner With Us Style */
-							
-		/* Enhanced Checkbox Button Styling */
-		.checkbox-select {
-			margin: 30px 0;
-		}
-		
-		.checkbox-select strong {
-			display: block;
-			font-size: 18px;
-			font-weight: 600;
-			color: #333;
-			margin-bottom: 20px;
-		}
-		
-		.checkbox-group {
-			display: flex;
-			flex-wrap: wrap;
-			gap: 12px;
-			align-items: flex-start;
-		}
-		
-		.list-item {
-			position: relative;
-			display: inline-block;
-		}
-		
-		.list-item input[type="checkbox"] {
-			position: absolute;
-			opacity: 0;
-			cursor: pointer;
-			height: 0;
-			width: 0;
-		}
-		
-		.list-item-label {
-			display: inline-block;
-			padding: 12px 24px;
-			background: #f8f9fa;
-			border: 2px solid #e9ecef;
-			border-radius: 50px;
-			font-size: 14px;
-			font-weight: 500;
-			color: #6c757d;
-			cursor: pointer;
-			transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-			user-select: none;
-			position: relative;
-			overflow: hidden;
-		}
-		
-		.list-item-label::before {
-			content: '';
-			position: absolute;
-			top: 0;
-			left: -100%;
-			width: 100%;
-			height: 100%;
-			background: linear-gradient(90deg, transparent, rgba(34, 123, 243, 0.1), transparent);
-			transition: left 0.5s;
-		}
-		
-		.list-item-label:hover {
-			background: #e3f2fd;
-			border-color: #227bf3;
-			color: #227bf3;
-			transform: translateY(-2px);
-			box-shadow: 0 4px 12px rgba(34, 123, 243, 0.15);
-		}
-		
-		.list-item-label:hover::before {
-			left: 100%;
-		}
-		
-		.list-item input[type="checkbox"]:checked + .list-item-label {
-			background: #227bf3;
-			border-color: #227bf3;
-			color: white;
-			transform: translateY(-2px);
-			box-shadow: 0 6px 20px rgba(34, 123, 243, 0.3);
-		}
-		
-		.list-item input[type="checkbox"]:checked + .list-item-label::after {
-			content: '✓';
-			position: absolute;
-			right: 12px;
-			top: 50%;
-			transform: translateY(-50%);
-			font-weight: bold;
-			font-size: 12px;
-		}
-		
-		.list-item input[type="checkbox"]:focus + .list-item-label {
-			outline: 2px solid #227bf3;
-			outline-offset: 2px;
-		}
-		
-		/* Responsive Design */
-		@media (max-width: 768px) {
-			.checkbox-group {
-				gap: 8px;
-			}
-			
-			.list-item-label {
-				padding: 10px 18px;
-				font-size: 13px;
-			}
-			
-			.checkbox-select strong {
-				font-size: 16px;
-				margin-bottom: 15px;
-			}
-		}
-		
-		@media (max-width: 480px) {
-			.list-item-label {
-				padding: 8px 16px;
-				font-size: 12px;
-			}
-			
-			.checkbox-group {
-				gap: 6px;
-			}
-		}
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Services menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
+											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Design & Creative Services ›</a>
+										<ul class="sub-menu">
+											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
+											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
+											<li><a href="/services/graphic-design/">Graphic Design</a></li> <li><a href="/services/logo-design/">Logo Design</a></li>
+											<li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
+											<li><a href="/services/conference-branding/">Conference Branding</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Marketing & Digital Solutions ›</a>
+										<ul class="sub-menu">
+											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
+											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
+											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
+											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">AI & Technology Solutions ›</a>
+										<ul class="sub-menu">
+											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
+											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
+											<li><a href="/services/ai-automation/">AI Automation</a></li>
+											<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/services/n8n-automation/">n8n Automation</a></li>
+											<li><a href="/services/crm-automation/">CRM Automation</a></li>
+										</ul>
+									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
+						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">

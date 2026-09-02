@@ -1,19 +1,19 @@
-﻿// Language: Japanese (ja)
+// Language: Japanese (ja)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | プロフェッショナルデジタルイノベーションエージェンシー | Webデザイン、ブランディング＆デジタルマーケティング",
-  description: "専門とするデジタルイノベーションエージェンシー カスタムWebデザイン、ブランドアイデンティティ、UI/UXデザイン、デジタルマーケティング、Eコマース開発、包括的なデジタルトランスフォーメーションソリューション. 米国およびカナダ全土の企業にサービスを提供しております.",
-  keywords: "デジタルエージェンシー, Webデザインエージェンシー, ブランディングエージェンシー, デンバーデジタルマーケティングエージェンシー, UI UXデザイン, カスタムWeb開発, SEOサービス, アプリ開発, Eコマース開発, デジタルトランスフォーメーション, Aenfinite",
+  title: { absolute: "Aenfinite® — Webデザイン, AI 自動化 & カスタム開発 | Denver" },
+  description: "Denver web design, アプリ開発 & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
+  keywords: "デジタルエージェンシー Denver, Denver web design, Denver software development, AI agency Denver, Colorado デジタルエージェンシー, デジタルエージェンシー, AI agency, AI automation services, software development agency, SEO agency, Webデザインエージェンシー, ブランディングエージェンシー, デンバーデジタルマーケティングエージェンシー, UI UXデザイン, カスタムWeb開発, SEOサービス, アプリ開発, Eコマース開発, デジタルトランスフォーメーション, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/ja/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"Aenfinite® | プロフェッショナルデジタルイノベーションエージェンシー | Webデザイン、ブランディング＆デジタルマーケティング","description":"専門とするデジタルイノベーションエージェンシー カスタムWebデザイン、ブランドアイデンティティ、UI/UXデザイン、デジタルマーケティング、Eコマース開発、包括的なデジタルトランスフォーメーションソリューション. 米国およびカナダ全土の企業にサービスを提供しております.","url":"https://aenfinite.com/ja/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® | 受賞歴のあるデジタルイノベーションエージェンシー","description":"Aenfinite®でビジネスを変革する","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | Digital イノベーション エージェンシー | AI, ソフトウェア開発, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and アプリ開発, SEO & digital marketing, e-commerce, branding and UI/UX design. 米国およびカナダ全土の企業にサービスを提供しております.","url":"https://aenfinite.com/ja/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | 受賞歴のあるデジタルイノベーションエージェンシー","description":"Aenfiniteでビジネスを変革する®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -839,7 +839,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1130,19 +1130,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/ja/agency/">エージェンシー</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ja/industries/">Industries</a>
+							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/ja/services/">サービス</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">開発ソリューション ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/ja/services/wordpress-websites/">WordPressサイト</a></li>
-<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
+											<li><a href="/ja/services/e-commerce-websites/">EコマースWebサイト</a></li>
 											<li><a href="/ja/services/custom-web-development/">カスタムWeb開発</a></li>
 											<li><a href="/ja/services/software-and-platform-development/">ソフトウェア＆プラットフォーム開発</a></li>
 											<li><a href="/ja/services/app-development/">アプリ開発</a></li>
 											<li><a href="/ja/services/web-design/">Webサイトデザイン＆開発</a></li>
-											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>									</ul>
+											<li><a href="/ja/services/web-design-and-branding-for-real-estate/">不動産Webソリューション</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">デザイン＆クリエイティブサービス ›</a>
@@ -1150,7 +1154,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/ja/services/ui-ux-design/">UI/UXデザイン</a></li>
 											<li><a href="/ja/services/branding/">ブランドアイデンティティ＆戦略</a></li>
 											<li><a href="/ja/services/graphic-design/">グラフィックデザイン</a></li> <li><a href="/ja/services/logo-design/">ロゴデザイン</a></li>
-											
 											<li><a href="/ja/services/trade-show-booth-design/">展示会ブースデザイン</a></li>
 											<li><a href="/ja/services/conference-branding/">カンファレンスブランディング</a></li>
 										</ul>
@@ -1162,18 +1165,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/ja/services/search-engine-optimization/">検索エンジン最適化（SEO）</a></li>
 											<li><a href="/ja/services/pay-per-click/">ペイ・パー・クリック（PPC）広告</a></li>
 											<li><a href="/ja/services/social-media-marketing/">ソーシャルメディアマーケティング</a></li> <li><a href="/ja/services/paid-ads/">有料広告</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI＆テクノロジーソリューション ›</a>
 										<ul class="sub-menu">
 											<li><a href="/ja/services/ai-chatbots-and-virtual-assistants/">AIチャットボット＆バーチャルアシスタント</a></li>
 											<li><a href="/ja/services/workflow-and-business-automation/">ワークフロー＆ビジネス自動化</a></li>
+											<li><a href="/ja/services/ai-automation/">AI 自動化</a></li>
+											<li><a href="/ja/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/ja/services/n8n-automation/">n8n 自動化</a></li>
+											<li><a href="/ja/services/crm-automation/">CRM 自動化</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ja/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1233,14 +1242,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		</div>
 	</div>
-
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
-
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">
@@ -1266,15 +1267,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">プロフェッショナルデジタルイノベーションエージェンシー</span>
-															<span class="marquee-line_text">カスタムWebデザイン＆ブランド開発</span>
+															<span class="marquee-line_text">Custom Software & Web開発</span>
 															<span class="marquee-line_text">米国＆カナダ市場にサービスを提供</span>
 															<span class="marquee-line_text">UI/UX＆デジタルマーケティングの専門ソリューション</span>
 															<span class="marquee-line_text">クライアント5つ星レビュー＆Clutch評価</span>
 															<span class="marquee-line_text">専門チーム - Adobe、Figma、カスタム開発</span>
 															<span class="marquee-line_text">アジャイル開発＆デザインプロセス</span>
 															<span class="marquee-line_text">デンバー拠点のデジタルエージェンシー</span>
-															<span class="marquee-line_text">プロフェッショナルデジタルイノベーションサービス</span>
-															<span class="marquee-line_text">すべてのビジネスのためのカスタムソリューション</span>
+															<span class="marquee-line_text">Web, Brand & UI/UXデザイン</span>
+															<span class="marquee-line_text">SEO, PPC & デジタルマーケティング</span>
 															<span class="marquee-line_text">Eコマース＆モバイルアプリ開発</span>
 															<span class="marquee-line_text">SEO＆デジタルマーケティングスペシャリスト</span>
 													</div>
@@ -1453,7 +1454,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite®は、最先端のデザイン、開発、マーケティングソリューションを通じてビジネスを変革するプロフェッショナルデジタルイノベーションエージェンシーです。デンバーに拠点を置き、アメリカおよびカナダ全土のクライアントにサービスを提供しており、Webデザイン、ブランドアイデンティティ、UI/UXデザイン、デジタルマーケティング、Eコマース開発、包括的なデジタルトランスフォーメーションサービスにおいて卓越した成果をお届けしております。ヘルスケア、テクノロジー、不動産など、スタートアップから大企業まで幅広い企業と提携し、成長とエンゲージメントを促進するインパクトのあるデジタル体験を創造しています。</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through AI-powered solutions, custom software development, growth marketing, and cutting-edge design. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across AI chatbots & automation, custom web & アプリ開発, SEO & digital marketing, e-commerce, software engineering, brand identity, and UI/UX design. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.<div class="ai-services-highlight" style="margin-top:28px; display:inline-flex; align-items:center; gap:12px; padding:12px 20px; border:1px solid rgba(255,255,255,0.25); border-radius:999px; font-size:14px; line-height:1.4;"><span style="font-weight:700; white-space:nowrap;">&#10024; NEW</span><span>We now offer <strong>AI services</strong> &mdash; AI chatbots, workflow automation &amp; custom AI integrations. <a href="/ja/services/ai-chatbots-and-virtual-assistants/" style="text-decoration:underline; font-weight:600;">Explore AI solutions &rarr;</a></span></div></div>
 									<div class="textbox-action">
 						<a href="/ja/work/" class="redlink">
 							<span>実績を見る</span>
@@ -1521,8 +1522,8 @@ recommend a service from 1-10</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
-    <h3><b>革新的なデジタルソリューション</b></h3>
-    <p>Aenfinite®は戦略、デザイン、テクノロジーを融合し、シームレスなデジタル体験を創造します。ブランディングやWebデザインからマーケティング、コンサルティングまで、測定可能なビジネス成長を推進するデータドリブンなソリューションをご提供いたします。</p>
+    <h3><b>開発, Design & Marketing</b></h3>
+    <p>Aenfinite® unites three core strengths — development, design, and marketing — to build seamless digital experiences. From custom software, web and アプリ開発 to branding, UI/UX design, SEO and digital marketing, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1975,7 +1976,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite®デザインエージェンシーの実績</h2>
+						<h2>Aenfinite® エージェンシー 実績</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2091,7 +2092,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="/work/" class="redlink">
+					<a href="/ja/work/" class="redlink">
 						<span>すべてのプロジェクトを見る</span>
 					</a>
 				</div>
@@ -2103,7 +2104,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>Aenfinite®デザインエージェンシーよくある質問</h2>
+									<h2>Aenfinite® エージェンシー FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2143,7 +2144,7 @@ recommend a service from 1-10</div>
                 <p>お客様と密に連携し、あらゆる段階で品質を保証する明確なプロセスに従います：</p>
                 <p><b>1. ヒアリング＆企画：</b> お客様のビジネス、ターゲットオーディエンス、目標を理解し、明確な戦略を策定いたします。</p>
                 <p><b>2. コンセプト＆方向性の決定：</b> クリエイティブチームがブランドビジョンに沿ったムードボード、コンセプト、デザインの方向性を作成いたします。</p>
-                <p><b>3. デザイン＆開発：</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. デザイン＆開発：</b> ブランディング、Webサイト、パッケージを問わず、完璧な結果を達成するまでデザイン、反復、洗練を行います。</p>
                 <p><b>4. 実装：</b> 開発チームがデザインを形にし、高性能なデジタルプロダクトまたは印刷用データを納品いたします。</p>
                 <p><b>5. ローンチ＆最適化：</b> デプロイメントをサポートし、必要に応じてトレーニングを提供し、改善に向けて継続的に成果をモニタリングいたします。</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2187,9 +2188,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>プロジェクトをお考えですか？一緒に素晴らしいものを創りましょう。</span>
 								<a href="/ja/contact/" class="redlink">
-									<span>Let's talk</span>
+									<span>ご相談ください</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2204,6 +2205,8 @@ recommend a service from 1-10</div>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/ja/agency/">エージェンシー</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/ja/services/">サービス</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/ja/contact/">お問い合わせ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">ブログ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/ja/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2262,7 +2265,7 @@ recommend a service from 1-10</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/ja/" style="font-weight:bold;">英語</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2748,7 +2751,7 @@ document.addEventListener('keydown', function(event) {
 
 </script>
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/ja/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2768,7 +2771,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2820,7 +2824,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "Webデザイン、ブランディング、UI/UXデザイン、デジタルマーケティング、Eコマース開発を専門とするデジタルイノベーションエージェンシーです。",
+      "description": "Full-service 専門とするデジタルイノベーションエージェンシー AI solutions, automation, custom software development, digital marketing, SEO, e-commerce, branding and UI/UX design.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2847,7 +2851,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
@@ -2856,7 +2861,7 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - デジタルイノベーションエージェンシー",
       "alternateName": "Aenfinite®",
-      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "description": "Full-service digital innovation agency providing AI solutions, automation, software development, digital marketing, SEO, web design, branding and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"ja-JP",
       "potentialAction": {
@@ -2867,6 +2872,8 @@ export default function Page() {
     },
     {
       "@type": "LocalBusiness",
+      "areaServed": [{"@type":"City","name":"Denver"},{"@type":"State","name":"Colorado"},{"@type":"Country","name":"United States"}],
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=1500+N+Grant+St+Ste+R+Denver+CO+80203",
       "@id": "https://aenfinite.com/#localbusiness",
       "name": "Aenfiniteデジタルイノベーションエージェンシー",
 	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",

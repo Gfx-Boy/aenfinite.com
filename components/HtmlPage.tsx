@@ -20,66 +20,7 @@ interface HtmlPageProps {
  * 4. Extracts and re-executes all <script> tags in proper order
  * 5. Handles both inline and external scripts
  */
-// Site-wide presentation fixes injected on every HtmlPage render (2026-07-31):
-// the header dropdown panels shipped with transparent backgrounds at top-of-page
-// state, making them unreadable over hero text.
-const GLOBAL_FIX_CSS = `
-/* aen-a11y (2026-08-14): Lighthouse color-contrast + tap-target fixes */
-.footer-email a, .sitemap-footer a { color: #ffffff !important; }
-a.to-meeter { background: #1656b5 !important; }
-.footer-language-switcher ul li a { display: inline-block; padding: 6px 8px; }
-.cookie-banner__button { min-height: 32px; min-width: 64px; padding: 8px 18px !important; }
-
-.dropdown-list, .sub-menu {
-  background: #ffffff !important;
-  border-radius: 10px;
-  box-shadow: 0 14px 44px rgba(0, 0, 0, 0.16);
-  padding: 8px 0 !important;
-  
-}
-.dropdown-list a, .sub-menu a { color: #222 !important; }
-.dropdown-list a:hover, .sub-menu a:hover { color: #227bf3 !important; }
-.mainnav.active .dropdown-list, .mainnav.active .sub-menu { background: #000 !important; }
-.mainnav.active .dropdown-list a, .mainnav.active .sub-menu a { color: #fff !important; }
-
-.mainnav { transition: background-color 0.25s ease, color 0.25s ease; }
-
-/* aen-nav-stacking: keep the sticky navbar above transformed page sections
-   (portfolio images were painting over nav items), but below the Calendly
-   modal (z 10000). */
-.mainnav { z-index: 9990 !important; }
-.dropdown-list, .sub-menu { z-index: 9995 !important; }
-
-/* Forgiving hover: invisible bridge under dropdown triggers + short close
-   delay so the panel survives the mouse crossing the gap. */
-.menu-item-has-children::after {
-  content: '';
-  position: absolute;
-  left: -12px;
-  right: -12px;
-  top: 100%;
-  height: 18px;
-}
-.menu-item-has-children:not(:hover) > .dropdown-list,
-.menu-item-has-children:not(:hover) > .sub-menu {
-  transition-delay: 0.18s;
-}
-`;
-
-const LINKEDIN_INLINE_RE = /<script(?![^>]*\bsrc=)[^>]*>(?:(?!<\/script>)[\s\S])*?(?:lintrk|licdn|acsbapp)(?:(?!<\/script>)[\s\S])*?<\/script>/gi;
-
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
-  // The legacy pages embed a LinkedIn Insight loader with no partner id — it
-  // tracks nothing but executes natively at parse time (deprecation warning +
-  // third-party cookies on every page). Same for the AccessiBe loader whose
-  // config 404s (lapsed subscription). Strip both before the HTML is served.
-  content = content.replace(LINKEDIN_INLINE_RE, '');
-  // Neutralize parse-time execution of the legacy scripts embedded in the page
-  // HTML: they assume jQuery is already present and threw '$ is not defined' on
-  // every load, then ran a second time (correctly) via executeScripts. Typing
-  // them out of execution leaves executeScripts as the single, ordered runner.
-  // Scripts that already carry a type (application/ld+json) are untouched.
-  content = content.replace(/<script(?![^>]*\btype=)([^>]*)>/gi, '<script type="text/aen-noexec"$1>');
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
 
@@ -114,53 +55,7 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
   // This preserves the original cascade order where inline styles
   // appeared before the external mainf1a7.css
   useEffect(() => {
-    if (!(window as any).__aenNavSync) {
-      (window as any).__aenNavSync = () => {
-        const nav = document.querySelector('.js-mainnav');
-        if (!nav) return;
-        const hovered = (nav as HTMLElement).matches(':hover');
-        if (window.scrollY > 50 || hovered) nav.classList.add('active');
-        else if (!nav.classList.contains('always-active')) nav.classList.remove('active');
-      };
-      window.addEventListener('scroll', (window as any).__aenNavSync, { passive: true });
-      document.addEventListener('mouseover', (window as any).__aenNavSync, { passive: true });
-    }
-    setTimeout((window as any).__aenNavSync, 0);
-
-    // aen-a11y: patch accessibility gaps in the legacy markup (list roles,
-    // unnamed icon links, unlabeled form fields) without touching 758 pages.
-    setTimeout(() => {
-      document.querySelectorAll('.footer-col_list').forEach(el => {
-        const directItems = el.querySelectorAll(':scope > li');
-        if (directItems.length) {
-          el.setAttribute('role', 'list');
-          directItems.forEach(li => li.setAttribute('role', 'listitem'));
-        } else {
-          el.removeAttribute('role'); // wraps a real <ul>; the div is not a list
-        }
-      });
-      document.querySelectorAll('a.fab, a.to-formss, a.to-meeter').forEach(a => {
-        if (!a.getAttribute('aria-label') && !(a.textContent || '').trim()) {
-          a.setAttribute('aria-label', a.classList.contains('to-meeter') ? 'Schedule a meeting' : 'Open contact form');
-        }
-      });
-      document.querySelectorAll('.wpcf7-form input:not([type="hidden"]):not([type="submit"]), .wpcf7-form textarea').forEach(el => {
-        const i = el as HTMLInputElement;
-        if (!i.getAttribute('aria-label') && !(i.labels && i.labels.length)) {
-          i.setAttribute('aria-label', i.getAttribute('placeholder') || i.getAttribute('name') || 'Form field');
-        }
-      });
-    }, 300);
-
-    if (!document.querySelector('style[data-aen="aen-global-fixes"]')) {
-      const fixEl = document.createElement('style');
-      fixEl.setAttribute('data-aen', 'aen-global-fixes');
-      fixEl.textContent = GLOBAL_FIX_CSS;
-      document.head.appendChild(fixEl);
-    }
-
     if (!headStyles) return;
-    if (document.querySelector('style[data-page-styles-ssr]')) return; // SSR copy already present
     
     const styleEl = document.createElement('style');
     styleEl.setAttribute('data-page-styles', 'true');
@@ -240,13 +135,6 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
       if (script.src) {
         entry.src = script.src;
       } else if (script.textContent && script.textContent.trim().length > 0) {
-        // Skip the legacy LinkedIn Insight loader baked into page HTML — it has
-        // no partner id (pid= empty), tracks nothing, and costs a deprecation
-        // warning + third-party cookies on every page.
-        if (/lintrk|licdn/.test(script.textContent)) {
-          script.remove();
-          return;
-        }
         entry.content = script.textContent;
       }
 
@@ -333,37 +221,11 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
     };
   }, [executeScripts]);
 
-  // Body classes drive the theme's CSS selectors (body.page-template ...).
-  // They must be present at first paint: applying them in useEffect (post-
-  // hydration) left the page unstyled at paint, then reflowed everything when
-  // the classes landed — a 0.98 CLS on every page. This inline script runs
-  // synchronously during HTML parsing, before any following content paints.
-  const bodyClassScript = bodyClassScriptFor(bodyClass);
-
   return (
-    <>
-      {bodyClassScript ? (
-        <script dangerouslySetInnerHTML={{ __html: bodyClassScript }} />
-      ) : null}
-      {/* Page-specific styles must be in the initial HTML: injecting them via
-          useEffect applied the page's grid/layout CSS after first paint and
-          reflowed the entire container (the remaining ~0.98 CLS). Rendered
-          inline (after theme CSS in document order) — ties now favour page
-          styles, which matches the intent of page-scoped selectors. */}
-      {headStyles ? (
-        <style data-page-styles-ssr="" dangerouslySetInnerHTML={{ __html: headStyles }} />
-      ) : null}
-      <div
-        ref={containerRef}
-        dangerouslySetInnerHTML={{ __html: content }}
-        suppressHydrationWarning
-      />
-    </>
+    <div
+      ref={containerRef}
+      dangerouslySetInnerHTML={{ __html: content }}
+      suppressHydrationWarning
+    />
   );
-}
-
-function bodyClassScriptFor(bodyClass: string): string {
-  const classes = (bodyClass || '').split(/\s+/).filter(Boolean);
-  if (!classes.length) return '';
-  return `document.body.classList.add(${classes.map(c => JSON.stringify(c)).join(',')});`;
 }

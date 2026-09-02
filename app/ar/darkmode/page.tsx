@@ -1,6 +1,6 @@
-﻿// Language: Arabic (ar)
+// Language: Arabic (ar)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
@@ -184,7 +184,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 
 const overrideCss = "/wp-content/themes/aenfinite.com/black-static/css/main8783.css?v=20221012-1710";
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -533,6 +533,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li id="menu-item-482" class="menu-item menu-item-type-post_type topnav-item menu-item-482"><a href="/ar/services/">الخدمات</a></li>
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type topnav-item menu-item-4127"><a href="/ar/contact/">اتصل بنا</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/ar/locations/">Locations</a></li>
 </ul>							</div>
 							<div class="menu-button mobile js-menu-toggle"></div>
 						</div>
@@ -1167,31 +1168,31 @@ with clients																											</div>
 
 			
 <!-- AEN-FAQ START -->
-<section class='aen-faq-block' dir='rtl' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;text-align:right;'>
+<section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
   <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>الأسئلة الشائعة</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>ماذا تقدم Aenfinite؟</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What does Aenfinite do?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite وكالة متكاملة للابتكار الرقمي تقدم تصميم وتطوير المواقع، والهوية البصرية، وتصميم تجربة وواجهة المستخدم، وتحسين محركات البحث، والتسويق الرقمي، وتطوير التطبيقات والبرمجيات، والتجارة الإلكترونية، والأتمتة بالذكاء الاصطناعي.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite is a full-service digital innovation agency offering web design and development, branding, UI/UX, SEO, digital marketing, app and software development, e-commerce, and AI automation.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>مع من تعمل Aenfinite؟</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Who does Aenfinite work with?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>نتعاون مع الشركات الناشئة والشركات الصغيرة والمؤسسات الكبرى في قطاعات متعددة، ونخدم عملاء في الولايات المتحدة وكندا وحول العالم.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We partner with startups, small businesses, and enterprises across many industries, serving clients across the US, Canada, and worldwide.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>كيف أحصل على عرض سعر؟</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I get a quote?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>احجز استشارة مجانية أو تواصل معنا وأخبرنا بأهدافك، وسنقدم لك عرضًا مخصصًا وواضحًا.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Book a free consultation or contact us with your goals and we will provide a tailored, transparent proposal.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>متى يمكنكم البدء؟</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How soon can you start?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>عادةً يمكننا البدء خلال أسبوعين تقريبًا. تواصل معنا وسنؤكد التوافر والجدول الزمني لمشروعك.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>We can usually begin within a couple of weeks. Reach out and we will confirm availability and timelines for your project.</div>
       </div>
     </details>
   </div>
@@ -1732,7 +1733,7 @@ var currentdate = new Date();
 	<!-- Email Subscription Form Handler -->
 	<script src="/darkmode/email-subscription.js"></script>
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/ar/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

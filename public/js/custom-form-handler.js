@@ -14,8 +14,7 @@
 
 class AenfiniteFormHandler {
     constructor() {
-        // Hardcoded N8N webhook URL - change this once for all forms
-        this.n8nWebhookUrl = 'https://n8n.aenfinite.com/webhook/aenfinite-contact-form';
+        this.apiEndpoint = '/api/contact/';
         this.init();
     }
 
@@ -472,118 +471,68 @@ class AenfiniteFormHandler {
         return { clean: true, reason: 'OK' };
     }
 
-    // Send to N8N Workflow (handles everything - CRM + Emails)
+    // Send directly to Next.js API route -> Twenty CRM + N8N
     async sendToCRM(formData) {
-        return this.sendToN8N(formData);
+        try {
+            const endpoint = (window.location.hostname === 'localhost' || window.location.hostname.endsWith('aenfinite.com'))
+                ? '/api/contact/'
+                : 'https://aenfinite.com/api/contact/';
+
+            const payload = {
+                contact: {
+                    name: formData['your-name'] || formData.name || '',
+                    email: formData['your-email'] || formData.email || '',
+                    project_description: formData['text-tell-project'] || formData.message || '',
+                    budget: formData.budget || '',
+                    services: formData.services || []
+                },
+                page_info: {
+                    service_type: formData.service_type || 'General Inquiry',
+                    page_title: formData.page_title || document.title,
+                    page_url: formData.page_url || window.location.href
+                },
+                tracking: {
+                    ip_address: formData.ip || '',
+                    location: formData.ipdetails || '',
+                    referrer: formData.urlback || document.referrer || '',
+                    utm_source: formData.utm_source || '',
+                    utm_medium: formData.utm_medium || '',
+                    utm_campaign: formData.utm_campaign || '',
+                    utm_term: formData.utm_term || '',
+                    utm_content: formData.utm_content || ''
+                }
+            };
+
+            const timeoutPromise = new Promise((_, reject) => {
+                setTimeout(() => reject(new Error('Request timeout after 12 seconds')), 12000);
+            });
+
+            const fetchPromise = fetch(endpoint, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const response = await Promise.race([fetchPromise, timeoutPromise]);
+            if (!response.ok) {
+                const errData = await response.json().catch(() => ({}));
+                throw new Error(errData.error || `Server returned ${response.status}`);
+            }
+
+            const data = await response.json();
+            return data.success !== false;
+        } catch (error) {
+            console.error('Contact submission error:', error);
+            return false;
+        }
     }
 
     async sendEmails(formData) {
-        // N8N handles emails too, so we just return true here
         return true;
     }
 
     async sendToN8N(formData) {
-        console.log('N8N webhook URL:', this.n8nWebhookUrl);
-        
-        if (!this.n8nWebhookUrl || this.n8nWebhookUrl.includes('your-n8n-instance.com')) {
-            console.log('⚠️ N8N webhook URL not set - please update the URL in custom-form-handler.js');
-            console.log('Form data that would be sent:', formData);
-            return true; // Return true for demo purposes
-        }
-
-        try {
-            // Prepare complete data package for N8N
-            const n8nData = {
-                // Form data
-                contact: {
-                    name: formData['your-name'],
-                    email: formData['your-email'],
-                    project_description: formData['text-tell-project'],
-                    budget: formData.budget,
-                    services: formData.services || []
-                },
-                
-                // Page and service info
-                page_info: {
-                    service_type: formData.service_type,
-                    page_title: formData.page_title,
-                    page_url: formData.page_url
-                },
-                
-                // Tracking and analytics
-                tracking: {
-                    ip_address: formData.ip,
-                    location: formData.ipdetails,
-                    referrer: formData.urlback,
-                    utm_source: formData.utm_source,
-                    utm_medium: formData.utm_medium,
-                    utm_campaign: formData.utm_campaign,
-                    utm_term: formData.utm_term,
-                    utm_content: formData.utm_content
-                },
-                
-                // Email templates (pre-generated for N8N to use)
-                email_templates: {
-                    admin_email: {
-                        subject: `New ${formData.service_type} Inquiry from ${formData['your-name']}`,
-                        html: this.generateAdminEmailHTML(formData)
-                    },
-                    client_email: {
-                        to: formData['your-email'],
-                        subject: `Thank you for contacting Aenfinite - ${formData.service_type}`,
-                        html: this.generateClientEmailHTML(formData)
-                    }
-                },
-                
-                // Meta information
-                meta: {
-                    source: 'Aenfinite Website Contact Form',
-                    timestamp: new Date().toISOString(),
-                    lead_priority: this.calculateLeadPriority(formData),
-                    form_version: '2.0'
-                }
-            };
-
-            console.log('Sending data to N8N:', n8nData);
-
-            // Create a timeout promise
-            const timeoutPromise = new Promise((_, reject) => {
-                setTimeout(() => reject(new Error('Request timeout after 10 seconds')), 10000);
-            });
-
-            // Race the fetch against the timeout
-            const fetchPromise = fetch(this.n8nWebhookUrl, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify(n8nData)
-            });
-
-            const response = await Promise.race([fetchPromise, timeoutPromise]);
-
-            console.log('N8N response status:', response.status);
-            console.log('N8N response ok:', response.ok);
-
-            if (!response.ok) {
-                const errorText = await response.text();
-                console.error('N8N webhook error response:', errorText);
-                throw new Error(`N8N webhook returned ${response.status}: ${errorText}`);
-            }
-
-            const responseData = await response.text();
-            console.log('N8N response data:', responseData);
-
-            return response.ok;
-        } catch (error) {
-            console.error('N8N webhook submission failed:', error);
-            console.error('Error details:', {
-                message: error.message,
-                stack: error.stack,
-                url: this.n8nWebhookUrl
-            });
-            return false;
-        }
+        return this.sendToCRM(formData);
     }
 
     // Generic email sending function

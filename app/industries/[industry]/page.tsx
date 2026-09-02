@@ -40,10 +40,26 @@ export async function generateMetadata(
   if (!ind) return {};
 
   const url = `https://aenfinite.com/industries/${industry}/`;
+  const enUrl = `https://aenfinite.com/industries/${industry}/`;
+  const languages: Record<string, string> = {
+    'x-default': enUrl,
+    'en': enUrl,
+    'es': `https://aenfinite.com/es/industries/${industry}/`,
+    'fr': `https://aenfinite.com/fr/industries/${industry}/`,
+    'de': `https://aenfinite.com/de/industries/${industry}/`,
+    'it': `https://aenfinite.com/it/industries/${industry}/`,
+    'ar': `https://aenfinite.com/ar/industries/${industry}/`,
+    'pt': `https://aenfinite.com/pt/industries/${industry}/`,
+    'zh': `https://aenfinite.com/zh/industries/${industry}/`,
+    'hi': `https://aenfinite.com/hi/industries/${industry}/`,
+    'nl': `https://aenfinite.com/nl/industries/${industry}/`,
+    'ja': `https://aenfinite.com/ja/industries/${industry}/`,
+    'ko': `https://aenfinite.com/ko/industries/${industry}/`,
+  };
   return {
     title: ind.title,
     description: ind.metaDesc,
-    alternates: { canonical: url },
+    alternates: { canonical: url, languages },
     openGraph: {
       title: ind.title,
       description: ind.metaDesc,
@@ -70,7 +86,7 @@ function buildIndustryBody(ind: IndustryRec): string {
   return `
 <div class="header" style="min-height:40vh;display:flex;align-items:center;padding:120px 24px 45px;">
   <div style="max-width:1050px;margin:0 auto;width:100%;">
-    <div style="font-size:42px;margin-bottom:12px;">${ind.icon}</div>
+    <div style="width:60px;height:60px;background:rgba(34,123,243,0.08);border:1px solid rgba(34,123,243,0.2);border-radius:14px;display:flex;align-items:center;justify-content:center;margin-bottom:18px;">${ind.icon}</div>
     <div class="title title__default"><h1 style="font-size:clamp(30px,5vw,52px);line-height:1.15;margin:0 0 18px;">${ind.heroHeading}</h1></div>
     <p style="font-size:clamp(17px,2.2vw,21px);line-height:1.6;opacity:0.88;max-width:840px;">${ind.heroSub}</p>
     <p style="margin-top:24px;">

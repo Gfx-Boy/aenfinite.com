@@ -2,11 +2,11 @@
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "n8n Automation Agency | Hire n8n Developers & Experts",
-  description: "Certified n8n automation agency: workflow development, self-hosted n8n setup, Zapier/Make migrations and managed hosting. US-based n8n developers — workflows from $1,000.",
-  keywords: "n8n automation agency, hire n8n developer, n8n consultant, n8n experts, n8n workflow development, self-hosted n8n, Zapier to n8n migration, Make.com automation agency, n8n vs Zapier, Aenfinite",
+  title: "Certified n8n Automation Agency & Developers — Open Workflows [2026]",
+  description: "✓ Certified n8n developers for self-hosted and cloud orchestration. ✓ Migrate from Zapier/Make, connect 300+ APIs, and eliminate per-task fees. Workflows from $1,000. Book consultation →",
+  keywords: "n8n automation, hire n8n developer, zapier to n8n migration, self hosted n8n, open source workflow automation",
   alternates: { canonical: "https://aenfinite.com/services/n8n-automation/", languages: {"x-default":"https://aenfinite.com/services/n8n-automation/","en":"https://aenfinite.com/services/n8n-automation/"} },
-  openGraph: {"title":"n8n Automation Agency | Hire n8n Developers & Experts | Aenfinite","description":"n8n workflow development, self-hosted setup, Zapier/Make migrations and managed n8n hosting from a US-based engineering agency.","url":"https://aenfinite.com/services/n8n-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title": "Certified n8n Automation Agency & Developers — Open Workflows [2026]","description": "✓ Certified n8n developers for self-hosted and cloud orchestration. ✓ Migrate from Zapier/Make, connect 300+ APIs, and eliminate per-task fees. Workflows from $1,000. Book consultation →","url":"https://aenfinite.com/services/n8n-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"n8n Automation Agency | Hire n8n Developers & Experts | Aenfinite","description":"n8n workflow development, self-hosting, migrations and managed support — US-based n8n experts.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -774,7 +774,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1112,23 +1112,20 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/industries/">Industries</a>
 							</li>
-							<li class="topnav-item js-topnav-follow-item">
-								<a href="/ai-solutions/">AI Solutions</a>
-							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/services/">Services</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/services/">Services</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
-											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
-<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
+											<li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
 											<li><a href="/services/custom-web-development/">Custom Web Development</a></li>
 											<li><a href="/services/software-and-platform-development/">Software & Platform Development</a></li>
 											<li><a href="/services/app-development/">App Development</a></li>
 											<li><a href="/services/web-design/">Website Design & Development</a></li>
-											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
+											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Design & Creative Services ›</a>
@@ -1136,7 +1133,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
 											<li><a href="/services/graphic-design/">Graphic Design</a></li> <li><a href="/services/logo-design/">Logo Design</a></li>
-											
 											<li><a href="/services/trade-show-booth-design/">Trade Show Booth Design</a></li>
 											<li><a href="/services/conference-branding/">Conference Branding</a></li>
 										</ul>
@@ -1148,139 +1144,25 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
 											<li><a href="/services/pay-per-click/">Pay-Per-Click (PPC) Advertising</a></li>
 											<li><a href="/services/social-media-marketing/">Social Media Marketing</a></li> <li><a href="/services/paid-ads/">Paid Advertising</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-and-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-and-business-automation/">Workflow & Business Automation</a></li>
-<li><a href="/services/ai-automation/">AI Automation</a></li>
-<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
-<li><a href="/services/n8n-automation/">n8n Automation</a></li>
-<li><a href="/services/crm-automation/">CRM Automation</a></li>
+											<li><a href="/services/ai-automation/">AI Automation</a></li>
+											<li><a href="/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/services/n8n-automation/">n8n Automation</a></li>
+											<li><a href="/services/crm-automation/">CRM Automation</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner With Us Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Services menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -2320,6 +2202,12 @@ export default function Page() {
     }
   ]
 }` }}
+        />
+      
+        <script
+          key="schema-faq"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How much does an n8n developer or agency cost?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Our n8n workflows start at <HtmlPage content={pageContent},000 fixed-price, self-hosted setups at <HtmlPage content={pageContent},500, and full implementations typically run $3,500–<HtmlPage content={pageContent}2,000. Managed hosting and support starts at $350/month. Freelancer rates vary wildly in quality; as an agency we quote fixed prices with documentation, error handling, and support included.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is n8n really cheaper than Zapier?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"At volume, dramatically. Zapier charges per task, so 50,000 tasks a month can cost thousands of dollars; a self-hosted n8n instance handles the same volume on a $20–$80/month server. The trade-off is setup and maintenance skill — which is exactly what you hire us for.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can you migrate our existing Zapier or Make setup to n8n?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes — it is one of our most-requested projects. We audit every Zap or scenario, rebuild them in n8n with better error handling, run both systems in parallel to verify identical output, then cut over. Most migrations finish in 2–6 weeks.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Should we self-host n8n or use n8n Cloud?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Self-host if you care about data control, custom nodes, or cost at scale — we harden the deployment with SSL, backups, and monitoring. n8n Cloud is fine for smaller teams who want zero infrastructure. We build on both and will recommend honestly for your volume.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can n8n run AI workflows with Claude or GPT?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes — n8n is arguably the best open-source orchestrator for AI. We build workflows where LLMs classify tickets, extract data from documents, draft replies, and power full agents with tool access and human approval gates, with token-cost monitoring built in.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What happens if a workflow breaks after launch?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Every build ships with error workflows and alerting, so failures notify us (and you) immediately. On managed plans we fix breakages as part of the SLA — including when a third-party app changes its API, which is the usual culprit.\"\n      }\n    }\n  ]\n}" }}
         />
       <HtmlPage content={pageContent} bodyClass={bodyClass} headStyles={headStyles} />
     </>

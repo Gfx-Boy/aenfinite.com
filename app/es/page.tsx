@@ -1,19 +1,19 @@
-﻿// Language: Spanish (es)
+// Language: Spanish (es)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | Agencia Profesional de Innovación Digital | Diseño Web, Branding y Marketing Digital",
-  description: "agencia de innovación digital especializada en diseño web personalizado, identidad de marca, diseño UI/UX, marketing digital, desarrollo de e-commerce y soluciones integrales de transformación digital. Sirviendo a empresas en los Estados Unidos y Canadá.",
-  keywords: "agencia digital, agencia de diseño web, agencia de branding, agencia de marketing digital Denver, diseño UI UX, desarrollo web personalizado, servicios SEO, desarrollo de aplicaciones, desarrollo de e-commerce, transformación digital, Aenfinite",
+  title: { absolute: "Aenfinite® — Diseño Web, AI Automatización & Desarrollo Personalizado | Denver" },
+  description: "Denver web design, desarrollo de aplicaciones & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
+  keywords: "agencia digital Denver, diseño web Denver, Denver software development, AI agency Denver, Colorado agencia digital, agencia digital, AI agency, AI automation services, software development agency, SEO agency, agencia de diseño web, agencia de branding, agencia de marketing digital Denver, diseño UI UX, desarrollo web personalizado, servicios SEO, desarrollo de aplicaciones, desarrollo de e-commerce, transformación digital, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/es/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"Aenfinite® | Agencia Profesional de Innovación Digital | Diseño Web, Branding y Marketing Digital","description":"agencia de innovación digital especializada en diseño web personalizado, identidad de marca, diseño UI/UX, marketing digital, desarrollo de e-commerce y soluciones integrales de transformación digital. Sirviendo a empresas en los Estados Unidos y Canadá.","url":"https://aenfinite.com/es/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  openGraph: {"title":"Aenfinite® | Digital Innovación Agencia | AI, Desarrollo de Software, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and desarrollo de aplicaciones, SEO & digital marketing, e-commerce, branding and UI/UX design. Sirviendo a empresas en los Estados Unidos y Canadá.","url":"https://aenfinite.com/es/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Aenfinite® | Agencia de Innovación Digital Galardonada","description":"Transforma tu negocio con Aenfinite®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -839,7 +839,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1130,19 +1130,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/es/agency/">Agencia</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/es/industries/">Industries</a>
+							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/es/services/">Servicios</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Soluciones de Desarrollo ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/es/services/wordpress-websites/">Sitios Web WordPress</a></li>
-<li><a href="/es/services/e-commerce-websites/">Sitios Web de E-Commerce</a></li>
+											<li><a href="/es/services/e-commerce-websites/">Sitios Web de E-Commerce</a></li>
 											<li><a href="/es/services/custom-web-development/">Desarrollo Web Personalizado</a></li>
 											<li><a href="/es/services/software-and-platform-development/">Desarrollo de Software y Plataformas</a></li>
 											<li><a href="/es/services/app-development/">Desarrollo de Aplicaciones</a></li>
 											<li><a href="/es/services/web-design/">Diseño y Desarrollo de Sitios Web</a></li>
-											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>									</ul>
+											<li><a href="/es/services/web-design-and-branding-for-real-estate/">Soluciones Web para Bienes Raíces</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">Servicios de Diseño y Creatividad ›</a>
@@ -1150,7 +1154,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/ui-ux-design/">Diseño UI/UX</a></li>
 											<li><a href="/es/services/branding/">Identidad de Marca y Estrategia</a></li>
 											<li><a href="/es/services/graphic-design/">Diseño Gráfico</a></li> <li><a href="/es/services/logo-design/">Diseño de Logotipos</a></li>
-											
 											<li><a href="/es/services/trade-show-booth-design/">Diseño de Stands para Ferias</a></li>
 											<li><a href="/es/services/conference-branding/">Branding para Conferencias</a></li>
 										</ul>
@@ -1162,18 +1165,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/es/services/search-engine-optimization/">Optimización para Motores de Búsqueda (SEO)</a></li>
 											<li><a href="/es/services/pay-per-click/">Publicidad de Pago por Clic (PPC)</a></li>
 											<li><a href="/es/services/social-media-marketing/">Marketing en Redes Sociales</a></li> <li><a href="/es/services/paid-ads/">Publicidad Pagada</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">Soluciones de IA y Tecnología ›</a>
 										<ul class="sub-menu">
 											<li><a href="/es/services/ai-chatbots-and-virtual-assistants/">Chatbots de IA y Asistentes Virtuales</a></li>
 											<li><a href="/es/services/workflow-and-business-automation/">Automatización de Flujos de Trabajo y Negocios</a></li>
+											<li><a href="/es/services/ai-automation/">AI Automatización</a></li>
+											<li><a href="/es/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/es/services/n8n-automation/">n8n Automatización</a></li>
+											<li><a href="/es/services/crm-automation/">CRM Automatización</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/es/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1233,14 +1242,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		</div>
 	</div>
-
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
-
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">
@@ -1266,15 +1267,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">Agencia Profesional de Innovación Digital</span>
-															<span class="marquee-line_text">Diseño Web Personalizado y Desarrollo de Marca</span>
+															<span class="marquee-line_text">Custom Software & Desarrollo Web</span>
 															<span class="marquee-line_text">Sirviendo Mercados en EE.UU. y Canadá</span>
 															<span class="marquee-line_text">Soluciones Expertas en UI/UX y Marketing Digital</span>
 															<span class="marquee-line_text">Reseñas de 5 Estrellas y Calificación en Clutch</span>
 															<span class="marquee-line_text">Equipo Experto - Adobe, Figma, Desarrollo Personalizado</span>
 															<span class="marquee-line_text">Proceso Ágil de Desarrollo y Diseño</span>
 															<span class="marquee-line_text">Agencia Digital con Sede en Denver</span>
-															<span class="marquee-line_text">Servicios Profesionales de Innovación Digital</span>
-															<span class="marquee-line_text">Soluciones Personalizadas para Cada Negocio</span>
+															<span class="marquee-line_text">Web, Brand & Diseño UI/UX</span>
+															<span class="marquee-line_text">SEO, PPC & Marketing Digital</span>
 															<span class="marquee-line_text">Desarrollo de E-Commerce y Aplicaciones Móviles</span>
 															<span class="marquee-line_text">Especialistas en SEO y Marketing Digital</span>
 													</div>
@@ -1453,7 +1454,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite® es una agencia profesional de innovación digital que transforma negocios a través de soluciones de diseño, desarrollo y marketing de vanguardia. Con sede en Denver y sirviendo a clientes en los Estados Unidos y Canadá, nuestro equipo experto entrega resultados excepcionales en diseño web, identidad de marca, diseño UI/UX, marketing digital, desarrollo de e-commerce y servicios integrales de transformación digital. Nos asociamos con empresas desde startups hasta compañías establecidas en salud, tecnología, bienes raíces y más para crear experiencias digitales impactantes que impulsan el crecimiento y la participación.</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through AI-powered solutions, custom software development, growth marketing, and cutting-edge design. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across AI chatbots & automation, custom web & desarrollo de aplicaciones, SEO & digital marketing, e-commerce, software engineering, brand identity, and UI/UX design. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.<div class="ai-services-highlight" style="margin-top:28px; display:inline-flex; align-items:center; gap:12px; padding:12px 20px; border:1px solid rgba(255,255,255,0.25); border-radius:999px; font-size:14px; line-height:1.4;"><span style="font-weight:700; white-space:nowrap;">&#10024; NEW</span><span>We now offer <strong>AI services</strong> &mdash; AI chatbots, workflow automation &amp; custom AI integrations. <a href="/es/services/ai-chatbots-and-virtual-assistants/" style="text-decoration:underline; font-weight:600;">Explore AI solutions &rarr;</a></span></div></div>
 									<div class="textbox-action">
 						<a href="/es/work/" class="redlink">
 							<span>Ver nuestro portafolio</span>
@@ -1521,8 +1522,8 @@ recommend a service from 1-10</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
-    <h3><b>Soluciones Digitales Innovadoras</b></h3>
-    <p>Aenfinite® combina estrategia, diseño y tecnología para crear experiencias digitales perfectas. Desde branding y diseño web hasta marketing y consultoría, ofrecemos soluciones basadas en datos que impulsan el crecimiento empresarial medible.</p>
+    <h3><b>Desarrollo, Design & Marketing</b></h3>
+    <p>Aenfinite® unites three core strengths — development, design, and marketing — to build seamless digital experiences. From custom software, web and desarrollo de aplicaciones to branding, UI/UX design, SEO and digital marketing, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1975,7 +1976,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Portafolio de la Agencia de Diseño Aenfinite®</h2>
+						<h2>Aenfinite® Agencia Portafolio</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2091,7 +2092,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="/work/" class="redlink">
+					<a href="/es/work/" class="redlink">
 						<span>Ver todos los proyectos</span>
 					</a>
 				</div>
@@ -2103,7 +2104,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>Preguntas Frecuentes de Aenfinite®</h2>
+									<h2>Aenfinite® Agencia FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2143,7 +2144,7 @@ recommend a service from 1-10</div>
                 <p>Seguimos un proceso claro y colaborativo que te mantiene involucrado y asegura la calidad en cada etapa:</p>
                 <p><b>1. Descubrimiento y Planificación:</b> Aprendemos sobre tu negocio, audiencia y objetivos para definir una estrategia clara.</p>
                 <p><b>2. Concepto y Dirección:</b> Nuestros creativos preparan moodboards, conceptos y direcciones de diseño alineados con tu visión de marca.</p>
-                <p><b>3. Diseño y Desarrollo:</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. Diseño y Desarrollo:</b> Ya sea branding, un sitio web o empaques, diseñamos, iteramos y refinamos hasta lograr el resultado perfecto.</p>
                 <p><b>4. Implementación:</b> Nuestro equipo de desarrollo da vida a los diseños, entregando productos digitales de alto rendimiento o activos listos para imprimir.</p>
                 <p><b>5. Lanzamiento y Optimización:</b> Asistimos con el despliegue, proporcionamos capacitación si es necesario y monitoreamos continuamente los resultados para mejoras.</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2187,9 +2188,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>¿Tienes un Proyecto en Mente? Construyamos Algo Grandioso Juntos.</span>
 								<a href="/es/contact/" class="redlink">
-									<span>Let's talk</span>
+									<span>Hablemos</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2204,6 +2205,8 @@ recommend a service from 1-10</div>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/es/agency/">Agencia</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/es/services/">Servicios</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/es/contact/">Contacto</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/es/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2262,7 +2265,7 @@ recommend a service from 1-10</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/es/" style="font-weight:bold;">Inglés</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2748,7 +2751,7 @@ document.addEventListener('keydown', function(event) {
 
 </script>
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/es/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2768,7 +2771,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2820,7 +2824,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "Agencia de innovación digital especializada en diseño web, branding, diseño UI/UX, marketing digital y desarrollo de e-commerce.",
+      "description": "Full-service agencia de innovación digital especializada en AI solutions, automation, custom software development, digital marketing, SEO, e-commerce, branding and UI/UX design.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2847,7 +2851,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
@@ -2856,7 +2861,7 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - Agencia de Innovación Digital",
       "alternateName": "Aenfinite®",
-      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "description": "Full-service digital innovation agency providing AI solutions, automation, software development, digital marketing, SEO, web design, branding and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"es-ES",
       "potentialAction": {
@@ -2867,6 +2872,8 @@ export default function Page() {
     },
     {
       "@type": "LocalBusiness",
+      "areaServed": [{"@type":"City","name":"Denver"},{"@type":"State","name":"Colorado"},{"@type":"Country","name":"United States"}],
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=1500+N+Grant+St+Ste+R+Denver+CO+80203",
       "@id": "https://aenfinite.com/#localbusiness",
       "name": "Agencia de Innovación Digital Aenfinite",
 	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",

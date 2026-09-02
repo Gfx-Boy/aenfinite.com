@@ -190,6 +190,7 @@ const nextConfig: NextConfig = {
       },
       // Legacy URLs still in Google's index (from old site versions)
       { source: '/about', destination: '/agency/', permanent: true },
+      { source: '/about-us', destination: '/agency/', permanent: true },
       { source: '/portfolio', destination: '/featured-work/', permanent: true },
       { source: '/privacy', destination: '/privacy-policy/', permanent: true },
       { source: '/terms', destination: '/privacy-policy/', permanent: true },
@@ -202,6 +203,20 @@ const nextConfig: NextConfig = {
       { source: '/services/content-creation', destination: '/services/digital-marketing/', permanent: true },
       { source: '/work/global-design-solutions/', destination: '/work/global-design-solution/', permanent: true },
       { source: '/work/services/', destination: '/services/', permanent: true },
+
+      // High-authority blog posts moved to blog.aenfinite.com
+      { source: '/how-much-does-an-ai-chatbot-cost/', destination: 'https://blog.aenfinite.com/how-much-does-an-ai-chatbot-cost/', permanent: true },
+      { source: '/how-much-does-a-website-cost-for-a-small-business/', destination: 'https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/', permanent: true },
+      { source: '/best-web-design-agencies-denver/', destination: 'https://blog.aenfinite.com/best-web-design-agencies-denver/', permanent: true },
+      { source: '/the-essential-guide-to-digital-web-design-and-marketing-startups/', destination: 'https://blog.aenfinite.com/the-essential-guide-to-digital-web-design-and-marketing-startups/', permanent: true },
+      { source: '/innovative-web-design-a-guide-to-inspiring-digital-agency-websites/', destination: 'https://blog.aenfinite.com/innovative-web-design-a-guide-to-inspiring-digital-agency-websites/', permanent: true },
+      { source: '/the-evolution-of-digital-agency-websites-inspiration-and-design-insight/', destination: 'https://blog.aenfinite.com/the-evolution-of-digital-agency-websites-inspiration-and-design-insight/', permanent: true },
+      { source: '/the-future-of-digital-design-key-trends-and-agencies-to-watch/', destination: 'https://blog.aenfinite.com/the-future-of-digital-design-key-trends-and-agencies-to-watch/', permanent: true },
+      { source: '/the-future-of-digital-web-design-trends-and-innovations-for-startups/', destination: 'https://blog.aenfinite.com/the-future-of-digital-web-design-trends-and-innovations-for-startups/', permanent: true },
+      { source: '/unveiling-the-future-inspirations-and-innovations-in-digital-agency-websites/', destination: 'https://blog.aenfinite.com/', permanent: true },
+      { source: '/top-digital-agency-websites-inspiring-innovation-in-2026/', destination: 'https://blog.aenfinite.com/', permanent: true },
+      { source: '/tag/:path*', destination: 'https://blog.aenfinite.com/', permanent: true },
+      { source: '/category/:path*', destination: 'https://blog.aenfinite.com/', permanent: true },
     ];
   },
 

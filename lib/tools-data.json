@@ -1,0 +1,284 @@
+{
+  "n8n": {
+    "slug": "n8n",
+    "name": "n8n",
+    "fullName": "n8n Workflow Automation",
+    "title": "n8n Workflow Automation [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert n8n setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "n8n is the most powerful open-source workflow automation platform. We use it to build AI pipelines, data integrations, and business automations that you self-host and fully own.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83\"/></svg>",
+    "whatItDoes": "n8n is an open-source workflow automation tool that connects 400+ apps, APIs, and AI models. Unlike Zapier or Make, you can self-host it — meaning your data never leaves your servers, and you never hit usage-based pricing walls.",
+    "howWeUseIt": [
+      "AI agent orchestration — connecting Vapi voice agents to CRM, calendar, and databases",
+      "Lead routing workflows — inbound leads scored, enriched, and routed in real-time",
+      "Data sync pipelines — keeping CRM, accounting, and project management in sync",
+      "Webhook handlers — processing form submissions, payment events, and API callbacks",
+      "Scheduled reports — automated daily/weekly performance reports delivered to your inbox",
+      "Error monitoring — self-healing workflows with Slack/email alerts on failures"
+    ],
+    "whyNotDIY": "n8n is powerful but has a steep learning curve. Building reliable, production-grade workflows requires understanding error handling, retry logic, data transformation, and API authentication patterns. We've built 200+ n8n workflows and know the pitfalls.",
+    "useCases": [
+      "after-hours-ai-receptionist",
+      "ai-lead-qualification",
+      "ai-follow-up-sequences"
+    ],
+    "pricing": "n8n implementation from $1,500/project. Self-hosted setup from $500.",
+    "faqs": [
+      {
+        "q": "Should I self-host or use n8n Cloud?",
+        "a": "For most businesses, we recommend self-hosting on a $20/month VPS. You get unlimited executions, full data control, and no per-workflow pricing. We set up and maintain the server for you."
+      },
+      {
+        "q": "How does n8n compare to Zapier?",
+        "a": "n8n is more powerful and dramatically cheaper at scale. Zapier charges per task (can reach $500+/month for heavy users). n8n self-hosted has no per-task limits. The trade-off: n8n requires more technical skill to set up, which is where we come in."
+      },
+      {
+        "q": "Can n8n handle AI workflows?",
+        "a": "Yes. n8n has native nodes for OpenAI, Anthropic, local LLMs, and custom AI models. We build AI chains, RAG pipelines, and agent orchestration on n8n."
+      },
+      {
+        "q": "Is n8n reliable for production use?",
+        "a": "Absolutely. With proper error handling, queue management, and monitoring (which we implement), n8n handles millions of executions per month reliably."
+      },
+      {
+        "q": "Do you provide ongoing n8n support?",
+        "a": "Yes. We offer management plans starting at $197/month covering monitoring, updates, new workflow builds, and priority support."
+      }
+    ]
+  },
+  "make": {
+    "slug": "make",
+    "name": "Make.com",
+    "fullName": "Make.com (formerly Integromat)",
+    "title": "Make.com (formerly Integromat) [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert Make.com setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "Make.com (formerly Integromat) is the visual automation platform that handles complex, multi-step business workflows. We build scenarios that save you 20–40 hours per week.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z\"/></svg>",
+    "whatItDoes": "Make.com is a visual workflow automation platform with 1,500+ app integrations. Its strength is complex, multi-branch scenarios with advanced data manipulation — perfect for businesses that need sophisticated automation without coding.",
+    "howWeUseIt": [
+      "Complex data transformation — restructuring data between platforms with custom logic",
+      "Multi-branch workflows — scenarios that split based on conditions, merge results",
+      "E-commerce automation — order processing, inventory sync, fulfillment triggers",
+      "Client onboarding flows — form submission → CRM → email sequence → task creation",
+      "Social media automation — content scheduling, engagement tracking, reporting",
+      "Custom API integrations — connecting tools that don't have native integrations"
+    ],
+    "whyNotDIY": "Make.com's visual builder looks easy, but production scenarios require error handling, rate limiting, data validation, and monitoring. Most DIY scenarios break within weeks because they don't handle edge cases.",
+    "useCases": [
+      "website-lead-capture-chatbot",
+      "ai-review-management",
+      "ai-follow-up-sequences"
+    ],
+    "pricing": "Make.com implementation from $1,000/project. Monthly management from $147/mo.",
+    "faqs": [
+      {
+        "q": "Make.com vs. n8n — which should I use?",
+        "a": "Make.com is easier for visual learners and has more native integrations. n8n is more powerful for AI workflows and self-hosting. We help you choose based on your specific needs."
+      },
+      {
+        "q": "Make.com vs. Zapier?",
+        "a": "Make is more powerful and cost-effective than Zapier for multi-step workflows. Zapier is simpler for basic 2-step automations. If you need anything beyond 'when X happens, do Y,' Make is better."
+      },
+      {
+        "q": "Can Make.com handle high volume?",
+        "a": "Yes. With the right plan and scenario architecture, Make handles thousands of operations per day. We optimize scenarios for performance and cost efficiency."
+      },
+      {
+        "q": "Do I need a paid Make.com plan?",
+        "a": "For business use, yes. We help you choose the right plan based on your operation volume. Most clients need the Teams plan ($16/month) or higher."
+      },
+      {
+        "q": "Can you migrate my Zapier workflows to Make?",
+        "a": "Yes. We regularly migrate Zapier workflows to Make, often reducing costs by 40–60% while adding more sophisticated logic."
+      }
+    ]
+  },
+  "vapi": {
+    "slug": "vapi",
+    "name": "Vapi",
+    "fullName": "Vapi AI Voice Agents",
+    "title": "Vapi AI Voice Agents [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert Vapi setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "Vapi is the platform for building AI voice agents that handle real phone conversations. We use it to create AI receptionists, sales agents, and support bots that sound human and convert.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z\"/><path d=\"M19 10v2a7 7 0 0 1-14 0v-2M12 19v4M8 23h8\"/></svg>",
+    "whatItDoes": "Vapi is an AI voice agent platform that enables building phone bots with natural language understanding, real-time tool calls (check calendars, query databases), and human-like conversation. It's the backbone of our AI receptionist and voice agent systems.",
+    "howWeUseIt": [
+      "AI receptionists — 24/7 phone answering with booking and qualification",
+      "Sales qualification agents — outbound and inbound calls that qualify and route leads",
+      "Support triage bots — first-line support that resolves 60–70% of calls without human",
+      "Appointment confirmation — outbound calls to confirm, reschedule, or remind",
+      "Emergency dispatch — after-hours emergency triage for service businesses",
+      "Multilingual agents — AI agents that converse in English and Spanish"
+    ],
+    "whyNotDIY": "Vapi provides the infrastructure, but building a voice agent that actually works requires expert prompt engineering, conversation flow design, tool call architecture, and integration with your specific business tools. The difference between a demo and a production agent is 100+ hours of tuning.",
+    "useCases": [
+      "after-hours-ai-receptionist",
+      "ai-appointment-booking",
+      "law-firm-client-intake",
+      "multi-location-ai-phone"
+    ],
+    "pricing": "Vapi voice agent development from $2,500/agent. Monthly management from $297/mo.",
+    "faqs": [
+      {
+        "q": "How realistic does the AI voice sound?",
+        "a": "Very realistic. Vapi uses ElevenLabs, PlayHT, and Deepgram voices that are nearly indistinguishable from humans. We select and tune the voice to match your brand."
+      },
+      {
+        "q": "Vapi vs. Retell AI — which is better?",
+        "a": "Both are excellent. Vapi has stronger tool-calling and real-time integration capabilities. Retell has great voice quality and simpler setup. We use both depending on the use case."
+      },
+      {
+        "q": "Can the AI handle interruptions and natural conversation?",
+        "a": "Yes. Vapi handles interruptions, pauses, 'um's, and natural speech patterns. It's not turn-based — it's conversational."
+      },
+      {
+        "q": "What happens during outages?",
+        "a": "We build fallback routing into every agent. If Vapi has issues, calls route to your backup number or voicemail with immediate SMS notification."
+      },
+      {
+        "q": "How much does Vapi cost per minute?",
+        "a": "Vapi charges approximately $0.05–$0.15 per minute depending on the voice provider and model. For most businesses, this is dramatically cheaper than human receptionists."
+      }
+    ]
+  },
+  "ghl": {
+    "slug": "ghl",
+    "name": "GoHighLevel",
+    "fullName": "GoHighLevel (GHL) CRM & Marketing Platform",
+    "title": "GoHighLevel (GHL) CRM & Marketing Platform [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert GoHighLevel setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "GoHighLevel is the all-in-one platform for CRM, SMS marketing, booking, pipelines, and automation. We set it up, configure it for your business, and integrate it with your AI systems.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 20V10M12 20V4M6 20v-6\"/></svg>",
+    "whatItDoes": "GoHighLevel (GHL) combines CRM, email marketing, SMS, landing pages, booking calendars, pipeline management, and reputation management into one platform. At $97–$497/month, it replaces $500–$2,000/month worth of separate tools.",
+    "howWeUseIt": [
+      "CRM setup — custom pipelines, stages, and automations for your sales process",
+      "SMS & email campaigns — drip sequences, broadcast campaigns, and triggers",
+      "Booking calendars — self-scheduling with round-robin, service selection, and reminders",
+      "Landing pages & funnels — conversion-optimized pages for campaigns",
+      "AI integration — connecting Vapi voice agents and n8n workflows to GHL",
+      "Reputation management — automated review requests and response workflows"
+    ],
+    "whyNotDIY": "GHL is powerful but overwhelming. Most businesses set up 10% of its capability. We configure the entire platform around your specific sales process, integrations, and automation needs — so you actually use it.",
+    "useCases": [
+      "missed-call-text-back",
+      "ai-follow-up-sequences",
+      "ai-website-crm-package"
+    ],
+    "pricing": "GHL setup from $1,500. Migration from HubSpot/Salesforce from $2,500. Monthly management from $197/mo.",
+    "faqs": [
+      {
+        "q": "Why GoHighLevel instead of HubSpot?",
+        "a": "For small businesses, GHL offers more features at a fraction of the cost. HubSpot charges $800+/month for features GHL includes at $97/month. See our full comparison."
+      },
+      {
+        "q": "Can you migrate my data from another CRM?",
+        "a": "Yes. We migrate contacts, deals, emails, templates, and workflows from HubSpot, Salesforce, Pipedrive, and most CRMs."
+      },
+      {
+        "q": "Do I need the $97 or $297 plan?",
+        "a": "Most small businesses need the $97 plan. The $297 plan adds API access (needed for AI integrations) and white-labeling. We'll recommend the right plan during setup."
+      },
+      {
+        "q": "Can GHL replace my entire tech stack?",
+        "a": "For many businesses, yes. GHL can replace Calendly, Mailchimp, ActiveCampaign, Podium, and basic CRM tools. We'll audit your current stack and show you what to consolidate."
+      },
+      {
+        "q": "How long does GHL setup take?",
+        "a": "Basic setup: 3–5 days. Full setup with migration, custom pipelines, and automation: 7–14 days. Complex setups with AI integration: 14–21 days."
+      }
+    ]
+  },
+  "wordpress": {
+    "slug": "wordpress",
+    "name": "WordPress",
+    "fullName": "WordPress & WooCommerce Development",
+    "title": "WordPress & WooCommerce Development [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert WordPress setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "WordPress powers 43% of the web. We build custom WordPress themes (not template hacks) that load fast, convert visitors, and integrate with your AI and CRM systems.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"/></svg>",
+    "whatItDoes": "WordPress is the world's most popular CMS. We build custom themes, WooCommerce stores, membership sites, and complex WordPress applications — with clean code, fast performance, and built-in SEO.",
+    "howWeUseIt": [
+      "Custom theme development — unique designs built from scratch, not template tweaks",
+      "WooCommerce stores — high-performance e-commerce with custom checkout flows",
+      "AI chatbot integration — embedding conversational AI directly into WordPress sites",
+      "CRM integration — forms and lead capture connected to GHL, HubSpot, or Salesforce",
+      "Performance optimization — achieving sub-2-second load times on WordPress",
+      "Security hardening — enterprise-grade security for WordPress installations"
+    ],
+    "whyNotDIY": "Anyone can install a WordPress template. But a template site looks like 50,000 other sites, loads slowly (3–6 seconds), and converts poorly. Custom WordPress development requires expertise in PHP, JavaScript, performance optimization, and SEO — which is what we deliver.",
+    "useCases": [
+      "ai-website-crm-package",
+      "website-lead-capture-chatbot"
+    ],
+    "pricing": "Custom WordPress sites from $3,500. WooCommerce stores from $5,000. Redesigns from $2,500.",
+    "faqs": [
+      {
+        "q": "Why custom WordPress instead of Webflow or Wix?",
+        "a": "WordPress gives you full ownership, unlimited extensibility, and the world's largest plugin ecosystem. Webflow and Wix lock you into their platform and limit what you can build."
+      },
+      {
+        "q": "Will it be as fast as a custom-coded site?",
+        "a": "With our optimization approach, yes. We achieve Core Web Vitals scores of 90+ on WordPress by eliminating bloat, optimizing images, and using efficient code."
+      },
+      {
+        "q": "Can you add AI features to my existing WordPress site?",
+        "a": "Yes. We can retrofit AI chatbots, lead capture, booking systems, and CRM integrations onto any existing WordPress site without rebuilding."
+      },
+      {
+        "q": "Do you use page builders like Elementor?",
+        "a": "No. Page builders add significant bloat (200KB+ of unnecessary CSS/JS). We build with clean PHP templates and the WordPress block editor when client-editable content is needed."
+      },
+      {
+        "q": "What about WordPress hosting?",
+        "a": "We recommend Cloudways, Kinsta, or WP Engine for managed hosting. We set up and optimize the hosting environment as part of every project."
+      }
+    ]
+  },
+  "retell": {
+    "slug": "retell",
+    "name": "Retell AI",
+    "fullName": "Retell AI Voice Agents",
+    "title": "Retell AI Voice Agents [2026] — Certified Implementation Partner",
+    "metaDesc": "✓ Expert Retell AI setup & custom workflows. ✓ Done-for-you integrations, zero lock-in, systems you own. Get a fixed-price build plan →",
+    "heroSub": "Retell AI specializes in ultra-realistic voice agents with industry-leading latency. We use it for AI receptionists and phone bots where voice quality is the top priority.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z\"/></svg>",
+    "whatItDoes": "Retell AI is a voice agent platform known for its ultra-low latency (sub-500ms response time) and extremely natural voice quality. It's ideal for scenarios where callers must not detect they're speaking with AI.",
+    "howWeUseIt": [
+      "Premium AI receptionists — where voice quality is paramount (medical, legal, luxury)",
+      "Outbound calling agents — high-volume outbound with natural conversation flow",
+      "Call center augmentation — handling overflow calls during peak periods",
+      "Appointment reminders — outbound reminder calls with rescheduling capability",
+      "Survey agents — post-service satisfaction surveys via phone",
+      "Lead re-engagement — calling dormant leads with personalized outreach"
+    ],
+    "whyNotDIY": "Retell provides the platform, but building agents that handle real business conversations requires prompt engineering, conversation design, integration architecture, and extensive testing. We've deployed Retell agents handling thousands of calls per month.",
+    "useCases": [
+      "after-hours-ai-receptionist",
+      "ai-appointment-booking",
+      "multi-location-ai-phone"
+    ],
+    "pricing": "Retell AI agent development from $2,000/agent. Monthly management from $247/mo.",
+    "faqs": [
+      {
+        "q": "Retell vs. Vapi — when do you use each?",
+        "a": "Retell for premium voice quality and ultra-low latency. Vapi for complex tool calling and real-time integrations. Both are excellent — the choice depends on your priorities."
+      },
+      {
+        "q": "How natural does Retell sound?",
+        "a": "Retell has some of the most natural-sounding AI voices available. In our testing, less than 15% of callers suspect they're speaking with AI."
+      },
+      {
+        "q": "What's the per-minute cost?",
+        "a": "Retell pricing varies by plan, typically $0.07–$0.15 per minute. For most businesses, this is a fraction of the cost of human agents."
+      },
+      {
+        "q": "Can Retell agents handle complex conversations?",
+        "a": "Yes. With proper prompt engineering and tool integration, Retell agents handle multi-turn conversations, answer questions, collect information, and book appointments."
+      },
+      {
+        "q": "Is Retell reliable for production use?",
+        "a": "Yes. Retell has 99.9% uptime and handles enterprise-scale deployments. We implement monitoring and failover for every agent."
+      }
+    ]
+  }
+}

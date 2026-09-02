@@ -4,12 +4,12 @@ import chrome from '@/lib/city-chrome.json';
 import aiSolutionsData from '@/lib/ai-solutions-data.json';
 
 export const metadata: Metadata = {
-  title: 'AI Automation & Voice Receptionists by Industry | Aenfinite',
-  description: 'Done-for-you AI chatbots, voice receptionists, and workflow automation tailored for dental, HVAC, legal, real estate, restaurants, and home services.',
+  title: 'AI Automation & Voice Receptionists by Industry [2026]',
+  description: '✓ Done-for-you AI chatbots, voice receptionists, and workflow automation tailored for dental, HVAC, legal, real estate, and home services. Free live demo →',
   keywords: 'AI automation by industry, AI receptionist, AI voice agent, dental AI chatbot, HVAC AI receptionist, legal AI intake, real estate AI assistant, restaurant AI ordering',
   alternates: { canonical: 'https://aenfinite.com/ai-solutions/' },
   openGraph: {
-    title: 'AI Automation & Voice Receptionists by Industry | Aenfinite',
+    title: 'AI Automation & Voice Receptionists by Industry [2026]',
     description: 'Custom AI chatbots and voice agents engineered for your specific business vertical. 24/7 lead qualification, appointment booking, and CRM synchronization.',
     url: 'https://aenfinite.com/ai-solutions/',
     siteName: 'Aenfinite',
@@ -64,7 +64,7 @@ function buildAIHubContent(): string {
     ${SOLUTIONS.map(sol => `
       <div style="border:1px solid rgba(128,128,128,0.22);border-radius:14px;padding:28px;background:rgba(255,255,255,0.03);display:flex;flex-direction:column;justify-content:space-between;">
         <div>
-          <div style="font-size:36px;margin-bottom:12px;">${sol.icon}</div>
+          <div style="font-size:32px;width:56px;height:56px;background:rgba(34,123,243,0.1);border:1px solid rgba(34,123,243,0.2);border-radius:12px;display:flex;align-items:center;justify-content:center;margin-bottom:16px;">${sol.icon}</div>
           <h3 style="font-size:22px;font-weight:700;margin:0 0 12px;line-height:1.3;">
             <a href="/ai-solutions/${sol.slug}/" style="color:inherit;text-decoration:none;">${sol.name}</a>
           </h3>

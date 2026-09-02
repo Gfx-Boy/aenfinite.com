@@ -1,6 +1,6 @@
-﻿// Language: German (de)
+// Language: German (de)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
@@ -395,7 +395,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		}
 	`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -730,166 +730,60 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/de/agency/">Agentur</a>
 							</li>
-							                            <li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
-                                <a href="/de/services/">Dienstleistungen</a>
-                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Entwicklungslösungen ›</a>
-                                        <ul class="sub-menu">
-                                            
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/industries/">Industries</a>
+							</li>
+							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
+								<a href="/de/services/">Dienstleistungen</a>
+								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Entwicklungslösungen ›</a>
+										<ul class="sub-menu">
 											<li><a href="/de/services/wordpress-websites/">WordPress-Websites</a></li>
-<li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
+											<li><a href="/de/services/e-commerce-websites/">E-Commerce-Websites</a></li>
 											<li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
 											<li><a href="/de/services/software-and-platform-development/">Software- und Plattformentwicklung</a></li>
 											<li><a href="/de/services/app-development/">App-Entwicklung</a></li>
 											<li><a href="/de/services/web-design/">Webdesign und Entwicklung</a></li>
-											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>                                      </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Design- und Kreativdienstleistungen ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
-                                            <li><a href="/de/services/custom-web-development/">Individuelle Webentwicklung</a></li>
-                                            <li><a href="/de/services/e-commerce-websites/">E-Commerce-Entwicklung</a></li>
-                                            <li><a href="/de/services/web-design/">Responsive Webdesign</a></li>
-                                            <li><a href="/de/services/software-and-platform-development/">Plattformentwicklung</a></li>
-                                            <li><a href="/de/services/app-development/">Mobile App-Entwicklung</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing- und Digitale Lösungen ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
-                                            <li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
-                                            <li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
-                                            <li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
-                                            
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">KI- und Technologielösungen ›</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
-                                            <li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li><style>/* Multi-Level Dropdown Navigation Styles - Partner werden Style */
-.menu-item-has-children {
-    position: relative;
-}
-
-/* Main dropdown from Dienstleistungen menu - adaptive styling */
-.dropdown-list {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    min-width: 200px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: all 0.3s ease;
-    z-index: 1000;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-    margin-top: 2px;
-}
-
-/* Sub-menus - adaptive styling based on navbar state */
-.sub-menu {
-    position: absolute;
-    top: -5px;
-    left: 100%;
-    margin-left: 1px;
-    min-width: 250px;
-    width: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateX(-20px);
-    transition: all 0.4s ease;
-    z-index: 1001;
-    list-style: none;
-    padding: 5px 0;
-    margin: 0;
-}
-
-/* Default dropdown styling - no background, dark text (for top of page) */
-.dropdown-list a,
-.sub-menu a {
-    display: block;
-    padding: 10px 20px;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    font-size: 16px;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-    border-left: 3px solid transparent;
-}
-
-.dropdown-list a:hover,
-.sub-menu a:hover {
-    color: #007cba;
-    padding-left: 15px;
-}
-
-/* When navbar is active/scrolled - black background, white text */
-.mainnav.active .dropdown-list,
-.mainnav.active .sub-menu {
-    margin-top: 10px;
-    background: #000;
-}
-
-.mainnav.active .dropdown-list a,
-.mainnav.active .sub-menu a {
-    color: #fff;
-}
-
-.mainnav.active .dropdown-list a:hover,
-.mainnav.active .sub-menu a:hover {
-    color: #007cba;
-}
-
-/* When hovering over menu item with children, expand main dropdown to match sub-menu */
-.menu-item-has-children:hover > .sub-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(0);
-}
-
-/* Expand main dropdown when sub-menu is hovered */
-.menu-item-has-children:hover {
-    min-width: 250px;
-}
-
-.dropdown-list:has(.menu-item-has-children:hover) {
-    min-width: 250px;
-    width: 250px;
-}
-
-/* Mobile Styles */
-@media (max-width: 768px) {
-    .sub-menu {
-        position: static;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        border: none;
-        border-left: 3px solid #007cba;
-        margin-left: 15px;
-        background: #f9f9f9;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-    
-    .menu-item-has-children.active > .sub-menu {
-        max-height: 500px;
-    }
-}</style>						</ul>
+											<li><a href="/de/services/web-design-and-branding-for-real-estate/">Web-Lösungen für Immobilien</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Design- und Kreativdienstleistungen ›</a>
+										<ul class="sub-menu">
+											<li><a href="/de/services/ui-ux-design/">UI/UX-Design</a></li>
+											<li><a href="/de/services/branding/">Markenidentität und Strategie</a></li>
+											<li><a href="/de/services/graphic-design/">Grafikdesign</a></li> <li><a href="/de/services/logo-design/">Logodesign</a></li>
+											<li><a href="/de/services/trade-show-booth-design/">Messestand-Design</a></li>
+											<li><a href="/de/services/conference-branding/">Konferenz-Markengestaltung</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">Marketing- und Digitale Lösungen ›</a>
+										<ul class="sub-menu">
+											<li><a href="/de/services/digital-marketing/">Digitale Marketingstrategie</a></li>
+											<li><a href="/de/services/search-engine-optimization/">Suchmaschinenoptimierung (SEO)</a></li>
+											<li><a href="/de/services/pay-per-click/">Pay-Per-Click (PPC) Werbung</a></li>
+											<li><a href="/de/services/social-media-marketing/">Social-Media-Marketing</a></li> <li><a href="/de/services/paid-ads/">Bezahlte Werbung</a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children">
+										<a href="#">KI- und Technologielösungen ›</a>
+										<ul class="sub-menu">
+											<li><a href="/de/services/ai-chatbots-and-virtual-assistants/">KI-Chatbots und virtuelle Assistenten</a></li>
+											<li><a href="/de/services/workflow-and-business-automation/">Workflow- und Geschäftsautomatisierung</a></li>
+											<li><a href="/de/services/ai-automation/">AI Automatisierung</a></li>
+											<li><a href="/de/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/de/services/n8n-automation/">n8n Automatisierung</a></li>
+											<li><a href="/de/services/crm-automation/">CRM Automatisierung</a></li>
+										</ul>
+									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/de/ai-solutions/">AI Solutions</a>
+							</li>
+						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
 					<div class="topbar-social desktop">
@@ -980,7 +874,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="Booth-Mockup.webp" alt="E-commerce Website Entwicklung" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/Booth-Mockup.webp" alt="E-commerce Website Entwicklung" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1000,7 +894,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="mockup.webp" alt="Mobile App Design & Entwicklung" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/mockup.webp" alt="Mobile App Design & Entwicklung" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1020,7 +914,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="attachment_156965225.webp" alt="Digitales Marketing Campaign Design" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/attachment_156965225.webp" alt="Digitales Marketing Campaign Design" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1040,7 +934,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="75b53ec6-577a-45ef-a9b3-d99fe5.webp" alt="Luxury Product Verpackungsdesign" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/75b53ec6-577a-45ef-a9b3-d99fe5.webp" alt="Luxury Product Verpackungsdesign" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										View in gallery									</div>
 								</div>
@@ -1060,7 +954,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="cyclethe6-logo-01.webp" alt="Custom Softwareentwicklung Platform" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-01.webp" alt="Custom Softwareentwicklung Platform" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Sammlung ansehen (8 Bilder)									</div>
 								</div>
@@ -1076,13 +970,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<!-- Hidden images for lightbox collection -->
 							<div class="hidden-lightbox-images" style="display: none;">
-								<img src="cyclethe6-logo-02.webp" alt="Software Platform Design 2" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-03.webp" alt="Software Platform Design 3" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-04.webp" alt="Software Platform Design 4" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo_4.webp" alt="Software Platform Alternative" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-10.webp" alt="Software Platform Design 10" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-13.webp" alt="Software Platform Design 13" data-project-group="cyclethe6" loading="lazy" decoding="async" />
-								<img src="cyclethe6-logo-14.webp" alt="Software Platform Design 14" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-02.webp" alt="Software Platform Design 2" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-03.webp" alt="Software Platform Design 3" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-04.webp" alt="Software Platform Design 4" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo_4.webp" alt="Software Platform Alternative" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-10.webp" alt="Software Platform Design 10" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-13.webp" alt="Software Platform Design 13" data-project-group="cyclethe6" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/cyclethe6-logo-14.webp" alt="Software Platform Design 14" data-project-group="cyclethe6" loading="lazy" decoding="async" />
 							</div>
 						</div>
 						
@@ -1090,7 +984,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="#" class="a-preview" data-lightbox-trigger></a>
 								<div class="preview-media">
-									<img src="muskfume.webp" alt="Motion Grafiken & Video Production" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/muskfume.webp" alt="Motion Grafiken & Video Production" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Sammlung ansehen (5 Bilder)									</div>
 								</div>
@@ -1106,10 +1000,10 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							</div>
 							<!-- Hidden images for lightbox collection -->
 							<div class="hidden-lightbox-images" style="display: none;">
-								<img src="muskfume_presentation-08.webp" alt="Motion Grafiken 8" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-11.webp" alt="Motion Grafiken 11" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-13.webp" alt="Motion Grafiken 13" data-project-group="muskfume" loading="lazy" decoding="async" />
-								<img src="muskfume_presentation-16.webp" alt="Motion Grafiken 16" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-08.webp" alt="Motion Grafiken 8" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-11.webp" alt="Motion Grafiken 11" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-13.webp" alt="Motion Grafiken 13" data-project-group="muskfume" loading="lazy" decoding="async" />
+								<img src="/wp-content/themes/aenfinite.com/images/muskfume_presentation-16.webp" alt="Motion Grafiken 16" data-project-group="muskfume" loading="lazy" decoding="async" />
 							</div>
 						</div>
 						
@@ -1117,7 +1011,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="preview">
 								<a href="/de/work/algopros/" class="a-preview"></a>
 								<div class="preview-media">
-									<img src="../algopros/BRAND-01.webp" alt="Druckdesign & Marketingmaterialien" class="cover" loading="lazy" decoding="async" />
+									<img src="/wp-content/themes/aenfinite.com/images/BRAND-01.webp" alt="Druckdesign & Marketingmaterialien" class="cover" loading="lazy" decoding="async" />
 									<div class="preview-action">
 										Projekt ansehen									</div>
 								</div>
@@ -1569,30 +1463,30 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>
-  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Haeufig gestellte Fragen</h2>
+  <h2 id='aen-faq-title' style='font-size:clamp(26px,4vw,38px);font-weight:700;margin:0 0 28px;line-height:1.2;'>Häufig gestellte Fragen</h2>
   <div itemscope itemtype='https://schema.org/FAQPage'>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Was macht Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>What kind of projects has Aenfinite worked on?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Aenfinite ist eine Full-Service-Agentur fuer digitale Innovation und bietet Webdesign und -entwicklung, Branding, UI/UX, SEO, digitales Marketing, App- und Softwareentwicklung, E-Commerce und KI-Automatisierung.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Our portfolio spans web design, branding, mobile apps, e-commerce, and marketing across industries like tech, healthcare, real estate, and retail.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Mit wem arbeitet Aenfinite?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can I see results or case studies?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Wir arbeiten mit Start-ups, kleinen Unternehmen und Konzernen aus vielen Branchen und betreuen Kunden in den USA, Kanada und weltweit.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Yes. Each project shows the challenge, our approach, and the outcome, so explore the work to see real examples of our impact.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wie erhalte ich ein Angebot?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Can you deliver similar results for my business?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Buchen Sie eine kostenlose Beratung oder kontaktieren Sie uns mit Ihren Zielen, und wir erstellen Ihnen ein massgeschneidertes, transparentes Angebot.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Every project is custom, but the same strategy-led process drives our results. Book a call and we will show how we would approach your goals.</div>
       </div>
     </details>
     <details class='aen-faq-item' itemscope itemprop='mainEntity' itemtype='https://schema.org/Question' style='border:1px solid rgba(128,128,128,0.25);border-radius:12px;margin-bottom:14px;padding:16px 20px;'>
-      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>Wann koennen Sie beginnen?</summary>
+      <summary itemprop='name' style='cursor:pointer;font-weight:600;font-size:clamp(16px,2.2vw,19px);line-height:1.45;'>How do I start a project with Aenfinite?</summary>
       <div itemscope itemprop='acceptedAnswer' itemtype='https://schema.org/Answer' style='margin-top:12px;'>
-        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>In der Regel koennen wir innerhalb weniger Wochen starten. Melden Sie sich, und wir bestaetigen Verfuegbarkeit und Zeitplan fuer Ihr Projekt.</div>
+        <div itemprop='text' style='line-height:1.7;font-size:16px;opacity:0.85;'>Reach out through our contact page or schedule a meeting, and we will scope your project and provide a clear proposal.</div>
       </div>
     </details>
   </div>
@@ -1603,7 +1497,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>Haben Sie ein Projekt im Sinn? Lassen Sie uns gemeinsam Großartiges schaffen.</span>
 								<a href="/de/contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1622,6 +1516,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/de/contact/">Kontakt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/de/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -1681,7 +1577,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/de/" style="font-weight:bold;">Englisch</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2861,7 +2757,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		});
 	</script>
 		
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/de/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {

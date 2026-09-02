@@ -1,19 +1,19 @@
-﻿// Language: Chinese (Simplified) (zh)
+// Language: Chinese (Simplified) (zh)
 // Auto-generated from English source - do not edit directly
-import type { Metadata } from 'next';
+﻿import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | 专业数字创新机构 | 网页设计、品牌策划与数字营销",
-  description: "专注于以下领域的数字创新机构： 定制网页设计、品牌形象、UI/UX设计、数字营销、电子商务开发及全面的数字化转型解决方案. 服务于美国和加拿大的企业.",
-  keywords: "数字机构, 网页设计机构, 品牌机构, 丹佛数字营销机构, UI UX设计, 定制网站开发, SEO服务, 应用开发, 电子商务开发, 数字化转型, Aenfinite",
+  title: { absolute: "Aenfinite® — 网页设计, AI 自动化 & 定制开发 | Denver" },
+  description: "Denver web design, 应用开发 & AI automation agency. Custom websites by industry, 24/7 AI receptionists, n8n workflow automation & branding for US and Canadian businesses.",
+  keywords: "数字机构 Denver, Denver web design, Denver software development, AI agency Denver, Colorado 数字机构, 数字机构, AI agency, AI automation services, software development agency, SEO agency, 网页设计机构, 品牌机构, 丹佛数字营销机构, UI UX设计, 定制网站开发, SEO服务, 应用开发, 电子商务开发, 数字化转型, Aenfinite",
   alternates: { canonical: "https://aenfinite.com/zh/", languages: {"x-default":"https://aenfinite.com/","en":"https://aenfinite.com/","es":"https://aenfinite.com/es/","fr":"https://aenfinite.com/fr/","de":"https://aenfinite.com/de/","it":"https://aenfinite.com/it/","ar":"https://aenfinite.com/ar/","pt":"https://aenfinite.com/pt/","zh":"https://aenfinite.com/zh/","hi":"https://aenfinite.com/hi/","nl":"https://aenfinite.com/nl/","ja":"https://aenfinite.com/ja/","ko":"https://aenfinite.com/ko/"} },
-  openGraph: {"title":"Aenfinite® | 专业数字创新机构 | 网页设计、品牌策划与数字营销","description":"专注于以下领域的数字创新机构： 定制网页设计、品牌形象、UI/UX设计、数字营销、电子商务开发及全面的数字化转型解决方案. 服务于美国和加拿大的企业.","url":"https://aenfinite.com/zh/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Aenfinite® | 屡获殊荣的数字创新机构","description":"通过Aenfinite®转型您的业务","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
+  openGraph: {"title":"Aenfinite® | Digital 创新 机构 | AI, 软件开发, Marketing & Design","description":"full-service digital innovation agency delivering AI solutions & automation, custom software and 应用开发, SEO & digital marketing, e-commerce, branding and UI/UX design. 服务于美国和加拿大的企业.","url":"https://aenfinite.com/zh/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® | 屡获殊荣的数字创新机构","description":"通过Aenfinite转型您的业务®","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
-const bodyClass = `home page-template page-template-page-home-php page-id-2 document loading`;
+const bodyClass = `home page-template page-template-page-home-php page-id-2 document`;
 
 const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
 
@@ -839,7 +839,7 @@ const headStyles = `img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intri
 			}
 		`;
 
-const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
+const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none;position:fixed;top:-1000px;left:-1000px;width:0;height:0;overflow:hidden;">
 			<defs>
 			  <filter id="goo">
 				<feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
@@ -1130,19 +1130,23 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<li class="topnav-item js-topnav-follow-item">
 								<a href="/zh/agency/">机构</a>
 							</li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/zh/industries/">Industries</a>
+							</li>
 							<li class="topnav-item js-topnav-follow-item dropdown js-dropdown">
 								<a href="/zh/services/">服务</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
 										<a href="#">开发解决方案 ›</a>
-										<ul class="sub-menu">											                                            
+										<ul class="sub-menu">
 											<li><a href="/zh/services/wordpress-websites/">WordPress网站</a></li>
-<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
+											<li><a href="/zh/services/e-commerce-websites/">电子商务网站</a></li>
 											<li><a href="/zh/services/custom-web-development/">定制网站开发</a></li>
 											<li><a href="/zh/services/software-and-platform-development/">软件与平台开发</a></li>
 											<li><a href="/zh/services/app-development/">应用开发</a></li>
 											<li><a href="/zh/services/web-design/">网站设计与开发</a></li>
-											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>									</ul>
+											<li><a href="/zh/services/web-design-and-branding-for-real-estate/">房地产网络解决方案</a></li>
+										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
 										<a href="#">设计与创意服务 ›</a>
@@ -1150,7 +1154,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/zh/services/ui-ux-design/">UI/UX设计</a></li>
 											<li><a href="/zh/services/branding/">品牌形象与策略</a></li>
 											<li><a href="/zh/services/graphic-design/">平面设计</a></li> <li><a href="/zh/services/logo-design/">标志设计</a></li>
-											
 											<li><a href="/zh/services/trade-show-booth-design/">展会展位设计</a></li>
 											<li><a href="/zh/services/conference-branding/">会议品牌策划</a></li>
 										</ul>
@@ -1162,18 +1165,24 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/zh/services/search-engine-optimization/">搜索引擎优化（SEO）</a></li>
 											<li><a href="/zh/services/pay-per-click/">按点击付费（PPC）广告</a></li>
 											<li><a href="/zh/services/social-media-marketing/">社交媒体营销</a></li> <li><a href="/zh/services/paid-ads/">付费广告</a></li>
-
 										</ul>
 									</li>
-
-							</li>
-							<li class="menu-item menu-item-has-children">
+									<li class="menu-item menu-item-has-children">
 										<a href="#">AI与技术解决方案 ›</a>
 										<ul class="sub-menu">
 											<li><a href="/zh/services/ai-chatbots-and-virtual-assistants/">AI聊天机器人与虚拟助手</a></li>
 											<li><a href="/zh/services/workflow-and-business-automation/">工作流程与业务自动化</a></li>
+											<li><a href="/zh/services/ai-automation/">AI 自动化</a></li>
+											<li><a href="/zh/services/ai-voice-agents/">AI Voice Agents</a></li>
+											<li><a href="/zh/services/n8n-automation/">n8n 自动化</a></li>
+											<li><a href="/zh/services/crm-automation/">CRM 自动化</a></li>
 										</ul>
 									</li>
+						        </ul>
+                            </li>
+							<li class="topnav-item js-topnav-follow-item">
+								<a href="/zh/ai-solutions/">AI Solutions</a>
+							</li>
 						</ul>
 						<div class="topnav-follower desktop js-topnav-follow-bar"></div>
 					</div>
@@ -1233,14 +1242,6 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 		</div>
 	</div>
-
-		                <div class="preloader">
-                    <div class="preloader-inner">
-						<iframe src="/intro/demo/data.html" style="width: 100vw; height: 100vh;" ></iframe>
-                      
-
-                    </div>
-                </div>
 </div>		
 			<a class="fab js-fab" href="#contact">
 				<div class="fab-button js-fab-button desktop">
@@ -1266,15 +1267,15 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="js-runner-content">
 											<div class="marquee-line">
 															<span class="marquee-line_text">专业数字创新机构</span>
-															<span class="marquee-line_text">定制网页设计与品牌开发</span>
+															<span class="marquee-line_text">Custom Software & Web开发</span>
 															<span class="marquee-line_text">服务美国和加拿大市场</span>
 															<span class="marquee-line_text">专业UI/UX与数字营销解决方案</span>
 															<span class="marquee-line_text">五星客户评价与Clutch评级</span>
 															<span class="marquee-line_text">专家团队 - Adobe、Figma、定制开发</span>
 															<span class="marquee-line_text">敏捷开发与设计流程</span>
 															<span class="marquee-line_text">丹佛数字机构</span>
-															<span class="marquee-line_text">专业数字创新服务</span>
-															<span class="marquee-line_text">为每个企业定制解决方案</span>
+															<span class="marquee-line_text">Web, Brand & UI/UX设计</span>
+															<span class="marquee-line_text">SEO, PPC & 数字营销</span>
 															<span class="marquee-line_text">电子商务与移动应用开发</span>
 															<span class="marquee-line_text">SEO与数字营销专家</span>
 													</div>
@@ -1453,7 +1454,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 			<div class="section">
 		<div class="wrapper">
 			<div class="textbox appear js-aos">
-				<div class="textbox-content">Aenfinite®是一家专业的数字创新机构，通过前沿的设计、开发和营销解决方案帮助企业实现转型。总部位于丹佛，服务于美国和加拿大的客户，我们的专家团队在网页设计、品牌形象、UI/UX设计、数字营销、电子商务开发和全面数字化转型服务方面提供卓越的成果。我们与从初创企业到成熟企业的各类公司合作，涵盖医疗、科技、房地产等行业，创造推动增长和参与度的有影响力的数字体验。</div>
+				<div class="textbox-content">digital innovation agency that transforms businesses through AI-powered solutions, custom software development, growth marketing, and cutting-edge design. Based in Denver and serving clients across the United States and Canada, our expert team delivers exceptional results across AI chatbots & automation, custom web & 应用开发, SEO & digital marketing, e-commerce, software engineering, brand identity, and UI/UX design. We partner with businesses from startups to established companies across healthcare, technology, real estate, and beyond to create impactful digital experiences that drive growth and engagement.<div class="ai-services-highlight" style="margin-top:28px; display:inline-flex; align-items:center; gap:12px; padding:12px 20px; border:1px solid rgba(255,255,255,0.25); border-radius:999px; font-size:14px; line-height:1.4;"><span style="font-weight:700; white-space:nowrap;">&#10024; NEW</span><span>We now offer <strong>AI services</strong> &mdash; AI chatbots, workflow automation &amp; custom AI integrations. <a href="/zh/services/ai-chatbots-and-virtual-assistants/" style="text-decoration:underline; font-weight:600;">Explore AI solutions &rarr;</a></span></div></div>
 									<div class="textbox-action">
 						<a href="/zh/work/" class="redlink">
 							<span>查看我们的作品</span>
@@ -1521,8 +1522,8 @@ recommend a service from 1-10</div>
 				</div>
 				<div class="textbox appear js-aos">
   <div class="textbox-content">
-    <h3><b>创新数字解决方案</b></h3>
-    <p>Aenfinite®将策略、设计和技术相结合，创造无缝的数字体验。从品牌和网页设计到营销和咨询，我们提供数据驱动的解决方案，推动可衡量的业务增长。</p>
+    <h3><b>开发, Design & Marketing</b></h3>
+    <p>Aenfinite® unites three core strengths — development, design, and marketing — to build seamless digital experiences. From custom software, web and 应用开发 to branding, UI/UX design, SEO and digital marketing, we deliver data-driven solutions that fuel measurable business growth.</p>
   </div>
 </div>
 
@@ -1975,7 +1976,7 @@ recommend a service from 1-10</div>
 			<div class="inner-wrapper">
 				<div class="section-caption js-aos">
 					<div class="section-caption_text">
-						<h2>Aenfinite®设计机构作品</h2>
+						<h2>Aenfinite® 机构 作品</h2>
 					</div>
 				</div>
 				<div class="previews js-aosfadein" data-aos="fade-up" data-aos-offset="300" data-aos-delay="100" data-aos-duration="600">
@@ -2091,7 +2092,7 @@ recommend a service from 1-10</div>
 											</div>
 				</div>
 				<div class="section-footer js-aos appear" data-aos="fade-up" data-aos-offset="350" data-aos-delay="0" data-aos-duration="500">
-					<a href="/work/" class="redlink">
+					<a href="/zh/work/" class="redlink">
 						<span>查看所有项目</span>
 					</a>
 				</div>
@@ -2103,7 +2104,7 @@ recommend a service from 1-10</div>
 						<div class="inner-wrapper">
 							<div class="section-caption js-aos">
 								<div class="section-caption_text">
-									<h2>Aenfinite®设计机构常见问题</h2>
+									<h2>Aenfinite® 机构 FAQ</h2>
 								</div>
 							</div>
 							<div class="faq">
@@ -2143,7 +2144,7 @@ recommend a service from 1-10</div>
                 <p>我们遵循清晰的协作流程，让您参与其中，确保每个阶段的质量：</p>
                 <p><b>1. 发现与规划：</b> 我们了解您的业务、受众和目标，制定清晰的策略。</p>
                 <p><b>2. 概念与方向：</b> 我们的创意团队准备情绪板、概念和与您品牌愿景一致的设计方向。</p>
-                <p><b>3. 设计与开发：</b> Whether it's branding, a website, or packaging, we design, iterate, and refine until we achieve the perfect result.</p>
+                <p><b>3. 设计与开发：</b> 无论是品牌、网站还是包装，我们设计、迭代和完善，直到达到完美的效果。</p>
                 <p><b>4. 实施：</b> 我们的开发团队将设计变为现实，交付高性能数字产品或印刷就绪资产。</p>
                 <p><b>5. 上线与优化：</b> 我们协助部署，根据需要提供培训，并持续监控结果以进行改进。</p>
                 <p>Every project is treated as a long-term partnership  your success is our success.</p>
@@ -2187,9 +2188,9 @@ recommend a service from 1-10</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Let's Build Something Great Together.</span>
+								<span>有项目想法？让我们一起创造伟大的作品。</span>
 								<a href="/zh/contact/" class="redlink">
-									<span>Let's talk</span>
+									<span>联系洽谈</span>
 								</a>
 							</div>
 							<div class="footer-email">
@@ -2204,6 +2205,8 @@ recommend a service from 1-10</div>
 <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="/zh/agency/">机构</a></li>
 <li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="/zh/services/">服务</a></li>
 <li id="menu-item-4127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4127"><a href="/zh/contact/">联系我们</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://blog.aenfinite.com/">博客</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/zh/locations/">Locations</a></li>
 								</div>
 							</div>
 							<div class="footer-col">
@@ -2262,7 +2265,7 @@ recommend a service from 1-10</div>
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/zh/" style="font-weight:bold;">英语</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
 
 					</div>
 				</div>
@@ -2748,7 +2751,7 @@ document.addEventListener('keydown', function(event) {
 
 </script>
 	
-<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/zh/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
 `;
 
 export default function Page() {
@@ -2768,7 +2771,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ],
       "potentialAction": {
         "@type": "SearchAction",
@@ -2820,7 +2824,7 @@ export default function Page() {
       "name": "Aenfinite",
       "image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
       "legalName": "Aenfinite LLC",
-      "description": "专注于网页设计、品牌策划、UI/UX设计、数字营销和电子商务开发的数字创新机构。",
+      "description": "Full-service 专注于以下领域的数字创新机构： AI solutions, automation, custom software development, digital marketing, SEO, e-commerce, branding and UI/UX design.",
       "url": "https://aenfinite.com/",
       "logo": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/aenfinite-full.svg",
       "foundingDate": "2017",
@@ -2847,7 +2851,8 @@ export default function Page() {
       "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/"
+					"https://www.instagram.com/Aenfinite/",
+					"https://www.linkedin.com/company/aenfinite"
 				  ]
     },
     {
@@ -2856,7 +2861,7 @@ export default function Page() {
       "url": "https://aenfinite.com/",
       "name": "Aenfinite - 数字创新机构",
       "alternateName": "Aenfinite®",
-      "description": "Digital innovation agency providing web design, branding, digital marketing, and e-commerce solutions.",
+      "description": "Full-service digital innovation agency providing AI solutions, automation, software development, digital marketing, SEO, web design, branding and e-commerce solutions.",
       "publisher": {"@id": "https://aenfinite.com/#organization"},
       "inLanguage":"zh-CN",
       "potentialAction": {
@@ -2867,6 +2872,8 @@ export default function Page() {
     },
     {
       "@type": "LocalBusiness",
+      "areaServed": [{"@type":"City","name":"Denver"},{"@type":"State","name":"Colorado"},{"@type":"Country","name":"United States"}],
+      "hasMap": "https://www.google.com/maps/search/?api=1&query=1500+N+Grant+St+Ste+R+Denver+CO+80203",
       "@id": "https://aenfinite.com/#localbusiness",
       "name": "Aenfinite数字创新机构",
 	"image": "https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg",
