@@ -65,29 +65,29 @@ function nearby(stateSlug: string, citySlug: string, count: number): Array<[stri
 
 /* High-CTR, High-Ranking Title Formulas designed to win clicks on Google SERPs */
 const TITLES = [
-  (c: string, st: string) => `Web Design in ${c}, ${st} — Custom Sites from $1,500`,
-  (c: string, st: string) => `${c} Web Designer | Published Pricing, 14-Day Launch`,
-  (c: string, st: string) => `Web Design ${c}, ${st} | See Every Price Before You Call`,
-  (c: string, st: string) => `${c}, ${st} Web Design & Development — Fixed-Price Quotes`,
-  (c: string, st: string) => `Custom Website for Your ${c} Business — From $1,500`,
-  (c: string, st: string) => `${c} Web Design Company | Prices Listed, No Sales Calls`,
-  (c: string, st: string) => `Web Designer for ${c}, ${st} Businesses | From $1,500`,
+  (c: string, st: string) => `Web Design in ${c}, ${st} | Custom Sites From $1,500`,
+  (c: string, st: string) => `${c} Web Designer | See Every Price Online | Aenfinite®`,
+  (c: string, st: string) => `Web Design ${c}, ${st} | Fixed Quotes | 14-Day Launch`,
+  (c: string, st: string) => `${c}, ${st} Web Design | From $1,500 | No Hidden Fees`,
+  (c: string, st: string) => `Custom Website for Your ${c} Business | From $1,500`,
+  (c: string, st: string) => `${c} Web Design Company | Prices Listed | Free Quote in 24h`,
+  (c: string, st: string) => `Web Designer for ${c}, ${st} | Launch in 14 Days | Aenfinite®`,
   (c: string, st: string) => `Web Design & AI Automation in ${c}, ${st} | Aenfinite®`,
-  (c: string, st: string) => `${c} Website Design — Senior US Team, Published Pricing`,
-  (c: string, st: string) => `Web Design in ${c}, ${st} — Live in 14 Days, From $1,500`,
-  (c: string, st: string) => `${c} Web Design & 24/7 AI Receptionists | Fixed Pricing`,
-  (c: string, st: string) => `Affordable Web Design in ${c}, ${st} — Real Prices Online`,
+  (c: string, st: string) => `${c} Website Design | Senior US Team | Published Pricing`,
+  (c: string, st: string) => `Web Design in ${c}, ${st} | Live in 14 Days | From $1,500`,
+  (c: string, st: string) => `${c} Web Design + 24/7 AI Receptionist | Fixed Pricing`,
+  (c: string, st: string) => `Affordable Web Design in ${c}, ${st} | Real Prices Online`,
 ];
 
 /* High-Converting Meta Descriptions with ratings, pricing brackets & CTA triggers */
 const DESCRIPTIONS = [
-  (c: CityRec, st: string) => `Custom web design for ${c.name}, ${st} businesses — from $1,500 with every price published online. Senior US engineers, 14-day launches, 100% code ownership. Fixed quote in 24h.`,
+  (c: CityRec, st: string) => `Custom web design for ${c.name}, ${st} businesses from $1,500 with every price published online. Senior US engineers, 14-day launches, 100% code ownership. Fixed quote in 24h.`,
   (c: CityRec, st: string) => `Need a website in ${c.name}? See the full price list before you ever talk to us. Custom sites from $1,500, e-commerce from $2,500, AI receptionists from $297/mo. Free quote in 24 hours.`,
-  (c: CityRec, st: string) => `Web design from $1,500, e-commerce from $2,500 and AI automation from $1,500 for ${c.name} companies. Senior US team serving all of ${st} — fixed quotes, 100% code ownership.`,
-  (c: CityRec, st: string) => `Custom websites, WordPress, online stores & AI voice receptionists for ${c.name}, ${st} businesses. Every price published online — no discovery-call runaround. Quote in 24h.`,
+  (c: CityRec, st: string) => `Web design from $1,500, e-commerce from $2,500 and AI automation from $1,500 for ${c.name} companies. Senior US team serving all of ${st} with fixed quotes and 100% code ownership.`,
+  (c: CityRec, st: string) => `Custom websites, WordPress, online stores & AI voice receptionists for ${c.name}, ${st} businesses. Every price published online, no discovery-call runaround. Quote in 24h.`,
   (c: CityRec, st: string) => `Custom web design & AI workflows for ${c.name}, ${st} companies. Transparent published pricing, senior US engineers, and 14-day launches. Get your fixed quote today.`,
   (c: CityRec, st: string) => `Get a high-speed website with 24/7 AI lead capture for your ${c.name} business. Published pricing from $1,500, zero hidden fees, live in 14 days. Get a fixed quote in 24h.`,
-  (c: CityRec, st: string) => `Professional web design for ${c.name} businesses — built for speed, mobile conversion and Google rankings. From $1,500 with all pricing published. Free 24-hour quote.`,
+  (c: CityRec, st: string) => `Professional web design for ${c.name} businesses, built for speed, mobile conversion and Google rankings. From $1,500 with all pricing published. Free 24-hour quote.`,
   (c: CityRec, st: string) => `Senior engineers delivering custom websites, e-commerce and AI chatbots to ${c.name}, ${st}. From $1,500, fixed pricing, full source code ownership. Quote within 24 hours.`,
 ];
 
