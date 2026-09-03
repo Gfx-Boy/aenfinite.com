@@ -20,7 +20,38 @@ interface HtmlPageProps {
  * 4. Extracts and re-executes all <script> tags in proper order
  * 5. Handles both inline and external scripts
  */
+
+// Site-wide 'Popular Service Areas' footer block (kept in sync with lib/city-chrome.json).
+// Injected before the legacy footer on pages that don't already include it.
+const POPULAR_AREAS_HTML = `<section style="background-color: #050505; border-top: 1px solid rgba(255,255,255,0.05); padding: 60px 0; color: #fff;">
+  <div class="wrapper">
+    <div style="margin-bottom: 30px;">
+      <h3 style="font-size: 24px; font-weight: 600; margin-bottom: 15px;">Popular Service Areas</h3>
+      <p style="opacity: 0.7; font-size: 15px; max-width: 600px;">Aenfinite provides cutting-edge AI automation, web development, and SEO services across the US. Below are some of our top locations.</p>
+    </div>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px;">
+      <a href="/locations/florida/miami/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Miami, FL</a>
+      <a href="/locations/florida/orlando/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Orlando, FL</a>
+      <a href="/locations/new-york/new-york/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">New York, NY</a>
+      <a href="/locations/texas/austin/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Austin, TX</a>
+      <a href="/locations/texas/dallas/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Dallas, TX</a>
+      <a href="/locations/california/los-angeles/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Los Angeles, CA</a>
+      <a href="/locations/california/san-francisco/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">San Francisco, CA</a>
+      <a href="/locations/colorado/denver/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Denver, CO</a>
+      <a href="/locations/illinois/chicago/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Chicago, IL</a>
+      <a href="/locations/georgia/atlanta/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Atlanta, GA</a>
+      <a href="/locations/washington/seattle/" style="color: #227bf3; text-decoration: none; font-size: 14px; opacity: 0.9; transition: opacity 0.2s;">Seattle, WA</a>
+      <a href="/locations/" style="color: #fff; text-decoration: underline; font-size: 14px; opacity: 0.9;">View All 50 States &rsaquo;</a>
+    </div>
+  </div>
+</section>`;
+
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
+  const finalContent =
+    !content.includes('Popular Service Areas') && content.includes('<div class="footer">')
+      ? content.replace('<div class="footer">', POPULAR_AREAS_HTML + '\n<div class="footer">')
+      : content;
+
   const containerRef = useRef<HTMLDivElement>(null);
   const initializedRef = useRef(false);
 
@@ -224,7 +255,7 @@ export default function HtmlPage({ content, bodyClass = '', headStyles = '', ove
   return (
     <div
       ref={containerRef}
-      dangerouslySetInnerHTML={{ __html: content }}
+      dangerouslySetInnerHTML={{ __html: finalContent }}
       suppressHydrationWarning
     />
   );
