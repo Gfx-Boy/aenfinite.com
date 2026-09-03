@@ -280,5 +280,287 @@
         "a": "Yes. Retell has 99.9% uptime and handles enterprise-scale deployments. We implement monitoring and failover for every agent."
       }
     ]
+  },
+  "zapier": {
+    "slug": "zapier",
+    "name": "Zapier",
+    "fullName": "Zapier Automation",
+    "title": "Zapier Automation Experts [2026] — Setup, Rescue & Migration | Aenfinite",
+    "metaDesc": "✓ Expert Zapier setup, cleanup & cost optimization. ✓ Done-for-you Zaps that don't break. ✓ Migration to n8n/Make when bills grow. Published pricing →",
+    "heroSub": "Zapier connects 7,000+ apps and is often the fastest way to automate a handoff between two tools. We build reliable Zap architectures, rescue tangled accounts, and — when your task bill outgrows the platform — migrate you to n8n or Make without breaking anything.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.4 7.6L22 12l-7.6 2.4L12 22l-2.4-7.6L2 12l7.6-2.4L12 2z\" fill=\"#FF4F00\"/></svg>",
+    "whatItDoes": "Zapier is the most widely-adopted no-code automation platform: trigger-action workflows (\"Zaps\") that move data between CRMs, forms, spreadsheets, email tools and 7,000+ other apps. Its strength is breadth and ease; its weakness is per-task pricing that scales linearly with your success and limited logic for complex, branching processes.",
+    "howWeUseIt": [
+      "Lead routing — new form/ad leads instantly pushed into your CRM, tagged, and assigned",
+      "Quick SaaS handoffs where a native Zapier integration beats building custom (e.g., Typeform → HubSpot)",
+      "Proof-of-concept automations we validate in Zapier before hardening in n8n at scale",
+      "E-commerce order notifications and fulfillment handoffs",
+      "Cross-posting and content distribution workflows",
+      "Bridging legacy tools that only Zapier has connectors for"
+    ],
+    "whyNotDIY": "Anyone can build a two-step Zap. Accounts break down at 20+ Zaps built ad-hoc: duplicate triggers double-firing, silent failures when task limits hit, no error alerting, and monthly bills that quietly climb past $300. We architect Zaps like software — named conventions, error notifications, filters that stop wasted tasks — and we'll tell you honestly when you've outgrown the platform.",
+    "useCases": [
+      "website-lead-capture-chatbot",
+      "ai-follow-up-sequences",
+      "missed-call-text-back"
+    ],
+    "pricing": "Zapier architecture & cleanup from $750. Full automation builds from $1,500. Zapier→n8n migration (typically pays for itself in 3–6 months of subscription savings) from $1,500.",
+    "faqs": [
+      {
+        "q": "My Zapier bill keeps growing — what are my options?",
+        "a": "Three: optimize (filters and consolidation typically cut task usage 30–50%), migrate high-volume Zaps to self-hosted n8n at flat cost, or hybrid — keep low-volume convenience Zaps on Zapier and move the heavy lifting. We audit your account and give you the math for each."
+      },
+      {
+        "q": "When is Zapier the right choice over n8n or Make?",
+        "a": "Low volume (under ~2,000 tasks/month), non-technical team, and apps whose Zapier connectors are unusually good. Convenience is worth paying for until volume makes it irrational — see our n8n vs. Zapier comparison for the crossover math."
+      },
+      {
+        "q": "Can you fix our existing broken Zaps?",
+        "a": "Yes — Zap rescue is a common engagement. We map every Zap, kill duplicates, add error handling and alerting, document the architecture, and hand you a maintainable account. From $750, usually complete within a week."
+      },
+      {
+        "q": "Do you handle AI steps in Zapier?",
+        "a": "Yes — AI-powered formatting, classification, and drafting steps within Zaps. For full AI agents (voice, chat, multi-step reasoning) we build on n8n, which has a proper agent framework."
+      },
+      {
+        "q": "Will you manage it ongoing?",
+        "a": "Our $97/month automation care plan covers monitoring, fixing broken Zaps when apps change their APIs, and small modifications — most clients never think about their automations again."
+      }
+    ]
+  },
+  "twilio": {
+    "slug": "twilio",
+    "name": "Twilio",
+    "fullName": "Twilio SMS & Voice Infrastructure",
+    "title": "Twilio Implementation Experts [2026] — SMS, Voice & A2P Setup | Aenfinite",
+    "metaDesc": "✓ Done-for-you Twilio setup: business SMS, voice, phone numbers, A2P 10DLC registration. ✓ Powers our AI voice agents & missed-call text-back. Pricing →",
+    "heroSub": "Twilio is the programmable telephony layer behind modern business communication — the phone numbers, SMS pipes and voice infrastructure that AI receptionists, missed-call text-back, and appointment reminders run on. We handle the setup, compliance registration, and integration so it just works.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#F22F46\"/><circle cx=\"9\" cy=\"9\" r=\"1.8\" fill=\"#fff\"/><circle cx=\"15\" cy=\"9\" r=\"1.8\" fill=\"#fff\"/><circle cx=\"9\" cy=\"15\" r=\"1.8\" fill=\"#fff\"/><circle cx=\"15\" cy=\"15\" r=\"1.8\" fill=\"#fff\"/></svg>",
+    "whatItDoes": "Twilio provides programmable phone numbers, SMS/MMS messaging, voice calling and verification APIs. It's rarely the product you see — it's the infrastructure underneath: when your AI agent answers a call, when a missed caller gets an instant text, when a customer receives an appointment reminder, Twilio is usually carrying it.",
+    "howWeUseIt": [
+      "Phone number provisioning and porting for AI voice agents (Vapi, Retell) without losing your existing business number",
+      "A2P 10DLC brand and campaign registration — the compliance step that keeps US business SMS from being carrier-filtered",
+      "Missed-call text-back systems that recover callers who would otherwise dial a competitor",
+      "Automated appointment reminders and confirmations that cut no-shows 40–60%",
+      "SMS follow-up sequences wired through n8n and your CRM",
+      "Call tracking, recording, and routing for multi-location businesses"
+    ],
+    "whyNotDIY": "Twilio is developer infrastructure — raw APIs, not an app. The expensive mistakes are compliance ones: unregistered A2P traffic gets silently filtered by carriers (your texts simply don't arrive), and misconfigured webhooks drop calls. We've registered dozens of brands, know what the carriers reject, and wire Twilio into your CRM and AI stack correctly the first time.",
+    "useCases": [
+      "missed-call-text-back",
+      "after-hours-ai-receptionist",
+      "ai-appointment-booking"
+    ],
+    "pricing": "Twilio setup + A2P 10DLC registration from $750. Full missed-call text-back system from $1,500. Bundled free inside our AI voice agent implementations ($2,500 setup + $297/mo).",
+    "faqs": [
+      {
+        "q": "What does Twilio itself cost?",
+        "a": "Usage-based and cheap at SMB volume: ~$1.15/month per phone number, ~$0.008 per SMS, ~$0.014/minute for calls. A typical service business spends $20–$80/month on Twilio usage — the value is in what's built on top."
+      },
+      {
+        "q": "What is A2P 10DLC and do I really need it?",
+        "a": "US carriers require businesses sending application-to-person SMS to register their brand and campaigns. Unregistered traffic is increasingly filtered — messages silently fail. Registration takes 1–2 weeks and is included in every SMS system we build."
+      },
+      {
+        "q": "Can I keep my existing business number?",
+        "a": "Yes — we port numbers into Twilio (or host SMS on your existing number while calls stay put, via hosted SMS). Porting takes 1–3 weeks; we manage the whole process with zero downtime windows planned around your hours."
+      },
+      {
+        "q": "Twilio vs. the phone system in GoHighLevel?",
+        "a": "GHL's phone system runs on Twilio under the hood (LC Phone). For GHL-centric businesses we configure it natively there; for custom AI stacks we use Twilio directly for full control. Same infrastructure either way — we pick the right wrapper."
+      },
+      {
+        "q": "Is this HIPAA-compliant for medical practices?",
+        "a": "Twilio offers HIPAA-eligible services under a BAA. For healthcare clients we architect within Twilio's eligible products and pair them with compliant AI platforms — discussed case-by-case in your build."
+      }
+    ]
+  },
+  "airtable": {
+    "slug": "airtable",
+    "name": "Airtable",
+    "fullName": "Airtable Database & Operations",
+    "title": "Airtable Consultants [2026] — Custom Bases, Automations & Interfaces | Aenfinite",
+    "metaDesc": "✓ Expert Airtable base design, interfaces & automations. ✓ CRMs, project trackers & client portals without enterprise software costs. Published pricing →",
+    "heroSub": "Airtable is the fastest way to build the custom internal tools your business actually needs — CRMs, production trackers, content calendars, client portals — without a $50k software project. We design normalized bases, polished interfaces, and automations that make them run themselves.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 3l9 4-9 4-9-4 9-4z\" fill=\"#FCB400\"/><path d=\"M3 9.5l8.5 3.8v7L3 16.5v-7z\" fill=\"#18BFFF\"/><path d=\"M21 9.5l-8.5 3.8v7L21 16.5v-7z\" fill=\"#F82B60\"/></svg>",
+    "whatItDoes": "Airtable is a relational database with a spreadsheet's ease of use, plus interface builders, forms, and native automations. It occupies the sweet spot between 'our whole business runs on messy spreadsheets' and 'we spent six figures on custom software' — powerful enough for real operations, simple enough that your team will actually use it.",
+    "howWeUseIt": [
+      "Lightweight CRMs tailored to non-standard sales processes that don't fit HubSpot/GHL templates",
+      "Project and production trackers with client-facing interface views",
+      "Content and social calendars wired to auto-publish via n8n",
+      "Inventory, order and job tracking for operations teams",
+      "Intake systems — Airtable forms feeding automated routing, approvals and notifications",
+      "As the operational database behind AI workflows (agents read/write Airtable via API)"
+    ],
+    "whyNotDIY": "Everyone's first Airtable base is a spreadsheet wearing a costume — single flat tables, no linked records, formulas duplicating data. It works for a month, then collapses under real volume. We design properly normalized bases (linked records, rollups, sensible permissions), build interfaces your team actually enjoys, and connect everything to the rest of your stack.",
+    "useCases": [
+      "ai-estimate-system",
+      "website-lead-capture-chatbot",
+      "ai-follow-up-sequences"
+    ],
+    "pricing": "Base design & build from $1,000. Full operational system (base + interfaces + automations + integrations) from $2,500. Care plan $97/month.",
+    "faqs": [
+      {
+        "q": "Airtable vs. a real custom app?",
+        "a": "Airtable gets you 80% of a custom internal tool at 10% of the cost and timeline. When you genuinely need the last 20% — complex logic, high volume, customer-facing product — we build custom (see our software development service). Many clients start on Airtable and graduate later; the base becomes the spec."
+      },
+      {
+        "q": "What does Airtable cost?",
+        "a": "Free for small teams; Team plan is $20/user/month, Business $45. Most SMBs run complete operations under $200/month — compare that to per-seat pricing on vertical SaaS you'd otherwise buy."
+      },
+      {
+        "q": "Can Airtable talk to my other tools?",
+        "a": "Yes — native integrations plus a full API. We typically pair it with n8n so your base syncs with your CRM, accounting, calendar and AI agents in real time."
+      },
+      {
+        "q": "Is Airtable secure enough for client data?",
+        "a": "Airtable is SOC 2 compliant with granular permissions on Business plans. We configure interface-only access for staff and clients so nobody touches the underlying data who shouldn't. For regulated data (HIPAA), we'll recommend appropriate alternatives."
+      },
+      {
+        "q": "Can AI agents use our Airtable?",
+        "a": "Yes — this is increasingly our favorite pattern: Airtable as the readable/writable memory for AI systems. Voice agents log calls to it, chatbots read pricing from it, automation workflows update statuses — your team sees everything in one familiar place."
+      }
+    ]
+  },
+  "calendly": {
+    "slug": "calendly",
+    "name": "Calendly",
+    "fullName": "Calendly Scheduling Automation",
+    "title": "Calendly Setup & Integration Experts [2026] — Routing, Automation | Aenfinite",
+    "metaDesc": "✓ Calendly configured right: routing forms, round-robin, CRM sync, no-show automation. ✓ Or we'll tell you when GHL calendars fit better. Pricing →",
+    "heroSub": "Calendly ended the 'what time works for you?' email chain. But out-of-the-box Calendly leaks revenue: no lead routing, no CRM logging, no no-show recovery. We turn a booking link into a booking system — qualified leads routed to the right calendar with automated confirmations, reminders and follow-up.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"17\" rx=\"3\" fill=\"#006BFF\"/><rect x=\"3\" y=\"4\" width=\"18\" height=\"5\" rx=\"2\" fill=\"#0AE8F0\"/><circle cx=\"12\" cy=\"14.5\" r=\"3.2\" fill=\"#fff\"/></svg>",
+    "whatItDoes": "Calendly is the market-leading scheduling platform: availability rules, event types, team round-robins, routing forms and workflow automations. For sales and service teams it removes booking friction entirely — prospects pick a slot and appear on the right person's calendar, timezone math included.",
+    "howWeUseIt": [
+      "Routing forms that qualify prospects and send them to the right person, event length, or a polite no",
+      "Round-robin and collective scheduling for sales teams with fair-distribution rules",
+      "CRM integration — every booking creates/updates the contact in HubSpot, GHL or Salesforce automatically",
+      "No-show recovery sequences: SMS reminders before, automated rebooking outreach after",
+      "Paid consultations with Stripe collection at booking",
+      "As the booking endpoint for AI chatbots and voice agents that schedule mid-conversation"
+    ],
+    "whyNotDIY": "A bare Calendly link books meetings with anyone, for anything, with no record anywhere. The fixes are configuration, not code — routing logic, buffer rules, workflows, CRM sync — but they're fiddly, and most teams never set them up. One afternoon of proper configuration typically recovers hours per week and several 'lost' bookings per month.",
+    "useCases": [
+      "ai-appointment-booking",
+      "website-lead-capture-chatbot",
+      "after-hours-ai-receptionist"
+    ],
+    "pricing": "Calendly architecture & integration from $500. Full booking system (routing + CRM + reminder/no-show automation) from $1,000. Included in most of our AI receptionist and chatbot builds.",
+    "faqs": [
+      {
+        "q": "Calendly vs. GoHighLevel calendars?",
+        "a": "If you're already on GHL, its native calendars keep booking data inside your CRM with SMS built in — usually the better call. Calendly wins on polish, routing forms, and team scheduling for everyone else. We configure both; the answer depends on your stack, not our preference."
+      },
+      {
+        "q": "Can an AI agent book into Calendly?",
+        "a": "Yes — our voice agents and chatbots check real-time availability and create bookings via Calendly's API mid-conversation. The prospect never gets a 'we'll call you back'; they hang up with a confirmed slot."
+      },
+      {
+        "q": "How do you cut no-shows?",
+        "a": "Layered reminders (email + SMS at 24h and 1h), calendar-holds that actually land in the prospect's calendar, and automated same-day rebooking outreach for no-shows. Clients typically see no-show rates drop from ~30% to under 10%."
+      },
+      {
+        "q": "Which Calendly plan do I need?",
+        "a": "Standard ($10/user/mo) covers most solo setups; Teams ($16/user/mo) adds round-robin and routing forms — usually the one growing teams actually need. We'll configure whichever tier fits and won't sell you up unnecessarily."
+      },
+      {
+        "q": "Can bookings flow into my invoicing/automation stack?",
+        "a": "Yes — via native integrations or n8n we connect bookings to invoicing, project kickoff checklists, Slack alerts, and follow-up sequences. Booking becomes the trigger for your whole client-onboarding machine."
+      }
+    ]
+  },
+  "bland": {
+    "slug": "bland",
+    "name": "Bland AI",
+    "fullName": "Bland AI Phone Agents",
+    "title": "Bland AI Implementation [2026] — Enterprise Voice Agents Done-For-You | Aenfinite",
+    "metaDesc": "✓ Bland AI phone agents built by implementation experts: pathways, integrations, testing. ✓ Honest platform advice vs Vapi/Retell. Published pricing →",
+    "heroSub": "Bland AI runs voice agents on its own end-to-end infrastructure — model, telephony and voice under one roof — which buys remarkable consistency at high call volume. We design Bland conversational pathways, wire them into your systems, and tell you honestly when Vapi or Retell fits your use case better.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"9\" fill=\"#111\"/><path d=\"M8 12h8M12 8v8\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
+    "whatItDoes": "Bland AI is a voice agent platform built for scale: self-hosted models, owned telephony, a visual Conversational Pathways builder, and enterprise options (SOC 2, HIPAA, dedicated infrastructure). Where developer platforms let you assemble any stack, Bland standardizes the stack — trading flexibility for consistency, especially on high-volume outbound.",
+    "howWeUseIt": [
+      "High-volume outbound campaigns — appointment setting, reactivation, surveys — where per-call consistency matters",
+      "Conversational Pathways design: mapping call flows visually so behavior is predictable and auditable",
+      "Inbound overflow and after-hours answering for businesses already committed to Bland",
+      "Webhook integration into CRMs via n8n — transcripts, outcomes and bookings logged automatically",
+      "A/B testing scripts and voices against connect and conversion rates",
+      "Platform benchmarking — running identical scripts on Bland vs Vapi vs Retell before clients commit"
+    ],
+    "whyNotDIY": "Voice agents fail in the details: interruption handling, edge-case callers, transfer logic, compliance windows for outbound. Bland's pathway builder makes flows visual, but designing flows that survive real humans takes hundreds of test calls. We've made those calls — and we build the surrounding system (CRM logging, alerting, human escalation) that turns a demo into an operation.",
+    "useCases": [
+      "multi-location-ai-phone",
+      "ai-lead-qualification",
+      "after-hours-ai-receptionist"
+    ],
+    "pricing": "Bland AI implementation from $2,500 setup + $297/month management. Outbound campaign builds quoted by volume. Platform benchmark (your scripts on 2–3 platforms with recordings) $750, credited against any build.",
+    "faqs": [
+      {
+        "q": "Bland vs. Vapi vs. Retell — quick answer?",
+        "a": "Bland for standardized reliability at enterprise volume, especially outbound. Vapi for maximum stack control and SMB cost efficiency. Retell for fastest high-quality inbound deployment. Full breakdowns in our Vapi vs. Bland and Vapi vs. Retell comparisons."
+      },
+      {
+        "q": "What does Bland cost to run?",
+        "a": "$0.09/minute flat, with enterprise committed-use pricing at volume. A 4-minute average call costs ~$0.36 — compare that to a human answering service at $1–$3 per call, or a missed call worth hundreds in lost revenue."
+      },
+      {
+        "q": "Is outbound AI calling legal?",
+        "a": "It's regulated, not forbidden: consent requirements (TCPA), calling windows, disclosure and DNC compliance all apply. We build campaigns around proper consent data and compliant calling practices, and will decline builds designed to spam."
+      },
+      {
+        "q": "Can Bland handle our existing phone number?",
+        "a": "Yes — numbers can be ported or calls forwarded to Bland-provisioned numbers. Most clients start with conditional forwarding (after-hours and overflow) before moving primary lines, so there's zero risk during rollout."
+      },
+      {
+        "q": "How fast can we launch?",
+        "a": "Inbound agents: live in 7–14 days including testing. Outbound campaigns: 2–3 weeks including compliance review, pathway design and test cohorts. Speed comes from our template library of proven pathways."
+      }
+    ]
+  },
+  "webflow": {
+    "slug": "webflow",
+    "name": "Webflow",
+    "fullName": "Webflow Design & Development",
+    "title": "Webflow Development Agency [2026] — Custom Sites, CMS & Migrations | Aenfinite",
+    "metaDesc": "✓ Custom Webflow sites by a design-led team: pixel-perfect builds, CMS architecture, SEO-ready. ✓ Honest advice vs WordPress/custom. Published pricing →",
+    "heroSub": "Webflow produces the cleanest no-code sites on the market — designer-grade visuals, solid hosting, and no plugin maintenance, ever. We build conversion-focused Webflow sites with proper CMS architecture and technical SEO, and we'll tell you upfront when WordPress or custom code serves you better.",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 6l-3.2 8.2L11 6H7.5l-1 8.2L4 6H1.5L5 18h3.4l2.4-6.8L13 18h3.5L21 6h-4z\" fill=\"#146EF5\"/></svg>",
+    "whatItDoes": "Webflow is a visual development platform: real HTML/CSS control in a designer interface, a structured CMS, and managed hosting on a global CDN. Sites ship fast, stay fast, and can't be broken by a plugin update — because there are no plugins. The trade-offs are platform lock-in and limits on complex functionality like large e-commerce or memberships.",
+    "howWeUseIt": [
+      "Marketing sites where design quality is the differentiator — agencies, SaaS, professional services",
+      "CMS architecture: collections for services, case studies, locations and posts that scale without a developer",
+      "Landing page systems for paid campaigns with fast cloning and consistent branding",
+      "Migrations from aging WordPress themes to maintainable Webflow builds (redirects and rankings preserved)",
+      "Interaction and animation design that stays performant on mobile",
+      "Webflow forms wired into CRMs, chatbots and follow-up automations via n8n"
+    ],
+    "whyNotDIY": "Webflow's ceiling is high — which means DIY sites plateau visibly: template-y layouts, class-name chaos that makes edits terrifying, missing SEO structure and slow, JS-heavy interactions. We build with a proper class system, semantic structure, schema markup and Core Web Vitals discipline, then hand you a site your team can edit confidently.",
+    "useCases": [
+      "website-lead-capture-chatbot",
+      "ai-website-crm-package",
+      "ai-follow-up-sequences"
+    ],
+    "pricing": "Custom Webflow sites from $2,500. Landing page systems from $1,500. WordPress→Webflow migrations from $2,000 including redirect mapping. No hourly billing — fixed quotes, published pricing.",
+    "faqs": [
+      {
+        "q": "Webflow or WordPress for my business?",
+        "a": "Webflow for design-led marketing sites with no complex functionality and a team that never wants maintenance. WordPress for e-commerce, memberships, heavy content operations and full ownership. Our detailed Webflow vs. WordPress comparison has the whole breakdown — we build both, so the advice is unbiased."
+      },
+      {
+        "q": "Is Webflow good for SEO?",
+        "a": "Yes — clean markup, fast CDN hosting, editable meta and schema, sensible URL control. Our builds ship with full technical SEO: structured data, OG tags, optimized images and Core Web Vitals in the green. Rankings depend on content and authority; the platform won't hold you back."
+      },
+      {
+        "q": "What does Webflow hosting cost?",
+        "a": "Site plans run $14–$39/month for most business sites (CMS plan at $23 is typical). No plugin licenses, no maintenance retainers needed — that's the real cost story versus WordPress."
+      },
+      {
+        "q": "Can my team edit the site without breaking it?",
+        "a": "Yes — that's a Webflow superpower. The Editor role lets your team change text, images and CMS items without any access to layout or styles. We include a training session and a content guide with every build."
+      },
+      {
+        "q": "What can't Webflow do?",
+        "a": "Large product catalogs, complex memberships/LMS, heavy custom logic, and anything needing a real backend. For those we build WordPress/WooCommerce or custom Next.js applications — and we'll route you there before you sink budget into the wrong platform."
+      }
+    ]
   }
 }
