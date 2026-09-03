@@ -47,9 +47,10 @@ const POPULAR_AREAS_HTML = `<section style="background-color: #050505; border-to
 </section>`;
 
 export default function HtmlPage({ content, bodyClass = '', headStyles = '', overrideCss = '' }: HtmlPageProps) {
+  const footerMatch = content.match(/<div class="footer[" ]/);
   const finalContent =
-    !content.includes('Popular Service Areas') && content.includes('<div class="footer">')
-      ? content.replace('<div class="footer">', POPULAR_AREAS_HTML + '\n<div class="footer">')
+    !content.includes('Popular Service Areas') && footerMatch
+      ? content.replace(footerMatch[0], POPULAR_AREAS_HTML + '\n' + footerMatch[0])
       : content;
 
   const containerRef = useRef<HTMLDivElement>(null);
