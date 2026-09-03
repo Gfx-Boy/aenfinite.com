@@ -66,13 +66,13 @@ function nearby(stateSlug: string, citySlug: string, count: number): Array<[stri
 /* High-CTR, High-Ranking Title Formulas designed to win clicks on Google SERPs */
 const TITLES = [
   (c: string, st: string) => `Web Design in ${c}, ${st} | Custom Sites From $1,500`,
-  (c: string, st: string) => `${c} Web Designer | See Every Price Online | Aenfinite®`,
+  (c: string, st: string) => `${c} Web Designer | See Every Price Online`,
   (c: string, st: string) => `Web Design ${c}, ${st} | Fixed Quotes | 14-Day Launch`,
   (c: string, st: string) => `${c}, ${st} Web Design | From $1,500 | No Hidden Fees`,
   (c: string, st: string) => `Custom Website for Your ${c} Business | From $1,500`,
   (c: string, st: string) => `${c} Web Design Company | Prices Listed | Free Quote in 24h`,
-  (c: string, st: string) => `Web Designer for ${c}, ${st} | Launch in 14 Days | Aenfinite®`,
-  (c: string, st: string) => `Web Design & AI Automation in ${c}, ${st} | Aenfinite®`,
+  (c: string, st: string) => `Web Designer for ${c}, ${st} | Launch in 14 Days`,
+  (c: string, st: string) => `Web Design & AI Automation in ${c}, ${st}`,
   (c: string, st: string) => `${c} Website Design | Senior US Team | Published Pricing`,
   (c: string, st: string) => `Web Design in ${c}, ${st} | Live in 14 Days | From $1,500`,
   (c: string, st: string) => `${c} Web Design + 24/7 AI Receptionist | Fixed Pricing`,
