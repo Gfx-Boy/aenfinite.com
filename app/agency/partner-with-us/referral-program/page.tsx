@@ -1125,7 +1125,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 				<li>Simple, transparent, and value-driven program</li>
 			</ul>
 			<p>&nbsp;</p>
-			<p>Interested in becoming a referral partner? Email us at 
+			<p>Interested in becoming a referral partner? <a href="https://partners.aenfinite.com/apply" target="_blank" rel="noopener">Apply online</a> or email us at 
 				<a href="mailto:partners@aenfinite.com" target="_blank" rel="noopener">partners@aenfinite.com</a> 
 				to get started today.</p>
 		</div>
@@ -1149,12 +1149,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 					<div class="infobox-row">
 						<div class="infobox-cell">
 							<div class="infobox appear js-aos">
-								<div class="infobox-title">20% Commission</div>
+								<div class="infobox-title">5% to 15% Commission</div>
 								<div class="infobox-description">
-									<p>Earn 20% commission on all successful referrals. No limit on earnings - the more quality clients you refer, the more you earn.</p>
+									<p>Earn 5% to 15% commission on every completed project, based on your partner tier. No limit on earnings - the more quality clients you refer, the more you earn.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=Referral Program - Commission Details" class="redlink">
+									<a href="https://partners.aenfinite.com/apply" class="redlink">
 										<span>Join</span>
 									</a>
 								</div>
@@ -1167,7 +1167,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 									<p>Receive your commission within 30 days of project completion. Simple tracking dashboard and monthly payment schedule.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=Referral Program - Payout Process" class="redlink">
+									<a href="https://partners.aenfinite.com/apply" class="redlink">
 										<span>Join Program</span>
 									</a>
 								</div>
@@ -1180,7 +1180,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 									<p>Earn additional bonuses for repeat clients and long-term relationships. Premium referrers get exclusive perks and higher commission rates.</p>
 								</div>
 								<div class="infobox-action">
-									<a href="mailto:partnerships@aenfinite.com?subject=Referral Program - Premium Benefits" class="redlink">
+									<a href="https://partners.aenfinite.com/apply" class="redlink">
 										<span>Join Program</span>
 									</a>
 								</div>
@@ -1231,7 +1231,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
                             <div class="infobox-index"></div>
                             <div class="infobox-title">Step 3 <span class="chevron"></span> Get Paid</div>
                             <div class="infobox-description">
-                                <p>Earn 20% commission for every referred client who signs a contract and completes a project with us. Track your earnings, payouts, and referrals directly from your partner dashboard for full transparency.</p>
+                                <p>Earn 5% to 15% commission for every referred client who signs a contract and completes a project with us. Track your earnings, payouts, and referrals directly from your partner dashboard for full transparency.</p>
                             </div>
                         </div>
                     </div>
@@ -1243,7 +1243,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
                             <div class="infobox-index"></div>
                             <div class="infobox-title">Premium <span class="chevron"></span> Referrer Benefits</div>
                             <div class="infobox-description">
-                                <p>Top-performing referrers who bring in $50,000+ annually unlock premium perks  including priority support, invitations to exclusive networking events, and increased commission rates of up to 40%.</p>
+                                <p>Top-performing referrers who bring in $50,000+ annually unlock premium perks  including priority support, invitations to exclusive networking events, and our top commission rate of 15%.</p>
                             </div>
                         </div>
                     </div>
