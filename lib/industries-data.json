@@ -598,5 +598,509 @@
       "real-estate"
     ],
     "relatedAI": "dental"
+  },
+  "plumbing": {
+    "name": "Plumbing Companies",
+    "singular": "plumbing company",
+    "slug": "plumbing",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 3v6m0 0a3 3 0 103 3m-3-3a3 3 0 00-3 3m3 9v-3\"/></svg>",
+    "title": "Web Design for Plumbers [2026] | Sites That Book Emergency Calls",
+    "metaDesc": "✓ Custom web design for plumbing companies. ✓ Click-to-call, emergency CTAs, review showcases & local SEO built in. ✓ From $1,500 with published pricing →",
+    "heroHeading": "Web Design & Development for Plumbing Companies",
+    "heroSub": "When a pipe bursts at 2am, homeowners call the first plumber whose site loads fast and shows a phone number. We build plumbing websites engineered for emergency conversion: instant load, click-to-call everywhere, reviews front and center.",
+    "problemStat": "82% of local service searches happen on mobile, and plumbing sites that load in under 3 seconds capture more than double the calls of slow template sites.",
+    "problemDetail": "Most plumbing websites are slow WordPress templates with buried phone numbers, no emergency messaging, and zero local SEO structure. Meanwhile the franchises outrank independents with content and speed. A plumbing site's only job is making the phone ring — most fail at exactly that.",
+    "features": [
+      [
+        "Click-to-Call Everywhere",
+        "Sticky call buttons on every scroll position — the #1 conversion element for emergency services"
+      ],
+      [
+        "Emergency Service Banners",
+        "24/7 availability messaging with response-time promises that win the 2am search"
+      ],
+      [
+        "Review & Trust Showcase",
+        "Google reviews, licenses and guarantees displayed where anxious homeowners look first"
+      ],
+      [
+        "Service Area Pages",
+        "Dedicated pages for every town you serve, structured for 'plumber near me' rankings"
+      ],
+      [
+        "Online Booking for Non-Emergencies",
+        "Schedule estimates and routine work directly into your dispatch calendar"
+      ],
+      [
+        "Financing & Pricing Transparency",
+        "Published price ranges and financing options that pre-qualify callers"
+      ]
+    ],
+    "aiAngle": "Pair your site with our AI receptionist for plumbers: every after-hours call answered in 2 rings, emergencies triaged and dispatched to your on-call tech, routine jobs booked for the morning. Plumbers using AI answering recover $5k–$15k/month in calls that used to hit voicemail.",
+    "pricing": "Custom plumbing websites run <strong>$1,500–$8,000</strong> depending on service-area coverage and booking integrations. Every price is published — no discovery-call games. Most plumbing sites launch in 14 days.",
+    "faqs": [
+      [
+        "How fast can you launch a plumbing website?",
+        "14 days for most builds. We keep your existing number and Google Business Profile connected, so there's zero disruption to incoming calls during the switch."
+      ],
+      [
+        "Will my site rank for 'plumber near me'?",
+        "We build the on-page foundation: service-area pages, LocalBusiness schema, speed, and review integration. Rankings also depend on your Google Business Profile and reviews — we'll audit both and tell you exactly where you stand."
+      ],
+      [
+        "Can customers book jobs online?",
+        "Yes — non-emergency work books directly into ServiceTitan, Jobber, Housecall Pro or a simple calendar. Emergencies always route to the phone, where speed matters most."
+      ],
+      [
+        "What makes a plumbing website actually convert?",
+        "Three things: loading in under 3 seconds on a phone, a phone number that's always one thumb-tap away, and visible proof you're licensed, reviewed and local. We engineer all three into every build."
+      ]
+    ],
+    "relatedIndustries": [
+      "home-services",
+      "construction"
+    ],
+    "relatedAI": "plumbing"
+  },
+  "electricians": {
+    "name": "Electricians & Electrical Contractors",
+    "singular": "electrical contractor",
+    "slug": "electricians",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M13 2L4 14h6l-1 8 9-12h-6l1-8z\"/></svg>",
+    "title": "Web Design for Electricians [2026] | Websites That Win Local Jobs",
+    "metaDesc": "✓ Custom web design for electricians & electrical contractors. ✓ Local SEO structure, click-to-call, project galleries. ✓ From $1,500, published pricing →",
+    "heroHeading": "Web Design & Development for Electricians",
+    "heroSub": "Homeowners hire the electrician who looks licensed, responds fast, and shows real work. We build electrician websites with project galleries, trust signals and local SEO structure that turn searches into service calls.",
+    "problemStat": "Over 70% of homeowners check an electrician's website before calling — and abandon sites that look outdated or don't show licensing within seconds.",
+    "problemDetail": "Electrical work is high-trust: nobody hires a sketchy-looking site for panel upgrades. Yet most electrician websites are decade-old templates with stock photos and no proof of real work. The contractors winning online show licenses, insurance, real projects and reviews — instantly, on mobile.",
+    "features": [
+      [
+        "License & Insurance Trust Bar",
+        "Credentials displayed above the fold where high-trust buyers look first"
+      ],
+      [
+        "Project Gallery",
+        "Real installations — panels, EV chargers, remodels — organized by job type"
+      ],
+      [
+        "Service Pages That Rank",
+        "Dedicated pages for panel upgrades, EV charger installation, rewiring and generator install — each targeting its own search demand"
+      ],
+      [
+        "Click-to-Call + Quote Forms",
+        "Emergency calls route to the phone; project inquiries capture details for accurate quotes"
+      ],
+      [
+        "Review Integration",
+        "Google reviews streamed onto the site automatically"
+      ],
+      [
+        "EV Charger Landing Pages",
+        "Purpose-built pages for the fastest-growing electrical search category"
+      ]
+    ],
+    "aiAngle": "Add our AI receptionist for electricians: after-hours calls answered, emergencies triaged to your on-call, EV charger and panel-upgrade inquiries qualified with the right questions (panel size, home age, timeline) so you quote faster than competitors.",
+    "pricing": "Electrician websites run <strong>$1,500–$7,500</strong> depending on service pages and gallery depth. All pricing published. Typical launch: 14 days.",
+    "faqs": [
+      [
+        "Do I need separate pages for each service?",
+        "Yes — 'EV charger installation [city]' and 'panel upgrade [city]' are separate searches with separate buyers. One generic services page can't rank for both; dedicated pages can."
+      ],
+      [
+        "Can you make EV charger installs a bigger part of my business?",
+        "That's usually the goal. EV charger searches are exploding and most electricians have no dedicated page for them. We build EV-specific landing pages with rebate info and instant quote capture."
+      ],
+      [
+        "What about commercial electrical work?",
+        "We build separate residential and commercial tracks — commercial buyers need capability statements, past projects, and bid-request flows, not click-to-call banners."
+      ],
+      [
+        "How do you handle my Google reviews?",
+        "They stream onto the site automatically, and our optional review-automation add-on requests reviews after every completed job — the single best long-term local SEO investment."
+      ]
+    ],
+    "relatedIndustries": [
+      "home-services",
+      "construction"
+    ],
+    "relatedAI": "hvac"
+  },
+  "roofing": {
+    "name": "Roofing Companies",
+    "singular": "roofing company",
+    "slug": "roofing",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M3 12l9-8 9 8M5 10v10h14V10\"/></svg>",
+    "title": "Web Design for Roofers [2026] | Storm-Season Lead Machines",
+    "metaDesc": "✓ Custom web design for roofing companies. ✓ Storm-response pages, financing CTAs, before/after galleries, insurance-claim guides. ✓ From $1,500 →",
+    "heroHeading": "Web Design & Development for Roofing Companies",
+    "heroSub": "Roofing is a five-figure purchase decided in a weekend of frantic research. We build roofing websites that win that weekend: instant estimates, insurance-claim guidance, real before/afters, and financing options front and center.",
+    "problemStat": "After a storm, roofing searches spike 10x in affected zips — and the companies capturing those leads are the ones with fast sites, claim guides, and instant response systems already in place.",
+    "problemDetail": "Most roofing sites fail the storm test: slow load under traffic spikes, no insurance-claim content, no financing information, and contact forms that get answered Monday. Homeowners with a leaking roof hire whoever responds first with credible proof of quality work.",
+    "features": [
+      [
+        "Storm Response Landing Pages",
+        "Pre-built pages for hail/wind events that rank when the spike hits"
+      ],
+      [
+        "Insurance Claim Guide",
+        "Step-by-step claim content that positions you as the guide, not just a bidder"
+      ],
+      [
+        "Before/After Galleries",
+        "Geotagged project photos organized by neighborhood and roof type"
+      ],
+      [
+        "Financing Calculator",
+        "Monthly-payment framing that turns a $15k shock into a $180/month decision"
+      ],
+      [
+        "Instant Estimate Capture",
+        "Address-based inquiry forms that feed your CRM with roof size context"
+      ],
+      [
+        "Review & Warranty Showcase",
+        "Certifications, warranties, and reviews where skeptical buyers verify you"
+      ]
+    ],
+    "aiAngle": "During storm season your phone can't keep up. Our AI receptionist for roofers answers every call, captures the address and damage description, books inspections into your calendar, and texts the homeowner confirmation — while your competitors' calls ring out.",
+    "pricing": "Roofing websites run <strong>$2,500–$10,000</strong> depending on service areas and gallery/financing integrations. Published pricing, 14-day standard launch.",
+    "faqs": [
+      [
+        "Can the site handle storm-season traffic spikes?",
+        "Yes — we build on fast, cached infrastructure that doesn't fall over when the whole county searches at once. That reliability is precisely when a roofing site earns its money."
+      ],
+      [
+        "Do you write the insurance-claim content?",
+        "Yes — a proper claims guide (what to document, how to file, what adjusters look for) is included. It's the highest-trust content a roofing site can have and homeowners share it."
+      ],
+      [
+        "What about door-to-door leads and canvassing?",
+        "Your site is the closer, not the opener, for canvassing — homeowners Google you between the knock and the contract. We make sure what they find (reviews, projects, warranties) closes the deal."
+      ],
+      [
+        "How does financing on the website work?",
+        "We integrate your financing partner (or help you get one) with monthly-payment calculators on every estimate page. Financing-framed CTAs consistently outconvert flat-price CTAs on five-figure jobs."
+      ]
+    ],
+    "relatedIndustries": [
+      "construction",
+      "home-services"
+    ],
+    "relatedAI": "roofing"
+  },
+  "landscaping": {
+    "name": "Landscaping & Lawn Care",
+    "singular": "landscaping company",
+    "slug": "landscaping",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 22v-7m0 0c3 0 6-3 6-7-4 0-6 2-6 2s-2-2-6-2c0 4 3 7 6 7z\"/></svg>",
+    "title": "Web Design for Landscapers [2026] | Portfolio Sites That Book Estimates",
+    "metaDesc": "✓ Custom web design for landscaping & lawn care companies. ✓ Visual portfolios, seasonal service pages, instant estimate booking. ✓ From $1,500 →",
+    "heroHeading": "Web Design & Development for Landscaping Companies",
+    "heroSub": "Landscaping sells with photos and books with convenience. We build landscaping websites with stunning project galleries, seasonal service pages, and estimate booking that fills your spring calendar before the rush.",
+    "problemStat": "Landscaping demand is 80% visual — homeowners choose the company whose portfolio matches their vision — yet most landscaper sites show a dozen stock photos and a phone number.",
+    "problemDetail": "The busiest landscapers have a March problem: everyone calls at once, and whoever books estimates fastest wins the season. A site with real project galleries, clear service tiers, and self-serve estimate scheduling converts the spring rush instead of losing it to phone tag.",
+    "features": [
+      [
+        "Project Portfolio by Style",
+        "Real transformations organized by patios, plantings, lighting, full redesigns"
+      ],
+      [
+        "Seasonal Service Pages",
+        "Spring cleanup, maintenance plans, fall prep, snow — each ranking for its season"
+      ],
+      [
+        "Estimate Self-Scheduling",
+        "Homeowners book their own estimate slots — no phone tag during the rush"
+      ],
+      [
+        "Maintenance Plan Signups",
+        "Recurring-revenue plans presented with clear tiers and online signup"
+      ],
+      [
+        "Before/After Sliders",
+        "The highest-engagement element on any landscaping site"
+      ],
+      [
+        "Service Area Structure",
+        "Town-level pages built to rank across your whole route map"
+      ]
+    ],
+    "aiAngle": "Our AI assistant for landscapers answers calls during the mowing-season crush, quotes maintenance plans from your pricing rules, books estimates into route-aware time slots, and texts confirmations — recovering the 30–40% of spring calls that hit voicemail.",
+    "pricing": "Landscaping websites run <strong>$1,500–$6,500</strong> depending on portfolio depth and booking integrations. Published pricing, launch in 14 days — ideally before March.",
+    "faqs": [
+      [
+        "When is the best time to build a landscaping website?",
+        "Winter — you want it indexed and ranking before the March–May search spike that drives most annual revenue. Second-best time: now."
+      ],
+      [
+        "Can customers sign up for maintenance plans online?",
+        "Yes — tiered plans with online signup and payment. Recurring maintenance revenue is what smooths out the seasonal roller-coaster, and self-serve signup removes friction."
+      ],
+      [
+        "Do you photograph our projects?",
+        "We work with your existing photos and coach your crews on a simple capture routine (same angle, before and after). Great portfolios come from consistency, not professional shoots."
+      ],
+      [
+        "How do estimates get scheduled?",
+        "Homeowners pick from time slots you control — grouped by area so your estimator isn't criss-crossing the county. Bookings sync to your calendar and CRM with the property address attached."
+      ]
+    ],
+    "relatedIndustries": [
+      "home-services",
+      "construction"
+    ],
+    "relatedAI": "home-services"
+  },
+  "accounting-firms": {
+    "name": "Accounting Firms & CPAs",
+    "singular": "accounting firm",
+    "slug": "accounting-firms",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8M8 12h8M8 16h4\"/></svg>",
+    "title": "Web Design for Accountants & CPAs [2026] | Client-Winning Firm Sites",
+    "metaDesc": "✓ Professional web design for accounting firms & CPAs. ✓ Service-line pages, client portals, tax-season lead capture. ✓ From $1,500, published pricing →",
+    "heroHeading": "Web Design & Development for Accounting Firms",
+    "heroSub": "Businesses choose an accountant they trust before they ever call. We build CPA and accounting firm websites that project competence — clear service lines, credentials, client results — and convert tax-season research into booked consultations.",
+    "problemStat": "January–April drives the majority of new-client searches for accountants, and firms with modern sites and online booking capture consultations while competitors' phones ring busy.",
+    "problemDetail": "Most accounting firm websites look like they were built in 2012 — which quietly signals outdated practices to prospects comparing firms. Meanwhile the fastest-growing firms productize services (bookkeeping tiers, fractional CFO packages) with clear pricing that pre-qualifies clients before the first call.",
+    "features": [
+      [
+        "Service-Line Pages",
+        "Dedicated pages for tax prep, bookkeeping, payroll, and CFO services — each ranking independently"
+      ],
+      [
+        "Productized Pricing Tiers",
+        "Package your services with transparent monthly pricing that attracts right-fit clients"
+      ],
+      [
+        "Consultation Self-Booking",
+        "Prospects book directly into partner calendars — critical during tax season"
+      ],
+      [
+        "Credential & Niche Positioning",
+        "CPA licenses, industry specializations, and software partnerships front and center"
+      ],
+      [
+        "Secure Portal Integration",
+        "Links into your existing document portal, presented professionally"
+      ],
+      [
+        "Tax Deadline Content Hub",
+        "Seasonal content structure that captures deadline-driven search spikes"
+      ]
+    ],
+    "aiAngle": "Our AI assistant for accounting firms answers prospect questions (services, pricing tiers, documents needed), books consultations, and handles the January flood of 'do you take new clients?' calls — so your staff prepares returns instead of playing receptionist.",
+    "pricing": "Accounting firm websites run <strong>$1,500–$7,500</strong> depending on service lines and integrations. Published pricing — which, as accountants, your prospects will appreciate.",
+    "faqs": [
+      [
+        "Should our firm publish pricing?",
+        "For productized services (bookkeeping tiers, tax prep ranges) — yes. Transparent pricing pre-qualifies clients and filters fee-shoppers. Complex advisory stays 'from $X' with consultation booking. We'll structure both."
+      ],
+      [
+        "Can the site integrate our client portal?",
+        "Yes — whether you use Canopy, TaxDome, Karbon or others, we integrate portal access cleanly so clients log in from your site without confusion."
+      ],
+      [
+        "How do we stand out from other local firms?",
+        "Niche positioning. 'CPA for dental practices' or 'construction accounting specialists' converts dramatically better than 'full-service accounting'. We build niche landing pages around your best client types."
+      ],
+      [
+        "What about tax season traffic?",
+        "We prepare deadline-driven content and booking flows before January so the seasonal spike lands on pages built to convert it — not a generic homepage."
+      ]
+    ],
+    "relatedIndustries": [
+      "law-firms",
+      "real-estate"
+    ],
+    "relatedAI": "accounting-firms"
+  },
+  "insurance-agencies": {
+    "name": "Insurance Agencies",
+    "singular": "insurance agency",
+    "slug": "insurance-agencies",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7l8-4z\"/></svg>",
+    "title": "Web Design for Insurance Agencies [2026] | Quote-Generating Sites",
+    "metaDesc": "✓ Custom web design for independent insurance agencies. ✓ Quote request flows, carrier showcases, niche line pages. ✓ From $1,500, published pricing →",
+    "heroHeading": "Web Design & Development for Insurance Agencies",
+    "heroSub": "Independent agencies compete against billion-dollar direct-to-consumer brands. Your edge is choice and advice — we build agency websites that make that edge obvious, with quote flows that capture leads the captives can't serve.",
+    "problemStat": "Most insurance shoppers request quotes from 2–3 sources — agencies whose quote forms take under a minute get included; agencies with 'call us' pages get skipped.",
+    "problemDetail": "Independent agency websites tend to bury their advantage: access to dozens of carriers, real humans, local claims advocacy. Against Geico's ad budget you can't win on brand — but you win on 'insurance agent near me', niche lines (contractors, restaurants, landlords), and being the site that actually explains coverage.",
+    "features": [
+      [
+        "Fast Quote Request Flows",
+        "Line-specific forms that take under a minute and route into your management system"
+      ],
+      [
+        "Niche Line Landing Pages",
+        "Contractor insurance, restaurant coverage, landlord policies — commercial niches with real search volume and better margins"
+      ],
+      [
+        "Carrier Showcase",
+        "Your carrier lineup as proof of choice the captives can't match"
+      ],
+      [
+        "Coverage Explainer Content",
+        "Plain-English guides that rank and build the trust that closes policies"
+      ],
+      [
+        "Review & Claims-Story Integration",
+        "The moments agencies shine — claims advocacy — turned into social proof"
+      ],
+      [
+        "Cross-Sell Structure",
+        "Auto visitors see home bundles; business owners see umbrella options"
+      ]
+    ],
+    "aiAngle": "Our AI assistant for insurance agencies handles quote intake conversationally (gathering the details carriers need), answers coverage questions, and books policy reviews — turning after-hours shoppers into morning-ready quote files for your producers.",
+    "pricing": "Insurance agency websites run <strong>$1,500–$6,500</strong> depending on quote-flow depth and line pages. Published pricing, 14-day launches.",
+    "faqs": [
+      [
+        "Can quote requests flow into our AMS?",
+        "Yes — we integrate with EZLynx, Applied, HawkSoft and most agency management systems, or via email/webhook where direct APIs aren't available. No re-keying."
+      ],
+      [
+        "Should we focus on personal or commercial lines online?",
+        "Commercial niches usually win: less direct-carrier competition, higher premiums, and specific searches ('restaurant insurance [city]') you can actually rank for. We build both but lead with your best commercial niches."
+      ],
+      [
+        "How do we compete with Geico and Progressive online?",
+        "Not head-on. You win local searches, niche lines, and shoppers burned by call centers. Your site's job is making 'talk to a real local agent with 20 carriers' feel like the obvious upgrade."
+      ],
+      [
+        "Is the site compliant for insurance marketing?",
+        "We build with standard industry disclaimers and your E&O counsel's requirements. You approve all coverage language before launch."
+      ]
+    ],
+    "relatedIndustries": [
+      "real-estate",
+      "law-firms"
+    ],
+    "relatedAI": "law-firms"
+  },
+  "gyms-fitness": {
+    "name": "Gyms & Fitness Studios",
+    "singular": "fitness studio",
+    "slug": "gyms-fitness",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M6 8v8M18 8v8M4 10v4M20 10v4M6 12h12\"/></svg>",
+    "title": "Web Design for Gyms & Fitness Studios [2026] | Membership-Driving Sites",
+    "metaDesc": "✓ Custom web design for gyms, fitness studios & boutique fitness. ✓ Trial signups, class schedules, membership funnels. ✓ From $1,500, published pricing →",
+    "heroHeading": "Web Design & Development for Gyms & Fitness Studios",
+    "heroSub": "Every January your website either converts the resolution wave or wastes it. We build gym and studio websites with trial-first funnels, live schedules, and the social proof that turns 'thinking about it' into a first visit.",
+    "problemStat": "Fitness memberships are won on the first visit — and studios that make trial booking a 30-second online action convert several times more January traffic than 'contact us for a tour' sites.",
+    "problemDetail": "Most gym websites hide the two things prospects want: what it costs and how to try it. Forcing a phone call or walk-in filters out the majority of interested-but-hesitant prospects. The winning funnel is simple: clear pricing, frictionless trial booking, and photos of real members who look like your prospect.",
+    "features": [
+      [
+        "Trial-First Funnel",
+        "Free class / trial week booking as the primary CTA on every page"
+      ],
+      [
+        "Live Class Schedules",
+        "Synced from Mindbody, Glofox, or your booking platform"
+      ],
+      [
+        "Transparent Membership Pricing",
+        "Tiers published clearly — hiding prices loses the modern buyer"
+      ],
+      [
+        "Real Member Galleries",
+        "Your community, not stock athletes — the #1 belonging signal"
+      ],
+      [
+        "Trainer & Coach Profiles",
+        "Credentials and personalities that pre-build the relationship"
+      ],
+      [
+        "Challenge & Event Landing Pages",
+        "6-week challenge funnels that fill intake cohorts"
+      ]
+    ],
+    "aiAngle": "Our AI assistant for gyms answers membership questions, books trial classes 24/7, follows up with no-show trials by text, and reactivates lapsed members with win-back sequences — the follow-up machine that most studios never staff.",
+    "pricing": "Gym and studio websites run <strong>$1,500–$6,000</strong> depending on booking integrations and funnels. Published pricing — practice what we preach.",
+    "faqs": [
+      [
+        "Which booking platforms do you integrate?",
+        "Mindbody, Glofox, Zen Planner, PushPress, TeamUp and most major platforms — schedules, trial bookings and membership signups flow directly in."
+      ],
+      [
+        "Should we really publish membership prices?",
+        "Yes. Price-hiding made sense when sales happened on tours; today it just loses comparison shoppers before they visit. Publish tiers, lead with the trial, and let the visit sell the membership."
+      ],
+      [
+        "Can you build our 6-week challenge funnel?",
+        "Yes — challenge landing pages with countdown enrollment, payment, and automated onboarding sequences are one of the highest-ROI builds for studios."
+      ],
+      [
+        "How do we reduce trial no-shows?",
+        "Automated confirmation and reminder texts, plus a same-day 'what to bring' message. Paired with our AI follow-up, studios typically cut trial no-shows by a third or more."
+      ]
+    ],
+    "relatedIndustries": [
+      "healthcare",
+      "restaurants"
+    ],
+    "relatedAI": "gyms-fitness"
+  },
+  "salons-spas": {
+    "name": "Salons & Med Spas",
+    "singular": "salon",
+    "slug": "salons-spas",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><circle cx=\"6\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><path d=\"M8.5 7.5L20 19M8.5 16.5L20 5\"/></svg>",
+    "title": "Web Design for Salons & Med Spas [2026] | Booking-First Beauty Sites",
+    "metaDesc": "✓ Custom web design for salons, spas & med spas. ✓ Online booking, service menus with pricing, stylist portfolios. ✓ From $1,500, published pricing →",
+    "heroHeading": "Web Design & Development for Salons & Med Spas",
+    "heroSub": "Beauty clients book where booking is effortless. We build salon and med spa websites with gorgeous portfolios, transparent service menus, and one-tap booking that fills chairs while you're behind them.",
+    "problemStat": "Most salon bookings now start online, outside business hours — salons without self-serve booking hand those clients to whoever's Instagram bio has a booking link.",
+    "problemDetail": "Salon websites fail two ways: outdated sites that undersell premium work, and Instagram-only presences that Google can't rank. You need both beauty and infrastructure — a site that showcases work like a portfolio, prices like a menu, and books like an app.",
+    "features": [
+      [
+        "One-Tap Online Booking",
+        "Vagaro, Square, Boulevard, GlossGenius — booking embedded, not linked away"
+      ],
+      [
+        "Service Menu with Pricing",
+        "Clear services and prices — the page every prospect looks for first"
+      ],
+      [
+        "Stylist & Provider Portfolios",
+        "Individual pages with work galleries and direct booking per provider"
+      ],
+      [
+        "Before/After Galleries",
+        "Especially critical for med spa treatments, color corrections and extensions"
+      ],
+      [
+        "New-Client Offers",
+        "First-visit incentives with booking built into the offer"
+      ],
+      [
+        "Gift Card & Membership Sales",
+        "Revenue that arrives while you sleep"
+      ]
+    ],
+    "aiAngle": "Our AI receptionist for salons answers while your hands are busy: books and reschedules appointments, quotes service prices, answers 'do you do balayage?' texts, and fills last-minute cancellations from your waitlist automatically.",
+    "pricing": "Salon and med spa websites run <strong>$1,500–$6,000</strong> depending on booking platform and portfolio depth. Published pricing, live in 14 days.",
+    "faqs": [
+      [
+        "Which booking systems do you work with?",
+        "Vagaro, Square Appointments, Boulevard, GlossGenius, Mangomint and most major salon platforms — embedded directly so clients never leave your site to book."
+      ],
+      [
+        "We get most clients from Instagram — why do we need a website?",
+        "Instagram builds desire; Google captures demand. 'best balayage [city]' searches can't find an Instagram bio. The site turns your Instagram proof into search rankings and bookings you own."
+      ],
+      [
+        "Can each stylist have their own page?",
+        "Yes — individual portfolios with direct booking per provider. Great for commission-based teams and for ranking on '[stylist name] + [city]' searches as their followings grow."
+      ],
+      [
+        "What about med spa compliance?",
+        "Treatment pages are built with appropriate disclaimers and your medical director's review. Before/afters follow platform and state guidelines — we've built for Botox, filler, laser and body treatments."
+      ]
+    ],
+    "relatedIndustries": [
+      "healthcare",
+      "gyms-fitness"
+    ],
+    "relatedAI": "salons-spas"
   }
 }

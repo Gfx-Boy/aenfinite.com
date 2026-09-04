@@ -388,5 +388,407 @@
       "hvac",
       "dental"
     ]
+  },
+  "plumbing": {
+    "name": "AI for Plumbing Companies",
+    "singular": "plumbing company",
+    "slug": "plumbing",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 3v6m0 0a3 3 0 103 3m-3-3a3 3 0 00-3 3m3 9v-3\"/></svg>",
+    "title": "AI Receptionist for Plumbers [2026] | Never Miss a Burst-Pipe Call",
+    "metaDesc": "✓ 24/7 AI phone answering for plumbing companies. ✓ Emergency triage, instant dispatch, jobs booked while you're under a sink. ✓ From $2,500 setup →",
+    "heroHeading": "Done-For-You AI Receptionist for Plumbers",
+    "heroSub": "You can't answer the phone with your hands in a drain — but the homeowner with a burst pipe won't leave a voicemail. Our AI answers every call in 2 rings, triages emergencies to your on-call tech, and books routine jobs straight into your schedule.",
+    "missedMath": "The average missed plumbing call is a $250–$800 job — and an emergency call that rings out is often a $1,500+ job going to the next plumber on the list. Missing just two calls a day is $10k–$30k a month walking away.",
+    "wedge": "Unlike answering services that read scripts and take messages ($1–$3 per call, every call), our AI actually resolves calls: real triage logic you define, live booking into your field-service software, and instant SMS dispatch for emergencies — at a flat monthly rate.",
+    "workflows": [
+      [
+        "Emergency Triage & Dispatch",
+        "Burst pipe at 2am routes to your on-call tech with address and issue summary in 30 seconds; a dripping faucet books tomorrow's route"
+      ],
+      [
+        "Live Job Booking",
+        "Routine calls booked directly into ServiceTitan, Jobber or Housecall Pro with correct job types and time windows"
+      ],
+      [
+        "Missed-Call Text-Back",
+        "Any call that slips through gets an instant text that keeps the customer engaged until the AI or your team takes over"
+      ],
+      [
+        "Estimate Follow-Up",
+        "Outstanding quotes chased automatically at 2, 7 and 14 days — the highest-ROI automation in the trades"
+      ],
+      [
+        "Review Requests",
+        "Post-job review invites routed to Google, with unhappy customers intercepted to you first"
+      ]
+    ],
+    "integrations": [
+      "ServiceTitan",
+      "Jobber",
+      "Housecall Pro",
+      "Twilio",
+      "GoHighLevel",
+      "QuickBooks",
+      "Google Calendar"
+    ],
+    "pricing": "Plumbing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Compare: one part-time office hire is $1,800+/month for 25 hours a week — the AI covers 168.",
+    "faqs": [
+      [
+        "Can it really tell an emergency from a routine call?",
+        "Yes — you define the triage rules (no water + kids in the house = emergency; slow drain = routine) and the AI applies them consistently at any hour. Edge cases route to your on-call by default."
+      ],
+      [
+        "What happens when a customer insists on a human?",
+        "Immediate transfer to whoever you designate, with the conversation context passed along. During business hours that's your office; after hours it's your on-call tech for emergencies only."
+      ],
+      [
+        "Does it book directly into my scheduling software?",
+        "Yes — jobs land in ServiceTitan, Jobber, or Housecall Pro with job type, address, and time window set. Your dispatcher sees a clean schedule, not a pile of voicemails."
+      ],
+      [
+        "How fast can we go live?",
+        "7–14 days: we build your triage rules, connect your calendar, run test-call sessions with you, then start with after-hours forwarding so you can verify quality before full cutover."
+      ]
+    ],
+    "relatedIndustry": "plumbing",
+    "relatedSolutions": [
+      "hvac",
+      "home-services"
+    ]
+  },
+  "roofing": {
+    "name": "AI for Roofing Companies",
+    "singular": "roofing company",
+    "slug": "roofing",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M3 12l9-8 9 8M5 10v10h14V10\"/></svg>",
+    "title": "AI Receptionist for Roofers [2026] | Capture Every Storm-Season Lead",
+    "metaDesc": "✓ 24/7 AI phone answering for roofing companies. ✓ Storm-surge call handling, inspection booking, estimate follow-up. ✓ From $2,500 setup →",
+    "heroHeading": "Done-For-You AI Receptionist for Roofing Companies",
+    "heroSub": "After a hailstorm, every roofer's phone melts down at once — and whoever answers wins the neighborhood. Our AI answers unlimited simultaneous calls, books inspections with addresses captured, and chases every outstanding estimate until it closes.",
+    "missedMath": "An average roof replacement is $8,000–$20,000. In storm season, a single hour of unanswered phones can mean three or four jobs — $40k+ — signed with whoever picked up. The math on never missing a call is not subtle.",
+    "wedge": "Answering services collapse exactly when you need them — storm surges mean hold queues and message-taking. Our AI handles unlimited concurrent calls with zero degradation, captures damage details and addresses, and books inspection slots you control, at a flat rate that doesn't spike with volume.",
+    "workflows": [
+      [
+        "Storm-Surge Call Handling",
+        "Every simultaneous caller answered instantly; addresses, damage descriptions and insurance status captured into your CRM"
+      ],
+      [
+        "Inspection Scheduling",
+        "Callers booked into route-grouped inspection slots, confirmations texted automatically"
+      ],
+      [
+        "Estimate Follow-Up Engine",
+        "Every outstanding quote chased at 2, 7 and 14 days — where roofing close rates are actually won"
+      ],
+      [
+        "Insurance-Claim Guidance",
+        "The AI walks homeowners through documentation basics and positions your team as the claim experts"
+      ],
+      [
+        "Crew-Availability Updates",
+        "Customers get proactive scheduling and delay notifications by text, cutting inbound 'when are you coming?' calls"
+      ]
+    ],
+    "integrations": [
+      "AccuLynx",
+      "JobNimbus",
+      "GoHighLevel",
+      "Twilio",
+      "CompanyCam",
+      "QuickBooks",
+      "Google Calendar"
+    ],
+    "pricing": "Roofing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Storm-season surge capacity included — the flat rate is the point.",
+    "faqs": [
+      [
+        "Can it handle 20 calls at once during a storm?",
+        "Yes — unlimited concurrency is the AI's structural advantage over any human team or answering service. Every caller gets answered in 2 rings whether it's call #1 or #40 that hour."
+      ],
+      [
+        "Does it integrate with AccuLynx or JobNimbus?",
+        "Yes — leads land in your CRM with address, damage notes, and source tagging. Where a direct API doesn't exist we wire it through automation middleware; either way, no re-keying."
+      ],
+      [
+        "What about estimate follow-up — does that really move revenue?",
+        "It's usually the single biggest win. Most roofers quote and wait; a persistent 3-touch follow-up sequence typically lifts close rates 15–30%. On $100k of outstanding quotes, that's $15k–$30k recovered."
+      ],
+      [
+        "How fast can we launch before storm season?",
+        "7–14 days. If a storm just hit your area, tell us — we prioritize storm-response launches and can have surge answering live within a week."
+      ]
+    ],
+    "relatedIndustry": "roofing",
+    "relatedSolutions": [
+      "home-services",
+      "hvac"
+    ]
+  },
+  "medical-clinics": {
+    "name": "AI for Medical Clinics",
+    "singular": "medical clinic",
+    "slug": "medical-clinics",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 8v8M8 12h8\"/><circle cx=\"12\" cy=\"12\" r=\"9\"/></svg>",
+    "title": "AI Receptionist for Medical Clinics [2026] | HIPAA-Conscious Phone AI",
+    "metaDesc": "✓ 24/7 AI phone answering for medical clinics. ✓ Scheduling, reminders, refill routing, after-hours triage rules. ✓ HIPAA-conscious build. From $2,500 →",
+    "heroHeading": "Done-For-You AI Receptionist for Medical Clinics",
+    "heroSub": "Your front desk juggles check-ins, insurance questions and a phone that never stops. Our AI answers every call, schedules and confirms appointments, routes refills and triage per your protocols — built HIPAA-conscious from day one.",
+    "missedMath": "Clinics miss 20–30% of inbound calls at peak — and each missed new-patient call is $500–$3,000+ in first-year revenue. Add the no-shows that reminder calls would have prevented, and the phone gap costs most clinics five figures monthly.",
+    "wedge": "Generic AI phone tools aren't built for healthcare. Ours is deployed with BAA-eligible infrastructure, minimum-necessary PHI handling, and your clinical team's approved scripts — the AI handles logistics (scheduling, directions, reminders) and routes anything clinical to your protocols, never improvising medical advice.",
+    "workflows": [
+      [
+        "24/7 Appointment Scheduling",
+        "Patients book, reschedule and confirm around the clock, synced to your PM system"
+      ],
+      [
+        "Smart Reminders & No-Show Recovery",
+        "Layered SMS reminders with one-tap confirm; missed appointments get automatic rebooking outreach"
+      ],
+      [
+        "Refill & Records Routing",
+        "Prescription and records requests captured accurately and routed to the right queue — no clinical advice, ever"
+      ],
+      [
+        "After-Hours Triage Rules",
+        "Your protocols encoded: emergencies directed to 911/on-call per your rules, routine matters booked for morning"
+      ],
+      [
+        "Recall Campaigns",
+        "Overdue preventive-care outreach that fills tomorrow's empty slots from your patient list"
+      ]
+    ],
+    "integrations": [
+      "Athenahealth",
+      "DrChrono",
+      "Tebra",
+      "SimplePractice",
+      "Twilio (HIPAA-eligible)",
+      "Google Calendar",
+      "GoHighLevel"
+    ],
+    "pricing": "Medical clinic AI receptionist from <strong>$2,500 setup + $397/month</strong> including compliance-conscious configuration and template approval workflow with your team.",
+    "faqs": [
+      [
+        "Is this HIPAA compliant?",
+        "We architect for HIPAA-conscious operation: BAA-eligible infrastructure, minimum-necessary PHI in any message, access controls, and your compliance officer's sign-off on every template before launch. We'll walk your team through the full data-flow documentation."
+      ],
+      [
+        "Will the AI give medical advice?",
+        "Never. It handles logistics — scheduling, hours, directions, intake steps — and routes anything clinical to your staff or after-hours protocol. The boundary is hard-coded, not a suggestion."
+      ],
+      [
+        "Does it work with our EHR/PM system?",
+        "We integrate with major cloud systems (Athenahealth, DrChrono, Tebra, SimplePractice and others) directly or via secure middleware. Scheduling stays in sync; nothing is double-entered."
+      ],
+      [
+        "What do patients actually think of it?",
+        "Patients care about getting through. An AI that answers instantly, books in ninety seconds, and never puts them on hold consistently outscores the busy-signal alternative in satisfaction — and anyone who wants a human is transferred immediately."
+      ]
+    ],
+    "relatedIndustry": "healthcare",
+    "relatedSolutions": [
+      "dental",
+      "salons-spas"
+    ]
+  },
+  "accounting-firms": {
+    "name": "AI for Accounting Firms",
+    "singular": "accounting firm",
+    "slug": "accounting-firms",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8M8 12h8M8 16h4\"/></svg>",
+    "title": "AI Receptionist for Accounting Firms [2026] | Survive Tax Season Calls",
+    "metaDesc": "✓ 24/7 AI phone & chat for CPAs and accounting firms. ✓ New-client intake, consultation booking, document chasing. ✓ From $2,500 setup →",
+    "heroHeading": "Done-For-You AI Assistant for Accounting Firms",
+    "heroSub": "Every January the same flood: 'Are you taking new clients?' 'What do I need to bring?' 'Can I get an extension?' Our AI answers all of it, books consultations into partner calendars, and chases client documents — while your team actually prepares returns.",
+    "missedMath": "A new business client is worth $2,000–$10,000+ annually and often stays for a decade. Firms that can't answer January phones lose exactly those callers to whoever picks up — and partners doing receptionist work during peak season is the most expensive staffing model in the industry.",
+    "wedge": "Answering services can't tell a 1040 from a 1120. Our AI is trained on your service lines, pricing tiers, and intake requirements — it qualifies prospects (business vs individual, complexity, deadline), books the right meeting length with the right partner, and sends your engagement checklist automatically.",
+    "workflows": [
+      [
+        "New-Client Qualification",
+        "Callers screened by entity type, complexity and fit — right-fit prospects booked, poor-fit politely referred out"
+      ],
+      [
+        "Consultation Scheduling",
+        "Booked directly into partner calendars with intake forms sent on confirmation"
+      ],
+      [
+        "Document Chasing",
+        "Automated, polite, persistent requests for missing client documents — the tax-season time sink nobody staffs"
+      ],
+      [
+        "Deadline Reminder Campaigns",
+        "Quarterly estimates, extension deadlines, and filing dates pushed to the right client segments"
+      ],
+      [
+        "Existing-Client Routing",
+        "Current clients recognized and routed to their team; status questions answered from your playbook"
+      ]
+    ],
+    "integrations": [
+      "Karbon",
+      "TaxDome",
+      "Canopy",
+      "Calendly",
+      "QuickBooks",
+      "GoHighLevel",
+      "Twilio"
+    ],
+    "pricing": "Accounting firm AI assistant from <strong>$2,500 setup + $297/month</strong>. Compare to seasonal reception staffing — then note the AI also works February through December.",
+    "faqs": [
+      [
+        "Can it handle tax-season call volume?",
+        "Unlimited simultaneous calls — the January flood is exactly the use case. Every caller gets answered in 2 rings; your staff sees a queue of qualified, booked consultations instead of 40 voicemails."
+      ],
+      [
+        "How does document chasing work?",
+        "The AI tracks your missing-items list per client (from TaxDome, Karbon or a shared sheet) and sends escalating reminders by text and email until items arrive — with a full audit trail your team can see."
+      ],
+      [
+        "Will clients with complex questions get stuck with a bot?",
+        "No — anything advisory routes to their assigned team member with context. The AI's job is the 70% of calls that are logistics: scheduling, documents, deadlines, status."
+      ],
+      [
+        "Is client data handled securely?",
+        "Yes — encrypted infrastructure, minimum-necessary data in any message, and no financial details discussed by the AI beyond what you approve. Your engagement letter and privacy standards drive the configuration."
+      ]
+    ],
+    "relatedIndustry": "accounting-firms",
+    "relatedSolutions": [
+      "law-firms",
+      "real-estate"
+    ]
+  },
+  "gyms-fitness": {
+    "name": "AI for Gyms & Fitness Studios",
+    "singular": "fitness studio",
+    "slug": "gyms-fitness",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M6 8v8M18 8v8M4 10v4M20 10v4M6 12h12\"/></svg>",
+    "title": "AI Assistant for Gyms [2026] | Book Trials & Win Back Members 24/7",
+    "metaDesc": "✓ AI phone & chat for gyms and fitness studios. ✓ Trial bookings, no-show recovery, member win-back campaigns. ✓ From $1,500 setup →",
+    "heroHeading": "Done-For-You AI Assistant for Gyms & Studios",
+    "heroSub": "Prospects message at 9pm after deciding tomorrow is day one. Our AI answers instantly, books the trial class, reminds them until they show, and — when members lapse — runs the win-back outreach your front desk never has time for.",
+    "missedMath": "An average gym membership is worth $500–$1,500 a year. Studios lose most January inquiries to slow follow-up, and quiet cancellations bleed 3–5% of members monthly. The revenue isn't in more leads — it's in the follow-up nobody staffs.",
+    "wedge": "Fitness software manages bookings; it doesn't chase them. Our AI actually converses — answering 'is this beginner friendly?', booking the trial, sending what-to-bring texts, following up after the visit, and running 30/60/90-day win-back sequences on lapsed members with real offers.",
+    "workflows": [
+      [
+        "Instant Trial Booking",
+        "Every inquiry — call, text, webchat, Instagram — answered in seconds and booked into a class"
+      ],
+      [
+        "Trial Show-Up Sequences",
+        "Confirmation, day-before reminder, morning-of 'what to bring' — cutting trial no-shows dramatically"
+      ],
+      [
+        "Post-Trial Conversion Follow-Up",
+        "The 24-hour window after a first visit worked automatically with membership offers"
+      ],
+      [
+        "Member Win-Back Campaigns",
+        "Lapsed and cancelled members re-engaged with tiered offers at 30, 60 and 90 days"
+      ],
+      [
+        "Class & Billing Questions",
+        "Schedules, pricing tiers, freeze policies answered instantly from your playbook"
+      ]
+    ],
+    "integrations": [
+      "Mindbody",
+      "Glofox",
+      "PushPress",
+      "Zen Planner",
+      "GoHighLevel",
+      "Twilio",
+      "Stripe"
+    ],
+    "pricing": "Gym AI assistant from <strong>$1,500 setup + $197/month</strong> — roughly the revenue of two saved memberships.",
+    "faqs": [
+      [
+        "Can it book directly into Mindbody or Glofox?",
+        "Yes — trials and classes book straight into your scheduling platform with the right class, time and capacity checks. Your desk sees bookings, not messages to process."
+      ],
+      [
+        "Does win-back outreach actually work?",
+        "Reliably — lapsed members already know and once chose you. Typical reactivation rates run 3–8% per campaign, which at average membership values pays for the system several times over each quarter."
+      ],
+      [
+        "What channels does it cover?",
+        "Phone, SMS, website chat, and Instagram/Facebook DMs — one AI, one conversation history, so a prospect can call after texting and it remembers them."
+      ],
+      [
+        "Will it feel pushy to members?",
+        "You approve every sequence's tone and cadence. The default is helpful-persistent, not salesy — reminders people appreciate, offers that feel like invitations, and instant opt-out honored everywhere."
+      ]
+    ],
+    "relatedIndustry": "gyms-fitness",
+    "relatedSolutions": [
+      "salons-spas",
+      "restaurants"
+    ]
+  },
+  "salons-spas": {
+    "name": "AI for Salons & Med Spas",
+    "singular": "salon",
+    "slug": "salons-spas",
+    "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><circle cx=\"6\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><path d=\"M8.5 7.5L20 19M8.5 16.5L20 5\"/></svg>",
+    "title": "AI Receptionist for Salons & Med Spas [2026] | Book While You Work",
+    "metaDesc": "✓ AI phone & text answering for salons, spas and med spas. ✓ Appointment booking, waitlist filling, no-show reduction. ✓ From $1,500 setup →",
+    "heroHeading": "Done-For-You AI Receptionist for Salons & Med Spas",
+    "heroSub": "Your hands are in foils; the phone is ringing; the caller books elsewhere. Our AI answers every call and text, books and reschedules appointments, quotes services, and fills last-minute cancellations from your waitlist — automatically.",
+    "missedMath": "The average salon misses a third of calls during services — at $75–$300+ per appointment, that's thousands monthly. Add no-shows (industry average 10–20%) and empty chairs from unfilled cancellations, and the phone gap is most salons' largest silent loss.",
+    "wedge": "Booking apps wait for clients to come to them. Our AI works your book actively: answering the calls apps miss, converting 'how much is balayage?' texts into booked appointments, texting your waitlist the moment a slot opens, and reminding everyone until chairs stay full.",
+    "workflows": [
+      [
+        "Call & Text Answering",
+        "Every inquiry answered instantly — services, prices, availability — and booked on the spot"
+      ],
+      [
+        "Cancellation Backfill",
+        "Open slots offered to your waitlist by text automatically; chairs refill in minutes, not days"
+      ],
+      [
+        "No-Show Reduction",
+        "Layered confirmations and reminders with one-tap confirm/reschedule; deposits requested per your policy"
+      ],
+      [
+        "Provider-Specific Booking",
+        "Clients book their stylist or injector specifically, with correct service durations"
+      ],
+      [
+        "Rebooking Prompts",
+        "Post-visit texts timed to each service's cycle — color at 6 weeks, Botox at 12 — that keep regulars regular"
+      ]
+    ],
+    "integrations": [
+      "Vagaro",
+      "Square Appointments",
+      "Boulevard",
+      "GlossGenius",
+      "Twilio",
+      "GoHighLevel",
+      "Instagram DM"
+    ],
+    "pricing": "Salon AI receptionist from <strong>$1,500 setup + $197/month</strong> — less than one missed color appointment a week.",
+    "faqs": [
+      [
+        "Can it quote prices for specific services?",
+        "Yes — trained on your full service menu including add-ons and provider-level pricing. Complex consultations (corrections, med spa treatments) get booked as consults per your rules instead of quoted blind."
+      ],
+      [
+        "How does waitlist backfill work?",
+        "When a cancellation opens a slot, the AI texts matching waitlist clients in order (right service, right provider) and books the first yes. Salons typically recover most same-week cancellations this way."
+      ],
+      [
+        "Does it handle Instagram DMs?",
+        "Yes — DM inquiries get the same instant answers and booking as calls and texts, with one conversation history across channels."
+      ],
+      [
+        "What about med spa treatment questions?",
+        "The AI answers logistics (pricing ranges, appointment length, prep instructions you approve) and books consultations for anything clinical — it never gives medical advice, and your medical director approves all treatment language."
+      ]
+    ],
+    "relatedIndustry": "salons-spas",
+    "relatedSolutions": [
+      "gyms-fitness",
+      "dental"
+    ]
   }
 }
