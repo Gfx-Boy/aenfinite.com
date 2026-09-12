@@ -1086,7 +1086,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 															<span class="marquee-line_text">Custom Software & Web Development</span>
 															<span class="marquee-line_text">Serving US & Canada Markets</span>
 															<span class="marquee-line_text">Expert UI/UX & Digital Marketing Solutions</span>
-															<span class="marquee-line_text">5-Star Client Reviews & Clutch Rating</span>
+															<span class="marquee-line_text">Verified 5-Star Client Reviews & Proven Results</span>
 															<span class="marquee-line_text">Expert Team - Adobe, Figma, Custom Development</span>
 															<span class="marquee-line_text">Agile Development & Design Process</span>
 															<span class="marquee-line_text">Denver-Based Digital Agency</span>

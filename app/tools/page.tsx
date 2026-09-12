@@ -62,6 +62,26 @@ function buildHubContent(): string {
 </section>
 
 <section ${S}>
+  <h2 ${H2}>Interactive Estimators &amp; ROI Calculators</h2>
+  <p ${P}>Use our free interactive tools to model project investments and calculate revenue recovery before booking a call:</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:24px;margin-top:24px;">
+    <a href="/tools/website-cost-calculator/" style="text-decoration:none;color:inherit;display:block;background:linear-gradient(135deg,rgba(34,123,243,0.08) 0%,rgba(34,123,243,0.02) 100%);border:1px solid rgba(34,123,243,0.3);border-radius:16px;padding:32px 26px;transition:all 0.3s ease;">
+      <span style="font-size:32px;display:block;margin-bottom:14px;">🧮</span>
+      <h3 style="font-size:22px;font-weight:700;margin:0 0 10px;">Website Cost Calculator</h3>
+      <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0 0 18px;">Customize page count, CMS platform, design polish, and AI add-ons to generate an accurate, itemized market quote in 60 seconds.</p>
+      <span style="font-size:15px;font-weight:700;color:#227bf3;">Launch Calculator &rsaquo;</span>
+    </a>
+
+    <a href="/tools/ai-receptionist-roi-calculator/" style="text-decoration:none;color:inherit;display:block;background:linear-gradient(135deg,rgba(239,68,68,0.08) 0%,rgba(34,123,243,0.02) 100%);border:1px solid rgba(239,68,68,0.3);border-radius:16px;padding:32px 26px;transition:all 0.3s ease;">
+      <span style="font-size:32px;display:block;margin-bottom:14px;">📞</span>
+      <h3 style="font-size:22px;font-weight:700;margin:0 0 10px;">AI Receptionist ROI Calculator</h3>
+      <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0 0 18px;">Calculate how much gross revenue your business loses each month to unanswered phone calls and after-hours voicemail.</p>
+      <span style="font-size:15px;font-weight:700;color:#ef4444;">Calculate Lost Revenue &rsaquo;</span>
+    </a>
+  </div>
+</section>
+
+<section ${S}>
   <h2 ${H2}>Why This Stack?</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;margin-top:20px;">
     <div style="padding:24px;border:1px solid rgba(128,128,128,0.15);border-radius:12px;">

@@ -65,30 +65,30 @@ function nearby(stateSlug: string, citySlug: string, count: number): Array<[stri
 
 /* High-CTR, High-Ranking Title Formulas designed to win clicks on Google SERPs */
 const TITLES = [
-  (c: string, st: string) => `Web Design in ${c}, ${st} | Custom Sites From $1,500`,
-  (c: string, st: string) => `${c} Web Designer | See Every Price Online`,
-  (c: string, st: string) => `Web Design ${c}, ${st} | Fixed Quotes | 14-Day Launch`,
-  (c: string, st: string) => `${c}, ${st} Web Design | From $1,500 | No Hidden Fees`,
-  (c: string, st: string) => `Custom Website for Your ${c} Business | From $1,500`,
-  (c: string, st: string) => `${c} Web Design Company | Prices Listed | Free Quote in 24h`,
-  (c: string, st: string) => `Web Designer for ${c}, ${st} | Launch in 14 Days`,
-  (c: string, st: string) => `Web Design & AI Automation in ${c}, ${st}`,
-  (c: string, st: string) => `${c} Website Design | Senior US Team | Published Pricing`,
-  (c: string, st: string) => `Web Design in ${c}, ${st} | Live in 14 Days | From $1,500`,
-  (c: string, st: string) => `${c} Web Design + 24/7 AI Receptionist | Fixed Pricing`,
-  (c: string, st: string) => `Affordable Web Design in ${c}, ${st} | Real Prices Online`,
+  (c: string, st: string) => `${c} Web Design, Development & AI Automation (From $3k)`,
+  (c: string, st: string) => `Top-Rated Web Design Agency in ${c}, ${st} | 4.9★`,
+  (c: string, st: string) => `Custom Websites, E-Commerce & AI Voice Agents | ${c}, ${st}`,
+  (c: string, st: string) => `${c}, ${st} Web Design & Development (Published Pricing)`,
+  (c: string, st: string) => `Best Web Design Company Serving ${c}, ${st} | Fixed Quote`,
+  (c: string, st: string) => `Custom Web Development & AI Automation for ${c} Businesses`,
+  (c: string, st: string) => `High-Speed Web Design & Smart AI Agents in ${c}, ${st}`,
+  (c: string, st: string) => `Web Design & Custom Development in ${c}, ${st}`,
+  (c: string, st: string) => `Full-Stack Web Development & AI Solutions in ${c}, ${st}`,
+  (c: string, st: string) => `${c} Web Design & SEO Services | Senior US Engineers`,
+  (c: string, st: string) => `Modern Web Design & 24/7 AI Receptionists | ${c}, ${st}`,
+  (c: string, st: string) => `Affordable Custom Web Design for ${c}, ${st} Companies`,
 ];
 
 /* High-Converting Meta Descriptions with ratings, pricing brackets & CTA triggers */
 const DESCRIPTIONS = [
-  (c: CityRec, st: string) => `Custom web design for ${c.name}, ${st} businesses from $1,500 with every price published online. Senior US engineers, 14-day launches, 100% code ownership. Fixed quote in 24h.`,
-  (c: CityRec, st: string) => `Need a website in ${c.name}? See the full price list before you ever talk to us. Custom sites from $1,500, e-commerce from $2,500, AI receptionists from $297/mo. Free quote in 24 hours.`,
-  (c: CityRec, st: string) => `Web design from $1,500, e-commerce from $2,500 and AI automation from $1,500 for ${c.name} companies. Senior US team serving all of ${st} with fixed quotes and 100% code ownership.`,
-  (c: CityRec, st: string) => `Custom websites, WordPress, online stores & AI voice receptionists for ${c.name}, ${st} businesses. Every price published online, no discovery-call runaround. Quote in 24h.`,
-  (c: CityRec, st: string) => `Custom web design & AI workflows for ${c.name}, ${st} companies. Transparent published pricing, senior US engineers, and 14-day launches. Get your fixed quote today.`,
-  (c: CityRec, st: string) => `Get a high-speed website with 24/7 AI lead capture for your ${c.name} business. Published pricing from $1,500, zero hidden fees, live in 14 days. Get a fixed quote in 24h.`,
-  (c: CityRec, st: string) => `Professional web design for ${c.name} businesses, built for speed, mobile conversion and Google rankings. From $1,500 with all pricing published. Free 24-hour quote.`,
-  (c: CityRec, st: string) => `Senior engineers delivering custom websites, e-commerce and AI chatbots to ${c.name}, ${st}. From $1,500, fixed pricing, full source code ownership. Quote within 24 hours.`,
+  (c: CityRec, st: string) => `⭐ 4.9★ Rated Agency. Custom web design from $3,000 & AI automation from $1,500 for ${c.name}, ${st} businesses (pop. ${fmt(c.pop)}). Fast 3-week delivery & fixed quotes.`,
+  (c: CityRec, st: string) => `Looking for custom web development or AI voice agents in ${c.name}? Aenfinite delivers high-converting websites with published pricing & zero fluff. Free consultation!`,
+  (c: CityRec, st: string) => `Web design from $3,000, e-commerce from $8,000 and AI automation from $1,500 for ${c.name} companies. Senior US team serving all of ${st} with 100% code ownership.`,
+  (c: CityRec, st: string) => `Custom websites, WordPress development, online stores & AI voice receptionists for businesses in ${c.name}, ${st}. Fixed quotes and no discovery-call runaround.`,
+  (c: CityRec, st: string) => `Top-rated custom web design & AI workflows for ${c.name}, ${st} companies. Transparent pricing, 5-star Google reviews, and dedicated senior engineering.`,
+  (c: CityRec, st: string) => `Transform your ${c.name} business with high-speed web design and 24/7 AI lead capture. Published pricing starting at $1,500 with zero hidden fees. Get a quote!`,
+  (c: CityRec, st: string) => `Professional web design & AI automation for ${c.name} businesses. Built for speed, mobile conversion, and Google rankings with complete transparent pricing.`,
+  (c: CityRec, st: string) => `Senior engineering team delivering custom web development, e-commerce, and AI chatbots to ${c.name}, ${st}. Fixed pricing with full source code ownership.`,
 ];
 
 const INTROS = [
@@ -182,7 +182,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
       <span>⭐ 4.9/5 Rating</span> &bull; <span>${esc(c.name)}, ${esc(st.code)}</span>
     </div>
     <div class="title title__default"><h1 style="font-size:clamp(32px,5.2vw,56px);line-height:1.15;margin:0 0 20px;font-weight:800;">Web Design &amp; Development in ${esc(c.name)}, ${esc(st.code)}</h1></div>
-    <p style="font-size:clamp(18px,2.4vw,22px);line-height:1.6;opacity:0.88;max-width:860px;margin:0 0 28px;">Custom websites, high-conversion e-commerce, and 24/7 AI automation for ${esc(c.name)} businesses — 100% published pricing, senior US engineering, delivered with zero fluff.</p>
+    <p style="font-size:clamp(18px,2.4vw,22px);line-height:1.6;opacity:0.88;max-width:860px;margin:0 0 28px;">Custom websites, high-conversion e-commerce, and 24/7 AI automation for ${esc(c.name)} businesses — 100% published pricing, Denver-headquartered senior engineering, delivered with zero fluff.</p>
     <div style="display:flex;flex-wrap:wrap;gap:14px;">
       <a href="/contact/" class="button" style="display:inline-block;background:#227bf3;color:#fff;padding:15px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;box-shadow:0 4px 18px rgba(34,123,243,0.35);">Get a Fixed-Price Quote &rsaquo;</a>
       <a href="/blog/how-much-does-a-website-cost-for-a-small-business/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:15px 28px;border-radius:8px;font-weight:600;font-size:16px;text-decoration:none;">View Pricing Guide &rsaquo;</a>
@@ -223,7 +223,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
 <!-- LOCAL LANDSCAPE & INTRO -->
 <section ${S}>
   <p ${P}>${intro}</p>
-  <p ${P}>Every project we deliver operates entirely digital — design reviews in Figma, interactive staging environments, scheduled video updates, and direct engineering collaboration. This modern delivery model gives ${esc(c.name)} companies access to top-tier US talent without the overhead, bloated retainers, or franchise handoffs of traditional local agencies. You work directly with senior engineers, backed by <a href="/locations/denver/">our published Denver pricing</a>.</p>
+  <p ${P}>Every project we deliver operates entirely digital — design reviews in Figma, interactive staging environments, scheduled video updates, and direct engineering collaboration. This modern delivery model gives ${esc(c.name)} companies access to senior engineering talent without the overhead, bloated retainers, or franchise handoffs of traditional local agencies. You work directly with senior engineers, backed by <a href="/locations/denver/">our published Denver pricing</a>.</p>
 </section>
 
 <!-- COMPARISON MATRIX -->
@@ -331,36 +331,15 @@ function buildBody(stateSlug: string, citySlug: string): string {
   </div>
 </section>
 
-<!-- PUBLISHED PRICING -->
+<!-- PUBLISHED PRICING SUMMARY -->
 <section ${S}>
   <div style="background:linear-gradient(135deg, rgba(34,123,243,0.06) 0%, rgba(255,255,255,0.02) 100%);border:1px solid rgba(34,123,243,0.2);border-radius:16px;padding:36px 30px;">
     <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">Transparent Investment</span>
     <h2 ${H2} style="margin-top:12px;">Published Rates &bull; No Local Markups in ${esc(c.name)}</h2>
-    <p ${P}>We believe business leaders deserve straightforward pricing without sales discovery gimmicks. Every ${esc(c.name)} project receives a fixed-cost proposal based on our national rates:</p>
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin-top:24px;">
-      <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
-        <div style="font-size:14px;opacity:0.8;font-weight:600;">Small Business Websites</div>
-        <div style="font-size:24px;font-weight:800;color:#227bf3;margin:8px 0;">$3,000 – $15,000</div>
-        <div style="font-size:14px;opacity:0.85;line-height:1.5;">Custom UI/UX, mobile-first speed, technical SEO &amp; CMS integration.</div>
-      </div>
-      <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
-        <div style="font-size:14px;opacity:0.8;font-weight:600;">E-Commerce Stores</div>
-        <div style="font-size:24px;font-weight:800;color:#227bf3;margin:8px 0;">$8,000 – $40,000</div>
-        <div style="font-size:14px;opacity:0.85;line-height:1.5;">High-converting Shopify/WooCommerce with custom cart funnels &amp; ERP sync.</div>
-      </div>
-      <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
-        <div style="font-size:14px;opacity:0.8;font-weight:600;">AI Automation &amp; Agents</div>
-        <div style="font-size:24px;font-weight:800;color:#227bf3;margin:8px 0;">$1,500 – $10,000</div>
-        <div style="font-size:14px;opacity:0.85;line-height:1.5;">24/7 AI voice phone agents, automated lead follow-up &amp; CRM pipelines.</div>
-      </div>
-      <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
-        <div style="font-size:14px;opacity:0.8;font-weight:600;">Ongoing Care &amp; Growth</div>
-        <div style="font-size:24px;font-weight:800;color:#227bf3;margin:8px 0;">$50 – $300/mo</div>
-        <div style="font-size:14px;opacity:0.85;line-height:1.5;">Cloud hosting, daily backups, security monitoring &amp; developer support.</div>
-      </div>
-    </div>
-    <div style="margin-top:24px;">
-      <a href="https://blog.aenfinite.com/how-much-does-a-website-cost-for-a-small-business/" style="color:#227bf3;font-weight:600;text-decoration:none;font-size:15px;">Read our detailed 2026 Website Cost Breakdown &rsaquo;</a>
+    <p ${P}>We believe business leaders deserve straightforward pricing without sales discovery gimmicks. Custom small business websites run <strong>$3,000 to $8,000</strong>, complex web applications $15,000+, and 24/7 AI voice receptionists start at <strong>$1,500 setup</strong> with zero long-term contracts.</p>
+    <div style="margin-top:20px;display:flex;flex-wrap:wrap;gap:14px;align-items:center;">
+      <a href="/pricing/" style="display:inline-block;background:#227bf3;color:#fff;padding:12px 26px;border-radius:8px;font-weight:700;font-size:15px;text-decoration:none;">View Complete 2026 Price Schedule &rsaquo;</a>
+      <a href="/tools/website-cost-calculator/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;text-decoration:none;">Calculate Project Cost &rsaquo;</a>
     </div>
   </div>
 </section>

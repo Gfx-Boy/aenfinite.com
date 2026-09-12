@@ -50,6 +50,16 @@ Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
 
+# Google — Search Indexing
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-News
+Allow: /
+Disallow: /darkmode/
+Disallow: /cdn-cgi/
+Disallow: /intro/
+
 # Google — Google-Extended controls AI Overviews / Gemini grounding.
 # It is a permission token, not a crawler, so it carries no Disallow rules.
 User-agent: Google-Extended
@@ -131,6 +141,11 @@ Disallow: /intro/
 # ---------------------------------------------------------------------------
 Sitemap: https://aenfinite.com/sitemap-index.xml
 Sitemap: https://aenfinite.com/sitemap.xml
+Sitemap: https://aenfinite.com/sitemap-cities.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part1.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part2.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part3.xml
+Sitemap: https://aenfinite.com/sitemap-cities-part4.xml
 Sitemap: https://aenfinite.com/sitemap-services.xml
 Sitemap: https://aenfinite.com/sitemap-industries.xml
 Sitemap: https://aenfinite.com/sitemap-ai-solutions.xml
@@ -142,7 +157,3 @@ Sitemap: https://aenfinite.com/sitemap-work.xml
 Sitemap: https://aenfinite.com/sitemap-featured-work.xml
 Sitemap: https://aenfinite.com/sitemap-partner-with-us.xml
 Sitemap: https://aenfinite.com/sitemap-contact.xml
-Sitemap: https://aenfinite.com/sitemap-cities-part1.xml
-Sitemap: https://aenfinite.com/sitemap-cities-part2.xml
-Sitemap: https://aenfinite.com/sitemap-cities-part3.xml
-Sitemap: https://aenfinite.com/sitemap-cities-part4.xml

@@ -1619,6 +1619,13 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <section class='aen-city-links' style='max-width:1000px;margin:0 auto;padding:24px;font-family:inherit;'>
   <h2 style='font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:24px 0 14px;line-height:1.25;'>Cities we serve in New Hampshire</h2>
   <p style='line-height:1.8;font-size:15px;opacity:0.85;'><a href='/locations/new-hampshire/manchester/'>Manchester</a> &middot; <a href='/locations/new-hampshire/nashua/'>Nashua</a> &middot; <a href='/locations/new-hampshire/concord/'>Concord</a> &middot; <a href='/locations/new-hampshire/dover/'>Dover</a> &middot; <a href='/locations/new-hampshire/rochester/'>Rochester</a> &middot; <a href='/locations/new-hampshire/keene/'>Keene</a> &middot; <a href='/locations/new-hampshire/portsmouth/'>Portsmouth</a> &middot; <a href='/locations/new-hampshire/laconia/'>Laconia</a> &middot; <a href='/locations/new-hampshire/lebanon/'>Lebanon</a> &middot; <a href='/locations/new-hampshire/claremont/'>Claremont</a> &middot; <a href='/locations/new-hampshire/somersworth/'>Somersworth</a> &middot; <a href='/locations/new-hampshire/berlin/'>Berlin</a> &middot; <a href='/locations/new-hampshire/franklin/'>Franklin</a>.</p>
+
+  <details style='margin-top:20px;border:1px solid rgba(128,128,128,0.25);border-radius:12px;padding:16px 20px;'>
+    <summary style='cursor:pointer;font-weight:700;font-size:16px;color:#227bf3;'>View All 13 Cities in New Hampshire &rsaquo;</summary>
+    <div style='margin-top:16px;line-height:1.9;font-size:14px;opacity:0.88;'>
+      <a href='/locations/new-hampshire/berlin/'>Berlin</a> &middot; <a href='/locations/new-hampshire/claremont/'>Claremont</a> &middot; <a href='/locations/new-hampshire/concord/'>Concord</a> &middot; <a href='/locations/new-hampshire/dover/'>Dover</a> &middot; <a href='/locations/new-hampshire/franklin/'>Franklin</a> &middot; <a href='/locations/new-hampshire/keene/'>Keene</a> &middot; <a href='/locations/new-hampshire/laconia/'>Laconia</a> &middot; <a href='/locations/new-hampshire/lebanon/'>Lebanon</a> &middot; <a href='/locations/new-hampshire/manchester/'>Manchester</a> &middot; <a href='/locations/new-hampshire/nashua/'>Nashua</a> &middot; <a href='/locations/new-hampshire/portsmouth/'>Portsmouth</a> &middot; <a href='/locations/new-hampshire/rochester/'>Rochester</a> &middot; <a href='/locations/new-hampshire/somersworth/'>Somersworth</a>
+    </div>
+  </details>
 </section>
 <!-- AEN-FAQ START -->
 <section class='aen-faq-block' aria-labelledby='aen-faq-title' style='max-width:1000px;margin:64px auto;padding:32px 24px;font-family:inherit;'>

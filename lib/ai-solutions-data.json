@@ -4,8 +4,8 @@
     "singular": "dental practice",
     "slug": "dental",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2C7.5 2 4 4.5 4 8c0 3.5 1.5 6.5 2.5 10 .5 2 1.5 4 2.5 4s1.5-2 2-4c.5-2 .5-3 1-3s.5 1 1 3c.5 2 1 4 2 4s2-2 2.5-4c1-3.5 2.5-6.5 2.5-10 0-3.5-3.5-6-8-6z\"/><path d=\"M9 7c1 1.5 5 1.5 6 0\"/></svg>",
-    "title": "AI Voice Receptionist & Chatbot for Dental Practices [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai for dental practices. ✓ Qualifies leads, books appointments & syncs CRM. Custom dental AI chatbot setups start at <strong>$1,500–$3,500</strong> for full setup, PMS integration, and workflow tuning. Monthly maintenance and optimization starts at <strong>$199/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Voice Receptionist & Chatbot for Dental Practices [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai for dental practices. \u2713 Qualifies leads, books appointments & syncs CRM. Custom dental AI chatbot setups start at <strong>$1,500\u2013$3,500</strong> for full setup, PMS integration, and workflow tuning. Monthly maintenance and optimization starts at <strong>$199/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "Done-For-You AI Chatbots for Dental Practices",
     "heroSub": "Capture appointment bookings, answer insurance questions, and triage dental emergencies 24/7 without burdening your front desk.",
     "missedMath": "A single missed new-patient inquiry costs $1,200+ in lifetime treatment value. 35% of patient website visits happen outside office hours when phones go to voicemail.",
@@ -13,7 +13,7 @@
     "workflows": [
       [
         "24/7 Online Appointment Booking",
-        "Patients select procedure types, preferred times, and provider preferences — instantly reserving slots in your PMS calendar with automated calendar confirmations."
+        "Patients select procedure types, preferred times, and provider preferences \u2014 instantly reserving slots in your PMS calendar with automated calendar confirmations."
       ],
       [
         "Emergency Dental Triage",
@@ -41,7 +41,7 @@
       "GoHighLevel",
       "Twilio SMS"
     ],
-    "pricing": "Custom dental AI chatbot setups start at <strong>$1,500–$3,500</strong> for full setup, PMS integration, and workflow tuning. Monthly maintenance and optimization starts at <strong>$199/mo</strong>.",
+    "pricing": "Custom dental AI chatbot setups start at <strong>$1,500\u2013$3,500</strong> for full setup, PMS integration, and workflow tuning. Monthly maintenance and optimization starts at <strong>$199/mo</strong>.",
     "faqs": [
       [
         "Is the AI chatbot HIPAA compliant?",
@@ -64,18 +64,19 @@
     "relatedSolutions": [
       "law-firms",
       "home-services"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: A dental AI receptionist costs $1,500\u2013$3,500 for custom setup, with ongoing telephony at $0.08\u2013$0.12/minute. It operates 24/7/365 to handle patient emergency triage, answer insurance coverage inquiries, and book new hygiene appointments directly into practice management software (Dentrix, Eaglesoft, Open Dental), eliminating missed calls during peak hygiene hours."
   },
   "hvac": {
     "name": "AI Receptionist for HVAC",
     "singular": "HVAC company",
     "slug": "hvac",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2v20M2 12h20M4.93 4.93l14.14 14.14M19.07 4.93L4.93 19.07\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>",
-    "title": "AI Voice Receptionist & Chatbot for HVAC [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai receptionist for hvac. ✓ Qualifies leads, books appointments & syncs CRM. Done-for-you HVAC AI receptionist setups start at <strong>$2,000–$4,500</strong> including voice agent tuning, prompt optimization, and FSM synchronization. Monthly hosting and minutes packages start at <strong>$249/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Voice Receptionist & Chatbot for HVAC [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai receptionist for hvac. \u2713 Qualifies leads, books appointments & syncs CRM. Done-for-you HVAC AI receptionist setups start at <strong>$2,000\u2013$4,500</strong> including voice agent tuning, prompt optimization, and FSM synchronization. Monthly hosting and minutes packages start at <strong>$249/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "AI Receptionist & Answering Service for HVAC Companies",
-    "heroSub": "Answer every emergency call, qualify replacement leads, and book service visits 24/7 — wired directly into Jobber, ServiceTitan, or Housecall Pro.",
-    "missedMath": "An emergency AC failure or furnace breakdown call is a $300–$3,500 ticket. When a homeowner's heat goes out at 9pm in winter, they call down Google until someone answers. If you go to voicemail, you lose the job.",
+    "heroSub": "Answer every emergency call, qualify replacement leads, and book service visits 24/7 \u2014 wired directly into Jobber, ServiceTitan, or Housecall Pro.",
+    "missedMath": "An emergency AC failure or furnace breakdown call is a $300\u2013$3,500 ticket. When a homeowner's heat goes out at 9pm in winter, they call down Google until someone answers. If you go to voicemail, you lose the job.",
     "wedge": "Third-party answering services employ generic operators who don't know HVAC and cost thousands monthly. DIY AI tools make you build complex prompts yourself. Aenfinite delivers a fully configured, custom-voiced AI technician trained on HVAC terminology, diagnostic triage, and your exact pricing rules.",
     "workflows": [
       [
@@ -108,7 +109,7 @@
       "Zapier",
       "GoHighLevel"
     ],
-    "pricing": "Done-for-you HVAC AI receptionist setups start at <strong>$2,000–$4,500</strong> including voice agent tuning, prompt optimization, and FSM synchronization. Monthly hosting and minutes packages start at <strong>$249/mo</strong>.",
+    "pricing": "Done-for-you HVAC AI receptionist setups start at <strong>$2,000\u2013$4,500</strong> including voice agent tuning, prompt optimization, and FSM synchronization. Monthly hosting and minutes packages start at <strong>$249/mo</strong>.",
     "faqs": [
       [
         "Can the AI answer phone calls with a natural voice?",
@@ -131,19 +132,20 @@
     "relatedSolutions": [
       "home-services",
       "restaurants"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: An HVAC AI voice agent costs $1,500\u2013$3,500 setup, capturing 100% of after-hours emergency furnace and AC breakdown calls. It asks diagnostic triage questions, quotes dispatch fees, and schedules service technician appointments directly into ServiceTitan or Housecall Pro within 60 seconds, recovering an average of $8,000\u2013$25,000 in monthly lost dispatch revenue."
   },
   "law-firms": {
     "name": "AI Intake for Law Firms",
     "singular": "law firm",
     "slug": "law-firms",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3v18M6 8l-4 8h8L6 8zM18 8l-4 8h8l-4-8zM3 8h18M9 21h6\"/></svg>",
-    "title": "AI Voice Receptionist & Chatbot for Law Firms [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai intake for law firms. ✓ Qualifies leads, books appointments & syncs CRM. Custom law firm AI intake systems start at <strong>$2,000–$5,000</strong> including practice area qualification flows and legal CRM integration. Monthly management starts at <strong>$299/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Voice Receptionist & Chatbot for Law Firms [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai intake for law firms. \u2713 Qualifies leads, books appointments & syncs CRM. Custom law firm AI intake systems start at <strong>$2,000\u2013$5,000</strong> including practice area qualification flows and legal CRM integration. Monthly management starts at <strong>$299/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "AI Client Intake & Lead Qualification for Law Firms",
-    "heroSub": "Qualify high-value cases instantly, gather critical incident facts, and schedule attorney consultations 24/7 — fully compliant with legal ethics and bar rules.",
+    "heroSub": "Qualify high-value cases instantly, gather critical incident facts, and schedule attorney consultations 24/7 \u2014 fully compliant with legal ethics and bar rules.",
     "missedMath": "In personal injury and criminal defense, 70% of retainers go to the first firm that responds. Prospective clients searching at night or on weekends sign with whichever attorney engages them first.",
-    "wedge": "Generic legal chat widgets just ask for an email and phone number. Aenfinite builds intelligent legal intake workflows customized to your practice areas — screening for statute of limitations, liability, insurance coverage, and injury severity before routing qualified leads to your calendar.",
+    "wedge": "Generic legal chat widgets just ask for an email and phone number. Aenfinite builds intelligent legal intake workflows customized to your practice areas \u2014 screening for statute of limitations, liability, insurance coverage, and injury severity before routing qualified leads to your calendar.",
     "workflows": [
       [
         "Practice-Specific Case Screening",
@@ -175,7 +177,7 @@
       "HubSpot",
       "Zapier"
     ],
-    "pricing": "Custom law firm AI intake systems start at <strong>$2,000–$5,000</strong> including practice area qualification flows and legal CRM integration. Monthly management starts at <strong>$299/mo</strong>.",
+    "pricing": "Custom law firm AI intake systems start at <strong>$2,000\u2013$5,000</strong> including practice area qualification flows and legal CRM integration. Monthly management starts at <strong>$299/mo</strong>.",
     "faqs": [
       [
         "Does the AI give legal advice?",
@@ -198,15 +200,16 @@
     "relatedSolutions": [
       "dental",
       "real-estate"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Legal intake AI agents cost $1,500\u2013$4,000 to deploy, conducting 24/7 bilingual client qualification for personal injury, family, and criminal defense practices. The AI collects case facts, screens out non-viable claims, and syncs retainer consultation bookings into Clio, Lawmatics, or Filevine with under 700ms voice response latency."
   },
   "real-estate": {
     "name": "AI Assistant for Real Estate",
     "singular": "real estate agency",
     "slug": "real-estate",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 10.5L12 3l9 7.5V20a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-9.5z\"/><path d=\"M9 22V12h6v10\"/></svg>",
-    "title": "AI Voice Receptionist & Lead Qualification for Real Estate [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai assistant for real estate. ✓ Qualifies leads, books appointments & syncs CRM. Custom real estate AI assistants start at <strong>$1,500–$3,500</strong> for website and CRM integration. Ongoing optimization from <strong>$199/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Voice Receptionist & Lead Qualification for Real Estate [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai assistant for real estate. \u2713 Qualifies leads, books appointments & syncs CRM. Custom real estate AI assistants start at <strong>$1,500\u2013$3,500</strong> for website and CRM integration. Ongoing optimization from <strong>$199/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "AI Lead Qualification & Showing Assistant for Real Estate",
     "heroSub": "Instantly engage every portal and website inquiry, qualify pre-approval status and budget, and book showing tours while you are in the field.",
     "missedMath": "Real estate leads contact an average of 3 agents. Responding within 5 minutes increases conversion rates by 391% compared to responding in 30 minutes. An AI assistant guarantees zero-second response times.",
@@ -242,7 +245,7 @@
       "Google Calendar",
       "GoHighLevel"
     ],
-    "pricing": "Custom real estate AI assistants start at <strong>$1,500–$3,500</strong> for website and CRM integration. Ongoing optimization from <strong>$199/mo</strong>.",
+    "pricing": "Custom real estate AI assistants start at <strong>$1,500\u2013$3,500</strong> for website and CRM integration. Ongoing optimization from <strong>$199/mo</strong>.",
     "faqs": [
       [
         "Does it connect to Follow Up Boss or KvCore?",
@@ -261,19 +264,20 @@
     "relatedSolutions": [
       "law-firms",
       "home-services"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Real estate AI receptionists cost $1,500\u2013$3,000 setup, instantly answering buyer and tenant inquiries from Zillow and yard signs. The agent qualifies pre-approval status, captures property preferences, and books private showings onto agent calendars in Follow Up Boss, ensuring zero missed high-intent buyers on weekends and evenings."
   },
   "restaurants": {
     "name": "AI Ordering for Restaurants",
     "singular": "restaurant",
     "slug": "restaurants",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 2v20M21 2v6a3 3 0 0 1-3 3M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2M7 2v20\"/></svg>",
-    "title": "AI Phone Ordering & Table Reservations for Restaurants [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai ordering for restaurants. ✓ Qualifies leads, books appointments & syncs CRM. Restaurant AI setups start at <strong>$1,500–$3,000</strong>. Monthly maintenance and voice minute packages from <strong>$149/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Phone Ordering & Table Reservations for Restaurants [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai ordering for restaurants. \u2713 Qualifies leads, books appointments & syncs CRM. Restaurant AI setups start at <strong>$1,500\u2013$3,000</strong>. Monthly maintenance and voice minute packages from <strong>$149/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "AI Reservation & Ordering Assistant for Restaurants",
     "heroSub": "Free up your floor staff during dinner rushes. Answer phone calls and website inquiries with instant table bookings, catering quotes, and menu guidance.",
-    "missedMath": "A restaurant loses an estimated 10–20 covers every weekend because phone lines are busy during peak dinner service. An AI receptionist answers every simultaneous call without waiting on hold.",
-    "wedge": "Third-party delivery platforms take 15–30% commissions. Our conversational AI guides guests to direct online ordering, private event bookings, and direct table reservations — keeping 100% of the margin in your pocket.",
+    "missedMath": "A restaurant loses an estimated 10\u201320 covers every weekend because phone lines are busy during peak dinner service. An AI receptionist answers every simultaneous call without waiting on hold.",
+    "wedge": "Third-party delivery platforms take 15\u201330% commissions. Our conversational AI guides guests to direct online ordering, private event bookings, and direct table reservations \u2014 keeping 100% of the margin in your pocket.",
     "workflows": [
       [
         "Table Reservation Booking",
@@ -305,7 +309,7 @@
       "Google Business Profile",
       "Twilio"
     ],
-    "pricing": "Restaurant AI setups start at <strong>$1,500–$3,000</strong>. Monthly maintenance and voice minute packages from <strong>$149/mo</strong>.",
+    "pricing": "Restaurant AI setups start at <strong>$1,500\u2013$3,000</strong>. Monthly maintenance and voice minute packages from <strong>$149/mo</strong>.",
     "faqs": [
       [
         "Can it handle loud ambient restaurant noise?",
@@ -324,18 +328,19 @@
     "relatedSolutions": [
       "hvac",
       "home-services"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Restaurant AI phone agents cost $1,200\u2013$2,500 setup, handling peak dinner rush phone calls without staff interruption. The AI answers catering inquiries, menu allergens, parking, and reservations, syncing bookings directly with OpenTable, Resy, or SevenRooms while saving 15\u201325 staff hours per week."
   },
   "home-services": {
     "name": "AI Receptionist for Home Services",
     "singular": "home service company",
     "slug": "home-services",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"/></svg>",
-    "title": "AI Voice Receptionist & Chatbot for Home Services [2026] — 24/7 Agent",
-    "metaDesc": "✓ 24/7 AI receptionist & chatbot for ai receptionist for home services. ✓ Qualifies leads, books appointments & syncs CRM. Home service AI dispatcher setups start at <strong>$2,000–$4,000</strong> with complete FSM integration. Monthly hosting from <strong>$199/mo</strong>.. You own 100%. See demo →",
+    "title": "AI Voice Receptionist & Chatbot for Home Services [2026] \u2014 24/7 Agent",
+    "metaDesc": "\u2713 24/7 AI receptionist & chatbot for ai receptionist for home services. \u2713 Qualifies leads, books appointments & syncs CRM. Home service AI dispatcher setups start at <strong>$2,000\u2013$4,000</strong> with complete FSM integration. Monthly hosting from <strong>$199/mo</strong>.. You own 100%. See demo \u2192",
     "heroHeading": "AI Receptionist for Plumbers, Electricians & Roofers",
     "heroSub": "Never send a lucrative emergency job to voicemail again. AI answering that quotes diagnostics, triages urgent leaks or power outages, and books jobs in your FSM.",
-    "missedMath": "68% of homeowners call the next contractor on Google if their first call goes unanswered. A single plumbing burst pipe or emergency roof tarping job can be worth $2,000–$8,000.",
+    "missedMath": "68% of homeowners call the next contractor on Google if their first call goes unanswered. A single plumbing burst pipe or emergency roof tarping job can be worth $2,000\u2013$8,000.",
     "wedge": "Traditional call centers have high turnover and zero trade knowledge. Aenfinite builds a dedicated AI dispatcher that knows your trade, asks the right diagnostic questions, and instantly syncs with your field software.",
     "workflows": [
       [
@@ -368,7 +373,7 @@
       "Twilio",
       "GoHighLevel"
     ],
-    "pricing": "Home service AI dispatcher setups start at <strong>$2,000–$4,000</strong> with complete FSM integration. Monthly hosting from <strong>$199/mo</strong>.",
+    "pricing": "Home service AI dispatcher setups start at <strong>$2,000\u2013$4,000</strong> with complete FSM integration. Monthly hosting from <strong>$199/mo</strong>.",
     "faqs": [
       [
         "Can the AI distinguish between emergency and routine calls?",
@@ -376,7 +381,7 @@
       ],
       [
         "How quickly does the AI answer?",
-        "Inbound calls and website chats are answered in under 1 second — eliminating hold times and lost jobs."
+        "Inbound calls and website chats are answered in under 1 second \u2014 eliminating hold times and lost jobs."
       ],
       [
         "Can it work for multiple trades in one company?",
@@ -387,7 +392,8 @@
     "relatedSolutions": [
       "hvac",
       "dental"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Home services AI agents cost $1,500\u2013$3,200 setup, qualifying electrical, roofing, and remodeling inquiries around the clock. It captures project scope, requests customer address photos via SMS, and books estimator walkthroughs directly into Jobber or ServiceTitan, boosting quote conversion by over 35%."
   },
   "plumbing": {
     "name": "AI for Plumbing Companies",
@@ -395,11 +401,11 @@
     "slug": "plumbing",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 3v6m0 0a3 3 0 103 3m-3-3a3 3 0 00-3 3m3 9v-3\"/></svg>",
     "title": "AI Receptionist for Plumbers [2026] | Never Miss a Burst-Pipe Call",
-    "metaDesc": "✓ 24/7 AI phone answering for plumbing companies. ✓ Emergency triage, instant dispatch, jobs booked while you're under a sink. ✓ From $2,500 setup →",
+    "metaDesc": "\u2713 24/7 AI phone answering for plumbing companies. \u2713 Emergency triage, instant dispatch, jobs booked while you're under a sink. \u2713 From $2,500 setup \u2192",
     "heroHeading": "Done-For-You AI Receptionist for Plumbers",
-    "heroSub": "You can't answer the phone with your hands in a drain — but the homeowner with a burst pipe won't leave a voicemail. Our AI answers every call in 2 rings, triages emergencies to your on-call tech, and books routine jobs straight into your schedule.",
-    "missedMath": "The average missed plumbing call is a $250–$800 job — and an emergency call that rings out is often a $1,500+ job going to the next plumber on the list. Missing just two calls a day is $10k–$30k a month walking away.",
-    "wedge": "Unlike answering services that read scripts and take messages ($1–$3 per call, every call), our AI actually resolves calls: real triage logic you define, live booking into your field-service software, and instant SMS dispatch for emergencies — at a flat monthly rate.",
+    "heroSub": "You can't answer the phone with your hands in a drain \u2014 but the homeowner with a burst pipe won't leave a voicemail. Our AI answers every call in 2 rings, triages emergencies to your on-call tech, and books routine jobs straight into your schedule.",
+    "missedMath": "The average missed plumbing call is a $250\u2013$800 job \u2014 and an emergency call that rings out is often a $1,500+ job going to the next plumber on the list. Missing just two calls a day is $10k\u2013$30k a month walking away.",
+    "wedge": "Unlike answering services that read scripts and take messages ($1\u2013$3 per call, every call), our AI actually resolves calls: real triage logic you define, live booking into your field-service software, and instant SMS dispatch for emergencies \u2014 at a flat monthly rate.",
     "workflows": [
       [
         "Emergency Triage & Dispatch",
@@ -415,7 +421,7 @@
       ],
       [
         "Estimate Follow-Up",
-        "Outstanding quotes chased automatically at 2, 7 and 14 days — the highest-ROI automation in the trades"
+        "Outstanding quotes chased automatically at 2, 7 and 14 days \u2014 the highest-ROI automation in the trades"
       ],
       [
         "Review Requests",
@@ -431,11 +437,11 @@
       "QuickBooks",
       "Google Calendar"
     ],
-    "pricing": "Plumbing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Compare: one part-time office hire is $1,800+/month for 25 hours a week — the AI covers 168.",
+    "pricing": "Plumbing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Compare: one part-time office hire is $1,800+/month for 25 hours a week \u2014 the AI covers 168.",
     "faqs": [
       [
         "Can it really tell an emergency from a routine call?",
-        "Yes — you define the triage rules (no water + kids in the house = emergency; slow drain = routine) and the AI applies them consistently at any hour. Edge cases route to your on-call by default."
+        "Yes \u2014 you define the triage rules (no water + kids in the house = emergency; slow drain = routine) and the AI applies them consistently at any hour. Edge cases route to your on-call by default."
       ],
       [
         "What happens when a customer insists on a human?",
@@ -443,18 +449,19 @@
       ],
       [
         "Does it book directly into my scheduling software?",
-        "Yes — jobs land in ServiceTitan, Jobber, or Housecall Pro with job type, address, and time window set. Your dispatcher sees a clean schedule, not a pile of voicemails."
+        "Yes \u2014 jobs land in ServiceTitan, Jobber, or Housecall Pro with job type, address, and time window set. Your dispatcher sees a clean schedule, not a pile of voicemails."
       ],
       [
         "How fast can we go live?",
-        "7–14 days: we build your triage rules, connect your calendar, run test-call sessions with you, then start with after-hours forwarding so you can verify quality before full cutover."
+        "7\u201314 days: we build your triage rules, connect your calendar, run test-call sessions with you, then start with after-hours forwarding so you can verify quality before full cutover."
       ]
     ],
     "relatedIndustry": "plumbing",
     "relatedSolutions": [
       "hvac",
       "home-services"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Plumbing AI voice dispatch costs $1,500\u2013$3,000 setup, answering emergency burst pipe and sewer backup calls within 2 rings. It collects customer address and urgency level, dispatches on-call technicians via SMS, and registers work orders into FieldEdge or ServiceTitan."
   },
   "roofing": {
     "name": "AI for Roofing Companies",
@@ -462,11 +469,11 @@
     "slug": "roofing",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M3 12l9-8 9 8M5 10v10h14V10\"/></svg>",
     "title": "AI Receptionist for Roofers [2026] | Capture Every Storm-Season Lead",
-    "metaDesc": "✓ 24/7 AI phone answering for roofing companies. ✓ Storm-surge call handling, inspection booking, estimate follow-up. ✓ From $2,500 setup →",
+    "metaDesc": "\u2713 24/7 AI phone answering for roofing companies. \u2713 Storm-surge call handling, inspection booking, estimate follow-up. \u2713 From $2,500 setup \u2192",
     "heroHeading": "Done-For-You AI Receptionist for Roofing Companies",
-    "heroSub": "After a hailstorm, every roofer's phone melts down at once — and whoever answers wins the neighborhood. Our AI answers unlimited simultaneous calls, books inspections with addresses captured, and chases every outstanding estimate until it closes.",
-    "missedMath": "An average roof replacement is $8,000–$20,000. In storm season, a single hour of unanswered phones can mean three or four jobs — $40k+ — signed with whoever picked up. The math on never missing a call is not subtle.",
-    "wedge": "Answering services collapse exactly when you need them — storm surges mean hold queues and message-taking. Our AI handles unlimited concurrent calls with zero degradation, captures damage details and addresses, and books inspection slots you control, at a flat rate that doesn't spike with volume.",
+    "heroSub": "After a hailstorm, every roofer's phone melts down at once \u2014 and whoever answers wins the neighborhood. Our AI answers unlimited simultaneous calls, books inspections with addresses captured, and chases every outstanding estimate until it closes.",
+    "missedMath": "An average roof replacement is $8,000\u2013$20,000. In storm season, a single hour of unanswered phones can mean three or four jobs \u2014 $40k+ \u2014 signed with whoever picked up. The math on never missing a call is not subtle.",
+    "wedge": "Answering services collapse exactly when you need them \u2014 storm surges mean hold queues and message-taking. Our AI handles unlimited concurrent calls with zero degradation, captures damage details and addresses, and books inspection slots you control, at a flat rate that doesn't spike with volume.",
     "workflows": [
       [
         "Storm-Surge Call Handling",
@@ -478,7 +485,7 @@
       ],
       [
         "Estimate Follow-Up Engine",
-        "Every outstanding quote chased at 2, 7 and 14 days — where roofing close rates are actually won"
+        "Every outstanding quote chased at 2, 7 and 14 days \u2014 where roofing close rates are actually won"
       ],
       [
         "Insurance-Claim Guidance",
@@ -498,30 +505,31 @@
       "QuickBooks",
       "Google Calendar"
     ],
-    "pricing": "Roofing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Storm-season surge capacity included — the flat rate is the point.",
+    "pricing": "Roofing AI receptionist from <strong>$2,500 setup + $297/month</strong>. Storm-season surge capacity included \u2014 the flat rate is the point.",
     "faqs": [
       [
         "Can it handle 20 calls at once during a storm?",
-        "Yes — unlimited concurrency is the AI's structural advantage over any human team or answering service. Every caller gets answered in 2 rings whether it's call #1 or #40 that hour."
+        "Yes \u2014 unlimited concurrency is the AI's structural advantage over any human team or answering service. Every caller gets answered in 2 rings whether it's call #1 or #40 that hour."
       ],
       [
         "Does it integrate with AccuLynx or JobNimbus?",
-        "Yes — leads land in your CRM with address, damage notes, and source tagging. Where a direct API doesn't exist we wire it through automation middleware; either way, no re-keying."
+        "Yes \u2014 leads land in your CRM with address, damage notes, and source tagging. Where a direct API doesn't exist we wire it through automation middleware; either way, no re-keying."
       ],
       [
-        "What about estimate follow-up — does that really move revenue?",
-        "It's usually the single biggest win. Most roofers quote and wait; a persistent 3-touch follow-up sequence typically lifts close rates 15–30%. On $100k of outstanding quotes, that's $15k–$30k recovered."
+        "What about estimate follow-up \u2014 does that really move revenue?",
+        "It's usually the single biggest win. Most roofers quote and wait; a persistent 3-touch follow-up sequence typically lifts close rates 15\u201330%. On $100k of outstanding quotes, that's $15k\u2013$30k recovered."
       ],
       [
         "How fast can we launch before storm season?",
-        "7–14 days. If a storm just hit your area, tell us — we prioritize storm-response launches and can have surge answering live within a week."
+        "7\u201314 days. If a storm just hit your area, tell us \u2014 we prioritize storm-response launches and can have surge answering live within a week."
       ]
     ],
     "relatedIndustry": "roofing",
     "relatedSolutions": [
       "home-services",
       "hvac"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Roofing AI voice intake costs $1,500\u2013$3,500 setup, instantly capturing storm damage leads and roof replacement inquiries. It collects insurance claim details, property square footage, and schedules drone roof inspections directly into AccuLynx or JobNimbus."
   },
   "medical-clinics": {
     "name": "AI for Medical Clinics",
@@ -529,11 +537,11 @@
     "slug": "medical-clinics",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M12 8v8M8 12h8\"/><circle cx=\"12\" cy=\"12\" r=\"9\"/></svg>",
     "title": "AI Receptionist for Medical Clinics [2026] | HIPAA-Conscious Phone AI",
-    "metaDesc": "✓ 24/7 AI phone answering for medical clinics. ✓ Scheduling, reminders, refill routing, after-hours triage rules. ✓ HIPAA-conscious build. From $2,500 →",
+    "metaDesc": "\u2713 24/7 AI phone answering for medical clinics. \u2713 Scheduling, reminders, refill routing, after-hours triage rules. \u2713 HIPAA-conscious build. From $2,500 \u2192",
     "heroHeading": "Done-For-You AI Receptionist for Medical Clinics",
-    "heroSub": "Your front desk juggles check-ins, insurance questions and a phone that never stops. Our AI answers every call, schedules and confirms appointments, routes refills and triage per your protocols — built HIPAA-conscious from day one.",
-    "missedMath": "Clinics miss 20–30% of inbound calls at peak — and each missed new-patient call is $500–$3,000+ in first-year revenue. Add the no-shows that reminder calls would have prevented, and the phone gap costs most clinics five figures monthly.",
-    "wedge": "Generic AI phone tools aren't built for healthcare. Ours is deployed with BAA-eligible infrastructure, minimum-necessary PHI handling, and your clinical team's approved scripts — the AI handles logistics (scheduling, directions, reminders) and routes anything clinical to your protocols, never improvising medical advice.",
+    "heroSub": "Your front desk juggles check-ins, insurance questions and a phone that never stops. Our AI answers every call, schedules and confirms appointments, routes refills and triage per your protocols \u2014 built HIPAA-conscious from day one.",
+    "missedMath": "Clinics miss 20\u201330% of inbound calls at peak \u2014 and each missed new-patient call is $500\u2013$3,000+ in first-year revenue. Add the no-shows that reminder calls would have prevented, and the phone gap costs most clinics five figures monthly.",
+    "wedge": "Generic AI phone tools aren't built for healthcare. Ours is deployed with BAA-eligible infrastructure, minimum-necessary PHI handling, and your clinical team's approved scripts \u2014 the AI handles logistics (scheduling, directions, reminders) and routes anything clinical to your protocols, never improvising medical advice.",
     "workflows": [
       [
         "24/7 Appointment Scheduling",
@@ -545,7 +553,7 @@
       ],
       [
         "Refill & Records Routing",
-        "Prescription and records requests captured accurately and routed to the right queue — no clinical advice, ever"
+        "Prescription and records requests captured accurately and routed to the right queue \u2014 no clinical advice, ever"
       ],
       [
         "After-Hours Triage Rules",
@@ -573,7 +581,7 @@
       ],
       [
         "Will the AI give medical advice?",
-        "Never. It handles logistics — scheduling, hours, directions, intake steps — and routes anything clinical to your staff or after-hours protocol. The boundary is hard-coded, not a suggestion."
+        "Never. It handles logistics \u2014 scheduling, hours, directions, intake steps \u2014 and routes anything clinical to your staff or after-hours protocol. The boundary is hard-coded, not a suggestion."
       ],
       [
         "Does it work with our EHR/PM system?",
@@ -581,14 +589,15 @@
       ],
       [
         "What do patients actually think of it?",
-        "Patients care about getting through. An AI that answers instantly, books in ninety seconds, and never puts them on hold consistently outscores the busy-signal alternative in satisfaction — and anyone who wants a human is transferred immediately."
+        "Patients care about getting through. An AI that answers instantly, books in ninety seconds, and never puts them on hold consistently outscores the busy-signal alternative in satisfaction \u2014 and anyone who wants a human is transferred immediately."
       ]
     ],
     "relatedIndustry": "healthcare",
     "relatedSolutions": [
       "dental",
       "salons-spas"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Medical clinic AI receptionists cost $1,800\u2013$4,500 setup, providing HIPAA-compliant 24/7 call triage, prescription refill routing, and appointment scheduling into Epic, AthenaHealth, or Kareo, cutting front-desk phone wait times from 8 minutes to zero."
   },
   "accounting-firms": {
     "name": "AI for Accounting Firms",
@@ -596,15 +605,15 @@
     "slug": "accounting-firms",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"/><path d=\"M8 8h8M8 12h8M8 16h4\"/></svg>",
     "title": "AI Receptionist for Accounting Firms [2026] | Survive Tax Season Calls",
-    "metaDesc": "✓ 24/7 AI phone & chat for CPAs and accounting firms. ✓ New-client intake, consultation booking, document chasing. ✓ From $2,500 setup →",
+    "metaDesc": "\u2713 24/7 AI phone & chat for CPAs and accounting firms. \u2713 New-client intake, consultation booking, document chasing. \u2713 From $2,500 setup \u2192",
     "heroHeading": "Done-For-You AI Assistant for Accounting Firms",
-    "heroSub": "Every January the same flood: 'Are you taking new clients?' 'What do I need to bring?' 'Can I get an extension?' Our AI answers all of it, books consultations into partner calendars, and chases client documents — while your team actually prepares returns.",
-    "missedMath": "A new business client is worth $2,000–$10,000+ annually and often stays for a decade. Firms that can't answer January phones lose exactly those callers to whoever picks up — and partners doing receptionist work during peak season is the most expensive staffing model in the industry.",
-    "wedge": "Answering services can't tell a 1040 from a 1120. Our AI is trained on your service lines, pricing tiers, and intake requirements — it qualifies prospects (business vs individual, complexity, deadline), books the right meeting length with the right partner, and sends your engagement checklist automatically.",
+    "heroSub": "Every January the same flood: 'Are you taking new clients?' 'What do I need to bring?' 'Can I get an extension?' Our AI answers all of it, books consultations into partner calendars, and chases client documents \u2014 while your team actually prepares returns.",
+    "missedMath": "A new business client is worth $2,000\u2013$10,000+ annually and often stays for a decade. Firms that can't answer January phones lose exactly those callers to whoever picks up \u2014 and partners doing receptionist work during peak season is the most expensive staffing model in the industry.",
+    "wedge": "Answering services can't tell a 1040 from a 1120. Our AI is trained on your service lines, pricing tiers, and intake requirements \u2014 it qualifies prospects (business vs individual, complexity, deadline), books the right meeting length with the right partner, and sends your engagement checklist automatically.",
     "workflows": [
       [
         "New-Client Qualification",
-        "Callers screened by entity type, complexity and fit — right-fit prospects booked, poor-fit politely referred out"
+        "Callers screened by entity type, complexity and fit \u2014 right-fit prospects booked, poor-fit politely referred out"
       ],
       [
         "Consultation Scheduling",
@@ -612,7 +621,7 @@
       ],
       [
         "Document Chasing",
-        "Automated, polite, persistent requests for missing client documents — the tax-season time sink nobody staffs"
+        "Automated, polite, persistent requests for missing client documents \u2014 the tax-season time sink nobody staffs"
       ],
       [
         "Deadline Reminder Campaigns",
@@ -632,30 +641,31 @@
       "GoHighLevel",
       "Twilio"
     ],
-    "pricing": "Accounting firm AI assistant from <strong>$2,500 setup + $297/month</strong>. Compare to seasonal reception staffing — then note the AI also works February through December.",
+    "pricing": "Accounting firm AI assistant from <strong>$2,500 setup + $297/month</strong>. Compare to seasonal reception staffing \u2014 then note the AI also works February through December.",
     "faqs": [
       [
         "Can it handle tax-season call volume?",
-        "Unlimited simultaneous calls — the January flood is exactly the use case. Every caller gets answered in 2 rings; your staff sees a queue of qualified, booked consultations instead of 40 voicemails."
+        "Unlimited simultaneous calls \u2014 the January flood is exactly the use case. Every caller gets answered in 2 rings; your staff sees a queue of qualified, booked consultations instead of 40 voicemails."
       ],
       [
         "How does document chasing work?",
-        "The AI tracks your missing-items list per client (from TaxDome, Karbon or a shared sheet) and sends escalating reminders by text and email until items arrive — with a full audit trail your team can see."
+        "The AI tracks your missing-items list per client (from TaxDome, Karbon or a shared sheet) and sends escalating reminders by text and email until items arrive \u2014 with a full audit trail your team can see."
       ],
       [
         "Will clients with complex questions get stuck with a bot?",
-        "No — anything advisory routes to their assigned team member with context. The AI's job is the 70% of calls that are logistics: scheduling, documents, deadlines, status."
+        "No \u2014 anything advisory routes to their assigned team member with context. The AI's job is the 70% of calls that are logistics: scheduling, documents, deadlines, status."
       ],
       [
         "Is client data handled securely?",
-        "Yes — encrypted infrastructure, minimum-necessary data in any message, and no financial details discussed by the AI beyond what you approve. Your engagement letter and privacy standards drive the configuration."
+        "Yes \u2014 encrypted infrastructure, minimum-necessary data in any message, and no financial details discussed by the AI beyond what you approve. Your engagement letter and privacy standards drive the configuration."
       ]
     ],
     "relatedIndustry": "accounting-firms",
     "relatedSolutions": [
       "law-firms",
       "real-estate"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Accounting and CPA AI phone agents cost $1,500\u2013$3,000 setup, managing intense tax season call spikes. It answers tax deadline questions, collects document submission status, and books 30-minute tax planning consultations into Calendly or TaxDome automatically."
   },
   "gyms-fitness": {
     "name": "AI for Gyms & Fitness Studios",
@@ -663,19 +673,19 @@
     "slug": "gyms-fitness",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><path d=\"M6 8v8M18 8v8M4 10v4M20 10v4M6 12h12\"/></svg>",
     "title": "AI Assistant for Gyms [2026] | Book Trials & Win Back Members 24/7",
-    "metaDesc": "✓ AI phone & chat for gyms and fitness studios. ✓ Trial bookings, no-show recovery, member win-back campaigns. ✓ From $1,500 setup →",
+    "metaDesc": "\u2713 AI phone & chat for gyms and fitness studios. \u2713 Trial bookings, no-show recovery, member win-back campaigns. \u2713 From $1,500 setup \u2192",
     "heroHeading": "Done-For-You AI Assistant for Gyms & Studios",
-    "heroSub": "Prospects message at 9pm after deciding tomorrow is day one. Our AI answers instantly, books the trial class, reminds them until they show, and — when members lapse — runs the win-back outreach your front desk never has time for.",
-    "missedMath": "An average gym membership is worth $500–$1,500 a year. Studios lose most January inquiries to slow follow-up, and quiet cancellations bleed 3–5% of members monthly. The revenue isn't in more leads — it's in the follow-up nobody staffs.",
-    "wedge": "Fitness software manages bookings; it doesn't chase them. Our AI actually converses — answering 'is this beginner friendly?', booking the trial, sending what-to-bring texts, following up after the visit, and running 30/60/90-day win-back sequences on lapsed members with real offers.",
+    "heroSub": "Prospects message at 9pm after deciding tomorrow is day one. Our AI answers instantly, books the trial class, reminds them until they show, and \u2014 when members lapse \u2014 runs the win-back outreach your front desk never has time for.",
+    "missedMath": "An average gym membership is worth $500\u2013$1,500 a year. Studios lose most January inquiries to slow follow-up, and quiet cancellations bleed 3\u20135% of members monthly. The revenue isn't in more leads \u2014 it's in the follow-up nobody staffs.",
+    "wedge": "Fitness software manages bookings; it doesn't chase them. Our AI actually converses \u2014 answering 'is this beginner friendly?', booking the trial, sending what-to-bring texts, following up after the visit, and running 30/60/90-day win-back sequences on lapsed members with real offers.",
     "workflows": [
       [
         "Instant Trial Booking",
-        "Every inquiry — call, text, webchat, Instagram — answered in seconds and booked into a class"
+        "Every inquiry \u2014 call, text, webchat, Instagram \u2014 answered in seconds and booked into a class"
       ],
       [
         "Trial Show-Up Sequences",
-        "Confirmation, day-before reminder, morning-of 'what to bring' — cutting trial no-shows dramatically"
+        "Confirmation, day-before reminder, morning-of 'what to bring' \u2014 cutting trial no-shows dramatically"
       ],
       [
         "Post-Trial Conversion Follow-Up",
@@ -699,30 +709,31 @@
       "Twilio",
       "Stripe"
     ],
-    "pricing": "Gym AI assistant from <strong>$1,500 setup + $197/month</strong> — roughly the revenue of two saved memberships.",
+    "pricing": "Gym AI assistant from <strong>$1,500 setup + $197/month</strong> \u2014 roughly the revenue of two saved memberships.",
     "faqs": [
       [
         "Can it book directly into Mindbody or Glofox?",
-        "Yes — trials and classes book straight into your scheduling platform with the right class, time and capacity checks. Your desk sees bookings, not messages to process."
+        "Yes \u2014 trials and classes book straight into your scheduling platform with the right class, time and capacity checks. Your desk sees bookings, not messages to process."
       ],
       [
         "Does win-back outreach actually work?",
-        "Reliably — lapsed members already know and once chose you. Typical reactivation rates run 3–8% per campaign, which at average membership values pays for the system several times over each quarter."
+        "Reliably \u2014 lapsed members already know and once chose you. Typical reactivation rates run 3\u20138% per campaign, which at average membership values pays for the system several times over each quarter."
       ],
       [
         "What channels does it cover?",
-        "Phone, SMS, website chat, and Instagram/Facebook DMs — one AI, one conversation history, so a prospect can call after texting and it remembers them."
+        "Phone, SMS, website chat, and Instagram/Facebook DMs \u2014 one AI, one conversation history, so a prospect can call after texting and it remembers them."
       ],
       [
         "Will it feel pushy to members?",
-        "You approve every sequence's tone and cadence. The default is helpful-persistent, not salesy — reminders people appreciate, offers that feel like invitations, and instant opt-out honored everywhere."
+        "You approve every sequence's tone and cadence. The default is helpful-persistent, not salesy \u2014 reminders people appreciate, offers that feel like invitations, and instant opt-out honored everywhere."
       ]
     ],
     "relatedIndustry": "gyms-fitness",
     "relatedSolutions": [
       "salons-spas",
       "restaurants"
-    ]
+    ],
+    "quickAnswer": "Quick Answer: Fitness center and gym AI agents cost $1,200\u2013$2,500 setup, instantly answering membership pricing, class schedule, and personal training inquiries. The agent books free trial passes and syncs leads directly into Mindbody or GymMaster."
   },
   "salons-spas": {
     "name": "AI for Salons & Med Spas",
@@ -730,15 +741,15 @@
     "slug": "salons-spas",
     "icon": "<svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#227bf3\" stroke-width=\"2\"><circle cx=\"6\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><path d=\"M8.5 7.5L20 19M8.5 16.5L20 5\"/></svg>",
     "title": "AI Receptionist for Salons & Med Spas [2026] | Book While You Work",
-    "metaDesc": "✓ AI phone & text answering for salons, spas and med spas. ✓ Appointment booking, waitlist filling, no-show reduction. ✓ From $1,500 setup →",
+    "metaDesc": "\u2713 AI phone & text answering for salons, spas and med spas. \u2713 Appointment booking, waitlist filling, no-show reduction. \u2713 From $1,500 setup \u2192",
     "heroHeading": "Done-For-You AI Receptionist for Salons & Med Spas",
-    "heroSub": "Your hands are in foils; the phone is ringing; the caller books elsewhere. Our AI answers every call and text, books and reschedules appointments, quotes services, and fills last-minute cancellations from your waitlist — automatically.",
-    "missedMath": "The average salon misses a third of calls during services — at $75–$300+ per appointment, that's thousands monthly. Add no-shows (industry average 10–20%) and empty chairs from unfilled cancellations, and the phone gap is most salons' largest silent loss.",
+    "heroSub": "Your hands are in foils; the phone is ringing; the caller books elsewhere. Our AI answers every call and text, books and reschedules appointments, quotes services, and fills last-minute cancellations from your waitlist \u2014 automatically.",
+    "missedMath": "The average salon misses a third of calls during services \u2014 at $75\u2013$300+ per appointment, that's thousands monthly. Add no-shows (industry average 10\u201320%) and empty chairs from unfilled cancellations, and the phone gap is most salons' largest silent loss.",
     "wedge": "Booking apps wait for clients to come to them. Our AI works your book actively: answering the calls apps miss, converting 'how much is balayage?' texts into booked appointments, texting your waitlist the moment a slot opens, and reminding everyone until chairs stay full.",
     "workflows": [
       [
         "Call & Text Answering",
-        "Every inquiry answered instantly — services, prices, availability — and booked on the spot"
+        "Every inquiry answered instantly \u2014 services, prices, availability \u2014 and booked on the spot"
       ],
       [
         "Cancellation Backfill",
@@ -754,7 +765,7 @@
       ],
       [
         "Rebooking Prompts",
-        "Post-visit texts timed to each service's cycle — color at 6 weeks, Botox at 12 — that keep regulars regular"
+        "Post-visit texts timed to each service's cycle \u2014 color at 6 weeks, Botox at 12 \u2014 that keep regulars regular"
       ]
     ],
     "integrations": [
@@ -766,11 +777,11 @@
       "GoHighLevel",
       "Instagram DM"
     ],
-    "pricing": "Salon AI receptionist from <strong>$1,500 setup + $197/month</strong> — less than one missed color appointment a week.",
+    "pricing": "Salon AI receptionist from <strong>$1,500 setup + $197/month</strong> \u2014 less than one missed color appointment a week.",
     "faqs": [
       [
         "Can it quote prices for specific services?",
-        "Yes — trained on your full service menu including add-ons and provider-level pricing. Complex consultations (corrections, med spa treatments) get booked as consults per your rules instead of quoted blind."
+        "Yes \u2014 trained on your full service menu including add-ons and provider-level pricing. Complex consultations (corrections, med spa treatments) get booked as consults per your rules instead of quoted blind."
       ],
       [
         "How does waitlist backfill work?",
@@ -778,17 +789,293 @@
       ],
       [
         "Does it handle Instagram DMs?",
-        "Yes — DM inquiries get the same instant answers and booking as calls and texts, with one conversation history across channels."
+        "Yes \u2014 DM inquiries get the same instant answers and booking as calls and texts, with one conversation history across channels."
       ],
       [
         "What about med spa treatment questions?",
-        "The AI answers logistics (pricing ranges, appointment length, prep instructions you approve) and books consultations for anything clinical — it never gives medical advice, and your medical director approves all treatment language."
+        "The AI answers logistics (pricing ranges, appointment length, prep instructions you approve) and books consultations for anything clinical \u2014 it never gives medical advice, and your medical director approves all treatment language."
       ]
     ],
     "relatedIndustry": "salons-spas",
     "relatedSolutions": [
       "gyms-fitness",
       "dental"
+    ],
+    "quickAnswer": "Quick Answer: Salon and med-spa AI booking receptionists cost $1,200\u2013$2,500 setup, allowing clients to book stylist cuts, color treatments, and injectables over the phone 24/7, syncing open chair slots directly with Boulevard, Vagaro, or Phorest."
+  },
+  "veterinary": {
+    "name": "Veterinary Clinics & Animal Hospitals",
+    "singular": "Veterinary Clinic",
+    "slug": "veterinary",
+    "icon": "\ud83d\udc3e",
+    "title": "AI Receptionist & Phone Booking for Veterinary Clinics (2026)",
+    "metaDesc": "Deploy a 24/7 AI receptionist for your veterinary clinic. Handle appointment booking, urgent pet triage, and prescription refills directly into Cornerstone or ezyVet \u2192",
+    "heroHeading": "Never Miss a Pet Emergency or Wellness Booking While Caring for Patients",
+    "heroSub": "Vet clinic phones ring non-stop during procedures. Aenfinite's AI voice receptionist answers 100% of calls, triages pet emergencies, answers hours and exam fees, and books routine visits directly into your veterinary software.",
+    "quickAnswer": "Quick Answer: An AI receptionist for veterinary clinics costs $1,500\u2013$3,500 setup, operating 24/7 to triage pet emergencies, answer pricing for wellness exams and vaccinations, and book routine visits directly into Cornerstone, ezyVet, or IDEXX Neo. This eliminates over 20 front-desk phone hours per week while ensuring urgent pet medical calls are immediately routed to on-call doctors.",
+    "missedMath": "The average veterinary exam and treatment plan generates $250\u2013$650. Missing 4 after-hours calls or busy-signal calls daily costs over $26,000 in monthly clinic revenue.",
+    "wedge": "Front-desk veterinary technicians should focus on comforting patients and assisting doctors, not being chained to ringing phone lines.",
+    "workflows": [
+      [
+        "24/7 Appointment Scheduling",
+        "Books wellness exams, annual vaccinations, and dental cleanings directly into clinic calendars."
+      ],
+      [
+        "Emergency vs Routine Triage",
+        "Identifies toxin ingestion, respiratory distress, and bloat, instantly patching callers to emergency veterinarians."
+      ],
+      [
+        "Prescription Refill Requests",
+        "Collects pet name, medication, and dosage, routing requests to pharmacy staff for review."
+      ]
+    ],
+    "integrations": [
+      "Cornerstone",
+      "ezyVet",
+      "IDEXX Neo",
+      "Covetrus",
+      "Vetter",
+      "Google Calendar"
+    ],
+    "pricing": "Setup from $1,500 fixed. Telephony and LLM usage $0.08\u2013$0.12/min. No long-term lock-in.",
+    "faqs": [
+      [
+        "Can the AI distinguish between routine visits and life-threatening pet emergencies?",
+        "Yes. The agent is trained on veterinary triage protocols. Emergency symptoms like poisoning, seizure, or trauma immediately trigger an urgent transfer to your emergency on-call line."
+      ],
+      [
+        "Does it integrate with our practice management software?",
+        "Yes, we integrate with ezyVet, Cornerstone, IDEXX, and custom calendar webhooks."
+      ],
+      [
+        "How long does it take to deploy a clinic AI agent?",
+        "A typical veterinary voice agent launches in 10 to 14 business days, complete with staff testing and phone number forwarding."
+      ]
+    ],
+    "relatedIndustry": "healthcare",
+    "relatedSolutions": [
+      "medical-clinics",
+      "dental"
+    ]
+  },
+  "insurance-agencies": {
+    "name": "Independent Insurance Agencies & Brokers",
+    "singular": "Insurance Agency",
+    "slug": "insurance-agencies",
+    "icon": "\ud83d\udee1\ufe0f",
+    "title": "AI Receptionist & Lead Intake for Insurance Agencies (2026)",
+    "metaDesc": "24/7 AI voice agent for insurance brokers. Quote intake, certificate of insurance requests, and policy inquiries synced directly into AgencyBloc, AMS360, or GHL \u2192",
+    "heroHeading": "Instant Quote Intake & Policy Service That Closes Commercial and Personal Lines Fast",
+    "heroSub": "In insurance, speed-to-lead dictates closing rate. Our AI voice agent answers prospective policyholders in seconds, collects driver or commercial property details, and routes warm transfers to licensed producers.",
+    "quickAnswer": "Quick Answer: An insurance agency AI voice agent costs $1,500\u2013$3,500 setup, capturing quote intake for auto, home, and commercial lines 24/7. It collects vehicle and property details, handles certificate of insurance (COI) requests, and schedules licensed broker calls into AgencyBloc, AMS360, or GoHighLevel, cutting customer acquisition cost by 40%.",
+    "missedMath": "Commercial insurance policies average $2,500\u2013$15,000 in annual premium. Missing inbound quote calls when producers are on meetings forfeits thousands in annual commission.",
+    "wedge": "Insurance buyers call multiple agencies. The first broker to answer and quote earns the business 78% of the time.",
+    "workflows": [
+      [
+        "Quote Application Intake",
+        "Gathers vehicle VINs, driver records, property square footage, and current policy limits."
+      ],
+      [
+        "Certificate of Insurance (COI) Processing",
+        "Collects certificate holder details and delivers standard COI request tickets to account managers."
+      ],
+      [
+        "Warm Producer Transfer",
+        "Transfers qualified commercial prospects directly to available licensed agents on duty."
+      ]
+    ],
+    "integrations": [
+      "AMS360",
+      "AgencyBloc",
+      "EZLynx",
+      "Applied Epic",
+      "GoHighLevel",
+      "HubSpot"
+    ],
+    "pricing": "Setup from $1,500 fixed. Telephony and AI compute $0.08\u2013$0.12/min.",
+    "faqs": [
+      [
+        "Can the AI give binding legal insurance quotes?",
+        "No. The AI collects the full risk profile and underwriting facts, then hands the completed intake to your licensed producer for final binding."
+      ],
+      [
+        "Does it handle claims calls?",
+        "Yes. It collects incident dates, claim descriptions, and police report numbers, filing an immediate claim intake ticket."
+      ],
+      [
+        "How does it handle complex commercial policies?",
+        "It asks structured questions about employee count, annual revenue, and coverage lines needed before booking a consultation."
+      ]
+    ],
+    "relatedIndustry": "home-services",
+    "relatedSolutions": [
+      "accounting-firms",
+      "law-firms"
+    ]
+  },
+  "property-management": {
+    "name": "Property Management Companies & Landlords",
+    "singular": "Property Management",
+    "slug": "property-management",
+    "icon": "\ud83c\udfe2",
+    "title": "AI Leasing Agent & Maintenance Dispatch for Property Managers (2026)",
+    "metaDesc": "Automate leasing inquiries, unit tours, and emergency maintenance dispatch 24/7 with an AI phone agent integrated into AppFolio, Buildium, or Yardi \u2192",
+    "heroHeading": "24/7 Unit Showings & Instant Emergency Maintenance Dispatch",
+    "heroSub": "Prospective tenants want showing times immediately, and emergency pipe bursts don't wait for business hours. Aenfinite's AI handles leasing questions, books self-guided tours, and dispatches on-call maintenance.",
+    "quickAnswer": "Quick Answer: A property management AI voice receptionist costs $1,500\u2013$3,500 setup, handling unit leasing inquiries, pet policy questions, and self-guided tour scheduling 24/7 into AppFolio, Buildium, or Yardi. It also triages tenant maintenance emergencies, instantly alerting on-call technicians for water leaks, HVAC outages, and electrical hazards.",
+    "missedMath": "Vacant units cost $1,500\u2013$3,500 per month in lost rent. Delaying tour scheduling by 24 hours extends vacancy periods by an average of 11 days.",
+    "wedge": "Leasing agents spend 60% of their day answering the exact same questions about rent, pet deposits, and availability.",
+    "workflows": [
+      [
+        "Leasing & Unit Showing Booking",
+        "Answers rent rates, square footage, and pet rules, booking scheduled showings onto leasing calendars."
+      ],
+      [
+        "Emergency Maintenance Triage",
+        "Separates minor maintenance from flooding and furnace failures, alerting vendors immediately."
+      ],
+      [
+        "Application Status Updates",
+        "Verifies applicant names and checks background screening status via PMS APIs."
+      ]
+    ],
+    "integrations": [
+      "AppFolio",
+      "Buildium",
+      "Yardi",
+      "Rent Manager",
+      "TenantCloud",
+      "Google Calendar"
+    ],
+    "pricing": "Setup from $1,500 fixed. Telephony and AI $0.08\u2013$0.12/min.",
+    "faqs": [
+      [
+        "Can the AI dispatch emergency maintenance vendors?",
+        "Yes. Emergency water leaks and heating failures automatically trigger outbound SMS alerts and phone calls to your contracted maintenance vendors."
+      ],
+      [
+        "Does it work for both multi-family and single-family portfolios?",
+        "Yes, the agent dynamically references unit inventory across multiple property addresses."
+      ],
+      [
+        "Can it answer pet and parking policy questions?",
+        "Yes, the AI is trained on your exact property handbook, pet fee tiers, and HOA regulations."
+      ]
+    ],
+    "relatedIndustry": "real-estate",
+    "relatedSolutions": [
+      "real-estate",
+      "home-services"
+    ]
+  },
+  "auto-repair": {
+    "name": "Auto Repair Shops & Mechanics",
+    "singular": "Auto Repair Shop",
+    "slug": "auto-repair",
+    "icon": "\ud83d\ude97",
+    "title": "AI Phone Receptionist & Service Scheduling for Auto Repair (2026)",
+    "metaDesc": "24/7 AI phone receptionist for auto repair and collision shops. Quote estimates, drop-off bookings, and status checks integrated with Shop-Ware, Mitchell 1, or Tekmetric \u2192",
+    "heroHeading": "Keep Mechanics on the Lift While AI Fills Your Service Bays",
+    "heroSub": "Wrench-turning mechanics shouldn't have to put down tools to answer phone calls. Aenfinite's AI answers every customer, quotes brake and oil service rates, and books bay appointments directly into your shop software.",
+    "quickAnswer": "Quick Answer: An auto repair AI voice receptionist costs $1,500\u2013$3,200 setup, scheduling vehicle drop-offs, oil changes, brake inspections, and tire rotations directly into Shop-Ware, Tekmetric, or Mitchell 1. It answers standard labor and diagnostic pricing while giving customers vehicle repair status updates, keeping shop technicians productive on the lift.",
+    "missedMath": "The average repair order runs $450\u2013$1,200. A shop missing 3 calls a day during morning rush loses over $32,000 in monthly gross revenue.",
+    "wedge": "Every phone call answered by a technician interrupts active labor billing, costing the shop $120\u2013$180/hour in billable bay time.",
+    "workflows": [
+      [
+        "Drop-Off & Service Scheduling",
+        "Gathers vehicle year, make, model, mileage, and symptoms, booking scheduled drop-off slots."
+      ],
+      [
+        "Vehicle Status Checks",
+        "Verifies phone number and reads latest technician repair notes to anxious owners."
+      ],
+      [
+        "Towing & Emergency Dispatch",
+        "Connects broken-down drivers with your preferred local towing partners."
+      ]
+    ],
+    "integrations": [
+      "Tekmetric",
+      "Shop-Ware",
+      "Mitchell 1",
+      "Protractor",
+      "Shopmonkey",
+      "Google Calendar"
+    ],
+    "pricing": "Setup from $1,500 fixed. Telephony usage $0.08\u2013$0.12/min.",
+    "faqs": [
+      [
+        "Can the AI provide accurate repair quotes?",
+        "It provides standard published rates for diagnostics, oil changes, and inspections. Complex engine diagnostics are booked for an in-person vehicle inspection."
+      ],
+      [
+        "Does it integrate with Tekmetric or Shop-Ware?",
+        "Yes, we connect directly via API to check open bay capacity and schedule drop-offs."
+      ],
+      [
+        "Can customers check if their car is ready for pickup?",
+        "Yes, the AI checks the work order status and communicates completion status."
+      ]
+    ],
+    "relatedIndustry": "home-services",
+    "relatedSolutions": [
+      "home-services",
+      "plumbing"
+    ]
+  },
+  "med-legal-intake": {
+    "name": "Med-Legal & Specialized Medical Intake",
+    "singular": "Med-Legal Practice",
+    "slug": "med-legal-intake",
+    "icon": "\u2696\ufe0f",
+    "title": "AI Phone Intake for Med-Legal, Workers' Comp & IME Practices (2026)",
+    "metaDesc": "Automate medical-legal scheduling, workers' comp intake, and independent medical exam (IME) records collection 24/7 with specialized AI voice agents \u2192",
+    "heroHeading": "Autonomous Phone Intake for Independent Medical Exams & Workers' Comp Claims",
+    "heroSub": "Med-legal practices handle massive documentation and strict scheduling deadlines. Our AI voice intake qualifies attorney referrals, schedules claimant examinations, and collects case records automatically.",
+    "quickAnswer": "Quick Answer: A specialized med-legal AI intake system costs $2,000\u2013$4,500 setup, managing workers' comp referrals, independent medical examinations (IME), and personal injury lien scheduling 24/7. It collects claim numbers, attorney contacts, and injury histories, syncing records directly into practice management calendars with strict HIPAA compliance.",
+    "missedMath": "An Independent Medical Exam or expert witness testimony generates $1,500\u2013$5,000 per case. Missing law firm referral calls immediately diverts cases to competing medical experts.",
+    "wedge": "Law firms and insurers demand instant confirmation when booking qualified medical evaluators for time-sensitive trials.",
+    "workflows": [
+      [
+        "Attorney Referral Intake",
+        "Collects legal case caption, court date, retaining attorney contact, and opposing counsel details."
+      ],
+      [
+        "Claimant IME Scheduling",
+        "Coordinates examination times with injured workers, sends directions, and verifies interpreter requirements."
+      ],
+      [
+        "Medical Records Status",
+        "Provides legal assistants with document receipt confirmations and report release timelines."
+      ]
+    ],
+    "integrations": [
+      "Clio",
+      "Filevine",
+      "AthenaHealth",
+      "AdvancedMD",
+      "DrChrono",
+      "Google Workspace"
+    ],
+    "pricing": "Setup from $2,000 fixed. HIPAA-compliant telephony $0.10\u2013$0.15/min.",
+    "faqs": [
+      [
+        "Is the med-legal voice intake HIPAA compliant?",
+        "Yes. All voice calls, transcripts, and database records use end-to-end encryption with signed Business Associate Agreements (BAA)."
+      ],
+      [
+        "Can the AI verify insurance adjusters and case managers?",
+        "Yes, it records claim numbers, insurer names, and authorization codes before scheduling."
+      ],
+      [
+        "How does it handle bilingual claimants?",
+        "The AI seamlessly conducts intake in English, Spanish, and over 30 languages based on caller preference."
+      ]
+    ],
+    "relatedIndustry": "law-firms",
+    "relatedSolutions": [
+      "law-firms",
+      "medical-clinics"
     ]
   }
 }

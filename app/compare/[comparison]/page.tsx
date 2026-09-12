@@ -11,6 +11,7 @@ type CompItem = {
   title: string;
   metaDesc: string;
   heroSub: string;
+  quickAnswer?: string;
   optionA: { name: string; icon: string };
   optionB: { name: string; icon: string };
   comparisonRows: CompRow[];
@@ -98,6 +99,15 @@ function buildPage(item: CompItem): string {
     </p>
     <div class="title title__default"><h1 style="font-size:clamp(28px,5vw,48px);line-height:1.15;margin:0 0 20px;">${item.optionA.icon} ${item.optionA.name} vs. ${item.optionB.icon} ${item.optionB.name}</h1></div>
     <p style="font-size:clamp(17px,2.2vw,21px);line-height:1.65;opacity:0.88;max-width:860px;">${item.heroSub}</p>
+    ${item.quickAnswer ? `
+    <div class="aen-answer-capsule" style="background:rgba(34,123,243,0.08);border-left:4px solid #227bf3;border-radius:0 12px 12px 0;padding:20px 24px;margin:28px 0 10px;backdrop-filter:blur(10px);">
+      <span style="display:flex;align-items:center;gap:6px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#227bf3;margin-bottom:8px;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+        Direct Answer & AI Overview Verdict
+      </span>
+      <p style="font-size:16px;line-height:1.75;margin:0;font-weight:500;color:inherit;opacity:0.96;">${item.quickAnswer}</p>
+    </div>
+    ` : ''}
   </div>
 </div>
 

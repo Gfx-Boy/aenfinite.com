@@ -16,6 +16,7 @@ type AISolutionRec = {
   metaDesc: string;
   heroHeading: string;
   heroSub: string;
+  quickAnswer?: string;
   missedMath: string;
   wedge: string;
   workflows: Array<[string, string]>;
@@ -65,7 +66,7 @@ export async function generateMetadata(
       description: sol.metaDesc,
       url,
       siteName: 'Aenfinite',
-      type: 'website',
+      type: 'article',
       images: [{ url: 'https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg' }],
     },
     twitter: {
@@ -80,8 +81,31 @@ export async function generateMetadata(
 
 function buildSolutionBody(sol: AISolutionRec): string {
   const S = `style="max-width:1050px;margin:0 auto;padding:36px 24px;font-family:inherit;"`;
-  const H2 = `style="font-size:clamp(24px,3.5vw,34px);font-weight:700;margin:0 0 16px;line-height:1.25;"`;
-  const P = `style="line-height:1.8;font-size:17px;opacity:0.9;margin:0 0 16px;"`;
+  const H2 = `style="font-size:clamp(24px,3.5vw,36px);font-weight:700;margin:0 0 16px;line-height:1.25;"`;
+  const P = `style="line-height:1.8;font-size:17px;opacity:0.9;margin:0 0 20px;"`;
+
+  const workflowCards = sol.workflows.map(([title, desc], idx) => `
+    <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(128,128,128,0.2);border-radius:14px;padding:26px 22px;">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+        <span style="display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;background:#227bf3;color:#fff;font-weight:700;font-size:14px;">${idx + 1}</span>
+        <h3 style="font-size:18px;font-weight:700;margin:0;">${title}</h3>
+      </div>
+      <p style="font-size:15px;line-height:1.65;opacity:0.85;margin:0;">${desc}</p>
+    </div>
+  `).join('\n');
+
+  const integrationsList = sol.integrations.map(integ => `
+    <span style="display:inline-block;padding:8px 16px;background:rgba(128,128,128,0.1);border-radius:8px;font-size:14px;font-weight:600;margin:4px;">${integ}</span>
+  `).join('');
+
+  const faqItems = sol.faqs.map(([q, a]) => `
+    <details class="aen-faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" style="border:1px solid rgba(128,128,128,0.22);border-radius:12px;margin-bottom:14px;padding:18px 22px;">
+      <summary itemprop="name" style="cursor:pointer;font-weight:600;font-size:18px;line-height:1.45;">${q}</summary>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" style="margin-top:12px;">
+        <div itemprop="text" style="line-height:1.7;font-size:16px;opacity:0.85;">${a}</div>
+      </div>
+    </details>
+  `).join('\n');
 
   return `
 <div class="header" style="min-height:40vh;display:flex;align-items:center;padding:120px 24px 45px;">
@@ -89,6 +113,15 @@ function buildSolutionBody(sol: AISolutionRec): string {
     <div style="font-size:36px;width:64px;height:64px;background:rgba(34,123,243,0.1);border:1px solid rgba(34,123,243,0.2);border-radius:14px;display:flex;align-items:center;justify-content:center;margin-bottom:18px;">${sol.icon}</div>
     <div class="title title__default"><h1 style="font-size:clamp(30px,5vw,52px);line-height:1.15;margin:0 0 18px;">${sol.heroHeading}</h1></div>
     <p style="font-size:clamp(17px,2.2vw,21px);line-height:1.6;opacity:0.88;max-width:840px;">${sol.heroSub}</p>
+    ${sol.quickAnswer ? `
+    <div class="aen-answer-capsule" style="background:rgba(34,123,243,0.08);border-left:4px solid #227bf3;border-radius:0 12px 12px 0;padding:20px 24px;margin:24px 0 10px;backdrop-filter:blur(10px);">
+      <span style="display:flex;align-items:center;gap:6px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#227bf3;margin-bottom:8px;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+        Direct Answer / Solution Snapshot
+      </span>
+      <p style="font-size:16px;line-height:1.75;margin:0;font-weight:500;color:inherit;opacity:0.96;">${sol.quickAnswer}</p>
+    </div>
+    ` : ''}
     <p style="margin-top:24px;">
       <a href="/contact/" class="button" style="display:inline-block;background:#227bf3;color:#fff;padding:14px 30px;border-radius:8px;font-weight:600;font-size:16px;text-decoration:none;">Schedule a Live AI Demo</a>
     </p>
