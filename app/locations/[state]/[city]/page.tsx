@@ -407,6 +407,8 @@ export async function generateMetadata(
   const title = pick(TITLES, seed, 0)(c.name, st.code);
   const description = pick(DESCRIPTIONS, seed, 2)(c, st.state);
 
+  const isIndexed = state === 'colorado' || (c?.pop ?? 0) >= 100000;
+
   return {
     title,
     description,
@@ -425,7 +427,7 @@ export async function generateMetadata(
       description,
       images: ['https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg'],
     },
-    robots: { index: true, follow: true },
+    robots: { index: isIndexed, follow: true },
   };
 }
 

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "AI Voice Agent Agency — 24/7 Autonomous Phone Receptionists [2026]",
   description: "✓ Autonomous AI voice receptionists that answer incoming phone calls within 2 rings. ✓ Qualify leads, triage emergencies, and book calendar appointments 24/7. See live demo →",
   keywords: "AI voice agents, AI phone receptionist, automated appointment booking, voice AI agency, retell AI, vapi voice agents",
-  alternates: { canonical: "https://aenfinite.com/services/ai-voice-agents/", languages: {"x-default":"https://aenfinite.com/services/ai-voice-agents/","en":"https://aenfinite.com/services/ai-voice-agents/"} },
+  alternates: { canonical: "https://aenfinite.com/services/ai-voice-agents/" },
   openGraph: {"title": "AI Voice Agent Agency — 24/7 Autonomous Phone Receptionists [2026]","description": "✓ Autonomous AI voice receptionists that answer incoming phone calls within 2 rings. ✓ Qualify leads, triage emergencies, and book calendar appointments 24/7. See live demo →","url":"https://aenfinite.com/services/ai-voice-agents/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"AI Voice Agent Agency | Done-For-You AI Phone Agents | Aenfinite","description":"AI voice agents that answer every call, book appointments and qualify leads 24/7 — built and managed for you.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },

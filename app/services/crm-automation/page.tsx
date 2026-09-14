@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "CRM Automation Agency — HubSpot, GoHighLevel & Salesforce [2026]",
   description: "✓ Full-service CRM automation: GoHighLevel, HubSpot, Salesforce & Pipedrive. ✓ Instant speed-to-lead routing, automated SMS follow-ups, and pipeline synchronization. View packages →",
   keywords: "CRM automation, GHL automation agency, hubspot automation, salesforce workflow integration, speed to lead automation",
-  alternates: { canonical: "https://aenfinite.com/services/crm-automation/", languages: {"x-default":"https://aenfinite.com/services/crm-automation/","en":"https://aenfinite.com/services/crm-automation/"} },
+  alternates: { canonical: "https://aenfinite.com/services/crm-automation/" },
   openGraph: {"title": "CRM Automation Agency — HubSpot, GoHighLevel & Salesforce [2026]","description": "✓ Full-service CRM automation: GoHighLevel, HubSpot, Salesforce & Pipedrive. ✓ Instant speed-to-lead routing, automated SMS follow-ups, and pipeline synchronization. View packages →","url":"https://aenfinite.com/services/crm-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"CRM Automation Agency | HubSpot, GoHighLevel & Salesforce | Aenfinite","description":"CRM implementation, lead routing, AI follow-up and integrations — US-based CRM automation experts.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },

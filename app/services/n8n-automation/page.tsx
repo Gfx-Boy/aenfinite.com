@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Certified n8n Automation Agency & Developers — Open Workflows [2026]",
   description: "✓ Certified n8n developers for self-hosted and cloud orchestration. ✓ Migrate from Zapier/Make, connect 300+ APIs, and eliminate per-task fees. Workflows from $1,000. Book consultation →",
   keywords: "n8n automation, hire n8n developer, zapier to n8n migration, self hosted n8n, open source workflow automation",
-  alternates: { canonical: "https://aenfinite.com/services/n8n-automation/", languages: {"x-default":"https://aenfinite.com/services/n8n-automation/","en":"https://aenfinite.com/services/n8n-automation/"} },
+  alternates: { canonical: "https://aenfinite.com/services/n8n-automation/" },
   openGraph: {"title": "Certified n8n Automation Agency & Developers — Open Workflows [2026]","description": "✓ Certified n8n developers for self-hosted and cloud orchestration. ✓ Migrate from Zapier/Make, connect 300+ APIs, and eliminate per-task fees. Workflows from $1,000. Book consultation →","url":"https://aenfinite.com/services/n8n-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"n8n Automation Agency | Hire n8n Developers & Experts | Aenfinite","description":"n8n workflow development, self-hosting, migrations and managed support — US-based n8n experts.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },

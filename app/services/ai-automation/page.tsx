@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Done-For-You AI Automation Agency — Custom Workflows & Agents [2026]",
   description: "✓ End-to-end AI automation agency. ✓ Connect CRM, lead funnels, customer support, and operations with custom n8n and LLM agents. Fixed setups from $1,500. Free AI audit →",
   keywords: "AI automation agency, workflow automation, n8n automation, business process automation, AI integration services",
-  alternates: { canonical: "https://aenfinite.com/services/ai-automation/", languages: {"x-default":"https://aenfinite.com/services/ai-automation/","en":"https://aenfinite.com/services/ai-automation/"} },
+  alternates: { canonical: "https://aenfinite.com/services/ai-automation/" },
   openGraph: {"title": "Done-For-You AI Automation Agency — Custom Workflows & Agents [2026]","description": "✓ End-to-end AI automation agency. ✓ Connect CRM, lead funnels, customer support, and operations with custom n8n and LLM agents. Fixed setups from $1,500. Free AI audit →","url":"https://aenfinite.com/services/ai-automation/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"AI Automation Agency | Done-For-You AI & Workflow Automation | Aenfinite","description":"We design, build and manage AI workflows, agents and integrations — Denver-based, serving the US & Canada.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },

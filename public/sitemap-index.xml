@@ -80,22 +80,6 @@
     </sitemap>
     <sitemap>
         <loc>https://aenfinite.com/sitemap-cities.xml</loc>
-        <lastmod>2026-09-08</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://aenfinite.com/sitemap-cities-part1.xml</loc>
-        <lastmod>2026-09-08</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://aenfinite.com/sitemap-cities-part2.xml</loc>
-        <lastmod>2026-09-08</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://aenfinite.com/sitemap-cities-part3.xml</loc>
-        <lastmod>2026-09-08</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://aenfinite.com/sitemap-cities-part4.xml</loc>
-        <lastmod>2026-09-08</lastmod>
+        <lastmod>2026-09-15</lastmod>
     </sitemap>
 </sitemapindex>
