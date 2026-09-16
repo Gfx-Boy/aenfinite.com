@@ -4,10 +4,7 @@ import HtmlPage from '@/components/HtmlPage';
 import chrome from '@/lib/city-chrome.json';
 import citiesData from '@/lib/us-cities.json';
 
-// On-demand static generation: nothing is prerendered at build time; each city
-// page renders on its first request and is cached from then on. This is the
-// only viable way to serve ~19,500 pages from this VPS — prerendering them all
-// would mean multi-hour builds and ~5GB of HTML.
+// On-demand static generation: rendered once on request and cached on the edge.
 export const dynamic = 'force-static';
 export const dynamicParams = true;
 
@@ -15,7 +12,7 @@ type CityRec = { name: string; pop: number; srank: number; nrank: number };
 type StateRec = { state: string; code: string; cities: Record<string, CityRec> };
 const DATA = citiesData as unknown as Record<string, StateRec>;
 
-// Cities that already have dedicated metro pages keep their existing URLs.
+// Cities with dedicated metro hub pages
 const METRO_REDIRECTS: Record<string, string> = {
   'colorado/denver': '/locations/denver/',
   'florida/miami': '/locations/miami/',
@@ -25,8 +22,7 @@ const METRO_REDIRECTS: Record<string, string> = {
   'new-york/new-york': '/locations/new-york/',
 };
 
-/* Deterministic per-city seed so phrasing varies across pages but is stable
-   across builds (no Math.random — pages must not churn between renders). */
+/* Deterministic per-city seed: stable hashing without random churn */
 function seedOf(s: string): number {
   let h = 2166136261;
   for (let i = 0; i < s.length; i++) {
@@ -46,12 +42,59 @@ function ordinal(n: number): string {
 
 const fmt = (n: number) => n.toLocaleString('en-US');
 
-function sizeLabel(pop: number): string {
-  if (pop >= 500000) return 'major metro';
-  if (pop >= 100000) return 'large city';
-  if (pop >= 30000) return 'mid-sized city';
-  if (pop >= 8000) return 'growing community';
-  return 'close-knit community';
+type MarketTier = {
+  tier: number;
+  label: string;
+  type: string;
+  searchVolumeBracket: string;
+  annualRevBracket: string;
+  primaryFocus: string;
+  trades: string[];
+};
+
+function getMarketTier(pop: number): MarketTier {
+  if (pop >= 250000) {
+    return {
+      tier: 1,
+      label: 'major metropolitan market',
+      type: 'Major Metropolitan Hub',
+      searchVolumeBracket: '1,500 to 4,000+',
+      annualRevBracket: '$85,000 to $280,000+',
+      primaryFocus: 'Enterprise Next.js web applications, high-concurrency 24/7 AI voice agents, and competitive organic search acquisition',
+      trades: ['B2B Software & SaaS', 'Healthcare & Specialty Clinics', 'Commercial Real Estate', 'High-Growth Startups', 'E-Commerce Brands'],
+    };
+  }
+  if (pop >= 50000) {
+    return {
+      tier: 2,
+      label: 'regional commercial hub',
+      type: 'Commercial Growth Center',
+      searchVolumeBracket: '450 to 1,500',
+      annualRevBracket: '$55,000 to $175,000+',
+      primaryFocus: 'Custom conversion-focused web architecture, local SEO market dominance, and autonomous appointment booking workflows',
+      trades: ['Medical & Dental Practices', 'Commercial Contractors & Trades', 'Law & Legal Services', 'Accounting & Financial Advisors', 'Automotive Groups'],
+    };
+  }
+  if (pop >= 15000) {
+    return {
+      tier: 3,
+      label: 'suburban growth market',
+      type: 'Suburban Growth Market',
+      searchVolumeBracket: '180 to 450',
+      annualRevBracket: '$40,000 to $120,000+',
+      primaryFocus: 'High-converting mobile-first contractor funnels, Google Local Pack top-3 ranking, and instant after-hours lead response',
+      trades: ['Roofing, HVAC & Plumbing', 'Local Dental & Orthodontics', 'Personal Injury & Family Law', 'Home Remodeling & Design', 'Boutique Retail & Hospitality'],
+    };
+  }
+  return {
+    tier: 4,
+    label: 'close-knit business community',
+    type: 'Local Business Community',
+    searchVolumeBracket: '60 to 180',
+    annualRevBracket: '$25,000 to $80,000+',
+    primaryFocus: 'Fixed-price corporate-grade websites ($3k+), eliminating big-city agency retainers, and commanding local search trust',
+    trades: ['Residential Contractors', 'Independent Healthcare Providers', 'Local Service Franchises', 'Family-Owned Retail', 'Professional Consultancies'],
+  };
 }
 
 function nearby(stateSlug: string, citySlug: string, count: number): Array<[string, CityRec]> {
@@ -63,83 +106,154 @@ function nearby(stateSlug: string, citySlug: string, count: number): Array<[stri
     .slice(0, count);
 }
 
-/* High-CTR, High-Ranking Title Formulas designed to win clicks on Google SERPs */
+/* High-CTR, Clean Exact-Match SERP Titles (No secondary pipes, under 46 chars so '%s | Aenfinite®' fits within 60 chars) */
 const TITLES = [
-  (c: string, st: string) => `${c} Web Design, Development & AI Automation (From $3k)`,
-  (c: string, st: string) => `Top-Rated Web Design Agency in ${c}, ${st} | 4.9★`,
-  (c: string, st: string) => `Custom Websites, E-Commerce & AI Voice Agents | ${c}, ${st}`,
-  (c: string, st: string) => `${c}, ${st} Web Design & Development (Published Pricing)`,
-  (c: string, st: string) => `Best Web Design Company Serving ${c}, ${st} | Fixed Quote`,
-  (c: string, st: string) => `Custom Web Development & AI Automation for ${c} Businesses`,
-  (c: string, st: string) => `High-Speed Web Design & Smart AI Agents in ${c}, ${st}`,
-  (c: string, st: string) => `Web Design & Custom Development in ${c}, ${st}`,
-  (c: string, st: string) => `Full-Stack Web Development & AI Solutions in ${c}, ${st}`,
-  (c: string, st: string) => `${c} Web Design & SEO Services | Senior US Engineers`,
-  (c: string, st: string) => `Modern Web Design & 24/7 AI Receptionists | ${c}, ${st}`,
-  (c: string, st: string) => `Affordable Custom Web Design for ${c}, ${st} Companies`,
+  (c: string, st: string) => `Web Design & Development in ${c}, ${st}`,
+  (c: string, st: string) => `${c}, ${st} Web Design & Development Agency`,
+  (c: string, st: string) => `Custom Web Design & AI Automation in ${c}, ${st}`,
+  (c: string, st: string) => `Top-Rated Web Design Company in ${c}, ${st}`,
+  (c: string, st: string) => `${c}, ${st} Web Design & SEO Services`,
+  (c: string, st: string) => `Custom Websites & AI Voice Agents in ${c}, ${st}`,
+  (c: string, st: string) => `Best Web Design & Development in ${c}, ${st}`,
+  (c: string, st: string) => `${c}, ${st} Custom Web Development & AI`,
+  (c: string, st: string) => `Full-Stack Web Design & Development in ${c}, ${st}`,
+  (c: string, st: string) => `Modern Web Design & Fast Development in ${c}, ${st}`,
+  (c: string, st: string) => `${c}, ${st} Professional Web Design & Apps`,
+  (c: string, st: string) => `High-Converting Web Design in ${c}, ${st}`,
 ];
 
-/* High-Converting Meta Descriptions with ratings, pricing brackets & CTA triggers */
+/* Compelling Meta Descriptions with published pricing, ratings & local relevance */
 const DESCRIPTIONS = [
-  (c: CityRec, st: string) => `⭐ 4.9★ Rated Agency. Custom web design from $3,000 & AI automation from $1,500 for ${c.name}, ${st} businesses (pop. ${fmt(c.pop)}). Fast 3-week delivery & fixed quotes.`,
-  (c: CityRec, st: string) => `Looking for custom web development or AI voice agents in ${c.name}? Aenfinite delivers high-converting websites with published pricing & zero fluff. Free consultation!`,
-  (c: CityRec, st: string) => `Web design from $3,000, e-commerce from $8,000 and AI automation from $1,500 for ${c.name} companies. Senior US team serving all of ${st} with 100% code ownership.`,
-  (c: CityRec, st: string) => `Custom websites, WordPress development, online stores & AI voice receptionists for businesses in ${c.name}, ${st}. Fixed quotes and no discovery-call runaround.`,
-  (c: CityRec, st: string) => `Top-rated custom web design & AI workflows for ${c.name}, ${st} companies. Transparent pricing, 5-star Google reviews, and dedicated senior engineering.`,
-  (c: CityRec, st: string) => `Transform your ${c.name} business with high-speed web design and 24/7 AI lead capture. Published pricing starting at $1,500 with zero hidden fees. Get a quote!`,
-  (c: CityRec, st: string) => `Professional web design & AI automation for ${c.name} businesses. Built for speed, mobile conversion, and Google rankings with complete transparent pricing.`,
-  (c: CityRec, st: string) => `Senior engineering team delivering custom web development, e-commerce, and AI chatbots to ${c.name}, ${st}. Fixed pricing with full source code ownership.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Custom web design from $3,000 & 24/7 AI automation from $1,500 for ${c.name}, ${st} businesses. Senior US engineers, sub-second load speeds & 100% fixed quotes.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Top-rated web development and AI voice agents for companies in ${c.name}, ${st} (pop. ${fmt(c.pop)}). Rapid 3-week delivery, 100% code ownership, published pricing.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Grow your ${c.name} business with high-speed custom web design, e-commerce, and automated AI lead capture. Transparent Denver rates starting at $3,000. Free consult!`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Looking for an elite web design agency serving ${c.name}, ${st}? Aenfinite delivers custom Next.js websites, mobile Core Web Vitals, and 24/7 AI receptionists.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Engineering custom websites and autonomous AI voice systems for ${c.name} businesses. 4.9★ rated senior team with milestone billing and zero retainer lock-ins.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Fixed-price web development ($3k–$15k) and smart AI workflows ($1,500+) for ${c.name}, ${st} companies. Full source code handover with direct engineer communication.`,
 ];
 
+/* 16 Deeply Varied, Rich Local Intro Essays */
 const INTROS = [
-  (c: CityRec, st: string) =>
-    `${c.name} is ${st}'s ${ordinal(c.srank)}-largest city — a ${sizeLabel(c.pop)} of ${fmt(c.pop)} residents where a business's digital presence directly dictates its market share. Aenfinite designs, engineers, and scales that presence: high-speed custom websites, conversion-optimized e-commerce stores, and 24/7 AI voice agents that qualify and capture leads within seconds, delivered to ${c.name} companies by one senior US engineering team.`,
-  (c: CityRec, st: string) =>
-    `Businesses in ${c.name}, ${st} compete for client attention the moment a local search occurs — and with ${fmt(c.pop)} residents${c.nrank ? ` (the ${ordinal(c.nrank)}-largest city in the US)` : ''}, digital execution separates market leaders from also-rans. Aenfinite provides ${c.name} companies with custom web architecture built to dominate: clean code, sub-second load times, and autonomous AI workflows that follow up with every prospect automatically.`,
-  (c: CityRec, st: string) =>
-    `From ${sizeLabel(c.pop) === 'close-knit community' ? 'main-street storefronts and local contractors' : 'downtown corporate offices and high-growth startups'} across ${c.name}, every ${st} company needs the same three outcomes online: a website that commands trust, ranks at the top of Google, and reliably turns searchers into booked calls. That is exactly what Aenfinite engineers — with 100% published pricing, so ${c.name} business leaders know their exact investment before signing.`,
-  (c: CityRec, st: string) =>
-    `Aenfinite is a senior digital agency based in Denver, Colorado, serving ${c.name} and the entire state of ${st} remotely — ${fmt(c.pop)} residents, ${st}'s ${ordinal(c.srank)}-largest market, and complete capability to deliver enterprise-grade builds there. Custom web applications, editable WordPress builds, Shopify e-commerce, and autonomous AI voice receptionists with transparent, published pricing.`,
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `${c.name} is ${st}'s ${ordinal(c.srank)}-largest market — a ${tier.label} of ${fmt(c.pop)} residents where a company's web architecture directly governs its client acquisition. Aenfinite delivers full-stack digital capability to ${c.name} businesses: custom-coded Next.js websites loading in under one second, conversion-engineered e-commerce, and 24/7 AI voice receptionists that qualify incoming leads instantly. Handled directly by senior US engineers with 100% published pricing.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `In a growing market like ${c.name}, ${st}${c.nrank ? ` (ranked ${ordinal(c.nrank)} nationally)` : ''}, the digital divide between market leaders and stagnant competitors comes down to speed and trust. Aenfinite builds custom digital systems for ${c.name} organizations: clean TypeScript code, sub-second Core Web Vitals, and autonomous AI voice agents that book discovery calls while you sleep. Everything is quoted at a fixed price with zero agency discovery fluff.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `From established service firms to ambitious local enterprises throughout ${c.name}, winning local market share requires three non-negotiables: commanding organic search presence on Google, a website that converts visitors within three seconds, and instantaneous lead response. Aenfinite engineers that exact engine for ${st} companies, backed by transparent Denver pricing and dedicated senior developer collaboration.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Operating as a senior digital innovation agency, Aenfinite provides ${c.name} businesses with the engineering rigor typically reserved for venture-backed brands. With a population of ${fmt(c.pop)}, ${c.name} represents a vital commercial center in ${st}. We engineer custom web platforms, editable WordPress builds, Shopify storefronts, and automated AI phone agents with complete source code handover and fixed milestone pricing.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Customer acquisition in ${c.name}, ${st} has permanently migrated to mobile and AI-driven search. When prospective clients in ${c.name} look for services, slow-loading templates and unresponsive forms cost businesses thousands in lost billings. Aenfinite delivers high-velocity digital infrastructure: custom designs tailored in Figma, sub-second mobile page loads, and AI workflows that answer inquiries within two rings.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `For companies across ${c.name}, hiring a reliable technology partner shouldn't involve bloated retainers, junior account managers, or hidden change fees. Aenfinite brings over a decade of full-stack engineering to ${c.name}, ${st}, delivering bespoke web development from $3,000 and autonomous AI automation from $1,500. You work directly with veteran software developers who respect your timeline and budget.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `As ${st}'s ${ordinal(c.srank)}-ranked city with ${fmt(c.pop)} residents, ${c.name} businesses operate in an increasingly competitive regional economy. Standing out requires more than an off-the-shelf WordPress template. Aenfinite builds bespoke digital assets: clean code, bulletproof SEO foundations, and autonomous AI customer service agents designed to convert local searchers into booked revenue.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Whether you run a commercial contracting business, medical practice, legal firm, or high-growth venture in ${c.name}, your website is your highest-leverage sales asset. Aenfinite transforms ${c.name}, ${st} websites into automated client acquisition channels — engineered on modern stacks, optimized for Google PageSpeed 90+, and supported by 24/7 AI phone receptionists that never miss an opportunity.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Local enterprises in ${c.name} need technology partners who deliver measurable commercial ROI. Aenfinite eliminates the traditional agency overhead by providing ${c.name}, ${st} companies direct access to senior developers in Denver. We deliver custom websites, robust e-commerce architectures, and autonomous AI integrations on predictable 3-to-6-week timelines with 100% intellectual property ownership.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Ranked as a ${tier.label} of ${fmt(c.pop)} people, ${c.name} holds immense commercial opportunity for businesses equipped with superior digital tools. Aenfinite engineers high-performance web systems tailored to ${st} commerce: lightning-fast Next.js apps, customized CRM automations, and intelligent AI voice bots that handle after-hours client qualification seamlessly.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Aenfinite helps ${c.name} companies outpace dated regional competitors through modern digital architecture. Serving all of ${st} remotely from our Denver headquarters, we equip ${c.name} leadership teams with bespoke UI/UX designs, Schema-rich SEO architecture, and AI-driven client intake funnels backed by published, transparent pricing.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `In ${c.name}, ${st}, first impressions happen on Google in less than 50 milliseconds. Aenfinite builds conversion-focused web properties that establish immediate trust, rank high on local search terms, and turn clicks into contracts. We deliver full-stack Next.js and WordPress builds tailored for ${c.name} business growth, with milestone billing and zero lock-in contracts.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Businesses throughout ${c.name} frequently struggle with slow freelancers or overpriced big-city agencies. Aenfinite bridges the gap for ${st} organizations: senior engineering quality, rapid 3-to-5-week turnaround times, published fixed pricing, and cutting-edge 24/7 AI receptionists that give your business an immediate competitive edge.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `Dominating local search in ${c.name}, ${st} requires technical excellence: Core Web Vitals perfection, clean semantic HTML, localized Schema microdata, and frictionless mobile user journeys. Aenfinite builds these technical foundations into every custom website, helping ${c.name} service providers capture high-intent inquiries before competitors even notice.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `From ${tier.trades[0]} to ${tier.trades[1]}, commercial operators in ${c.name} demand dependable technology that generates tangible pipeline revenue. Aenfinite engineers bespoke websites and autonomous AI voice workflows that qualify leads 24/7/365, delivering enterprise-grade solutions at transparent, small-business-friendly rates across ${st}.`,
+
+  (c: CityRec, st: string, tier: MarketTier) =>
+    `With ${fmt(c.pop)} residents, ${c.name} is a vibrant ${tier.label} where local search intent is high and customer expectations are higher. Aenfinite builds digital experiences that command attention: elegant modern typography, frictionless contact funnels, and autonomous AI assistants that ensure no customer inquiry in ${c.name} ever goes unanswered.`,
 ];
 
-/* Comprehensive 16-Question Dynamic FAQ Pool with rich local and commercial context */
+/* Comprehensive 20-Question Dynamic FAQ Pool */
 const FAQS: Array<[(c: CityRec, st: string) => string, (c: CityRec, st: string) => string]> = [
-  [(c) => `How much does a custom website cost for a ${c.name} business?`,
-   (c) => `We publish our exact investment tiers: custom small-business websites run $3,000–$15,000, e-commerce stores $8,000–$40,000, and custom web applications $15,000+. Every project for ${c.name} companies is quoted at a fixed, all-inclusive price with milestone billing — zero hidden fees, zero hourly creep.`],
-  [(c, st) => `How do you serve ${c.name}, ${st} businesses remotely from Denver?`,
-   (c, st) => `Everything we build is digital. We run structured remote workflows with ${c.name} clients via private Slack channels, weekly video updates, interactive Figma design prototypes, and live staging URLs. Over 150 successful projects across all 50 states have been delivered seamlessly through this process.`],
+  [(c) => `How much does a custom website cost for a business in ${c.name}?`,
+   (c) => `We publish our exact investment tiers with zero hidden fees: custom small-business websites run $3,000–$8,000, high-converting e-commerce platforms run $8,000–$25,000, and complex custom web applications run $15,000+. Every project for ${c.name} companies is quoted at a 100% fixed, all-inclusive price with milestone billing.`],
+
+  [(c, st) => `How do you serve ${c.name}, ${st} clients remotely from Denver?`,
+   (c, st) => `Everything we build is digital. We run seamless remote workflows with ${c.name} clients via private Slack channels, scheduled video milestone reviews, interactive Figma design prototypes, and live staging URLs. We have successfully launched over 150 projects across all 50 states without geographic friction.`],
+
   [(c) => `How long does a website build take for a ${c.name} company?`,
-   () => `Standard custom website builds take 3 to 6 weeks from initial architecture kickoff to production launch. Complex e-commerce platforms or custom software applications typically take 6 to 12 weeks. We set hard milestone dates in our contract and adhere to them strictly.`],
+   () => `Standard custom website builds take 3 to 5 weeks from kickoff to production launch. Complex e-commerce platforms or custom software applications typically take 6 to 10 weeks. We establish concrete contractual milestone deadlines and adhere to them strictly.`],
+
   [(c, st) => `Can you help our ${c.name} business rank at the top of Google?`,
-   (c, st) => `Yes. Every single build includes full technical SEO foundations: Core Web Vitals optimization (90+ PageSpeed target), Schema.org structured data, XML sitemaps, localized metadata mapping, and conversion-focused copy for ${c.name} and ${st} search queries. We also provide ongoing local and national SEO campaigns.`],
-  [(c) => `Do you build AI voice agents and receptionists for ${c.name} companies?`,
-   (c) => `Yes. We build custom AI voice agents and 24/7 website receptionists starting at $1,500. These agents answer incoming customer phone calls within two rings, qualify leads, answer pricing questions, and book appointments directly into your calendar and CRM, ensuring your ${c.name} business never loses an after-hours lead.`],
+   (c, st) => `Yes. Every build includes full technical SEO foundations: Core Web Vitals optimization (90+ PageSpeed score target), Schema.org structured data, XML sitemaps, localized metadata mapping, and conversion-focused copywriting for ${c.name} and ${st} search queries. We also offer dedicated ongoing SEO growth campaigns.`],
+
+  [(c) => `Do you build 24/7 AI voice agents and receptionists for ${c.name} companies?`,
+   (c) => `Yes. We build custom AI voice phone agents and website receptionists starting at $1,500. These agents answer incoming customer phone calls within two rings, qualify leads, answer pricing questions, and book appointments directly into your calendar and CRM, ensuring your ${c.name} business never loses an after-hours lead.`],
+
   [(c, st) => `Why hire Aenfinite instead of a local ${c.name} freelancer or large agency?`,
-   (c, st) => `Local freelancers often lack full-stack depth (design + backend + AI + SEO) and carry ghosting risks. Big traditional agencies charge $30k–$80k+ retainers to pay for downtown office rent and account executives. Aenfinite gives ${c.name} businesses direct access to senior US engineers and designers with published, transparent pricing and rapid 3–5 week delivery.`],
+   (c, st) => `Local freelancers often lack full-stack depth (design + backend + AI + SEO) and carry ghosting risks. Big traditional agencies charge $30k–$80k+ retainers to pay for downtown office overhead and account executives. Aenfinite gives ${c.name} businesses direct access to senior US engineers with published, transparent pricing and rapid delivery.`],
+
   [(c) => `Who owns the website, source code, and assets upon launch?`,
-   () => `You own 100% of everything — the domain, design files, source code, database, and content. We never lock you into proprietary CMS platforms or monthly hostage fees. You receive the full GitHub repository and hosting credentials at launch.`],
-  [(c) => `What industries in ${c.name} do you specialize in?`,
-   () => `We build high-performing digital systems for Home Services (HVAC, Roofing, Plumbing), Healthcare & Dental, Legal & Law Firms, Commercial Real Estate, SaaS & Tech Startups, E-Commerce Brands, and Professional B2B Services.`],
+   () => `You own 100% of everything — domain, design files, source code, database, and content. We never lock you into proprietary CMS platforms or monthly hostage fees. You receive full GitHub repository access and hosting credentials upon final launch.`],
+
+  [(c) => `What industries in ${c.name} do you have experience with?`,
+   () => `We build high-performing digital systems for Home Services (Roofing, HVAC, Plumbing), Healthcare & Dental Clinics, Legal & Law Firms, Commercial Real Estate, SaaS & Tech Startups, E-Commerce Brands, and Professional B2B Service Providers.`],
+
   [(c) => `Do you redesign existing websites without losing our current Google rankings?`,
-   () => `Yes. Website redesigns typically run 60–80% of a new build cost. We perform a complete pre-launch URL audit, keyword mapping, and 1-to-1 301 redirect architecture to protect and enhance your existing organic Google rankings during the migration.`],
+   () => `Yes. We perform a complete pre-launch URL crawl, keyword mapping, and comprehensive 1-to-1 301 redirect architecture to protect and elevate your existing organic Google rankings during the migration.`],
+
   [(c) => `What does ongoing website maintenance and hosting support cost?`,
-   () => `Ongoing care plans run $50 to $300/month depending on your traffic and complexity. This includes high-speed cloud hosting, daily automated backups, security patching, Core Web Vitals monitoring, and dedicated developer hours for updates. Maintenance is completely optional.`],
+   () => `Optional ongoing care plans run $50 to $300/month depending on traffic and complexity. This includes high-speed cloud hosting, daily automated backups, security patching, Core Web Vitals monitoring, and dedicated developer hours for updates. Care plans are completely optional with no lock-in.`],
+
   [(c, st) => `Do you serve other cities and counties across ${st}?`,
-   (c, st) => `Yes. We serve every city, town, and metropolitan area in ${st} with the same senior team, published rates, and dedicated engineering capacity.`],
+   (c, st) => `Yes. We serve every city, town, and county across ${st} with the same senior US engineering team, published rates, and dedicated delivery capacity.`],
+
   [(c) => `What technology stack do you use for custom development?`,
-   () => `We build using modern, industry-leading technologies: Next.js, React, TypeScript, Node.js, TailwindCSS, PostgreSQL, Supabase, and Headless WordPress. This ensures your website loads under 1 second, scales effortlessly, and is immune to bloated plugin vulnerabilities.`],
+   () => `We build using modern, industry-leading technologies: Next.js, React, TypeScript, Node.js, TailwindCSS, PostgreSQL, Supabase, and Headless WordPress. This ensures your website loads in under 1 second, scales effortlessly, and avoids bloated plugin security vulnerabilities.`],
+
   [(c) => `What is the expected ROI of implementing AI automation for a ${c.name} business?`,
-   () => `Most service businesses recover 15 to 40 staff-hours per month by automating lead qualification, appointment scheduling, and CRM updates. At typical loaded labor rates, a $2,500 AI workflow pays for itself within 60 to 90 days and continues delivering recurring labor savings indefinitely.`],
+   () => `Most service businesses recover 15 to 40 staff-hours per month by automating lead qualification, appointment scheduling, and CRM updates. At typical loaded labor rates, a $2,500 AI workflow pays for itself within 60 to 90 days and delivers recurring labor savings indefinitely.`],
+
   [(c) => `How do we get started and receive a fixed-price proposal?`,
-   () => `Visit our contact page at aenfinite.com/contact/ or email hello@aenfinite.com. We schedule a 20-minute discovery call and deliver a detailed technical roadmap with a 100% fixed quote within 24 hours.`],
+   () => `Visit our contact page at aenfinite.com/contact/ or email hello@aenfinite.com. We schedule a 20-minute discovery consultation and deliver a detailed technical roadmap with a 100% fixed quote within 24 hours.`],
+
   [(c) => `Do you provide white-label web development for ${c.name} marketing agencies?`,
-   (c) => `Yes. We offer dedicated white-label development and AI automation partnerships for marketing and creative agencies in ${c.name} under strict NDAs, allowing agencies to scale client capacity without hiring full-time developers.`],
+   (c) => `Yes. We provide dedicated white-label development and AI automation partnerships for marketing and creative agencies in ${c.name} under strict NDAs, allowing agencies to scale client capacity without hiring full-time developers.`],
+
   [(c) => `How do your websites perform on mobile devices and Google Core Web Vitals?`,
    () => `Every website is built mobile-first with clean semantic HTML, responsive CSS, optimized WebP/SVG media, and minimal client-side JavaScript. We consistently achieve 90–100 scores on Google PageSpeed Insights for both mobile and desktop.`],
+
+  [(c) => `Can you integrate our website with our CRM, like HubSpot or GoHighLevel?`,
+   () => `Yes. We specialize in API and webhook integrations connecting your website forms, AI phone agents, and lead funnels directly into GoHighLevel, HubSpot, Salesforce, Clio, ServiceTitan, or custom PostgreSQL databases.`],
+
+  [(c) => `What security protocols and data compliance standards do you implement?`,
+   () => `All builds incorporate SSL/TLS encryption, automated daily offsite backups, CSRF/XSS sanitization, rate-limiting on forms, and optional HIPAA-compliant form routing for healthcare and legal clients.`],
+
+  [(c) => `Do you build custom online stores with Shopify and WooCommerce?`,
+   () => `Yes. We build high-conversion e-commerce stores on Shopify and WooCommerce featuring customized checkout funnels, ERP inventory synchronization, subscriptions, and sub-second product page load speeds.`],
+
+  [(c) => `Do you offer post-launch training for our internal team?`,
+   () => `Yes. Every project includes a recorded 1-on-1 video walkthrough showing your staff how to edit pages, update blog posts, review lead entries, and manage daily operations with ease.`],
 ];
 
 const SERVICES: Array<[string, string, string]> = [
-  ['Custom Web Design', '/services/web-design/', 'Bespoke, high-converting UX/UI designed around your audience — zero cookie-cutter templates.'],
+  ['Custom Web Design', '/services/web-design/', 'Bespoke, high-converting UX/UI designed around your target audience — zero cookie-cutter templates.'],
   ['Web Development', '/services/custom-web-development/', 'Blazing-fast, secure custom builds engineered on modern Next.js and TypeScript stacks.'],
   ['WordPress Websites', '/services/wordpress-websites/', 'Fully editable, SEO-optimized WordPress builds that you own 100% outright.'],
   ['E-Commerce Stores', '/services/e-commerce-websites/', 'High-conversion Shopify & WooCommerce stores built for speed, trust, and frictionless checkout.'],
@@ -158,8 +272,10 @@ function buildBody(stateSlug: string, citySlug: string): string {
   const c = st.cities[citySlug];
   const seed = seedOf(`${stateSlug}/${citySlug}`);
   const stateName = st.state;
-  const intro = pick(INTROS, seed, 1)(c, stateName);
+  const tier = getMarketTier(c.pop);
+  const intro = pick(INTROS, seed, 1)(c, stateName, tier);
 
+  // Deterministically select 5 unique FAQs from the 20-item pool
   const faqIdx: number[] = [];
   for (let i = 0; i < FAQS.length && faqIdx.length < 5; i++) {
     const idx = (seed + i * 7) % FAQS.length;
@@ -179,13 +295,13 @@ function buildBody(stateSlug: string, citySlug: string): string {
 <div class="header" style="min-height:42vh;display:flex;align-items:center;padding:130px 24px 50px;background:radial-gradient(circle at 50% 20%, rgba(34,123,243,0.12) 0%, rgba(0,0,0,0) 70%);">
   <div style="max-width:1050px;margin:0 auto;width:100%;">
     <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(34,123,243,0.12);color:#227bf3;border:1px solid rgba(34,123,243,0.3);padding:6px 16px;border-radius:24px;font-size:13px;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;margin-bottom:18px;">
-      <span>⭐ 4.9/5 Rating</span> &bull; <span>${esc(c.name)}, ${esc(st.code)}</span>
+      <span>⭐ 4.9/5 Rating</span> &bull; <span>${esc(c.name)}, ${esc(st.code)}</span> &bull; <span>${esc(tier.type)}</span>
     </div>
     <div class="title title__default"><h1 style="font-size:clamp(32px,5.2vw,56px);line-height:1.15;margin:0 0 20px;font-weight:800;">Web Design &amp; Development in ${esc(c.name)}, ${esc(st.code)}</h1></div>
     <p style="font-size:clamp(18px,2.4vw,22px);line-height:1.6;opacity:0.88;max-width:860px;margin:0 0 28px;">Custom websites, high-conversion e-commerce, and 24/7 AI automation for ${esc(c.name)} businesses — 100% published pricing, Denver-headquartered senior engineering, delivered with zero fluff.</p>
     <div style="display:flex;flex-wrap:wrap;gap:14px;">
       <a href="/contact/" class="button" style="display:inline-block;background:#227bf3;color:#fff;padding:15px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;box-shadow:0 4px 18px rgba(34,123,243,0.35);">Get a Fixed-Price Quote &rsaquo;</a>
-      <a href="/blog/how-much-does-a-website-cost-for-a-small-business/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:15px 28px;border-radius:8px;font-weight:600;font-size:16px;text-decoration:none;">View Pricing Guide &rsaquo;</a>
+      <a href="/pricing/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:15px 28px;border-radius:8px;font-weight:600;font-size:16px;text-decoration:none;">View 2026 Price Schedule &rsaquo;</a>
     </div>
   </div>
 </div>
@@ -198,18 +314,18 @@ function buildBody(stateSlug: string, citySlug: string): string {
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:20px;">
       <div style="border-left:3px solid #227bf3;padding-left:14px;">
         <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Delivery Timeline</div>
-        <div style="font-size:18px;font-weight:700;margin-top:4px;">3 to 6 Weeks</div>
-        <div style="font-size:14px;opacity:0.8;margin-top:2px;">Hard milestone guarantees</div>
+        <div style="font-size:18px;font-weight:700;margin-top:4px;">3 to 5 Weeks</div>
+        <div style="font-size:14px;opacity:0.8;margin-top:2px;">Hard contractual milestones</div>
       </div>
       <div style="border-left:3px solid #227bf3;padding-left:14px;">
         <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Investment Range</div>
         <div style="font-size:18px;font-weight:700;margin-top:4px;">$3,000 – $15,000</div>
-        <div style="font-size:14px;opacity:0.8;margin-top:2px;">100% Fixed quotes, no overages</div>
+        <div style="font-size:14px;opacity:0.8;margin-top:2px;">100% Fixed quotes, zero overages</div>
       </div>
       <div style="border-left:3px solid #227bf3;padding-left:14px;">
         <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Core Tech Stack</div>
         <div style="font-size:18px;font-weight:700;margin-top:4px;">Next.js &bull; AI &bull; WordPress</div>
-        <div style="font-size:14px;opacity:0.8;margin-top:2px;">Sub-second load speeds</div>
+        <div style="font-size:14px;opacity:0.8;margin-top:2px;">Sub-second load speeds guaranteed</div>
       </div>
       <div style="border-left:3px solid #227bf3;padding-left:14px;">
         <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Code Ownership</div>
@@ -223,7 +339,35 @@ function buildBody(stateSlug: string, citySlug: string): string {
 <!-- LOCAL LANDSCAPE & INTRO -->
 <section ${S}>
   <p ${P}>${intro}</p>
-  <p ${P}>Every project we deliver operates entirely digital — design reviews in Figma, interactive staging environments, scheduled video updates, and direct engineering collaboration. This modern delivery model gives ${esc(c.name)} companies access to senior engineering talent without the overhead, bloated retainers, or franchise handoffs of traditional local agencies. You work directly with senior engineers, backed by <a href="/locations/denver/">our published Denver pricing</a>.</p>
+  <p ${P}>Every project we engineer operates through an efficient, fully digital delivery model: collaborative design reviews in Figma, interactive staging environments, weekly video milestone updates, and direct access to senior developers in Slack. This modern engineering approach gives ${esc(c.name)} companies access to elite software talent without paying for downtown agency rent or sales commissions. Explore our <a href="/pricing/">published 2026 pricing schedule</a>.</p>
+</section>
+
+<!-- DYNAMIC LOCAL SEARCH & REVENUE OPPORTUNITY SECTION -->
+<section ${S}>
+  <div style="background:linear-gradient(135deg, rgba(34,123,243,0.06) 0%, rgba(255,255,255,0.02) 100%);border:1px solid rgba(34,123,243,0.22);border-radius:16px;padding:34px 28px;">
+    <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">Local Economic &amp; Search Analysis</span>
+    <h2 ${H2} style="margin-top:12px;">Local Search &amp; Revenue Potential in ${esc(c.name)}, ${esc(st.code)}</h2>
+    <p ${P}>With a population of <strong>${fmt(c.pop)} residents</strong> (${esc(st.state)}'s ${ordinal(c.srank)}-largest city), commercial operators in ${esc(c.name)} compete in an active digital marketplace. Our local economic analysis indicates an estimated <strong>${esc(tier.searchVolumeBracket)} high-intent commercial Google searches</strong> occur monthly across ${esc(c.name)} for professional services, contractors, and local consultancies.</p>
+    
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin:24px 0;">
+      <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
+        <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Estimated Monthly Searches</div>
+        <div style="font-size:22px;font-weight:800;color:#227bf3;margin-top:4px;">${esc(tier.searchVolumeBracket)}</div>
+        <div style="font-size:14px;opacity:0.8;margin-top:4px;">High-intent local queries in ${esc(c.name)}</div>
+      </div>
+      <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
+        <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Projected Annual Lead Value</div>
+        <div style="font-size:22px;font-weight:800;color:#227bf3;margin-top:4px;">${esc(tier.annualRevBracket)}</div>
+        <div style="font-size:14px;opacity:0.8;margin-top:4px;">Capturing 3–8 additional monthly clients</div>
+      </div>
+      <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:20px;">
+        <div style="font-size:13px;opacity:0.75;text-transform:uppercase;font-weight:600;">Strategic Priority</div>
+        <div style="font-size:16px;font-weight:700;margin-top:4px;line-height:1.4;">${esc(tier.primaryFocus)}</div>
+      </div>
+    </div>
+    
+    <p style="margin:0;font-size:15px;line-height:1.7;opacity:0.85;">Key commercial sectors benefiting immediately in ${esc(c.name)}: <strong>${tier.trades.join(', ')}</strong>. By deploying sub-second page loads and 24/7 AI lead capture, your business converts local searchers before competing firms can even return a voicemail.</p>
+  </div>
 </section>
 
 <!-- COMPARISON MATRIX -->
@@ -231,14 +375,14 @@ function buildBody(stateSlug: string, citySlug: string): string {
   <div style="margin-bottom:28px;">
     <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">The Aenfinite Advantage</span>
     <h2 ${H2} style="margin-top:10px;">Why ${esc(c.name)} Businesses Choose Aenfinite</h2>
-    <p ${P}>How we compare against cheap freelancer templates and legacy, slow-moving agencies.</p>
+    <p ${P}>How our direct-to-engineer delivery compares against cheap freelancer templates and legacy, slow-moving agencies.</p>
   </div>
   <div style="overflow-x:auto;">
     <table style="width:100%;border-collapse:collapse;text-align:left;border:1px solid rgba(128,128,128,0.2);border-radius:12px;overflow:hidden;background:rgba(255,255,255,0.02);">
       <thead>
         <tr style="background:rgba(34,123,243,0.12);border-bottom:1px solid rgba(128,128,128,0.25);">
           <th style="padding:16px 20px;font-size:15px;font-weight:700;">Feature &amp; Deliverable</th>
-          <th style="padding:16px 20px;font-size:15px;font-weight:700;opacity:0.7;">Freelancers / Cheap Templates</th>
+          <th style="padding:16px 20px;font-size:15px;font-weight:700;opacity:0.7;">Freelancers / Templates</th>
           <th style="padding:16px 20px;font-size:15px;font-weight:700;opacity:0.7;">Traditional Agencies</th>
           <th style="padding:16px 20px;font-size:15px;font-weight:700;color:#227bf3;">Aenfinite®</th>
         </tr>
@@ -246,25 +390,25 @@ function buildBody(stateSlug: string, citySlug: string): string {
       <tbody>
         <tr style="border-bottom:1px solid rgba(128,128,128,0.15);">
           <td style="padding:16px 20px;font-weight:600;">Pricing Model</td>
-          <td style="padding:16px 20px;opacity:0.8;">Vague / Hourly overages</td>
-          <td style="padding:16px 20px;opacity:0.8;">$30k–$80k+ Min retainers</td>
+          <td style="padding:16px 20px;opacity:0.8;">Vague / Hourly creep</td>
+          <td style="padding:16px 20px;opacity:0.8;">$30k–$80k+ Retainers</td>
           <td style="padding:16px 20px;color:#227bf3;font-weight:700;">100% Fixed &amp; Published ($3k+)</td>
         </tr>
         <tr style="border-bottom:1px solid rgba(128,128,128,0.15);">
           <td style="padding:16px 20px;font-weight:600;">Delivery Timeline</td>
-          <td style="padding:16px 20px;opacity:0.8;">Unpredictable / Frequent delays</td>
+          <td style="padding:16px 20px;opacity:0.8;">Frequent unannounced delays</td>
           <td style="padding:16px 20px;opacity:0.8;">3–6 Months of meetings</td>
-          <td style="padding:16px 20px;color:#227bf3;font-weight:700;">3–6 Weeks rapid launch</td>
+          <td style="padding:16px 20px;color:#227bf3;font-weight:700;">3–5 Weeks rapid launch</td>
         </tr>
         <tr style="border-bottom:1px solid rgba(128,128,128,0.15);">
           <td style="padding:16px 20px;font-weight:600;">AI Automation &amp; Voice Agents</td>
-          <td style="padding:16px 20px;opacity:0.8;">None / Generic chatbots</td>
+          <td style="padding:16px 20px;opacity:0.8;">None / Basic chatbots</td>
           <td style="padding:16px 20px;opacity:0.8;">$15k+ Expensive add-on</td>
           <td style="padding:16px 20px;color:#227bf3;font-weight:700;">Built-in 24/7 AI Voice &amp; Chat</td>
         </tr>
         <tr style="border-bottom:1px solid rgba(128,128,128,0.15);">
           <td style="padding:16px 20px;font-weight:600;">Source Code Ownership</td>
-          <td style="padding:16px 20px;opacity:0.8;">Often locked in SaaS tools</td>
+          <td style="padding:16px 20px;opacity:0.8;">Often locked in DIY builders</td>
           <td style="padding:16px 20px;opacity:0.8;">Proprietary CMS lock-in</td>
           <td style="padding:16px 20px;color:#227bf3;font-weight:700;">100% Full IP &amp; GitHub ownership</td>
         </tr>
@@ -279,7 +423,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
   </div>
 </section>
 
-<!-- 6-PILLAR CORE SERVICES -->
+<!-- 8-PILLAR CORE SERVICES -->
 <section ${S}>
   <div style="margin-bottom:28px;">
     <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">Full-Stack Solutions</span>
@@ -305,7 +449,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
   <div style="margin-bottom:28px;">
     <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">Proven Methodology</span>
     <h2 ${H2} style="margin-top:10px;">Our 4-Step Build Framework</h2>
-    <p ${P}>How we take your ${esc(c.name)} business from discovery to a high-converting digital engine in under 6 weeks.</p>
+    <p ${P}>How we take your ${esc(c.name)} business from discovery to a high-converting digital engine in under 5 weeks.</p>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px;">
     <div style="background:rgba(255,255,255,0.02);border:1px solid rgba(128,128,128,0.2);border-radius:12px;padding:24px;">
@@ -336,10 +480,11 @@ function buildBody(stateSlug: string, citySlug: string): string {
   <div style="background:linear-gradient(135deg, rgba(34,123,243,0.06) 0%, rgba(255,255,255,0.02) 100%);border:1px solid rgba(34,123,243,0.2);border-radius:16px;padding:36px 30px;">
     <span style="background:rgba(34,123,243,0.1);color:#227bf3;padding:5px 14px;border-radius:18px;font-size:13px;font-weight:700;text-transform:uppercase;">Transparent Investment</span>
     <h2 ${H2} style="margin-top:12px;">Published Rates &bull; No Local Markups in ${esc(c.name)}</h2>
-    <p ${P}>We believe business leaders deserve straightforward pricing without sales discovery gimmicks. Custom small business websites run <strong>$3,000 to $8,000</strong>, complex web applications $15,000+, and 24/7 AI voice receptionists start at <strong>$1,500 setup</strong> with zero long-term contracts.</p>
+    <p ${P}>We believe business leaders deserve straightforward pricing without sales discovery games. Custom small business websites run <strong>$3,000 to $8,000</strong>, high-scale web applications $15,000+, and 24/7 AI voice receptionists start at <strong>$1,500 setup</strong> with zero long-term contracts.</p>
     <div style="margin-top:20px;display:flex;flex-wrap:wrap;gap:14px;align-items:center;">
       <a href="/pricing/" style="display:inline-block;background:#227bf3;color:#fff;padding:12px 26px;border-radius:8px;font-weight:700;font-size:15px;text-decoration:none;">View Complete 2026 Price Schedule &rsaquo;</a>
       <a href="/tools/website-cost-calculator/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;text-decoration:none;">Calculate Project Cost &rsaquo;</a>
+      <a href="/tools/ai-receptionist-roi-calculator/" style="display:inline-block;background:rgba(255,255,255,0.06);border:1px solid rgba(128,128,128,0.3);color:inherit;padding:12px 22px;border-radius:8px;font-weight:600;font-size:15px;text-decoration:none;">AI Receptionist ROI &rsaquo;</a>
     </div>
   </div>
 </section>
@@ -347,7 +492,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
 <!-- LOCAL STATE NETWORK -->
 <section ${S}>
   <h2 ${H2}>Serving All of ${esc(stateName)}</h2>
-  <p ${P}>${esc(c.name)} is one of ${fmt(Object.keys(st.cities).length)} ${esc(stateName)} communities we support with dedicated engineering. Explore nearby cities:</p>
+  <p ${P}>${esc(c.name)} is one of ${fmt(Object.keys(st.cities).length)} ${esc(stateName)} communities we support with senior engineering. Explore nearby locations:</p>
   <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;">
     ${near.map(([slug, cc]) => `<a href="/locations/${stateSlug}/${slug}/" style="display:inline-block;padding:8px 16px;background:rgba(255,255,255,0.04);border:1px solid rgba(128,128,128,0.25);border-radius:20px;text-decoration:none;color:inherit;font-size:14px;font-weight:500;">${esc(cc.name)} &rsaquo;</a>`).join('\n    ')}
   </div>
@@ -380,7 +525,7 @@ function buildBody(stateSlug: string, citySlug: string): string {
 <section ${S} style="padding-bottom:60px;">
   <div style="background:radial-gradient(circle at 50% 50%, rgba(34,123,243,0.12) 0%, rgba(255,255,255,0.02) 100%);border:1px solid rgba(34,123,243,0.3);border-radius:16px;padding:44px 28px;text-align:center;">
     <h2 style="font-size:clamp(24px,3.8vw,36px);font-weight:800;margin:0 0 14px;">Ready to grow your ${esc(c.name)} business?</h2>
-    <p style="font-size:17px;opacity:0.85;max-width:640px;margin:0 auto 24px;line-height:1.7;">Speak directly with our senior engineering team. We'll provide a fixed-price roadmap and clear timeline within 24 hours.</p>
+    <p style="font-size:17px;opacity:0.85;max-width:640px;margin:0 auto 24px;line-height:1.7;">Speak directly with our senior engineering team. We'll provide a fixed-price technical roadmap and clear delivery timeline within 24 hours.</p>
     <a href="/contact/" class="button" style="display:inline-block;background:#227bf3;color:#fff;padding:15px 36px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;box-shadow:0 4px 20px rgba(34,123,243,0.4);">Book Your Free Consultation &rsaquo;</a>
     <div style="margin-top:18px;font-size:14px;opacity:0.75;">No sales reps &bull; 100% Fixed quotes &bull; Direct engineer contact</div>
   </div>
@@ -404,10 +549,9 @@ export async function generateMetadata(
   if (!st || !c) return {};
   const seed = seedOf(`${state}/${city}`);
   const url = `https://aenfinite.com/locations/${state}/${city}/`;
+  const tier = getMarketTier(c.pop);
   const title = pick(TITLES, seed, 0)(c.name, st.code);
-  const description = pick(DESCRIPTIONS, seed, 2)(c, st.state);
-
-  const isIndexed = state === 'colorado' || (c?.pop ?? 0) >= 100000;
+  const description = pick(DESCRIPTIONS, seed, 2)(c, st.state, tier);
 
   return {
     title,
@@ -427,7 +571,17 @@ export async function generateMetadata(
       description,
       images: ['https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg'],
     },
-    robots: { index: isIndexed, follow: true },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
+    },
   };
 }
 
