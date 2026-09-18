@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Trade Show Booth Design & Event Displays — High-Impact Booths [2026]",
   description: "✓ Custom exhibition booth design, 3D booth renderings, large-format graphics, and experiential trade show displays that command floor attention. Plan your booth →",
   keywords: "trade show booth design, exhibition display design, event booth branding, 3D booth visualization, convention displays",
-  alternates: { canonical: "https://aenfinite.com/services/trade-show-booth-design/" },
+  alternates: { canonical: "https://aenfinite.com/services/trade-show-booth-design/", languages: {"x-default":"https://aenfinite.com/services/trade-show-booth-design/","en":"https://aenfinite.com/services/trade-show-booth-design/","es":"https://aenfinite.com/es/services/trade-show-booth-design/","fr":"https://aenfinite.com/fr/services/trade-show-booth-design/","de":"https://aenfinite.com/de/services/trade-show-booth-design/","it":"https://aenfinite.com/it/services/trade-show-booth-design/","ar":"https://aenfinite.com/ar/services/trade-show-booth-design/","pt":"https://aenfinite.com/pt/services/trade-show-booth-design/","zh":"https://aenfinite.com/zh/services/trade-show-booth-design/","hi":"https://aenfinite.com/hi/services/trade-show-booth-design/","nl":"https://aenfinite.com/nl/services/trade-show-booth-design/","ja":"https://aenfinite.com/ja/services/trade-show-booth-design/","ko":"https://aenfinite.com/ko/services/trade-show-booth-design/"} },
   openGraph: {"title": "Trade Show Booth Design & Event Displays — High-Impact Booths [2026]","description": "✓ Custom exhibition booth design, 3D booth renderings, large-format graphics, and experiential trade show displays that command floor attention. Plan your booth →","url":"https://aenfinite.com/services/trade-show-booth-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Professional Trade Show Booth Design | Event Branding & Booth Construction | Aenfinite","description":"Aenfinite delivers professional trade show booth design services, including exhibition displays, event branding, and booth construction. Specializing in high-impact trade show solutions that enhance visibility and business growth.","images":["https://aenfinite.com/wp-content/uploads/2024/11/trade-show-booth-banner.jpg"]},
   robots: { index: true, follow: true },
@@ -2090,6 +2090,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -2146,7 +2159,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

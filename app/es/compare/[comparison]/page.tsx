@@ -184,12 +184,6 @@ export default async function ComparePage({ params }: { params: Promise<{ compar
         description: item.metaDesc,
         author: { '@id': 'https://aenfinite.com/#organization' },
         publisher: { '@id': 'https://aenfinite.com/#organization' },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '39',
-          bestRating: '5',
-        },
         url,
       },
       {

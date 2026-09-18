@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "indexnow:submit": "node scripts/submit-indexnow-batch.js"
   },
   "dependencies": {
     "@types/pg": "^8.23.1",

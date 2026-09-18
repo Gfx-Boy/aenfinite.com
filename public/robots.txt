@@ -3,17 +3,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # ---------------------------------------------------------------------------
 # AI search, answer engines & assistant crawlers — explicitly welcome.
@@ -34,17 +23,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # OpenAI — ChatGPT search, browsing and training.
 User-agent: GPTBot
@@ -54,17 +32,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Anthropic — Claude search and browsing.
 User-agent: ClaudeBot
@@ -74,17 +41,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Perplexity.
 User-agent: PerplexityBot
@@ -93,17 +49,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Google — Search Indexing
 User-agent: Googlebot
@@ -114,17 +59,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Google — Google-Extended controls AI Overviews / Gemini grounding.
 # It is a permission token, not a crawler, so it carries no Disallow rules.
@@ -136,17 +70,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Microsoft Copilot / Bing generative answers.
 User-agent: bingbot
@@ -154,17 +77,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Amazon Alexa / Rufus.
 User-agent: Amazonbot
@@ -172,17 +84,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Meta AI.
 User-agent: Meta-ExternalAgent
@@ -191,17 +92,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # DuckDuckGo assist.
 User-agent: DuckAssistBot
@@ -209,17 +99,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Mistral.
 User-agent: MistralAI-User
@@ -227,17 +106,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Common Crawl — the corpus a large number of models are trained from.
 User-agent: CCBot
@@ -245,17 +113,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # Other answer engines and research crawlers.
 User-agent: YouBot
@@ -273,17 +130,6 @@ Allow: /
 Disallow: /darkmode/
 Disallow: /cdn-cgi/
 Disallow: /intro/
-Disallow: /ar/
-Disallow: /de/
-Disallow: /es/
-Disallow: /fr/
-Disallow: /hi/
-Disallow: /it/
-Disallow: /ja/
-Disallow: /ko/
-Disallow: /nl/
-Disallow: /pt/
-Disallow: /zh/
 
 # ---------------------------------------------------------------------------
 # Machine-readable summary for LLMs

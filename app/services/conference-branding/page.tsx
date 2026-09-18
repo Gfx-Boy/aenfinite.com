@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Conference Branding & Event Identity Design — Complete Kits [2026]",
   description: "✓ Comprehensive conference branding: keynote stage visuals, attendee badges, event mobile app UI, and signage for world-class summits and seminars. Explore event branding →",
   keywords: "conference branding, event identity design, summit branding, keynote stage design, event collateral design",
-  alternates: { canonical: "https://aenfinite.com/services/conference-branding/" },
+  alternates: { canonical: "https://aenfinite.com/services/conference-branding/", languages: {"x-default":"https://aenfinite.com/services/conference-branding/","en":"https://aenfinite.com/services/conference-branding/","es":"https://aenfinite.com/es/services/conference-branding/","fr":"https://aenfinite.com/fr/services/conference-branding/","de":"https://aenfinite.com/de/services/conference-branding/","it":"https://aenfinite.com/it/services/conference-branding/","ar":"https://aenfinite.com/ar/services/conference-branding/","pt":"https://aenfinite.com/pt/services/conference-branding/","zh":"https://aenfinite.com/zh/services/conference-branding/","hi":"https://aenfinite.com/hi/services/conference-branding/","nl":"https://aenfinite.com/nl/services/conference-branding/","ja":"https://aenfinite.com/ja/services/conference-branding/","ko":"https://aenfinite.com/ko/services/conference-branding/"} },
   openGraph: {"title": "Conference Branding & Event Identity Design — Complete Kits [2026]","description": "✓ Comprehensive conference branding: keynote stage visuals, attendee badges, event mobile app UI, and signage for world-class summits and seminars. Explore event branding →","url":"https://aenfinite.com/services/conference-branding/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Premier Conference Branding & Event Identity Design Services | Aenfinite","description":"Aenfinite designs powerful conference branding and event identity visuals that elevate your conference presence and captivate attendees.","images":["https://aenfinite.com/wp-content/uploads/2024/11/conference-branding-thumbnail.jpg"]},
   robots: { index: true, follow: true },
@@ -2136,6 +2136,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -2192,7 +2205,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

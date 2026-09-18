@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "AI Voice Agent Agency — 24/7 Autonomous Phone Receptionists [2026]",
   description: "✓ Autonomous AI voice receptionists that answer incoming phone calls within 2 rings. ✓ Qualify leads, triage emergencies, and book calendar appointments 24/7. See live demo →",
   keywords: "AI voice agents, AI phone receptionist, automated appointment booking, voice AI agency, retell AI, vapi voice agents",
-  alternates: { canonical: "https://aenfinite.com/services/ai-voice-agents/" },
+  alternates: { canonical: "https://aenfinite.com/services/ai-voice-agents/", languages: {"x-default":"https://aenfinite.com/services/ai-voice-agents/","en":"https://aenfinite.com/services/ai-voice-agents/"} },
   openGraph: {"title": "AI Voice Agent Agency — 24/7 Autonomous Phone Receptionists [2026]","description": "✓ Autonomous AI voice receptionists that answer incoming phone calls within 2 rings. ✓ Qualify leads, triage emergencies, and book calendar appointments 24/7. See live demo →","url":"https://aenfinite.com/services/ai-voice-agents/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"AI Voice Agent Agency | Done-For-You AI Phone Agents | Aenfinite","description":"AI voice agents that answer every call, book appointments and qualify leads 24/7 — built and managed for you.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
@@ -1690,6 +1690,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -1746,7 +1759,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

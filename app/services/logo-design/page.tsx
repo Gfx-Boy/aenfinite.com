@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Custom Logo Design Services — Vector Visual Identity Systems [2026]",
   description: "✓ Precision logo design engineered for digital and print versatility. ✓ Full copyright ownership, vector source files, and complete style guide included. Get your custom logo →",
   keywords: "custom logo design, corporate logo design, brand logo creation, vector logo design, professional logo agency",
-  alternates: { canonical: "https://aenfinite.com/services/logo-design/" },
+  alternates: { canonical: "https://aenfinite.com/services/logo-design/", languages: {"x-default":"https://aenfinite.com/services/logo-design/","en":"https://aenfinite.com/services/logo-design/","es":"https://aenfinite.com/es/services/logo-design/","fr":"https://aenfinite.com/fr/services/logo-design/","de":"https://aenfinite.com/de/services/logo-design/","it":"https://aenfinite.com/it/services/logo-design/","ar":"https://aenfinite.com/ar/services/logo-design/","pt":"https://aenfinite.com/pt/services/logo-design/","zh":"https://aenfinite.com/zh/services/logo-design/","hi":"https://aenfinite.com/hi/services/logo-design/","nl":"https://aenfinite.com/nl/services/logo-design/","ja":"https://aenfinite.com/ja/services/logo-design/","ko":"https://aenfinite.com/ko/services/logo-design/"} },
   openGraph: {"title": "Custom Logo Design Services — Vector Visual Identity Systems [2026]","description": "✓ Precision logo design engineered for digital and print versatility. ✓ Full copyright ownership, vector source files, and complete style guide included. Get your custom logo →","url":"https://aenfinite.com/services/logo-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Professional Logo Design Services | Custom Brand Identity & Logo Creation | Aenfinite","description":"Professional logo design and brand identity services by Aenfinite. We create memorable brand marks that enhance recognition and business growth.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
@@ -2284,6 +2284,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -2340,7 +2353,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

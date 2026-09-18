@@ -1,0 +1,664 @@
+{
+  "after-hours-ai-receptionist": {
+    "slug": "after-hours-ai-receptionist",
+    "name": "AI Receptionist for After-Hours Calls",
+    "title": "AI Receptionist for After-Hours Calls [2026] \u2014 Systems You Own (Live in 7\u201310 business days)",
+    "metaDesc": "\u2713 Done-for-you ai receptionist for after-hours calls. \u2713 Built in your accounts (you own 100%). \u2713 Live in 7\u201310 business days. AI voice receptionist from $2,500 setup. See live workflow & ROI math \u2192",
+    "heroSub": "35% of service calls come after 5pm. Without an AI receptionist, those are voicemails your competitors answer. We build a done-for-you AI phone agent that handles calls 24/7 \u2014 and you own the entire system.",
+    "targetPersona": "HVAC, plumbing, home services owners",
+    "problemMath": "An after-hours HVAC call is a $300\u2013$3,000 ticket. 35% of calls come after 5pm. That's $2,100\u2013$21,000/week going to voicemail.",
+    "workflows": [
+      "Emergency triage \u2014 routes urgent calls to on-call tech instantly",
+      "Appointment scheduling \u2014 books next available slot with calendar integration",
+      "Estimate requests \u2014 captures job details, photos, and location",
+      "Follow-up confirmation \u2014 sends SMS with appointment details and reminders",
+      "Seasonal reminders \u2014 proactive outreach for maintenance and tune-ups"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "GoHighLevel",
+      "ServiceTitan",
+      "Jobber",
+      "Google Calendar",
+      "Twilio"
+    ],
+    "pricing": "AI voice receptionist from $2,500 setup + $297/mo management",
+    "timeline": "Live in 7\u201310 business days",
+    "relatedIndustries": [
+      "home-services",
+      "hvac"
+    ],
+    "relatedAiSolutions": [
+      "home-services",
+      "hvac"
+    ],
+    "faqs": [
+      {
+        "q": "Does the AI sound robotic?",
+        "a": "No. We use Vapi and Retell AI voices that are indistinguishable from human receptionists. Callers routinely don't realize they're speaking with AI."
+      },
+      {
+        "q": "What happens if the AI can't handle a question?",
+        "a": "The system gracefully escalates to your on-call team, your cell phone, or takes a detailed message with a callback promise \u2014 whatever you prefer."
+      },
+      {
+        "q": "Can it handle multiple calls at once?",
+        "a": "Yes. Unlike a human receptionist, our AI handles unlimited concurrent calls \u2014 peak volume during a storm surge is no problem."
+      },
+      {
+        "q": "Do I own the system or rent it?",
+        "a": "You own it. We build the AI agent, call flows, and integrations in your own accounts (Vapi, n8n, GHL). Cancel our management anytime and keep everything."
+      },
+      {
+        "q": "How much does it cost compared to a traditional answering service?",
+        "a": "Traditional answering services charge $1\u2013$3 per call and often lose leads through poor scripting. Our AI costs a flat monthly fee regardless of call volume, and it never takes a sick day."
+      }
+    ]
+  },
+  "website-lead-capture-chatbot": {
+    "slug": "website-lead-capture-chatbot",
+    "name": "AI Chatbot for Website Lead Capture",
+    "title": "AI Chatbot for Website Lead Capture [2026] \u2014 Systems You Own (Live in 5\u20137 business days)",
+    "metaDesc": "\u2713 Done-for-you ai chatbot for website lead capture. \u2713 Built in your accounts (you own 100%). \u2713 Live in 5\u20137 business days. AI chatbot from $1,500 setup. See live workflow & ROI math \u2192",
+    "heroSub": "97% of website visitors leave without converting. An AI chatbot engages them in real-time, qualifies their intent, and books meetings while you sleep.",
+    "targetPersona": "Any SMB with a website",
+    "problemMath": "The average website converts 2.3% of visitors. An AI chatbot lifts that to 5\u20138% \u2014 that's 2\u20133x more leads from the same traffic budget.",
+    "workflows": [
+      "Visitor engagement \u2014 proactive greeting based on page behavior",
+      "Intent qualification \u2014 asks qualifying questions to score leads",
+      "Meeting booking \u2014 connects to calendar and books directly",
+      "CRM sync \u2014 pushes qualified leads into GHL, HubSpot, or any CRM",
+      "After-hours capture \u2014 collects info when your team is offline"
+    ],
+    "integrations": [
+      "n8n",
+      "GoHighLevel",
+      "Calendly",
+      "HubSpot",
+      "WordPress",
+      "Shopify",
+      "Make.com"
+    ],
+    "pricing": "AI chatbot from $1,500 setup + $197/mo management",
+    "timeline": "Live in 5\u20137 business days",
+    "relatedIndustries": [
+      "real-estate",
+      "ecommerce"
+    ],
+    "relatedAiSolutions": [
+      "real-estate",
+      "dental"
+    ],
+    "faqs": [
+      {
+        "q": "How is this different from a basic chatbot widget?",
+        "a": "Generic widgets follow rigid scripts. Our AI understands natural language, handles objections, and adapts to each visitor's intent \u2014 it's a conversation, not a flowchart."
+      },
+      {
+        "q": "Can I customize the bot's personality and knowledge?",
+        "a": "Absolutely. We train it on your specific services, pricing, FAQs, and brand voice. It becomes your best sales rep, available 24/7."
+      },
+      {
+        "q": "Will it work with my existing website?",
+        "a": "Yes. We install it on any platform \u2014 WordPress, Shopify, Webflow, custom HTML \u2014 with a single script tag."
+      },
+      {
+        "q": "What data do I get?",
+        "a": "Full conversation transcripts, lead scores, conversion analytics, and all data flows into your CRM automatically."
+      },
+      {
+        "q": "Do I own the chatbot?",
+        "a": "Yes. Built in your own accounts. Cancel anytime and keep the entire system."
+      }
+    ]
+  },
+  "ai-appointment-booking": {
+    "slug": "ai-appointment-booking",
+    "name": "AI Appointment Booking System",
+    "title": "AI Appointment Booking System [2026] \u2014 Systems You Own (Live in 7\u201314 business days)",
+    "metaDesc": "\u2713 Done-for-you ai appointment booking system. \u2713 Built in your accounts (you own 100%). \u2713 Live in 7\u201314 business days. AI booking system from $2,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "Your front desk spends 60% of their day on the phone booking and rescheduling appointments. An AI booking agent handles it all \u2014 phone, web, and SMS \u2014 while your team focuses on patients.",
+    "targetPersona": "Dental, medical, salons",
+    "problemMath": "A front desk employee costs $35,000\u2013$45,000/year. 60% of their time is booking management. That's $21,000\u2013$27,000/year in labor for a task AI handles for $3,600/year.",
+    "workflows": [
+      "Phone booking \u2014 AI answers calls and books appointments in real-time",
+      "Online scheduling \u2014 embedded widget lets visitors self-schedule",
+      "Smart rescheduling \u2014 handles cancellations and fills gaps automatically",
+      "Automated reminders \u2014 SMS and email 24hr and 1hr before appointment",
+      "No-show follow-up \u2014 re-engages missed patients with rebooking offers"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "Dentrix",
+      "Open Dental",
+      "GoHighLevel",
+      "Google Calendar",
+      "Calendly"
+    ],
+    "pricing": "AI booking system from $2,000 setup + $247/mo management",
+    "timeline": "Live in 7\u201314 business days",
+    "relatedIndustries": [
+      "dental",
+      "healthcare"
+    ],
+    "relatedAiSolutions": [
+      "dental"
+    ],
+    "faqs": [
+      {
+        "q": "Can it check real-time availability?",
+        "a": "Yes. The AI connects to your practice management software or calendar and only offers available slots."
+      },
+      {
+        "q": "Does it handle insurance verification?",
+        "a": "It can collect insurance information during the booking call and flag for verification, or integrate directly with verification APIs."
+      },
+      {
+        "q": "What about HIPAA compliance?",
+        "a": "All data handling follows HIPAA guidelines. We use encrypted channels and BAAs with all third-party services."
+      },
+      {
+        "q": "Can patients reschedule or cancel through the AI?",
+        "a": "Yes. Patients call or text, and the AI handles rescheduling or cancellation with confirmation."
+      },
+      {
+        "q": "How quickly can this be set up?",
+        "a": "Most dental and medical practices are live within 7\u201314 business days, including testing and staff training."
+      }
+    ]
+  },
+  "law-firm-client-intake": {
+    "slug": "law-firm-client-intake",
+    "name": "Automated Client Intake for Law Firms",
+    "title": "Automated Client Intake for Law Firms [2026] \u2014 Systems You Own (Live in 10\u201314 business days)",
+    "metaDesc": "\u2713 Done-for-you automated client intake for law firms. \u2713 Built in your accounts (you own 100%). \u2713 Live in 10\u201314 business days. AI legal intake from $3,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "A potential client calls your firm at 7pm on a Tuesday. Nobody answers. They call the next firm on Google. With AI intake, that lead is qualified, case details collected, and a consultation booked \u2014 before your competitor's voicemail finishes playing.",
+    "targetPersona": "Attorneys & legal practices",
+    "problemMath": "The average personal injury lead costs $150\u2013$400 to acquire. If 30% call after hours and reach voicemail, you're wasting $4,500\u2013$12,000/month in lost leads.",
+    "workflows": [
+      "24/7 intake calls \u2014 AI answers, qualifies, and collects case information",
+      "Conflict check \u2014 cross-references new leads against existing client database",
+      "Practice area routing \u2014 routes PI, family law, criminal, etc. to the right attorney",
+      "Document collection \u2014 sends intake forms via SMS/email for digital signature",
+      "Consultation booking \u2014 schedules paid or free consultations on attorney's calendar"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "Clio",
+      "MyCase",
+      "GoHighLevel",
+      "DocuSign",
+      "Calendly"
+    ],
+    "pricing": "AI legal intake from $3,000 setup + $347/mo management",
+    "timeline": "Live in 10\u201314 business days",
+    "relatedIndustries": [
+      "law-firms"
+    ],
+    "relatedAiSolutions": [
+      "law-firms"
+    ],
+    "faqs": [
+      {
+        "q": "Is this compliant with attorney-client privilege?",
+        "a": "Yes. The AI is configured as an intake tool, not a legal advisor. All communications are encrypted and stored in your firm's systems."
+      },
+      {
+        "q": "Can it handle multiple practice areas?",
+        "a": "Absolutely. We configure separate intake flows for PI, family law, criminal defense, immigration, and any other practice areas you handle."
+      },
+      {
+        "q": "What about non-English speakers?",
+        "a": "Our AI agents support multiple languages including Spanish, which is critical for many practice areas."
+      },
+      {
+        "q": "Does it integrate with Clio?",
+        "a": "Yes. New matters and contacts are created automatically in Clio, MyCase, or your PMS of choice."
+      },
+      {
+        "q": "Can the AI determine if we should take the case?",
+        "a": "It qualifies based on your criteria (jurisdiction, statute of limitations, case type) and flags promising leads for attorney review."
+      }
+    ]
+  },
+  "ai-review-management": {
+    "slug": "ai-review-management",
+    "name": "AI-Powered Review & Reputation Management",
+    "title": "AI-Powered Review & Reputation Management [2026] \u2014 Systems You Own (Live in 3\u20135 business days)",
+    "metaDesc": "\u2713 Done-for-you ai-powered review & reputation management. \u2713 Built in your accounts (you own 100%). \u2713 Live in 3\u20135 business days. AI review system from $1,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "88% of consumers trust online reviews as much as personal recommendations. But only 10% of happy customers leave reviews without being asked. Our AI asks at the perfect moment, every time.",
+    "targetPersona": "Restaurants, contractors",
+    "problemMath": "A business at 4.5 stars gets 28% more clicks than one at 4.0 stars. For a restaurant doing $500K/year, that's $140,000 in revenue influenced by your star rating.",
+    "workflows": [
+      "Smart review requests \u2014 sends personalized asks after positive interactions",
+      "Sentiment routing \u2014 happy customers \u2192 Google review, unhappy \u2192 private feedback form",
+      "Instant response \u2014 AI drafts and posts responses to new reviews within minutes",
+      "Negative review alerts \u2014 immediate notification to owner with suggested resolution",
+      "Monthly reporting \u2014 reputation analytics with trend analysis"
+    ],
+    "integrations": [
+      "n8n",
+      "GoHighLevel",
+      "Google Business Profile",
+      "Yelp",
+      "Make.com",
+      "Twilio"
+    ],
+    "pricing": "AI review system from $1,000 setup + $147/mo management",
+    "timeline": "Live in 3\u20135 business days",
+    "relatedIndustries": [
+      "restaurants",
+      "home-services"
+    ],
+    "relatedAiSolutions": [
+      "restaurants",
+      "home-services"
+    ],
+    "faqs": [
+      {
+        "q": "Is this compliant with Google's review policies?",
+        "a": "Yes. We never incentivize or fake reviews. The AI simply asks real customers at the right time and makes leaving a review effortless."
+      },
+      {
+        "q": "How does the sentiment routing work?",
+        "a": "After service completion, the AI sends a 1-question survey. 4\u20135 stars get directed to Google/Yelp. 1\u20133 stars get a private feedback form so you can resolve issues before they go public."
+      },
+      {
+        "q": "Can it handle review responses automatically?",
+        "a": "Yes. The AI drafts personalized, professional responses for each review. You can approve them first, or let it auto-post based on your guidelines."
+      },
+      {
+        "q": "What platforms does it support?",
+        "a": "Google Business Profile, Yelp, Facebook, Trustpilot, and industry-specific platforms like Healthgrades or Avvo."
+      },
+      {
+        "q": "How quickly will I see results?",
+        "a": "Most businesses see a 3\u20135x increase in review volume within the first 30 days."
+      }
+    ]
+  },
+  "ai-lead-qualification": {
+    "slug": "ai-lead-qualification",
+    "name": "AI Lead Qualification & Routing",
+    "title": "AI Lead Qualification & Routing [2026] \u2014 Systems You Own (Live in 7\u201310 business days)",
+    "metaDesc": "\u2713 Done-for-you ai lead qualification & routing. \u2713 Built in your accounts (you own 100%). \u2713 Live in 7\u201310 business days. AI lead qualification from $2,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "Your sales team spends 67% of their time on leads that will never buy. Our AI qualification system scores every inbound lead, routes hot prospects instantly, and nurtures the rest automatically.",
+    "targetPersona": "Real estate, insurance",
+    "problemMath": "If your team handles 100 leads/month and only 20% are qualified, that's 80 wasted conversations. At $50/lead acquisition cost, you're spending $4,000/month talking to the wrong people.",
+    "workflows": [
+      "Multi-channel intake \u2014 qualifies leads from phone, web, email, and social",
+      "BANT scoring \u2014 evaluates Budget, Authority, Need, and Timeline automatically",
+      "Instant routing \u2014 hot leads get routed to available reps within seconds",
+      "Drip nurture \u2014 warm leads enter automated follow-up sequences",
+      "Dead lead recycling \u2014 re-engages cold leads after 30/60/90 days"
+    ],
+    "integrations": [
+      "n8n",
+      "GoHighLevel",
+      "HubSpot",
+      "Salesforce",
+      "Vapi",
+      "Make.com",
+      "Zapier"
+    ],
+    "pricing": "AI lead qualification from $2,000 setup + $247/mo management",
+    "timeline": "Live in 7\u201310 business days",
+    "relatedIndustries": [
+      "real-estate"
+    ],
+    "relatedAiSolutions": [
+      "real-estate"
+    ],
+    "faqs": [
+      {
+        "q": "How does the AI know which leads are qualified?",
+        "a": "We configure scoring criteria based on your ideal customer profile \u2014 budget range, project timeline, location, property type, etc. The AI asks the right questions naturally in conversation."
+      },
+      {
+        "q": "Can it handle both phone and web leads?",
+        "a": "Yes. The system unifies all channels \u2014 phone calls, chat, form submissions, and social DMs \u2014 into one qualification pipeline."
+      },
+      {
+        "q": "What CRMs does it integrate with?",
+        "a": "GoHighLevel, HubSpot, Salesforce, Pipedrive, and most CRMs with API access. We build the integration for you."
+      },
+      {
+        "q": "How does lead routing work?",
+        "a": "Based on your rules \u2014 by territory, specialty, availability, or round-robin. Hot leads can trigger an instant phone call to the assigned rep."
+      },
+      {
+        "q": "Will it replace my sales team?",
+        "a": "No. It makes your sales team dramatically more effective by ensuring they only talk to qualified, ready-to-buy prospects."
+      }
+    ]
+  },
+  "missed-call-text-back": {
+    "slug": "missed-call-text-back",
+    "name": "Missed Call Text-Back Automation",
+    "title": "Missed Call Text-Back Automation [2026] \u2014 Systems You Own (Live in 2\u20133 business days)",
+    "metaDesc": "\u2713 Done-for-you missed call text-back automation. \u2713 Built in your accounts (you own 100%). \u2713 Live in 2\u20133 business days. Missed call text-back from $500 setup. See live workflow & ROI math \u2192",
+    "heroSub": "62% of calls to small businesses go unanswered. 85% of people who reach voicemail never call back. Our missed call text-back fires within 30 seconds and converts those lost calls into conversations.",
+    "targetPersona": "Any service business",
+    "problemMath": "If you miss 10 calls/week and each potential customer is worth $500, that's $5,000/week \u2014 $260,000/year \u2014 walking away because nobody answered.",
+    "workflows": [
+      "Instant text-back \u2014 automated SMS within 30 seconds of missed call",
+      "Smart replies \u2014 AI-powered text conversation to qualify and book",
+      "Appointment booking \u2014 link to self-schedule in the first message",
+      "Lead capture \u2014 collects name, need, and urgency via text conversation",
+      "CRM logging \u2014 every missed call and text conversation tracked automatically"
+    ],
+    "integrations": [
+      "GoHighLevel",
+      "Twilio",
+      "n8n",
+      "Google Calendar",
+      "Calendly"
+    ],
+    "pricing": "Missed call text-back from $500 setup + $97/mo management",
+    "timeline": "Live in 2\u20133 business days",
+    "relatedIndustries": [
+      "home-services",
+      "construction"
+    ],
+    "relatedAiSolutions": [
+      "home-services"
+    ],
+    "faqs": [
+      {
+        "q": "How fast does the text go out?",
+        "a": "Within 30 seconds of the missed call. Speed matters \u2014 the first business to respond gets the job 78% of the time."
+      },
+      {
+        "q": "Can I customize the text message?",
+        "a": "Yes. We craft messages that match your brand voice, mention your business by name, and include a direct booking link."
+      },
+      {
+        "q": "Does it work with my existing phone number?",
+        "a": "Yes. We integrate with your current business number through call forwarding or direct integration \u2014 no need to change numbers."
+      },
+      {
+        "q": "What if the person does call back?",
+        "a": "The system detects the callback and stops the text sequence. No awkward duplicate conversations."
+      },
+      {
+        "q": "Is this the same as an auto-responder?",
+        "a": "No. Our system uses AI to have a real conversation via text \u2014 qualifying the lead, answering questions, and booking appointments. It's not a static auto-reply."
+      }
+    ]
+  },
+  "ai-follow-up-sequences": {
+    "slug": "ai-follow-up-sequences",
+    "name": "AI Follow-Up Sequence Builder",
+    "title": "AI Follow-Up Sequence Builder [2026] \u2014 Systems You Own (Live in 5\u20137 business days)",
+    "metaDesc": "\u2713 Done-for-you ai follow-up sequence builder. \u2713 Built in your accounts (you own 100%). \u2713 Live in 5\u20137 business days. AI follow-up system from $1,500 setup. See live workflow & ROI math \u2192",
+    "heroSub": "80% of sales require 5 or more follow-ups. But 44% of salespeople give up after one attempt. Our AI runs persistent, personalized follow-up sequences across email, SMS, and voicemail \u2014 hands-free.",
+    "targetPersona": "Sales teams, agencies",
+    "problemMath": "If you have 200 leads/month and only follow up once, you're losing 160 potential sales. At a $2,000 average deal, that's $320,000/month left on the table.",
+    "workflows": [
+      "Multi-channel sequences \u2014 email, SMS, voicemail drop, and social touch",
+      "AI personalization \u2014 each follow-up is customized based on the lead's behavior",
+      "Smart timing \u2014 sends at optimal times based on engagement data",
+      "Trigger responses \u2014 detects replies and routes to a human instantly",
+      "Sequence optimization \u2014 A/B tests messaging and timing automatically"
+    ],
+    "integrations": [
+      "n8n",
+      "GoHighLevel",
+      "Twilio",
+      "SendGrid",
+      "HubSpot",
+      "Make.com"
+    ],
+    "pricing": "AI follow-up system from $1,500 setup + $197/mo management",
+    "timeline": "Live in 5\u20137 business days",
+    "relatedIndustries": [
+      "real-estate",
+      "ecommerce"
+    ],
+    "relatedAiSolutions": [
+      "real-estate"
+    ],
+    "faqs": [
+      {
+        "q": "How is this different from Mailchimp or drip campaigns?",
+        "a": "Traditional drip tools send the same canned email to everyone. Our AI personalizes every touchpoint based on the lead's industry, behavior, and engagement \u2014 and it works across SMS, email, and voicemail simultaneously."
+      },
+      {
+        "q": "Can it handle different sequences for different lead types?",
+        "a": "Yes. We build separate sequences for each lead source, service interest, and qualification level."
+      },
+      {
+        "q": "What happens when a lead replies?",
+        "a": "The AI detects the reply, pauses the sequence, and alerts your team. If configured, the AI can continue the conversation to book a meeting."
+      },
+      {
+        "q": "How long do sequences typically run?",
+        "a": "We recommend 60\u201390 day sequences with 8\u201312 touchpoints. But we customize based on your sales cycle."
+      },
+      {
+        "q": "Can I see analytics on what's working?",
+        "a": "Yes. Full dashboards showing open rates, reply rates, booked meetings, and revenue attributed to each sequence."
+      }
+    ]
+  },
+  "ai-estimate-system": {
+    "slug": "ai-estimate-system",
+    "name": "AI-Powered Estimate & Quote System",
+    "title": "AI-Powered Estimate & Quote System [2026] \u2014 Systems You Own (Live in 10\u201314 business days)",
+    "metaDesc": "\u2713 Done-for-you ai-powered estimate & quote system. \u2713 Built in your accounts (you own 100%). \u2713 Live in 10\u201314 business days. AI estimate system from $2,500 setup. See live workflow & ROI math \u2192",
+    "heroSub": "The contractor who sends the first quote wins the job 60% of the time. Our AI collects job details by phone or chat, generates accurate estimates in minutes, and sends professional quotes \u2014 before your competitor even calls back.",
+    "targetPersona": "Contractors, home services",
+    "problemMath": "If you quote 50 jobs/month and it takes 2 hours per quote, that's 100 hours/month on estimates. AI reduces that to 15 minutes/quote \u2014 saving 75 hours/month.",
+    "workflows": [
+      "AI job intake \u2014 collects scope, measurements, photos, and timeline by phone or chat",
+      "Instant estimation \u2014 generates range estimates based on your pricing matrix",
+      "Professional proposals \u2014 auto-generates branded PDF quotes with scope details",
+      "Follow-up automation \u2014 sends quote, follows up in 24/48/72 hours if unsigned",
+      "E-signature \u2014 one-click approval with integrated digital signing"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "GoHighLevel",
+      "Jobber",
+      "ServiceTitan",
+      "DocuSign",
+      "QuickBooks"
+    ],
+    "pricing": "AI estimate system from $2,500 setup + $297/mo management",
+    "timeline": "Live in 10\u201314 business days",
+    "relatedIndustries": [
+      "construction",
+      "home-services"
+    ],
+    "relatedAiSolutions": [
+      "home-services"
+    ],
+    "faqs": [
+      {
+        "q": "How accurate are AI-generated estimates?",
+        "a": "The AI uses your actual pricing matrix, material costs, and labor rates. Estimates are within 5\u201310% of what you'd quote manually \u2014 and you can always adjust before sending."
+      },
+      {
+        "q": "Can it handle complex multi-trade jobs?",
+        "a": "Yes. We build separate estimation modules for different service types (roofing, HVAC, plumbing, electrical) with trade-specific parameters."
+      },
+      {
+        "q": "What does the customer experience look like?",
+        "a": "The customer calls or chats, describes the job, uploads photos if needed, and receives a professional proposal via email or text \u2014 often within minutes."
+      },
+      {
+        "q": "Does it integrate with my job management software?",
+        "a": "Yes. Approved quotes can auto-create jobs in Jobber, ServiceTitan, Housecall Pro, or your preferred platform."
+      },
+      {
+        "q": "Can I set pricing rules and guardrails?",
+        "a": "Absolutely. You define min/max ranges, margin requirements, material markups, and complexity multipliers. The AI follows your rules."
+      }
+    ]
+  },
+  "multi-location-ai-phone": {
+    "slug": "multi-location-ai-phone",
+    "name": "Multi-Location AI Phone System",
+    "title": "Multi-Location AI Phone System [2026] \u2014 Systems You Own (Live in 14\u201321 business days)",
+    "metaDesc": "\u2713 Done-for-you multi-location ai phone system. \u2713 Built in your accounts (you own 100%). \u2713 Live in 14\u201321 business days. Multi-location AI phone from $5,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "Managing phone systems across 5, 10, or 50 locations is a staffing nightmare. Our AI phone system handles calls for every location \u2014 with location-aware routing, local knowledge, and unified reporting.",
+    "targetPersona": "Franchise, multi-site businesses",
+    "problemMath": "A receptionist at each of 10 locations costs $350,000/year in labor alone. A multi-location AI phone system covers all 10 for under $36,000/year.",
+    "workflows": [
+      "Location detection \u2014 identifies which location the caller is reaching",
+      "Local knowledge \u2014 AI knows each location's hours, services, and staff",
+      "Smart routing \u2014 routes calls to the right location or department",
+      "Unified reporting \u2014 one dashboard for call volume, resolution, and booking across all sites",
+      "Overflow handling \u2014 routes calls to available locations during peak times"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "GoHighLevel",
+      "RingCentral",
+      "Google Calendar",
+      "ServiceTitan"
+    ],
+    "pricing": "Multi-location AI phone from $5,000 setup + $497/mo management",
+    "timeline": "Live in 14\u201321 business days",
+    "relatedIndustries": [
+      "dental",
+      "healthcare"
+    ],
+    "relatedAiSolutions": [
+      "dental"
+    ],
+    "faqs": [
+      {
+        "q": "Can the AI handle different services at different locations?",
+        "a": "Yes. Each location gets its own knowledge base, service menu, hours, and staff directory. The AI knows exactly what each location offers."
+      },
+      {
+        "q": "What about local phone numbers?",
+        "a": "We set up local numbers for each location, or integrate with your existing numbers. Callers always reach the right location."
+      },
+      {
+        "q": "How does overflow routing work?",
+        "a": "If one location is at capacity or closed, the AI can offer the nearest available location, take a message, or book for the next available slot."
+      },
+      {
+        "q": "Can franchise owners see their own location's data?",
+        "a": "Yes. Role-based dashboards let each location manager see their own metrics while corporate sees everything."
+      },
+      {
+        "q": "How does pricing work for multiple locations?",
+        "a": "Setup fee covers the core system. Each additional location costs $1,000 setup + $97/mo. Volume discounts available for 10+ locations."
+      }
+    ]
+  },
+  "ai-website-crm-package": {
+    "slug": "ai-website-crm-package",
+    "name": "AI Website + CRM Integration Package",
+    "title": "AI Website + CRM Integration Package [2026] \u2014 Systems You Own (Live in 21\u201330 business days)",
+    "metaDesc": "\u2713 Done-for-you ai website + crm integration package. \u2713 Built in your accounts (you own 100%). \u2713 Live in 21\u201330 business days. Complete AI+Website+CRM package from $5,000 setup. See live workflow & ROI math \u2192",
+    "heroSub": "Most businesses have a website that doesn't talk to their CRM, a CRM nobody uses, and zero automation. We build the complete system \u2014 website, AI, CRM, and automation \u2014 as one connected package.",
+    "targetPersona": "SMBs wanting full system",
+    "problemMath": "The average SMB uses 12 disconnected tools. Manual data entry between them costs 5\u201310 hours/week. At $50/hour, that's $13,000\u2013$26,000/year in wasted labor.",
+    "workflows": [
+      "Custom website \u2014 industry-specific design with conversion optimization",
+      "CRM setup \u2014 GoHighLevel configured for your sales process",
+      "AI chatbot \u2014 website lead capture with CRM integration",
+      "Automation workflows \u2014 form \u2192 CRM \u2192 email \u2192 follow-up on autopilot",
+      "Analytics dashboard \u2014 unified view of website, leads, and revenue"
+    ],
+    "integrations": [
+      "WordPress",
+      "GoHighLevel",
+      "n8n",
+      "Vapi",
+      "Calendly",
+      "Stripe",
+      "QuickBooks"
+    ],
+    "pricing": "Complete AI+Website+CRM package from $5,000 setup + $497/mo management",
+    "timeline": "Live in 21\u201330 business days",
+    "relatedIndustries": [
+      "ecommerce",
+      "real-estate"
+    ],
+    "relatedAiSolutions": [
+      "real-estate"
+    ],
+    "faqs": [
+      {
+        "q": "Why bundle everything together?",
+        "a": "Because disconnected tools leak leads. When your website, CRM, AI, and automation are built as one system, every lead is captured, qualified, and followed up automatically. Zero data falls through the cracks."
+      },
+      {
+        "q": "What CRM do you use?",
+        "a": "We primarily build on GoHighLevel because it combines CRM, email, SMS, pipeline management, and booking into one platform. But we also work with HubSpot and Salesforce."
+      },
+      {
+        "q": "Can I keep my existing website?",
+        "a": "If your current site is solid, we can retrofit it with AI and CRM integrations. If it needs work, we rebuild it as part of the package at no extra cost."
+      },
+      {
+        "q": "What's included in the monthly management?",
+        "a": "AI training updates, CRM optimization, automation monitoring, monthly analytics review, and priority support. We actively manage the system, not just host it."
+      },
+      {
+        "q": "Do I own everything?",
+        "a": "Yes. Website, CRM account, AI agents, and automation workflows are all in your name. Cancel anytime and keep it all."
+      }
+    ]
+  },
+  "white-label-ai-system": {
+    "slug": "white-label-ai-system",
+    "name": "White-Label AI System for Agencies",
+    "title": "White-Label AI System for Agencies [2026] \u2014 Systems You Own (First client project delivered in 7\u201314 days)",
+    "metaDesc": "\u2713 Done-for-you white-label ai system for agencies. \u2713 Built in your accounts (you own 100%). \u2713 First client project delivered in 7\u201314 days. White-label partnership from $1,500/project. See live workflow & ROI math \u2192",
+    "heroSub": "Your clients are asking about AI. You can learn to build it yourself (6\u201312 months), hire developers ($120K+/year), or white-label our proven systems and start selling this week.",
+    "targetPersona": "Marketing & web agencies",
+    "problemMath": "Adding AI services at $2,000\u2013$5,000/client with 60%+ margins on a 20-client base = $40,000\u2013$100,000 in new annual revenue with zero new hires.",
+    "workflows": [
+      "Your brand, our build \u2014 all deliverables branded as your agency",
+      "Rapid deployment \u2014 we build the AI system, you present it to your client",
+      "Flexible scope \u2014 chatbots, voice agents, automations, or full systems",
+      "Training included \u2014 we train your team to present and manage AI solutions",
+      "Ongoing support \u2014 direct Slack channel with our engineering team"
+    ],
+    "integrations": [
+      "Vapi",
+      "n8n",
+      "GoHighLevel",
+      "Make.com",
+      "Retell AI",
+      "Any client stack"
+    ],
+    "pricing": "White-label partnership from $1,500/project + revenue sharing available",
+    "timeline": "First client project delivered in 7\u201314 days",
+    "relatedIndustries": [],
+    "relatedAiSolutions": [],
+    "faqs": [
+      {
+        "q": "Will my clients know you're involved?",
+        "a": "No. Everything is delivered under your brand \u2014 proposals, deliverables, documentation, and ongoing reports. We're invisible to your clients."
+      },
+      {
+        "q": "What's the pricing structure?",
+        "a": "We charge you a wholesale build fee per project. You set your own client pricing. Most partners mark up 50\u2013100%. Volume discounts available."
+      },
+      {
+        "q": "How does ongoing management work?",
+        "a": "Two options: we manage the AI systems under your brand (you bill the client, we do the work), or we train your team to manage independently."
+      },
+      {
+        "q": "What if my client has a unique request?",
+        "a": "We handle custom builds. If it involves AI, automation, or integration \u2014 we've probably built it before. Scope calls are always free."
+      },
+      {
+        "q": "Do I need technical knowledge?",
+        "a": "No. We provide sales materials, demo scripts, and handle all technical delivery. You focus on client relationships and closing deals."
+      }
+    ]
+  }
+}

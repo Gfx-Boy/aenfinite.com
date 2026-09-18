@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Social Media Marketing Agency — Instagram, LinkedIn & TikTok [2026]",
   description: "✓ Strategic social media management, organic community growth, and paid social campaigns that build brand authority and convert followers into customers. Elevate your socials →",
   keywords: "social media marketing agency, instagram growth strategy, linkedin b2b marketing, tiktok advertising, social media management",
-  alternates: { canonical: "https://aenfinite.com/services/social-media-marketing/" },
+  alternates: { canonical: "https://aenfinite.com/services/social-media-marketing/", languages: {"x-default":"https://aenfinite.com/services/social-media-marketing/","en":"https://aenfinite.com/services/social-media-marketing/","es":"https://aenfinite.com/es/services/social-media-marketing/","fr":"https://aenfinite.com/fr/services/social-media-marketing/","de":"https://aenfinite.com/de/services/social-media-marketing/","it":"https://aenfinite.com/it/services/social-media-marketing/","ar":"https://aenfinite.com/ar/services/social-media-marketing/","pt":"https://aenfinite.com/pt/services/social-media-marketing/","zh":"https://aenfinite.com/zh/services/social-media-marketing/","hi":"https://aenfinite.com/hi/services/social-media-marketing/","nl":"https://aenfinite.com/nl/services/social-media-marketing/","ja":"https://aenfinite.com/ja/services/social-media-marketing/","ko":"https://aenfinite.com/ko/services/social-media-marketing/"} },
   openGraph: {"title": "Social Media Marketing Agency — Instagram, LinkedIn & TikTok [2026]","description": "✓ Strategic social media management, organic community growth, and paid social campaigns that build brand authority and convert followers into customers. Elevate your socials →","url":"https://aenfinite.com/services/social-media-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Social Media Marketing Services | Instagram, Facebook & TikTok Experts | Aenfinite","description":"Aenfinite delivers social media marketing services that grow your online presence on Instagram, Facebook, and TikTok through creative content, paid ads, and strategy.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
@@ -1902,6 +1902,19 @@ is the key to building brand awareness, driving engagement, and creating meaning
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -1958,7 +1971,7 @@ is the key to building brand awareness, driving engagement, and creating meaning
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

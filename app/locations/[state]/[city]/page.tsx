@@ -133,7 +133,7 @@ const DESCRIPTIONS = [
   (c: CityRec, st: string, tier: MarketTier) =>
     `Looking for an elite web design agency serving ${c.name}, ${st}? Aenfinite delivers custom Next.js websites, mobile Core Web Vitals, and 24/7 AI receptionists.`,
   (c: CityRec, st: string, tier: MarketTier) =>
-    `Engineering custom websites and autonomous AI voice systems for ${c.name} businesses. 4.9★ rated senior team with milestone billing and zero retainer lock-ins.`,
+    `Engineering custom websites and autonomous AI voice systems for ${c.name} businesses. Senior US team with milestone billing and zero retainer lock-ins.`,
   (c: CityRec, st: string, tier: MarketTier) =>
     `Fixed-price web development ($3k–$15k) and smart AI workflows ($1,500+) for ${c.name}, ${st} companies. Full source code handover with direct engineer communication.`,
 ];
@@ -635,13 +635,6 @@ export default async function CityPage(
           { '@type': 'State', name: st.state },
           { '@type': 'Country', name: 'United States' },
         ],
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '48',
-          bestRating: '5',
-          worstRating: '1',
-        },
         offers: {
           '@type': 'AggregateOffer',
           priceCurrency: 'USD',

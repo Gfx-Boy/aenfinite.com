@@ -83,6 +83,93 @@ export default function RootLayout({
         {/* Perf: skip layout/paint of below-fold blocks on these very large legacy pages */}
         <style dangerouslySetInnerHTML={{ __html: `.footer,.sitemap-footer,.aen-faq-block,.aen-reading,.aen-states-grid{content-visibility:auto;contain-intrinsic-size:auto 600px;}` }} />
 
+        {/* Global Navbar Logo Display System (Strict Single-Logo Enforcement Site-Wide) */}
+        <style dangerouslySetInnerHTML={{ __html: `
+          html, body {
+            background-color: #fff;
+          }
+          .topbar-logo {
+            display: flex !important;
+            align-items: center !important;
+            height: 28px !important;
+            min-width: 140px !important;
+            max-width: 160px !important;
+          }
+          .topbar-logo a {
+            position: relative !important;
+            display: inline-block !important;
+            height: 28px !important;
+            width: 140px !important;
+            min-width: 140px !important;
+            max-width: 140px !important;
+            line-height: 0 !important;
+            vertical-align: middle !important;
+          }
+          .topbar-logo .nav-logo {
+            position: absolute !important;
+            top: 0 !important;
+            left: 0 !important;
+            height: 28px !important;
+            width: auto !important;
+            max-width: 140px !important;
+            object-fit: contain !important;
+            object-position: left center !important;
+            transform-origin: left center !important;
+          }
+          /* Default state (top of page / non-scrolled light background): Show default dark logo, STRICTLY hide active white logo */
+          .topbar-logo .nav-logo-default {
+            display: block !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            z-index: 2 !important;
+          }
+          .topbar-logo .nav-logo-active {
+            display: none !important;
+            opacity: 0 !important;
+            visibility: hidden !important;
+            z-index: 1 !important;
+          }
+          /* Active / Scrolled state (dark background #000): Show active white logo, STRICTLY hide default dark logo */
+          .mainnav.active .topbar-logo .nav-logo-default,
+          .mainnav.always-active .topbar-logo .nav-logo-default {
+            display: none !important;
+            opacity: 0 !important;
+            visibility: hidden !important;
+            z-index: 1 !important;
+          }
+          .mainnav.active .topbar-logo .nav-logo-active,
+          .mainnav.always-active .topbar-logo .nav-logo-active {
+            display: block !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            z-index: 2 !important;
+          }
+          /* Prevent hover transitions from showing both logos or flipping to white logo on light background */
+          .mainnav:not(.active):not(.always-active) .topbar-logo .nav-logo-default,
+          .mainnav:not(.active):not(.always-active):hover .topbar-logo .nav-logo-default {
+            display: block !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+          }
+          .mainnav:not(.active):not(.always-active) .topbar-logo .nav-logo-active,
+          .mainnav:not(.active):not(.always-active):hover .topbar-logo .nav-logo-active {
+            display: none !important;
+            opacity: 0 !important;
+            visibility: hidden !important;
+          }
+          /* Topbar links color: black when at top of page, white when active */
+          .mainnav:not(.active):not(.always-active) .topnav-item a,
+          .mainnav:not(.active):not(.always-active) .topbar-social li a {
+            color: #000 !important;
+          }
+          .mainnav.active .topnav-item a,
+          .mainnav.always-active .topnav-item a,
+          .mainnav.active .topbar-social li a,
+          .mainnav.always-active .topbar-social li a {
+            color: #fff !important;
+          }
+        ` }} />
+
         {/* Critical CSS preloaded, then applied */}
         <link
           rel="preload"

@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
@@ -240,42 +240,44 @@ img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 15
 		
 		/* Container for logos to maintain position */
 		.topbar-logo a {
-			position: relative;
-			display: inline-block;
-			height: 28px;
-			min-width: 140px;
+			position: relative !important;
+			display: inline-block !important;
+			height: 28px !important;
+			width: 140px !important;
+			min-width: 140px !important;
+			max-width: 140px !important;
 		}
 		
-		/* Default state - show white logo, hide active logo */
+		/* Default state - show default dark logo, strictly hide active white logo */
 		.nav-logo-default {
-			display: block;
-			opacity: 1;
-			transform: scale(1);
-			z-index: 2;
+			display: block !important;
+			opacity: 1 !important;
+			visibility: visible !important;
+			z-index: 2 !important;
 		}
 		
 		.nav-logo-active {
-			display: block;
-			opacity: 0;
-			transform: scale(0.95);
-			z-index: 1;
+			display: none !important;
+			opacity: 0 !important;
+			visibility: hidden !important;
+			z-index: 1 !important;
 		}
 		
-		/* When navbar becomes active/dark - hide white logo, show blue logo */
+		/* When navbar becomes active/dark - hide default logo, show active logo */
 		.mainnav.active .nav-logo-default,
-		.mainnav.always-active .nav-logo-default,
-		.mainnav:hover .nav-logo-default {
-			opacity: 0;
-			transform: scale(0.95);
-			z-index: 1;
+		.mainnav.always-active .nav-logo-default {
+			display: none !important;
+			opacity: 0 !important;
+			visibility: hidden !important;
+			z-index: 1 !important;
 		}
 		
 		.mainnav.active .nav-logo-active,
-		.mainnav.always-active .nav-logo-active,
-		.mainnav:hover .nav-logo-active {
-			opacity: 1;
-			transform: scale(1.05);
-			z-index: 2;
+		.mainnav.always-active .nav-logo-active {
+			display: block !important;
+			opacity: 1 !important;
+			visibility: visible !important;
+			z-index: 2 !important;
 		}
 		
 		/* Center navigation and improve spacing */

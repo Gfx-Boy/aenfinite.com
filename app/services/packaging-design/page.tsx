@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Custom Product Packaging Design Agency — Retail Box & Labels [2026]",
   description: "✓ Eye-catching packaging and label design engineered for retail shelf appeal and unboxing experiences. Complete dielines, 3D mockups, and print-ready files. View packaging work →",
   keywords: "custom packaging design, product box design, retail label design, packaging design agency, 3D packaging mockup",
-  alternates: { canonical: "https://aenfinite.com/services/packaging-design/" },
+  alternates: { canonical: "https://aenfinite.com/services/packaging-design/", languages: {"x-default":"https://aenfinite.com/services/packaging-design/","en":"https://aenfinite.com/services/packaging-design/","es":"https://aenfinite.com/es/services/packaging-design/","fr":"https://aenfinite.com/fr/services/packaging-design/","de":"https://aenfinite.com/de/services/packaging-design/","it":"https://aenfinite.com/it/services/packaging-design/","ar":"https://aenfinite.com/ar/services/packaging-design/","pt":"https://aenfinite.com/pt/services/packaging-design/","zh":"https://aenfinite.com/zh/services/packaging-design/","hi":"https://aenfinite.com/hi/services/packaging-design/","nl":"https://aenfinite.com/nl/services/packaging-design/","ja":"https://aenfinite.com/ja/services/packaging-design/","ko":"https://aenfinite.com/ko/services/packaging-design/"} },
   openGraph: {"title": "Custom Product Packaging Design Agency — Retail Box & Labels [2026]","description": "✓ Eye-catching packaging and label design engineered for retail shelf appeal and unboxing experiences. Complete dielines, 3D mockups, and print-ready files. View packaging work →","url":"https://aenfinite.com/services/packaging-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Custom Packaging Design Services | Product Packaging & Box Design | Aenfinite","description":"Aenfinite crafts premium packaging designs that elevate your product and brand. From retail packaging to custom box designs, we create visuals that captivate.","images":["https://aenfinite.com/wp-content/themes/aenfinite.com/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
@@ -2144,6 +2144,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -2200,7 +2213,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

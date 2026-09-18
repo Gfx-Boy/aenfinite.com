@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Creative Graphic Design Services — Marketing & Brand Assets [2026]",
   description: "✓ High-impact graphic design for digital and print: pitch decks, brochures, social assets, and marketing collateral designed by senior creatives. Request graphic design →",
   keywords: "graphic design services, marketing collateral design, print design agency, digital graphic design, corporate brochure design",
-  alternates: { canonical: "https://aenfinite.com/services/graphic-design/" },
+  alternates: { canonical: "https://aenfinite.com/services/graphic-design/", languages: {"x-default":"https://aenfinite.com/services/graphic-design/","en":"https://aenfinite.com/services/graphic-design/","es":"https://aenfinite.com/es/services/graphic-design/","fr":"https://aenfinite.com/fr/services/graphic-design/","de":"https://aenfinite.com/de/services/graphic-design/","it":"https://aenfinite.com/it/services/graphic-design/","ar":"https://aenfinite.com/ar/services/graphic-design/","pt":"https://aenfinite.com/pt/services/graphic-design/","zh":"https://aenfinite.com/zh/services/graphic-design/","hi":"https://aenfinite.com/hi/services/graphic-design/","nl":"https://aenfinite.com/nl/services/graphic-design/","ja":"https://aenfinite.com/ja/services/graphic-design/","ko":"https://aenfinite.com/ko/services/graphic-design/"} },
   openGraph: {"title": "Creative Graphic Design Services — Marketing & Brand Assets [2026]","description": "✓ High-impact graphic design for digital and print: pitch decks, brochures, social assets, and marketing collateral designed by senior creatives. Request graphic design →","url":"https://aenfinite.com/services/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Professional Graphic Design Services | Print Design & Visual Communication | Aenfinite®","description":"Aenfinite® provides expert graphic design services, from print design and digital branding to full visual communication solutions.","images":["https://aenfinite.com/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
@@ -2100,6 +2100,19 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 								</div>
 							</div>
 							<div class="footer-col">
+								<div class="footer-col_caption">Pricing &amp; Tools</div>
+								<div class="footer-col_list">
+									<ul class="menuss">
+										<li><a href="/pricing/">Transparent Pricing</a></li>
+										<li><a href="/tools/website-cost-calculator/">Website Cost Calculator</a></li>
+										<li><a href="/tools/ai-receptionist-roi-calculator/">AI Receptionist ROI Calculator</a></li>
+										<li><a href="/compare/">Platform Comparisons</a></li>
+										<li><a href="/ai-solutions/">Industry AI Solutions</a></li>
+										<li><a href="/tools/">Developer &amp; AI Tools</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="footer-col">
 								<div class="footer-col_caption">Services</div>
 								<div class="footer-col_list">
 									<ul id="menu-footer-service-menu" class="menuss"><li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="/services/web-design/">Web Design</a></li>
@@ -2156,7 +2169,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style
 <li><a href="https://aenfinite.sydney" target="_blank" rel="noopener">Sydney, AU</a></li>
 							</ul>
 						</div>
-						<div class="footer-language-switcher" style="padding: 15px 0; border-top: 1px solid rgba(255,255,255,0.1);"><div class="footer-col_caption" style="margin-bottom: 10px;">Language</div><ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 12px; font-size:13px;"><li><a href="/" style="font-weight:bold;">English</a></li><li><a href="/es/">Espa&#241;ol</a></li><li><a href="/fr/">Fran&#231;ais</a></li><li><a href="/de/">Deutsch</a></li><li><a href="/it/">Italiano</a></li><li><a href="/pt/">Portugu&#234;s</a></li><li><a href="/nl/">Nederlands</a></li><li><a href="/ar/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li><li><a href="/zh/">&#20013;&#25991;</a></li><li><a href="/hi/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></li><li><a href="/ja/">&#26085;&#26412;&#35486;</a></li><li><a href="/ko/">&#54620;&#44397;&#50612;</a></li></ul></div>
+						
 						</div>
 
 					</div>

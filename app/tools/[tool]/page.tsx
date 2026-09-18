@@ -182,12 +182,6 @@ export default async function ToolPage({ params }: { params: Promise<{ tool: str
         serviceType: 'Technology Implementation & Consulting',
         description: item.metaDesc,
         provider: { '@id': 'https://aenfinite.com/#organization' },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '44',
-          bestRating: '5',
-        },
         url,
       },
       {

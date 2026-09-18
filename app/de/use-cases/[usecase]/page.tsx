@@ -232,13 +232,6 @@ export default async function UseCasePage({ params }: { params: Promise<{ usecas
           { '@type': 'Country', name: 'Canada' },
           { '@type': 'City', name: 'Denver' },
         ],
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '52',
-          bestRating: '5',
-          worstRating: '1',
-        },
         offers: {
           '@type': 'Offer',
           priceCurrency: 'USD',
